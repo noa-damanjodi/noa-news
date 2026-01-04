@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-01-03T20:41:09.825501Z",
+  "updated_at": "2026-01-04T08:54:24.037416Z",
   "count": 40,
   "items": [
     {
       "source": "Google News",
       "title": "NALCO Invites Applications for Graduate Engineer Trainee - PSU Connect",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd0ZlOE1zbzdHSG52bXlJcnZfVEZhQm14UkNVTl9ZSWtHbTdISVd5WGZEX1VEdFg5cHNMem9WV0VyQlMwdTJCWWpvV3FmZ3Y2OXlHRFVyZ1Y1M1AxLVhDaGVCU05teEt6dmozclYtWHU3dnpZYlJ1MkFtLWh5OUlYVUk0MU8xLTRLclZwOUZWODQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY1hRMWZNLU9tNXM3RjhFRHRMLUtNNmpFTHFwTUlvSlotVGhrbW12MmxjdTNaQmlOTW9XdkNLZnk3VmExeXpIUzRYWXRJNWN0UUJBajFUeHNOT2hIYS1tU3ZveUZVV0JwcWtuQW56WHEwZS1EUTYxTDRVOF95TFI2bTRyYmRTWElhTnFHZ1B3Tk4?oc=5",
       "date": "2026-01-03",
       "timestamp": "2026-01-03T12:13:40+00:00",
       "summary": "NALCO Invites Applications for Graduate Engineer Trainee&nbsp;&nbsp;PSU Connect"
@@ -63,7 +63,7 @@
       "title": "Mines Secy reviews NALCO’s growth plan - The Hans India",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYzNFM3hRSkhFVWlYTmlBeWRHT2wta1dhRC1EQjNvZVBMa3o5b3JBMlhvempzTHhFTUF3QV9VUDZwVUpjd2UtRjhxZUVqNi16eFBvLWR4bnFSQmg1MHlONWhUTTBERko1WFROU1pPUEpVckQ2NjAxX28xMl9tUHdYbU1NMkpjbVBLbHEtQTZJMG1VQdIBlwFBVV95cUxQOVlib2hHeS1TeG5hdUZMcUd0VHFqVk9HVGtpdTlUQWxvUUNFT3RMX2Y3WVpRQkVydGlLY0k4dV9CMDAtNk8wbXdPQV82NU5RRTBtR05wdHVRQjZfdnhTeUxUemw4SUstdDd6RU1STEhOQmhIV0J6M1JQd1pOUXZ1eGwtNEtXY0FIVDk0MVhtSy1Ma2EzbURN?oc=5",
       "date": "2025-12-25",
-      "timestamp": "2025-12-25T01:51:47+00:00",
+      "timestamp": "2025-12-25T08:00:00+00:00",
       "summary": "Mines Secy reviews NALCO’s growth plan&nbsp;&nbsp;The Hans India"
     },
     {
@@ -188,6 +188,14 @@
     },
     {
       "source": "Google News",
+      "title": "NALCO Awards Pottangi Bauxite Mine Development Contract to Dilip Buildcon - India Infoline",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUWoxYUpyMGRRNnBDZnNrdDdieU0tVXpWUk5nT1FLQXZ0elRsUC1qTGk5QVpBc2NkSjR2NFdRUjNpNnRVUTMxSklIYU5OU0JwdURlUGtxcUoxMU91YWJ4clJ3emZKTDZkQ0ZfNEJqU2RaUTZjaWNLbzZkQmxHV2lROEJ4cDJ2eDR1clVCMjhyczBodlN5RlQtbTZrcVFsS0R4MDBUZkJXOEZuUm5MWXlFYzMtNFNtdmdpMGc?oc=5",
+      "date": "2025-12-10",
+      "timestamp": "2025-12-10T08:00:00+00:00",
+      "summary": "NALCO Awards Pottangi Bauxite Mine Development Contract to Dilip Buildcon&nbsp;&nbsp;India Infoline"
+    },
+    {
+      "source": "Google News",
       "title": "NALCO Falls 0.75% After Approving 25-Year Bauxite Deal With Dilip Buildcon - Equitypandit",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQjhkZ1lyYjFXMThTcTltTktsdU1EVWRYWGxRRWlHY1JEcjZLQjVvN3ppSkhmTTMxWWRXZXV1LUs4djJDX2VxMm1DWWpUVEtXbXZrMXlxc21wU0R1cmdHRGdVSl9GOXg2N1JFcWhJU3hTY2Q4TWtvQ19ka1lEN1puaXlrR28tOVU3NEktMWJMUjRzUlZiX0ZRbUxBRFpKbEkxXzViNVZB?oc=5",
       "date": "2025-12-10",
@@ -212,22 +220,6 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Awards Major Contract for Pottangi Bauxite Mines Development - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObTNiN0NBV2hZWHN3cGJOdWpXT1ROWFUwclM0X2IzaklRNk1SejFaaElERC1fYnFOY2hoanc4YkRpVnZndDN2NGRZaXlNSlM1eENtaVNFS2tPdTVkU1ZuZmJGZ05GU1RxQy1JMlhVcTlmN2ttNlpVY0F6OWpVcGZxQTItMlZBbnpHSXJzYjFBWDdtdGpPb2IxNFdjcnJKTGhKLVMwcXA3R0ZNQ0t0VXVDZDMwOFZzSGxPSUE?oc=5",
-      "date": "2025-12-10",
-      "timestamp": "2025-12-10T08:00:00+00:00",
-      "summary": "NALCO Awards Major Contract for Pottangi Bauxite Mines Development&nbsp;&nbsp;TipRanks"
-    },
-    {
-      "source": "Google News",
-      "title": "Nalco awarded MDO contract for 50.32 billion rupees - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTGs5LXNmcEFOY3RvR1JBbGdEYU81VE14SGNYMm9peUNpUzBIbUhrY1hKalZkN3pHcWkzcVp5VlZNSGhrSGtZMFNoaFZTM1BZUFRzLXpNUUViaTVVNVloMDJtY2N4ejVvUHFCT2dVWllyNnktUWNzeWxoTERkemtnQ05QWVpQbkRRZGJkdjVXeTdZelVUV2toUnJvcUN1NERVOHNOQjJ3VQ?oc=5",
-      "date": "2025-12-10",
-      "timestamp": "2025-12-10T08:00:00+00:00",
-      "summary": "Nalco awarded MDO contract for 50.32 billion rupees&nbsp;&nbsp;marketscreener.com"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO board okays 25-year bauxite mining contract to Dilip Buildcon at ₹423/tonne - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdmFmSmY3ckFLMmE3TEpJY0U0LXp3VE5SNF9peHVZNEk3Y0xiMzExb0hCSnExS0xnaXpYdjRwSzBwbV9FUTBJbjRKcEhPcVoyR2NaZkRfZUdBSC1wSlUxc2k3U0dWd2IzclB6ZHJsdFZCcEFURUdBbWZ5VEhidFo3M2hQbFhqWVZJOGl6WGhYdTllVU9jSE16N3hrcTQtSVMwRWVIUk55a3hWUHozX2puV0VKY2dSOV9Fd1RuOTM3dm41VzhidXlqNE51ZV9kRW5IWTB5czV3QnJmbGM5VzlHY1MySUJIZ9IB6wFBVV95cUxQM3NZM2oyc1Y3VF9DVnJEV2dSd2RBdVlXRmJIaU50OFRCYkZtUjliR2hZaXNUd0pnZHhEMExMb0thYmtNUU8yVE9aSVJIdlozT3dGd0JfdERpMWhkenFpX2NhRTd3QTk2SVZHNHVOdENyTkR6SEJhNGlvZTBJQnBkMmQwVWYyNDFTM2U3MDFPZVZIM2Ytbk52RFRYeUU1cWJFZmRKNFp0aDcwVTNLWldLUGdpLUdDckNZQVdBSjR1N0xhUU5iVHRIRVplbVhUemdUX2RUQmFYXzNYLVoyWFJOdzNlYUJBanJ1bjVv?oc=5",
       "date": "2025-12-09",
@@ -237,7 +229,7 @@
     {
       "source": "Google News",
       "title": "NALCO’s Pottangi aim: starting up bauxite mines in Odisha by June 2026 - alcircle",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOek10ejVuN01nOVhhN2ZqcWY1ZzR6cnhmVkxYUFZBU21vU0NYWDVPTnMzT2stN19EQ1d0RWpMeTBXWUx3RmxmWHFjSG1HVW1mX0xEek1NcDRmaW1BNVhEQmNaaGRYNDRTMkNxUHJkcXh1ZjBwNmhycm9VOXFFaVhBMXQ2OHg4aHNVRWJyZXRNLUp5eXJ4aS1PRk4tN2VsSjdXQTc4V0R3RUU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPazh3YXlyRWZZV0FsbEktUXRmSFhMVzBFeHZybnlabTNTYWx5ZlBHemZWd3o4Yzl0NUlIUTVITTNlVnVvMFMzZXZfb0Jvb0VXNHFXZXk0cEZzWEFWRURvd1FienRkdXRCLVFLb3l2Q2ZPZ0dRQXpSV01kT1lYR3BqdDI3N01HTVBrZmw1TTJSc05ZMkxic2k3UGN6eXVPeVVxWk50Skp3NA?oc=5",
       "date": "2025-12-09",
       "timestamp": "2025-12-09T08:00:00+00:00",
       "summary": "NALCO’s Pottangi aim: starting up bauxite mines in Odisha by June 2026&nbsp;&nbsp;alcircle"
@@ -321,6 +313,14 @@
       "date": "2025-11-24",
       "timestamp": "2025-11-24T08:00:00+00:00",
       "summary": "South West Pinnacle Exploration Secures ₹11.78 Crore Bauxite Consultancy Contract from NALCO&nbsp;&nbsp;scanx.trade"
+    },
+    {
+      "source": "Google News",
+      "title": "ICICI Securities maintains ‘Hold’ rating on NALCO, sets price target at INR 246 per share - alcircle",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTDlkeVdJZExfR2N5ZjdnTTIyWVlRYm9SOFNmR3VUNjR2RnhyVFp5UVB3MkxkSWZ3OFJvNENkY05VVktrdU5UTWktNE56RzlaQjRBaElYTUZYNC05S1A4T2xDWlgwTUktM0RBOVFZNnpmTjBlcGN1LVVLd2NFTVh2c21IVEdhRC1tNzFQRlc5M1liZ0dJejljaDkyWEZPTmdENU1jQWgtODVyNmFvdFViOWJLWVBuclF5dlNCMWdGdw?oc=5",
+      "date": "2025-11-12",
+      "timestamp": "2025-11-12T08:00:00+00:00",
+      "summary": "ICICI Securities maintains ‘Hold’ rating on NALCO, sets price target at INR 246 per share&nbsp;&nbsp;alcircle"
     }
   ]
 }
