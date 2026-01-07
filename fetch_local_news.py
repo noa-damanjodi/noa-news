@@ -17,7 +17,7 @@ KEYWORDS = [
     "Rayagada Odisha"
 ]
 
-MAX_ITEMS = 25
+MAX_ITEMS = 500
 all_items = {}
 now = datetime.now(timezone.utc)
 
