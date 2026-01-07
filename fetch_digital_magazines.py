@@ -6,8 +6,8 @@ from pathlib import Path
 # ================= CONFIG =================
 MAG_FEEDS = {
     "SAFETY": [
-          "https://www.safetyandhealthmagazine.com/rss",
-          "https://ohsonline.com/rss-feeds.aspx"
+        "https://www.safetyandhealthmagazine.com/rss",
+        "https://ohsonline.com/rss-feeds.aspx"
     ],
     "ELECTRICAL": [
         "https://electricalindia.in/feed/"
@@ -16,16 +16,16 @@ MAG_FEEDS = {
         "https://www.mining-technology.com/feed/"
     ],
     "MECHANICAL": [
-          "https://www.manufacturingtodayindia.com/feed/",
-          "https://www.engineering.com/rss/"
+        "https://www.manufacturingtodayindia.com/feed/",
+        "https://www.engineering.com/rss/"
     ],
     "INSTRUMENTATION": [
         "https://www.instrumentation.co.in/feed/",
         "https://www.automationmag.com/feed/"
     ],
     "CIVIL": [
-          "https://www.theconstructor.org/feed/",
-          "https://www.constructionweekonline.in/feed/"
+        "https://www.theconstructor.org/feed/",
+        "https://www.constructionweekonline.in/feed/"
     ],
     "POWER": [
         "https://www.powerline.net.in/feed/"
@@ -35,28 +35,44 @@ MAG_FEEDS = {
     ]
 }
 
-OUTPUT = Path("json/digital_magazines.json")
+OUTPUT_DIR = Path("json/magazines")
 MAX_ITEMS = 10000
 # =========================================
 
 now = datetime.now(timezone.utc)
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-# 🔹 LOAD EXISTING DATA (APPEND MODE)
-if OUTPUT.exists():
-    with open(OUTPUT, "r", encoding="utf-8") as f:
-        existing_items = json.load(f).get("items", [])
-else:
-    existing_items = []
-
-# 🔹 DICTIONARY FOR DEDUPE (URL AS KEY)
-items = {item["url"]: item for item in existing_items}
-
-# 🔹 FETCH NEW DATA
+# 🔹 PROCESS EACH CATEGORY SEPARATELY
 for category, feeds in MAG_FEEDS.items():
+
+    output_file = OUTPUT_DIR / f"{category}.json"
+
+    # 🔹 LOAD EXISTING DATA (APPEND MODE PER CATEGORY)
+    if output_file.exists():
+        with open(output_file, "r", encoding="utf-8") as f:
+            existing_items = json.load(f).get("items", [])
+    else:
+        existing_items = []
+
+    # 🔹 DEDUPE USING URL
+    items = {item["url"]: item for item in existing_items}
+
     for url in feeds:
-        feed = feedparser.parse(url)
+        feed = feedparser.parse(
+            url,
+            request_headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+            }
+        )
+
+        if not feed.entries:
+            print(f"⚠ DEAD / EMPTY FEED: {category} → {url}")
+            continue
 
         for e in feed.entries:
+            if not hasattr(e, "link"):
+                continue
+
             link = e.link.strip()
 
             published = (
@@ -65,7 +81,6 @@ for category, feeds in MAG_FEEDS.items():
                 else now
             )
 
-            # 🔹 APPEND / UPDATE
             items[link] = {
                 "title": e.title.strip(),
                 "category": category,
@@ -75,24 +90,24 @@ for category, feeds in MAG_FEEDS.items():
                 "type": "magazine"
             }
 
-# 🔹 SORT + LIMIT TO 10,000
-final_items = sorted(
-    items.values(),
-    key=lambda x: x["date"],
-    reverse=True
-)[:MAX_ITEMS]
+    # 🔹 SORT + LIMIT
+    final_items = sorted(
+        items.values(),
+        key=lambda x: x["date"],
+        reverse=True
+    )[:MAX_ITEMS]
 
-# 🔹 WRITE JSON (SAFE OVERWRITE OF FILE, NOT DATA)
-OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-with open(OUTPUT, "w", encoding="utf-8") as f:
-    json.dump(
-        {
-            "items": final_items,
-            "last_updated_utc": now.isoformat()
-        },
-        f,
-        indent=2,
-        ensure_ascii=False
-    )
+    # 🔹 WRITE CATEGORY JSON
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(
+            {
+                "category": category,
+                "items": final_items,
+                "last_updated_utc": now.isoformat()
+            },
+            f,
+            indent=2,
+            ensure_ascii=False
+        )
 
-print(f"✅ Digital magazines updated: {len(final_items)} items")
+    print(f"✅ {category}: {len(final_items)} items written")
