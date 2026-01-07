@@ -13,6 +13,14 @@ MAG_FEEDS = {
     ],
     "INDUSTRY": [
         "https://www.mining-technology.com/feed/"
+    ],
+    "MECHANICAL": [
+        "https://www.engineeringnews.co.za/rss/mechanical-engineering",
+        "https://www.manufacturingtodayindia.com/feed/"
+    ],
+    "INSTRUMENTATION": [
+        "https://www.instrumentation.co.in/feed/",
+        "https://www.automationmag.com/feed/"
     ]
 }
 
