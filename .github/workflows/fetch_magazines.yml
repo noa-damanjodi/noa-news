@@ -1,0 +1,23 @@
+name: Fetch Digital Magazines
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # twice daily
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install feedparser
+      - run: python fetch_digital_magazines.py
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add json/digital_magazines.json
+          git commit -m "Auto update digital magazines" || echo "No changes"
+          git push
