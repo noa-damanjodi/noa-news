@@ -18,6 +18,6 @@ jobs:
       - run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add json/digital_magazines.json
-          git commit -m "Auto update digital magazines" || echo "No changes"
+          git add json/magazines/*.json
+          git commit -m "chore: update digital magazines" || echo "No changes"
           git push
