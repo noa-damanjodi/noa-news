@@ -21,6 +21,15 @@ MAG_FEEDS = {
     "INSTRUMENTATION": [
         "https://www.instrumentation.co.in/feed/",
         "https://www.automationmag.com/feed/"
+    ],
+    "CIVIL": [
+        "https://www.constructionworld.in/rss"
+    ],
+    "POWER": [
+        "https://www.powerline.net.in/feed/"
+    ],
+    "RENEWABLE": [
+        "https://www.renewableenergyworld.com/feed/"
     ]
 }
 
