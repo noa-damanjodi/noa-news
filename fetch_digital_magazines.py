@@ -6,7 +6,8 @@ from pathlib import Path
 # ================= CONFIG =================
 MAG_FEEDS = {
     "SAFETY": [
-        "https://www.dgms.gov.in/rss.xml"
+          "https://www.safetyandhealthmagazine.com/rss",
+          "https://ohsonline.com/rss-feeds.aspx"
     ],
     "ELECTRICAL": [
         "https://electricalindia.in/feed/"
@@ -15,15 +16,16 @@ MAG_FEEDS = {
         "https://www.mining-technology.com/feed/"
     ],
     "MECHANICAL": [
-        "https://www.engineeringnews.co.za/rss/mechanical-engineering",
-        "https://www.manufacturingtodayindia.com/feed/"
+          "https://www.manufacturingtodayindia.com/feed/",
+          "https://www.engineering.com/rss/"
     ],
     "INSTRUMENTATION": [
         "https://www.instrumentation.co.in/feed/",
         "https://www.automationmag.com/feed/"
     ],
     "CIVIL": [
-        "https://www.constructionworld.in/rss"
+          "https://www.theconstructor.org/feed/",
+          "https://www.constructionweekonline.in/feed/"
     ],
     "POWER": [
         "https://www.powerline.net.in/feed/"
