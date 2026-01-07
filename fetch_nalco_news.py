@@ -194,7 +194,7 @@ def main():
     all_items.sort(key=sort_key, reverse=True)
 
     # Limit total items
-    max_items = 40
+    max_items = 400
     all_items = all_items[:max_items]
 
     data = {
