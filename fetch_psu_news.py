@@ -38,7 +38,7 @@ OFFICIAL_RSS = {
     ]
 }
 
-MAX_ITEMS = 40
+MAX_ITEMS = 10000
 OUTPUT_FILE = Path("json/psu_news.json")
 # ----------------------------------------
 
