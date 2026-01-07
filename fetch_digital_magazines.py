@@ -42,19 +42,18 @@ MAX_ITEMS = 10000
 now = datetime.now(timezone.utc)
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-# 🔹 PROCESS EACH CATEGORY SEPARATELY
+# ================= CATEGORY FILES =================
 for category, feeds in MAG_FEEDS.items():
 
     output_file = OUTPUT_DIR / f"{category}.json"
 
-    # 🔹 LOAD EXISTING DATA (APPEND MODE PER CATEGORY)
+    # Load existing category data
     if output_file.exists():
         with open(output_file, "r", encoding="utf-8") as f:
             existing_items = json.load(f).get("items", [])
     else:
         existing_items = []
 
-    # 🔹 DEDUPE USING URL
     items = {item["url"]: item for item in existing_items}
 
     for url in feeds:
@@ -66,7 +65,7 @@ for category, feeds in MAG_FEEDS.items():
         )
 
         if not feed.entries:
-            print(f"⚠ DEAD / EMPTY FEED: {category} → {url}")
+            print(f"⚠ EMPTY FEED: {category} → {url}")
             continue
 
         for e in feed.entries:
@@ -74,7 +73,6 @@ for category, feeds in MAG_FEEDS.items():
                 continue
 
             link = e.link.strip()
-
             published = (
                 datetime(*e.published_parsed[:6], tzinfo=timezone.utc)
                 if hasattr(e, "published_parsed") and e.published_parsed
@@ -90,14 +88,12 @@ for category, feeds in MAG_FEEDS.items():
                 "type": "magazine"
             }
 
-    # 🔹 SORT + LIMIT
     final_items = sorted(
         items.values(),
         key=lambda x: x["date"],
         reverse=True
     )[:MAX_ITEMS]
 
-    # 🔹 WRITE CATEGORY JSON
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(
             {
@@ -110,4 +106,36 @@ for category, feeds in MAG_FEEDS.items():
             ensure_ascii=False
         )
 
-    print(f"✅ {category}: {len(final_items)} items written")
+    print(f"✅ {category}.json updated → {len(final_items)} items")
+
+# ================= ALL.json =================
+all_items = {}
+
+for category in MAG_FEEDS.keys():
+    cat_file = OUTPUT_DIR / f"{category}.json"
+    if not cat_file.exists():
+        continue
+
+    with open(cat_file, "r", encoding="utf-8") as f:
+        for item in json.load(f).get("items", []):
+            all_items[item["url"]] = item
+
+final_all = sorted(
+    all_items.values(),
+    key=lambda x: x["date"],
+    reverse=True
+)[:MAX_ITEMS]
+
+with open(OUTPUT_DIR / "ALL.json", "w", encoding="utf-8") as f:
+    json.dump(
+        {
+            "category": "ALL",
+            "items": final_all,
+            "last_updated_utc": now.isoformat()
+        },
+        f,
+        indent=2,
+        ensure_ascii=False
+    )
+
+print(f"⚡ ALL.json generated → {len(final_all)} items")
