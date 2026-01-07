@@ -1,0 +1,806 @@
+{
+  "category": "ALL",
+  "items": [
+    {
+      "title": "STMicroelectronics scales STM32 microprocessors",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-07T15:34:19+00:00",
+      "url": "https://www.automationmag.com/stmicroelectronics-scales-stm32-microprocessors/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Bentley expands asset analytics with Talon, Pointivo deals",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T14:36:26+00:00",
+      "url": "https://www.engineering.com/bentley-expands-asset-analytics-with-talon-pointivo-deals/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aurum submits mining licence applications for Boundiali project in Côte d’Ivoire",
+      "category": "INDUSTRY",
+      "date": "2026-01-07T14:28:36+00:00",
+      "url": "https://www.mining-technology.com/news/aurum-mining-licence-applications-boundiali-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC adds AI tech pack generation to FlexPLM",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T13:51:18+00:00",
+      "url": "https://www.engineering.com/ptc-adds-ai-tech-pack-generation-to-flexplm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Galantas signs agreement to acquire Chile’s Andacollo gold project",
+      "category": "INDUSTRY",
+      "date": "2026-01-07T13:28:38+00:00",
+      "url": "https://www.mining-technology.com/news/galantas-signs-agreement-to-acquire-chiles-andacollo-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "3D Systems expands aerospace and defense manufacturing capacity",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T12:56:55+00:00",
+      "url": "https://www.engineering.com/3d-systems-expands-aerospace-and-defense-manufacturing-capacity/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and NVIDIA expand partnership on industrial AI",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T11:09:00+00:00",
+      "url": "https://www.engineering.com/siemens-and-nvidia-expand-partnership-on-industrial-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Viridis receives LoS for Brazil’s Colossus Rare Earths project",
+      "category": "INDUSTRY",
+      "date": "2026-01-07T10:38:20+00:00",
+      "url": "https://www.mining-technology.com/news/viridis-receives-los-colossus-rare-earths/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA announces Alpamayo family of open-source AI models and tools",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T10:36:00+00:00",
+      "url": "https://www.engineering.com/nvidia-announces-alpamayo-family-of-open-source-ai-models-and-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Autolink partners with AMD on vehicle domain controllers and AI",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T10:01:00+00:00",
+      "url": "https://www.engineering.com/autolink-partners-with-amd-on-vehicle-domain-controllers-and-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lenovo unveils AI Cloud Gigafactory with NVIDIA at CES 2026",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T09:15:00+00:00",
+      "url": "https://www.engineering.com/lenovo-unveils-ai-cloud-gigafactory-with-nvidia-at-ces-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Autolink and ReinOCS partner on Deep Fusion EEA architecture",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T09:08:00+00:00",
+      "url": "https://www.engineering.com/autolink-and-reinocs-partner-on-deep-fusion-eea-architecture/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence Minerals secures preliminary licence for Amapá Mine in Brazil",
+      "category": "INDUSTRY",
+      "date": "2026-01-07T09:07:12+00:00",
+      "url": "https://www.mining-technology.com/news/cadence-minerals-preliminary-licence-amapa-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Aura begins early-stage activities at Era Dorada project in Guatemala",
+      "category": "INDUSTRY",
+      "date": "2026-01-07T08:52:15+00:00",
+      "url": "https://www.mining-technology.com/news/aura-early-stage-activities-era-dorada/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ProLogium partners on 24V solid-state battery for construction machines",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T08:44:00+00:00",
+      "url": "https://www.engineering.com/prologium-partners-on-24v-solid-state-battery-for-construction-machines/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Juniper Green Energy secures debt financing of Rs 20.39 billion for renewable projects",
+      "category": "POWER",
+      "date": "2026-01-07T05:48:10+00:00",
+      "url": "https://powerline.net.in/2026/01/07/juniper-green-energy-secures-debt-financing-of-rs-20-39-billion-for-renewable-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Waaree Energy Storage Solutions raises Rs 10.03 billion for 20 GWh lithium-ion cell manufacturing",
+      "category": "POWER",
+      "date": "2026-01-07T05:47:01+00:00",
+      "url": "https://powerline.net.in/2026/01/07/waaree-energy-storage-solutions-raises-rs-10-03-billion-for-20-gwh-lithium-ion-cell-manufacturing/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Diamond Power Infrastructure receives LoI from L&T for power cable supply",
+      "category": "POWER",
+      "date": "2026-01-07T05:45:36+00:00",
+      "url": "https://powerline.net.in/2026/01/07/diamond-power-infrastructure-receives-loi-from-lt-for-power-cable-supply/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Sun Drops Energia secures LoI for 445 MW/890 MWh standalone BESS",
+      "category": "POWER",
+      "date": "2026-01-07T05:44:41+00:00",
+      "url": "https://powerline.net.in/2026/01/07/sun-drops-energia-secures-loi-for-445-mw-890-mwh-standalone-bess/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Delta Electronics India to supply 110 MW of power conditioning systems for BESS projects",
+      "category": "POWER",
+      "date": "2026-01-07T05:43:48+00:00",
+      "url": "https://powerline.net.in/2026/01/07/delta-electronics-india-to-supply-110-mw-of-power-conditioning-systems-for-bess-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "SP Power Assets awards substation works contract to Willowglen in Singapore",
+      "category": "POWER",
+      "date": "2026-01-07T05:42:53+00:00",
+      "url": "https://powerline.net.in/2026/01/07/sp-power-assets-awards-substation-works-contract-to-willowglen-in-singapore/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Morocco’s ONEE commissions 400 kV Sidi Bennour–Laawamer transmission line",
+      "category": "POWER",
+      "date": "2026-01-07T05:41:35+00:00",
+      "url": "https://powerline.net.in/2026/01/07/moroccos-onee-commissions-400-kv-sidi-bennour-laawamer-transmission-line/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "December Issue 2025",
+      "category": "POWER",
+      "date": "2026-01-07T05:35:10+00:00",
+      "url": "https://powerline.net.in/2026/01/07/december-issue-2025/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and Nvidia building next-gen ‘industrial AI operating system’",
+      "category": "MECHANICAL",
+      "date": "2026-01-06T22:10:06+00:00",
+      "url": "https://www.engineering.com/siemens-and-nvidia-building-next-gen-industrial-ai-operating-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "EPA funding salvaged in US Congress spending bill",
+      "category": "RENEWABLE",
+      "date": "2026-01-06T20:38:40+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/epa-funding-salvaged-in-us-congress-spending-bill/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "RI, CT attorneys general move to join forces with Revolution Wind developers in case against feds",
+      "category": "RENEWABLE",
+      "date": "2026-01-06T19:43:00+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/offshore/ri-ct-attorneys-general-move-to-join-forces-with-revolution-wind-developers-in-case-against-feds/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Delivering cyber-secured machines",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-06T18:01:42+00:00",
+      "url": "https://www.automationmag.com/delivering-cyber-secured-machines/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Application window open for Advanced Manufacturing and Innovation Competitiveness Stream in Ontario, closes February 3",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-06T17:37:02+00:00",
+      "url": "https://www.automationmag.com/application-window-open-for-advanced-manufacturing-and-innovation-competitiveness-stream-in-ontario-closes-february-3/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA introduces the Rubin Platform, the next generation of AI, at CES 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-06T16:51:12+00:00",
+      "url": "https://www.automationmag.com/nvidia-introduces-the-rubin-platform-the-next-generation-of-ai-at-ces-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "NB Corporation of America launches TOP BALL Ultimate Slide System",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-06T15:52:29+00:00",
+      "url": "https://www.automationmag.com/nb-corporation-of-america-launches-top-ball-ultimate-slide-system/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Endress+Hauser names Eliza Vrbanac managing director",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-06T15:01:30+00:00",
+      "url": "https://www.automationmag.com/endresshauser-names-eliza-vrbanac-managing-director/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Magnum Mining advances REE drilling at Palmares and Azimuth in Brazil",
+      "category": "INDUSTRY",
+      "date": "2026-01-06T14:10:55+00:00",
+      "url": "https://www.mining-technology.com/news/magnum-mining-advances-ree-drilling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "MinRex to acquire Electrum shares in gold-copper merger",
+      "category": "INDUSTRY",
+      "date": "2026-01-06T13:57:57+00:00",
+      "url": "https://www.mining-technology.com/news/minrex-to-acquire-electrum-shares-in-gold-copper-merger/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ReElement and TEP partner for global rare earth refining capacity expansion",
+      "category": "INDUSTRY",
+      "date": "2026-01-06T11:29:28+00:00",
+      "url": "https://www.mining-technology.com/news/reelement-and-tep-partner-for-global-rare-earth-refining-capacity-expansion/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Richmond Hill appoints Critical Discoveries for Martello Gold Project work",
+      "category": "INDUSTRY",
+      "date": "2026-01-06T09:46:35+00:00",
+      "url": "https://www.mining-technology.com/news/richmond-hill-appoints-critical-discoveries/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Fortitude Gold obtains all permits for Scarlet South mine in US",
+      "category": "INDUSTRY",
+      "date": "2026-01-06T09:43:56+00:00",
+      "url": "https://www.mining-technology.com/news/fortitude-gold-obtains-permits-scarlet-south/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Ministry of Power notifies draft Electricity (Amendment) Rules, 2026",
+      "category": "POWER",
+      "date": "2026-01-06T06:08:28+00:00",
+      "url": "https://powerline.net.in/2026/01/06/ministry-of-power-notifies-draft-electricity-amendment-rules-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bajel Projects commissions 400 kV Ananthpuram–Kurnool transmission line in Andhra Pradesh",
+      "category": "POWER",
+      "date": "2026-01-06T06:07:26+00:00",
+      "url": "https://powerline.net.in/2026/01/06/bajel-projects-commissions-400-kv-ananthpuram-kurnool-transmission-line-in-andhra-pradesh/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Door Positions That Control Air Circulation",
+      "category": "CIVIL",
+      "date": "2026-01-06T05:15:46+00:00",
+      "url": "https://theconstructor.org/architecture/door-positions-control-air-circulation/579240/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "Raychem RPG to Feature Solar Connectivity Solutions at Bharat Renewable Expo 2026",
+      "category": "ELECTRICAL",
+      "date": "2026-01-06T05:13:16+00:00",
+      "url": "https://www.electricalindia.in/raychem-rpg-to-feature-solar-connectivity-solutions-at-bharat-renewable-expo-2026/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Can new hydro development help Tajikistan’s VMKB province meet rising demand?",
+      "category": "RENEWABLE",
+      "date": "2026-01-05T21:24:02+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/can-new-hydro-development-help-tajikistans-vmkb-province-meet-rising-demand/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Feds demand compromise on Colorado River while states flounder despite water shortage",
+      "category": "RENEWABLE",
+      "date": "2026-01-05T21:11:55+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/feds-demand-compromise-on-colorado-river-while-states-flounder-despite-water-shortage/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Several counties drop out of challenge to $340 million Conowingo Dam settlement",
+      "category": "RENEWABLE",
+      "date": "2026-01-05T18:27:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/several-counties-drop-out-of-challenge-to-340-million-conowingo-dam-settlement/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Ambarella introducing CV7 edge AI vision system-on-chip",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-05T17:07:53+00:00",
+      "url": "https://www.automationmag.com/ambarella-introducing-cv7-edge-ai-vision-system-on-chip/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Electromate introduces maxon HEJ 90 to product offering",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-05T16:04:28+00:00",
+      "url": "https://www.automationmag.com/electromate-introduces-maxon-hej-90-to-product-offering/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "December S&P Global Canada Manufacturing PMI shows declining manufacturing sector performance",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-02T15:40:18+00:00",
+      "url": "https://www.automationmag.com/december-sp-global-canada-manufacturing-pmi-shows-declining-manufacturing-sector-performance/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Linamar closes acquisition of German iron casting plant",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-02T14:35:05+00:00",
+      "url": "https://www.automationmag.com/linamar-closes-acquisition-of-german-iron-casting-plant/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Connecting the next decade of utility innovation with Dr. Sasan Mokhtari",
+      "category": "RENEWABLE",
+      "date": "2026-01-01T16:53:52+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/connecting-the-next-decade-of-utility-innovation-with-dr-sasan-mokhtari/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "CPX 200 – Unleash the Expert!",
+      "category": "ELECTRICAL",
+      "date": "2025-12-31T06:18:07+00:00",
+      "url": "https://www.electricalindia.in/cpx-200-unleash-the-expert/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Choosing the Right Floor in a High-Rise Building",
+      "category": "CIVIL",
+      "date": "2025-12-30T04:59:23+00:00",
+      "url": "https://theconstructor.org/architecture/choosing-right-floor-high-rise-building/579199/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "Ventilation in Bathrooms Without Exhaust Fans",
+      "category": "CIVIL",
+      "date": "2025-12-29T09:09:58+00:00",
+      "url": "https://theconstructor.org/building/ventilation-bathrooms-exhaust-fans/579192/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "Why Bathrooms Leak Despite Waterproofing?",
+      "category": "CIVIL",
+      "date": "2025-12-28T15:46:49+00:00",
+      "url": "https://theconstructor.org/building/bathrooms-leak-despite-waterproofing/579179/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "Addressing the Triple Planetary Crisis",
+      "category": "ELECTRICAL",
+      "date": "2025-12-28T05:55:44+00:00",
+      "url": "https://www.electricalindia.in/addressing-the-triple-planetary-crisis/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "0BB Technology: The Next Evolution in Advanced PV Modules",
+      "category": "ELECTRICAL",
+      "date": "2025-12-28T05:53:52+00:00",
+      "url": "https://www.electricalindia.in/0bb-technology-the-next-evolution-in-advanced-pv-modules/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Advanced Partial Discharge Filtering Technology for a Smarter HV Lab",
+      "category": "ELECTRICAL",
+      "date": "2025-12-28T05:48:59+00:00",
+      "url": "https://www.electricalindia.in/advanced-partial-discharge-filtering-technology-for-a-smarter-hv-lab/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ISRAELI Battery Refurbishment Leadership in India since 2017",
+      "category": "ELECTRICAL",
+      "date": "2025-12-28T05:38:17+00:00",
+      "url": "https://www.electricalindia.in/israeli-battery-refurbishment-leadership-in-india-since-2017/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Battery Electric Vehicles",
+      "category": "ELECTRICAL",
+      "date": "2025-12-28T05:19:09+00:00",
+      "url": "https://www.electricalindia.in/battery-electric-vehicles/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Affordability becomes a priority across the utility industry in 2025",
+      "category": "RENEWABLE",
+      "date": "2025-12-26T15:23:35+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/affordability-priority-utility-industry-2025/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Temperature-Induced Stress Cycles in Buildings",
+      "category": "CIVIL",
+      "date": "2025-12-25T09:00:10+00:00",
+      "url": "https://theconstructor.org/building/temperature-induced-stress-cycles-buildings/579141/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "“We’re aligning with major infrastructure projects…”",
+      "category": "ELECTRICAL",
+      "date": "2025-12-25T06:45:22+00:00",
+      "url": "https://www.electricalindia.in/were-aligning-with-major-infrastructure-projects/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "“Your trusted EPC Solution provider committed to build a sustainable future through technology & innovation”",
+      "category": "ELECTRICAL",
+      "date": "2025-12-25T06:32:26+00:00",
+      "url": "https://www.electricalindia.in/your-trusted-epc-solution-provider-committed-to-build-a-sustainable-future-through-technology-innovation/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "APAR Industries Unveils “APAR Shakti” Green Wire — A New Benchmark in Safety, Sustainability, and Trust",
+      "category": "ELECTRICAL",
+      "date": "2025-12-25T06:21:03+00:00",
+      "url": "https://www.electricalindia.in/apar-industries-unveils-apar-shakti-green-wire-a-new-benchmark-in-safety-sustainability-and-trust/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Thermography That is Smart, Networked  and Efficient",
+      "category": "ELECTRICAL",
+      "date": "2025-12-25T05:11:55+00:00",
+      "url": "https://www.electricalindia.in/thermography-that-is-smart-networked-and-efficient/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Honda’s Plans for the Second Half of 2020s",
+      "category": "ELECTRICAL",
+      "date": "2025-12-25T05:05:17+00:00",
+      "url": "https://www.electricalindia.in/hondas-plans-for-the-second-half-of-2020s/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "IFS set to acquire warehouse management software company Softeon",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-23T15:19:05+00:00",
+      "url": "https://www.automationmag.com/ifs-set-to-acquire-warehouse-management-software-company-softeon/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Statistics Canada says real gross domestic product fell 0.3 per cent in October",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-23T15:16:11+00:00",
+      "url": "https://www.automationmag.com/statistics-canada-says-real-gross-domestic-product-fell-0-3-per-cent-in-october/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "A new era of utility wildfire defense is defined by a shift from reactive maintenance to proactive risk mitigation",
+      "category": "RENEWABLE",
+      "date": "2025-12-23T11:15:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/a-new-era-of-utility-wildfire-defense-is-defined-by-a-shift-from-reactive-maintenance-to-proactive-risk-mitigation/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Why Potholes Reappear at the Same Spots?",
+      "category": "CIVIL",
+      "date": "2025-12-23T07:18:14+00:00",
+      "url": "https://theconstructor.org/transportation/potholes-reappear-same-spots/579136/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "Trump administration suspends 5 wind projects off the East Coast",
+      "category": "RENEWABLE",
+      "date": "2025-12-22T20:02:53+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/offshore/trump-administration-suspends-5-wind-projects-off-the-east-coast/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Managing energy trading risk while delivering water in the desert with SNWA’s Mike Slattery",
+      "category": "RENEWABLE",
+      "date": "2025-12-22T19:17:32+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/managing-energy-trading-risk-while-delivering-water-in-the-desert-with-snwas-mike-slattery/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Industrial wireless: Trusted wireless 2.0 Radio line for material handling by Phoenix Contact",
+      "category": "ELECTRICAL",
+      "date": "2025-12-22T06:43:15+00:00",
+      "url": "https://www.electricalindia.in/industrial-wireless-trusted-wireless-2-0-radio-line-for-material-handling-by-phoenix-contact/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "“Cable Accessories That Heal, Think, and Save You Millions of Rupees”",
+      "category": "ELECTRICAL",
+      "date": "2025-12-22T06:39:13+00:00",
+      "url": "https://www.electricalindia.in/cable-accessories-that-heal-think-and-save-you-millions-of-rupees/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "“We value the trust our customers place in us…”",
+      "category": "ELECTRICAL",
+      "date": "2025-12-22T06:01:05+00:00",
+      "url": "https://www.electricalindia.in/we-value-the-trust-our-customers-place-in-us/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Raychem RPG Sets a New Benchmark in Converter Duty Transformer",
+      "category": "ELECTRICAL",
+      "date": "2025-12-22T06:00:58+00:00",
+      "url": "https://www.electricalindia.in/raychem-rpg-sets-a-new-benchmark-in-converter-duty-transformer/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "How Seasonal Groundwater Movement Affects Foundations?",
+      "category": "CIVIL",
+      "date": "2025-12-22T05:36:31+00:00",
+      "url": "https://theconstructor.org/water-resources/seasonal-groundwater-movement-affects-foundations/579120/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "Difference Between Structural Safety and Structural Comfort",
+      "category": "CIVIL",
+      "date": "2025-12-20T14:49:29+00:00",
+      "url": "https://theconstructor.org/structural-engg/difference-structural-safety-comfort/579116/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "An Overview of the Indian Power Sector",
+      "category": "ELECTRICAL",
+      "date": "2025-12-20T06:31:14+00:00",
+      "url": "https://www.electricalindia.in/an-overview-of-the-indian-power-sector/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "RWE Modernises a Wind Farm",
+      "category": "ELECTRICAL",
+      "date": "2025-12-20T06:29:09+00:00",
+      "url": "https://www.electricalindia.in/rwe-modernises-a-wind-farm/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "A Promising Future Despite Current Obstacles",
+      "category": "ELECTRICAL",
+      "date": "2025-12-20T06:25:35+00:00",
+      "url": "https://www.electricalindia.in/a-promising-future-despite-current-obstacles/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "What is Power Generation?",
+      "category": "ELECTRICAL",
+      "date": "2025-12-20T03:42:15+00:00",
+      "url": "https://www.electricalindia.in/what-is-power-generation/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ATS announces Doug Wright as chief executive officer",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-19T14:48:51+00:00",
+      "url": "https://www.automationmag.com/ats-announces-doug-wright-as-chief-executive-officer/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Moticont releases vacuum compatible, compact linear voice coil servo motor",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-18T20:21:14+00:00",
+      "url": "https://www.automationmag.com/moticont-releases-vacuum-compatible-compact-linear-voice-coil-servo-motor/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Government of Canada supports the growth of three York region companies",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-18T17:08:55+00:00",
+      "url": "https://www.automationmag.com/government-of-canada-supports-the-growth-of-three-york-region-companies/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "FedNor invests nearly $4.93 million to support economic development, manufacturing and more in Northern Ontario",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-18T16:43:01+00:00",
+      "url": "https://www.automationmag.com/fednor-invests-nearly-4-93-million-to-support-economic-development-manufacturing-and-more-in-northern-ontario/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Manufacturing AUTOMATION’s Top 10 Stories of 2025",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-17T19:00:12+00:00",
+      "url": "https://www.automationmag.com/manufacturing-automations-top-10-stories-of-2025/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "OMRON Robotics and Safety Technologies expands and upgrades TM S Series",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-17T16:22:24+00:00",
+      "url": "https://www.automationmag.com/omron-robotics-and-safety-technologies-expands-and-upgrades-tm-s-series/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "e-con Systems launching NVIDIA Jetson-powered AI Compute Box – Darsi Pro at CES 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-17T15:22:22+00:00",
+      "url": "https://www.automationmag.com/e-con-systems-launching-nvidia-jetson-powered-ai-compute-box-darsi-pro-at-ces-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Inbolt unveils human-like bin picking solution powered by on-arm AI vision",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-16T17:14:48+00:00",
+      "url": "https://www.automationmag.com/inbolt-unveils-human-like-bin-picking-solution-powered-by-on-arm-ai-vision/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Only 37 per cent of U.S. manufacturers have significant or full automation in place, Vention report finds",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-16T15:27:19+00:00",
+      "url": "https://www.automationmag.com/only-37-per-cent-of-u-s-manufacturers-have-significant-or-full-automation-in-place-vention-report-finds/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Agentic AI global race being led by U.S. and China",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-15T18:29:25+00:00",
+      "url": "https://www.automationmag.com/agentic-ai-global-race-being-led-by-u-s-and-china/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Initial list of Centre Stage speakers announced for Hannover Messe 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-15T16:24:17+00:00",
+      "url": "https://www.automationmag.com/initial-list-of-centre-stage-speakers-announced-for-hannover-messe-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Ontario taking next steps to unlock free trade within Canada",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-15T16:04:53+00:00",
+      "url": "https://www.automationmag.com/ontario-taking-next-steps-to-unlock-free-trade-within-canada/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Festo releases CMMT-AS-S3 servo drive series",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-15T15:50:51+00:00",
+      "url": "https://www.automationmag.com/festo-releases-cmmt-as-s3-servo-drive-series/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Control goes to code",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-11T21:04:49+00:00",
+      "url": "https://www.automationmag.com/control-goes-to-code/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Carlo Gavazzi releases new series of 3-Phase Voltage Monitoring Relays",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-10T18:19:08+00:00",
+      "url": "https://www.automationmag.com/carlo-gavazzi-releases-new-series-of-3-phase-voltage-monitoring-relays/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "INCIT names Ryan Kershaw as new regional ambassador for Canada",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-10T16:22:49+00:00",
+      "url": "https://www.automationmag.com/incit-names-ryan-kershaw-as-new-regional-ambassador-for-canada/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Canada and Germany advance digital alliance, emphasize physical and industrial AI",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-10T15:23:49+00:00",
+      "url": "https://www.automationmag.com/canada-and-germany-advance-digital-alliance-emphasize-physical-and-industrial-ai/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "From the Editor: Musings from event season",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-09T15:51:54+00:00",
+      "url": "https://www.automationmag.com/from-the-editor-musings-from-event-season/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB and E.ON partner to accelerate energy efficiency in industrial and commercial sectors",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-09T15:43:53+00:00",
+      "url": "https://www.automationmag.com/abb-and-e-on-partner-to-accelerate-energy-efficiency-in-industrial-and-commercial-sectors/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "The Ethos of innovation",
+      "category": "INSTRUMENTATION",
+      "date": "2025-12-09T15:02:43+00:00",
+      "url": "https://www.automationmag.com/the-ethos-of-innovation/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    }
+  ],
+  "last_updated_utc": "2026-01-07T17:56:00.550760+00:00"
+}
