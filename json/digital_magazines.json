@@ -9,11 +9,27 @@
       "type": "magazine"
     },
     {
+      "title": "Bentley expands asset analytics with Talon, Pointivo deals",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T14:36:26+00:00",
+      "url": "https://www.engineering.com/bentley-expands-asset-analytics-with-talon-pointivo-deals/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Aurum submits mining licence applications for Boundiali project in Côte d’Ivoire",
       "category": "INDUSTRY",
       "date": "2026-01-07T14:28:36+00:00",
       "url": "https://www.mining-technology.com/news/aurum-mining-licence-applications-boundiali-project/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC adds AI tech pack generation to FlexPLM",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T13:51:18+00:00",
+      "url": "https://www.engineering.com/ptc-adds-ai-tech-pack-generation-to-flexplm/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -25,11 +41,59 @@
       "type": "magazine"
     },
     {
+      "title": "3D Systems expands aerospace and defense manufacturing capacity",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T12:56:55+00:00",
+      "url": "https://www.engineering.com/3d-systems-expands-aerospace-and-defense-manufacturing-capacity/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and NVIDIA expand partnership on industrial AI",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T11:09:00+00:00",
+      "url": "https://www.engineering.com/siemens-and-nvidia-expand-partnership-on-industrial-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Viridis receives LoS for Brazil’s Colossus Rare Earths project",
       "category": "INDUSTRY",
       "date": "2026-01-07T10:38:20+00:00",
       "url": "https://www.mining-technology.com/news/viridis-receives-los-colossus-rare-earths/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA announces Alpamayo family of open-source AI models and tools",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T10:36:00+00:00",
+      "url": "https://www.engineering.com/nvidia-announces-alpamayo-family-of-open-source-ai-models-and-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Autolink partners with AMD on vehicle domain controllers and AI",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T10:01:00+00:00",
+      "url": "https://www.engineering.com/autolink-partners-with-amd-on-vehicle-domain-controllers-and-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lenovo unveils AI Cloud Gigafactory with NVIDIA at CES 2026",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T09:15:00+00:00",
+      "url": "https://www.engineering.com/lenovo-unveils-ai-cloud-gigafactory-with-nvidia-at-ces-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Autolink and ReinOCS partner on Deep Fusion EEA architecture",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T09:08:00+00:00",
+      "url": "https://www.engineering.com/autolink-and-reinocs-partner-on-deep-fusion-eea-architecture/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -46,6 +110,14 @@
       "date": "2026-01-07T08:52:15+00:00",
       "url": "https://www.mining-technology.com/news/aura-early-stage-activities-era-dorada/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ProLogium partners on 24V solid-state battery for construction machines",
+      "category": "MECHANICAL",
+      "date": "2026-01-07T08:44:00+00:00",
+      "url": "https://www.engineering.com/prologium-partners-on-24v-solid-state-battery-for-construction-machines/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -110,6 +182,14 @@
       "date": "2026-01-07T05:35:10+00:00",
       "url": "https://powerline.net.in/2026/01/07/december-issue-2025/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and Nvidia building next-gen ‘industrial AI operating system’",
+      "category": "MECHANICAL",
+      "date": "2026-01-06T22:10:06+00:00",
+      "url": "https://www.engineering.com/siemens-and-nvidia-building-next-gen-industrial-ai-operating-system/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -225,6 +305,14 @@
       "type": "magazine"
     },
     {
+      "title": "Door Positions That Control Air Circulation",
+      "category": "CIVIL",
+      "date": "2026-01-06T05:15:46+00:00",
+      "url": "https://theconstructor.org/architecture/door-positions-control-air-circulation/579240/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
       "title": "Raychem RPG to Feature Solar Connectivity Solutions at Bharat Renewable Expo 2026",
       "category": "ELECTRICAL",
       "date": "2026-01-06T05:13:16+00:00",
@@ -313,6 +401,30 @@
       "type": "magazine"
     },
     {
+      "title": "Choosing the Right Floor in a High-Rise Building",
+      "category": "CIVIL",
+      "date": "2025-12-30T04:59:23+00:00",
+      "url": "https://theconstructor.org/architecture/choosing-right-floor-high-rise-building/579199/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "Ventilation in Bathrooms Without Exhaust Fans",
+      "category": "CIVIL",
+      "date": "2025-12-29T09:09:58+00:00",
+      "url": "https://theconstructor.org/building/ventilation-bathrooms-exhaust-fans/579192/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "Why Bathrooms Leak Despite Waterproofing?",
+      "category": "CIVIL",
+      "date": "2025-12-28T15:46:49+00:00",
+      "url": "https://theconstructor.org/building/bathrooms-leak-despite-waterproofing/579179/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
       "title": "Addressing the Triple Planetary Crisis",
       "category": "ELECTRICAL",
       "date": "2025-12-28T05:55:44+00:00",
@@ -358,6 +470,14 @@
       "date": "2025-12-26T15:23:35+00:00",
       "url": "https://www.renewableenergyworld.com/power-grid/affordability-priority-utility-industry-2025/",
       "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Temperature-Induced Stress Cycles in Buildings",
+      "category": "CIVIL",
+      "date": "2025-12-25T09:00:10+00:00",
+      "url": "https://theconstructor.org/building/temperature-induced-stress-cycles-buildings/579141/",
+      "source": "theconstructor.org",
       "type": "magazine"
     },
     {
@@ -425,6 +545,14 @@
       "type": "magazine"
     },
     {
+      "title": "Why Potholes Reappear at the Same Spots?",
+      "category": "CIVIL",
+      "date": "2025-12-23T07:18:14+00:00",
+      "url": "https://theconstructor.org/transportation/potholes-reappear-same-spots/579136/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
       "title": "Trump administration suspends 5 wind projects off the East Coast",
       "category": "RENEWABLE",
       "date": "2025-12-22T20:02:53+00:00",
@@ -470,6 +598,22 @@
       "date": "2025-12-22T06:00:58+00:00",
       "url": "https://www.electricalindia.in/raychem-rpg-sets-a-new-benchmark-in-converter-duty-transformer/",
       "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "How Seasonal Groundwater Movement Affects Foundations?",
+      "category": "CIVIL",
+      "date": "2025-12-22T05:36:31+00:00",
+      "url": "https://theconstructor.org/water-resources/seasonal-groundwater-movement-affects-foundations/579120/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "Difference Between Structural Safety and Structural Comfort",
+      "category": "CIVIL",
+      "date": "2025-12-20T14:49:29+00:00",
+      "url": "https://theconstructor.org/structural-engg/difference-structural-safety-comfort/579116/",
+      "source": "theconstructor.org",
       "type": "magazine"
     },
     {
@@ -665,5 +809,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-07T16:19:38.566457+00:00"
+  "last_updated_utc": "2026-01-07T16:46:42.360704+00:00"
 }
