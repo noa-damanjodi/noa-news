@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "How can utilities improve their distribution planning for better resiliency and restoration?",
+      "category": "RENEWABLE",
+      "date": "2026-01-08T18:58:26+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/distribution/how-can-utilities-improve-their-distribution-planning-for-better-resiliency-and-restoration/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Safeguarding reliability during the migration from TDM to packet-based systems",
+      "category": "RENEWABLE",
+      "date": "2026-01-08T18:35:57+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/safeguarding-reliability-during-the-migration-from-tdm-to-packet-based-systems/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "From mega-projects to national energy emergencies: The most popular Factor This articles in 2025",
+      "category": "RENEWABLE",
+      "date": "2026-01-08T16:10:02+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/most-popular-factor-this-articles-of-2025/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "EPA funding salvaged in US Congress spending bill",
       "category": "RENEWABLE",
       "date": "2026-01-06T20:38:40+00:00",
@@ -82,5 +106,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-07T19:00:48.912597+00:00"
+  "last_updated_utc": "2026-01-08T18:59:08.687999+00:00"
 }

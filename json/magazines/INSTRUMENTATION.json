@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "UR and Robotiq showcase palletizing solution at CES 2026 in collaboration with Siemens",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-08T17:50:22+00:00",
+      "url": "https://www.automationmag.com/ur-and-robotiq-showcase-palletizing-solution-at-ces-2026-in-collaboration-with-siemens/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Lanner unveils EAI-I351 robotic platform powered by NVIDIA Jetson Thor and NVIDIA Blackwell Architecture",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-08T16:33:12+00:00",
+      "url": "https://www.automationmag.com/lanner-unveils-eai-i351-robotic-platform-powered-by-nvidia-jetson-thor-and-nvidia-blackwell-architecture/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Kinaxis appoints Razat Gaurav as new CEO",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-08T15:34:02+00:00",
+      "url": "https://www.automationmag.com/kinaxis-appoints-razat-gaurav-as-new-ceo/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "STMicroelectronics scales STM32 microprocessors",
       "category": "INSTRUMENTATION",
       "date": "2026-01-07T15:34:19+00:00",
@@ -258,5 +282,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-07T19:00:48.912597+00:00"
+  "last_updated_utc": "2026-01-08T18:59:08.687999+00:00"
 }

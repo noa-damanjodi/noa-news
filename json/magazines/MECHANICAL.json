@@ -2,6 +2,70 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "NVIDIA expands open-source tools for physical AI and robotics",
+      "category": "MECHANICAL",
+      "date": "2026-01-08T15:02:44+00:00",
+      "url": "https://www.engineering.com/nvidia-expands-open-source-tools-for-physical-ai-and-robotics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble positioning data to support Lucid Gravity systems",
+      "category": "MECHANICAL",
+      "date": "2026-01-08T14:10:13+00:00",
+      "url": "https://www.engineering.com/trimble-positioning-data-to-support-lucid-gravity-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD introduces Ryzen AI Embedded processor portfolio",
+      "category": "MECHANICAL",
+      "date": "2026-01-08T10:48:00+00:00",
+      "url": "https://www.engineering.com/amd-introduces-ryzen-ai-embedded-processor-portfolio/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA introduces Rubin platform for large-scale AI systems",
+      "category": "MECHANICAL",
+      "date": "2026-01-08T09:51:00+00:00",
+      "url": "https://www.engineering.com/nvidia-introduces-rubin-platform-for-large-scale-ai-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon Robotics partners with Microsoft on humanoid robots",
+      "category": "MECHANICAL",
+      "date": "2026-01-08T09:46:21+00:00",
+      "url": "https://www.engineering.com/hexagon-robotics-partners-with-microsoft-on-humanoid-robots/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Humanoid robots show autonomous sorting and mobility at CES 2026",
+      "category": "MECHANICAL",
+      "date": "2026-01-08T08:57:00+00:00",
+      "url": "https://www.engineering.com/humanoid-robots-show-autonomous-sorting-and-mobility-at-ces-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hyundai Mobis to supply actuators for humanoid robot",
+      "category": "MECHANICAL",
+      "date": "2026-01-08T08:53:00+00:00",
+      "url": "https://www.engineering.com/hyundai-mobis-to-supply-actuators-for-humanoid-robot/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "New edge ML microcontrollers ship with Cortex-M55 and NNLite",
+      "category": "MECHANICAL",
+      "date": "2026-01-08T08:02:00+00:00",
+      "url": "https://www.engineering.com/new-edge-ml-microcontrollers-ship-with-cortex-m55-and-nnlite/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Bentley expands asset analytics with Talon, Pointivo deals",
       "category": "MECHANICAL",
       "date": "2026-01-07T14:36:26+00:00",
@@ -82,5 +146,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-07T19:00:48.912597+00:00"
+  "last_updated_utc": "2026-01-08T18:59:08.687999+00:00"
 }

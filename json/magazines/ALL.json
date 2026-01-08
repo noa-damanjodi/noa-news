@@ -2,6 +2,230 @@
   "category": "ALL",
   "items": [
     {
+      "title": "How can utilities improve their distribution planning for better resiliency and restoration?",
+      "category": "RENEWABLE",
+      "date": "2026-01-08T18:58:26+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/distribution/how-can-utilities-improve-their-distribution-planning-for-better-resiliency-and-restoration/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Safeguarding reliability during the migration from TDM to packet-based systems",
+      "category": "RENEWABLE",
+      "date": "2026-01-08T18:35:57+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/safeguarding-reliability-during-the-migration-from-tdm-to-packet-based-systems/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "UR and Robotiq showcase palletizing solution at CES 2026 in collaboration with Siemens",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-08T17:50:22+00:00",
+      "url": "https://www.automationmag.com/ur-and-robotiq-showcase-palletizing-solution-at-ces-2026-in-collaboration-with-siemens/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Lanner unveils EAI-I351 robotic platform powered by NVIDIA Jetson Thor and NVIDIA Blackwell Architecture",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-08T16:33:12+00:00",
+      "url": "https://www.automationmag.com/lanner-unveils-eai-i351-robotic-platform-powered-by-nvidia-jetson-thor-and-nvidia-blackwell-architecture/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "From mega-projects to national energy emergencies: The most popular Factor This articles in 2025",
+      "category": "RENEWABLE",
+      "date": "2026-01-08T16:10:02+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/most-popular-factor-this-articles-of-2025/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Kinaxis appoints Razat Gaurav as new CEO",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-08T15:34:02+00:00",
+      "url": "https://www.automationmag.com/kinaxis-appoints-razat-gaurav-as-new-ceo/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA expands open-source tools for physical AI and robotics",
+      "category": "MECHANICAL",
+      "date": "2026-01-08T15:02:44+00:00",
+      "url": "https://www.engineering.com/nvidia-expands-open-source-tools-for-physical-ai-and-robotics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble positioning data to support Lucid Gravity systems",
+      "category": "MECHANICAL",
+      "date": "2026-01-08T14:10:13+00:00",
+      "url": "https://www.engineering.com/trimble-positioning-data-to-support-lucid-gravity-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Greenland’s critical mineral resources shift Trump’s attention",
+      "category": "INDUSTRY",
+      "date": "2026-01-08T14:05:27+00:00",
+      "url": "https://www.mining-technology.com/news/greenlands-mineral-resources-shift-trumps-attention/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Lindian mobilises Komatsu fleet for Kangankunde rare earths project",
+      "category": "INDUSTRY",
+      "date": "2026-01-08T13:46:51+00:00",
+      "url": "https://www.mining-technology.com/news/lindian-mobilises-komatsu-fleet-for-kangankunde-rare-earths-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Pacgold begins gold production at White Dam project in SA",
+      "category": "INDUSTRY",
+      "date": "2026-01-08T10:54:14+00:00",
+      "url": "https://www.mining-technology.com/news/pacgold-gold-production-white-dam-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD introduces Ryzen AI Embedded processor portfolio",
+      "category": "MECHANICAL",
+      "date": "2026-01-08T10:48:00+00:00",
+      "url": "https://www.engineering.com/amd-introduces-ryzen-ai-embedded-processor-portfolio/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA introduces Rubin platform for large-scale AI systems",
+      "category": "MECHANICAL",
+      "date": "2026-01-08T09:51:00+00:00",
+      "url": "https://www.engineering.com/nvidia-introduces-rubin-platform-for-large-scale-ai-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Meteoric secures $50m EFA backing for Caldeira project in Brazil",
+      "category": "INDUSTRY",
+      "date": "2026-01-08T09:48:49+00:00",
+      "url": "https://www.mining-technology.com/news/meteoric-secures-50m-efa-backing-for-caldeira-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon Robotics partners with Microsoft on humanoid robots",
+      "category": "MECHANICAL",
+      "date": "2026-01-08T09:46:21+00:00",
+      "url": "https://www.engineering.com/hexagon-robotics-partners-with-microsoft-on-humanoid-robots/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Humanoid robots show autonomous sorting and mobility at CES 2026",
+      "category": "MECHANICAL",
+      "date": "2026-01-08T08:57:00+00:00",
+      "url": "https://www.engineering.com/humanoid-robots-show-autonomous-sorting-and-mobility-at-ces-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hyundai Mobis to supply actuators for humanoid robot",
+      "category": "MECHANICAL",
+      "date": "2026-01-08T08:53:00+00:00",
+      "url": "https://www.engineering.com/hyundai-mobis-to-supply-actuators-for-humanoid-robot/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "New edge ML microcontrollers ship with Cortex-M55 and NNLite",
+      "category": "MECHANICAL",
+      "date": "2026-01-08T08:02:00+00:00",
+      "url": "https://www.engineering.com/new-edge-ml-microcontrollers-ship-with-cortex-m55-and-nnlite/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Inox Clean Energy ties up Rs 31 billion in equity at Rs 500 billion valuation",
+      "category": "POWER",
+      "date": "2026-01-08T05:46:57+00:00",
+      "url": "https://powerline.net.in/2026/01/08/inox-clean-energy-ties-up-rs-31-billion-in-equity-at-rs-500-billion-valuation/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "TPREL to establish 10 GW ingot and wafer manufacturing facility in Andhra Pradesh",
+      "category": "POWER",
+      "date": "2026-01-08T05:45:48+00:00",
+      "url": "https://powerline.net.in/2026/01/08/tprel-to-establish-10-gw-ingot-and-wafer-manufacturing-facility-in-andhra-pradesh/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Oriana Power approves issuance and allotment of NCDs  worth Rs 750 million",
+      "category": "POWER",
+      "date": "2026-01-08T05:44:47+00:00",
+      "url": "https://powerline.net.in/2026/01/08/oriana-power-approves-issuance-and-allotment-of-ncds-worth-rs-750-million/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Shakti Pumps invests Rs 30 million to develop a 2.20 GW solar cell and module manufacturing plant in Madhya Pradesh",
+      "category": "POWER",
+      "date": "2026-01-08T05:43:50+00:00",
+      "url": "https://powerline.net.in/2026/01/08/shakti-pumps-invests-rs-30-million-to-develop-a-2-20-gw-solar-cell-and-module-manufacturing-plant-in-madhya-pradesh/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Adani Green incorporates step-down subsidiary AE7L for renewable power generation",
+      "category": "POWER",
+      "date": "2026-01-08T05:42:31+00:00",
+      "url": "https://powerline.net.in/2026/01/08/adani-green-incorporates-step-down-subsidiary-ae7l-for-renewable-power-generation/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Making an Impact: High-quality discussions, debates and technology advances at TransTech India 2025",
+      "category": "POWER",
+      "date": "2026-01-08T05:40:28+00:00",
+      "url": "https://powerline.net.in/2026/01/08/making-an-impact-high-quality-discussions-debates-and-technology-advances-at-transtech-india-2025/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Remarks by V.K. Singh: “Transmission planning has shifted to a renewable energy potential-based approach”",
+      "category": "POWER",
+      "date": "2026-01-08T05:33:42+00:00",
+      "url": "https://powerline.net.in/2026/01/08/remarks-by-v-k-singh-transmission-planning-has-shifted-to-a-renewable-energy-potential-based-approach/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Remarks by Naveen Srivastava: “Digitalisation will play a central role in strengthening grid resilience”",
+      "category": "POWER",
+      "date": "2026-01-08T05:32:47+00:00",
+      "url": "https://powerline.net.in/2026/01/08/remarks-by-naveen-srivastava-digitalisation-will-play-a-central-role-in-strengthening-grid-resilience/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Views from the Top: Call for faster project execution, deeper technology adoption",
+      "category": "POWER",
+      "date": "2026-01-08T05:31:53+00:00",
+      "url": "https://powerline.net.in/2026/01/08/views-from-the-top-call-for-faster-project-execution-deeper-technology-adoption/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Remarks by Pratik Agarwal: “India’s transmission sector has entered a new growth phase”",
+      "category": "POWER",
+      "date": "2026-01-08T05:30:56+00:00",
+      "url": "https://powerline.net.in/2026/01/08/remarks-by-pratik-agarwal-indias-transmission-sector-has-entered-a-new-growth-phase/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "STMicroelectronics scales STM32 microprocessors",
       "category": "INSTRUMENTATION",
       "date": "2026-01-07T15:34:19+00:00",
@@ -802,5 +1026,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-07T19:00:48.912597+00:00"
+  "last_updated_utc": "2026-01-08T18:59:08.687999+00:00"
 }
