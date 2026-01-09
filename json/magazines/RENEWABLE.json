@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "New bill could make solar power more accessible to Maine renters",
+      "category": "RENEWABLE",
+      "date": "2026-01-08T20:43:36+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/residential/new-bill-could-make-solar-power-more-accessible-to-maine-renters/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Pattern Energy obtains 1,500-MW portfolio with Cordelio acquisition",
+      "category": "RENEWABLE",
+      "date": "2026-01-08T19:24:10+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/pattern-energy-obtains-1500-mw-portfolio-with-cordelio-acquisition/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "How can utilities improve their distribution planning for better resiliency and restoration?",
       "category": "RENEWABLE",
       "date": "2026-01-08T18:58:26+00:00",
@@ -106,5 +122,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-08T18:59:08.687999+00:00"
+  "last_updated_utc": "2026-01-09T07:03:27.889516+00:00"
 }
