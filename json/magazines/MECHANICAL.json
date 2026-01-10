@@ -2,6 +2,86 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Bentley begins 2026 with two new asset analytics acquisitions",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T21:59:31+00:00",
+      "url": "https://www.engineering.com/bentley-begins-2026-with-two-new-asset-analytics-acquisitions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Engineering Battery Safety: How TÜV SÜD Shapes UL 9540A Testing and Beyond",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T16:20:46+00:00",
+      "url": "https://www.engineering.com/engineering-battery-safety-how-tuv-sud-shapes-ul-9540a-testing-and-beyond/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens introduces Digital Twin Composer for lifecycle modeling",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T11:40:06+00:00",
+      "url": "https://www.engineering.com/siemens-introduces-digital-twin-composer-for-lifecycle-modeling/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bentley supports Hawaii DOT roadway monitoring program",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T11:39:36+00:00",
+      "url": "https://www.engineering.com/bentley-supports-hawaii-dot-roadway-monitoring-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Volatus integrates Trimble PX-1 RTX for delivery drone navigation",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T10:16:00+00:00",
+      "url": "https://www.engineering.com/volatus-integrates-trimble-px-1-rtx-for-delivery-drone-navigation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Neural Concept launches AI design copilot for engineers",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T10:12:00+00:00",
+      "url": "https://www.engineering.com/neural-concept-launches-ai-design-copilot-for-engineers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ADDMAN acquires Forecast 3D",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T09:18:00+00:00",
+      "url": "https://www.engineering.com/addman-acquires-forecast-3d/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Viettel joins CNCF as Gold Member to support cloud native growth",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T09:06:00+00:00",
+      "url": "https://www.engineering.com/viettel-joins-cncf-as-gold-member-to-support-cloud-native-growth/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "FUGO Precision 3D partners with Graphy for dental printing",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T08:53:00+00:00",
+      "url": "https://www.engineering.com/fugo-precision-3d-partners-with-graphy-for-dental-printing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MicroCloud Hologram launches multi-FPGA QFT simulator",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T07:51:00+00:00",
+      "url": "https://www.engineering.com/microcloud-hologram-launches-multi-fpga-qft-simulator/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "NVIDIA expands open-source tools for physical AI and robotics",
       "category": "MECHANICAL",
       "date": "2026-01-08T15:02:44+00:00",
@@ -146,5 +226,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-09T07:03:27.889516+00:00"
+  "last_updated_utc": "2026-01-10T06:57:01.673909+00:00"
 }

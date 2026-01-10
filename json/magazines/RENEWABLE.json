@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Time for a nuclear renaissance? – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-01-09T18:11:22+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/time-for-a-nuclear-renaissance-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Navigating energy policy, supply chain shifts, and the race for affordability: The most important Factor This articles in 2025",
+      "category": "RENEWABLE",
+      "date": "2026-01-09T16:05:11+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/the-most-important-factor-this-articles-in-2025/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "New bill could make solar power more accessible to Maine renters",
       "category": "RENEWABLE",
       "date": "2026-01-08T20:43:36+00:00",
@@ -122,5 +138,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-09T07:03:27.889516+00:00"
+  "last_updated_utc": "2026-01-10T06:57:01.673909+00:00"
 }

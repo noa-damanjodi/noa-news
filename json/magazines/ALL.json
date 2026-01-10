@@ -2,6 +2,150 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Bentley begins 2026 with two new asset analytics acquisitions",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T21:59:31+00:00",
+      "url": "https://www.engineering.com/bentley-begins-2026-with-two-new-asset-analytics-acquisitions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Time for a nuclear renaissance? – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-01-09T18:11:22+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/time-for-a-nuclear-renaissance-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Engineering Battery Safety: How TÜV SÜD Shapes UL 9540A Testing and Beyond",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T16:20:46+00:00",
+      "url": "https://www.engineering.com/engineering-battery-safety-how-tuv-sud-shapes-ul-9540a-testing-and-beyond/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Navigating energy policy, supply chain shifts, and the race for affordability: The most important Factor This articles in 2025",
+      "category": "RENEWABLE",
+      "date": "2026-01-09T16:05:11+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/the-most-important-factor-this-articles-in-2025/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Ryzon and Xinhai sign agreement for Nachu graphite mine in Tanzania",
+      "category": "INDUSTRY",
+      "date": "2026-01-09T14:08:01+00:00",
+      "url": "https://www.mining-technology.com/news/ryzon-xinhai-agreement-nachu-graphite-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Unemployment rate jumps to 6.8% in December despite job gain",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-09T14:06:45+00:00",
+      "url": "https://www.automationmag.com/unemployment-rate-jumps-to-6-8-in-december-despite-job-gain/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Rio Tinto, Glencore announce preliminary merger talks to create mining giant",
+      "category": "INDUSTRY",
+      "date": "2026-01-09T14:04:38+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-glencore-announce-preliminary-merger-talks/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens introduces Digital Twin Composer for lifecycle modeling",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T11:40:06+00:00",
+      "url": "https://www.engineering.com/siemens-introduces-digital-twin-composer-for-lifecycle-modeling/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bentley supports Hawaii DOT roadway monitoring program",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T11:39:36+00:00",
+      "url": "https://www.engineering.com/bentley-supports-hawaii-dot-roadway-monitoring-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Ensuring Grid Stability: Flexible BTG operations key to managing sharp ramps, frequent cycling and renewable variability",
+      "category": "POWER",
+      "date": "2026-01-09T11:15:21+00:00",
+      "url": "https://powerline.net.in/2026/01/09/ensuring-grid-stability-flexible-btg-operations-key-to-managing-sharp-ramps-frequent-cycling-and-renewable-variability/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Volatus integrates Trimble PX-1 RTX for delivery drone navigation",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T10:16:00+00:00",
+      "url": "https://www.engineering.com/volatus-integrates-trimble-px-1-rtx-for-delivery-drone-navigation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Neural Concept launches AI design copilot for engineers",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T10:12:00+00:00",
+      "url": "https://www.engineering.com/neural-concept-launches-ai-design-copilot-for-engineers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "M2i, Volato sign mineral development agreement with Titanium X",
+      "category": "INDUSTRY",
+      "date": "2026-01-09T10:04:36+00:00",
+      "url": "https://www.mining-technology.com/news/m2i-volato-agreement-titanium-x-mineral-development/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ADDMAN acquires Forecast 3D",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T09:18:00+00:00",
+      "url": "https://www.engineering.com/addman-acquires-forecast-3d/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Viettel joins CNCF as Gold Member to support cloud native growth",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T09:06:00+00:00",
+      "url": "https://www.engineering.com/viettel-joins-cncf-as-gold-member-to-support-cloud-native-growth/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "FUGO Precision 3D partners with Graphy for dental printing",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T08:53:00+00:00",
+      "url": "https://www.engineering.com/fugo-precision-3d-partners-with-graphy-for-dental-printing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MicroCloud Hologram launches multi-FPGA QFT simulator",
+      "category": "MECHANICAL",
+      "date": "2026-01-09T07:51:00+00:00",
+      "url": "https://www.engineering.com/microcloud-hologram-launches-multi-fpga-qft-simulator/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "New Earth Resources launches exploration initiative for SL Project",
+      "category": "INDUSTRY",
+      "date": "2026-01-09T07:20:44+00:00",
+      "url": "https://www.mining-technology.com/news/new-earth-resources-exploration-initiative-sl-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "AGEL subsidiaries sign power consumption, tripartite and investment agreements to supply 20.8 MW solar-wind hybrid power",
       "category": "POWER",
       "date": "2026-01-09T05:32:13+00:00",
@@ -1170,5 +1314,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-09T07:03:27.889516+00:00"
+  "last_updated_utc": "2026-01-10T06:57:01.673909+00:00"
 }
