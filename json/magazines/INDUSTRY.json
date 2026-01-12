@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "West Red Lake achieves commercial production at Madsen gold mine",
+      "category": "INDUSTRY",
+      "date": "2026-01-12T13:14:27+00:00",
+      "url": "https://www.mining-technology.com/news/west-red-lake-achieves-commercial-production-at-madsen-gold-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Everest Metals begins mining operations at Mt Dimer project, WA",
+      "category": "INDUSTRY",
+      "date": "2026-01-12T13:05:15+00:00",
+      "url": "https://www.mining-technology.com/news/everest-metals-begins-mining-operations-at-mt-dimer-project-wa/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Forrestania Resources initiates drilling at Lady Lila Project in Australia",
+      "category": "INDUSTRY",
+      "date": "2026-01-12T11:26:17+00:00",
+      "url": "https://www.mining-technology.com/news/forrestania-resources-drilling-lady-lila-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Lundin Mining finalises Eagle mine sale to Talon Metals",
+      "category": "INDUSTRY",
+      "date": "2026-01-12T09:35:09+00:00",
+      "url": "https://www.mining-technology.com/news/lundin-mining-finalises-eagle-mine-sale-to-talon-metals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Ryzon and Xinhai sign agreement for Nachu graphite mine in Tanzania",
       "category": "INDUSTRY",
       "date": "2026-01-09T14:08:01+00:00",
@@ -146,5 +178,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-12T07:06:11.144226+00:00"
+  "last_updated_utc": "2026-01-12T19:00:29.564415+00:00"
 }

@@ -2,6 +2,126 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Meghan Dewey helps define a human-centric utility at Duke Energy",
+      "category": "RENEWABLE",
+      "date": "2026-01-12T18:11:44+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/meghan-dewey-helps-define-a-human-centric-utility-at-duke-energy/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Vision Components to present VC MIPI IMX454 Multispectral Camera Module at Photonics West",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-12T18:02:08+00:00",
+      "url": "https://www.automationmag.com/vision-components-to-present-vc-mipi-imx454-multispectral-camera-module-at-photonics-west/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Thousands of Brampton Stellantis workers remain in limbo while Windsor plant adds 1K employees—local politician voices frustration",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-12T15:26:24+00:00",
+      "url": "https://www.automationmag.com/thousands-of-brampton-stellantis-workers-remain-in-limbo-while-windsor-plant-adds-1k-employees-local-politician-voices-frustration/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Terra Penrose named chief people officer for Kraken Robotics",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-12T15:12:26+00:00",
+      "url": "https://www.automationmag.com/terra-penrose-named-chief-people-officer-for-kraken-robotics/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence launches chiplet ecosystem for AI and HPC designs",
+      "category": "MECHANICAL",
+      "date": "2026-01-12T14:59:12+00:00",
+      "url": "https://www.engineering.com/cadence-launches-chiplet-ecosystem-for-ai-and-hpc-designs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Soluna, Siemens to pilot behind-the-meter AI controls in Texas",
+      "category": "MECHANICAL",
+      "date": "2026-01-12T14:41:56+00:00",
+      "url": "https://www.engineering.com/soluna-siemens-to-pilot-behind-the-meter-ai-controls-in-texas/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon releases EcoSys 9.4 with embedded AI assistant",
+      "category": "MECHANICAL",
+      "date": "2026-01-12T14:33:00+00:00",
+      "url": "https://www.engineering.com/hexagon-releases-ecosys-9-4-with-embedded-ai-assistant/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Amer Bin Ahmed begins term as ASTM board chair",
+      "category": "MECHANICAL",
+      "date": "2026-01-12T14:25:30+00:00",
+      "url": "https://www.engineering.com/amer-bin-ahmed-begins-term-as-astm-board-chair/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SB Energy partners with OpenAI on Stargate AI infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-01-12T14:15:24+00:00",
+      "url": "https://www.engineering.com/sb-energy-partners-with-openai-on-stargate-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "UGREEN launches AI NAS, security, and 300W GaN charger at CES 2026",
+      "category": "MECHANICAL",
+      "date": "2026-01-12T13:35:11+00:00",
+      "url": "https://www.engineering.com/ugreen-launches-ai-nas-security-and-300w-gan-charger-at-ces-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "West Red Lake achieves commercial production at Madsen gold mine",
+      "category": "INDUSTRY",
+      "date": "2026-01-12T13:14:27+00:00",
+      "url": "https://www.mining-technology.com/news/west-red-lake-achieves-commercial-production-at-madsen-gold-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Everest Metals begins mining operations at Mt Dimer project, WA",
+      "category": "INDUSTRY",
+      "date": "2026-01-12T13:05:15+00:00",
+      "url": "https://www.mining-technology.com/news/everest-metals-begins-mining-operations-at-mt-dimer-project-wa/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Impinj licenses Gen2X technology to EM Microelectronic",
+      "category": "MECHANICAL",
+      "date": "2026-01-12T11:27:06+00:00",
+      "url": "https://www.engineering.com/impinj-licenses-gen2x-technology-to-em-microelectronic/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Forrestania Resources initiates drilling at Lady Lila Project in Australia",
+      "category": "INDUSTRY",
+      "date": "2026-01-12T11:26:17+00:00",
+      "url": "https://www.mining-technology.com/news/forrestania-resources-drilling-lady-lila-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Lundin Mining finalises Eagle mine sale to Talon Metals",
+      "category": "INDUSTRY",
+      "date": "2026-01-12T09:35:09+00:00",
+      "url": "https://www.mining-technology.com/news/lundin-mining-finalises-eagle-mine-sale-to-talon-metals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "From Shortages to Security: How financially settled contracts support generator availability",
       "category": "POWER",
       "date": "2026-01-12T06:31:30+00:00",
@@ -1402,5 +1522,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-12T07:06:11.144226+00:00"
+  "last_updated_utc": "2026-01-12T19:00:29.564415+00:00"
 }

@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Cadence launches chiplet ecosystem for AI and HPC designs",
+      "category": "MECHANICAL",
+      "date": "2026-01-12T14:59:12+00:00",
+      "url": "https://www.engineering.com/cadence-launches-chiplet-ecosystem-for-ai-and-hpc-designs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Soluna, Siemens to pilot behind-the-meter AI controls in Texas",
+      "category": "MECHANICAL",
+      "date": "2026-01-12T14:41:56+00:00",
+      "url": "https://www.engineering.com/soluna-siemens-to-pilot-behind-the-meter-ai-controls-in-texas/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon releases EcoSys 9.4 with embedded AI assistant",
+      "category": "MECHANICAL",
+      "date": "2026-01-12T14:33:00+00:00",
+      "url": "https://www.engineering.com/hexagon-releases-ecosys-9-4-with-embedded-ai-assistant/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Amer Bin Ahmed begins term as ASTM board chair",
+      "category": "MECHANICAL",
+      "date": "2026-01-12T14:25:30+00:00",
+      "url": "https://www.engineering.com/amer-bin-ahmed-begins-term-as-astm-board-chair/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SB Energy partners with OpenAI on Stargate AI infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-01-12T14:15:24+00:00",
+      "url": "https://www.engineering.com/sb-energy-partners-with-openai-on-stargate-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "UGREEN launches AI NAS, security, and 300W GaN charger at CES 2026",
+      "category": "MECHANICAL",
+      "date": "2026-01-12T13:35:11+00:00",
+      "url": "https://www.engineering.com/ugreen-launches-ai-nas-security-and-300w-gan-charger-at-ces-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Impinj licenses Gen2X technology to EM Microelectronic",
+      "category": "MECHANICAL",
+      "date": "2026-01-12T11:27:06+00:00",
+      "url": "https://www.engineering.com/impinj-licenses-gen2x-technology-to-em-microelectronic/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Bentley begins 2026 with two new asset analytics acquisitions",
       "category": "MECHANICAL",
       "date": "2026-01-09T21:59:31+00:00",
@@ -226,5 +282,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-12T07:06:11.144226+00:00"
+  "last_updated_utc": "2026-01-12T19:00:29.564415+00:00"
 }
