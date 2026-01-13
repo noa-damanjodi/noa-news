@@ -2,10 +2,34 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Ukraine’s state-owned hydro company lands €75 million EBRD loan to restore plants damaged in war",
+      "category": "RENEWABLE",
+      "date": "2026-01-12T20:22:41+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/ukraines-state-owned-hydro-company-lands-e75-million-ebrd-loan-to-restore-plants-damaged-in-war/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Feds release draft long-term plans for Colorado River management",
+      "category": "RENEWABLE",
+      "date": "2026-01-12T20:01:20+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/feds-release-draft-long-term-plans-for-colorado-river-management/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Meghan Dewey helps define a human-centric utility at Duke Energy",
       "category": "RENEWABLE",
       "date": "2026-01-12T18:11:44+00:00",
       "url": "https://www.renewableenergyworld.com/podcasts/meghan-dewey-helps-define-a-human-centric-utility-at-duke-energy/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Conowingo Dam appeal dropped, allowing $340M settlement to go forward",
+      "category": "RENEWABLE",
+      "date": "2026-01-09T18:38:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/conowingo-dam-appeal-dropped-allowing-340m-settlement-to-go-forward/",
       "source": "Factor This™",
       "type": "magazine"
     },
@@ -146,5 +170,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-12T19:00:29.564415+00:00"
+  "last_updated_utc": "2026-01-13T03:55:41.390717+00:00"
 }
