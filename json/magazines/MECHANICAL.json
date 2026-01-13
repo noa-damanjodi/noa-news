@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Digital transformation needs a global course correction",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T18:29:46+00:00",
+      "url": "https://www.engineering.com/digital-transformation-needs-a-global-course-correction/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Senvol wins U.S. Navy funding for AM sensor data project",
       "category": "MECHANICAL",
       "date": "2026-01-13T11:29:00+00:00",
@@ -346,5 +354,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-13T13:54:16.236984+00:00"
+  "last_updated_utc": "2026-01-13T18:58:50.178229+00:00"
 }
