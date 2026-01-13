@@ -2,6 +2,70 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Senvol wins U.S. Navy funding for AM sensor data project",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T11:29:00+00:00",
+      "url": "https://www.engineering.com/senvol-wins-u-s-navy-funding-for-am-sensor-data-project/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA expands BioNeMo platform for AI-driven drug discovery",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T11:17:00+00:00",
+      "url": "https://www.engineering.com/nvidia-expands-bionemo-platform-for-ai-driven-drug-discovery/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Creality debuts SPARKX i7 and AI tools at CES 2026",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T11:06:00+00:00",
+      "url": "https://www.engineering.com/creality-debuts-sparkx-i7-and-ai-tools-at-ces-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "congatec launches Intel Core Ultra Series 3 COM portfolio",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T10:54:08+00:00",
+      "url": "https://www.engineering.com/congatec-launches-intel-core-ultra-series-3-com-portfolio/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA and Lilly launch AI lab for pharmaceutical research",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T10:40:12+00:00",
+      "url": "https://www.engineering.com/nvidia-and-lilly-launch-ai-lab-for-pharmaceutical-research/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Three high schools join SME PRIME to launch maritime pathways",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T09:48:29+00:00",
+      "url": "https://www.engineering.com/three-high-schools-join-sme-prime-to-launch-maritime-pathways/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nippon Kinzoku rolls out Eco-Product lineup using Fine Profile",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T09:39:30+00:00",
+      "url": "https://www.engineering.com/nippon-kinzoku-rolls-out-eco-product-lineup-using-fine-profile/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Thermo Fisher partners with NVIDIA on AI-driven lab automation",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T09:19:30+00:00",
+      "url": "https://www.engineering.com/thermo-fisher-partners-with-nvidia-on-ai-driven-lab-automation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Cadence launches chiplet ecosystem for AI and HPC designs",
       "category": "MECHANICAL",
       "date": "2026-01-12T14:59:12+00:00",
@@ -282,5 +346,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-13T07:01:39.679927+00:00"
+  "last_updated_utc": "2026-01-13T13:54:16.236984+00:00"
 }

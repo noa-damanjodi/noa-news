@@ -2,6 +2,166 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Allied Critical Metals secures key permit for Borralha Tungsten Project",
+      "category": "INDUSTRY",
+      "date": "2026-01-13T12:25:12+00:00",
+      "url": "https://www.mining-technology.com/news/allied-critical-metals-secures-key-permit-for-borralha-tungsten-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Will the US’ onshoring strategy remove China’s chokehold on REEs?",
+      "category": "INDUSTRY",
+      "date": "2026-01-13T12:02:19+00:00",
+      "url": "https://www.mining-technology.com/features/will-the-us-onshoring-strategy-remove-chinas-chokehold-on-rees/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Senvol wins U.S. Navy funding for AM sensor data project",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T11:29:00+00:00",
+      "url": "https://www.engineering.com/senvol-wins-u-s-navy-funding-for-am-sensor-data-project/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA expands BioNeMo platform for AI-driven drug discovery",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T11:17:00+00:00",
+      "url": "https://www.engineering.com/nvidia-expands-bionemo-platform-for-ai-driven-drug-discovery/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Ivanhoe Mines reports progress at Platreef Mine after production start",
+      "category": "INDUSTRY",
+      "date": "2026-01-13T11:14:10+00:00",
+      "url": "https://www.mining-technology.com/news/ivanhoe-mines-reports-progress-at-platreef-mine-after-production-start/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Creality debuts SPARKX i7 and AI tools at CES 2026",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T11:06:00+00:00",
+      "url": "https://www.engineering.com/creality-debuts-sparkx-i7-and-ai-tools-at-ces-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AGEL adopts the UN-backed TNFD framework for biodiversity disclosures",
+      "category": "POWER",
+      "date": "2026-01-13T10:59:54+00:00",
+      "url": "https://powerline.net.in/2026/01/13/agel-adopts-the-un-backed-tnfd-framework-for-biodiversity-disclosures/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Dilip Buildcon secures 400 kV Mekhali substation project in Karnataka",
+      "category": "POWER",
+      "date": "2026-01-13T10:59:19+00:00",
+      "url": "https://powerline.net.in/2026/01/13/dilip-buildcon-secures-400-kv-mekhali-substation-project-in-karnataka-2/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "TPREL signs MoU with UCO Bank to promote rooftop solar financing under PM Surya Ghar Yojana",
+      "category": "POWER",
+      "date": "2026-01-13T10:58:54+00:00",
+      "url": "https://powerline.net.in/2026/01/13/tprel-signs-mou-with-uco-bank-to-promote-rooftop-solar-financing-under-pm-surya-ghar-yojana/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "REC achieves top ESG rating among financial institutions by NSE ESG Ratings",
+      "category": "POWER",
+      "date": "2026-01-13T10:58:30+00:00",
+      "url": "https://powerline.net.in/2026/01/13/rec-achieves-top-esg-rating-among-financial-institutions-by-nse-esg-ratings/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Tata Power-DDL launches “solar ambassador” programme to promote rooftop solar in Delhi",
+      "category": "POWER",
+      "date": "2026-01-13T10:57:48+00:00",
+      "url": "https://powerline.net.in/2026/01/13/tata-power-ddl-launches-solar-ambassador-programme-to-promote-rooftop-solar-in-delhi/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Cummins India launches CPCB IV+ compliant 82.5 kVA genset at EXCON 2025",
+      "category": "POWER",
+      "date": "2026-01-13T10:57:06+00:00",
+      "url": "https://powerline.net.in/2026/01/13/cummins-india-launches-cpcb-iv-compliant-82-5-kva-genset-at-excon-2025/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "congatec launches Intel Core Ultra Series 3 COM portfolio",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T10:54:08+00:00",
+      "url": "https://www.engineering.com/congatec-launches-intel-core-ultra-series-3-com-portfolio/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Clean Energy Funding: Key financial outcomes of COP30",
+      "category": "POWER",
+      "date": "2026-01-13T10:51:14+00:00",
+      "url": "https://powerline.net.in/2026/01/13/clean-energy-funding-key-financial-outcomes-of-cop30/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Quality First: Ensuring reliability in India’s energy transition",
+      "category": "POWER",
+      "date": "2026-01-13T10:42:18+00:00",
+      "url": "https://powerline.net.in/2026/01/13/quality-first-ensuring-reliability-in-indias-energy-transition/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA and Lilly launch AI lab for pharmaceutical research",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T10:40:12+00:00",
+      "url": "https://www.engineering.com/nvidia-and-lilly-launch-ai-lab-for-pharmaceutical-research/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Three high schools join SME PRIME to launch maritime pathways",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T09:48:29+00:00",
+      "url": "https://www.engineering.com/three-high-schools-join-sme-prime-to-launch-maritime-pathways/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Integra’s DeLamar project advances with new federal permit timeline",
+      "category": "INDUSTRY",
+      "date": "2026-01-13T09:46:18+00:00",
+      "url": "https://www.mining-technology.com/news/integras-delamar-project-advances-new-federal-permit/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Nippon Kinzoku rolls out Eco-Product lineup using Fine Profile",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T09:39:30+00:00",
+      "url": "https://www.engineering.com/nippon-kinzoku-rolls-out-eco-product-lineup-using-fine-profile/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Thermo Fisher partners with NVIDIA on AI-driven lab automation",
+      "category": "MECHANICAL",
+      "date": "2026-01-13T09:19:30+00:00",
+      "url": "https://www.engineering.com/thermo-fisher-partners-with-nvidia-on-ai-driven-lab-automation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Essar signs MoU to invest Rs 51 billion in bio-fuel project in Gujarat",
       "category": "POWER",
       "date": "2026-01-13T05:48:13+00:00",
@@ -1618,5 +1778,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-13T07:01:39.679927+00:00"
+  "last_updated_utc": "2026-01-13T13:54:16.236984+00:00"
 }
