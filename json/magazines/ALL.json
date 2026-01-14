@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Siemens acquires ASTER Technologies for PCBA test software",
+      "category": "MECHANICAL",
+      "date": "2026-01-14T11:15:59+00:00",
+      "url": "https://www.engineering.com/siemens-acquires-aster-technologies-for-pcba-test-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "FARO and Creaform combine to form two new business units",
+      "category": "MECHANICAL",
+      "date": "2026-01-14T10:55:49+00:00",
+      "url": "https://www.engineering.com/faro-and-creaform-combine-to-form-two-new-business-units/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AtomForm debuts Palette 300 3D printer with 12 nozzles",
+      "category": "MECHANICAL",
+      "date": "2026-01-14T10:38:30+00:00",
+      "url": "https://www.engineering.com/atomform-debuts-palette-300-3d-printer-with-12-nozzles/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AFL launches Fujikura 100S fusion splicer and CT60 cleaver",
+      "category": "MECHANICAL",
+      "date": "2026-01-14T09:32:00+00:00",
+      "url": "https://www.engineering.com/afl-launches-fujikura-100s-fusion-splicer-and-ct60-cleaver/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Infortrend launches KS 3000U edge AI server platform",
+      "category": "MECHANICAL",
+      "date": "2026-01-14T09:13:00+00:00",
+      "url": "https://www.engineering.com/infortrend-launches-ks-3000u-edge-ai-server-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "In-Situ launches TurbiTech UVT Sensor for wastewater UV control",
+      "category": "MECHANICAL",
+      "date": "2026-01-14T09:07:00+00:00",
+      "url": "https://www.engineering.com/in-situ-launches-turbitech-uvt-sensor-for-wastewater-uv-control/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Revizto rolls out refreshed brand identity and website",
+      "category": "MECHANICAL",
+      "date": "2026-01-14T08:55:00+00:00",
+      "url": "https://www.engineering.com/revizto-rolls-out-refreshed-brand-identity-and-website/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Velo3D partners with U.S. Army for 3D printing solutions",
+      "category": "MECHANICAL",
+      "date": "2026-01-14T08:37:00+00:00",
+      "url": "https://www.engineering.com/velo3d-partners-with-u-s-army-for-3d-printing-solutions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "MNRE provides extensions to renewable energy projects delayed by GIB case",
       "category": "POWER",
       "date": "2026-01-14T04:50:39+00:00",
@@ -1938,5 +2002,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-14T07:00:59.386472+00:00"
+  "last_updated_utc": "2026-01-14T13:53:33.215130+00:00"
 }
