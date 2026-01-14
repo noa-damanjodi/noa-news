@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Offshore wind developer prevails in court as Trump says the US ‘will not approve any windmills’",
+      "category": "RENEWABLE",
+      "date": "2026-01-13T20:40:07+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/offshore/offshore-wind-developer-prevails-in-court-as-trump-says-the-us-will-not-approve-any-windmills/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Mobile homes already have huge utility bills. Congress may make it worse.",
+      "category": "RENEWABLE",
+      "date": "2026-01-13T19:10:25+00:00",
+      "url": "https://www.renewableenergyworld.com/news/mobile-homes-already-have-huge-utility-bills-congress-may-make-it-worse/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Microsoft’s Brad Smith pushes Big Tech to ‘pay our way’ for AI data centers amid rising opposition",
+      "category": "RENEWABLE",
+      "date": "2026-01-13T19:03:04+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/microsofts-brad-smith-pushes-big-tech-to-pay-our-way-for-ai-data-centers-amid-rising-opposition/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Ukraine’s state-owned hydro company lands €75 million EBRD loan to restore plants damaged in war",
       "category": "RENEWABLE",
       "date": "2026-01-12T20:22:41+00:00",
@@ -170,5 +194,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-13T18:58:50.178229+00:00"
+  "last_updated_utc": "2026-01-14T04:14:48.389745+00:00"
 }
