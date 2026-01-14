@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "AutomationDirect adds additional Flowline LR80 Series EchoBeam FMCW Radar Level sensors",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-14T18:31:26+00:00",
+      "url": "https://www.automationmag.com/automationdirect-adds-additional-flowline-lr80-series-echobeam-fmcw-radar-level-sensors/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Orion and SNB Capital partner to enhance Saudi mining industry",
+      "category": "INDUSTRY",
+      "date": "2026-01-14T16:20:29+00:00",
+      "url": "https://www.mining-technology.com/news/orion-snb-capital-partner-enhance-saudi-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Brightstar receives mining approval for Lady Shenton deposit in WA",
+      "category": "INDUSTRY",
+      "date": "2026-01-14T16:10:27+00:00",
+      "url": "https://www.mining-technology.com/news/brightstar-receives-mining-approval-for-lady-shenton-deposit-in-wa/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Federal government investing over $15 million to support eight businesses, advanced innovation in GTHA",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-14T16:10:05+00:00",
+      "url": "https://www.automationmag.com/federal-government-investing-over-15-million-to-support-eight-businesses-advanced-innovation-in-gtha/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Flexxbotics releases free download of software-defined automation",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-14T15:46:51+00:00",
+      "url": "https://www.automationmag.com/flexxbotics-releases-free-download-of-software-defined-automation/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Siemens acquires ASTER Technologies for PCBA test software",
       "category": "MECHANICAL",
       "date": "2026-01-14T11:15:59+00:00",
@@ -23,6 +63,22 @@
       "date": "2026-01-14T10:38:30+00:00",
       "url": "https://www.engineering.com/atomform-debuts-palette-300-3d-printer-with-12-nozzles/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Ontario expedites Crawford Nickel Project under new 1P1P framework",
+      "category": "INDUSTRY",
+      "date": "2026-01-14T10:23:35+00:00",
+      "url": "https://www.mining-technology.com/news/ontario-expedites-crawford-nickel-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "McLaren Minerals forecasts $1.86bn in revenue from McLaren Titanium Project",
+      "category": "INDUSTRY",
+      "date": "2026-01-14T09:36:07+00:00",
+      "url": "https://www.mining-technology.com/news/mclaren-minerals-forecasts-1-86bn-in-revenue-from-mclaren-titanium-project/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -194,11 +250,27 @@
       "type": "magazine"
     },
     {
+      "title": "Critical minerals and policy reforms drive sustained growth in Asia Pacific’s mines",
+      "category": "INDUSTRY",
+      "date": "2026-01-13T15:39:02+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/critical-minerals-policy-reforms-asia-pacific/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Schaeffler and Humanoid announce strategic partnership, rolling out hundreds of humanoid robots over five years",
       "category": "INSTRUMENTATION",
       "date": "2026-01-13T15:16:22+00:00",
       "url": "https://www.automationmag.com/schaeffler-and-humanoid-announce-strategic-partnership-rolling-out-hundreds-of-humanoid-robots-over-five-years/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Project ramp-ups and expansions set to lift global iron ore output in 2026",
+      "category": "INDUSTRY",
+      "date": "2026-01-13T15:15:07+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/project-ramp-ups-expansions-global-iron-ore-2026/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -2002,5 +2074,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-14T13:53:33.215130+00:00"
+  "last_updated_utc": "2026-01-14T18:59:47.765114+00:00"
 }
