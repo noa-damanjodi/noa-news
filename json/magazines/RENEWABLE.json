@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "This tech could keep EVs from stressing the grid — and save everyone money",
+      "category": "RENEWABLE",
+      "date": "2026-01-15T19:11:14+00:00",
+      "url": "https://www.renewableenergyworld.com/electric-vehicle/ev-charging/this-tech-could-keep-evs-from-stressing-the-grid-and-save-everyone-money/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Avangrid invests in more made-in-USA power transformers",
+      "category": "RENEWABLE",
+      "date": "2026-01-15T19:03:49+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/avangrid-invests-in-more-made-in-usa-power-transformers/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "GeoBuiz explores how geospatial data is reshaping every side of the utility landscape",
+      "category": "RENEWABLE",
+      "date": "2026-01-15T17:31:34+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/geobuiz-explores-how-geospatial-data-is-reshaping-every-side-of-the-utility-landscape/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "How autonomous drones and AI are reshaping utility inspection programs",
       "category": "RENEWABLE",
       "date": "2026-01-14T19:14:38+00:00",
@@ -202,5 +226,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-15T13:53:38.085497+00:00"
+  "last_updated_utc": "2026-01-15T19:14:31.967444+00:00"
 }
