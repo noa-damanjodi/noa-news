@@ -2,6 +2,14 @@
   "category": "POWER",
   "items": [
     {
+      "title": "JVVNL: Efforts to enhance Jaipur’s power distribution efficiency",
+      "category": "POWER",
+      "date": "2026-01-15T08:17:40+00:00",
+      "url": "https://powerline.net.in/2026/01/15/jvvnl-efforts-to-enhance-jaipurs-power-distribution-efficiency/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "NLC India signs MoU to invest Rs 250 billion with Gujarat for renewable energy projects",
       "category": "POWER",
       "date": "2026-01-15T05:18:41+00:00",
@@ -578,5 +586,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-15T07:01:05.526858+00:00"
+  "last_updated_utc": "2026-01-15T13:53:38.085497+00:00"
 }

@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Vertiv adds MegaMod HDX options for AI and HPC data centers",
+      "category": "MECHANICAL",
+      "date": "2026-01-15T10:25:00+00:00",
+      "url": "https://www.engineering.com/vertiv-adds-megamod-hdx-options-for-ai-and-hpc-data-centers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Wayne State and Kyndryl launch IntelliMake AI manufacturing hub",
+      "category": "MECHANICAL",
+      "date": "2026-01-15T09:36:00+00:00",
+      "url": "https://www.engineering.com/wayne-state-and-kyndryl-launch-intellimake-ai-manufacturing-hub/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Zoomlion expands full-chain AI across factories and machinery",
+      "category": "MECHANICAL",
+      "date": "2026-01-15T09:31:00+00:00",
+      "url": "https://www.engineering.com/zoomlion-expands-full-chain-ai-across-factories-and-machinery/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Emergent releases eSDK Pro for multi-camera vision systems",
+      "category": "MECHANICAL",
+      "date": "2026-01-15T08:51:00+00:00",
+      "url": "https://www.engineering.com/emergent-releases-esdk-pro-for-multi-camera-vision-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Karman to acquire Seemann Composites and MSC for $220 million",
+      "category": "MECHANICAL",
+      "date": "2026-01-15T08:46:00+00:00",
+      "url": "https://www.engineering.com/karman-to-acquire-seemann-composites-and-msc-for-220-million/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "JVVNL: Efforts to enhance Jaipur’s power distribution efficiency",
+      "category": "POWER",
+      "date": "2026-01-15T08:17:40+00:00",
+      "url": "https://powerline.net.in/2026/01/15/jvvnl-efforts-to-enhance-jaipurs-power-distribution-efficiency/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Seasonal Building Leakage That Appears and Disappears",
+      "category": "CIVIL",
+      "date": "2026-01-15T07:17:57+00:00",
+      "url": "https://theconstructor.org/building/seasonal-building-leakage-appears-disappears/579297/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
       "title": "NLC India signs MoU to invest Rs 250 billion with Gujarat for renewable energy projects",
       "category": "POWER",
       "date": "2026-01-15T05:18:41+00:00",
@@ -2154,5 +2210,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-15T07:01:05.526858+00:00"
+  "last_updated_utc": "2026-01-15T13:53:38.085497+00:00"
 }
