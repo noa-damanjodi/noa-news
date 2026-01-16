@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Can American batteries keep up the pace? – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-01-16T17:57:47+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/can-american-batteries-keep-up-the-pace-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "See your grid, trust your data: How visual AI is entering utility field workflows",
       "category": "RENEWABLE",
       "date": "2026-01-15T21:27:01+00:00",
@@ -258,5 +266,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-16T13:51:33.024151+00:00"
+  "last_updated_utc": "2026-01-16T18:59:29.303932+00:00"
 }

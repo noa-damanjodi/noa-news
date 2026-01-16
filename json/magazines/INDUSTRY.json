@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Kinross Gold advances construction on three US projects",
+      "category": "INDUSTRY",
+      "date": "2026-01-16T14:15:24+00:00",
+      "url": "https://www.mining-technology.com/news/kinross-gold-construction-three-us-projects/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Gold Royalty to acquire additional NSR on Borborema Mine in Brazil",
       "category": "INDUSTRY",
       "date": "2026-01-16T10:56:13+00:00",
@@ -298,5 +306,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-16T13:51:33.024151+00:00"
+  "last_updated_utc": "2026-01-16T18:59:29.303932+00:00"
 }
