@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "NTPC Green Energy commissions 300 MW Bhadla solar project",
+      "category": "POWER",
+      "date": "2026-01-16T05:43:09+00:00",
+      "url": "https://powerline.net.in/2026/01/16/ntpc-green-energy-commissions-300-mw-bhadla-solar-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "PACE Digitek secures Rs 3.76 billion BOS order from Bondada Engineering",
+      "category": "POWER",
+      "date": "2026-01-16T05:42:13+00:00",
+      "url": "https://powerline.net.in/2026/01/16/pace-digitek-secures-rs-3-76-billion-bos-order-from-bondada-engineering/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Waaree Renewable Technologies secures LoA for EPC order for 25 MWac solar project",
+      "category": "POWER",
+      "date": "2026-01-16T05:41:14+00:00",
+      "url": "https://powerline.net.in/2026/01/16/waaree-renewable-technologies-secures-loa-for-epc-order-for-25-mwac-solar-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "CEAT partners with CleanMax to procure power from 59 MW hybrid renewable projects",
+      "category": "POWER",
+      "date": "2026-01-16T05:40:15+00:00",
+      "url": "https://powerline.net.in/2026/01/16/ceat-partners-with-cleanmax-to-procure-power-from-59-mw-hybrid-renewable-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hinduja Renewables to invest USD 4 billion to scale RE capacity to 10 GW",
+      "category": "POWER",
+      "date": "2026-01-16T05:39:14+00:00",
+      "url": "https://powerline.net.in/2026/01/16/hinduja-renewables-to-invest-usd-4-billion-to-scale-re-capacity-to-10-gw/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Kuwait’s PAHW awards KWD 36.5 million contracts for 400 kV UGC works at South Sabah Al-Ahmad City",
+      "category": "POWER",
+      "date": "2026-01-16T05:38:01+00:00",
+      "url": "https://powerline.net.in/2026/01/16/kuwaits-pahw-awards-kwd-36-5-million-contracts-for-400-kv-ugc-works-at-south-sabah-al-ahmad-city/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "KETRACO commissions 132 kV Lessos–Kabarnet transmission line in Kenya",
+      "category": "POWER",
+      "date": "2026-01-16T05:03:02+00:00",
+      "url": "https://powerline.net.in/2026/01/16/ketraco-commissions-132-kv-lessos-kabarnet-transmission-line-in-kenya/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "See your grid, trust your data: How visual AI is entering utility field workflows",
       "category": "RENEWABLE",
       "date": "2026-01-15T21:27:01+00:00",
@@ -2298,5 +2354,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-16T03:56:11.290252+00:00"
+  "last_updated_utc": "2026-01-16T07:00:30.756913+00:00"
 }
