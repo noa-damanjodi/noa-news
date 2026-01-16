@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "See your grid, trust your data: How visual AI is entering utility field workflows",
+      "category": "RENEWABLE",
+      "date": "2026-01-15T21:27:01+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/see-your-grid-trust-your-data-how-visual-ai-is-entering-utility-field-workflows/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Duke Energy brings $100M, 50-MW battery online at former coal site",
+      "category": "RENEWABLE",
+      "date": "2026-01-15T21:05:59+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/duke-energy-brings-100m-50-mw-battery-online-at-former-coal-site/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "This tech could keep EVs from stressing the grid — and save everyone money",
       "category": "RENEWABLE",
       "date": "2026-01-15T19:11:14+00:00",
@@ -22,6 +38,22 @@
       "category": "RENEWABLE",
       "date": "2026-01-15T17:31:34+00:00",
       "url": "https://www.renewableenergyworld.com/power-grid/geobuiz-explores-how-geospatial-data-is-reshaping-every-side-of-the-utility-landscape/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Renewable jobs lagging behind clean energy deployment",
+      "category": "RENEWABLE",
+      "date": "2026-01-15T16:07:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/renewable-jobs-lagging-behind-clean-energy-deployment/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Talking about energy dominance? Solar would like to have a word",
+      "category": "RENEWABLE",
+      "date": "2026-01-15T15:29:00+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/utility-scale/talking-about-energy-dominance-solar-would-like-to-have-a-word/",
       "source": "Factor This™",
       "type": "magazine"
     },
@@ -226,5 +258,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-15T19:14:31.967444+00:00"
+  "last_updated_utc": "2026-01-16T03:56:11.290252+00:00"
 }
