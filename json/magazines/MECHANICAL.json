@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Eagle Point Software partners with SmartDraft on training",
+      "category": "MECHANICAL",
+      "date": "2026-01-16T11:05:07+00:00",
+      "url": "https://www.engineering.com/eagle-point-software-partners-with-smartdraft-on-training/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DataMesh launches Robotics platform for industrial embodied AI",
+      "category": "MECHANICAL",
+      "date": "2026-01-16T10:55:26+00:00",
+      "url": "https://www.engineering.com/datamesh-launches-robotics-platform-for-industrial-embodied-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "iBase-t releases Solumina AI for regulated aerospace manufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-01-16T10:48:29+00:00",
+      "url": "https://www.engineering.com/ibase-t-releases-solumina-ai-for-regulated-aerospace-manufacturing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Revalize introduces partner program for CAD, CPQ and PLM",
+      "category": "MECHANICAL",
+      "date": "2026-01-16T10:39:46+00:00",
+      "url": "https://www.engineering.com/revalize-introduces-partner-program-for-cad-cpq-and-plm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rockwell Automation supports Tate & Lyle’s new Brazil plant",
+      "category": "MECHANICAL",
+      "date": "2026-01-16T09:42:02+00:00",
+      "url": "https://www.engineering.com/rockwell-automation-supports-tate-lyles-new-brazil-plant/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "CurifyLabs rolls out PharmaPrinter Aurum for compounding",
+      "category": "MECHANICAL",
+      "date": "2026-01-16T08:01:52+00:00",
+      "url": "https://www.engineering.com/curifylabs-rolls-out-pharmaprinter-aurum-for-compounding/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Aveva launches 4 AI tools tied to its cloud engineering platform",
       "category": "MECHANICAL",
       "date": "2026-01-15T17:06:37+00:00",
@@ -506,5 +554,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-16T07:00:30.756913+00:00"
+  "last_updated_utc": "2026-01-16T13:51:33.024151+00:00"
 }

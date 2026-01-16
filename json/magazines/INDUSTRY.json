@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Gold Royalty to acquire additional NSR on Borborema Mine in Brazil",
+      "category": "INDUSTRY",
+      "date": "2026-01-16T10:56:13+00:00",
+      "url": "https://www.mining-technology.com/news/gold-royalty-acquire-additional-nsr-borborema-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Silver Storm begins 6,000m underground drilling at La Parrilla Silver Mine",
+      "category": "INDUSTRY",
+      "date": "2026-01-16T09:12:04+00:00",
+      "url": "https://www.mining-technology.com/news/silver-storm-begins-drilling-la-parrilla-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rio Tinto and BHP to collaborate on Pilbara iron ore mining",
+      "category": "INDUSTRY",
+      "date": "2026-01-16T09:05:02+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-and-bhp-to-collaborate-on-pilbara-iron-ore-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Orion and SNB Capital partner to enhance Saudi mining industry",
       "category": "INDUSTRY",
       "date": "2026-01-14T16:20:29+00:00",
@@ -274,5 +298,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-16T07:00:30.756913+00:00"
+  "last_updated_utc": "2026-01-16T13:51:33.024151+00:00"
 }
