@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "InnovMetric partners with Artec 3D on metrology software",
+      "category": "MECHANICAL",
+      "date": "2026-01-17T06:02:52+00:00",
+      "url": "https://www.engineering.com/innovmetric-partners-with-artec-3d-on-metrology-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "What role does digital transformation play in physics AI?",
       "category": "MECHANICAL",
       "date": "2026-01-16T21:39:54+00:00",
@@ -2490,5 +2498,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-17T03:46:59.065662+00:00"
+  "last_updated_utc": "2026-01-17T06:55:21.773134+00:00"
 }
