@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "What role does digital transformation play in physics AI?",
+      "category": "MECHANICAL",
+      "date": "2026-01-16T21:39:54+00:00",
+      "url": "https://www.engineering.com/what-role-does-digital-transformation-play-in-physics-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Understanding color consistency in 3D printing polymers",
+      "category": "MECHANICAL",
+      "date": "2026-01-16T20:38:40+00:00",
+      "url": "https://www.engineering.com/understanding-color-consistency-in-3d-printing-polymers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Can American batteries keep up the pace? – This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-01-16T17:57:47+00:00",
@@ -23,6 +39,14 @@
       "date": "2026-01-16T14:47:30+00:00",
       "url": "https://www.automationmag.com/schneider-electric-canada-opens-new-headquarters-ecofit-centre-in-milton/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Dalaroo identifies critical minerals system at Blue Lagoon, Greenland",
+      "category": "INDUSTRY",
+      "date": "2026-01-16T14:22:05+00:00",
+      "url": "https://www.mining-technology.com/news/dalaroo-identifies-critical-minerals-system-at-blue-lagoon-greenland/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -2466,5 +2490,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-16T18:59:29.303932+00:00"
+  "last_updated_utc": "2026-01-17T03:46:59.065662+00:00"
 }
