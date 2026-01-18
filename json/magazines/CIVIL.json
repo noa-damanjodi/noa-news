@@ -2,6 +2,14 @@
   "category": "CIVIL",
   "items": [
     {
+      "title": "Voltage Fluctuations Inside Buildings",
+      "category": "CIVIL",
+      "date": "2026-01-18T06:27:15+00:00",
+      "url": "https://theconstructor.org/building/voltage-fluctuations-inside-buildings/579304/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
       "title": "Seasonal Building Leakage That Appears and Disappears",
       "category": "CIVIL",
       "date": "2026-01-15T07:17:57+00:00",
@@ -90,5 +98,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-18T04:03:31.197184+00:00"
+  "last_updated_utc": "2026-01-18T13:37:43.236744+00:00"
 }
