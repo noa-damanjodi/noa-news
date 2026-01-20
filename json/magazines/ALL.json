@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Infini Resources announces phase two assay findings in Saskatchewan",
+      "category": "INDUSTRY",
+      "date": "2026-01-20T13:36:48+00:00",
+      "url": "https://www.mining-technology.com/news/infini-resources-announces-phase-two-assay-findings-in-saskatchewan/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ELEGOO to launch Centauri Carbon 2 Combo multicolor 3D printer",
+      "category": "MECHANICAL",
+      "date": "2026-01-20T12:46:00+00:00",
+      "url": "https://www.engineering.com/elegoo-to-launch-centauri-carbon-2-combo-multicolor-3d-printer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nullspace updates EM simulation suite with AI and faster RF analysis",
+      "category": "MECHANICAL",
+      "date": "2026-01-20T12:18:00+00:00",
+      "url": "https://www.engineering.com/nullspace-updates-em-simulation-suite-with-ai-and-faster-rf-analysis/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "6K Additive named AGF Defcom’s strategic metal powder supplier",
+      "category": "MECHANICAL",
+      "date": "2026-01-20T11:56:14+00:00",
+      "url": "https://www.engineering.com/6k-additive-named-agf-defcoms-strategic-metal-powder-supplier/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon expands Databridge Pro no-code integration platform",
+      "category": "MECHANICAL",
+      "date": "2026-01-20T11:45:00+00:00",
+      "url": "https://www.engineering.com/hexagon-expands-databridge-pro-no-code-integration-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bitzero adds NVIDIA Blackwell B300 GPUs for neocloud services",
+      "category": "MECHANICAL",
+      "date": "2026-01-20T11:32:58+00:00",
+      "url": "https://www.engineering.com/bitzero-adds-nvidia-blackwell-b300-gpus-for-neocloud-services/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PacketFabric and Massed Compute launch NaaS plus GPUaaS platform",
+      "category": "MECHANICAL",
+      "date": "2026-01-20T11:27:37+00:00",
+      "url": "https://www.engineering.com/packetfabric-and-massed-compute-launch-naas-plus-gpuaas-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Building Grid Resilience: Modern approaches to power quality management",
+      "category": "POWER",
+      "date": "2026-01-20T10:42:49+00:00",
+      "url": "https://powerline.net.in/2026/01/20/building-grid-resilience-modern-approaches-to-power-quality-management/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Greenland Resources and GMH Gruppe sign molybdenum supply MoU",
+      "category": "INDUSTRY",
+      "date": "2026-01-20T10:04:12+00:00",
+      "url": "https://www.mining-technology.com/news/greenland-resources-and-gmh-gruppe-sign-molybdenum-supply-mou/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Omron DX100 edge device connects PLCs and factory data",
+      "category": "MECHANICAL",
+      "date": "2026-01-20T09:43:54+00:00",
+      "url": "https://www.engineering.com/omron-dx100-edge-device-connects-plcs-and-factory-data/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric develops multi-agent AI for expert decisions",
+      "category": "MECHANICAL",
+      "date": "2026-01-20T09:18:09+00:00",
+      "url": "https://www.engineering.com/mitsubishi-electric-develops-multi-agent-ai-for-expert-decisions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Barrick Gold expands Lumwana project with Metso’s Concorde Cell technology",
+      "category": "INDUSTRY",
+      "date": "2026-01-20T08:59:39+00:00",
+      "url": "https://www.mining-technology.com/news/barrick-gold-expands-lumwana-project-with-metsos-concorde-cell-technology/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Decmil secures contract for Pilbara’s West Angelas project",
+      "category": "INDUSTRY",
+      "date": "2026-01-20T07:41:02+00:00",
+      "url": "https://www.mining-technology.com/news/decmil-secures-contract-for-pilbaras-west-angelas-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Ministry of Power amends RoW compensation guidelines for transmission projects",
       "category": "POWER",
       "date": "2026-01-20T06:15:55+00:00",
@@ -2746,5 +2850,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-20T07:05:02.767754+00:00"
+  "last_updated_utc": "2026-01-20T13:58:48.860264+00:00"
 }

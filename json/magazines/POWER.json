@@ -2,6 +2,14 @@
   "category": "POWER",
   "items": [
     {
+      "title": "Building Grid Resilience: Modern approaches to power quality management",
+      "category": "POWER",
+      "date": "2026-01-20T10:42:49+00:00",
+      "url": "https://powerline.net.in/2026/01/20/building-grid-resilience-modern-approaches-to-power-quality-management/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Ministry of Power amends RoW compensation guidelines for transmission projects",
       "category": "POWER",
       "date": "2026-01-20T06:15:55+00:00",
@@ -786,5 +794,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-20T07:05:02.767754+00:00"
+  "last_updated_utc": "2026-01-20T13:58:48.860264+00:00"
 }

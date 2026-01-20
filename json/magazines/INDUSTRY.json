@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Infini Resources announces phase two assay findings in Saskatchewan",
+      "category": "INDUSTRY",
+      "date": "2026-01-20T13:36:48+00:00",
+      "url": "https://www.mining-technology.com/news/infini-resources-announces-phase-two-assay-findings-in-saskatchewan/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Greenland Resources and GMH Gruppe sign molybdenum supply MoU",
+      "category": "INDUSTRY",
+      "date": "2026-01-20T10:04:12+00:00",
+      "url": "https://www.mining-technology.com/news/greenland-resources-and-gmh-gruppe-sign-molybdenum-supply-mou/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Barrick Gold expands Lumwana project with Metso’s Concorde Cell technology",
+      "category": "INDUSTRY",
+      "date": "2026-01-20T08:59:39+00:00",
+      "url": "https://www.mining-technology.com/news/barrick-gold-expands-lumwana-project-with-metsos-concorde-cell-technology/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Decmil secures contract for Pilbara’s West Angelas project",
+      "category": "INDUSTRY",
+      "date": "2026-01-20T07:41:02+00:00",
+      "url": "https://www.mining-technology.com/news/decmil-secures-contract-for-pilbaras-west-angelas-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Is US access to Venezuela’s mineral wealth a pipe dream?",
       "category": "INDUSTRY",
       "date": "2026-01-19T17:01:11+00:00",
@@ -362,5 +394,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-20T07:05:02.767754+00:00"
+  "last_updated_utc": "2026-01-20T13:58:48.860264+00:00"
 }
