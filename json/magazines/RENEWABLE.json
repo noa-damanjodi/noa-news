@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "As data centers jostle to get on Texas’ grid, ERCOT promises new rules for ‘Batch Zero’",
+      "category": "RENEWABLE",
+      "date": "2026-01-20T17:31:35+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/as-data-centers-jostle-to-get-on-texas-grid-ercot-promises-new-rules-for-batch-zero/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "White House and governors pressure grid operator to boost power supply, slow electricity price hikes",
+      "category": "RENEWABLE",
+      "date": "2026-01-20T17:10:48+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/white-house-and-governors-pressure-grid-operator-to-boost-power-supply-slow-electricity-price-hikes/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "‘Tale of two snowpacks,’ water supply report shows elevation matters",
       "category": "RENEWABLE",
       "date": "2026-01-19T21:45:22+00:00",
@@ -290,5 +306,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-20T13:58:48.860264+00:00"
+  "last_updated_utc": "2026-01-20T20:36:05.352700+00:00"
 }

@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Automatic motion on the factory floor",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-20T18:46:05+00:00",
+      "url": "https://www.automationmag.com/automatic-motion-on-the-factory-floor/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Jury nominates three solutions for the ROBOTICS AWARD 2026, awarded at Hannover MESSE",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-20T17:32:24+00:00",
+      "url": "https://www.automationmag.com/jury-nominates-three-solutions-for-the-robotics-award-2026-awarded-at-hannover-messe/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "As data centers jostle to get on Texas’ grid, ERCOT promises new rules for ‘Batch Zero’",
+      "category": "RENEWABLE",
+      "date": "2026-01-20T17:31:35+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/as-data-centers-jostle-to-get-on-texas-grid-ercot-promises-new-rules-for-batch-zero/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "White House and governors pressure grid operator to boost power supply, slow electricity price hikes",
+      "category": "RENEWABLE",
+      "date": "2026-01-20T17:10:48+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/white-house-and-governors-pressure-grid-operator-to-boost-power-supply-slow-electricity-price-hikes/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Festo releases System Configurator to streamline automation system design",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-20T15:21:42+00:00",
+      "url": "https://www.automationmag.com/festo-releases-system-configurator-to-streamline-automation-system-design/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Automate 2026 brings Humanoid Robot Forum to show alongside NVIDIA-sponsored humanoid robot pavilion",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-20T15:07:45+00:00",
+      "url": "https://www.automationmag.com/automate-2026-brings-humanoid-robot-forum-to-show-alongside-nvidia-sponsored-humanoid-robot-pavilion/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Flexxbotics launches open-source project on GitHub",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-20T14:54:29+00:00",
+      "url": "https://www.automationmag.com/flexxbotics-launches-open-source-project-on-github/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Infini Resources announces phase two assay findings in Saskatchewan",
       "category": "INDUSTRY",
       "date": "2026-01-20T13:36:48+00:00",
@@ -2850,5 +2906,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-20T13:58:48.860264+00:00"
+  "last_updated_utc": "2026-01-20T20:36:05.352700+00:00"
 }
