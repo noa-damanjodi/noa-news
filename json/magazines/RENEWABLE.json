@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Judge allows a third offshore wind project to resume construction as the industry challenges Trump",
+      "category": "RENEWABLE",
+      "date": "2026-01-20T20:52:46+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/offshore/judge-allows-a-third-offshore-wind-project-to-resume-construction-as-the-industry-challenges-trump/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "As data centers jostle to get on Texas’ grid, ERCOT promises new rules for ‘Batch Zero’",
       "category": "RENEWABLE",
       "date": "2026-01-20T17:31:35+00:00",
@@ -306,5 +314,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-20T20:36:05.352700+00:00"
+  "last_updated_utc": "2026-01-21T04:04:58.340181+00:00"
 }
