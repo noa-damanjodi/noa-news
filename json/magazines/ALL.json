@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Energy demand curves and bridge power for data centers define connections and conversations at POWERGEN 2026",
+      "category": "RENEWABLE",
+      "date": "2026-01-21T13:20:22+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/energy-demand-curves-bridge-power-powergen-2026/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Roland DG updates TY-300 DTF printer for higher production output",
+      "category": "MECHANICAL",
+      "date": "2026-01-21T11:18:00+00:00",
+      "url": "https://www.engineering.com/roland-dg-updates-ty-300-dtf-printer-for-higher-production-output/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Energy Fuels signs SID to acquire Australian Strategic Materials",
+      "category": "INDUSTRY",
+      "date": "2026-01-21T10:16:20+00:00",
+      "url": "https://www.mining-technology.com/news/energy-fuels-sid-acquire-australian-strategic-materials/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Arora Engineers acquires J.A. Watts to expand infrastructure reach",
+      "category": "MECHANICAL",
+      "date": "2026-01-21T10:12:00+00:00",
+      "url": "https://www.engineering.com/arora-engineers-acquires-j-a-watts-to-expand-infrastructure-reach/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "TriMech Group partners with Capone Motorsports on engineering",
+      "category": "MECHANICAL",
+      "date": "2026-01-21T10:06:00+00:00",
+      "url": "https://www.engineering.com/trimech-group-partners-with-capone-motorsports-on-engineering/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Appotronics unveils laser+LCOS engine for AR glasses",
+      "category": "MECHANICAL",
+      "date": "2026-01-21T09:05:00+00:00",
+      "url": "https://www.engineering.com/appotronics-unveils-laserlcos-engine-for-ar-glasses/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DuPont appointed D.G. Macpherson to the board of directors",
+      "category": "MECHANICAL",
+      "date": "2026-01-21T09:03:00+00:00",
+      "url": "https://www.engineering.com/dupont-appointed-d-g-macpherson-to-the-board-of-directors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Critica initiates scoping study for Jupiter Rare Earth Project in WA",
+      "category": "INDUSTRY",
+      "date": "2026-01-21T08:27:19+00:00",
+      "url": "https://www.mining-technology.com/news/critica-scoping-study-jupiter-rare-earth/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Silvercorp to acquire 70% stake in Kyrgyzstan gold projects",
+      "category": "INDUSTRY",
+      "date": "2026-01-21T08:08:55+00:00",
+      "url": "https://www.mining-technology.com/news/silvercorp-to-acquire-70-stake-in-kyrgyzstan-gold-projects/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "CEA issues MQAPM guidelines for major power sector equipment",
       "category": "POWER",
       "date": "2026-01-21T05:48:13+00:00",
@@ -143,6 +215,14 @@
       "date": "2026-01-20T14:54:29+00:00",
       "url": "https://www.automationmag.com/flexxbotics-launches-open-source-project-on-github/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Reach Resources secures Murchison South mining lease M59/786",
+      "category": "INDUSTRY",
+      "date": "2026-01-20T13:44:40+00:00",
+      "url": "https://www.mining-technology.com/news/reach-resources-secures-murchison-south-mining-lease-m59-786/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -2994,5 +3074,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-21T07:05:14.183684+00:00"
+  "last_updated_utc": "2026-01-21T13:58:46.216358+00:00"
 }

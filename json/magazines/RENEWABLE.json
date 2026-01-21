@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Energy demand curves and bridge power for data centers define connections and conversations at POWERGEN 2026",
+      "category": "RENEWABLE",
+      "date": "2026-01-21T13:20:22+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/energy-demand-curves-bridge-power-powergen-2026/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Judge allows a third offshore wind project to resume construction as the industry challenges Trump",
       "category": "RENEWABLE",
       "date": "2026-01-20T20:52:46+00:00",
@@ -314,5 +322,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-21T07:05:14.183684+00:00"
+  "last_updated_utc": "2026-01-21T13:58:46.216358+00:00"
 }

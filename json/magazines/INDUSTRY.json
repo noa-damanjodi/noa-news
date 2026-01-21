@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Energy Fuels signs SID to acquire Australian Strategic Materials",
+      "category": "INDUSTRY",
+      "date": "2026-01-21T10:16:20+00:00",
+      "url": "https://www.mining-technology.com/news/energy-fuels-sid-acquire-australian-strategic-materials/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Critica initiates scoping study for Jupiter Rare Earth Project in WA",
+      "category": "INDUSTRY",
+      "date": "2026-01-21T08:27:19+00:00",
+      "url": "https://www.mining-technology.com/news/critica-scoping-study-jupiter-rare-earth/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Silvercorp to acquire 70% stake in Kyrgyzstan gold projects",
+      "category": "INDUSTRY",
+      "date": "2026-01-21T08:08:55+00:00",
+      "url": "https://www.mining-technology.com/news/silvercorp-to-acquire-70-stake-in-kyrgyzstan-gold-projects/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Reach Resources secures Murchison South mining lease M59/786",
+      "category": "INDUSTRY",
+      "date": "2026-01-20T13:44:40+00:00",
+      "url": "https://www.mining-technology.com/news/reach-resources-secures-murchison-south-mining-lease-m59-786/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Infini Resources announces phase two assay findings in Saskatchewan",
       "category": "INDUSTRY",
       "date": "2026-01-20T13:36:48+00:00",
@@ -394,5 +426,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-21T07:05:14.183684+00:00"
+  "last_updated_utc": "2026-01-21T13:58:46.216358+00:00"
 }
