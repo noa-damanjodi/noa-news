@@ -2,11 +2,83 @@
   "category": "ALL",
   "items": [
     {
+      "title": "‘We could have a problem’ POWERGEN 2026’s second Keynote takes stock of the grid",
+      "category": "RENEWABLE",
+      "date": "2026-01-21T20:17:13+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/we-could-have-a-problem-powergen-2026s-second-keynote-takes-stock-of-the-grid/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Additive automotive update: BLT, Bugatti, Porsche, and Stratasys",
+      "category": "MECHANICAL",
+      "date": "2026-01-21T19:18:51+00:00",
+      "url": "https://www.engineering.com/additive-automotive-update-blt-bugatti-porsche-and-stratasys/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Evolving cyber attacks are threatening the grid, but a new era of security monitoring has arrived",
+      "category": "RENEWABLE",
+      "date": "2026-01-21T18:04:30+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/evolving-cyber-attacks-are-threatening-the-grid-but-a-new-era-of-security-monitoring-has-arrived/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Carlo Gavazzi releases GDPH Series Definite Purpose Contactors",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-21T16:48:34+00:00",
+      "url": "https://www.automationmag.com/carlo-gavazzi-releases-gdph-series-definite-purpose-contactors/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Indigenous-owned Flowing River Capital has big plans in the growing defence sector",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-21T15:25:46+00:00",
+      "url": "https://www.automationmag.com/indigenous-owned-flowing-river-capital-has-big-plans-in-the-growing-defence-sector/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Zuken releases free OrCAD-to-eCADSTAR migration module",
+      "category": "MECHANICAL",
+      "date": "2026-01-21T14:20:58+00:00",
+      "url": "https://www.engineering.com/zuken-releases-free-orcad-to-ecadstar-migration-module/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence LPDDR5X IP system integrates Microsoft RAIDDR ECC",
+      "category": "MECHANICAL",
+      "date": "2026-01-21T14:14:41+00:00",
+      "url": "https://www.engineering.com/cadence-lpddr5x-ip-system-integrates-microsoft-raiddr-ecc/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Energy demand curves and bridge power for data centers define connections and conversations at POWERGEN 2026",
       "category": "RENEWABLE",
       "date": "2026-01-21T13:20:22+00:00",
       "url": "https://www.renewableenergyworld.com/power-grid/energy-demand-curves-bridge-power-powergen-2026/",
       "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Artemis Resources restarts diamond drilling at Titan East prospect",
+      "category": "INDUSTRY",
+      "date": "2026-01-21T12:54:27+00:00",
+      "url": "https://www.mining-technology.com/news/artemis-resources-restarts-drilling-titan-east/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rio Tinto reports 8% increase in 2025 copper production",
+      "category": "INDUSTRY",
+      "date": "2026-01-21T12:39:56+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-reports-8-increase-in-2025-copper-production/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -3074,5 +3146,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-21T13:58:46.216358+00:00"
+  "last_updated_utc": "2026-01-22T04:15:25.492606+00:00"
 }

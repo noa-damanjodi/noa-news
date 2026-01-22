@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Artemis Resources restarts diamond drilling at Titan East prospect",
+      "category": "INDUSTRY",
+      "date": "2026-01-21T12:54:27+00:00",
+      "url": "https://www.mining-technology.com/news/artemis-resources-restarts-drilling-titan-east/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rio Tinto reports 8% increase in 2025 copper production",
+      "category": "INDUSTRY",
+      "date": "2026-01-21T12:39:56+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-reports-8-increase-in-2025-copper-production/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Energy Fuels signs SID to acquire Australian Strategic Materials",
       "category": "INDUSTRY",
       "date": "2026-01-21T10:16:20+00:00",
@@ -426,5 +442,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-21T13:58:46.216358+00:00"
+  "last_updated_utc": "2026-01-22T04:15:25.492606+00:00"
 }

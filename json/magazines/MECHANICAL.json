@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Additive automotive update: BLT, Bugatti, Porsche, and Stratasys",
+      "category": "MECHANICAL",
+      "date": "2026-01-21T19:18:51+00:00",
+      "url": "https://www.engineering.com/additive-automotive-update-blt-bugatti-porsche-and-stratasys/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Zuken releases free OrCAD-to-eCADSTAR migration module",
+      "category": "MECHANICAL",
+      "date": "2026-01-21T14:20:58+00:00",
+      "url": "https://www.engineering.com/zuken-releases-free-orcad-to-ecadstar-migration-module/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence LPDDR5X IP system integrates Microsoft RAIDDR ECC",
+      "category": "MECHANICAL",
+      "date": "2026-01-21T14:14:41+00:00",
+      "url": "https://www.engineering.com/cadence-lpddr5x-ip-system-integrates-microsoft-raiddr-ecc/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Roland DG updates TY-300 DTF printer for higher production output",
       "category": "MECHANICAL",
       "date": "2026-01-21T11:18:00+00:00",
@@ -706,5 +730,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-21T13:58:46.216358+00:00"
+  "last_updated_utc": "2026-01-22T04:15:25.492606+00:00"
 }

@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "‘We could have a problem’ POWERGEN 2026’s second Keynote takes stock of the grid",
+      "category": "RENEWABLE",
+      "date": "2026-01-21T20:17:13+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/we-could-have-a-problem-powergen-2026s-second-keynote-takes-stock-of-the-grid/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Evolving cyber attacks are threatening the grid, but a new era of security monitoring has arrived",
+      "category": "RENEWABLE",
+      "date": "2026-01-21T18:04:30+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/evolving-cyber-attacks-are-threatening-the-grid-but-a-new-era-of-security-monitoring-has-arrived/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Energy demand curves and bridge power for data centers define connections and conversations at POWERGEN 2026",
       "category": "RENEWABLE",
       "date": "2026-01-21T13:20:22+00:00",
@@ -322,5 +338,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-21T13:58:46.216358+00:00"
+  "last_updated_utc": "2026-01-22T04:15:25.492606+00:00"
 }
