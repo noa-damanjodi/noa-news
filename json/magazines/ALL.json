@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "West Cobar announces 263mt gallium resource estimate in WA",
+      "category": "INDUSTRY",
+      "date": "2026-01-22T13:47:04+00:00",
+      "url": "https://www.mining-technology.com/news/west-cobar-announces-263mt-gallium-resource-estimate-in-wa/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Bristow secures early delivery slots for Electra EL9 aircraft",
+      "category": "MECHANICAL",
+      "date": "2026-01-22T09:44:22+00:00",
+      "url": "https://www.engineering.com/bristow-secures-early-delivery-slots-for-electra-el9-aircraft/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric named Clarivate Top 100 Global Innovator 2026",
+      "category": "MECHANICAL",
+      "date": "2026-01-22T09:37:50+00:00",
+      "url": "https://www.engineering.com/mitsubishi-electric-named-clarivate-top-100-global-innovator-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Flexcompute and Bramble CFD partner on motorsport simulation",
+      "category": "MECHANICAL",
+      "date": "2026-01-22T09:23:53+00:00",
+      "url": "https://www.engineering.com/flexcompute-and-bramble-cfd-partner-on-motorsport-simulation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Opus One begins drilling at Noyell gold project in Quebec, Canada",
+      "category": "INDUSTRY",
+      "date": "2026-01-22T09:04:31+00:00",
+      "url": "https://www.mining-technology.com/news/opus-one-drilling-noyell-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Karman launches 10MW modular heat processing unit for AI sites",
+      "category": "MECHANICAL",
+      "date": "2026-01-22T08:09:37+00:00",
+      "url": "https://www.engineering.com/karman-launches-10mw-modular-heat-processing-unit-for-ai-sites/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Outdated Tools Are Costing You More Than You Think",
+      "category": "MECHANICAL",
+      "date": "2026-01-22T08:00:00+00:00",
+      "url": "https://www.engineering.com/outdated-tools-are-costing-you-more-than-you-think/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Procore acquires Datagrid to expand AI across construction data",
+      "category": "MECHANICAL",
+      "date": "2026-01-22T07:59:29+00:00",
+      "url": "https://www.engineering.com/procore-acquires-datagrid-to-expand-ai-across-construction-data/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PC Gold’s Spring Hill drilling reveals significant gold discoveries",
+      "category": "INDUSTRY",
+      "date": "2026-01-22T07:45:52+00:00",
+      "url": "https://www.mining-technology.com/news/pc-golds-spring-hill-drilling-reveals-significant-gold-discoveries/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Borealis Mining mobilises equipment to resume Nevada gold operations",
+      "category": "INDUSTRY",
+      "date": "2026-01-22T07:36:34+00:00",
+      "url": "https://www.mining-technology.com/news/borealis-mobilises-equipment-resume-gold-operations/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Ministry of Power issues draft NEP 2026",
       "category": "POWER",
       "date": "2026-01-22T05:53:40+00:00",
@@ -3210,5 +3290,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-22T07:03:31.515886+00:00"
+  "last_updated_utc": "2026-01-22T13:58:22.878668+00:00"
 }
