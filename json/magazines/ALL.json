@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "JSW Energy signs 1,600 MW thermal PPA with WBSEDCL",
+      "category": "POWER",
+      "date": "2026-01-23T06:40:31+00:00",
+      "url": "https://powerline.net.in/2026/01/23/jsw-energy-signs-1600-mw-thermal-ppa-with-wbsedcl/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NGEL signs MoU with Uttar Pradesh government for renewable energy and green hydrogen projects",
+      "category": "POWER",
+      "date": "2026-01-23T06:39:21+00:00",
+      "url": "https://powerline.net.in/2026/01/23/ngel-signs-mou-with-uttar-pradesh-government-for-renewable-energy-and-green-hydrogen-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "CESC Green Power secures approval for 3 GW solar and 5 GWh battery manufacturing facility in Odisha",
+      "category": "POWER",
+      "date": "2026-01-23T06:38:08+00:00",
+      "url": "https://powerline.net.in/2026/01/23/cesc-green-power-secures-approval-for-3-gw-solar-and-5-gwh-battery-manufacturing-facility-in-odisha/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "SAEL Industries commissions 1 GWp solar project at Khavda",
+      "category": "POWER",
+      "date": "2026-01-23T06:36:30+00:00",
+      "url": "https://powerline.net.in/2026/01/23/sael-industries-commissions-1-gwp-solar-project-at-khavda/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Kiyona Energy secures PPA for 26 MW solar project in Zambia",
+      "category": "POWER",
+      "date": "2026-01-23T06:35:16+00:00",
+      "url": "https://powerline.net.in/2026/01/23/kiyona-energy-secures-ppa-for-26-mw-solar-project-in-zambia/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Masdar and Octopus Energy sign MoU on clean energy initiatives in the UK and Africa",
+      "category": "POWER",
+      "date": "2026-01-23T06:33:45+00:00",
+      "url": "https://powerline.net.in/2026/01/23/masdar-and-octopus-energy-sign-mou-on-clean-energy-initiatives-in-the-uk-and-africa/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "How utilities are making the grid more reliable with condition-based transformer monitoring",
       "category": "RENEWABLE",
       "date": "2026-01-22T20:00:46+00:00",
@@ -3354,5 +3402,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-23T03:58:22.814754+00:00"
+  "last_updated_utc": "2026-01-23T07:02:34.028005+00:00"
 }
