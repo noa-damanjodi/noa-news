@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Aruma Resources acquires 85% stake in Tillex Copper-Silver Project",
+      "category": "INDUSTRY",
+      "date": "2026-01-23T11:02:46+00:00",
+      "url": "https://www.mining-technology.com/news/aruma-resources-acquires-85-stake-tillex-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Prospect Ridge announces initial assay results from Camelot project drilling",
+      "category": "INDUSTRY",
+      "date": "2026-01-23T10:57:07+00:00",
+      "url": "https://www.mining-technology.com/news/prospect-ridge-initial-assay-results-camelot-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "K2 Gold begins drilling at Si2 Gold Project in Nevada, US",
+      "category": "INDUSTRY",
+      "date": "2026-01-23T10:50:00+00:00",
+      "url": "https://www.mining-technology.com/news/k2-gold-begins-drilling-si2-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Sovereign Metals recovers heavy rare earth monazite at Kasiya project",
       "category": "INDUSTRY",
       "date": "2026-01-22T13:56:38+00:00",
@@ -482,5 +506,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-23T07:02:34.028005+00:00"
+  "last_updated_utc": "2026-01-23T19:02:11.239096+00:00"
 }

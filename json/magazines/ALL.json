@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Tormach announces next generation of its 770MX CNC mill",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-23T18:12:08+00:00",
+      "url": "https://www.automationmag.com/tormach-announces-next-generation-of-its-770mx-cnc-mill/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "What’s a life worth to the EPA? – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-01-23T17:31:20+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/whats-a-life-worth-to-the-epa-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "New report shows billion dollar humanoid robotics market emerging",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-23T15:53:46+00:00",
+      "url": "https://www.automationmag.com/new-report-shows-billion-dollar-humanoid-robotics-market-emerging/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Data and the DSO transition: How distribution utilities are using human-guided intelligence to make faster, more complex decisions",
+      "category": "RENEWABLE",
+      "date": "2026-01-23T15:34:04+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/distribution/data-and-the-dso-transition-how-distribution-utilities-are-using-human-guided-intelligence-to-make-faster-more-complex-decisions/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "ENCY becomes SOLIDWORKS Certified Solution Partner",
+      "category": "MECHANICAL",
+      "date": "2026-01-23T11:41:59+00:00",
+      "url": "https://www.engineering.com/ency-becomes-solidworks-certified-solution-partner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight adds machine learning toolkit to device modeling suite",
+      "category": "MECHANICAL",
+      "date": "2026-01-23T11:24:29+00:00",
+      "url": "https://www.engineering.com/keysight-adds-machine-learning-toolkit-to-device-modeling-suite/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aruma Resources acquires 85% stake in Tillex Copper-Silver Project",
+      "category": "INDUSTRY",
+      "date": "2026-01-23T11:02:46+00:00",
+      "url": "https://www.mining-technology.com/news/aruma-resources-acquires-85-stake-tillex-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Prospect Ridge announces initial assay results from Camelot project drilling",
+      "category": "INDUSTRY",
+      "date": "2026-01-23T10:57:07+00:00",
+      "url": "https://www.mining-technology.com/news/prospect-ridge-initial-assay-results-camelot-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "K2 Gold begins drilling at Si2 Gold Project in Nevada, US",
+      "category": "INDUSTRY",
+      "date": "2026-01-23T10:50:00+00:00",
+      "url": "https://www.mining-technology.com/news/k2-gold-begins-drilling-si2-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Corvex signs long-term NVIDIA H200 GPU lease for battery AI",
+      "category": "MECHANICAL",
+      "date": "2026-01-23T10:42:30+00:00",
+      "url": "https://www.engineering.com/corvex-signs-long-term-nvidia-h200-gpu-lease-for-battery-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Roland DG TY-300 earns BLI 2026 Pick Award for DTF",
+      "category": "MECHANICAL",
+      "date": "2026-01-23T10:36:40+00:00",
+      "url": "https://www.engineering.com/roland-dg-ty-300-earns-bli-2026-pick-award-for-dtf/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Reditus Space selects PTC Onshape for spacecraft development",
+      "category": "MECHANICAL",
+      "date": "2026-01-23T09:36:26+00:00",
+      "url": "https://www.engineering.com/reditus-space-selects-ptc-onshape-for-spacecraft-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Duct Routing That Conflicts With Architecture",
+      "category": "CIVIL",
+      "date": "2026-01-23T07:23:12+00:00",
+      "url": "https://theconstructor.org/architecture/duct-routing-conflicts-architecture/579361/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
       "title": "JSW Energy signs 1,600 MW thermal PPA with WBSEDCL",
       "category": "POWER",
       "date": "2026-01-23T06:40:31+00:00",
@@ -47,6 +151,14 @@
       "date": "2026-01-23T06:33:45+00:00",
       "url": "https://powerline.net.in/2026/01/23/masdar-and-octopus-energy-sign-mou-on-clean-energy-initiatives-in-the-uk-and-africa/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hoskin Group acquires Davis Controls",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-23T06:22:07+00:00",
+      "url": "https://www.automationmag.com/hoskin-group-acquires-davis-controls/",
+      "source": "Manufacturing AUTOMATION",
       "type": "magazine"
     },
     {
@@ -3402,5 +3514,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-23T07:02:34.028005+00:00"
+  "last_updated_utc": "2026-01-23T19:02:11.239096+00:00"
 }

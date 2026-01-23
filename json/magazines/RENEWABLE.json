@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "What’s a life worth to the EPA? – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-01-23T17:31:20+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/whats-a-life-worth-to-the-epa-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Data and the DSO transition: How distribution utilities are using human-guided intelligence to make faster, more complex decisions",
+      "category": "RENEWABLE",
+      "date": "2026-01-23T15:34:04+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/distribution/data-and-the-dso-transition-how-distribution-utilities-are-using-human-guided-intelligence-to-make-faster-more-complex-decisions/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "How utilities are making the grid more reliable with condition-based transformer monitoring",
       "category": "RENEWABLE",
       "date": "2026-01-22T20:00:46+00:00",
@@ -362,5 +378,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-23T07:02:34.028005+00:00"
+  "last_updated_utc": "2026-01-23T19:02:11.239096+00:00"
 }
