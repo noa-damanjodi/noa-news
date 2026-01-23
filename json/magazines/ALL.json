@@ -2,6 +2,38 @@
   "category": "ALL",
   "items": [
     {
+      "title": "How utilities are making the grid more reliable with condition-based transformer monitoring",
+      "category": "RENEWABLE",
+      "date": "2026-01-22T20:00:46+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/how-utilities-are-making-the-grid-more-reliable-with-condition-based-transformer-monitoring/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Trump administration scraps multimillion-dollar solar projects in Puerto Rico as grid crumbles",
+      "category": "RENEWABLE",
+      "date": "2026-01-22T19:27:17+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/trump-administration-scraps-multimillion-dollar-solar-projects-in-puerto-rico-as-grid-crumbles/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "‘We’ve got to have it all’ – POWERGEN 2026 opening keynote stresses the perils of being picky",
+      "category": "RENEWABLE",
+      "date": "2026-01-22T19:19:16+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/weve-got-to-have-it-all-powergen-2026-opening-keynote-stresses-the-perils-of-being-picky/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Dave Evans tapped to lead Misumi Americas",
+      "category": "MECHANICAL",
+      "date": "2026-01-22T19:12:10+00:00",
+      "url": "https://www.engineering.com/dave-evans-tapped-to-lead-misumi-americas/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "IDS introduces voluntary three-year manufacturer’s warranty across all industrial camera series",
       "category": "INSTRUMENTATION",
       "date": "2026-01-22T18:32:30+00:00",
@@ -23,6 +55,14 @@
       "date": "2026-01-22T15:01:18+00:00",
       "url": "https://www.engineering.com/hexagon-launches-hexagon-multivista-brand-for-aeco-services/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sovereign Metals recovers heavy rare earth monazite at Kasiya project",
+      "category": "INDUSTRY",
+      "date": "2026-01-22T13:56:38+00:00",
+      "url": "https://www.mining-technology.com/news/sovereign-metals-monazite-kasiya-project/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -3314,5 +3354,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-22T19:03:24.631953+00:00"
+  "last_updated_utc": "2026-01-23T03:58:22.814754+00:00"
 }

@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Sovereign Metals recovers heavy rare earth monazite at Kasiya project",
+      "category": "INDUSTRY",
+      "date": "2026-01-22T13:56:38+00:00",
+      "url": "https://www.mining-technology.com/news/sovereign-metals-monazite-kasiya-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "West Cobar announces 263mt gallium resource estimate in WA",
       "category": "INDUSTRY",
       "date": "2026-01-22T13:47:04+00:00",
@@ -474,5 +482,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-22T19:03:24.631953+00:00"
+  "last_updated_utc": "2026-01-23T03:58:22.814754+00:00"
 }

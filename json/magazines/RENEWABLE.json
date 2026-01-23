@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "How utilities are making the grid more reliable with condition-based transformer monitoring",
+      "category": "RENEWABLE",
+      "date": "2026-01-22T20:00:46+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/how-utilities-are-making-the-grid-more-reliable-with-condition-based-transformer-monitoring/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Trump administration scraps multimillion-dollar solar projects in Puerto Rico as grid crumbles",
+      "category": "RENEWABLE",
+      "date": "2026-01-22T19:27:17+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/trump-administration-scraps-multimillion-dollar-solar-projects-in-puerto-rico-as-grid-crumbles/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "‘We’ve got to have it all’ – POWERGEN 2026 opening keynote stresses the perils of being picky",
+      "category": "RENEWABLE",
+      "date": "2026-01-22T19:19:16+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/weve-got-to-have-it-all-powergen-2026-opening-keynote-stresses-the-perils-of-being-picky/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "‘We could have a problem’ POWERGEN 2026’s second Keynote takes stock of the grid",
       "category": "RENEWABLE",
       "date": "2026-01-21T20:17:13+00:00",
@@ -338,5 +362,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-22T19:03:24.631953+00:00"
+  "last_updated_utc": "2026-01-23T03:58:22.814754+00:00"
 }
