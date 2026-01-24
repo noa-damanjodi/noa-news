@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Financial Briefs: India and overseas",
+      "category": "POWER",
+      "date": "2026-01-24T10:37:50+00:00",
+      "url": "https://powerline.net.in/2026/01/24/financial-briefs-india-and-overseas-31/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Intelligent Solutions: Power quality management in renewable-rich grids",
+      "category": "POWER",
+      "date": "2026-01-24T10:37:39+00:00",
+      "url": "https://powerline.net.in/2026/01/24/intelligent-solutions-power-quality-management-in-renewable-rich-grids/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Tormach announces next generation of its 770MX CNC mill",
       "category": "INSTRUMENTATION",
       "date": "2026-01-23T18:12:08+00:00",
@@ -3514,5 +3530,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-24T06:56:36.819892+00:00"
+  "last_updated_utc": "2026-01-24T13:41:54.550482+00:00"
 }

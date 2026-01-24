@@ -2,6 +2,22 @@
   "category": "POWER",
   "items": [
     {
+      "title": "Financial Briefs: India and overseas",
+      "category": "POWER",
+      "date": "2026-01-24T10:37:50+00:00",
+      "url": "https://powerline.net.in/2026/01/24/financial-briefs-india-and-overseas-31/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Intelligent Solutions: Power quality management in renewable-rich grids",
+      "category": "POWER",
+      "date": "2026-01-24T10:37:39+00:00",
+      "url": "https://powerline.net.in/2026/01/24/intelligent-solutions-power-quality-management-in-renewable-rich-grids/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "JSW Energy signs 1,600 MW thermal PPA with WBSEDCL",
       "category": "POWER",
       "date": "2026-01-23T06:40:31+00:00",
@@ -970,5 +986,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-24T06:56:36.819892+00:00"
+  "last_updated_utc": "2026-01-24T13:41:54.550482+00:00"
 }
