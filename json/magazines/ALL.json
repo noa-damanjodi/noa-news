@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Microchip adds 600 V gate drivers for motor control designs",
+      "category": "MECHANICAL",
+      "date": "2026-01-26T12:39:25+00:00",
+      "url": "https://www.engineering.com/microchip-adds-600-v-gate-drivers-for-motor-control-designs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PG&E defines a new utility model for data centers, onsite gas, and community connection",
+      "category": "RENEWABLE",
+      "date": "2026-01-26T12:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/pge-defines-a-new-utility-model-for-data-centers-onsite-gas-and-community-connection/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "DEWALT and August Robotics launch downward drilling robot",
+      "category": "MECHANICAL",
+      "date": "2026-01-26T10:25:00+00:00",
+      "url": "https://www.engineering.com/dewalt-and-august-robotics-launch-downward-drilling-robot/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hadrian Additive launched for defense production capacity",
+      "category": "MECHANICAL",
+      "date": "2026-01-26T09:12:00+00:00",
+      "url": "https://www.engineering.com/hadrian-additive-launched-for-defense-production-capacity/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight supports Airbus UpNext SpaceRAN 5G NTN tests",
+      "category": "MECHANICAL",
+      "date": "2026-01-26T09:04:00+00:00",
+      "url": "https://www.engineering.com/keysight-supports-airbus-upnext-spaceran-5g-ntn-tests/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SEMIFIVE and SAPIEN sign MOU on CMOS micro-display backplanes",
+      "category": "MECHANICAL",
+      "date": "2026-01-26T08:58:00+00:00",
+      "url": "https://www.engineering.com/semifive-and-sapien-sign-mou-on-cmos-micro-display-backplanes/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Indoor Plants as Micro Air Modifiers",
       "category": "CIVIL",
       "date": "2026-01-25T08:09:38+00:00",
@@ -3538,5 +3586,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-26T07:05:07.552183+00:00"
+  "last_updated_utc": "2026-01-26T13:56:42.339173+00:00"
 }

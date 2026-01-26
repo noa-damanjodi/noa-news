@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "PG&E defines a new utility model for data centers, onsite gas, and community connection",
+      "category": "RENEWABLE",
+      "date": "2026-01-26T12:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/pge-defines-a-new-utility-model-for-data-centers-onsite-gas-and-community-connection/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "What’s a life worth to the EPA? – This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-01-23T17:31:20+00:00",
@@ -378,5 +386,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-26T07:05:07.552183+00:00"
+  "last_updated_utc": "2026-01-26T13:56:42.339173+00:00"
 }
