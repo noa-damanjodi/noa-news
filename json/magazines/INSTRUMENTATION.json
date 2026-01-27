@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "FORT Robotics launches Wireless E-Stop Pro",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-26T16:16:26+00:00",
+      "url": "https://www.automationmag.com/fort-robotics-launches-wireless-e-stop-pro/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "RS names Jonathan Bennett president of RS Americas",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-26T15:31:38+00:00",
+      "url": "https://www.automationmag.com/rs-names-jonathan-bennett-president-of-rs-americas/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Tormach announces next generation of its 770MX CNC mill",
       "category": "INSTRUMENTATION",
       "date": "2026-01-23T18:12:08+00:00",
@@ -506,5 +522,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-26T13:56:42.339173+00:00"
+  "last_updated_utc": "2026-01-27T04:13:26.639265+00:00"
 }

@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Is optical clarity possible in 3D printing?",
+      "category": "MECHANICAL",
+      "date": "2026-01-26T21:40:40+00:00",
+      "url": "https://www.engineering.com/is-optical-clarity-possible-in-3d-printing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Microchip adds 600 V gate drivers for motor control designs",
       "category": "MECHANICAL",
       "date": "2026-01-26T12:39:25+00:00",
@@ -882,5 +890,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-26T13:56:42.339173+00:00"
+  "last_updated_utc": "2026-01-27T04:13:26.639265+00:00"
 }

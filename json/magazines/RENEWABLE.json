@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Former Homestake Mine hydro plant in Spearfish Canyon could become an interpretive center",
+      "category": "RENEWABLE",
+      "date": "2026-01-26T19:17:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/former-homestake-mine-hydro-plant-in-spearfish-canyon-could-become-an-interpretive-center/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Underwater cameras could help unlock America’s tidal energy industry",
+      "category": "RENEWABLE",
+      "date": "2026-01-26T15:38:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/underwater-cameras-could-help-unlock-americas-tidal-energy-industry/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Nearly one million customers without power as southeast utilities respond to Winter Storm Fern",
+      "category": "RENEWABLE",
+      "date": "2026-01-26T14:52:05+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/nearly-one-million-customers-without-power-as-southeast-utilities-respond-to-winter-storm-fern/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "PG&E defines a new utility model for data centers, onsite gas, and community connection",
       "category": "RENEWABLE",
       "date": "2026-01-26T12:00:00+00:00",
@@ -386,5 +410,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-26T13:56:42.339173+00:00"
+  "last_updated_utc": "2026-01-27T04:13:26.639265+00:00"
 }

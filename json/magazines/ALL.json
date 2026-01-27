@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Is optical clarity possible in 3D printing?",
+      "category": "MECHANICAL",
+      "date": "2026-01-26T21:40:40+00:00",
+      "url": "https://www.engineering.com/is-optical-clarity-possible-in-3d-printing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Former Homestake Mine hydro plant in Spearfish Canyon could become an interpretive center",
+      "category": "RENEWABLE",
+      "date": "2026-01-26T19:17:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/former-homestake-mine-hydro-plant-in-spearfish-canyon-could-become-an-interpretive-center/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "FORT Robotics launches Wireless E-Stop Pro",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-26T16:16:26+00:00",
+      "url": "https://www.automationmag.com/fort-robotics-launches-wireless-e-stop-pro/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Underwater cameras could help unlock America’s tidal energy industry",
+      "category": "RENEWABLE",
+      "date": "2026-01-26T15:38:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/underwater-cameras-could-help-unlock-americas-tidal-energy-industry/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "RS names Jonathan Bennett president of RS Americas",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-26T15:31:38+00:00",
+      "url": "https://www.automationmag.com/rs-names-jonathan-bennett-president-of-rs-americas/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Nearly one million customers without power as southeast utilities respond to Winter Storm Fern",
+      "category": "RENEWABLE",
+      "date": "2026-01-26T14:52:05+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/nearly-one-million-customers-without-power-as-southeast-utilities-respond-to-winter-storm-fern/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Microchip adds 600 V gate drivers for motor control designs",
       "category": "MECHANICAL",
       "date": "2026-01-26T12:39:25+00:00",
@@ -3586,5 +3634,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-26T13:56:42.339173+00:00"
+  "last_updated_utc": "2026-01-27T04:13:26.639265+00:00"
 }
