@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Revizto adds chief revenue and product officers",
+      "category": "MECHANICAL",
+      "date": "2026-01-27T12:29:45+00:00",
+      "url": "https://www.engineering.com/revizto-adds-chief-revenue-and-product-officers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA expands CoreWeave partnership to build 5GW of AI factories",
+      "category": "MECHANICAL",
+      "date": "2026-01-27T08:50:20+00:00",
+      "url": "https://www.engineering.com/nvidia-expands-coreweave-partnership-to-build-5gw-of-ai-factories/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Elegoo launches Centauri Carbon 2 Combo multicolor 3D printer",
+      "category": "MECHANICAL",
+      "date": "2026-01-27T08:44:43+00:00",
+      "url": "https://www.engineering.com/elegoo-launches-centauri-carbon-2-combo-multicolor-3d-printer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HCLTech wins Ericsson Innovation Award in 2025 supplier honors",
+      "category": "MECHANICAL",
+      "date": "2026-01-27T08:32:55+00:00",
+      "url": "https://www.engineering.com/hcltech-wins-ericsson-innovation-award-in-2025-supplier-honors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Deltek names 2025 Global Partner Awards winners",
+      "category": "MECHANICAL",
+      "date": "2026-01-27T08:26:47+00:00",
+      "url": "https://www.engineering.com/deltek-names-2025-global-partner-awards-winners/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Montage launches PCIe 6.x/CXL 3.x active electrical cable",
+      "category": "MECHANICAL",
+      "date": "2026-01-27T08:13:44+00:00",
+      "url": "https://www.engineering.com/montage-launches-pcie-6-x-cxl-3-x-active-electrical-cable/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Is optical clarity possible in 3D printing?",
       "category": "MECHANICAL",
       "date": "2026-01-26T21:40:40+00:00",
@@ -890,5 +938,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-27T07:03:46.301139+00:00"
+  "last_updated_utc": "2026-01-27T14:00:21.986472+00:00"
 }
