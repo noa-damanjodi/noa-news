@@ -2,11 +2,75 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Additive research update: GenAI, 3D printing in microgravity, and more",
+      "category": "MECHANICAL",
+      "date": "2026-01-27T19:06:58+00:00",
+      "url": "https://www.engineering.com/additive-research-update-genai-3d-printing-in-microgravity-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Building cyber-resilient embedded systems: Insights from industry leaders",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-27T17:22:14+00:00",
+      "url": "https://www.automationmag.com/building-cyber-resilient-embedded-systems-insights-from-industry-leaders/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Vention raises $110 million USD to accelerate physical AI deployment across global manufacturing",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-27T16:26:36+00:00",
+      "url": "https://www.automationmag.com/vention-raises-110-million-usd-to-accelerate-physical-ai-deployment-across-global-manufacturing/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "ATS LSS and Kistler Group partner to produce automated medical device assembly line",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-27T16:04:19+00:00",
+      "url": "https://www.automationmag.com/ats-lss-and-kistler-group-partner-to-produce-automated-medical-device-assembly-line/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "LUCID introduces Helios2 Wide Chroma",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-27T15:29:21+00:00",
+      "url": "https://www.automationmag.com/lucid-introduces-helios2-wide-chroma/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "How grid operators and planners are combining measurement and modeling to maintain resilience",
+      "category": "RENEWABLE",
+      "date": "2026-01-27T15:27:37+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/how-grid-operators-and-planners-are-combining-measurement-and-modeling-to-maintain-resilience/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Hillgrove and Heavy Minerals sign garnet tailings processing agreement",
+      "category": "INDUSTRY",
+      "date": "2026-01-27T12:37:41+00:00",
+      "url": "https://www.mining-technology.com/news/hillgrove-heavy-minerals-tailings-agreement/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Revizto adds chief revenue and product officers",
       "category": "MECHANICAL",
       "date": "2026-01-27T12:29:45+00:00",
       "url": "https://www.engineering.com/revizto-adds-chief-revenue-and-product-officers/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Latham & Watkins and Kirkland & Ellis lead 2025 global M&A legal rankings",
+      "category": "INDUSTRY",
+      "date": "2026-01-27T12:28:36+00:00",
+      "url": "https://www.mining-technology.com/news/latham-watkins-and-kirkland-ellis-lead-2025-global-ma-legal-rankings/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -3314,6 +3378,14 @@
       "type": "magazine"
     },
     {
+      "title": "Recognition for Sustainable Port Solution: igus Wins “Maritime Innovator of the Year” Award",
+      "category": "ELECTRICAL",
+      "date": "2026-01-05T16:42:40+00:00",
+      "url": "https://www.electricalindia.in/recognition-for-sustainable-port-solution-igus-wins-maritime-innovator-of-the-year-award/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Electromate introduces maxon HEJ 90 to product offering",
       "category": "INSTRUMENTATION",
       "date": "2026-01-05T16:04:28+00:00",
@@ -3802,5 +3874,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-27T14:00:21.986472+00:00"
+  "last_updated_utc": "2026-01-27T19:17:28.894728+00:00"
 }

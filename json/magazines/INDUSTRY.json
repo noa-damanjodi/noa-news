@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Hillgrove and Heavy Minerals sign garnet tailings processing agreement",
+      "category": "INDUSTRY",
+      "date": "2026-01-27T12:37:41+00:00",
+      "url": "https://www.mining-technology.com/news/hillgrove-heavy-minerals-tailings-agreement/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Latham & Watkins and Kirkland & Ellis lead 2025 global M&A legal rankings",
+      "category": "INDUSTRY",
+      "date": "2026-01-27T12:28:36+00:00",
+      "url": "https://www.mining-technology.com/news/latham-watkins-and-kirkland-ellis-lead-2025-global-ma-legal-rankings/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "JPMorgan and Houlihan Lokey top North American M&A adviser rankings for 2025",
       "category": "INDUSTRY",
       "date": "2026-01-27T12:27:55+00:00",
@@ -554,5 +570,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-27T14:00:21.986472+00:00"
+  "last_updated_utc": "2026-01-27T19:17:28.894728+00:00"
 }

@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Additive research update: GenAI, 3D printing in microgravity, and more",
+      "category": "MECHANICAL",
+      "date": "2026-01-27T19:06:58+00:00",
+      "url": "https://www.engineering.com/additive-research-update-genai-3d-printing-in-microgravity-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Revizto adds chief revenue and product officers",
       "category": "MECHANICAL",
       "date": "2026-01-27T12:29:45+00:00",
@@ -938,5 +946,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-27T14:00:21.986472+00:00"
+  "last_updated_utc": "2026-01-27T19:17:28.894728+00:00"
 }

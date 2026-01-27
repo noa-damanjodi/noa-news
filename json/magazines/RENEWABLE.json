@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "How grid operators and planners are combining measurement and modeling to maintain resilience",
+      "category": "RENEWABLE",
+      "date": "2026-01-27T15:27:37+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/how-grid-operators-and-planners-are-combining-measurement-and-modeling-to-maintain-resilience/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Former Homestake Mine hydro plant in Spearfish Canyon could become an interpretive center",
       "category": "RENEWABLE",
       "date": "2026-01-26T19:17:00+00:00",
@@ -410,5 +418,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-27T14:00:21.986472+00:00"
+  "last_updated_utc": "2026-01-27T19:17:28.894728+00:00"
 }

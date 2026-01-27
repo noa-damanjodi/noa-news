@@ -2,6 +2,38 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Building cyber-resilient embedded systems: Insights from industry leaders",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-27T17:22:14+00:00",
+      "url": "https://www.automationmag.com/building-cyber-resilient-embedded-systems-insights-from-industry-leaders/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Vention raises $110 million USD to accelerate physical AI deployment across global manufacturing",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-27T16:26:36+00:00",
+      "url": "https://www.automationmag.com/vention-raises-110-million-usd-to-accelerate-physical-ai-deployment-across-global-manufacturing/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "ATS LSS and Kistler Group partner to produce automated medical device assembly line",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-27T16:04:19+00:00",
+      "url": "https://www.automationmag.com/ats-lss-and-kistler-group-partner-to-produce-automated-medical-device-assembly-line/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "LUCID introduces Helios2 Wide Chroma",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-27T15:29:21+00:00",
+      "url": "https://www.automationmag.com/lucid-introduces-helios2-wide-chroma/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "FORT Robotics launches Wireless E-Stop Pro",
       "category": "INSTRUMENTATION",
       "date": "2026-01-26T16:16:26+00:00",
@@ -522,5 +554,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-27T14:00:21.986472+00:00"
+  "last_updated_utc": "2026-01-27T19:17:28.894728+00:00"
 }
