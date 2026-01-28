@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "PTC adds AI parts rationalization tool to Windchill PLM",
+      "category": "MECHANICAL",
+      "date": "2026-01-28T13:59:26+00:00",
+      "url": "https://www.engineering.com/ptc-adds-ai-parts-rationalization-tool-to-windchill-plm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Stratasys launches post-processing partner program for 3D prints",
+      "category": "MECHANICAL",
+      "date": "2026-01-28T13:38:40+00:00",
+      "url": "https://www.engineering.com/stratasys-launches-post-processing-partner-program-for-3d-prints/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Innoviz launches InnovizSMART LiDAR for smart infrastructure applications",
+      "category": "MECHANICAL",
+      "date": "2026-01-28T10:22:46+00:00",
+      "url": "https://www.engineering.com/innoviz-launches-innovizsmart-lidar-for-smart-infrastructure-applications/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadonix launches smartBuild platform for wire harness production",
+      "category": "MECHANICAL",
+      "date": "2026-01-28T09:22:00+00:00",
+      "url": "https://www.engineering.com/cadonix-launches-smartbuild-platform-for-wire-harness-production/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MachiningCloud partners with Sandvik Coromant",
+      "category": "MECHANICAL",
+      "date": "2026-01-28T08:22:00+00:00",
+      "url": "https://www.engineering.com/machiningcloud-partners-with-sandvik-coromant/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "BoodleBox partners with NVIDIA to boost AI for education",
+      "category": "MECHANICAL",
+      "date": "2026-01-28T08:13:00+00:00",
+      "url": "https://www.engineering.com/boodlebox-partners-with-nvidia-to-boost-ai-for-education/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "AI Make Machining Suggestion now in Siemens NX X Manufacturing",
       "category": "MECHANICAL",
       "date": "2026-01-27T20:58:45+00:00",
@@ -954,5 +1002,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-28T07:03:29.757373+00:00"
+  "last_updated_utc": "2026-01-28T13:59:39.216154+00:00"
 }

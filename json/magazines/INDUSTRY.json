@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Skeena Resources secures assessment approval for Eskay Creek project",
+      "category": "INDUSTRY",
+      "date": "2026-01-28T12:04:31+00:00",
+      "url": "https://www.mining-technology.com/news/skeena-resources-approval-eskay-creek/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Mont Royal signs MoU for Ashram rare earths initiative in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-01-28T10:35:57+00:00",
+      "url": "https://www.mining-technology.com/news/mont-royal-mou-ashram-canada/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Orezone Gold signs agreement to acquire Hecla Quebec",
+      "category": "INDUSTRY",
+      "date": "2026-01-28T08:25:35+00:00",
+      "url": "https://www.mining-technology.com/news/orezone-gold-agreement-hecla-quebec/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Sierra Madre receives authorisation for change of Tlacotal land use in Mexico",
+      "category": "INDUSTRY",
+      "date": "2026-01-28T07:40:08+00:00",
+      "url": "https://www.mining-technology.com/news/sierra-madre-authorisation-tlacotal-land/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Hillgrove and Heavy Minerals sign garnet tailings processing agreement",
       "category": "INDUSTRY",
       "date": "2026-01-27T12:37:41+00:00",
@@ -570,5 +602,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-28T07:03:29.757373+00:00"
+  "last_updated_utc": "2026-01-28T13:59:39.216154+00:00"
 }
