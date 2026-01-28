@@ -2,11 +2,27 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Illinois high court rejects challenge to wind-generated transmission line",
+      "category": "RENEWABLE",
+      "date": "2026-01-27T20:41:46+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/illinois-high-court-rejects-challenge-to-wind-generated-transmission-line/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Additive research update: GenAI, 3D printing in microgravity, and more",
       "category": "MECHANICAL",
       "date": "2026-01-27T19:06:58+00:00",
       "url": "https://www.engineering.com/additive-research-update-genai-3d-printing-in-microgravity-and-more/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Kraken gets $1 billion boost to take flight",
+      "category": "RENEWABLE",
+      "date": "2026-01-27T18:43:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/kraken-gets-1-billion-boost-to-take-flight/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -3874,5 +3890,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-27T19:17:28.894728+00:00"
+  "last_updated_utc": "2026-01-28T04:11:08.610852+00:00"
 }
