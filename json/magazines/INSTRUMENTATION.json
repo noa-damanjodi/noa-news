@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "IFS reports 23 per cent YoY ARR growth in FY2025",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-28T17:56:21+00:00",
+      "url": "https://www.automationmag.com/ifs-reports-23-per-cent-yoy-arr-growth-in-fy2025/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Building cyber-resilient embedded systems: Insights from industry leaders",
       "category": "INSTRUMENTATION",
       "date": "2026-01-27T17:22:14+00:00",
@@ -554,5 +562,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-28T13:59:39.216154+00:00"
+  "last_updated_utc": "2026-01-28T19:04:26.215174+00:00"
 }

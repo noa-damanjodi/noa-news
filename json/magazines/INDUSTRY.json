@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Kuya Silver signs LoI to acquire SMRL Camila",
+      "category": "INDUSTRY",
+      "date": "2026-01-28T14:06:47+00:00",
+      "url": "https://www.mining-technology.com/news/kuya-silver-smrl-camila/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Skeena Resources secures assessment approval for Eskay Creek project",
       "category": "INDUSTRY",
       "date": "2026-01-28T12:04:31+00:00",
@@ -602,5 +610,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-28T13:59:39.216154+00:00"
+  "last_updated_utc": "2026-01-28T19:04:26.215174+00:00"
 }
