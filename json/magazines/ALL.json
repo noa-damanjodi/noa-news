@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Architecting scalable data pipelines in manufacturing – Part 1",
+      "category": "MECHANICAL",
+      "date": "2026-01-28T20:06:48+00:00",
+      "url": "https://www.engineering.com/architecting-scalable-data-pipelines-in-manufacturing-part-1/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Five figures that shine a light on the affordability landscape in 2026",
       "category": "RENEWABLE",
       "date": "2026-01-28T18:06:11+00:00",
@@ -4066,5 +4074,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-28T19:04:26.215174+00:00"
+  "last_updated_utc": "2026-01-29T04:54:24.210904+00:00"
 }
