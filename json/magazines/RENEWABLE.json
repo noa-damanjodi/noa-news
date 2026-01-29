@@ -2,6 +2,38 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "SEIA elects new board chair, board members to spearhead American solar + storage progress",
+      "category": "RENEWABLE",
+      "date": "2026-01-29T19:37:01+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/seia-elects-new-board-chair-board-members-to-spearhead-american-solar-storage-progress/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Judge rules Massachusetts offshore wind project halted by Trump administration can continue",
+      "category": "RENEWABLE",
+      "date": "2026-01-29T19:10:44+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/offshore/judge-rules-massachusetts-offshore-wind-project-halted-by-trump-administration-can-continue/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Hundreds of thousands still without power in Tennessee and Mississippi following Winter Storm Fern",
+      "category": "RENEWABLE",
+      "date": "2026-01-29T16:26:33+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/hundreds-of-thousands-still-without-power-in-tennessee-and-mississippi-following-winter-storm-fern/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Does solar really need subsidies? How successful renewable energy projects are adapting in 2026",
+      "category": "RENEWABLE",
+      "date": "2026-01-29T15:42:49+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/microgrid/does-solar-really-need-subsidies-how-successful-renewable-energy-projects-are-adapting-in-2026/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Five figures that shine a light on the affordability landscape in 2026",
       "category": "RENEWABLE",
       "date": "2026-01-28T18:06:11+00:00",
@@ -442,5 +474,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-29T14:10:35.163205+00:00"
+  "last_updated_utc": "2026-01-29T19:43:48.479578+00:00"
 }

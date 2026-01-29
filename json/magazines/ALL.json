@@ -2,10 +2,74 @@
   "category": "ALL",
   "items": [
     {
+      "title": "SEIA elects new board chair, board members to spearhead American solar + storage progress",
+      "category": "RENEWABLE",
+      "date": "2026-01-29T19:37:01+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/seia-elects-new-board-chair-board-members-to-spearhead-american-solar-storage-progress/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Judge rules Massachusetts offshore wind project halted by Trump administration can continue",
+      "category": "RENEWABLE",
+      "date": "2026-01-29T19:10:44+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/offshore/judge-rules-massachusetts-offshore-wind-project-halted-by-trump-administration-can-continue/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Hundreds of thousands still without power in Tennessee and Mississippi following Winter Storm Fern",
+      "category": "RENEWABLE",
+      "date": "2026-01-29T16:26:33+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/hundreds-of-thousands-still-without-power-in-tennessee-and-mississippi-following-winter-storm-fern/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "A fun new video series: Travel for Engineers",
+      "category": "MECHANICAL",
+      "date": "2026-01-29T16:08:33+00:00",
+      "url": "https://www.engineering.com/a-fun-new-video-series-travel-for-engineers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Does solar really need subsidies? How successful renewable energy projects are adapting in 2026",
+      "category": "RENEWABLE",
+      "date": "2026-01-29T15:42:49+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/microgrid/does-solar-really-need-subsidies-how-successful-renewable-energy-projects-are-adapting-in-2026/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Krakatoa announces initial drilling results at Georgia’s Zopkhito Project",
+      "category": "INDUSTRY",
+      "date": "2026-01-29T12:36:47+00:00",
+      "url": "https://www.mining-technology.com/news/krakatoa-initial-drilling-results-zopkhito-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Toubani Resources announces 100,000m drilling drive at Mali’s Kobada Project",
+      "category": "INDUSTRY",
+      "date": "2026-01-29T12:30:36+00:00",
+      "url": "https://www.mining-technology.com/news/toubani-resources-announces-100000m-drilling-drive-at-malis-kobada-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "West Side Tractor joins Trimble Technology Outlet network",
       "category": "MECHANICAL",
       "date": "2026-01-29T10:29:00+00:00",
       "url": "https://www.engineering.com/west-side-tractor-joins-trimble-technology-outlet-network/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Precision Additive launches PA-300 metal LPBF system",
+      "category": "MECHANICAL",
+      "date": "2026-01-29T10:25:00+00:00",
+      "url": "https://www.engineering.com/precision-additive-launches-pa-300-metal-lpbf-system/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -135,6 +199,14 @@
       "date": "2026-01-28T17:56:21+00:00",
       "url": "https://www.automationmag.com/ifs-reports-23-per-cent-yoy-arr-growth-in-fy2025/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Morgan Stanley and Rothschild & Co lead European M&A financial advisory in 2025",
+      "category": "INDUSTRY",
+      "date": "2026-01-28T15:36:00+00:00",
+      "url": "https://www.mining-technology.com/news/morgan-stanley-and-rothschild-co-lead-european-ma-financial-advisory-in-2025/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -4194,5 +4266,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-29T14:10:35.163205+00:00"
+  "last_updated_utc": "2026-01-29T19:43:48.479578+00:00"
 }
