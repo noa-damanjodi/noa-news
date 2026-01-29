@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "West Side Tractor joins Trimble Technology Outlet network",
+      "category": "MECHANICAL",
+      "date": "2026-01-29T10:29:00+00:00",
+      "url": "https://www.engineering.com/west-side-tractor-joins-trimble-technology-outlet-network/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "GIGABYTE releases X870E AORUS XTREME X3D AI TOP motherboard",
+      "category": "MECHANICAL",
+      "date": "2026-01-29T10:15:00+00:00",
+      "url": "https://www.engineering.com/gigabyte-releases-x870e-aorus-xtreme-x3d-ai-top-motherboard/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "LG to showcase next-generation compressors and motors at AHR Expo 2026",
+      "category": "MECHANICAL",
+      "date": "2026-01-29T10:04:00+00:00",
+      "url": "https://www.engineering.com/lg-to-showcase-next-generation-compressors-and-motors-at-ahr-expo-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AON3D raises new funding led by Cycle Capital",
+      "category": "MECHANICAL",
+      "date": "2026-01-29T09:22:00+00:00",
+      "url": "https://www.engineering.com/aon3d-raises-new-funding-led-by-cycle-capital/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cassava Technologies partners with AXON Networks",
+      "category": "MECHANICAL",
+      "date": "2026-01-29T08:12:00+00:00",
+      "url": "https://www.engineering.com/cassava-technologies-partners-with-axon-networks/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Architecting scalable data pipelines in manufacturing – Part 1",
       "category": "MECHANICAL",
       "date": "2026-01-28T20:06:48+00:00",
@@ -1010,5 +1050,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-29T04:54:24.210904+00:00"
+  "last_updated_utc": "2026-01-29T14:10:35.163205+00:00"
 }

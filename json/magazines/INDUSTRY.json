@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "CGN Resources to acquire Desdemona Project in Western Australia",
+      "category": "INDUSTRY",
+      "date": "2026-01-29T09:42:30+00:00",
+      "url": "https://www.mining-technology.com/news/cgn-resources-to-acquire-desdemona-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Globe Metals begins construction at Kanyika Niobium Project in Malawi",
+      "category": "INDUSTRY",
+      "date": "2026-01-29T09:23:00+00:00",
+      "url": "https://www.mining-technology.com/news/globe-metals-begins-construction-at-kanyika-niobium-project-in-malawi/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "McEwen to acquire British Columbia’s Golden Lake Exploration",
+      "category": "INDUSTRY",
+      "date": "2026-01-29T09:09:42+00:00",
+      "url": "https://www.mining-technology.com/news/mcewen-to-acquire-british-columbias-golden-lake-exploration/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Australia’s Groote Eylandt mine to support global manganese supply growth in 2026",
+      "category": "INDUSTRY",
+      "date": "2026-01-28T15:14:21+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/groote-eylandt-mine-support-global-manganese-supply/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Kuya Silver signs LoI to acquire SMRL Camila",
       "category": "INDUSTRY",
       "date": "2026-01-28T14:06:47+00:00",
@@ -610,5 +642,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-29T04:54:24.210904+00:00"
+  "last_updated_utc": "2026-01-29T14:10:35.163205+00:00"
 }
