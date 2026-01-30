@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "3D printing polymer shelf life explained",
+      "category": "MECHANICAL",
+      "date": "2026-01-30T17:11:14+00:00",
+      "url": "https://www.engineering.com/3d-printing-polymer-shelf-life-explained/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ENCY 2.7 update adds power control for non-planar slicing",
+      "category": "MECHANICAL",
+      "date": "2026-01-30T14:21:42+00:00",
+      "url": "https://www.engineering.com/ency-2-7-update-adds-power-control-for-non-planar-slicing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Rohm releases BD9xxN5 500 mA LDO regulators for 12/24 V rails",
       "category": "MECHANICAL",
       "date": "2026-01-30T11:46:44+00:00",
@@ -38,6 +54,14 @@
       "category": "MECHANICAL",
       "date": "2026-01-30T08:35:00+00:00",
       "url": "https://www.engineering.com/i-care-joins-aveva-partner-ecosystem-as-managed-provider/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Intrepid Automation and Rapid Fluidics form microfluidics pact",
+      "category": "MECHANICAL",
+      "date": "2026-01-30T08:18:00+00:00",
+      "url": "https://www.engineering.com/intrepid-automation-and-rapid-fluidics-form-microfluidics-pact/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -1106,5 +1130,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-30T14:07:06.130722+00:00"
+  "last_updated_utc": "2026-01-30T19:47:04.403891+00:00"
 }

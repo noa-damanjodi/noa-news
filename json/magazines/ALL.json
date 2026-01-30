@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "How advanced conduit sealing protects power transmission infrastructure",
+      "category": "RENEWABLE",
+      "date": "2026-01-30T17:39:25+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/advanced-conduit-sealing-protects-power-transmission-infrastructure/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "3D printing polymer shelf life explained",
+      "category": "MECHANICAL",
+      "date": "2026-01-30T17:11:14+00:00",
+      "url": "https://www.engineering.com/3d-printing-polymer-shelf-life-explained/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NRG 3-Phase Smart Solid State Relays released by Carlo Gavazzi",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-30T16:40:07+00:00",
+      "url": "https://www.automationmag.com/nrg-3-phase-smart-solid-state-relays-released-by-carlo-gavazzi/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "RobCo raises $100 million to scale autonomous industrial robotics platform",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-30T16:01:52+00:00",
+      "url": "https://www.automationmag.com/robco-raises-100-million-to-scale-autonomous-industrial-robotics-platform/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Ottawa, South Korea pledge to bring auto manufacturing to Canada",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-30T15:28:38+00:00",
+      "url": "https://www.automationmag.com/ottawa-south-korea-pledge-to-bring-auto-manufacturing-to-canada/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Economy stalled in November and may have contracted in Q4: StatCan",
+      "category": "INSTRUMENTATION",
+      "date": "2026-01-30T15:03:00+00:00",
+      "url": "https://www.automationmag.com/economy-stalled-in-november-and-may-have-contracted-in-q4-statcan/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "ENCY 2.7 update adds power control for non-planar slicing",
+      "category": "MECHANICAL",
+      "date": "2026-01-30T14:21:42+00:00",
+      "url": "https://www.engineering.com/ency-2-7-update-adds-power-control-for-non-planar-slicing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rare earth power: can Europe ever escape its dependency on China?",
+      "category": "INDUSTRY",
+      "date": "2026-01-30T12:48:34+00:00",
+      "url": "https://www.mining-technology.com/features/rare-earth-power-china-europe/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Liberia and ArcelorMittal extend mineral development agreement until 2050",
       "category": "INDUSTRY",
       "date": "2026-01-30T12:28:38+00:00",
@@ -95,6 +159,14 @@
       "date": "2026-01-30T08:31:26+00:00",
       "url": "https://powerline.net.in/2026/01/30/budget-expectations-views-of-industry-stakeholders/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Intrepid Automation and Rapid Fluidics form microfluidics pact",
+      "category": "MECHANICAL",
+      "date": "2026-01-30T08:18:00+00:00",
+      "url": "https://www.engineering.com/intrepid-automation-and-rapid-fluidics-form-microfluidics-pact/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -4426,5 +4498,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-30T14:07:06.130722+00:00"
+  "last_updated_utc": "2026-01-30T19:47:04.403891+00:00"
 }
