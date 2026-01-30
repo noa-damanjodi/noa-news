@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Rohm releases BD9xxN5 500 mA LDO regulators for 12/24 V rails",
+      "category": "MECHANICAL",
+      "date": "2026-01-30T11:46:44+00:00",
+      "url": "https://www.engineering.com/rohm-releases-bd9xxn5-500-ma-ldo-regulators-for-12-24-v-rails/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Inertial Labs announces IRINS LEO-aided inertial nav system",
+      "category": "MECHANICAL",
+      "date": "2026-01-30T09:51:00+00:00",
+      "url": "https://www.engineering.com/inertial-labs-announces-irins-leo-aided-inertial-nav-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cognizant and Kohler extend strategic digital services partnership",
+      "category": "MECHANICAL",
+      "date": "2026-01-30T09:28:00+00:00",
+      "url": "https://www.engineering.com/cognizant-and-kohler-extend-strategic-digital-services-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "New York Robotics launches with manufacturing partner support",
+      "category": "MECHANICAL",
+      "date": "2026-01-30T09:23:00+00:00",
+      "url": "https://www.engineering.com/new-york-robotics-launches-with-manufacturing-partner-support/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "I-care joins AVEVA Partner Ecosystem as managed provider",
+      "category": "MECHANICAL",
+      "date": "2026-01-30T08:35:00+00:00",
+      "url": "https://www.engineering.com/i-care-joins-aveva-partner-ecosystem-as-managed-provider/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "A fun new video series: Travel for Engineers",
       "category": "MECHANICAL",
       "date": "2026-01-29T16:08:33+00:00",
@@ -1066,5 +1106,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-30T04:59:05.505174+00:00"
+  "last_updated_utc": "2026-01-30T14:07:06.130722+00:00"
 }
