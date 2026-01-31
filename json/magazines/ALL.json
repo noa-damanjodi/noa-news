@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Welcome to the redesigned Safety+Health website!",
+      "category": "SAFETY",
+      "date": "2026-01-31T13:46:49+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/editors-note-welcome-to-the-redesigned-safetyhealth-website/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "How much can New England really depend on Canadian hydro? – This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-01-30T21:47:09+00:00",
@@ -4586,5 +4594,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-31T04:49:11.622621+00:00"
+  "last_updated_utc": "2026-01-31T19:00:39.420408+00:00"
 }
