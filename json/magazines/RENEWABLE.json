@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "How much can New England really depend on Canadian hydro? – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-01-30T21:47:09+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/how-much-can-new-england-really-depend-on-canadian-hydro-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "How advanced conduit sealing protects power transmission infrastructure",
       "category": "RENEWABLE",
       "date": "2026-01-30T17:39:25+00:00",
@@ -490,5 +498,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-01-30T19:47:04.403891+00:00"
+  "last_updated_utc": "2026-01-31T04:49:11.622621+00:00"
 }
