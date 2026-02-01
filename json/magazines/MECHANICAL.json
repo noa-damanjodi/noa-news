@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "GE Appliances Empowers Manufacturing Engineers with Centralized 3D Measurement Data",
+      "category": "MECHANICAL",
+      "date": "2026-02-01T08:00:00+00:00",
+      "url": "https://www.engineering.com/ge-appliances-empowers-manufacturing-engineers-with-centralized-3d-measurement-data/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Honeywell Laboratory Automation Solutions",
+      "category": "MECHANICAL",
+      "date": "2026-02-01T08:00:00+00:00",
+      "url": "https://www.engineering.com/honeywell-laboratory-automation-solutions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "3D printing polymer shelf life explained",
       "category": "MECHANICAL",
       "date": "2026-01-30T17:11:14+00:00",
@@ -1130,5 +1146,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-01T06:52:44.396736+00:00"
+  "last_updated_utc": "2026-02-01T12:54:13.735170+00:00"
 }
