@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "British Columbia court approves Coeur’s takeover of New Gold",
+      "category": "INDUSTRY",
+      "date": "2026-02-02T11:04:00+00:00",
+      "url": "https://www.mining-technology.com/news/british-columbia-court-approves-coeurs-takeover-of-new-gold/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Troubadour discovers surface mineralisation at Senneville property in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-02-02T08:42:11+00:00",
+      "url": "https://www.mining-technology.com/news/troubadour-surface-mineralisation-senneville-property/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Austrian Government renews Wolfsberg mining licence for two years",
+      "category": "INDUSTRY",
+      "date": "2026-02-02T08:31:28+00:00",
+      "url": "https://www.mining-technology.com/news/austrian-government-renews-wolfsberg-mining-licence/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Rare earth power: can Europe ever escape its dependency on China?",
       "category": "INDUSTRY",
       "date": "2026-01-30T12:48:34+00:00",
@@ -722,5 +746,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-02T07:04:40.004569+00:00"
+  "last_updated_utc": "2026-02-02T13:04:13.787146+00:00"
 }

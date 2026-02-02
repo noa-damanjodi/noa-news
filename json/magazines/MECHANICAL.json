@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Apera Vue 9.52 adds programmable robot pathing and diagnostics",
+      "category": "MECHANICAL",
+      "date": "2026-02-02T11:35:00+00:00",
+      "url": "https://www.engineering.com/apera-vue-9-52-adds-programmable-robot-pathing-and-diagnostics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Reallusion updates Motion Planning for human-centric simulation",
+      "category": "MECHANICAL",
+      "date": "2026-02-02T11:23:00+00:00",
+      "url": "https://www.engineering.com/reallusion-updates-motion-planning-for-human-centric-simulation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hybrid lamination process qualifies mixed RF materials with FR-4",
+      "category": "MECHANICAL",
+      "date": "2026-02-02T08:05:40+00:00",
+      "url": "https://www.engineering.com/hybrid-lamination-process-qualifies-mixed-rf-materials-with-fr-4/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Leica CityMapper-3 combines imaging and LiDAR in one system",
+      "category": "MECHANICAL",
+      "date": "2026-02-02T07:35:10+00:00",
+      "url": "https://www.engineering.com/leica-citymapper-3-combines-imaging-and-lidar-in-one-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "ABB plans new global headquarters at Zurich Oerlikon site",
       "category": "MECHANICAL",
       "date": "2026-02-02T05:46:49+00:00",
@@ -1162,5 +1194,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-02T07:04:40.004569+00:00"
+  "last_updated_utc": "2026-02-02T13:04:13.787146+00:00"
 }
