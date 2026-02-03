@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "InnovMetric launches PolyWorks Korea subsidiary in South Korea",
+      "category": "MECHANICAL",
+      "date": "2026-02-03T11:08:06+00:00",
+      "url": "https://www.engineering.com/innovmetric-launches-polyworks-korea-subsidiary-in-south-korea/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bellavista signs agreement to acquire stake in Pickle Crow Project, Canada",
+      "category": "INDUSTRY",
+      "date": "2026-02-03T10:41:50+00:00",
+      "url": "https://www.mining-technology.com/news/bellavista-signs-agreement-to-acquire-stake-in-pickle-crow-project-canada/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "LG Electronics unveils HVAC portfolio at 2026 AHR Expo",
+      "category": "MECHANICAL",
+      "date": "2026-02-03T10:20:00+00:00",
+      "url": "https://www.engineering.com/lg-electronics-unveils-hvac-portfolio-at-2026-ahr-expo/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Electric introduces grid software for major outage events",
+      "category": "MECHANICAL",
+      "date": "2026-02-03T10:12:00+00:00",
+      "url": "https://www.engineering.com/schneider-electric-introduces-grid-software-for-major-outage-events/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trump announces $12bn critical mineral stockpile to reduce reliance on China",
+      "category": "INDUSTRY",
+      "date": "2026-02-03T09:29:20+00:00",
+      "url": "https://www.mining-technology.com/news/trump-announces-12bn-critical-mineral-stockpile-to-reduce-reliance-on-china/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Eldorado Gold to acquire Foran Mining in $2.78bn deal",
+      "category": "INDUSTRY",
+      "date": "2026-02-03T09:22:11+00:00",
+      "url": "https://www.mining-technology.com/news/eldorado-gold-to-acquire-foran-mining-in-2-78bn-deal/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Impact Climate launches ImpactIQ AI takeoff platform",
+      "category": "MECHANICAL",
+      "date": "2026-02-03T08:59:00+00:00",
+      "url": "https://www.engineering.com/impact-climate-launches-impactiq-ai-takeoff-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "NHPC commissions Unit 3 of 2,000 MW Subansiri Lower HEP",
       "category": "POWER",
       "date": "2026-02-03T06:07:49+00:00",
@@ -4946,5 +5002,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-03T06:54:54.532540+00:00"
+  "last_updated_utc": "2026-02-03T13:05:23.468005+00:00"
 }
