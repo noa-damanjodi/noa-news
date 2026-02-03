@@ -2,10 +2,34 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Siemens introduces Siprotec V for virtualized substation control",
+      "category": "MECHANICAL",
+      "date": "2026-02-03T14:17:32+00:00",
+      "url": "https://www.engineering.com/siemens-introduces-siprotec-v-for-virtualized-substation-control/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "InnovMetric launches PolyWorks Korea subsidiary in South Korea",
       "category": "MECHANICAL",
       "date": "2026-02-03T11:08:06+00:00",
       "url": "https://www.engineering.com/innovmetric-launches-polyworks-korea-subsidiary-in-south-korea/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aras appoints Przemek Berendt and Vijay Raman to engineering and product roles",
+      "category": "MECHANICAL",
+      "date": "2026-02-03T11:06:00+00:00",
+      "url": "https://www.engineering.com/aras-appoints-przemek-berendt-and-vijay-raman-to-engineering-and-product-roles/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Detechtion launches OneView Compression for fleet visibility",
+      "category": "MECHANICAL",
+      "date": "2026-02-03T10:23:00+00:00",
+      "url": "https://www.engineering.com/detechtion-launches-oneview-compression-for-fleet-visibility/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -1234,5 +1258,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-03T13:05:23.468005+00:00"
+  "last_updated_utc": "2026-02-03T18:58:56.282479+00:00"
 }
