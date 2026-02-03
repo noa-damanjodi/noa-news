@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "NHPC commissions Unit 3 of 2,000 MW Subansiri Lower HEP",
+      "category": "POWER",
+      "date": "2026-02-03T06:07:49+00:00",
+      "url": "https://powerline.net.in/2026/02/03/nhpc-commissions-unit-3-of-2000-mw-subansiri-lower-hep/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Tata Power commissions 765 kV transmission lines in Uttar Pradesh",
+      "category": "POWER",
+      "date": "2026-02-03T06:06:47+00:00",
+      "url": "https://powerline.net.in/2026/02/03/tata-power-commissions-765-kv-transmission-lines-in-uttar-pradesh/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "RERC notifies revised procedure for intra state grid connectivity in Rajasthan",
+      "category": "POWER",
+      "date": "2026-02-03T06:05:39+00:00",
+      "url": "https://powerline.net.in/2026/02/03/rerc-notifies-revised-procedure-for-intra-state-grid-connectivity-in-rajasthan/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "TNGECL announces winners for 375 MW 1,500 MWh standalone BESS tender",
+      "category": "POWER",
+      "date": "2026-02-03T06:04:35+00:00",
+      "url": "https://powerline.net.in/2026/02/03/tngecl-announces-winners-for-375-mw-1500-mwh-standalone-bess-tender/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NTPC transfers Dulanga and Talaipalli coal mines to NTPC Mining",
+      "category": "POWER",
+      "date": "2026-02-03T06:03:28+00:00",
+      "url": "https://powerline.net.in/2026/02/03/ntpc-transfers-dulanga-and-talaipalli-coal-mines-to-ntpc-mining/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Voltalia SA secures 132 MW solar project in Tunisia",
+      "category": "POWER",
+      "date": "2026-02-03T06:02:27+00:00",
+      "url": "https://powerline.net.in/2026/02/03/voltalia-sa-secures-132-mw-solar-project-in-tunisia/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Empower New Energy inaugurates solar plus storage project for UMZA Rice and Oil Mill in Kano",
+      "category": "POWER",
+      "date": "2026-02-03T06:01:25+00:00",
+      "url": "https://powerline.net.in/2026/02/03/empower-new-energy-inaugurates-solar-plus-storage-project-for-umza-rice-and-oil-mill-in-kano/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Schneider Electric unveils new grid, transmission solutions to maintain power during severe weather and wildfires",
       "category": "RENEWABLE",
       "date": "2026-02-02T21:31:13+00:00",
@@ -4890,5 +4946,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-03T02:24:53.384301+00:00"
+  "last_updated_utc": "2026-02-03T06:54:54.532540+00:00"
 }
