@@ -4,8 +4,40 @@
     {
       "title": "Welcome to the redesigned Safety+Health website!",
       "category": "SAFETY",
-      "date": "2026-02-01T13:46:49+00:00",
+      "date": "2026-02-02T17:39:49+00:00",
       "url": "https://www.safetyandhealthmagazine.com/editors-note-welcome-to-the-redesigned-safetyhealth-website/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Coast Guard opens Safety Service Center",
+      "category": "SAFETY",
+      "date": "2026-02-02T17:33:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/coast-guard-opens-safety-service-center/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bill aimed at easing HOS requirements for ag and livestock haulers",
+      "category": "SAFETY",
+      "date": "2026-02-02T17:28:08+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/bill-aimed-at-easing-hos-requirements-for-ag-and-livestock-haulers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Inspector general outlines ‘significant challenges’ facing OSHA and MSHA",
+      "category": "SAFETY",
+      "date": "2026-02-02T17:10:24+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/inspector-general-outlines-significant-challenges-facing-osha-and-msha/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "KPA",
+      "category": "SAFETY",
+      "date": "2026-02-02T15:33:38+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/kpa/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -90,5 +122,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-02T13:04:13.787146+00:00"
+  "last_updated_utc": "2026-02-03T02:24:53.384301+00:00"
 }

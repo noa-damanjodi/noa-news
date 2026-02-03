@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Forrestania Resources to take full ownership of Mt Palmer gold project",
+      "category": "INDUSTRY",
+      "date": "2026-02-02T14:26:11+00:00",
+      "url": "https://www.mining-technology.com/news/forrestania-resources-full-ownership-mt-palmer-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Webber Wentzel and Blake Cassels & Graydon lead M&A legal advice in mining and metals for 2025",
+      "category": "INDUSTRY",
+      "date": "2026-02-02T12:26:58+00:00",
+      "url": "https://www.mining-technology.com/news/ma-legal-advice-mining-metals-2025/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "British Columbia court approves Coeur’s takeover of New Gold",
       "category": "INDUSTRY",
       "date": "2026-02-02T11:04:00+00:00",
@@ -746,5 +762,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-02T13:04:13.787146+00:00"
+  "last_updated_utc": "2026-02-03T02:24:53.384301+00:00"
 }

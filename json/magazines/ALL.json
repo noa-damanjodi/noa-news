@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Schneider Electric unveils new grid, transmission solutions to maintain power during severe weather and wildfires",
+      "category": "RENEWABLE",
+      "date": "2026-02-02T21:31:13+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/schneider-electric-unveils-new-grid-transmission-solutions-to-maintain-power-during-severe-weather-and-wildfires/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "EPRI expands DCFlex data center initiative to nine demo sites across U.S. and Europe",
+      "category": "RENEWABLE",
+      "date": "2026-02-02T20:43:08+00:00",
+      "url": "https://www.renewableenergyworld.com/news/epri-expands-dcflex-data-center-initiative-to-nine-demo-sites-across-u-s-and-europe/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "DTECH 2026 kicks off in San Diego with tech tours, hands-on workshops, and opening Keynote",
+      "category": "RENEWABLE",
+      "date": "2026-02-02T20:02:03+00:00",
+      "url": "https://www.renewableenergyworld.com/news/dtech-2026-kicks-off-in-san-diego-with-tech-tours-hands-on-workshops-and-opening-keynote/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Federal automotive strategy needs to reward Canadian production: report",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-02T20:01:38+00:00",
+      "url": "https://www.automationmag.com/federal-automotive-strategy-needs-to-reward-canadian-production-report/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Additive business update: EOS, Farsoon, Nano Dimension, and more",
+      "category": "MECHANICAL",
+      "date": "2026-02-02T18:24:17+00:00",
+      "url": "https://www.engineering.com/additive-business-update-eos-farsoon-nano-dimension-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Welcome to the redesigned Safety+Health website!",
+      "category": "SAFETY",
+      "date": "2026-02-02T17:39:49+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/editors-note-welcome-to-the-redesigned-safetyhealth-website/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Coast Guard opens Safety Service Center",
+      "category": "SAFETY",
+      "date": "2026-02-02T17:33:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/coast-guard-opens-safety-service-center/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bill aimed at easing HOS requirements for ag and livestock haulers",
+      "category": "SAFETY",
+      "date": "2026-02-02T17:28:08+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/bill-aimed-at-easing-hos-requirements-for-ag-and-livestock-haulers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Inspector general outlines ‘significant challenges’ facing OSHA and MSHA",
+      "category": "SAFETY",
+      "date": "2026-02-02T17:10:24+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/inspector-general-outlines-significant-challenges-facing-osha-and-msha/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Manufacturing sector stabilizes in January, reports S&P Global Canada Manufacturing PMI",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-02T15:48:16+00:00",
+      "url": "https://www.automationmag.com/manufacturing-sector-stabilizes-in-january-reports-sp-global-canada-manufacturing-pmi/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "KPA",
+      "category": "SAFETY",
+      "date": "2026-02-02T15:33:38+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/kpa/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Forrestania Resources to take full ownership of Mt Palmer gold project",
+      "category": "INDUSTRY",
+      "date": "2026-02-02T14:26:11+00:00",
+      "url": "https://www.mining-technology.com/news/forrestania-resources-full-ownership-mt-palmer-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Webber Wentzel and Blake Cassels & Graydon lead M&A legal advice in mining and metals for 2025",
+      "category": "INDUSTRY",
+      "date": "2026-02-02T12:26:58+00:00",
+      "url": "https://www.mining-technology.com/news/ma-legal-advice-mining-metals-2025/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Views of Ghanshyam Prasad: “The hydropower and pumped storage segments are witnessing renewed interest”",
       "category": "POWER",
       "date": "2026-02-02T12:12:34+00:00",
@@ -183,14 +287,6 @@
       "date": "2026-02-02T04:13:20+00:00",
       "url": "https://www.engineering.com/tesco-introduces-326p-and-326x-artificial-resistive-loads/",
       "source": "Engineering.com",
-      "type": "magazine"
-    },
-    {
-      "title": "Welcome to the redesigned Safety+Health website!",
-      "category": "SAFETY",
-      "date": "2026-02-01T13:46:49+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/editors-note-welcome-to-the-redesigned-safetyhealth-website/",
-      "source": "Safety+Health Magazine",
       "type": "magazine"
     },
     {
@@ -4794,5 +4890,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-02T13:04:13.787146+00:00"
+  "last_updated_utc": "2026-02-03T02:24:53.384301+00:00"
 }
