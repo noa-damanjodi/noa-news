@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Skeena receives EMA permit for Eskay Creek project in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-02-04T10:54:57+00:00",
+      "url": "https://www.mining-technology.com/news/skeena-receives-ema-eskay-creek-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Blackboxstocks announces REAlloys partnership with AltynGroup",
+      "category": "INDUSTRY",
+      "date": "2026-02-04T08:23:13+00:00",
+      "url": "https://www.mining-technology.com/news/blackboxstocks-announces-realloys-partnership-altyngroup/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Orion CMC to acquire Glencore’s stakes in DRC assets",
+      "category": "INDUSTRY",
+      "date": "2026-02-04T08:15:05+00:00",
+      "url": "https://www.mining-technology.com/news/orion-cmc-acquire-glencores-stakes-drc/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Medallion Metals secures EPBC approval for Ravensthorpe Gold Project",
       "category": "INDUSTRY",
       "date": "2026-02-03T13:04:29+00:00",
@@ -802,5 +826,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-04T06:55:56.950029+00:00"
+  "last_updated_utc": "2026-02-04T13:04:02.052595+00:00"
 }

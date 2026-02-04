@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Dassault and NVIDIA form industrial AI partnership",
+      "category": "MECHANICAL",
+      "date": "2026-02-04T12:50:34+00:00",
+      "url": "https://www.engineering.com/dassault-and-nvidia-form-industrial-ai-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IMSI Design releases DesignCAD 2025.1",
+      "category": "MECHANICAL",
+      "date": "2026-02-04T12:27:04+00:00",
+      "url": "https://www.engineering.com/imsi-design-releases-designcad-2025-1/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Maya HTT adds Polygonica mesh library to SimForm Mold Cooling",
+      "category": "MECHANICAL",
+      "date": "2026-02-04T12:16:28+00:00",
+      "url": "https://www.engineering.com/maya-htt-adds-polygonica-mesh-library-to-simform-mold-cooling/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Gradient launches Nexus platform for window heat pump fleets",
+      "category": "MECHANICAL",
+      "date": "2026-02-04T09:14:00+00:00",
+      "url": "https://www.engineering.com/gradient-launches-nexus-platform-for-window-heat-pump-fleets/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "TITANS Network adds enhanced fixed wireless failover",
+      "category": "MECHANICAL",
+      "date": "2026-02-04T09:03:00+00:00",
+      "url": "https://www.engineering.com/titans-network-adds-enhanced-fixed-wireless-failover/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Quantum Computing acquires Luminar Semiconductor",
+      "category": "MECHANICAL",
+      "date": "2026-02-04T08:53:00+00:00",
+      "url": "https://www.engineering.com/quantum-computing-acquires-luminar-semiconductor/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "AI is the new model maniac",
       "category": "MECHANICAL",
       "date": "2026-02-03T22:15:28+00:00",
@@ -1266,5 +1314,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-04T06:55:56.950029+00:00"
+  "last_updated_utc": "2026-02-04T13:04:02.052595+00:00"
 }

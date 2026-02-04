@@ -2,6 +2,22 @@
   "category": "POWER",
   "items": [
     {
+      "title": "GE Vernova launches GridBeats APS to modernise substation protection and automation",
+      "category": "POWER",
+      "date": "2026-02-04T10:47:56+00:00",
+      "url": "https://powerline.net.in/2026/02/04/ge-vernova-launches-gridbeats-aps-to-modernise-substation-protection-and-automation/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Union Budget 2026-27 Reactions",
+      "category": "POWER",
+      "date": "2026-02-04T09:46:38+00:00",
+      "url": "https://powerline.net.in/2026/02/04/union-budget-2026-27-reactions/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Roadmap to 100 GW of PSPs by 2035-36: CEA",
       "category": "POWER",
       "date": "2026-02-04T06:01:43+00:00",
@@ -1450,5 +1466,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-04T06:55:56.950029+00:00"
+  "last_updated_utc": "2026-02-04T13:04:02.052595+00:00"
 }

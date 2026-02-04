@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Dassault and NVIDIA form industrial AI partnership",
+      "category": "MECHANICAL",
+      "date": "2026-02-04T12:50:34+00:00",
+      "url": "https://www.engineering.com/dassault-and-nvidia-form-industrial-ai-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IMSI Design releases DesignCAD 2025.1",
+      "category": "MECHANICAL",
+      "date": "2026-02-04T12:27:04+00:00",
+      "url": "https://www.engineering.com/imsi-design-releases-designcad-2025-1/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Maya HTT adds Polygonica mesh library to SimForm Mold Cooling",
+      "category": "MECHANICAL",
+      "date": "2026-02-04T12:16:28+00:00",
+      "url": "https://www.engineering.com/maya-htt-adds-polygonica-mesh-library-to-simform-mold-cooling/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Skeena receives EMA permit for Eskay Creek project in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-02-04T10:54:57+00:00",
+      "url": "https://www.mining-technology.com/news/skeena-receives-ema-eskay-creek-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "GE Vernova launches GridBeats APS to modernise substation protection and automation",
+      "category": "POWER",
+      "date": "2026-02-04T10:47:56+00:00",
+      "url": "https://powerline.net.in/2026/02/04/ge-vernova-launches-gridbeats-aps-to-modernise-substation-protection-and-automation/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Union Budget 2026-27 Reactions",
+      "category": "POWER",
+      "date": "2026-02-04T09:46:38+00:00",
+      "url": "https://powerline.net.in/2026/02/04/union-budget-2026-27-reactions/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Gradient launches Nexus platform for window heat pump fleets",
+      "category": "MECHANICAL",
+      "date": "2026-02-04T09:14:00+00:00",
+      "url": "https://www.engineering.com/gradient-launches-nexus-platform-for-window-heat-pump-fleets/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "TITANS Network adds enhanced fixed wireless failover",
+      "category": "MECHANICAL",
+      "date": "2026-02-04T09:03:00+00:00",
+      "url": "https://www.engineering.com/titans-network-adds-enhanced-fixed-wireless-failover/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Quantum Computing acquires Luminar Semiconductor",
+      "category": "MECHANICAL",
+      "date": "2026-02-04T08:53:00+00:00",
+      "url": "https://www.engineering.com/quantum-computing-acquires-luminar-semiconductor/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Blackboxstocks announces REAlloys partnership with AltynGroup",
+      "category": "INDUSTRY",
+      "date": "2026-02-04T08:23:13+00:00",
+      "url": "https://www.mining-technology.com/news/blackboxstocks-announces-realloys-partnership-altyngroup/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Orion CMC to acquire Glencore’s stakes in DRC assets",
+      "category": "INDUSTRY",
+      "date": "2026-02-04T08:15:05+00:00",
+      "url": "https://www.mining-technology.com/news/orion-cmc-acquire-glencores-stakes-drc/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Roadmap to 100 GW of PSPs by 2035-36: CEA",
       "category": "POWER",
       "date": "2026-02-04T06:01:43+00:00",
@@ -1895,6 +1983,22 @@
       "date": "2026-01-22T13:47:04+00:00",
       "url": "https://www.mining-technology.com/news/west-cobar-announces-263mt-gallium-resource-estimate-in-wa/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "“Our holistic approach sets us apart…”",
+      "category": "ELECTRICAL",
+      "date": "2026-01-22T09:53:55+00:00",
+      "url": "https://www.electricalindia.in/our-holistic-approach-sets-us-apart/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "SEUK-CL Hosts Supply Chain Workshops",
+      "category": "ELECTRICAL",
+      "date": "2026-01-22T09:48:26+00:00",
+      "url": "https://www.electricalindia.in/seuk-cl-hosts-supply-chain-workshops/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -5394,5 +5498,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-04T06:55:56.950029+00:00"
+  "last_updated_utc": "2026-02-04T13:04:02.052595+00:00"
 }
