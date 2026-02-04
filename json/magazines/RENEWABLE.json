@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "How automation and load flexibility are helping manage data center growth",
+      "category": "RENEWABLE",
+      "date": "2026-02-03T21:13:37+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/how-automation-and-load-flexibility-are-helping-manage-data-center-growth/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Itron showcases advancements in grid edge intelligence and resiliency at DTECH 2026",
+      "category": "RENEWABLE",
+      "date": "2026-02-03T19:50:47+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/itron-showcases-advancements-in-grid-edge-intelligence-and-resiliency-at-dtech-2026/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Xylem launches new intelligent grid platform to give utilities actionable intelligence",
+      "category": "RENEWABLE",
+      "date": "2026-02-03T19:35:45+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/xylem-launches-new-intelligent-grid-platform-to-give-utilities-actionable-intelligence/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "‘A future we’d be proud to build’ – Data, AI, and partnerships take center stage at DTECH 2026",
       "category": "RENEWABLE",
       "date": "2026-02-03T17:28:17+00:00",
@@ -530,5 +554,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-03T18:58:56.282479+00:00"
+  "last_updated_utc": "2026-02-04T02:12:04.987345+00:00"
 }
