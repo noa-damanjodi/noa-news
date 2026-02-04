@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "AutomationDirect adds Endress+Hauser Picomag Series Magnetic-Inductive Flow Meters to portfolio",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-04T18:43:27+00:00",
+      "url": "https://www.automationmag.com/automationdirect-adds-endresshauser-picomag-series-magnetic-inductive-flow-meters-to-portfolio/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "ABB introduce E6 Hyper-Efficiency SynRM motors",
       "category": "INSTRUMENTATION",
       "date": "2026-02-03T19:28:56+00:00",
@@ -626,5 +634,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-04T13:04:02.052595+00:00"
+  "last_updated_utc": "2026-02-04T18:54:23.929759+00:00"
 }

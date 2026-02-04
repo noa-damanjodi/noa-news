@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Utilities rethink capital delivery as workloads surge",
+      "category": "RENEWABLE",
+      "date": "2026-02-04T17:26:17+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/utilities-rethink-capital-delivery-as-workloads-surge/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "How automation and load flexibility are helping manage data center growth",
       "category": "RENEWABLE",
       "date": "2026-02-03T21:13:37+00:00",
@@ -554,5 +562,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-04T13:04:02.052595+00:00"
+  "last_updated_utc": "2026-02-04T18:54:23.929759+00:00"
 }
