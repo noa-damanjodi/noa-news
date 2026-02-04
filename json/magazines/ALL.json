@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Roadmap to 100 GW of PSPs by 2035-36: CEA",
+      "category": "POWER",
+      "date": "2026-02-04T06:01:43+00:00",
+      "url": "https://powerline.net.in/2026/02/04/roadmap-to-100-gw-of-psps-by-2035-36-cea/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "POWERGRID commissions Khavda Phase II Part C transmission project",
+      "category": "POWER",
+      "date": "2026-02-04T05:46:13+00:00",
+      "url": "https://powerline.net.in/2026/02/04/powergrid-commissions-khavda-phase-ii-part-c-transmission-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "TPREL commissions 198 MW group captive wind project",
+      "category": "POWER",
+      "date": "2026-02-04T05:44:56+00:00",
+      "url": "https://powerline.net.in/2026/02/04/tprel-commissions-198-mw-group-captive-wind-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "CEA issues roadmap to 100 GW of pumped storage projects by 2035-36",
+      "category": "POWER",
+      "date": "2026-02-04T05:43:36+00:00",
+      "url": "https://powerline.net.in/2026/02/04/cea-issues-roadmap-to-100-gw-of-pumped-storage-projects-by-2035-36/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NVVN announces results of 250 MW 500 MWh standalone BESS tender",
+      "category": "POWER",
+      "date": "2026-02-04T05:42:26+00:00",
+      "url": "https://powerline.net.in/2026/02/04/nvvn-announces-results-of-250-mw-500-mwh-standalone-bess-tender/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Envision Energy signs 128 MW TSA with REE Group for nearshore wind projects in Vietnam",
+      "category": "POWER",
+      "date": "2026-02-04T05:41:24+00:00",
+      "url": "https://powerline.net.in/2026/02/04/envision-energy-signs-128-mw-tsa-with-ree-group-for-nearshore-wind-projects-in-vietnam/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ZETDC signs 25 year PPA for 30 MW Vungu solar farm in Zimbabwe",
+      "category": "POWER",
+      "date": "2026-02-04T05:40:26+00:00",
+      "url": "https://powerline.net.in/2026/02/04/zetdc-signs-25-year-ppa-for-30-mw-vungu-solar-farm-in-zimbabwe/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "January Issue 2026",
+      "category": "POWER",
+      "date": "2026-02-04T05:22:32+00:00",
+      "url": "https://powerline.net.in/2026/02/04/january-issue-2026-2/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "AI is the new model maniac",
       "category": "MECHANICAL",
       "date": "2026-02-03T22:15:28+00:00",
@@ -2434,6 +2498,14 @@
       "type": "magazine"
     },
     {
+      "title": "BOOMING INDIAN SOLAR EQUIPMENT MANUFACTURING INDUSTRY",
+      "category": "ELECTRICAL",
+      "date": "2026-01-20T05:58:41+00:00",
+      "url": "https://www.electricalindia.in/booming-indian-solar-equipment-manufacturing-industry/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "ADB extends USD 30 million in financing with solar-plus-storage project in Uzbekistan",
       "category": "POWER",
       "date": "2026-01-20T05:56:57+00:00",
@@ -2615,6 +2687,38 @@
       "date": "2026-01-18T06:27:15+00:00",
       "url": "https://theconstructor.org/building/voltage-fluctuations-inside-buildings/579304/",
       "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "Revolution Wind, Sunrise Wind Receive Lease Suspension Orders",
+      "category": "ELECTRICAL",
+      "date": "2026-01-18T05:45:42+00:00",
+      "url": "https://www.electricalindia.in/revolution-wind-sunrise-wind-receive-lease-suspension-orders/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Spearmint Energy Secures Investment from Kyuden International Corporation",
+      "category": "ELECTRICAL",
+      "date": "2026-01-18T05:43:09+00:00",
+      "url": "https://www.electricalindia.in/spearmint-energy-secures-investment-from-kyuden-international-corporation/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Ireland Can Build on its Electricity Leadership: IEA",
+      "category": "ELECTRICAL",
+      "date": "2026-01-18T05:39:14+00:00",
+      "url": "https://www.electricalindia.in/ireland-can-build-on-its-electricity-leadership-iea/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BLUETTI Unveils Elite 320 Rolling Power Station for Affordable, Essential Home Power Backup",
+      "category": "ELECTRICAL",
+      "date": "2026-01-18T05:36:35+00:00",
+      "url": "https://www.electricalindia.in/bluetti-unveils-elite-320-rolling-power-station-for-affordable-essential-home-power-backup/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -2962,11 +3066,35 @@
       "type": "magazine"
     },
     {
+      "title": "EDF Shares its Estimates of Nuclear Generation in France",
+      "category": "ELECTRICAL",
+      "date": "2026-01-15T05:33:31+00:00",
+      "url": "https://www.electricalindia.in/edf-shares-its-estimates-of-nuclear-generation-in-france/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ACWA Power, AfDB Sign a Cooperation Framework",
+      "category": "ELECTRICAL",
+      "date": "2026-01-15T05:21:11+00:00",
+      "url": "https://www.electricalindia.in/acwa-power-afdb-sign-a-cooperation-framework/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "NLC India signs MoU to invest Rs 250 billion with Gujarat for renewable energy projects",
       "category": "POWER",
       "date": "2026-01-15T05:18:41+00:00",
       "url": "https://powerline.net.in/2026/01/15/nlc-india-signs-mou-to-invest-rs-250-billion-with-gujarat-for-renewable-energy-projects/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Voltalia Achieves its Operating, Construction Target of 3.6 GWs",
+      "category": "ELECTRICAL",
+      "date": "2026-01-15T05:18:10+00:00",
+      "url": "https://www.electricalindia.in/voltalia-achieves-its-operating-construction-target-of-3-6-gws/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -2999,6 +3127,14 @@
       "date": "2026-01-15T05:14:21+00:00",
       "url": "https://powerline.net.in/2026/01/15/meghmani-organics-signs-agreement-to-procure-power-from-wind-solar-hybrid-project-in-gujarat/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Nexans Achieves a World-Record in Installing Sub-Sea Power Cable",
+      "category": "ELECTRICAL",
+      "date": "2026-01-15T05:14:07+00:00",
+      "url": "https://www.electricalindia.in/nexans-achieves-a-world-record-in-installing-sub-sea-power-cable/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -3711,6 +3847,38 @@
       "date": "2026-01-12T06:31:30+00:00",
       "url": "https://powerline.net.in/2026/01/12/from-shortages-to-security-how-financially-settled-contracts-support-generator-availability/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BHEL Pays Final Dividend for FY 2024-25 to GoI",
+      "category": "ELECTRICAL",
+      "date": "2026-01-12T05:12:45+00:00",
+      "url": "https://www.electricalindia.in/bhel-pays-final-dividend-for-fy-2024-25-to-goi/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "REC Limited Honoured with Two Awards",
+      "category": "ELECTRICAL",
+      "date": "2026-01-12T05:11:07+00:00",
+      "url": "https://www.electricalindia.in/rec-limited-honoured-with-two-awards/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "TPREL Achieves 1 GWp Rooftop Solar Installation Capacity in 9 Months",
+      "category": "ELECTRICAL",
+      "date": "2026-01-12T05:08:27+00:00",
+      "url": "https://www.electricalindia.in/tprel-achieves-1-gwp-rooftop-solar-installation-capacity-in-9-months/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "GE Vernova Receives its First HVDC Refurbishment Project from India",
+      "category": "ELECTRICAL",
+      "date": "2026-01-12T05:02:56+00:00",
+      "url": "https://www.electricalindia.in/ge-vernova-receives-its-first-hvdc-refurbishment-project-from-india/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -5226,5 +5394,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-04T02:12:04.987345+00:00"
+  "last_updated_utc": "2026-02-04T06:55:56.950029+00:00"
 }
