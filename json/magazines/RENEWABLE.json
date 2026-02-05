@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Electric utilities face policy uncertainty as large-load demand accelerates",
+      "category": "RENEWABLE",
+      "date": "2026-02-05T01:33:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/electric-utilities-face-policy-uncertainty-as-large-load-demand-accelerates/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Walk the exhibition floor at DTECH 2026",
+      "category": "RENEWABLE",
+      "date": "2026-02-05T00:29:09+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/walk-the-exhibition-floor-at-dtech-2026/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "S&C Electric Company announces new interoperable control solution at DTECH",
+      "category": "RENEWABLE",
+      "date": "2026-02-04T19:56:45+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/sc-electric-company-announces-new-interoperable-control-solution-at-dtech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Utilities rethink capital delivery as workloads surge",
       "category": "RENEWABLE",
       "date": "2026-02-04T17:26:17+00:00",
@@ -562,5 +586,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-04T18:54:23.929759+00:00"
+  "last_updated_utc": "2026-02-05T02:12:58.279738+00:00"
 }
