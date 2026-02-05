@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Honeywell introduces Hybrid Heating Solution, driving electrification for industrial heat manufacturers",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-05T15:44:24+00:00",
+      "url": "https://www.automationmag.com/honeywell-introduces-hybrid-heating-solution-driving-electrification-for-industrial-heat-manufacturers/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "RoboDK launches CAM solution designed to reduce robotic machining deployment times",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-05T14:55:14+00:00",
+      "url": "https://www.automationmag.com/robodk-launches-cam-solution-designed-to-reduce-robotic-machining-deployment-times/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "ATS reports third-quarter profit and revenue up from year ago",
       "category": "INSTRUMENTATION",
       "date": "2026-02-04T20:40:54+00:00",
@@ -650,5 +666,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-05T13:06:44.533803+00:00"
+  "last_updated_utc": "2026-02-05T18:53:09.745688+00:00"
 }

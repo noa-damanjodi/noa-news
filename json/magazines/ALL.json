@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "NSC applauds ASTM’s updated SIF prevention standard",
+      "category": "SAFETY",
+      "date": "2026-02-05T17:23:47+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-applauds-astms-updated-sif-prevention-standard/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Honeywell introduces Hybrid Heating Solution, driving electrification for industrial heat manufacturers",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-05T15:44:24+00:00",
+      "url": "https://www.automationmag.com/honeywell-introduces-hybrid-heating-solution-driving-electrification-for-industrial-heat-manufacturers/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "RoboDK launches CAM solution designed to reduce robotic machining deployment times",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-05T14:55:14+00:00",
+      "url": "https://www.automationmag.com/robodk-launches-cam-solution-designed-to-reduce-robotic-machining-deployment-times/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Red Mountain Mining acquires Thompson Falls Antimony Project",
+      "category": "INDUSTRY",
+      "date": "2026-02-05T14:28:57+00:00",
+      "url": "https://www.mining-technology.com/news/red-mountain-acquires-thompson-falls-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Kalgoorlie Nickel secures $701m in backing for WA Goongarrie project",
+      "category": "INDUSTRY",
+      "date": "2026-02-05T14:20:27+00:00",
+      "url": "https://www.mining-technology.com/news/kalgoorlie-nickel-secures-backing-goongarrie-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Balancing the Grid: CEA roadmap for scaling up pumped storage",
       "category": "POWER",
       "date": "2026-02-05T11:58:46+00:00",
@@ -2079,6 +2119,14 @@
       "date": "2026-01-26T08:58:00+00:00",
       "url": "https://www.engineering.com/semifive-and-sapien-sign-mou-on-cmos-micro-display-backplanes/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "THERMAL ENERGY STORAGE iN INDiA’S CLEAN ENERGY TRANSiTiON",
+      "category": "ELECTRICAL",
+      "date": "2026-01-25T15:03:07+00:00",
+      "url": "https://www.electricalindia.in/thermal-energy-storage-in-indias-clean-energy-transition/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -5890,5 +5938,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-05T13:06:44.533803+00:00"
+  "last_updated_utc": "2026-02-05T18:53:09.745688+00:00"
 }

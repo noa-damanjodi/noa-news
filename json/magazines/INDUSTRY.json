@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Red Mountain Mining acquires Thompson Falls Antimony Project",
+      "category": "INDUSTRY",
+      "date": "2026-02-05T14:28:57+00:00",
+      "url": "https://www.mining-technology.com/news/red-mountain-acquires-thompson-falls-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Kalgoorlie Nickel secures $701m in backing for WA Goongarrie project",
+      "category": "INDUSTRY",
+      "date": "2026-02-05T14:20:27+00:00",
+      "url": "https://www.mining-technology.com/news/kalgoorlie-nickel-secures-backing-goongarrie-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "New Earth Resources plans surveys for Red Wine REE project",
       "category": "INDUSTRY",
       "date": "2026-02-05T10:49:26+00:00",
@@ -866,5 +882,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-05T13:06:44.533803+00:00"
+  "last_updated_utc": "2026-02-05T18:53:09.745688+00:00"
 }
