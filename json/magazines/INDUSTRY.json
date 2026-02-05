@@ -2,6 +2,46 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "New Earth Resources plans surveys for Red Wine REE project",
+      "category": "INDUSTRY",
+      "date": "2026-02-05T10:49:26+00:00",
+      "url": "https://www.mining-technology.com/news/new-earth-surveys-red-wine-ree/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Lachlan Star to buy 90% stake in New Waverley Project",
+      "category": "INDUSTRY",
+      "date": "2026-02-05T08:29:54+00:00",
+      "url": "https://www.mining-technology.com/news/lachlan-star-stake-new-waverley-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Core Silver announces expansion results for Laverdiere project, Canada",
+      "category": "INDUSTRY",
+      "date": "2026-02-05T08:24:44+00:00",
+      "url": "https://www.mining-technology.com/news/core-silver-expansion-results-laverdiere-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Zenith confirms gold discovery at Auburn site in Australia",
+      "category": "INDUSTRY",
+      "date": "2026-02-04T12:44:21+00:00",
+      "url": "https://www.mining-technology.com/news/zenith-yields-gold-auburn-site/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Critical Elements launches drilling programme at Rose West in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-02-04T12:37:42+00:00",
+      "url": "https://www.mining-technology.com/news/critical-elements-drilling-programme-rose-west/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Skeena receives EMA permit for Eskay Creek project in Canada",
       "category": "INDUSTRY",
       "date": "2026-02-04T10:54:57+00:00",
@@ -826,5 +866,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-05T07:01:39.022926+00:00"
+  "last_updated_utc": "2026-02-05T13:06:44.533803+00:00"
 }

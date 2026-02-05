@@ -2,6 +2,14 @@
   "category": "CIVIL",
   "items": [
     {
+      "title": "Parking Spaces that Influence the entire Traffic Flow",
+      "category": "CIVIL",
+      "date": "2026-02-05T10:50:52+00:00",
+      "url": "https://theconstructor.org/transportation/parking-spaces-influence-traffic-flow/579459/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
       "title": "Decorative Elements that Influence Space Behavior in a Building",
       "category": "CIVIL",
       "date": "2026-02-02T05:26:46+00:00",
@@ -146,5 +154,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-05T07:01:39.022926+00:00"
+  "last_updated_utc": "2026-02-05T13:06:44.533803+00:00"
 }

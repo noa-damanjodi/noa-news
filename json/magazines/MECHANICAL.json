@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Siemens acquires Canopus AI to expand semiconductor metrology",
+      "category": "MECHANICAL",
+      "date": "2026-02-05T11:54:12+00:00",
+      "url": "https://www.engineering.com/siemens-acquires-canopus-ai-to-expand-semiconductor-metrology/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hesai names Grab exclusive lidar distributor in Southeast Asia",
+      "category": "MECHANICAL",
+      "date": "2026-02-05T11:46:40+00:00",
+      "url": "https://www.engineering.com/hesai-names-grab-exclusive-lidar-distributor-in-southeast-asia/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Murata releases guide on power delivery for AI servers",
+      "category": "MECHANICAL",
+      "date": "2026-02-05T11:40:45+00:00",
+      "url": "https://www.engineering.com/murata-releases-guide-on-power-delivery-for-ai-servers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Meta and Zelestra sign PPA for 176 MWdc Texas solar plant",
+      "category": "MECHANICAL",
+      "date": "2026-02-05T11:12:22+00:00",
+      "url": "https://www.engineering.com/meta-and-zelestra-sign-ppa-for-176-mwdc-texas-solar-plant/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Dassault Systèmes names winners of 2026 AAKRUTI student contest",
+      "category": "MECHANICAL",
+      "date": "2026-02-05T11:05:17+00:00",
+      "url": "https://www.engineering.com/dassault-systemes-names-winners-of-2026-aakruti-student-contest/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Impulse AI launches no-code autonomous machine learning platform",
+      "category": "MECHANICAL",
+      "date": "2026-02-05T10:56:18+00:00",
+      "url": "https://www.engineering.com/impulse-ai-launches-no-code-autonomous-machine-learning-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "binder adds solder-connection option to M8 flange connectors",
+      "category": "MECHANICAL",
+      "date": "2026-02-05T10:43:58+00:00",
+      "url": "https://www.engineering.com/binder-adds-solder-connection-option-to-m8-flange-connectors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Dassault and NVIDIA form industrial AI partnership",
       "category": "MECHANICAL",
       "date": "2026-02-04T12:50:34+00:00",
@@ -1338,5 +1394,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-05T07:01:39.022926+00:00"
+  "last_updated_utc": "2026-02-05T13:06:44.533803+00:00"
 }
