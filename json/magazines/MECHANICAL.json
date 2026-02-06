@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Additive defense update: ASTM, Meltio, and Nikon SLM",
+      "category": "MECHANICAL",
+      "date": "2026-02-05T19:38:56+00:00",
+      "url": "https://www.engineering.com/additive-defense-update-astm-meltio-and-nikon-slm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Siemens acquires Canopus AI to expand semiconductor metrology",
       "category": "MECHANICAL",
       "date": "2026-02-05T11:54:12+00:00",
@@ -1394,5 +1402,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-05T18:53:09.745688+00:00"
+  "last_updated_utc": "2026-02-06T02:13:32.902959+00:00"
 }

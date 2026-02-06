@@ -2,6 +2,22 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Know the rating of equipment used during rescues, tower video stresses",
+      "category": "SAFETY",
+      "date": "2026-02-05T20:44:37+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/the-stakes-are-high-new-video-stresses-correct-use-of-worker-rescue-gear/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA: Burns from personal lithium-ion batteries may be work-related",
+      "category": "SAFETY",
+      "date": "2026-02-05T20:37:22+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-burns-from-personal-lithium-ion-batteries-may-be-work-related/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "NSC applauds ASTM’s updated SIF prevention standard",
       "category": "SAFETY",
       "date": "2026-02-05T17:23:47+00:00",
@@ -186,5 +202,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-05T18:53:09.745688+00:00"
+  "last_updated_utc": "2026-02-06T02:13:32.902959+00:00"
 }
