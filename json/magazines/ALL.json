@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "FEATool Multiphysics 1.18 updates GUI and simulation workflows",
+      "category": "MECHANICAL",
+      "date": "2026-02-06T12:56:49+00:00",
+      "url": "https://www.engineering.com/featool-multiphysics-1-18-updates-gui-and-simulation-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Newcore Gold starts PFS at Enchi Gold Project in Ghana",
+      "category": "INDUSTRY",
+      "date": "2026-02-06T10:04:16+00:00",
+      "url": "https://www.mining-technology.com/news/newcore-gold-pfs-enchi-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "CoreWeave introduces ARENA for production-scale AI workload testing",
+      "category": "MECHANICAL",
+      "date": "2026-02-06T09:41:00+00:00",
+      "url": "https://www.engineering.com/coreweave-introduces-arena-for-production-scale-ai-workload-testing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hawk Ridge Systems partnered with Stratasys Technologies",
+      "category": "MECHANICAL",
+      "date": "2026-02-06T09:28:00+00:00",
+      "url": "https://www.engineering.com/hawk-ridge-systems-partnered-with-stratasys-technologies/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Opentrons partners with NVIDIA to advance physical AI in labs",
+      "category": "MECHANICAL",
+      "date": "2026-02-06T09:21:00+00:00",
+      "url": "https://www.engineering.com/opentrons-partners-with-nvidia-to-advance-physical-ai-in-labs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "New episode: how has Trump 2.0 reshaped the power and oil and gas sectors?",
+      "category": "INDUSTRY",
+      "date": "2026-02-06T09:00:00+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-how-has-trump-2-0-reshaped-the-power-and-oil-and-gas-sectors-2/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Quantum computing firm opens EU base in Spain",
+      "category": "MECHANICAL",
+      "date": "2026-02-06T08:49:00+00:00",
+      "url": "https://www.engineering.com/quantum-computing-firm-opens-eu-base-in-spain/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Flip Electronics appoints David Kalinske to board of directors",
+      "category": "MECHANICAL",
+      "date": "2026-02-06T08:44:00+00:00",
+      "url": "https://www.engineering.com/flip-electronics-appoints-david-kalinske-to-board-of-directors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "UK and US sign agreement on critical minerals security",
+      "category": "INDUSTRY",
+      "date": "2026-02-06T08:23:37+00:00",
+      "url": "https://www.mining-technology.com/news/uk-us-agreement-critical-minerals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Resolute Mining secures permit for Doropo Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-02-06T08:17:00+00:00",
+      "url": "https://www.mining-technology.com/news/resolute-mining-permit-doropo-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Geospatial acquires Bruce Harris & Associates",
+      "category": "MECHANICAL",
+      "date": "2026-02-06T07:45:00+00:00",
+      "url": "https://www.engineering.com/schneider-geospatial-acquires-bruce-harris-associates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "NGEL commissions 125 MW at Bhadla solar PV project",
       "category": "POWER",
       "date": "2026-02-06T05:51:53+00:00",
@@ -2223,6 +2311,46 @@
       "date": "2026-01-25T08:09:38+00:00",
       "url": "https://theconstructor.org/architecture/indoor-plants-micro-air-modifiers/579372/",
       "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "“Kusam-Meco” Bench Top LCR Meter Model –Br5812",
+      "category": "ELECTRICAL",
+      "date": "2026-01-25T05:51:16+00:00",
+      "url": "https://www.electricalindia.in/kusam-meco-bench-top-lcr-meter-model-br5812/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Beyond Energy Efficiency: Air-Saving Ejectors Drive Sustainability and Reduce Global Warming in Industry",
+      "category": "ELECTRICAL",
+      "date": "2026-01-25T05:36:18+00:00",
+      "url": "https://www.electricalindia.in/beyond-energy-efficiency-air-saving-ejectors-drive-sustainability-and-reduce-global-warming-in-industry/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ERDA Bags National Awards for Innovation and Engineering Excellence",
+      "category": "ELECTRICAL",
+      "date": "2026-01-25T05:33:55+00:00",
+      "url": "https://www.electricalindia.in/erda-bags-national-awards-for-innovation-and-engineering-excellence/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "GE Vernova launches Vietnam’s first 9HA gas power plant into commercial operation",
+      "category": "ELECTRICAL",
+      "date": "2026-01-25T05:25:17+00:00",
+      "url": "https://www.electricalindia.in/ge-vernova-launches-vietnams-first-9ha-gas-power-plant-into-commercial-operation/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "HPL Expands its Panel Meter Portfolio",
+      "category": "ELECTRICAL",
+      "date": "2026-01-25T05:21:11+00:00",
+      "url": "https://www.electricalindia.in/hpl-expands-its-panel-meter-portfolio/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -6026,5 +6154,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-06T06:57:52.217685+00:00"
+  "last_updated_utc": "2026-02-06T13:04:06.415664+00:00"
 }

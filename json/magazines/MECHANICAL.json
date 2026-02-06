@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "FEATool Multiphysics 1.18 updates GUI and simulation workflows",
+      "category": "MECHANICAL",
+      "date": "2026-02-06T12:56:49+00:00",
+      "url": "https://www.engineering.com/featool-multiphysics-1-18-updates-gui-and-simulation-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "CoreWeave introduces ARENA for production-scale AI workload testing",
+      "category": "MECHANICAL",
+      "date": "2026-02-06T09:41:00+00:00",
+      "url": "https://www.engineering.com/coreweave-introduces-arena-for-production-scale-ai-workload-testing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hawk Ridge Systems partnered with Stratasys Technologies",
+      "category": "MECHANICAL",
+      "date": "2026-02-06T09:28:00+00:00",
+      "url": "https://www.engineering.com/hawk-ridge-systems-partnered-with-stratasys-technologies/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Opentrons partners with NVIDIA to advance physical AI in labs",
+      "category": "MECHANICAL",
+      "date": "2026-02-06T09:21:00+00:00",
+      "url": "https://www.engineering.com/opentrons-partners-with-nvidia-to-advance-physical-ai-in-labs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Quantum computing firm opens EU base in Spain",
+      "category": "MECHANICAL",
+      "date": "2026-02-06T08:49:00+00:00",
+      "url": "https://www.engineering.com/quantum-computing-firm-opens-eu-base-in-spain/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Flip Electronics appoints David Kalinske to board of directors",
+      "category": "MECHANICAL",
+      "date": "2026-02-06T08:44:00+00:00",
+      "url": "https://www.engineering.com/flip-electronics-appoints-david-kalinske-to-board-of-directors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Geospatial acquires Bruce Harris & Associates",
+      "category": "MECHANICAL",
+      "date": "2026-02-06T07:45:00+00:00",
+      "url": "https://www.engineering.com/schneider-geospatial-acquires-bruce-harris-associates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Additive defense update: ASTM, Meltio, and Nikon SLM",
       "category": "MECHANICAL",
       "date": "2026-02-05T19:38:56+00:00",
@@ -1402,5 +1458,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-06T06:57:52.217685+00:00"
+  "last_updated_utc": "2026-02-06T13:04:06.415664+00:00"
 }
