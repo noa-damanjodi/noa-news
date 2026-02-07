@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Sandfire, Havilah to advance Kalkaroo copper project in South Australia",
+      "category": "INDUSTRY",
+      "date": "2026-02-06T14:47:16+00:00",
+      "url": "https://www.mining-technology.com/news/sandfire-havilah-kalkaroo-copper-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Abcourt launches 20,000m drilling campaign at Quebec’s Flordin site",
+      "category": "INDUSTRY",
+      "date": "2026-02-06T14:34:54+00:00",
+      "url": "https://www.mining-technology.com/news/abcourt-20000m-drilling-flordin-site/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Newcore Gold starts PFS at Enchi Gold Project in Ghana",
       "category": "INDUSTRY",
       "date": "2026-02-06T10:04:16+00:00",
@@ -922,5 +938,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-06T18:54:23.111756+00:00"
+  "last_updated_utc": "2026-02-07T02:09:05.016019+00:00"
 }

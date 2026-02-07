@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "5 Fascinating AI applications at 3DExperience World 2026",
+      "category": "MECHANICAL",
+      "date": "2026-02-06T21:43:04+00:00",
+      "url": "https://www.engineering.com/5-fascinating-ai-applications-at-3dexperience-world-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Most people at risk for lung cancer aren’t being screened, study finds",
+      "category": "SAFETY",
+      "date": "2026-02-06T21:06:12+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/most-people-at-risk-for-lung-cancer-arent-being-screened-study-finds/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Could a pill help shift workers fight fatigue?",
+      "category": "SAFETY",
+      "date": "2026-02-06T20:24:03+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/could-a-pill-help-shift-workers-fight-fatigue/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Kentucky trespass bill aimed at protecting workers from ‘disgruntled’ people",
+      "category": "SAFETY",
+      "date": "2026-02-06T20:18:09+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/kentucky-trespass-bill-aimed-at-protecting-workers-from-disgruntled-people/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bill would give trucking companies more access to drivers’ federal safety records",
+      "category": "SAFETY",
+      "date": "2026-02-06T19:59:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/bill-would-give-trucking-companies-more-access-to-drivers-federal-safety-records/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Can this safer nuclear fuel make a comeback? – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-02-06T19:01:39+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/can-this-safer-nuclear-fuel-make-a-comeback-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Federal government invests $500,000 to deliver CUSMA Compliance Series, support Ontario SMEs",
       "category": "INSTRUMENTATION",
       "date": "2026-02-06T16:34:55+00:00",
@@ -23,6 +71,22 @@
       "date": "2026-02-06T15:48:13+00:00",
       "url": "https://www.automationmag.com/stellantis-selling-stake-in-battery-plant-joint-venture-in-ontario-to-partner/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Sandfire, Havilah to advance Kalkaroo copper project in South Australia",
+      "category": "INDUSTRY",
+      "date": "2026-02-06T14:47:16+00:00",
+      "url": "https://www.mining-technology.com/news/sandfire-havilah-kalkaroo-copper-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Abcourt launches 20,000m drilling campaign at Quebec’s Flordin site",
+      "category": "INDUSTRY",
+      "date": "2026-02-06T14:34:54+00:00",
+      "url": "https://www.mining-technology.com/news/abcourt-20000m-drilling-flordin-site/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -6194,5 +6258,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-06T18:54:23.111756+00:00"
+  "last_updated_utc": "2026-02-07T02:09:05.016019+00:00"
 }
