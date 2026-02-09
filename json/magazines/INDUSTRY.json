@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Angola eyes 20%-30% interest in De Beers",
+      "category": "INDUSTRY",
+      "date": "2026-02-09T10:25:43+00:00",
+      "url": "https://www.mining-technology.com/news/angola-eyes-interest-de-beers/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "New episode: autonomous robotics in oil and gas – Q&A with Equinor and ANYbotics",
+      "category": "INDUSTRY",
+      "date": "2026-02-09T09:00:00+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-autonomous-robotics-in-oil-and-gas-qa/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Vanguard receives environmental permits for Paraguayan uranium project",
+      "category": "INDUSTRY",
+      "date": "2026-02-09T08:49:24+00:00",
+      "url": "https://www.mining-technology.com/news/vanguard-receives-environmental-permits-for-paraguayan-uranium-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Canyon to commission surface miner at Minim Martap project in Cameroon",
+      "category": "INDUSTRY",
+      "date": "2026-02-09T08:47:58+00:00",
+      "url": "https://www.mining-technology.com/news/canyon-surface-miner-minim-martap-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Sandfire, Havilah to advance Kalkaroo copper project in South Australia",
       "category": "INDUSTRY",
       "date": "2026-02-06T14:47:16+00:00",
@@ -938,5 +970,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-09T07:07:05.192932+00:00"
+  "last_updated_utc": "2026-02-09T13:13:57.900152+00:00"
 }
