@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Myth busting: Why regular oil changes shouldn’t mean using low-quality oil",
+      "category": "INDUSTRY",
+      "date": "2026-02-10T12:37:01+00:00",
+      "url": "https://www.mining-technology.com/sponsored/myth-busting-why-regular-oil-changes-shouldnt-mean-using-low-quality-oil/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "PLS signs two-year spodumene supply deal with Canmax",
+      "category": "INDUSTRY",
+      "date": "2026-02-10T12:35:34+00:00",
+      "url": "https://www.mining-technology.com/news/pls-spodumene-supply-deal-canmax/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Azimut announces first drill results from Rosa Zone, Québec",
+      "category": "INDUSTRY",
+      "date": "2026-02-10T12:29:22+00:00",
+      "url": "https://www.mining-technology.com/news/azimut-first-drill-results-rosa-zone/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Rare earth potential discovered in eight Indonesian blocks",
       "category": "INDUSTRY",
       "date": "2026-02-10T10:29:35+00:00",
@@ -1010,5 +1034,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-10T13:18:47.847608+00:00"
+  "last_updated_utc": "2026-02-10T19:07:12.815283+00:00"
 }

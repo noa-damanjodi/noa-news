@@ -2,11 +2,91 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Planning for AI’s next wave: distributed inference and the future of grid reliability",
+      "category": "RENEWABLE",
+      "date": "2026-02-10T18:33:28+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/planning-for-ais-next-wave-distributed-inference-and-the-future-of-grid-reliability/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Trener Robotics raises $32 million in Series A round of funding",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-10T18:14:32+00:00",
+      "url": "https://www.automationmag.com/trener-robotics-raises-32-million-in-series-a-round-of-funding/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB introduces SaaS option for industrial energy optimization software",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-10T16:16:18+00:00",
+      "url": "https://www.automationmag.com/abb-introduces-saas-option-for-industrial-energy-optimization-software/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Safety board to chemical facilities: Will your buildings protect your workers?",
+      "category": "SAFETY",
+      "date": "2026-02-10T15:59:07+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safety-board-to-chemical-facilities-will-your-buildings-protect-your-workers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA removes 16 test standards from its testing-lab program",
+      "category": "SAFETY",
+      "date": "2026-02-10T15:44:36+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-removes-16-test-standards-from-its-testing-lab-program/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Flexxbotics releases enhanced MQTT connecter driver on open-source GitHub project",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-10T15:15:51+00:00",
+      "url": "https://www.automationmag.com/flexxbotics-releases-enhanced-mqtt-connecter-driver-on-open-source-github-project/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "FRA safety advisory focuses on shoving, pushing movements",
+      "category": "SAFETY",
+      "date": "2026-02-10T15:01:34+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fra-safety-advisory-focuses-on-shoving-pushing-movements/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Myth busting: Why regular oil changes shouldn’t mean using low-quality oil",
+      "category": "INDUSTRY",
+      "date": "2026-02-10T12:37:01+00:00",
+      "url": "https://www.mining-technology.com/sponsored/myth-busting-why-regular-oil-changes-shouldnt-mean-using-low-quality-oil/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "PLS signs two-year spodumene supply deal with Canmax",
+      "category": "INDUSTRY",
+      "date": "2026-02-10T12:35:34+00:00",
+      "url": "https://www.mining-technology.com/news/pls-spodumene-supply-deal-canmax/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "JuliaHub introduces agent-based framework for physics modeling",
       "category": "MECHANICAL",
       "date": "2026-02-10T12:34:36+00:00",
       "url": "https://www.engineering.com/juliahub-introduces-agent-based-framework-for-physics-modeling/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Azimut announces first drill results from Rosa Zone, Québec",
+      "category": "INDUSTRY",
+      "date": "2026-02-10T12:29:22+00:00",
+      "url": "https://www.mining-technology.com/news/azimut-first-drill-results-rosa-zone/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -6650,5 +6730,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-10T13:18:47.847608+00:00"
+  "last_updated_utc": "2026-02-10T19:07:12.815283+00:00"
 }

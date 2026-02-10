@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Trener Robotics raises $32 million in Series A round of funding",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-10T18:14:32+00:00",
+      "url": "https://www.automationmag.com/trener-robotics-raises-32-million-in-series-a-round-of-funding/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB introduces SaaS option for industrial energy optimization software",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-10T16:16:18+00:00",
+      "url": "https://www.automationmag.com/abb-introduces-saas-option-for-industrial-energy-optimization-software/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Flexxbotics releases enhanced MQTT connecter driver on open-source GitHub project",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-10T15:15:51+00:00",
+      "url": "https://www.automationmag.com/flexxbotics-releases-enhanced-mqtt-connecter-driver-on-open-source-github-project/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Schneider Electric unveils open, software-defined distributed control system EcoStruxure Foxboro SDA",
       "category": "INSTRUMENTATION",
       "date": "2026-02-09T19:22:54+00:00",
@@ -706,5 +730,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-10T13:18:47.847608+00:00"
+  "last_updated_utc": "2026-02-10T19:07:12.815283+00:00"
 }
