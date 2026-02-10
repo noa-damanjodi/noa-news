@@ -2,6 +2,46 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Rare earth potential discovered in eight Indonesian blocks",
+      "category": "INDUSTRY",
+      "date": "2026-02-10T10:29:35+00:00",
+      "url": "https://www.mining-technology.com/news/rare-earth-potential-discovered-indonesian-blocks/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Mexico finds ten bodies in Vizsla Silver abduction investigation",
+      "category": "INDUSTRY",
+      "date": "2026-02-10T08:42:44+00:00",
+      "url": "https://www.mining-technology.com/news/mexico-vizsla-silver-abduction-investigation/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ReeXploration begins inaugural drilling at Namibia’s Eureka Project",
+      "category": "INDUSTRY",
+      "date": "2026-02-10T08:32:22+00:00",
+      "url": "https://www.mining-technology.com/news/reexploration-inaugural-drilling-eureka-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Orion to secure $250 funding from Glencore for Prieska project",
+      "category": "INDUSTRY",
+      "date": "2026-02-09T12:03:14+00:00",
+      "url": "https://www.mining-technology.com/news/orion-secure-funding-glencore-prieska-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Copper Intelligence to acquire DRC’s Butembo copper asset",
+      "category": "INDUSTRY",
+      "date": "2026-02-09T12:01:09+00:00",
+      "url": "https://www.mining-technology.com/news/copper-intelligence-acquire-butembo-copper-asset/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Angola eyes 20%-30% interest in De Beers",
       "category": "INDUSTRY",
       "date": "2026-02-09T10:25:43+00:00",
@@ -970,5 +1010,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-10T07:07:23.970262+00:00"
+  "last_updated_utc": "2026-02-10T13:18:47.847608+00:00"
 }
