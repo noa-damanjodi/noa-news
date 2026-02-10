@@ -2,11 +2,179 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Sibanye-Stillwater signs 10 year renewable PPA with Etana Energy",
+      "category": "POWER",
+      "date": "2026-02-10T05:11:19+00:00",
+      "url": "https://powerline.net.in/2026/02/10/sibanye-stillwater-signs-10-year-renewable-ppa-with-etana-energy/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "CAPE Holland secures pile installation tool contract for 500 MW wind project from Fengmiao offshore wind farm",
+      "category": "POWER",
+      "date": "2026-02-10T05:10:52+00:00",
+      "url": "https://powerline.net.in/2026/02/10/cape-holland-secures-pile-installation-tool-contract-for-500-mw-wind-project-from-fengmiao-offshore-wind-farm/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bonfiglioli Transmissions plans to raise about USD 250 million via OFS",
+      "category": "POWER",
+      "date": "2026-02-10T05:09:56+00:00",
+      "url": "https://powerline.net.in/2026/02/10/bonfiglioli-transmissions-plans-to-raise-about-usd-250-million-via-ofs/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Radiance Renewables raises USD 100 million to expand renewable energy portfolio in India",
+      "category": "POWER",
+      "date": "2026-02-10T04:57:47+00:00",
+      "url": "https://powerline.net.in/2026/02/10/radiance-renewables-raises-usd-100-million-to-expand-renewable-energy-portfolio-in-india/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "CleanMax Enviro Energy Solutions raises Rs 15 billion in pre-IPO round",
+      "category": "POWER",
+      "date": "2026-02-10T04:57:15+00:00",
+      "url": "https://powerline.net.in/2026/02/10/cleanmax-enviro-energy-solutions-raises-rs-15-billion-in-pre-ipo-round/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "AESL secures long term financing from Japanese banks for ±800 kV HVDC project",
+      "category": "POWER",
+      "date": "2026-02-10T04:56:41+00:00",
+      "url": "https://powerline.net.in/2026/02/10/aesl-secures-long-term-financing-from-japanese-banks-for-%c2%b1800-kv-hvdc-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "REC and PFC boards provide in approval for merger",
+      "category": "POWER",
+      "date": "2026-02-10T04:56:03+00:00",
+      "url": "https://powerline.net.in/2026/02/10/rec-and-pfc-boards-provide-in-approval-for-merger/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "How digital transformation can evolve systems engineering for the future of aerospace",
+      "category": "MECHANICAL",
+      "date": "2026-02-09T20:52:28+00:00",
+      "url": "https://www.engineering.com/how-digital-transformation-can-evolve-systems-engineering-for-the-future-of-aerospace/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Electric unveils open, software-defined distributed control system EcoStruxure Foxboro SDA",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-09T19:22:54+00:00",
+      "url": "https://www.automationmag.com/schneider-electric-unveils-open-software-defined-distributed-control-system-ecostruxure-foxboro-sda/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Prioritizing affordability while modernizing the grid, with Exelon EVP and COO Mike Innocenzo",
+      "category": "RENEWABLE",
+      "date": "2026-02-09T19:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/prioritizing-affordability-while-modernizing-the-grid-with-exelon-evp-and-coo-mike-innocenzo/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Architecting scalable data pipelines in manufacturing – Part 2",
+      "category": "MECHANICAL",
+      "date": "2026-02-09T18:53:10+00:00",
+      "url": "https://www.engineering.com/architecting-scalable-data-pipelines-in-manufacturing-part-2/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Engineering Stargate: why AI’s next leap is a systems engineering problem",
+      "category": "MECHANICAL",
+      "date": "2026-02-09T18:52:53+00:00",
+      "url": "https://www.engineering.com/engineering-stargate-why-ais-next-leap-is-a-systems-engineering-problem/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Warmer water in Lake Mead risks vital operations",
+      "category": "RENEWABLE",
+      "date": "2026-02-09T18:37:35+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/warmer-water-in-lake-mead-risks-vital-operations/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Oregon, Washington and tribes head back to court after Trump pulls out of deal to recover salmon",
+      "category": "RENEWABLE",
+      "date": "2026-02-09T18:26:26+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/oregon-washington-and-tribes-head-back-to-court-after-trump-pulls-out-of-deal-to-recover-salmon/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "PLM in uncertain times",
+      "category": "MECHANICAL",
+      "date": "2026-02-09T18:23:06+00:00",
+      "url": "https://www.engineering.com/plm-in-uncertain-times/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "FedDev Ontario invests up to $9.3 million for Kumi Canada Corporation",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-09T18:16:13+00:00",
+      "url": "https://www.automationmag.com/feddev-ontario-invests-up-to-9-3-million-for-kumi-canada-corporation/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Electric and ETAP launch physics-based grid digital twin",
+      "category": "MECHANICAL",
+      "date": "2026-02-09T13:47:53+00:00",
+      "url": "https://www.engineering.com/schneider-electric-and-etap-launch-physics-based-grid-digital-twin/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mastercam releases 2026.R2 with GPU simulation and Copilot",
+      "category": "MECHANICAL",
+      "date": "2026-02-09T13:45:00+00:00",
+      "url": "https://www.engineering.com/mastercam-releases-2026-r2-with-gpu-simulation-and-copilot/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "FUGO Precision 3D to debut centrifugal printer at LMT LAB DAY",
+      "category": "MECHANICAL",
+      "date": "2026-02-09T11:44:00+00:00",
+      "url": "https://www.engineering.com/fugo-precision-3d-to-debut-centrifugal-printer-at-lmt-lab-day/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Greneta launches SaaS platform for high-precision 3D data",
+      "category": "MECHANICAL",
+      "date": "2026-02-09T10:59:00+00:00",
+      "url": "https://www.engineering.com/greneta-launches-saas-platform-for-high-precision-3d-data/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Angola eyes 20%-30% interest in De Beers",
       "category": "INDUSTRY",
       "date": "2026-02-09T10:25:43+00:00",
       "url": "https://www.mining-technology.com/news/angola-eyes-interest-de-beers/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Silicon Quantum Computing launches Quantum Twins simulator",
+      "category": "MECHANICAL",
+      "date": "2026-02-09T10:11:00+00:00",
+      "url": "https://www.engineering.com/silicon-quantum-computing-launches-quantum-twins-simulator/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -6386,5 +6554,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-09T13:13:57.900152+00:00"
+  "last_updated_utc": "2026-02-10T05:52:01.715582+00:00"
 }

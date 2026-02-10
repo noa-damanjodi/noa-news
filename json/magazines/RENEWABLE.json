@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Prioritizing affordability while modernizing the grid, with Exelon EVP and COO Mike Innocenzo",
+      "category": "RENEWABLE",
+      "date": "2026-02-09T19:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/prioritizing-affordability-while-modernizing-the-grid-with-exelon-evp-and-coo-mike-innocenzo/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Warmer water in Lake Mead risks vital operations",
+      "category": "RENEWABLE",
+      "date": "2026-02-09T18:37:35+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/warmer-water-in-lake-mead-risks-vital-operations/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Oregon, Washington and tribes head back to court after Trump pulls out of deal to recover salmon",
+      "category": "RENEWABLE",
+      "date": "2026-02-09T18:26:26+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/oregon-washington-and-tribes-head-back-to-court-after-trump-pulls-out-of-deal-to-recover-salmon/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Can this safer nuclear fuel make a comeback? – This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-02-06T19:01:39+00:00",
@@ -602,5 +626,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-09T13:13:57.900152+00:00"
+  "last_updated_utc": "2026-02-10T05:52:01.715582+00:00"
 }
