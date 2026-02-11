@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "TEPCO restarts a reactor at Kashiwazaki-Kariwa nuclear power plant in Japan",
+      "category": "POWER",
+      "date": "2026-02-11T04:28:44+00:00",
+      "url": "https://powerline.net.in/2026/02/11/tepco-restarts-a-reactor-at-kashiwazaki-kariwa-nuclear-power-plant-in-japan/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "United Solar commences polysilicon production in Oman",
+      "category": "POWER",
+      "date": "2026-02-11T04:28:22+00:00",
+      "url": "https://powerline.net.in/2026/02/11/united-solar-commences-polysilicon-production-in-oman/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Ceigall India secures LoA for 220 MW solar plus storage project at Morena Solar Park",
+      "category": "POWER",
+      "date": "2026-02-11T04:27:56+00:00",
+      "url": "https://powerline.net.in/2026/02/11/ceigall-india-secures-loa-for-220-mw-solar-plus-storage-project-at-morena-solar-park/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bajel Projects secures ultra mega order for 765 kV inter-regional transmission corridor",
+      "category": "POWER",
+      "date": "2026-02-11T04:27:34+00:00",
+      "url": "https://powerline.net.in/2026/02/11/bajel-projects-secures-ultra-mega-order-for-765-kv-inter-regional-transmission-corridor/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "KEC International secures USD 1.02 billion orders across several businesses",
+      "category": "POWER",
+      "date": "2026-02-11T04:27:04+00:00",
+      "url": "https://powerline.net.in/2026/02/11/kec-international-secures-usd-1-02-billion-orders-across-several-businesses/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bondada Engineering commissions 69.51 MWp of solar projects across Maharashtra and Tamil Nadu",
+      "category": "POWER",
+      "date": "2026-02-11T04:26:41+00:00",
+      "url": "https://powerline.net.in/2026/02/11/bondada-engineering-commissions-69-51-mwp-of-solar-projects-across-maharashtra-and-tamil-nadu/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NTPC Green commissions 14.43 MW Khavda solar capacity in Gujarat",
+      "category": "POWER",
+      "date": "2026-02-11T04:26:18+00:00",
+      "url": "https://powerline.net.in/2026/02/11/ntpc-green-commissions-14-43-mw-khavda-solar-capacity-in-gujarat/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "A tale of three chatbots: Aura, Leo, and Marie",
       "category": "MECHANICAL",
       "date": "2026-02-10T20:49:16+00:00",
@@ -6762,5 +6818,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-11T02:33:19.927804+00:00"
+  "last_updated_utc": "2026-02-11T07:03:54.236239+00:00"
 }
