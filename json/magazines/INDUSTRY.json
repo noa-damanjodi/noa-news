@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Resourcing Tomorrow 2025: emerging technologies, artisanal mining, ESG and more",
+      "category": "INDUSTRY",
+      "date": "2026-02-11T14:35:55+00:00",
+      "url": "https://www.mining-technology.com/analysis/resourcing-tomorrow-2025-emerging-technologies-artisanal-mining-esg-and-more/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Tocvan restarts drilling at Gran Pilar project in Sonora, Mexico",
+      "category": "INDUSTRY",
+      "date": "2026-02-11T14:16:24+00:00",
+      "url": "https://www.mining-technology.com/news/tocvan-restarts-drilling-gran-pilar-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Labrador Gold and Nemo collaborate on Ontario exploration project",
+      "category": "INDUSTRY",
+      "date": "2026-02-11T12:22:27+00:00",
+      "url": "https://www.mining-technology.com/news/labrador-gold-nemo-collaborate-ontario-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "New episode: Trump’s mining strategy to tackle China’s mineral dominance",
+      "category": "INDUSTRY",
+      "date": "2026-02-11T12:02:37+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-trumps-mining-strategy-to-tackle-chinas-mineral-dominance/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Auriginal Mining secures permits to drill Roger Project in Canada",
       "category": "INDUSTRY",
       "date": "2026-02-11T10:37:36+00:00",
@@ -1058,5 +1090,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-11T13:15:16.760693+00:00"
+  "last_updated_utc": "2026-02-11T19:05:42.290447+00:00"
 }

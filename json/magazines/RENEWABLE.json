@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Why solar’s next phase will be defined by performance, not hardware",
+      "category": "RENEWABLE",
+      "date": "2026-02-11T14:59:59+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/why-solars-next-phase-will-be-defined-by-performance-not-hardware/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "A groundbreaking geothermal heating and cooling network saves this Colorado college money and water",
       "category": "RENEWABLE",
       "date": "2026-02-10T20:33:58+00:00",
@@ -650,5 +658,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-11T13:15:16.760693+00:00"
+  "last_updated_utc": "2026-02-11T19:05:42.290447+00:00"
 }

@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Cadence launches ChipStack AI Super Agent for chip verification",
+      "category": "MECHANICAL",
+      "date": "2026-02-11T13:18:56+00:00",
+      "url": "https://www.engineering.com/cadence-launches-chipstack-ai-super-agent-for-chip-verification/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Zaytran introduces XRAY-S-5800 robotic gripper",
       "category": "MECHANICAL",
       "date": "2026-02-11T11:53:10+00:00",
@@ -1666,5 +1674,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-11T13:15:16.760693+00:00"
+  "last_updated_utc": "2026-02-11T19:05:42.290447+00:00"
 }
