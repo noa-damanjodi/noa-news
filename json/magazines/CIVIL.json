@@ -2,6 +2,14 @@
   "category": "CIVIL",
   "items": [
     {
+      "title": "Rooms that Stay Warm even with AC On",
+      "category": "CIVIL",
+      "date": "2026-02-11T11:33:22+00:00",
+      "url": "https://theconstructor.org/building/rooms-warm-ac/579490/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
       "title": "Footpaths that stay Dark despite Streetlights",
       "category": "CIVIL",
       "date": "2026-02-07T05:31:08+00:00",
@@ -162,5 +170,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-11T07:03:54.236239+00:00"
+  "last_updated_utc": "2026-02-11T13:15:16.760693+00:00"
 }

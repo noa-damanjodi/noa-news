@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Zaytran introduces XRAY-S-5800 robotic gripper",
+      "category": "MECHANICAL",
+      "date": "2026-02-11T11:53:10+00:00",
+      "url": "https://www.engineering.com/zaytran-introduces-xray-s-5800-robotic-gripper/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cisco unveils 102.4 Tbps silicon for AI clusters",
+      "category": "MECHANICAL",
+      "date": "2026-02-11T09:21:00+00:00",
+      "url": "https://www.engineering.com/cisco-unveils-102-4-tbps-silicon-for-ai-clusters/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ACS formalizes Siemens drives automation partnership",
+      "category": "MECHANICAL",
+      "date": "2026-02-11T08:57:00+00:00",
+      "url": "https://www.engineering.com/acs-formalizes-siemens-drives-automation-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Velo3D selected for the U.S. Army AM qualification program",
+      "category": "MECHANICAL",
+      "date": "2026-02-11T08:42:00+00:00",
+      "url": "https://www.engineering.com/velo3d-selected-for-the-u-s-army-am-qualification-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cisco expands AI defense for agentic AI security",
+      "category": "MECHANICAL",
+      "date": "2026-02-11T08:32:00+00:00",
+      "url": "https://www.engineering.com/cisco-expands-ai-defense-for-agentic-ai-security/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "A tale of three chatbots: Aura, Leo, and Marie",
       "category": "MECHANICAL",
       "date": "2026-02-10T20:49:16+00:00",
@@ -1626,5 +1666,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-11T07:03:54.236239+00:00"
+  "last_updated_utc": "2026-02-11T13:15:16.760693+00:00"
 }

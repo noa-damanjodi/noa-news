@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Zaytran introduces XRAY-S-5800 robotic gripper",
+      "category": "MECHANICAL",
+      "date": "2026-02-11T11:53:10+00:00",
+      "url": "https://www.engineering.com/zaytran-introduces-xray-s-5800-robotic-gripper/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rooms that Stay Warm even with AC On",
+      "category": "CIVIL",
+      "date": "2026-02-11T11:33:22+00:00",
+      "url": "https://theconstructor.org/building/rooms-warm-ac/579490/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "Auriginal Mining secures permits to drill Roger Project in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-02-11T10:37:36+00:00",
+      "url": "https://www.mining-technology.com/news/auriginal-mining-permits-drill-roger-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Cisco unveils 102.4 Tbps silicon for AI clusters",
+      "category": "MECHANICAL",
+      "date": "2026-02-11T09:21:00+00:00",
+      "url": "https://www.engineering.com/cisco-unveils-102-4-tbps-silicon-for-ai-clusters/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Elevra, Mangrove sign MoU for spodumene supply",
+      "category": "INDUSTRY",
+      "date": "2026-02-11T09:15:23+00:00",
+      "url": "https://www.mining-technology.com/news/elevra-mangrove-sign-mou-spodumene-supply/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Americas Gold and Silver, US Antimony form JV for Idaho facility",
+      "category": "INDUSTRY",
+      "date": "2026-02-11T09:04:58+00:00",
+      "url": "https://www.mining-technology.com/news/americas-gold-and-silver-us-antimony-form-jv/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ACS formalizes Siemens drives automation partnership",
+      "category": "MECHANICAL",
+      "date": "2026-02-11T08:57:00+00:00",
+      "url": "https://www.engineering.com/acs-formalizes-siemens-drives-automation-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Velo3D selected for the U.S. Army AM qualification program",
+      "category": "MECHANICAL",
+      "date": "2026-02-11T08:42:00+00:00",
+      "url": "https://www.engineering.com/velo3d-selected-for-the-u-s-army-am-qualification-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cisco expands AI defense for agentic AI security",
+      "category": "MECHANICAL",
+      "date": "2026-02-11T08:32:00+00:00",
+      "url": "https://www.engineering.com/cisco-expands-ai-defense-for-agentic-ai-security/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "TEPCO restarts a reactor at Kashiwazaki-Kariwa nuclear power plant in Japan",
       "category": "POWER",
       "date": "2026-02-11T04:28:44+00:00",
@@ -6818,5 +6890,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-11T07:03:54.236239+00:00"
+  "last_updated_utc": "2026-02-11T13:15:16.760693+00:00"
 }
