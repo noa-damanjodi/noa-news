@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "DTECH 2026: Exploring the products from G&W Electric that are powering grid transformation",
+      "category": "RENEWABLE",
+      "date": "2026-02-12T14:58:28+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/dtech-2026-gw-electric-grid-transformation/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "‘Security is non-negotiable’ – Inside the electric utility’s path to a self-healing grid",
       "category": "RENEWABLE",
       "date": "2026-02-11T23:00:36+00:00",
@@ -666,5 +674,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-12T13:12:54.891217+00:00"
+  "last_updated_utc": "2026-02-12T19:05:08.590189+00:00"
 }

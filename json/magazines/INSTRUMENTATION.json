@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "ISA and Wiley partner to scale publishing content on automation",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-12T15:24:29+00:00",
+      "url": "https://www.automationmag.com/isa-and-wiley-partner-to-scale-publishing-content-on-automation/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Vention introduces GRIIP, a generalized physical AI pipeline for manufacturing automation",
       "category": "INSTRUMENTATION",
       "date": "2026-02-11T15:25:21+00:00",
@@ -738,5 +746,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-12T13:12:54.891217+00:00"
+  "last_updated_utc": "2026-02-12T19:05:08.590189+00:00"
 }

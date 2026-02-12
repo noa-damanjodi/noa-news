@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "3D_Evolution 4.9 adds semantic PMI verification",
+      "category": "MECHANICAL",
+      "date": "2026-02-12T13:14:21+00:00",
+      "url": "https://www.engineering.com/3d_evolution-4-9-adds-semantic-pmi-verification/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "JETCAM updates CrossTrack 6 and Expert v25 for composites",
       "category": "MECHANICAL",
       "date": "2026-02-12T13:03:01+00:00",
@@ -1730,5 +1738,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-12T13:12:54.891217+00:00"
+  "last_updated_utc": "2026-02-12T19:05:08.590189+00:00"
 }

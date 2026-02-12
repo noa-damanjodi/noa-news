@@ -2,11 +2,67 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Vehicle Safety Recalls Week: Does your car have an open recall?",
+      "category": "SAFETY",
+      "date": "2026-02-12T16:01:02+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/vehicle-safety-recalls-week-does-your-car-have-an-open-recall/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ISA and Wiley partner to scale publishing content on automation",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-12T15:24:29+00:00",
+      "url": "https://www.automationmag.com/isa-and-wiley-partner-to-scale-publishing-content-on-automation/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "On the Safe Side podcast Episode 72: Previewing National Ladder Safety Month and highlights from the February issue",
+      "category": "SAFETY",
+      "date": "2026-02-12T15:00:45+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/on-the-safe-side-podcast-episode-72-previewing-national-ladder-safety-month-and-highlights-from-the-february-issue/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "DTECH 2026: Exploring the products from G&W Electric that are powering grid transformation",
+      "category": "RENEWABLE",
+      "date": "2026-02-12T14:58:28+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/dtech-2026-gw-electric-grid-transformation/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "3D_Evolution 4.9 adds semantic PMI verification",
+      "category": "MECHANICAL",
+      "date": "2026-02-12T13:14:21+00:00",
+      "url": "https://www.engineering.com/3d_evolution-4-9-adds-semantic-pmi-verification/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "JETCAM updates CrossTrack 6 and Expert v25 for composites",
       "category": "MECHANICAL",
       "date": "2026-02-12T13:03:01+00:00",
       "url": "https://www.engineering.com/jetcam-updates-crosstrack-6-and-expert-v25-for-composites/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "New Frontier to hold 90% of Québec’s Pomme REE Project",
+      "category": "INDUSTRY",
+      "date": "2026-02-12T12:47:09+00:00",
+      "url": "https://www.mining-technology.com/news/new-frontier-pomme-ree-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Robex ships initial gold from Guinea’s Kiniero project",
+      "category": "INDUSTRY",
+      "date": "2026-02-12T12:43:10+00:00",
+      "url": "https://www.mining-technology.com/news/robex-ships-initial-gold-from-guineas-kiniero-project/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -7170,5 +7226,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-12T13:12:54.891217+00:00"
+  "last_updated_utc": "2026-02-12T19:05:08.590189+00:00"
 }
