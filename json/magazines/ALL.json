@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "JETCAM updates CrossTrack 6 and Expert v25 for composites",
+      "category": "MECHANICAL",
+      "date": "2026-02-12T13:03:01+00:00",
+      "url": "https://www.engineering.com/jetcam-updates-crosstrack-6-and-expert-v25-for-composites/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "CONTACT and T-Systems to integrate CATIA V6 with PLM",
+      "category": "MECHANICAL",
+      "date": "2026-02-12T12:33:13+00:00",
+      "url": "https://www.engineering.com/contact-and-t-systems-to-integrate-catia-v6-with-plm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Community-driven resource nationalism: opportunity amid the challenges",
+      "category": "INDUSTRY",
+      "date": "2026-02-12T11:54:45+00:00",
+      "url": "https://www.mining-technology.com/features/community-driven-resource-nationalism-opportunity-amid-the-challenges/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Monogoto and Nordic Semiconductor collaborate on nuSIM for IoT",
+      "category": "MECHANICAL",
+      "date": "2026-02-12T10:34:00+00:00",
+      "url": "https://www.engineering.com/monogoto-and-nordic-semiconductor-collaborate-on-nusim-for-iot/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Zijin Mining to start initial DRC lithium production in June",
+      "category": "INDUSTRY",
+      "date": "2026-02-12T10:20:26+00:00",
+      "url": "https://www.mining-technology.com/news/zijin-mining-congos-initial-lithium-production/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Oxide raises $200 million in Series C funding",
+      "category": "MECHANICAL",
+      "date": "2026-02-12T10:17:00+00:00",
+      "url": "https://www.engineering.com/oxide-raises-200-million-in-series-c-funding/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Revizto joins buildingSMART chapters across the DACH region",
+      "category": "MECHANICAL",
+      "date": "2026-02-12T10:01:00+00:00",
+      "url": "https://www.engineering.com/revizto-joins-buildingsmart-chapters-across-the-dach-region/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Flexxbotics extends SAP with autonomous process control",
+      "category": "MECHANICAL",
+      "date": "2026-02-12T09:44:00+00:00",
+      "url": "https://www.engineering.com/flexxbotics-extends-sap-with-autonomous-process-control/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Globex discovers rare earth minerals in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-02-12T09:37:36+00:00",
+      "url": "https://www.mining-technology.com/news/globex-rare-earth-minerals-nevada/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "CopperTech unveils partnership to boost geoscience tech at Konkola mines",
+      "category": "INDUSTRY",
+      "date": "2026-02-12T09:32:02+00:00",
+      "url": "https://www.mining-technology.com/news/coppertech-partnership-boost-geoscience-tech-konkola-mines/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Apacer adds power protection and efficiency to SSDs",
+      "category": "MECHANICAL",
+      "date": "2026-02-12T09:12:00+00:00",
+      "url": "https://www.engineering.com/apacer-adds-power-protection-and-efficiency-to-ssds/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Now what?",
       "category": "SAFETY",
       "date": "2026-02-12T06:00:59+00:00",
@@ -7082,5 +7170,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-12T07:03:41.515485+00:00"
+  "last_updated_utc": "2026-02-12T13:12:54.891217+00:00"
 }
