@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Now what?",
+      "category": "SAFETY",
+      "date": "2026-02-12T06:00:59+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/now-what/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Have the FORE-sight to prevent golf injuries",
+      "category": "SAFETY",
+      "date": "2026-02-12T06:00:51+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/have-the-fore-sight-to-prevent-golf-injuries/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "High winds call for high-alert drivers",
+      "category": "SAFETY",
+      "date": "2026-02-12T06:00:39+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/high-winds-call-for-high-alert-drivers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The benefits of bell peppers",
+      "category": "SAFETY",
+      "date": "2026-02-12T06:00:36+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/the-benefits-of-bell-peppers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "An attitude of gratitude",
+      "category": "SAFETY",
+      "date": "2026-02-12T06:00:28+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/an-attitude-of-gratitude/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Sepsis: It’s serious",
+      "category": "SAFETY",
+      "date": "2026-02-12T06:00:05+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/sepsis-its-serious/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Premier Energies forms EPC joint venture with BA Prerna Renewables",
+      "category": "POWER",
+      "date": "2026-02-12T05:36:57+00:00",
+      "url": "https://powerline.net.in/2026/02/12/premier-energies-forms-epc-joint-venture-with-ba-prerna-renewables/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BHEL to divest up to 5 per cent stake through OFS",
+      "category": "POWER",
+      "date": "2026-02-12T05:33:48+00:00",
+      "url": "https://powerline.net.in/2026/02/12/bhel-to-divest-up-to-5-per-cent-stake-through-ofs/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Jupiter International commissions third solar cell unit at Baddi",
+      "category": "POWER",
+      "date": "2026-02-12T05:32:48+00:00",
+      "url": "https://powerline.net.in/2026/02/12/jupiter-international-commissions-third-solar-cell-unit-at-baddi/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Volks Energie commissions Ni-Cd battery bank replacement works in Kargil and Leh",
+      "category": "POWER",
+      "date": "2026-02-12T05:31:53+00:00",
+      "url": "https://powerline.net.in/2026/02/12/volks-energie-commissions-ni-cd-battery-bank-replacement-works-in-kargil-and-leh/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Polaris Smart Metering deploys over 1 million smart meters under RDSS",
+      "category": "POWER",
+      "date": "2026-02-12T05:30:55+00:00",
+      "url": "https://powerline.net.in/2026/02/12/polaris-smart-metering-deploys-over-1-million-smart-meters-under-rdss/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EVE Energy commissions 200 MW/400 MWh storage project using 628 Ah battery cells",
+      "category": "POWER",
+      "date": "2026-02-12T05:29:09+00:00",
+      "url": "https://powerline.net.in/2026/02/12/eve-energy-commissions-200-mw-400-mwh-storage-project-using-628-ah-battery-cells/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "GULF secures USD 1.9 billion financing for 939 MW renewable portfolio in Thailand",
+      "category": "POWER",
+      "date": "2026-02-12T05:28:04+00:00",
+      "url": "https://powerline.net.in/2026/02/12/gulf-secures-usd-1-9-billion-financing-for-939-mw-renewable-portfolio-in-thailand/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "‘Security is non-negotiable’ – Inside the electric utility’s path to a self-healing grid",
       "category": "RENEWABLE",
       "date": "2026-02-11T23:00:36+00:00",
@@ -6978,5 +7082,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-12T02:28:10.269826+00:00"
+  "last_updated_utc": "2026-02-12T07:03:41.515485+00:00"
 }
