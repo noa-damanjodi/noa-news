@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Dassault names winners of 2026 AAKRUTI contest",
+      "category": "MECHANICAL",
+      "date": "2026-02-13T12:07:45+00:00",
+      "url": "https://www.engineering.com/dassault-names-winners-of-2026-aakruti-contest/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Starlab partners with Auxilium on orbital bioprinting",
+      "category": "MECHANICAL",
+      "date": "2026-02-13T12:02:24+00:00",
+      "url": "https://www.engineering.com/starlab-partners-with-auxilium-on-orbital-bioprinting/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "RoboDK launches RoboDK CAM for robotic machining cells",
+      "category": "MECHANICAL",
+      "date": "2026-02-13T11:17:24+00:00",
+      "url": "https://www.engineering.com/robodk-launches-robodk-cam-for-robotic-machining-cells/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "CONTACT Software partners with TJ Digital in UK",
+      "category": "MECHANICAL",
+      "date": "2026-02-13T11:10:34+00:00",
+      "url": "https://www.engineering.com/contact-software-partners-with-tj-digital-in-uk/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Ally Services completes three HVAC acquisitions",
+      "category": "MECHANICAL",
+      "date": "2026-02-13T11:10:05+00:00",
+      "url": "https://www.engineering.com/ally-services-completes-three-hvac-acquisitions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "3D_Evolution 4.9 adds semantic PMI verification",
       "category": "MECHANICAL",
       "date": "2026-02-12T13:14:21+00:00",
@@ -1738,5 +1778,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-13T07:02:02.145204+00:00"
+  "last_updated_utc": "2026-02-13T13:04:27.948643+00:00"
 }
