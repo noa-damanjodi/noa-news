@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Felix Gold announces drilling results at Alaska’s Northwest Array",
+      "category": "INDUSTRY",
+      "date": "2026-02-13T14:38:01+00:00",
+      "url": "https://www.mining-technology.com/news/felix-gold-drilling-results-northwest-array/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Trump reverses key Obama-era climate ruling on greenhouse gases",
       "category": "INDUSTRY",
       "date": "2026-02-13T10:59:19+00:00",
@@ -1170,5 +1178,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-13T13:04:27.948643+00:00"
+  "last_updated_utc": "2026-02-13T18:53:54.045718+00:00"
 }

@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Speakers announced for Advance: Women in Manufacturing – Keys to Success",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-13T17:45:06+00:00",
+      "url": "https://www.automationmag.com/speakers-announced-for-advance-women-in-manufacturing-keys-to-success/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Rand Simulation named an Ansys Apex Channel Partner",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-13T15:04:44+00:00",
+      "url": "https://www.automationmag.com/rand-simulation-named-an-ansys-apex-channel-partner/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Infosys releases inaugural Manufacturing Tech Index: AI Pulse",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-13T14:38:57+00:00",
+      "url": "https://www.automationmag.com/infosys-releases-inaugural-manufacturing-tech-index-ai-pulse/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "ISA and Wiley partner to scale publishing content on automation",
       "category": "INSTRUMENTATION",
       "date": "2026-02-12T15:24:29+00:00",
@@ -746,5 +770,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-13T13:04:27.948643+00:00"
+  "last_updated_utc": "2026-02-13T18:53:54.045718+00:00"
 }
