@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "How ROI-driven decision-making creates more resilient outcomes in both philanthropy and renewable energy",
+      "category": "RENEWABLE",
+      "date": "2026-02-12T21:01:38+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/how-roi-driven-decision-making-creates-more-resilient-outcomes-in-both-philanthropy-and-renewable-energy/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Utilities in the Southeast may be overestimating the AI boom",
+      "category": "RENEWABLE",
+      "date": "2026-02-12T19:58:30+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/utilities-in-the-southeast-may-be-overestimating-the-ai-boom/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "What’s stopping utilities from innovating to meet demand growth?",
+      "category": "RENEWABLE",
+      "date": "2026-02-12T19:40:23+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/whats-stopping-utilities-from-innovating-to-meet-demand-growth/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "DTECH 2026: Exploring the products from G&W Electric that are powering grid transformation",
       "category": "RENEWABLE",
       "date": "2026-02-12T14:58:28+00:00",
@@ -674,5 +698,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-12T19:05:08.590189+00:00"
+  "last_updated_utc": "2026-02-13T02:29:41.275778+00:00"
 }
