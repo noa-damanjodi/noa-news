@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Trump removes legal basis under Clean Air Act – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-02-13T20:23:00+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/trump-removes-legal-basis-under-clean-air-act-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "AI is a ‘double-edged sword’ for utilities – weighing the risk against the benefits",
+      "category": "RENEWABLE",
+      "date": "2026-02-13T19:57:48+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/ai-is-a-double-edged-sword-for-utilities-weighing-the-risk-against-the-benefits/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "The “Super Bowl kick off for utilities” meets the era of data centers",
+      "category": "RENEWABLE",
+      "date": "2026-02-13T19:16:50+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/the-super-bowl-kick-off-for-utilities-meets-the-era-of-data-centers/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "What does DTECH mean to the utility landscape?",
+      "category": "RENEWABLE",
+      "date": "2026-02-13T19:16:08+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/what-does-dtech-mean-to-the-utility-landscape/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "10 AI tools coming to Solidworks in 2026",
+      "category": "MECHANICAL",
+      "date": "2026-02-13T19:07:50+00:00",
+      "url": "https://www.engineering.com/10-ai-tools-coming-to-solidworks-in-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Transfer of Spearfish Canyon hydro plant and funding for fish hatchery earn governor’s approval",
       "category": "RENEWABLE",
       "date": "2026-02-13T18:27:17+00:00",
@@ -7530,5 +7570,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-13T18:53:54.045718+00:00"
+  "last_updated_utc": "2026-02-14T02:10:58.221788+00:00"
 }
