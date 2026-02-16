@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Siemens reports Rs 2.78 billion net profit in quarter ended December 2025",
+      "category": "POWER",
+      "date": "2026-02-16T12:42:24+00:00",
+      "url": "https://powerline.net.in/2026/02/16/siemens-reports-rs-2-78-billion-net-profit-in-quarter-ended-december-2025/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Atlas Salt, Sandvik expand collaboration for salt project in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-02-16T10:31:32+00:00",
+      "url": "https://www.mining-technology.com/news/atlas-salt-sandvik-expand-collaboration-salt-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Cove Kaz, Tau-Ken Samruk partner on Kazakhstan tungsten project",
+      "category": "INDUSTRY",
+      "date": "2026-02-16T08:54:15+00:00",
+      "url": "https://www.mining-technology.com/news/cove-kaz-tau-ken-samruk-partner-kazakhstan-tungsten/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Mali grants ten-year renewal for Barrick’s Loulo project permit",
+      "category": "INDUSTRY",
+      "date": "2026-02-16T08:48:17+00:00",
+      "url": "https://www.mining-technology.com/news/mali-grants-ten-year-renewal-for-barricks-loulo-project-permit/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Bioleachers are sitting on a copper cache: why is uptake slow?",
+      "category": "INDUSTRY",
+      "date": "2026-02-16T08:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/bioleaching-copper-why-is-uptake-slow/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Ministry of Power revises ash utilisation guidelines for coal and lignite-based thermal power plants",
       "category": "POWER",
       "date": "2026-02-16T06:00:50+00:00",
@@ -159,6 +199,14 @@
       "date": "2026-02-13T15:04:44+00:00",
       "url": "https://www.automationmag.com/rand-simulation-named-an-ansys-apex-channel-partner/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Aeris Resources plans full takeover of Peel Mining",
+      "category": "INDUSTRY",
+      "date": "2026-02-13T14:42:32+00:00",
+      "url": "https://www.mining-technology.com/news/aeris-resources-takeover-peel-mining/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -7634,5 +7682,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-16T07:05:49.949115+00:00"
+  "last_updated_utc": "2026-02-16T13:08:19.892901+00:00"
 }

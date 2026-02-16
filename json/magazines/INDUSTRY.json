@@ -2,6 +2,46 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Atlas Salt, Sandvik expand collaboration for salt project in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-02-16T10:31:32+00:00",
+      "url": "https://www.mining-technology.com/news/atlas-salt-sandvik-expand-collaboration-salt-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Cove Kaz, Tau-Ken Samruk partner on Kazakhstan tungsten project",
+      "category": "INDUSTRY",
+      "date": "2026-02-16T08:54:15+00:00",
+      "url": "https://www.mining-technology.com/news/cove-kaz-tau-ken-samruk-partner-kazakhstan-tungsten/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Mali grants ten-year renewal for Barrick’s Loulo project permit",
+      "category": "INDUSTRY",
+      "date": "2026-02-16T08:48:17+00:00",
+      "url": "https://www.mining-technology.com/news/mali-grants-ten-year-renewal-for-barricks-loulo-project-permit/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Bioleachers are sitting on a copper cache: why is uptake slow?",
+      "category": "INDUSTRY",
+      "date": "2026-02-16T08:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/bioleaching-copper-why-is-uptake-slow/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Aeris Resources plans full takeover of Peel Mining",
+      "category": "INDUSTRY",
+      "date": "2026-02-13T14:42:32+00:00",
+      "url": "https://www.mining-technology.com/news/aeris-resources-takeover-peel-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Felix Gold announces drilling results at Alaska’s Northwest Array",
       "category": "INDUSTRY",
       "date": "2026-02-13T14:38:01+00:00",
@@ -1178,5 +1218,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-16T07:05:49.949115+00:00"
+  "last_updated_utc": "2026-02-16T13:08:19.892901+00:00"
 }
