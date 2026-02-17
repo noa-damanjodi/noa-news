@@ -2,6 +2,46 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Red Mountain starts metallurgical tests at Oaky Creek in NSW",
+      "category": "INDUSTRY",
+      "date": "2026-02-17T10:02:34+00:00",
+      "url": "https://www.mining-technology.com/news/red-mountain-metallurgical-tests-oaky-creek/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Magnetite Mines secures approvals for Ironback Hill drilling",
+      "category": "INDUSTRY",
+      "date": "2026-02-17T09:28:35+00:00",
+      "url": "https://www.mining-technology.com/news/magnetite-mines-approvals-ironback-hill-drilling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Talisman Metals to acquire Tirzzit Copper Project in Morocco",
+      "category": "INDUSTRY",
+      "date": "2026-02-17T09:17:52+00:00",
+      "url": "https://www.mining-technology.com/news/talisman-metals-to-acquire-tirzzit-copper-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Westgold completes Mt Henry sale to Alicanto Minerals",
+      "category": "INDUSTRY",
+      "date": "2026-02-16T13:25:52+00:00",
+      "url": "https://www.mining-technology.com/news/westgold-completes-mt-henry-sale-to-alicanto-minerals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Troubadour completes phase one drilling at Senneville property",
+      "category": "INDUSTRY",
+      "date": "2026-02-16T13:09:02+00:00",
+      "url": "https://www.mining-technology.com/news/troubadour-phase-one-drilling-senneville-property/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Atlas Salt, Sandvik expand collaboration for salt project in Canada",
       "category": "INDUSTRY",
       "date": "2026-02-16T10:31:32+00:00",
@@ -22,6 +62,14 @@
       "category": "INDUSTRY",
       "date": "2026-02-16T08:48:17+00:00",
       "url": "https://www.mining-technology.com/news/mali-grants-ten-year-renewal-for-barricks-loulo-project-permit/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Sibanye-Stillwater secures 401GWh renewable power deal",
+      "category": "INDUSTRY",
+      "date": "2026-02-16T08:17:49+00:00",
+      "url": "https://www.mining-technology.com/news/noa-group-401gwh-a-year-deal-sibanye/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -1218,5 +1266,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-17T07:01:39.411104+00:00"
+  "last_updated_utc": "2026-02-17T13:08:05.883887+00:00"
 }

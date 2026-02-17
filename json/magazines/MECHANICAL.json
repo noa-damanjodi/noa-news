@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "ABB introduces Automation Extended",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T11:00:00+00:00",
+      "url": "https://www.engineering.com/abb-introduces-automation-extended/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HD Hyundai selects Siemens for shipyard digital platform",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T10:42:00+00:00",
+      "url": "https://www.engineering.com/hd-hyundai-selects-siemens-for-shipyard-digital-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Dassault unveils AI-powered Virtual Companions",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T09:42:00+00:00",
+      "url": "https://www.engineering.com/dassault-unveils-ai-powered-virtual-companions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Thai compressor unit to adopt Mitsubishi Electric name",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T09:26:00+00:00",
+      "url": "https://www.engineering.com/thai-compressor-unit-to-adopt-mitsubishi-electric-name/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "X-Humanoid unveils Embodied Tien Kung 3.0",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T09:07:00+00:00",
+      "url": "https://www.engineering.com/x-humanoid-unveils-embodied-tien-kung-3-0/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SkyWater appoints Christine Dunbar as senior vice president",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T08:21:00+00:00",
+      "url": "https://www.engineering.com/skywater-appoints-christine-dunbar-as-senior-vice-president/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Stonewall acquires Architectural Alliance",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T08:09:00+00:00",
+      "url": "https://www.engineering.com/stonewall-acquires-architectural-alliance/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "10 AI tools coming to Solidworks in 2026",
       "category": "MECHANICAL",
       "date": "2026-02-13T19:07:50+00:00",
@@ -1786,5 +1842,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-17T07:01:39.411104+00:00"
+  "last_updated_utc": "2026-02-17T13:08:05.883887+00:00"
 }

@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "ABB introduces Automation Extended",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T11:00:00+00:00",
+      "url": "https://www.engineering.com/abb-introduces-automation-extended/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HD Hyundai selects Siemens for shipyard digital platform",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T10:42:00+00:00",
+      "url": "https://www.engineering.com/hd-hyundai-selects-siemens-for-shipyard-digital-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Red Mountain starts metallurgical tests at Oaky Creek in NSW",
+      "category": "INDUSTRY",
+      "date": "2026-02-17T10:02:34+00:00",
+      "url": "https://www.mining-technology.com/news/red-mountain-metallurgical-tests-oaky-creek/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Dassault unveils AI-powered Virtual Companions",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T09:42:00+00:00",
+      "url": "https://www.engineering.com/dassault-unveils-ai-powered-virtual-companions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Magnetite Mines secures approvals for Ironback Hill drilling",
+      "category": "INDUSTRY",
+      "date": "2026-02-17T09:28:35+00:00",
+      "url": "https://www.mining-technology.com/news/magnetite-mines-approvals-ironback-hill-drilling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Thai compressor unit to adopt Mitsubishi Electric name",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T09:26:00+00:00",
+      "url": "https://www.engineering.com/thai-compressor-unit-to-adopt-mitsubishi-electric-name/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Talisman Metals to acquire Tirzzit Copper Project in Morocco",
+      "category": "INDUSTRY",
+      "date": "2026-02-17T09:17:52+00:00",
+      "url": "https://www.mining-technology.com/news/talisman-metals-to-acquire-tirzzit-copper-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "X-Humanoid unveils Embodied Tien Kung 3.0",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T09:07:00+00:00",
+      "url": "https://www.engineering.com/x-humanoid-unveils-embodied-tien-kung-3-0/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SkyWater appoints Christine Dunbar as senior vice president",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T08:21:00+00:00",
+      "url": "https://www.engineering.com/skywater-appoints-christine-dunbar-as-senior-vice-president/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Stonewall acquires Architectural Alliance",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T08:09:00+00:00",
+      "url": "https://www.engineering.com/stonewall-acquires-architectural-alliance/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "NLC India signs MoU with NALCO for thermal and renewable energy collaboration",
       "category": "POWER",
       "date": "2026-02-17T05:29:37+00:00",
@@ -90,6 +170,22 @@
       "type": "magazine"
     },
     {
+      "title": "Westgold completes Mt Henry sale to Alicanto Minerals",
+      "category": "INDUSTRY",
+      "date": "2026-02-16T13:25:52+00:00",
+      "url": "https://www.mining-technology.com/news/westgold-completes-mt-henry-sale-to-alicanto-minerals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Troubadour completes phase one drilling at Senneville property",
+      "category": "INDUSTRY",
+      "date": "2026-02-16T13:09:02+00:00",
+      "url": "https://www.mining-technology.com/news/troubadour-phase-one-drilling-senneville-property/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Siemens reports Rs 2.78 billion net profit in quarter ended December 2025",
       "category": "POWER",
       "date": "2026-02-16T12:42:24+00:00",
@@ -118,6 +214,14 @@
       "category": "INDUSTRY",
       "date": "2026-02-16T08:48:17+00:00",
       "url": "https://www.mining-technology.com/news/mali-grants-ten-year-renewal-for-barricks-loulo-project-permit/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Sibanye-Stillwater secures 401GWh renewable power deal",
+      "category": "INDUSTRY",
+      "date": "2026-02-16T08:17:49+00:00",
+      "url": "https://www.mining-technology.com/news/noa-group-401gwh-a-year-deal-sibanye/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -7770,5 +7874,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-17T07:01:39.411104+00:00"
+  "last_updated_utc": "2026-02-17T13:08:05.883887+00:00"
 }
