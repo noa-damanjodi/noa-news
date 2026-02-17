@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "BHP, Wheaton sign $4.3bn silver streaming deal in Peru",
+      "category": "INDUSTRY",
+      "date": "2026-02-17T13:45:48+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-wheaton-sign-silver-streaming-deal-peru/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Forrestania to acquire MacPhersons from Beacon Mining",
+      "category": "INDUSTRY",
+      "date": "2026-02-17T12:02:25+00:00",
+      "url": "https://www.mining-technology.com/news/forrestania-to-acquire-macphersons-beacon-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Red Mountain starts metallurgical tests at Oaky Creek in NSW",
       "category": "INDUSTRY",
       "date": "2026-02-17T10:02:34+00:00",
@@ -1266,5 +1282,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-17T13:08:05.883887+00:00"
+  "last_updated_utc": "2026-02-17T18:59:52.299430+00:00"
 }
