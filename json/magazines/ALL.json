@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "SJVN announces result of 250 MW/500 MWh standalone BESS auction",
+      "category": "POWER",
+      "date": "2026-02-18T05:40:42+00:00",
+      "url": "https://powerline.net.in/2026/02/18/sjvn-announces-result-of-250-mw-500-mwh-standalone-bess-auction/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Coal India increases capex to Rs 9.61 billion on solar energy initiatives",
+      "category": "POWER",
+      "date": "2026-02-18T05:39:45+00:00",
+      "url": "https://powerline.net.in/2026/02/18/coal-india-increases-capex-to-rs-9-61-billion-on-solar-energy-initiatives/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Tamil Nadu allocates Rs 180.91 billion for energy sector in Interim Budget 2026-27",
+      "category": "POWER",
+      "date": "2026-02-18T05:38:13+00:00",
+      "url": "https://powerline.net.in/2026/02/18/tamil-nadu-allocates-rs-180-91-billion-for-energy-sector-in-interim-budget-2026-27/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Powertrac Group invests Rs 6 billion in 1,000 MWh containerised BESS manufacturing facility",
+      "category": "POWER",
+      "date": "2026-02-18T05:36:32+00:00",
+      "url": "https://powerline.net.in/2026/02/18/powertrac-group-invests-rs-6-billion-in-1000-mwh-containerised-bess-manufacturing-facility/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ACX incorporates step-down subsidiary",
+      "category": "POWER",
+      "date": "2026-02-18T05:35:36+00:00",
+      "url": "https://powerline.net.in/2026/02/18/acx-incorporates-step-down-subsidiary/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ADB and GRE sign USD 350 million financing deal for solar plus BESS projects in Thailand",
+      "category": "POWER",
+      "date": "2026-02-18T05:34:32+00:00",
+      "url": "https://powerline.net.in/2026/02/18/adb-and-gre-sign-usd-350-million-financing-deal-for-solar-plus-bess-projects-in-thailand/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Scatec JV signs offtakers for 255 MW solar project in South Africa",
+      "category": "POWER",
+      "date": "2026-02-18T05:33:29+00:00",
+      "url": "https://powerline.net.in/2026/02/18/scatec-jv-signs-offtakers-for-255-mw-solar-project-in-south-africa/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Washbasins that Splash because of Wrong Positioning",
+      "category": "CIVIL",
+      "date": "2026-02-18T05:05:29+00:00",
+      "url": "https://theconstructor.org/building/washbasins-splash-wrong-positioning/579539/",
+      "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
       "title": "HelloTriangle turns Python code into simulation-ready meshes",
       "category": "MECHANICAL",
       "date": "2026-02-17T21:35:46+00:00",
@@ -8010,5 +8074,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-18T02:26:15.226682+00:00"
+  "last_updated_utc": "2026-02-18T07:04:00.254838+00:00"
 }
