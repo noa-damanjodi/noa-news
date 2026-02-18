@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "PTC FlexPLM chosen to modernize SPG operations",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T10:53:08+00:00",
+      "url": "https://www.engineering.com/ptc-flexplm-chosen-to-modernize-spg-operations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Emesent launches GX1 SLAM and RTK mobile scanner",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T10:06:41+00:00",
+      "url": "https://www.engineering.com/emesent-launches-gx1-slam-and-rtk-mobile-scanner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "HelloTriangle turns Python code into simulation-ready meshes",
       "category": "MECHANICAL",
       "date": "2026-02-17T21:35:46+00:00",
@@ -1858,5 +1874,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-18T07:04:00.254838+00:00"
+  "last_updated_utc": "2026-02-18T13:09:15.091615+00:00"
 }

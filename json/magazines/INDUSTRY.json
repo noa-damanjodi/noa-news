@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Caterpillar acquires mining software company RPMGlobal",
+      "category": "INDUSTRY",
+      "date": "2026-02-18T12:29:11+00:00",
+      "url": "https://www.mining-technology.com/news/caterpillar-acquires-mining-software-company-rpmglobal/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "BMC Minerals mobilises first drill rig to Canada’s Kudz Ze Kayah project",
+      "category": "INDUSTRY",
+      "date": "2026-02-18T10:53:54+00:00",
+      "url": "https://www.mining-technology.com/news/bmc-minerals-first-drill-rig-kudz-ze-kayah/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Empire Metals begins drilling at Pitfield Project, WA",
+      "category": "INDUSTRY",
+      "date": "2026-02-18T09:28:09+00:00",
+      "url": "https://www.mining-technology.com/news/empire-metals-drilling-pitfield-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Brightstar engages GR Engineering as EPC contractor for Laverton plant",
+      "category": "INDUSTRY",
+      "date": "2026-02-18T09:16:23+00:00",
+      "url": "https://www.mining-technology.com/news/brightstar-engages-gr-engineering-epc-contractor/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "New episode: Is electrification the answer to heat decarbonisation?",
       "category": "INDUSTRY",
       "date": "2026-02-17T17:00:58+00:00",
@@ -1290,5 +1322,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-18T07:04:00.254838+00:00"
+  "last_updated_utc": "2026-02-18T13:09:15.091615+00:00"
 }

@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Caterpillar acquires mining software company RPMGlobal",
+      "category": "INDUSTRY",
+      "date": "2026-02-18T12:29:11+00:00",
+      "url": "https://www.mining-technology.com/news/caterpillar-acquires-mining-software-company-rpmglobal/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "BMC Minerals mobilises first drill rig to Canada’s Kudz Ze Kayah project",
+      "category": "INDUSTRY",
+      "date": "2026-02-18T10:53:54+00:00",
+      "url": "https://www.mining-technology.com/news/bmc-minerals-first-drill-rig-kudz-ze-kayah/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC FlexPLM chosen to modernize SPG operations",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T10:53:08+00:00",
+      "url": "https://www.engineering.com/ptc-flexplm-chosen-to-modernize-spg-operations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Emesent launches GX1 SLAM and RTK mobile scanner",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T10:06:41+00:00",
+      "url": "https://www.engineering.com/emesent-launches-gx1-slam-and-rtk-mobile-scanner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Empire Metals begins drilling at Pitfield Project, WA",
+      "category": "INDUSTRY",
+      "date": "2026-02-18T09:28:09+00:00",
+      "url": "https://www.mining-technology.com/news/empire-metals-drilling-pitfield-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Brightstar engages GR Engineering as EPC contractor for Laverton plant",
+      "category": "INDUSTRY",
+      "date": "2026-02-18T09:16:23+00:00",
+      "url": "https://www.mining-technology.com/news/brightstar-engages-gr-engineering-epc-contractor/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "SJVN announces result of 250 MW/500 MWh standalone BESS auction",
       "category": "POWER",
       "date": "2026-02-18T05:40:42+00:00",
@@ -8074,5 +8122,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-18T07:04:00.254838+00:00"
+  "last_updated_utc": "2026-02-18T13:09:15.091615+00:00"
 }
