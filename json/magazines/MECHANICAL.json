@@ -18,6 +18,46 @@
       "type": "magazine"
     },
     {
+      "title": "Keysight unveils GDDR7 transmitter compliance solution",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T09:30:00+00:00",
+      "url": "https://www.engineering.com/keysight-unveils-gddr7-transmitter-compliance-solution/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SimuTech named Synopsys channel partner of the year",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T08:48:00+00:00",
+      "url": "https://www.engineering.com/simutech-named-synopsys-channel-partner-of-the-year/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sivers releases Cloudchaser chipset and Maverick Ka-band panels",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T08:29:00+00:00",
+      "url": "https://www.engineering.com/sivers-releases-cloudchaser-chipset-and-maverick-ka-band-panels/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ST Engineering iDirect partners with G&S SatCom on Intuition",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T08:23:00+00:00",
+      "url": "https://www.engineering.com/st-engineering-idirect-partners-with-gs-satcom-on-intuition/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Parsec releases TrakSYS 14 with cloud and AI tools",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T08:15:00+00:00",
+      "url": "https://www.engineering.com/parsec-automation-introduces-traksys-14/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "HelloTriangle turns Python code into simulation-ready meshes",
       "category": "MECHANICAL",
       "date": "2026-02-17T21:35:46+00:00",
@@ -1874,5 +1914,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-18T13:09:15.091615+00:00"
+  "last_updated_utc": "2026-02-18T18:57:56.377323+00:00"
 }

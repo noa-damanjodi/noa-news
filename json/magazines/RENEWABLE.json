@@ -2,6 +2,38 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "New York points the finger at the feds for scuttled offshore wind solicitation",
+      "category": "RENEWABLE",
+      "date": "2026-02-18T17:46:25+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/offshore/new-york-points-the-finger-at-the-feds-for-scuttled-offshore-wind-solicitation/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "What is software-defined power, and why should utilities take note?",
+      "category": "RENEWABLE",
+      "date": "2026-02-18T15:57:38+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/what-is-software-defined-power-and-why-should-utilities-take-note/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "How can geospatial software simplify field work for utilities?",
+      "category": "RENEWABLE",
+      "date": "2026-02-18T15:55:25+00:00",
+      "url": "https://www.renewableenergyworld.com/news/how-can-geospatial-software-simplify-field-work-for-utilities/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Community solar power player Perch swallows up Mitsui’s Solstice",
+      "category": "RENEWABLE",
+      "date": "2026-02-18T14:39:00+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/community-solar/community-solar-power-player-perch-swallows-up-mitsuis-solstice/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Portland General Electric acquires $1.9B worth of utility operations and assets from PacifiCorp",
       "category": "RENEWABLE",
       "date": "2026-02-17T19:20:09+00:00",
@@ -762,5 +794,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-18T13:09:15.091615+00:00"
+  "last_updated_utc": "2026-02-18T18:57:56.377323+00:00"
 }

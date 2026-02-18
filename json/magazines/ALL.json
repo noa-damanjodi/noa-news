@@ -2,6 +2,126 @@
   "category": "ALL",
   "items": [
     {
+      "title": "New York points the finger at the feds for scuttled offshore wind solicitation",
+      "category": "RENEWABLE",
+      "date": "2026-02-18T17:46:25+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/offshore/new-york-points-the-finger-at-the-feds-for-scuttled-offshore-wind-solicitation/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Comau releases MATE-XT GO exoskeleton, enabling advanced ergonomic support",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-18T16:21:21+00:00",
+      "url": "https://www.automationmag.com/comau-releases-mate-xt-go-exoskeleton-enabling-advanced-ergonomic-support/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Beyond the Deal: Legal planning for a successful business sale",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-18T16:00:35+00:00",
+      "url": "https://www.automationmag.com/beyond-the-deal-legal-planning-for-a-successful-business-sale/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA names Jennifer Rous leader of whistleblower directorate",
+      "category": "SAFETY",
+      "date": "2026-02-18T15:58:04+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-names-jennifer-rous-as-leader-of-whistleblower-directorate/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "What is software-defined power, and why should utilities take note?",
+      "category": "RENEWABLE",
+      "date": "2026-02-18T15:57:38+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/what-is-software-defined-power-and-why-should-utilities-take-note/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "How can geospatial software simplify field work for utilities?",
+      "category": "RENEWABLE",
+      "date": "2026-02-18T15:55:25+00:00",
+      "url": "https://www.renewableenergyworld.com/news/how-can-geospatial-software-simplify-field-work-for-utilities/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Balluff Inc. expands power cable offering to include M12 connections",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-18T15:50:43+00:00",
+      "url": "https://www.automationmag.com/balluff-inc-expands-power-cable-offering-to-include-m12-connections/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric Automation, Inc. announces leadership transition",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-18T15:34:17+00:00",
+      "url": "https://www.automationmag.com/mitsubishi-electric-automation-inc-announces-leadership-transition/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Various project ramp-ups set to boost global lithium output in 2026",
+      "category": "INDUSTRY",
+      "date": "2026-02-18T15:10:48+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/project-ramp-ups-global-lithium-output-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Michigan OSHA seeking input on whether to update concrete construction rules",
+      "category": "SAFETY",
+      "date": "2026-02-18T14:39:23+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/michigan-osha-seeking-input-on-whether-to-update-concrete-construction-rules/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Community solar power player Perch swallows up Mitsui’s Solstice",
+      "category": "RENEWABLE",
+      "date": "2026-02-18T14:39:00+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/community-solar/community-solar-power-player-perch-swallows-up-mitsuis-solstice/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Vision Components unveiling all-in-one VC EvoCam with MediaTek processor at embedded world",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-18T14:25:29+00:00",
+      "url": "https://www.automationmag.com/vision-components-unveiling-all-in-one-vc-evocam-with-mediatek-processor-at-embedded-world/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Lawmakers renew push for side underride guards on trucks",
+      "category": "SAFETY",
+      "date": "2026-02-18T14:24:17+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/lawmakers-renew-push-for-side-underride-guards-on-trucks/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hannover MESSE highlighting cybersecurity with live recreation of leading provider’s Security Operations Centre",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-18T14:12:45+00:00",
+      "url": "https://www.automationmag.com/hannover-messe-highlighting-cybersecurity-with-live-recreation-of-leading-providers-security-operations-centre/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "West Red Lake Gold Mines announces new Rowan Project drill results",
+      "category": "INDUSTRY",
+      "date": "2026-02-18T12:48:06+00:00",
+      "url": "https://www.mining-technology.com/news/west-red-lake-gold-rowan-project-drill-results/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Caterpillar acquires mining software company RPMGlobal",
       "category": "INDUSTRY",
       "date": "2026-02-18T12:29:11+00:00",
@@ -34,6 +154,14 @@
       "type": "magazine"
     },
     {
+      "title": "Keysight unveils GDDR7 transmitter compliance solution",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T09:30:00+00:00",
+      "url": "https://www.engineering.com/keysight-unveils-gddr7-transmitter-compliance-solution/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Empire Metals begins drilling at Pitfield Project, WA",
       "category": "INDUSTRY",
       "date": "2026-02-18T09:28:09+00:00",
@@ -47,6 +175,38 @@
       "date": "2026-02-18T09:16:23+00:00",
       "url": "https://www.mining-technology.com/news/brightstar-engages-gr-engineering-epc-contractor/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "SimuTech named Synopsys channel partner of the year",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T08:48:00+00:00",
+      "url": "https://www.engineering.com/simutech-named-synopsys-channel-partner-of-the-year/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sivers releases Cloudchaser chipset and Maverick Ka-band panels",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T08:29:00+00:00",
+      "url": "https://www.engineering.com/sivers-releases-cloudchaser-chipset-and-maverick-ka-band-panels/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ST Engineering iDirect partners with G&S SatCom on Intuition",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T08:23:00+00:00",
+      "url": "https://www.engineering.com/st-engineering-idirect-partners-with-gs-satcom-on-intuition/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Parsec releases TrakSYS 14 with cloud and AI tools",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T08:15:00+00:00",
+      "url": "https://www.engineering.com/parsec-automation-introduces-traksys-14/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -8122,5 +8282,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-18T13:09:15.091615+00:00"
+  "last_updated_utc": "2026-02-18T18:57:56.377323+00:00"
 }

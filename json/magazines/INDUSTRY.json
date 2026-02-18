@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Various project ramp-ups set to boost global lithium output in 2026",
+      "category": "INDUSTRY",
+      "date": "2026-02-18T15:10:48+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/project-ramp-ups-global-lithium-output-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "West Red Lake Gold Mines announces new Rowan Project drill results",
+      "category": "INDUSTRY",
+      "date": "2026-02-18T12:48:06+00:00",
+      "url": "https://www.mining-technology.com/news/west-red-lake-gold-rowan-project-drill-results/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Caterpillar acquires mining software company RPMGlobal",
       "category": "INDUSTRY",
       "date": "2026-02-18T12:29:11+00:00",
@@ -1322,5 +1338,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-18T13:09:15.091615+00:00"
+  "last_updated_utc": "2026-02-18T18:57:56.377323+00:00"
 }
