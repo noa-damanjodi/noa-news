@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Portland General Electric acquires $1.9B worth of utility operations and assets from PacifiCorp",
+      "category": "RENEWABLE",
+      "date": "2026-02-17T19:20:09+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/portland-general-electric-acquires-1-9b-worth-of-utility-operations-and-assets-from-pacificorp/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "PJM picks partners for 300 mile Midwest electric transmission project",
       "category": "RENEWABLE",
       "date": "2026-02-17T16:50:44+00:00",
@@ -754,5 +762,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-17T18:59:52.299430+00:00"
+  "last_updated_utc": "2026-02-18T02:26:15.226682+00:00"
 }
