@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Hemlo Mining unveils B-Zone drilling results at gold mine in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-02-19T10:41:19+00:00",
+      "url": "https://www.mining-technology.com/news/hemlo-mining-drilling-results-gold-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Silver Storm sells Nevada’s Springer Mine royalty",
+      "category": "INDUSTRY",
+      "date": "2026-02-19T10:07:50+00:00",
+      "url": "https://www.mining-technology.com/news/silver-storm-sells-springer-mine-royalty/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NMG advances Matawinie Mine with major contract awards",
+      "category": "INDUSTRY",
+      "date": "2026-02-19T10:02:39+00:00",
+      "url": "https://www.mining-technology.com/news/nmg-advances-matawinie-mine-with-major-contract-awards/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Various project ramp-ups set to boost global lithium output in 2026",
       "category": "INDUSTRY",
       "date": "2026-02-18T15:10:48+00:00",
@@ -1338,5 +1362,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-19T07:02:27.674984+00:00"
+  "last_updated_utc": "2026-02-19T13:10:27.061955+00:00"
 }

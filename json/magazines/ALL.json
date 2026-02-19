@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Roland DGA launches Elevate Denture Solution for digital workflows",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T12:20:57+00:00",
+      "url": "https://www.engineering.com/roland-dga-launches-elevate-denture-solution-for-digital-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight adds 3D interconnect design tool to EDA suite",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T12:12:19+00:00",
+      "url": "https://www.engineering.com/keysight-adds-3d-interconnect-design-tool-to-eda-suite/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hemlo Mining unveils B-Zone drilling results at gold mine in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-02-19T10:41:19+00:00",
+      "url": "https://www.mining-technology.com/news/hemlo-mining-drilling-results-gold-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Vectorworks acquires Morpholio",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T10:35:17+00:00",
+      "url": "https://www.engineering.com/vectorworks-acquires-morpholio/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Silver Storm sells Nevada’s Springer Mine royalty",
+      "category": "INDUSTRY",
+      "date": "2026-02-19T10:07:50+00:00",
+      "url": "https://www.mining-technology.com/news/silver-storm-sells-springer-mine-royalty/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rand Simulation earns Ansys Apex Channel Partner status",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T10:05:52+00:00",
+      "url": "https://www.engineering.com/rand-simulation-earns-ansys-apex-channel-partner-status/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NMG advances Matawinie Mine with major contract awards",
+      "category": "INDUSTRY",
+      "date": "2026-02-19T10:02:39+00:00",
+      "url": "https://www.mining-technology.com/news/nmg-advances-matawinie-mine-with-major-contract-awards/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Researchers have heavy news for ‘light’ smokers",
       "category": "SAFETY",
       "date": "2026-02-19T06:00:06+00:00",
@@ -8370,5 +8426,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-19T07:02:27.674984+00:00"
+  "last_updated_utc": "2026-02-19T13:10:27.061955+00:00"
 }
