@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "How a space startup used AI to go from design to test flight in two years",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T15:22:17+00:00",
+      "url": "https://www.engineering.com/how-a-space-startup-used-ai-to-go-from-design-to-test-flight-in-two-years/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Roland DGA launches Elevate Denture Solution for digital workflows",
       "category": "MECHANICAL",
       "date": "2026-02-19T12:20:57+00:00",
@@ -30,6 +38,38 @@
       "category": "MECHANICAL",
       "date": "2026-02-19T10:05:52+00:00",
       "url": "https://www.engineering.com/rand-simulation-earns-ansys-apex-channel-partner-status/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Flip Electronics appoints Todd McAtee as global chief revenue officer",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T09:46:00+00:00",
+      "url": "https://www.engineering.com/flip-electronics-appoints-todd-mcatee-as-global-chief-revenue-officer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Global eTraining adds Revizto Essentials to GeT Everything",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T09:33:00+00:00",
+      "url": "https://www.engineering.com/global-etraining-adds-revizto-essentials-to-get-everything/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Centric updates pricing and inventory platform with AI",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T09:06:00+00:00",
+      "url": "https://www.engineering.com/centric-updates-pricing-and-inventory-platform-with-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Emerson software supports Enagás in managing Spain’s gas grid",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T08:17:00+00:00",
+      "url": "https://www.engineering.com/emerson-software-supports-enagas-in-managing-spains-gas-grid/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -1970,5 +2010,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-19T13:10:27.061955+00:00"
+  "last_updated_utc": "2026-02-19T18:53:48.514194+00:00"
 }

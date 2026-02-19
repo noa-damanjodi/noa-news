@@ -2,6 +2,38 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "On-the-job deaths drop 4% in 2024: BLS",
+      "category": "SAFETY",
+      "date": "2026-02-19T16:46:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/on-the-job-deaths-drop-4-in-2024-bls/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Secondary containment sumps",
+      "category": "SAFETY",
+      "date": "2026-02-19T16:03:25+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/secondary-containment-sumps/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Many workers who report harassment unhappy with employers’ response: survey",
+      "category": "SAFETY",
+      "date": "2026-02-19T15:15:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/many-workers-who-report-harassment-unhappy-with-employers-response-survey/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "As space launches increase, FAA issues alert to airlines",
+      "category": "SAFETY",
+      "date": "2026-02-19T14:28:55+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/as-space-launches-increase-faa-issues-alert-to-airlines/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Researchers have heavy news for ‘light’ smokers",
       "category": "SAFETY",
       "date": "2026-02-19T06:00:06+00:00",
@@ -458,5 +490,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-19T13:10:27.061955+00:00"
+  "last_updated_utc": "2026-02-19T18:53:48.514194+00:00"
 }

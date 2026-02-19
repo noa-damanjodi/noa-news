@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Rio Tinto secures majority interest in Canada’s Nemaska Lithium",
+      "category": "INDUSTRY",
+      "date": "2026-02-19T15:08:34+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-secures-majority-interest-nemaska-lithium/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "EU-backed minerals projects in Africa move from policy to proof",
+      "category": "INDUSTRY",
+      "date": "2026-02-19T14:21:26+00:00",
+      "url": "https://www.mining-technology.com/features/eu-backed-minerals-projects-in-africa-move-from-policy-to-proof/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Forrestania signs gold ore sale agreement with Karora",
+      "category": "INDUSTRY",
+      "date": "2026-02-19T12:11:13+00:00",
+      "url": "https://www.mining-technology.com/news/forrestania-signs-gold-ore-sale-agreement-with-karora/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Hemlo Mining unveils B-Zone drilling results at gold mine in Canada",
       "category": "INDUSTRY",
       "date": "2026-02-19T10:41:19+00:00",
@@ -1362,5 +1386,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-19T13:10:27.061955+00:00"
+  "last_updated_utc": "2026-02-19T18:53:48.514194+00:00"
 }

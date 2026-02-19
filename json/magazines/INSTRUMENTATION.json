@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Toyota Motor Manufacturing Canada signs commercial agreement with Agility Robotics",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-19T15:27:30+00:00",
+      "url": "https://www.automationmag.com/toyota-motor-manufacturing-canada-signs-commercial-agreement-with-agility-robotics/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Comau releases MATE-XT GO exoskeleton, enabling advanced ergonomic support",
       "category": "INSTRUMENTATION",
       "date": "2026-02-18T16:21:21+00:00",
@@ -866,5 +874,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-19T13:10:27.061955+00:00"
+  "last_updated_utc": "2026-02-19T18:53:48.514194+00:00"
 }

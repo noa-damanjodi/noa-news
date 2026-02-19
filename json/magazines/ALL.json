@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "The billion-dollar blind spot: The infrastructure data gap plaguing utilities",
+      "category": "RENEWABLE",
+      "date": "2026-02-19T18:32:49+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/the-billion-dollar-blind-spot-the-infrastructure-data-gap-plaguing-utilities/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "On-the-job deaths drop 4% in 2024: BLS",
+      "category": "SAFETY",
+      "date": "2026-02-19T16:46:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/on-the-job-deaths-drop-4-in-2024-bls/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Secondary containment sumps",
+      "category": "SAFETY",
+      "date": "2026-02-19T16:03:25+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/secondary-containment-sumps/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Toyota Motor Manufacturing Canada signs commercial agreement with Agility Robotics",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-19T15:27:30+00:00",
+      "url": "https://www.automationmag.com/toyota-motor-manufacturing-canada-signs-commercial-agreement-with-agility-robotics/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "How a space startup used AI to go from design to test flight in two years",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T15:22:17+00:00",
+      "url": "https://www.engineering.com/how-a-space-startup-used-ai-to-go-from-design-to-test-flight-in-two-years/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "A grid operator’s playground: DTECH tours UCSD’s DERConnect",
+      "category": "RENEWABLE",
+      "date": "2026-02-19T15:17:10+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/a-grid-operators-playground-dtech-tours-ucsds-derconnect/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Many workers who report harassment unhappy with employers’ response: survey",
+      "category": "SAFETY",
+      "date": "2026-02-19T15:15:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/many-workers-who-report-harassment-unhappy-with-employers-response-survey/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Rio Tinto secures majority interest in Canada’s Nemaska Lithium",
+      "category": "INDUSTRY",
+      "date": "2026-02-19T15:08:34+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-secures-majority-interest-nemaska-lithium/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Understanding ELCC: Why the grid needs storage that grows",
+      "category": "RENEWABLE",
+      "date": "2026-02-19T15:03:54+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/understanding-elcc-why-the-grid-needs-storage-that-grows/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "As space launches increase, FAA issues alert to airlines",
+      "category": "SAFETY",
+      "date": "2026-02-19T14:28:55+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/as-space-launches-increase-faa-issues-alert-to-airlines/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EU-backed minerals projects in Africa move from policy to proof",
+      "category": "INDUSTRY",
+      "date": "2026-02-19T14:21:26+00:00",
+      "url": "https://www.mining-technology.com/features/eu-backed-minerals-projects-in-africa-move-from-policy-to-proof/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Roland DGA launches Elevate Denture Solution for digital workflows",
       "category": "MECHANICAL",
       "date": "2026-02-19T12:20:57+00:00",
@@ -15,6 +103,14 @@
       "date": "2026-02-19T12:12:19+00:00",
       "url": "https://www.engineering.com/keysight-adds-3d-interconnect-design-tool-to-eda-suite/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Forrestania signs gold ore sale agreement with Karora",
+      "category": "INDUSTRY",
+      "date": "2026-02-19T12:11:13+00:00",
+      "url": "https://www.mining-technology.com/news/forrestania-signs-gold-ore-sale-agreement-with-karora/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -55,6 +151,38 @@
       "date": "2026-02-19T10:02:39+00:00",
       "url": "https://www.mining-technology.com/news/nmg-advances-matawinie-mine-with-major-contract-awards/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Flip Electronics appoints Todd McAtee as global chief revenue officer",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T09:46:00+00:00",
+      "url": "https://www.engineering.com/flip-electronics-appoints-todd-mcatee-as-global-chief-revenue-officer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Global eTraining adds Revizto Essentials to GeT Everything",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T09:33:00+00:00",
+      "url": "https://www.engineering.com/global-etraining-adds-revizto-essentials-to-get-everything/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Centric updates pricing and inventory platform with AI",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T09:06:00+00:00",
+      "url": "https://www.engineering.com/centric-updates-pricing-and-inventory-platform-with-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Emerson software supports Enagás in managing Spain’s gas grid",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T08:17:00+00:00",
+      "url": "https://www.engineering.com/emerson-software-supports-enagas-in-managing-spains-gas-grid/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -8426,5 +8554,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-19T13:10:27.061955+00:00"
+  "last_updated_utc": "2026-02-19T18:53:48.514194+00:00"
 }

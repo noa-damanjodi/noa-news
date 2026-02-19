@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "The billion-dollar blind spot: The infrastructure data gap plaguing utilities",
+      "category": "RENEWABLE",
+      "date": "2026-02-19T18:32:49+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/the-billion-dollar-blind-spot-the-infrastructure-data-gap-plaguing-utilities/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "A grid operator’s playground: DTECH tours UCSD’s DERConnect",
+      "category": "RENEWABLE",
+      "date": "2026-02-19T15:17:10+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/a-grid-operators-playground-dtech-tours-ucsds-derconnect/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Understanding ELCC: Why the grid needs storage that grows",
+      "category": "RENEWABLE",
+      "date": "2026-02-19T15:03:54+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/understanding-elcc-why-the-grid-needs-storage-that-grows/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "New York points the finger at the feds for scuttled offshore wind solicitation",
       "category": "RENEWABLE",
       "date": "2026-02-18T17:46:25+00:00",
@@ -794,5 +818,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-19T13:10:27.061955+00:00"
+  "last_updated_utc": "2026-02-19T18:53:48.514194+00:00"
 }
