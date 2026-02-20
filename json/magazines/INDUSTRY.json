@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Digitizing slurry pump maintenance: How IoT is reshaping mining operations",
+      "category": "INDUSTRY",
+      "date": "2026-02-20T16:33:23+00:00",
+      "url": "https://www.mining-technology.com/sponsored/digitizing-slurry-pump-maintenance-how-iot-is-reshaping-mining-operations/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Norsemont drills first seven holes of phase three programme at Choquelimpie",
+      "category": "INDUSTRY",
+      "date": "2026-02-20T13:49:43+00:00",
+      "url": "https://www.mining-technology.com/news/norsemont-drills-phase-3-programme/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Core Critical Metals to purchase 80% stake in Lucky Mike property",
+      "category": "INDUSTRY",
+      "date": "2026-02-20T13:44:39+00:00",
+      "url": "https://www.mining-technology.com/news/core-critical-metals-80-stake/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "A new paradigm for valve reliability in HPAL and POX mining operations",
       "category": "INDUSTRY",
       "date": "2026-02-20T10:45:17+00:00",
@@ -1418,5 +1442,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-20T13:02:58.560083+00:00"
+  "last_updated_utc": "2026-02-20T18:51:59.923014+00:00"
 }
