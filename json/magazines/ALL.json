@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Offshore wind triumphs over Trump in court, but future projects face delays",
+      "category": "RENEWABLE",
+      "date": "2026-02-19T20:15:13+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/offshore/offshore-wind-triumphs-over-trump-in-court-but-future-projects-face-delays/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Octopus Energy Generation invests $1B in ‘cutting-edge’ California clean tech",
+      "category": "RENEWABLE",
+      "date": "2026-02-19T19:45:48+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/octopus-energy-generation-invests-1b-in-cutting-edge-california-clean-tech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "The billion-dollar blind spot: The infrastructure data gap plaguing utilities",
       "category": "RENEWABLE",
       "date": "2026-02-19T18:32:49+00:00",
@@ -8554,5 +8570,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-19T18:53:48.514194+00:00"
+  "last_updated_utc": "2026-02-20T02:21:11.236326+00:00"
 }
