@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "A new paradigm for valve reliability in HPAL and POX mining operations",
+      "category": "INDUSTRY",
+      "date": "2026-02-20T10:45:17+00:00",
+      "url": "https://www.mining-technology.com/?p=705288",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Vale Base Metals to form consortium for $200m Thompson mine investment",
+      "category": "INDUSTRY",
+      "date": "2026-02-20T10:24:06+00:00",
+      "url": "https://www.mining-technology.com/news/vale-base-metals-consortium-for-thompson-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Solstice Gold starts winter drilling at Canada’s Strathy Project",
+      "category": "INDUSTRY",
+      "date": "2026-02-20T09:58:04+00:00",
+      "url": "https://www.mining-technology.com/news/solstice-gold-winter-drilling-strathy-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rupert Resources picks Ausenco for feasibility study at Ikkari project",
+      "category": "INDUSTRY",
+      "date": "2026-02-20T09:50:14+00:00",
+      "url": "https://www.mining-technology.com/news/rupert-resources-picks-ausenco-feasibility-study-ikkari/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Rio Tinto secures majority interest in Canada’s Nemaska Lithium",
       "category": "INDUSTRY",
       "date": "2026-02-19T15:08:34+00:00",
@@ -1386,5 +1418,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-20T06:59:19.526101+00:00"
+  "last_updated_utc": "2026-02-20T13:02:58.560083+00:00"
 }
