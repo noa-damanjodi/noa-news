@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Factor This finance and development roundup: AES, Alliant, CleanChoice, CMBlu, Encore",
+      "category": "RENEWABLE",
+      "date": "2026-02-20T22:23:35+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/factor-this-finance-and-development-roundup-aes-alliant-cleanchoice-cmblu-encore/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Supreme Court strikes down Trump’s sweeping tariffs, upending central plank of his economic agenda",
+      "category": "RENEWABLE",
+      "date": "2026-02-20T20:17:24+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/supreme-court-strikes-down-trumps-sweeping-tariffs-upending-central-plank-of-his-economic-agenda/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Digitizing slurry pump maintenance: How IoT is reshaping mining operations",
       "category": "INDUSTRY",
       "date": "2026-02-20T16:33:23+00:00",
@@ -8786,5 +8802,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-20T18:51:59.923014+00:00"
+  "last_updated_utc": "2026-02-21T02:07:52.685528+00:00"
 }
