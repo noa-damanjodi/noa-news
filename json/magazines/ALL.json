@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Report explores workers’ reasons for not reporting hazards",
+      "category": "SAFETY",
+      "date": "2026-02-21T18:37:13+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/report-explores-workers-reasons-for-not-reporting-hazards/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Factor This finance and development roundup: AES, Alliant, CleanChoice, CMBlu, Encore",
       "category": "RENEWABLE",
       "date": "2026-02-20T22:23:35+00:00",
@@ -8802,5 +8810,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-21T12:52:27.345860+00:00"
+  "last_updated_utc": "2026-02-21T18:37:39.688235+00:00"
 }

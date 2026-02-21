@@ -2,6 +2,14 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Report explores workers’ reasons for not reporting hazards",
+      "category": "SAFETY",
+      "date": "2026-02-21T18:37:13+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/report-explores-workers-reasons-for-not-reporting-hazards/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "MSHA issues alert on autotransformers and mine equipment",
       "category": "SAFETY",
       "date": "2026-02-20T14:42:08+00:00",
@@ -498,5 +506,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-21T12:52:27.345860+00:00"
+  "last_updated_utc": "2026-02-21T18:37:39.688235+00:00"
 }
