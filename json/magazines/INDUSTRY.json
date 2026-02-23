@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "BC Government accepts Surge Copper’s Berg Project",
+      "category": "INDUSTRY",
+      "date": "2026-02-23T09:41:27+00:00",
+      "url": "https://www.mining-technology.com/news/bc-government-surge-coppers-berg-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Faraday Copper targets acquisition of BHP’s San Manuel site in US",
+      "category": "INDUSTRY",
+      "date": "2026-02-23T09:04:34+00:00",
+      "url": "https://www.mining-technology.com/news/faraday-copper-bhps-san-manuel-site/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Queensland invests in Austral’s Rocklands copper facility refurbishment",
+      "category": "INDUSTRY",
+      "date": "2026-02-23T08:59:29+00:00",
+      "url": "https://www.mining-technology.com/news/queensland-australs-rocklands-copper-facility/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Digitizing slurry pump maintenance: How IoT is reshaping mining operations",
       "category": "INDUSTRY",
       "date": "2026-02-20T16:33:23+00:00",
@@ -54,6 +78,14 @@
       "category": "INDUSTRY",
       "date": "2026-02-20T09:50:14+00:00",
       "url": "https://www.mining-technology.com/news/rupert-resources-picks-ausenco-feasibility-study-ikkari/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Improving safety and equipment life in POX mining operations",
+      "category": "INDUSTRY",
+      "date": "2026-02-19T15:43:09+00:00",
+      "url": "https://www.mining-technology.com/sponsored/improving-safety-and-equipment-life-in-pox-mining-operations/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -1442,5 +1474,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-23T07:07:00.493941+00:00"
+  "last_updated_utc": "2026-02-23T13:09:48.241434+00:00"
 }

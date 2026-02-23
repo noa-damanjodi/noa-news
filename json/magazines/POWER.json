@@ -2,6 +2,38 @@
   "category": "POWER",
   "items": [
     {
+      "title": "Discom Digitalisation: Moving to data-led planning and predictive operations",
+      "category": "POWER",
+      "date": "2026-02-23T09:39:21+00:00",
+      "url": "https://powerline.net.in/2026/02/23/discom-digitalisation-moving-to-data-led-planning-and-predictive-operations/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Powering the Transition: GRID-INDIA’s paper on grid-forming inverters in a renewables-heavy system",
+      "category": "POWER",
+      "date": "2026-02-23T08:11:24+00:00",
+      "url": "https://powerline.net.in/2026/02/23/powering-the-transition-grid-indias-paper-on-grid-forming-inverters-in-a-renewables-heavy-system/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Structured Maintenance: O&M strategies for performance and cost optimisation of hydropower projects",
+      "category": "POWER",
+      "date": "2026-02-23T08:10:51+00:00",
+      "url": "https://powerline.net.in/2026/02/23/structured-maintenance-om-strategies-for-performance-and-cost-optimisation-of-hydropower-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Revised Framework: Highlights of the European Commission’s Grids Package and new TEN-E regulation",
+      "category": "POWER",
+      "date": "2026-02-23T08:10:34+00:00",
+      "url": "https://powerline.net.in/2026/02/23/revised-framework-highlights-of-the-european-commissions-grids-package-and-new-ten-e-regulation/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Neha Aggarwal Managing Director, APPCPL",
       "category": "POWER",
       "date": "2026-02-23T06:22:08+00:00",
@@ -2426,5 +2458,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-23T07:07:00.493941+00:00"
+  "last_updated_utc": "2026-02-23T13:09:48.241434+00:00"
 }

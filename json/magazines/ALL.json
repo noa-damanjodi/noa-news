@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Allplan expands AI features across global projects",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T12:31:56+00:00",
+      "url": "https://www.engineering.com/allplan-expands-ai-features-across-global-projects/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens Foundation launches Careers Electric workforce initiative",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T12:21:01+00:00",
+      "url": "https://www.engineering.com/siemens-foundation-launches-careers-electric-workforce-initiative/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "3D Systems adds three gum shades to jetted denture line",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T11:40:14+00:00",
+      "url": "https://www.engineering.com/3d-systems-adds-three-gum-shades-to-jetted-denture-line/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens wins packaging design award at Chiplet Summit",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T11:32:52+00:00",
+      "url": "https://www.engineering.com/siemens-wins-packaging-design-award-at-chiplet-summit/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon Multivista Analyze connects deviation data to Revizto",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T10:46:00+00:00",
+      "url": "https://www.engineering.com/hexagon-multivista-analyze-connects-deviation-data-to-revizto/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "BC Government accepts Surge Copper’s Berg Project",
+      "category": "INDUSTRY",
+      "date": "2026-02-23T09:41:27+00:00",
+      "url": "https://www.mining-technology.com/news/bc-government-surge-coppers-berg-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Discom Digitalisation: Moving to data-led planning and predictive operations",
+      "category": "POWER",
+      "date": "2026-02-23T09:39:21+00:00",
+      "url": "https://powerline.net.in/2026/02/23/discom-digitalisation-moving-to-data-led-planning-and-predictive-operations/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Faraday Copper targets acquisition of BHP’s San Manuel site in US",
+      "category": "INDUSTRY",
+      "date": "2026-02-23T09:04:34+00:00",
+      "url": "https://www.mining-technology.com/news/faraday-copper-bhps-san-manuel-site/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Queensland invests in Austral’s Rocklands copper facility refurbishment",
+      "category": "INDUSTRY",
+      "date": "2026-02-23T08:59:29+00:00",
+      "url": "https://www.mining-technology.com/news/queensland-australs-rocklands-copper-facility/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Powering the Transition: GRID-INDIA’s paper on grid-forming inverters in a renewables-heavy system",
+      "category": "POWER",
+      "date": "2026-02-23T08:11:24+00:00",
+      "url": "https://powerline.net.in/2026/02/23/powering-the-transition-grid-indias-paper-on-grid-forming-inverters-in-a-renewables-heavy-system/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Structured Maintenance: O&M strategies for performance and cost optimisation of hydropower projects",
+      "category": "POWER",
+      "date": "2026-02-23T08:10:51+00:00",
+      "url": "https://powerline.net.in/2026/02/23/structured-maintenance-om-strategies-for-performance-and-cost-optimisation-of-hydropower-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Revised Framework: Highlights of the European Commission’s Grids Package and new TEN-E regulation",
+      "category": "POWER",
+      "date": "2026-02-23T08:10:34+00:00",
+      "url": "https://powerline.net.in/2026/02/23/revised-framework-highlights-of-the-european-commissions-grids-package-and-new-ten-e-regulation/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Trends in … women’s PPE",
       "category": "SAFETY",
       "date": "2026-02-23T07:00:45+00:00",
@@ -431,6 +527,14 @@
       "date": "2026-02-19T16:03:25+00:00",
       "url": "https://www.safetyandhealthmagazine.com/secondary-containment-sumps/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Improving safety and equipment life in POX mining operations",
+      "category": "INDUSTRY",
+      "date": "2026-02-19T15:43:09+00:00",
+      "url": "https://www.mining-technology.com/sponsored/improving-safety-and-equipment-life-in-pox-mining-operations/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -8962,5 +9066,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-23T07:07:00.493941+00:00"
+  "last_updated_utc": "2026-02-23T13:09:48.241434+00:00"
 }
