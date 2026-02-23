@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Are you overwhelmed by AI developments?",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T18:42:37+00:00",
+      "url": "https://www.engineering.com/are-you-overwhelmed-by-ai-developments/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AI-powered manufacturing robotics will be common in 5-10 years, says IFR",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T16:36:00+00:00",
+      "url": "https://www.engineering.com/ai-powered-manufacturing-robotics-will-be-common-in-5-10-years-says-ifr/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Kyocera AVX expands 550/560 Series capacitors",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T14:54:22+00:00",
+      "url": "https://www.engineering.com/kyocera-avx-expands-550-560-series-capacitors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Allplan expands AI features across global projects",
       "category": "MECHANICAL",
       "date": "2026-02-23T12:31:56+00:00",
@@ -38,6 +62,22 @@
       "category": "MECHANICAL",
       "date": "2026-02-23T10:46:00+00:00",
       "url": "https://www.engineering.com/hexagon-multivista-analyze-connects-deviation-data-to-revizto/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Science and Neurosoft partner on BCI development",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T08:34:00+00:00",
+      "url": "https://www.engineering.com/science-and-neurosoft-partner-on-bci-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "The Licensure Gap: Rigor, Readiness, and Responsibility in a Changing Engineering Landscape",
+      "category": "MECHANICAL",
+      "date": "2026-02-22T08:00:00+00:00",
+      "url": "https://www.engineering.com/the-licensure-gap-rigor-readiness-and-responsibility-in-a-changing-engineering-landscape/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -2114,5 +2154,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-23T13:09:48.241434+00:00"
+  "last_updated_utc": "2026-02-23T19:05:29.057169+00:00"
 }

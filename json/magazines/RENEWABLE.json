@@ -2,6 +2,38 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "How utilities are transitioning from short-term battery applications to long-term BESS planning",
+      "category": "RENEWABLE",
+      "date": "2026-02-23T18:29:39+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/how-utilities-are-transitioning-from-short-term-battery-applications-to-long-term-bess-planning/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Putting retired EV batteries back to work – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-02-23T16:39:27+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/putting-retired-ev-batteries-back-to-work-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "DTECH 2026 Video Spotlight – Connecting multiple eras of innovation with Schweitzer Engineering Laboratories",
+      "category": "RENEWABLE",
+      "date": "2026-02-23T15:22:47+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/dtech-2026-video-spotlight-schweitzer-engineering-laboratories/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "How IEEE 1815.2 can accelerate utility-scale DER connectivity",
+      "category": "RENEWABLE",
+      "date": "2026-02-23T14:57:27+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/how-ieee-1815-2-can-accelerate-utility-scale-der-connectivity/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Factor This finance and development roundup: AES, Alliant, CleanChoice, CMBlu, Encore",
       "category": "RENEWABLE",
       "date": "2026-02-20T22:23:35+00:00",
@@ -850,5 +882,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-23T13:09:48.241434+00:00"
+  "last_updated_utc": "2026-02-23T19:05:29.057169+00:00"
 }

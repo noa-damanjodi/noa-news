@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Are you overwhelmed by AI developments?",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T18:42:37+00:00",
+      "url": "https://www.engineering.com/are-you-overwhelmed-by-ai-developments/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "How utilities are transitioning from short-term battery applications to long-term BESS planning",
+      "category": "RENEWABLE",
+      "date": "2026-02-23T18:29:39+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/how-utilities-are-transitioning-from-short-term-battery-applications-to-long-term-bess-planning/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Despite sector challenges, Accumetal commits to $9.3 million expansion",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-23T17:38:32+00:00",
+      "url": "https://www.automationmag.com/despite-sector-challenges-accumetal-commits-to-9-3-million-expansion/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Trump says he’ll raise tariffs to 15 percent after Supreme Court ruling",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-23T17:33:45+00:00",
+      "url": "https://www.automationmag.com/trump-says-hell-raise-tariffs-to-15-percent-after-supreme-court-ruling/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Putting retired EV batteries back to work – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-02-23T16:39:27+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/putting-retired-ev-batteries-back-to-work-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "AI-powered manufacturing robotics will be common in 5-10 years, says IFR",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T16:36:00+00:00",
+      "url": "https://www.engineering.com/ai-powered-manufacturing-robotics-will-be-common-in-5-10-years-says-ifr/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DTECH 2026 Video Spotlight – Connecting multiple eras of innovation with Schweitzer Engineering Laboratories",
+      "category": "RENEWABLE",
+      "date": "2026-02-23T15:22:47+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/dtech-2026-video-spotlight-schweitzer-engineering-laboratories/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "How IEEE 1815.2 can accelerate utility-scale DER connectivity",
+      "category": "RENEWABLE",
+      "date": "2026-02-23T14:57:27+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/how-ieee-1815-2-can-accelerate-utility-scale-der-connectivity/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Kyocera AVX expands 550/560 Series capacitors",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T14:54:22+00:00",
+      "url": "https://www.engineering.com/kyocera-avx-expands-550-560-series-capacitors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Drug-overdose deaths and suicides in construction decreasing: CPWR",
+      "category": "SAFETY",
+      "date": "2026-02-23T14:28:23+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/drug-overdose-and-suicide-deaths-in-construction-decreasing-cpwr/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BUMA secures contract with Adaro at South Tutupan mine in Indonesia",
+      "category": "INDUSTRY",
+      "date": "2026-02-23T12:52:20+00:00",
+      "url": "https://www.mining-technology.com/news/buma-contract-adaro-south-tutupan/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Allplan expands AI features across global projects",
       "category": "MECHANICAL",
       "date": "2026-02-23T12:31:56+00:00",
@@ -71,6 +159,14 @@
       "date": "2026-02-23T08:59:29+00:00",
       "url": "https://www.mining-technology.com/news/queensland-australs-rocklands-copper-facility/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Science and Neurosoft partner on BCI development",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T08:34:00+00:00",
+      "url": "https://www.engineering.com/science-and-neurosoft-partner-on-bci-development/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -247,6 +343,14 @@
       "date": "2026-02-23T05:07:55+00:00",
       "url": "https://theconstructor.org/concrete/concrete-needs-water-pouring/579554/",
       "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "The Licensure Gap: Rigor, Readiness, and Responsibility in a Changing Engineering Landscape",
+      "category": "MECHANICAL",
+      "date": "2026-02-22T08:00:00+00:00",
+      "url": "https://www.engineering.com/the-licensure-gap-rigor-readiness-and-responsibility-in-a-changing-engineering-landscape/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -9066,5 +9170,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-23T13:09:48.241434+00:00"
+  "last_updated_utc": "2026-02-23T19:05:29.057169+00:00"
 }

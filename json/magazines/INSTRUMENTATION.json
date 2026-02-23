@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Despite sector challenges, Accumetal commits to $9.3 million expansion",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-23T17:38:32+00:00",
+      "url": "https://www.automationmag.com/despite-sector-challenges-accumetal-commits-to-9-3-million-expansion/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Trump says he’ll raise tariffs to 15 percent after Supreme Court ruling",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-23T17:33:45+00:00",
+      "url": "https://www.automationmag.com/trump-says-hell-raise-tariffs-to-15-percent-after-supreme-court-ruling/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Toyota Motor Manufacturing Canada signs commercial agreement with Agility Robotics",
       "category": "INSTRUMENTATION",
       "date": "2026-02-19T15:27:30+00:00",
@@ -874,5 +890,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-23T13:09:48.241434+00:00"
+  "last_updated_utc": "2026-02-23T19:05:29.057169+00:00"
 }

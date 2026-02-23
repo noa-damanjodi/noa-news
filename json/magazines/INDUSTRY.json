@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "BUMA secures contract with Adaro at South Tutupan mine in Indonesia",
+      "category": "INDUSTRY",
+      "date": "2026-02-23T12:52:20+00:00",
+      "url": "https://www.mining-technology.com/news/buma-contract-adaro-south-tutupan/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "BC Government accepts Surge Copper’s Berg Project",
       "category": "INDUSTRY",
       "date": "2026-02-23T09:41:27+00:00",
@@ -1474,5 +1482,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-23T13:09:48.241434+00:00"
+  "last_updated_utc": "2026-02-23T19:05:29.057169+00:00"
 }
