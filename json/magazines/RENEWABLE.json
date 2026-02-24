@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "A new record: US added 58 GWh of new energy storage capacity in 2025",
+      "category": "RENEWABLE",
+      "date": "2026-02-24T18:50:20+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/a-new-record-us-added-58-gwh-of-new-energy-storage-capacity-in-2025/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Enel spends a billion bucks on US wind and solar projects",
+      "category": "RENEWABLE",
+      "date": "2026-02-24T18:45:34+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/enel-spends-a-billion-bucks-on-us-wind-and-solar-projects/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Energy innovators you need to know about: EcoPhi, Noble Carbon, and Syncrowin earn top spots in DTECH Initiate startup competition",
+      "category": "RENEWABLE",
+      "date": "2026-02-24T17:43:15+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/energy-innovators-you-need-to-know-about-ecophi-noble-carbon-and-syncrowin-earn-top-spots-in-dtech-initiate-startup-competition/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Dominion says Coastal Virginia Offshore Wind project tops 70% complete as turbine installation enters slower final stretch",
       "category": "RENEWABLE",
       "date": "2026-02-23T21:10:16+00:00",
@@ -906,5 +930,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-24T13:10:51.588421+00:00"
+  "last_updated_utc": "2026-02-24T19:05:18.031998+00:00"
 }
