@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Trimble brings ProjectSight to European markets",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T10:45:00+00:00",
+      "url": "https://www.engineering.com/trimble-brings-projectsight-to-european-markets/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lenovo updates ThinkEdge portfolio with edge AI systems",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T09:55:00+00:00",
+      "url": "https://www.engineering.com/lenovo-updates-thinkedge-portfolio-with-edge-ai-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Certis partners to deploy autonomous security robots",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T09:45:00+00:00",
+      "url": "https://www.engineering.com/certis-partners-to-deploy-autonomous-security-robots/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nemetschek Group partners with Prince Sultan University",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T09:42:00+00:00",
+      "url": "https://www.engineering.com/nemetschek-group-partners-with-prince-sultan-university/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence completes acquisition of Hexagon design business",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T09:40:00+00:00",
+      "url": "https://www.engineering.com/cadence-completes-acquisition-of-hexagon-design-business/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Additive research update: Soft robots, hard materials, recyclable ink, and more",
       "category": "MECHANICAL",
       "date": "2026-02-23T21:21:15+00:00",
@@ -2170,5 +2210,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-24T07:02:41.404453+00:00"
+  "last_updated_utc": "2026-02-24T13:10:51.588421+00:00"
 }
