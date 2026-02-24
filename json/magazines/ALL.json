@@ -2,6 +2,38 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Additive research update: Soft robots, hard materials, recyclable ink, and more",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T21:21:15+00:00",
+      "url": "https://www.engineering.com/additive-research-update-soft-robots-hard-materials-recyclable-ink-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Dominion says Coastal Virginia Offshore Wind project tops 70% complete as turbine installation enters slower final stretch",
+      "category": "RENEWABLE",
+      "date": "2026-02-23T21:10:16+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/offshore/dominion-says-coastal-virginia-offshore-wind-project-tops-70-complete-as-turbine-installation-enters-slower-final-stretch/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Beyond digital twins: NVIDIA and Dassault bet on industry world models",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T20:19:07+00:00",
+      "url": "https://www.engineering.com/beyond-digital-twins-nvidia-and-dassault-bet-on-industry-world-models/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Record snow drought in Western US raises concern for a spring of water shortages and wildfires",
+      "category": "RENEWABLE",
+      "date": "2026-02-23T20:06:27+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/record-snow-drought-in-western-us-raises-concern-for-a-spring-of-water-shortages-and-wildfires/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Are you overwhelmed by AI developments?",
       "category": "MECHANICAL",
       "date": "2026-02-23T18:42:37+00:00",
@@ -79,6 +111,14 @@
       "date": "2026-02-23T14:28:23+00:00",
       "url": "https://www.safetyandhealthmagazine.com/drug-overdose-and-suicide-deaths-in-construction-decreasing-cpwr/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hudbay Minerals receives permit amendments for New Ingerbelle expansion",
+      "category": "INDUSTRY",
+      "date": "2026-02-23T13:56:10+00:00",
+      "url": "https://www.mining-technology.com/news/hudbay-minerals-new-ingerbelle-expansion/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -202,6 +242,54 @@
       "type": "magazine"
     },
     {
+      "title": "Proper use of head protection",
+      "category": "SAFETY",
+      "date": "2026-02-23T06:45:51+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/proper-use-of-head-protection/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Neurodiversity in the workplace",
+      "category": "SAFETY",
+      "date": "2026-02-23T06:45:21+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/neurodiversity-in-the-workplace/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Test your knowledge: The regulatory process",
+      "category": "SAFETY",
+      "date": "2026-02-23T06:40:13+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/test-your-knowledge-the-regulatory-process/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "On Research: The importance of flexibility during times of crisis",
+      "category": "SAFETY",
+      "date": "2026-02-23T06:30:44+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/on-research-the-importance-of-flexibility-during-times-of-crisis/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NSC Thought Leadership: Making systems safer through HOP",
+      "category": "SAFETY",
+      "date": "2026-02-23T06:30:21+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-thought-leadership-making-systems-safer-through-hop/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Editor’s Note: Small strategies, big difference",
+      "category": "SAFETY",
+      "date": "2026-02-23T06:30:13+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/editors-note-small-strategies-big-difference/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Neha Aggarwal Managing Director, APPCPL",
       "category": "POWER",
       "date": "2026-02-23T06:22:08+00:00",
@@ -210,17 +298,9 @@
       "type": "magazine"
     },
     {
-      "title": "Why Proper Fit is the Bare Minimum Regarding Women’s PPE",
-      "category": "SAFETY",
-      "date": "2026-02-23T06:00:58+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/why-proper-fit-is-the-bare-minimum-regarding-womens-ppe/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
       "title": "Chris Vinson",
       "category": "SAFETY",
-      "date": "2026-02-23T06:00:57+00:00",
+      "date": "2026-02-23T06:05:57+00:00",
       "url": "https://www.safetyandhealthmagazine.com/chris-vinson/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
@@ -228,8 +308,24 @@
     {
       "title": "JLG Industries Inc.",
       "category": "SAFETY",
-      "date": "2026-02-23T06:00:55+00:00",
+      "date": "2026-02-23T06:05:55+00:00",
       "url": "https://www.safetyandhealthmagazine.com/jlg-industries-inc/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "KPA",
+      "category": "SAFETY",
+      "date": "2026-02-23T06:05:43+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/kpa-2/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Why Proper Fit is the Bare Minimum Regarding Women’s PPE",
+      "category": "SAFETY",
+      "date": "2026-02-23T06:00:58+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/why-proper-fit-is-the-bare-minimum-regarding-womens-ppe/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -246,30 +342,6 @@
       "category": "SAFETY",
       "date": "2026-02-23T06:00:51+00:00",
       "url": "https://www.safetyandhealthmagazine.com/planning-for-emergencies/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "Proper use of head protection",
-      "category": "SAFETY",
-      "date": "2026-02-23T06:00:51+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/proper-use-of-head-protection/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "On Research: The importance of flexibility during times of crisis",
-      "category": "SAFETY",
-      "date": "2026-02-23T06:00:44+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/on-research-the-importance-of-flexibility-during-times-of-crisis/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "KPA",
-      "category": "SAFETY",
-      "date": "2026-02-23T06:00:43+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/kpa-2/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -374,6 +446,14 @@
       "category": "RENEWABLE",
       "date": "2026-02-20T20:17:24+00:00",
       "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/supreme-court-strikes-down-trumps-sweeping-tariffs-upending-central-plank-of-his-economic-agenda/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Colorado River states miss deadline, compromise nowhere in sight",
+      "category": "RENEWABLE",
+      "date": "2026-02-20T18:03:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/colorado-river-states-miss-deadline-compromise-nowhere-in-sight/",
       "source": "Factor This™",
       "type": "magazine"
     },
@@ -9170,5 +9250,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-23T19:05:29.057169+00:00"
+  "last_updated_utc": "2026-02-24T02:23:08.787796+00:00"
 }

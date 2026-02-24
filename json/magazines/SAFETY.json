@@ -18,17 +18,57 @@
       "type": "magazine"
     },
     {
-      "title": "Why Proper Fit is the Bare Minimum Regarding Women’s PPE",
+      "title": "Proper use of head protection",
       "category": "SAFETY",
-      "date": "2026-02-23T06:00:58+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/why-proper-fit-is-the-bare-minimum-regarding-womens-ppe/",
+      "date": "2026-02-23T06:45:51+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/proper-use-of-head-protection/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Neurodiversity in the workplace",
+      "category": "SAFETY",
+      "date": "2026-02-23T06:45:21+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/neurodiversity-in-the-workplace/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Test your knowledge: The regulatory process",
+      "category": "SAFETY",
+      "date": "2026-02-23T06:40:13+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/test-your-knowledge-the-regulatory-process/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "On Research: The importance of flexibility during times of crisis",
+      "category": "SAFETY",
+      "date": "2026-02-23T06:30:44+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/on-research-the-importance-of-flexibility-during-times-of-crisis/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NSC Thought Leadership: Making systems safer through HOP",
+      "category": "SAFETY",
+      "date": "2026-02-23T06:30:21+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-thought-leadership-making-systems-safer-through-hop/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Editor’s Note: Small strategies, big difference",
+      "category": "SAFETY",
+      "date": "2026-02-23T06:30:13+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/editors-note-small-strategies-big-difference/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
     {
       "title": "Chris Vinson",
       "category": "SAFETY",
-      "date": "2026-02-23T06:00:57+00:00",
+      "date": "2026-02-23T06:05:57+00:00",
       "url": "https://www.safetyandhealthmagazine.com/chris-vinson/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
@@ -36,8 +76,24 @@
     {
       "title": "JLG Industries Inc.",
       "category": "SAFETY",
-      "date": "2026-02-23T06:00:55+00:00",
+      "date": "2026-02-23T06:05:55+00:00",
       "url": "https://www.safetyandhealthmagazine.com/jlg-industries-inc/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "KPA",
+      "category": "SAFETY",
+      "date": "2026-02-23T06:05:43+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/kpa-2/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Why Proper Fit is the Bare Minimum Regarding Women’s PPE",
+      "category": "SAFETY",
+      "date": "2026-02-23T06:00:58+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/why-proper-fit-is-the-bare-minimum-regarding-womens-ppe/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -54,30 +110,6 @@
       "category": "SAFETY",
       "date": "2026-02-23T06:00:51+00:00",
       "url": "https://www.safetyandhealthmagazine.com/planning-for-emergencies/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "Proper use of head protection",
-      "category": "SAFETY",
-      "date": "2026-02-23T06:00:51+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/proper-use-of-head-protection/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "On Research: The importance of flexibility during times of crisis",
-      "category": "SAFETY",
-      "date": "2026-02-23T06:00:44+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/on-research-the-importance-of-flexibility-during-times-of-crisis/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "KPA",
-      "category": "SAFETY",
-      "date": "2026-02-23T06:00:43+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/kpa-2/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -594,5 +626,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-23T19:05:29.057169+00:00"
+  "last_updated_utc": "2026-02-24T02:23:08.787796+00:00"
 }
