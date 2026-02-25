@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "HELUKABEL Group rebrands as HELU",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-25T12:22:29+00:00",
+      "url": "https://www.automationmag.com/helukabel-group-rebrands-as-helu/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Endress+Hauser announces the Micropilot FMR43 free space radar",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-25T09:41:13+00:00",
+      "url": "https://www.automationmag.com/endresshauser-announces-the-micropilot-fmr43-free-space-radar/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "ISA announces publication of new standard for SCADA systems",
       "category": "INSTRUMENTATION",
       "date": "2026-02-24T17:24:33+00:00",
@@ -906,5 +922,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-25T07:04:29.147444+00:00"
+  "last_updated_utc": "2026-02-25T13:09:46.253140+00:00"
 }

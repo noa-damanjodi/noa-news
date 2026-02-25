@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "HELUKABEL Group rebrands as HELU",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-25T12:22:29+00:00",
+      "url": "https://www.automationmag.com/helukabel-group-rebrands-as-helu/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Besra secures conditional lease renewal for Jugan deposit in Malaysia",
+      "category": "INDUSTRY",
+      "date": "2026-02-25T11:44:46+00:00",
+      "url": "https://www.mining-technology.com/news/besra-conditional-lease-renewal-jugan-deposit/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Corcel secures US BLM approval for Yuma King Project",
+      "category": "INDUSTRY",
+      "date": "2026-02-25T09:44:01+00:00",
+      "url": "https://www.mining-technology.com/news/corcel-us-blm-approval-yuma-king-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Endress+Hauser announces the Micropilot FMR43 free space radar",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-25T09:41:13+00:00",
+      "url": "https://www.automationmag.com/endresshauser-announces-the-micropilot-fmr43-free-space-radar/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Olympio Metals to acquire US silver and antimony projects",
+      "category": "INDUSTRY",
+      "date": "2026-02-25T09:11:59+00:00",
+      "url": "https://www.mining-technology.com/news/olympio-metals-to-acquire-silver-antimony-projects/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Ongwe expands Namibia’s Omatjete gold project area by 42%",
+      "category": "INDUSTRY",
+      "date": "2026-02-25T09:05:45+00:00",
+      "url": "https://www.mining-technology.com/news/ongwe-expands-omatjete-gold-project-area/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "CleanMax arm to invest Rs 12 billion in 200 MW solar park in Andhra Pradesh",
+      "category": "POWER",
+      "date": "2026-02-25T05:31:12+00:00",
+      "url": "https://powerline.net.in/2026/02/25/cleanmax-arm-to-invest-rs-12-billion-in-200-mw-solar-park-in-andhra-pradesh/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Pace Digitek subsidiary secures order for lithium-ion battery packs from Reliance Industries",
+      "category": "POWER",
+      "date": "2026-02-25T05:30:18+00:00",
+      "url": "https://powerline.net.in/2026/02/25/pace-digitek-subsidiary-secures-order-for-lithium-ion-battery-packs-from-reliance-industries/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Moxie Power secures LoA from TNPDCL to supply 558MW of power",
+      "category": "POWER",
+      "date": "2026-02-25T05:29:25+00:00",
+      "url": "https://powerline.net.in/2026/02/25/moxie-power-secures-loa-from-tnpdcl-to-supply-558mw-of-power/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Waaree Energies secures 500 MW solar module supply order from domestic IPP",
+      "category": "POWER",
+      "date": "2026-02-25T05:28:23+00:00",
+      "url": "https://powerline.net.in/2026/02/25/waaree-energies-secures-500-mw-solar-module-supply-order-from-domestic-ipp/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Enerparc launches power trading arm to expand market access in India",
+      "category": "POWER",
+      "date": "2026-02-25T05:27:26+00:00",
+      "url": "https://powerline.net.in/2026/02/25/enerparc-launches-power-trading-arm-to-expand-market-access-in-india/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ADB approves USD 350 million financing for Gulf’s three solar projects in Thailand",
+      "category": "POWER",
+      "date": "2026-02-25T05:26:13+00:00",
+      "url": "https://powerline.net.in/2026/02/25/adb-approves-usd-350-million-financing-for-gulfs-three-solar-projects-in-thailand/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsui signs 18 MW VPPA with NIKE Japan for renewable energy certificates",
+      "category": "POWER",
+      "date": "2026-02-25T05:25:02+00:00",
+      "url": "https://powerline.net.in/2026/02/25/mitsui-signs-18-mw-vppa-with-nike-japan-for-renewable-energy-certificates/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Why is PCC laid before Footing Works?",
       "category": "CIVIL",
       "date": "2026-02-25T04:48:46+00:00",
@@ -58,11 +162,27 @@
       "type": "magazine"
     },
     {
+      "title": "Kaynes Semicon adopts Synopsys simulation to strengthen OSAT operations",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T17:44:34+00:00",
+      "url": "https://www.manufacturingtodayindia.com/kaynes-semicon-adopts-synopsys-simulation-to-strengthen-osat-operations",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "Energy innovators you need to know about: EcoPhi, Noble Carbon, and Syncrowin earn top spots in DTECH Initiate startup competition",
       "category": "RENEWABLE",
       "date": "2026-02-24T17:43:15+00:00",
       "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/energy-innovators-you-need-to-know-about-ecophi-noble-carbon-and-syncrowin-earn-top-spots-in-dtech-initiate-startup-competition/",
       "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "BYD rolls out 1360kW liquid-cooled flash chargers at scale",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T17:29:47+00:00",
+      "url": "https://www.manufacturingtodayindia.com/byd-rolls-out-1360kw-liquid-cooled-flash-chargers-at-scale",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -79,6 +199,14 @@
       "date": "2026-02-24T17:13:52+00:00",
       "url": "https://www.automationmag.com/crc-says-dis-contains-significant-implementation-gap-that-threatens-industrial-resilience/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Waaree Energies signs 15-year green hydrogen agreement in Uttar Pradesh",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T16:40:04+00:00",
+      "url": "https://www.manufacturingtodayindia.com/waaree-energies-signs-15-year-green-hydrogen-agreement-in-uttar-pradesh",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -119,6 +247,38 @@
       "date": "2026-02-24T14:35:35+00:00",
       "url": "https://www.mining-technology.com/news/rio-grande-resources-launch-airborne-survey-winston-project/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "New rail sections go live with Alstom’s solutions",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T13:24:06+00:00",
+      "url": "https://www.manufacturingtodayindia.com/alstoms-solutions",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Swaraj Tractors renews MS Dhoni brand partnership",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T13:05:56+00:00",
+      "url": "https://www.manufacturingtodayindia.com/swaraj-tractors-ms-dhoni",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "How India’s evolving trade landscape is reshaping demand for port-led industrial growth",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T12:16:45+00:00",
+      "url": "https://www.manufacturingtodayindia.com/how-indias-evolving-trade-landscape",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric’s 6th ME Cup ends with a standout victory",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T11:59:52+00:00",
+      "url": "https://www.manufacturingtodayindia.com/mitsubishi-electrics-6th-me-cup",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -178,6 +338,14 @@
       "type": "magazine"
     },
     {
+      "title": "India’s downstream aluminium sector needs an urgent inverted duty correction",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T09:35:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/indias-downstream-aluminium-sector",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "Kendrick agrees 70% stake in Namibian licences",
       "category": "INDUSTRY",
       "date": "2026-02-24T09:27:05+00:00",
@@ -194,6 +362,14 @@
       "type": "magazine"
     },
     {
+      "title": "Sectoral bottleneck: How data accessibility is stalling industrial AI development globally",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T09:00:01+00:00",
+      "url": "https://www.manufacturingtodayindia.com/data-accessibility-industrial-ai",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "Lefroy begins gold production at Lucky Strike mine",
       "category": "INDUSTRY",
       "date": "2026-02-24T08:53:35+00:00",
@@ -202,11 +378,75 @@
       "type": "magazine"
     },
     {
+      "title": "IREDA discusses policy, financing, and sector challenges",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T08:46:10+00:00",
+      "url": "https://www.manufacturingtodayindia.com/ireda-discusses-policy-financing",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "Skorppio launches platform with NVIDIA Blackwell GPUs",
       "category": "MECHANICAL",
       "date": "2026-02-24T08:25:00+00:00",
       "url": "https://www.engineering.com/skorppio-launches-platform-with-nvidia-blackwell-gpus/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Why India’s manufacturers must embrace water positivity as a core business metric",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T07:43:44+00:00",
+      "url": "https://www.manufacturingtodayindia.com/water-positivity-core-metric",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Vayona Energy to supply 195 wind turbines to TPREL",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T07:28:13+00:00",
+      "url": "https://www.manufacturingtodayindia.com/vayona-energy-wind-turbines-tprel",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "RX India, LMTMA partner for AMTEX and Fastener Fair India 2026",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T07:13:28+00:00",
+      "url": "https://www.manufacturingtodayindia.com/rx-india-lmtma-partner-amtex",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Pallavi Arora takes charge of integrated marketing as Euler scales commercial EV play",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T06:47:34+00:00",
+      "url": "https://www.manufacturingtodayindia.com/pallavi-arora-takes-charge-of-integrated-marketing-as-euler-scales-commercial-ev-play",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "A new MoU puts Hindustan Zinc’s park plans in fast lane",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T06:47:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/hindustan-zincs-park-plans",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "SDHI takes on key offshore vessel project at Pipavav",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T06:10:11+00:00",
+      "url": "https://www.manufacturingtodayindia.com/sdhi-takes-on-key-offshore-vessel-project-at-pipavav",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Indian Army validates JCBL’s 28 ft heavy drop system",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T06:06:10+00:00",
+      "url": "https://www.manufacturingtodayindia.com/indian-army-validates-jcbl-28-ft-heavy-drop-system",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -263,6 +503,38 @@
       "date": "2026-02-24T05:50:07+00:00",
       "url": "https://powerline.net.in/2026/02/24/qair-secures-financing-for-solar-plus-storage-project-in-mauritius/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Suzlon resets leadership structure with new Group CEO appointment",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T05:42:30+00:00",
+      "url": "https://www.manufacturingtodayindia.com/suzlon-resets-leadership-structure",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Inside India’s battery recycling push: securing materials for the next phase of EV manufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T05:27:11+00:00",
+      "url": "https://www.manufacturingtodayindia.com/inside-indias-battery-recycling-push-securing-materials-for-the-next-phase-of-ev-manufacturing",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "A first-of-its-kind power unit move by Vedanta in Odisha",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T05:11:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/vedanta-in-odisha",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "DEE Development scores multi-market orders worth Rs 170+ Cr",
+      "category": "MECHANICAL",
+      "date": "2026-02-24T04:50:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/dee-development-scores",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -386,6 +658,14 @@
       "type": "magazine"
     },
     {
+      "title": "Marelli expands India footprint with new Sanand plant",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T13:03:21+00:00",
+      "url": "https://www.manufacturingtodayindia.com/marelli-expands-india-footprint-with-new-sanand-plant",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "BUMA secures contract with Adaro at South Tutupan mine in Indonesia",
       "category": "INDUSTRY",
       "date": "2026-02-23T12:52:20+00:00",
@@ -426,11 +706,43 @@
       "type": "magazine"
     },
     {
+      "title": "Odisha hosts first Global Cleantech Expo to boost net zero goals",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T11:02:32+00:00",
+      "url": "https://www.manufacturingtodayindia.com/odisha-global-cleantech-expo",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "Hexagon Multivista Analyze connects deviation data to Revizto",
       "category": "MECHANICAL",
       "date": "2026-02-23T10:46:00+00:00",
       "url": "https://www.engineering.com/hexagon-multivista-analyze-connects-deviation-data-to-revizto/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Why smart manufacturing engineers are in high demand",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T10:38:12+00:00",
+      "url": "https://www.manufacturingtodayindia.com/smart-manufacturing-engineer-demand",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "The rise of micro-operations hubs and what they mean for speed",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T10:31:18+00:00",
+      "url": "https://www.manufacturingtodayindia.com/the-rise-of-micro-operations-hubs",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "How pioneering sealing technology is transforming the transportation of ethane and ethylene",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T10:10:54+00:00",
+      "url": "https://www.manufacturingtodayindia.com/transportation-ethane-and-ethylene",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -450,11 +762,43 @@
       "type": "magazine"
     },
     {
+      "title": "UPL to build world’s no.2 listed crop protection platform",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T09:37:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/upls-crop-protection-platform",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Gulf Oil, Mahindra Tractors renew decade-long partnership",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T09:27:44+00:00",
+      "url": "https://www.manufacturingtodayindia.com/gulf-oil-mahindra-tractors",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Zscaler, Bharti Airtel launch AI-led cyber research centre",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T09:06:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/zscaler-bharti-airtel-launch",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "Faraday Copper targets acquisition of BHP’s San Manuel site in US",
       "category": "INDUSTRY",
       "date": "2026-02-23T09:04:34+00:00",
       "url": "https://www.mining-technology.com/news/faraday-copper-bhps-san-manuel-site/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Kabelschlepp India boosts precision manufacturing with advanced VMC",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T09:03:56+00:00",
+      "url": "https://www.manufacturingtodayindia.com/kabelschlepp-india-vmc",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -471,6 +815,14 @@
       "date": "2026-02-23T08:34:00+00:00",
       "url": "https://www.engineering.com/science-and-neurosoft-partner-on-bci-development/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "From tariffs to transit time and the changing rules of competitiveness",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T08:29:12+00:00",
+      "url": "https://www.manufacturingtodayindia.com/from-tariffs-to-transit-time",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -495,6 +847,30 @@
       "date": "2026-02-23T08:10:34+00:00",
       "url": "https://powerline.net.in/2026/02/23/revised-framework-highlights-of-the-european-commissions-grids-package-and-new-ten-e-regulation/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BEL and SASMOS take a crucial defence step",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T08:06:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/bel-and-sasmos-team-up",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "AXISCADES wins Rs 25 cr HAL LCA Mk1A order",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T08:00:16+00:00",
+      "url": "https://www.manufacturingtodayindia.com/axiscades-wins-rs-25-cr",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Lumen’s latest APAC cybersecurity strategy unfolds",
+      "category": "MECHANICAL",
+      "date": "2026-02-23T07:15:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/lumens-latest-apac-cybersecurity",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -682,6 +1058,14 @@
       "type": "magazine"
     },
     {
+      "title": "Trump tariffs crushed by US Supreme Court: windfall moment or the start of a new trade storm?",
+      "category": "MECHANICAL",
+      "date": "2026-02-22T15:11:15+00:00",
+      "url": "https://www.manufacturingtodayindia.com/trump-tariffs-crushed-by-supreme-court",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "The Licensure Gap: Rigor, Readiness, and Responsibility in a Changing Engineering Landscape",
       "category": "MECHANICAL",
       "date": "2026-02-22T08:00:00+00:00",
@@ -695,6 +1079,62 @@
       "date": "2026-02-21T18:37:13+00:00",
       "url": "https://www.safetyandhealthmagazine.com/report-explores-workers-reasons-for-not-reporting-hazards/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Volvo Car and ChargeZone power up a key highway stretch",
+      "category": "MECHANICAL",
+      "date": "2026-02-21T10:23:39+00:00",
+      "url": "https://www.manufacturingtodayindia.com/volvo-car-and-chargezone",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Godrej delivers 120-ft automated pharma warehouse",
+      "category": "MECHANICAL",
+      "date": "2026-02-21T10:10:16+00:00",
+      "url": "https://www.manufacturingtodayindia.com/godrej-delivers-120-ft",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Wipro 3D powers ISRO’s high-thrust LOX-Methane engine test",
+      "category": "MECHANICAL",
+      "date": "2026-02-21T09:30:38+00:00",
+      "url": "https://www.manufacturingtodayindia.com/wipro-3d-powers-isros-high-thrust",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Digital twin, Industrial AI get smarter with TCE’s new platform",
+      "category": "MECHANICAL",
+      "date": "2026-02-21T08:45:21+00:00",
+      "url": "https://www.manufacturingtodayindia.com/tces-new-platform",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Rockwell drives AI-led manufacturing push",
+      "category": "MECHANICAL",
+      "date": "2026-02-21T08:09:53+00:00",
+      "url": "https://www.manufacturingtodayindia.com/rockwell-drives-ai-push",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "World Trade Centre Mumbai boosts India–Australia ties",
+      "category": "MECHANICAL",
+      "date": "2026-02-21T07:50:29+00:00",
+      "url": "https://www.manufacturingtodayindia.com/world-trade-centre-mumbai",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "New government-linked deal for Synergy Advanced Metals",
+      "category": "MECHANICAL",
+      "date": "2026-02-21T07:37:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/deal-for-synergy-advanced-metals",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -759,6 +1199,14 @@
       "date": "2026-02-20T11:50:19+00:00",
       "url": "https://www.engineering.com/stratasys-introduces-3d-printed-dental-training-preset/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Qualcomm and Tata Electronics seal automotive modules manufacturing pact",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T11:38:16+00:00",
+      "url": "https://www.manufacturingtodayindia.com/qualcomm-and-tata-electronics-seal-automotive-modules-manufacturing-pact",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -850,6 +1298,174 @@
       "type": "magazine"
     },
     {
+      "title": "Enlight Metals’ Vedant Goel to speak at Build Connect 2026",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T09:48:27+00:00",
+      "url": "https://www.manufacturingtodayindia.com/enlight-metals-vedant-goel",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "INOXGFL acquires Wind World India’s IPP and O&M businesses",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T09:32:15+00:00",
+      "url": "https://www.manufacturingtodayindia.com/inoxgfl-ipp-and-om-businesses",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Kuku unveils AI microdrama blueprint at India AI Impact Summit 2026",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T09:29:37+00:00",
+      "url": "https://www.manufacturingtodayindia.com/kuku-unveils-ai-microdrama-blueprint-at-india-ai-impact-summit-2026",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "FedEx lays foundation for smarter air freight in India",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T09:26:28+00:00",
+      "url": "https://www.manufacturingtodayindia.com/fedex-lays-foundation",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "India’s AI crossroads: ambition, fault lines and the battle for global relevance",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T09:18:37+00:00",
+      "url": "https://www.manufacturingtodayindia.com/indias-ai-crossroads-ambition-fault-lines-and-the-battle-for-global-relevance",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "GalaxEye launches Mission Drishti, AI-powered Earth satellite",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T09:14:42+00:00",
+      "url": "https://www.manufacturingtodayindia.com/galaxeye-launches-mission-drishti",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Hindustan Zinc enters global top tier in sustainability rankings",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T08:46:42+00:00",
+      "url": "https://www.manufacturingtodayindia.com/hindustan-zinc-enters-global-top-tier-in-sustainability-rankings",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Texmaco and RVNL form rail manufacturing JV to target global markets",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T08:37:58+00:00",
+      "url": "https://www.manufacturingtodayindia.com/texmaco-and-rvnl-form-rail-manufacturing-jv-to-target-global-markets",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "ePlane develops India’s first electric air taxi with NVIDIA",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T08:37:22+00:00",
+      "url": "https://www.manufacturingtodayindia.com/eplane-first-electric-air-taxi",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "PreferCo and Glatt launch Hyderabad manufacturing CoE for precision fermentation",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T08:30:46+00:00",
+      "url": "https://www.manufacturingtodayindia.com/preferco-and-glatt-launch-hyderabad-manufacturing-coe-for-precision-fermentation",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "EV battery materials to face a positive turning point: IDTechEx",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T08:30:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/a-turning-point-idtechex",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Addverb taps new AI tools to rethink industrial robots",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T08:08:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/addverb-taps-new-ai-tools",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "BPCL signs multiple CBG TPAs to boost renewable gas in UP",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T07:49:16+00:00",
+      "url": "https://www.manufacturingtodayindia.com/bpcl-signs-multiple-cbg-tpas",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Saatvik Solar secures Rs 44.10 Cr PV module order",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T07:37:11+00:00",
+      "url": "https://www.manufacturingtodayindia.com/saatvik-solar-secures-rs-44-10-cr",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "A new tech alliance takes shape at Bharat Forge",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T07:30:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/bharat-forge-new-alliance",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "SIAM convenes global auto leaders in Delhi",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T07:29:47+00:00",
+      "url": "https://www.manufacturingtodayindia.com/siam-convenes-global-auto-leaders-in-delhi",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Rösler UK boosts finishing with cobot & vision system",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T07:13:27+00:00",
+      "url": "https://www.manufacturingtodayindia.com/rosler-uk-boosts-finishing",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Vedanta Aluminium eyes dominant position in India market",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T06:37:58+00:00",
+      "url": "https://www.manufacturingtodayindia.com/vedanta-aluminium-eyes-dominant-position-in-india-market",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "VIGEL to strengthen its position with strategic acquisition",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T06:34:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/vigels-strategic-acquisition",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "RSPL Group puts women at the centre of its Chaubepur manufacturing story",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T05:56:09+00:00",
+      "url": "https://www.manufacturingtodayindia.com/rspl-group-puts-women-at-the-centre-of-its-chaubepur-manufacturing-story",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Acronis’s latest report uncovers new reality of cyberattacks",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T05:47:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/new-reality-of-cyberattacks",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "NPCIL reconnects TAPS-1 to grid after life-extension programme",
       "category": "POWER",
       "date": "2026-02-20T05:42:03+00:00",
@@ -863,6 +1479,14 @@
       "date": "2026-02-20T05:41:05+00:00",
       "url": "https://powerline.net.in/2026/02/20/msedcl-to-demerge-agriculture-business-ahead-of-ipo/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Panasonic Life Solutions India redefines smart home switching in India",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T05:40:09+00:00",
+      "url": "https://www.manufacturingtodayindia.com/panasonic-life-solutions-india-redefines-smart-home-switching-in-india",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -927,6 +1551,14 @@
       "date": "2026-02-20T05:33:24+00:00",
       "url": "https://powerline.net.in/2026/02/20/philippines-doe-to-launch-bid-round-for-18-coal-blocks/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "A quiet but powerful automotive shift begins at SIAM conference",
+      "category": "MECHANICAL",
+      "date": "2026-02-20T05:18:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/shift-begins-at-siam-conference",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -1074,6 +1706,14 @@
       "type": "magazine"
     },
     {
+      "title": "Flamingo Aerospace signs pact with UAC for six regional aircraft",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T11:40:04+00:00",
+      "url": "https://www.manufacturingtodayindia.com/flamingo-aerospace-signs-pact-with-uac-for-six-regional-aircraft",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "Hemlo Mining unveils B-Zone drilling results at gold mine in Canada",
       "category": "INDUSTRY",
       "date": "2026-02-19T10:41:19+00:00",
@@ -1103,6 +1743,14 @@
       "date": "2026-02-19T10:05:52+00:00",
       "url": "https://www.engineering.com/rand-simulation-earns-ansys-apex-channel-partner-status/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Festo inaugurates Bengaluru GCC, marks 40 years in India",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T10:05:47+00:00",
+      "url": "https://www.manufacturingtodayindia.com/festo-inaugurates-bengaluru-gcc",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -1138,6 +1786,30 @@
       "type": "magazine"
     },
     {
+      "title": "ACME Solar’s latest SECI PPA pact expands portfolio",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T08:50:35+00:00",
+      "url": "https://www.manufacturingtodayindia.com/acme-solars-latest-seci-ppa-pact",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "IMTEX FORMING 2026 highlights automation, robotics, and AI",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T08:41:30+00:00",
+      "url": "https://www.manufacturingtodayindia.com/imtex-forming-2026-ai",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "GNA Energy launches Vidyut AI for India’s power sector",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T08:19:05+00:00",
+      "url": "https://www.manufacturingtodayindia.com/gna-energy-vidyut-ai",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "Emerson software supports Enagás in managing Spain’s gas grid",
       "category": "MECHANICAL",
       "date": "2026-02-19T08:17:00+00:00",
@@ -1146,11 +1818,75 @@
       "type": "magazine"
     },
     {
+      "title": "Tata AutoComp makes a strategic rebrand move in Europe",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T08:09:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/tata-autocomp-rebrand-move",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "BorgWarner unlocks new 48V eXD programme opportunity",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T07:38:11+00:00",
+      "url": "https://www.manufacturingtodayindia.com/borgwarner-unlocks-new-opportunity",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Electric launches Motivair cooling plant in Bengaluru",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T07:34:04+00:00",
+      "url": "https://www.manufacturingtodayindia.com/schneider-electric-motivair-plant",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "SIAM SAFAR 2026 focuses on zero road fatalities",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T07:02:16+00:00",
+      "url": "https://www.manufacturingtodayindia.com/siam-safar-2026",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Yotta’s mega $2 billion blackwell supercluster announced",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T06:49:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/yottas-blackwell-supercluster",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Waaree to invest ₹8,175 crore in India’s largest integrated Li-ion battery gigafactory in Andhra Pradesh",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T06:38:41+00:00",
+      "url": "https://www.manufacturingtodayindia.com/waaree-bets-big-on-andhra-with-mega-battery-move",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Nextpower, Jinko sign multi-year 1 GW pact",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T06:27:22+00:00",
+      "url": "https://www.manufacturingtodayindia.com/nextpower-jinko-1-gw-pact",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "Researchers have heavy news for ‘light’ smokers",
       "category": "SAFETY",
       "date": "2026-02-19T06:00:06+00:00",
       "url": "https://www.safetyandhealthmagazine.com/researchers-have-heavy-news-for-light-smokers/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Vahan Eye steps in where ANPR systems failed",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T05:38:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/vahan-eye-steps-in",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -1215,6 +1951,30 @@
       "date": "2026-02-19T04:55:34+00:00",
       "url": "https://powerline.net.in/2026/02/19/philippines-advances-privatisation-of-1000-mw-agus-pulangi-hydropower-complex-via-ppp/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "AM/NS India rewrites steel strategy with premium push",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T04:47:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/am-ns-india-rewrites-steel-strategy",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Brandworks drops new AI bombshell at India AI Summit 2026",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T04:03:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/brandworks-at-india-ai-summit-2026",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "ELCIA scales up ecosystem initiatives under new leadership",
+      "category": "MECHANICAL",
+      "date": "2026-02-19T03:30:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/elcia-new-leadership",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -1354,6 +2114,22 @@
       "type": "magazine"
     },
     {
+      "title": "ThunderPlus’s new alliance targets integrated EV hubs across 250+ sites",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T12:16:44+00:00",
+      "url": "https://www.manufacturingtodayindia.com/thunderpluss-new-alliance",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Bharat1.AI plans world’s first humanity-first AI city",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T11:25:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/bharat1-ai-humanity-first-ai-city",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "BMC Minerals mobilises first drill rig to Canada’s Kudz Ze Kayah project",
       "category": "INDUSTRY",
       "date": "2026-02-18T10:53:54+00:00",
@@ -1370,11 +2146,35 @@
       "type": "magazine"
     },
     {
+      "title": "Mahindra BE 6 highlights EV performance at Goa Street Race",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T10:34:24+00:00",
+      "url": "https://www.manufacturingtodayindia.com/mahindra-be-6-highlights-ev",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "Emesent launches GX1 SLAM and RTK mobile scanner",
       "category": "MECHANICAL",
       "date": "2026-02-18T10:06:41+00:00",
       "url": "https://www.engineering.com/emesent-launches-gx1-slam-and-rtk-mobile-scanner/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Maharashtra launches CFAMS to boost climate finance",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T09:53:15+00:00",
+      "url": "https://www.manufacturingtodayindia.com/maharashtra-launches-cfams",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "BPCL inaugurates 71 MW solar plant in Prayagraj",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T09:47:01+00:00",
+      "url": "https://www.manufacturingtodayindia.com/bpcl-inaugurates-71-mw-solar-plant",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -1410,6 +2210,14 @@
       "type": "magazine"
     },
     {
+      "title": "TCI partners with Flying Whales for LCA60T cargo airship",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T09:09:46+00:00",
+      "url": "https://www.manufacturingtodayindia.com/tci-partners-with-flying-whales",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "SimuTech named Synopsys channel partner of the year",
       "category": "MECHANICAL",
       "date": "2026-02-18T08:48:00+00:00",
@@ -1426,6 +2234,14 @@
       "type": "magazine"
     },
     {
+      "title": "Exponent Energy rolls out new fintech platform",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T08:26:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/exponent-energys-fintech-platform",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "ST Engineering iDirect partners with G&S SatCom on Intuition",
       "category": "MECHANICAL",
       "date": "2026-02-18T08:23:00+00:00",
@@ -1439,6 +2255,54 @@
       "date": "2026-02-18T08:15:00+00:00",
       "url": "https://www.engineering.com/parsec-automation-introduces-traksys-14/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IPCO to showcase sustainable composites at JEC World 2026",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T07:57:11+00:00",
+      "url": "https://www.manufacturingtodayindia.com/ipco-sustainable-composites",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Climate in the Global South needs innovation: Deloitte",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T07:41:17+00:00",
+      "url": "https://www.manufacturingtodayindia.com/climate-global-south-deloitte",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Industrial robots: Innovation, aspiration and scrutiny",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T07:32:45+00:00",
+      "url": "https://www.manufacturingtodayindia.com/industrial-robots-innovation-aspiration-and-scrutiny",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Covestro materials drive new autonomous people mover",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T07:19:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/covestro-materials-drive",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "ICCT Vision 2050 flags major EV gains for India",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T07:06:15+00:00",
+      "url": "https://www.manufacturingtodayindia.com/icct-vision-2050-major-ev-gains",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "IZI opens Rs 50 Cr drone plant, eyes India-built scale",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T06:34:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/izi-opens-rs-50-cr-drone-plant",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -1498,11 +2362,27 @@
       "type": "magazine"
     },
     {
+      "title": "60 MW green hydrogen projects to unfold in UP",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T05:19:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/60-mw-green-hydrogen-projects",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "Washbasins that Splash because of Wrong Positioning",
       "category": "CIVIL",
       "date": "2026-02-18T05:05:29+00:00",
       "url": "https://theconstructor.org/building/washbasins-splash-wrong-positioning/579539/",
       "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "Bartronics targets smart warehouses with new agreement",
+      "category": "MECHANICAL",
+      "date": "2026-02-18T04:33:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/bartronics-new-agreement",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -1650,11 +2530,35 @@
       "type": "magazine"
     },
     {
+      "title": "Moving beyond assembly to design-led semiconductor growth",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T10:56:00+00:00",
+      "url": "https://www.manufacturingtodayindia.com/design-led-semiconductor-growth",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
       "title": "HD Hyundai selects Siemens for shipyard digital platform",
       "category": "MECHANICAL",
       "date": "2026-02-17T10:42:00+00:00",
       "url": "https://www.engineering.com/hd-hyundai-selects-siemens-for-shipyard-digital-platform/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SIAM puts multi-fuel mobility in spotlight at ISTEM in Delhi",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T10:29:53+00:00",
+      "url": "https://www.manufacturingtodayindia.com/siam-at-istem-in-delhi",
+      "source": "Manufacturing Today India",
+      "type": "magazine"
+    },
+    {
+      "title": "Ashok Leyland, Rajasthan Gramin Bank partner for vehicle financing",
+      "category": "MECHANICAL",
+      "date": "2026-02-17T10:13:38+00:00",
+      "url": "https://www.manufacturingtodayindia.com/ashok-leyland-rajasthan-gramin",
+      "source": "Manufacturing Today India",
       "type": "magazine"
     },
     {
@@ -9514,5 +10418,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-25T07:04:29.147444+00:00"
+  "last_updated_utc": "2026-02-25T13:09:46.253140+00:00"
 }
