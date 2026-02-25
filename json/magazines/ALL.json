@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Out-of-pocket costs keeping many workers from medical care: study",
+      "category": "SAFETY",
+      "date": "2026-02-25T18:49:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/out-of-pocket-costs-keeping-many-workers-from-medical-care-study/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bipartisan group of lawmakers renew call for passage of rail safety bill",
+      "category": "SAFETY",
+      "date": "2026-02-25T18:47:38+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/bipartisan-group-of-lawmakers-renew-call-for-passage-of-rail-safety-bill/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Study looks at the who, what and where of black lung cases",
+      "category": "SAFETY",
+      "date": "2026-02-25T18:45:23+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/study-looks-at-the-who-what-and-where-of-black-lung-cases/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The pull of rare earths: new issue of MINE out now!",
+      "category": "INDUSTRY",
+      "date": "2026-02-25T18:01:04+00:00",
+      "url": "https://www.mining-technology.com/news/the-pull-of-rare-earths-new-issue-of-mine-out-now/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "How AI and manufacturing networks simplify part procurement",
+      "category": "MECHANICAL",
+      "date": "2026-02-25T16:03:31+00:00",
+      "url": "https://www.engineering.com/how-ai-and-manufacturing-networks-simplify-part-procurement/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HeyGears introduces one-piece denture workflow",
+      "category": "MECHANICAL",
+      "date": "2026-02-25T14:34:07+00:00",
+      "url": "https://www.engineering.com/heygears-introduces-one-piece-denture-workflow/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Capacity additions to lift Indonesia’s nickel supply in 2026",
+      "category": "INDUSTRY",
+      "date": "2026-02-25T14:26:28+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/capacity-addition-indonesia-nickel-supply-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "MathWorks joins EDGE AI Foundation",
+      "category": "MECHANICAL",
+      "date": "2026-02-25T14:25:04+00:00",
+      "url": "https://www.engineering.com/mathworks-joins-edge-ai-foundation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Project ramp-ups and capacity expansions to increase Australian coal output in 2026",
+      "category": "INDUSTRY",
+      "date": "2026-02-25T14:03:42+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/project-ramp-ups-capacity-expansions-australian-coal-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "HELUKABEL Group rebrands as HELU",
       "category": "INSTRUMENTATION",
       "date": "2026-02-25T12:22:29+00:00",
@@ -10,11 +82,35 @@
       "type": "magazine"
     },
     {
+      "title": "Critica starts air core drilling at Jupiter rare earth project",
+      "category": "INDUSTRY",
+      "date": "2026-02-25T11:54:19+00:00",
+      "url": "https://www.mining-technology.com/news/critica-air-core-drilling-jupiter-rare-earth-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Besra secures conditional lease renewal for Jugan deposit in Malaysia",
       "category": "INDUSTRY",
       "date": "2026-02-25T11:44:46+00:00",
       "url": "https://www.mining-technology.com/news/besra-conditional-lease-renewal-jugan-deposit/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD and Meta sign 6-GW deal for AI infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-02-25T10:05:00+00:00",
+      "url": "https://www.engineering.com/amd-and-meta-sign-6-gw-deal-for-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nemetschek partners with Ingram Micro to expand in MENA",
+      "category": "MECHANICAL",
+      "date": "2026-02-25T09:52:00+00:00",
+      "url": "https://www.engineering.com/nemetschek-partners-with-ingram-micro-to-expand-in-mena/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -34,6 +130,14 @@
       "type": "magazine"
     },
     {
+      "title": "LG to debut integrated telematics module at MWC 2026",
+      "category": "MECHANICAL",
+      "date": "2026-02-25T09:15:00+00:00",
+      "url": "https://www.engineering.com/lg-to-debut-integrated-telematics-module-at-mwc-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Olympio Metals to acquire US silver and antimony projects",
       "category": "INDUSTRY",
       "date": "2026-02-25T09:11:59+00:00",
@@ -46,6 +150,30 @@
       "category": "INDUSTRY",
       "date": "2026-02-25T09:05:45+00:00",
       "url": "https://www.mining-technology.com/news/ongwe-expands-omatjete-gold-project-area/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Iridium 9604 combines satellite, LTE-M and GNSS",
+      "category": "MECHANICAL",
+      "date": "2026-02-25T08:32:00+00:00",
+      "url": "https://www.engineering.com/iridium-9604-combines-satellite-lte-m-and-gnss/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Scailium partners with TD SYNNEX for AI scaling",
+      "category": "MECHANICAL",
+      "date": "2026-02-25T08:25:00+00:00",
+      "url": "https://www.engineering.com/scailium-partners-with-td-synnex-for-ai-scaling/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "New episode: Why is Big Oil pivoting to APAC’s EV charging market?",
+      "category": "INDUSTRY",
+      "date": "2026-02-25T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-big-oil-pivoting-apac-ev-charging/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -10418,5 +10546,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-25T13:09:46.253140+00:00"
+  "last_updated_utc": "2026-02-25T19:08:59.650171+00:00"
 }

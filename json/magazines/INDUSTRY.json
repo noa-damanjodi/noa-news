@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "The pull of rare earths: new issue of MINE out now!",
+      "category": "INDUSTRY",
+      "date": "2026-02-25T18:01:04+00:00",
+      "url": "https://www.mining-technology.com/news/the-pull-of-rare-earths-new-issue-of-mine-out-now/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Capacity additions to lift Indonesia’s nickel supply in 2026",
+      "category": "INDUSTRY",
+      "date": "2026-02-25T14:26:28+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/capacity-addition-indonesia-nickel-supply-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Project ramp-ups and capacity expansions to increase Australian coal output in 2026",
+      "category": "INDUSTRY",
+      "date": "2026-02-25T14:03:42+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/project-ramp-ups-capacity-expansions-australian-coal-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Critica starts air core drilling at Jupiter rare earth project",
+      "category": "INDUSTRY",
+      "date": "2026-02-25T11:54:19+00:00",
+      "url": "https://www.mining-technology.com/news/critica-air-core-drilling-jupiter-rare-earth-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Besra secures conditional lease renewal for Jugan deposit in Malaysia",
       "category": "INDUSTRY",
       "date": "2026-02-25T11:44:46+00:00",
@@ -30,6 +62,14 @@
       "category": "INDUSTRY",
       "date": "2026-02-25T09:05:45+00:00",
       "url": "https://www.mining-technology.com/news/ongwe-expands-omatjete-gold-project-area/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "New episode: Why is Big Oil pivoting to APAC’s EV charging market?",
+      "category": "INDUSTRY",
+      "date": "2026-02-25T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-big-oil-pivoting-apac-ev-charging/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -1562,5 +1602,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-25T13:09:46.253140+00:00"
+  "last_updated_utc": "2026-02-25T19:08:59.650171+00:00"
 }
