@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Integrating AI with power grid operations with OATI | DTECH Interview Studio",
+      "category": "RENEWABLE",
+      "date": "2026-02-26T17:12:32+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/integrating-ai-with-power-grid-operations-with-oati-dtech-interview-studio/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Itron sees data as the foundation of the grid transformation | DTECH Interview Studio",
       "category": "RENEWABLE",
       "date": "2026-02-25T21:12:48+00:00",
@@ -970,5 +978,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-26T13:11:06.385599+00:00"
+  "last_updated_utc": "2026-02-26T18:55:05.619234+00:00"
 }

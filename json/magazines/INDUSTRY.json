@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Core Lithium to sell Finniss stockpile to Glencore International",
+      "category": "INDUSTRY",
+      "date": "2026-02-26T14:45:14+00:00",
+      "url": "https://www.mining-technology.com/news/core-lithium-sell-finniss-stockpile-glencore-international/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Midas Minerals discovers copper-silver deposits in Namibia",
+      "category": "INDUSTRY",
+      "date": "2026-02-26T14:40:19+00:00",
+      "url": "https://www.mining-technology.com/news/midas-minerals-copper-silver-deposits-namibia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Kali Metals to buy 30% interest in DOM’s Hill, Pear Creek from SQM",
       "category": "INDUSTRY",
       "date": "2026-02-26T11:01:42+00:00",
@@ -1634,5 +1650,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-26T13:11:06.385599+00:00"
+  "last_updated_utc": "2026-02-26T18:55:05.619234+00:00"
 }

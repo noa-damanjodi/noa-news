@@ -2,6 +2,22 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "NSC projects a 12% decrease in U.S. traffic deaths in 2025",
+      "category": "SAFETY",
+      "date": "2026-02-26T13:41:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-projects-a-12-decrease-in-u-s-traffic-deaths-in-2025/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EPA to regulate chemical used for plastics, rubber after finding ‘unreasonable’ risk",
+      "category": "SAFETY",
+      "date": "2026-02-26T13:33:02+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/epa-to-regulate-chemical-used-for-plastics-rubber-after-finding-unreasonable-risk/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Let’s be real: TV depictions of CPR largely inaccurate, study finds",
       "category": "SAFETY",
       "date": "2026-02-25T20:08:23+00:00",
@@ -682,5 +698,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-26T13:11:06.385599+00:00"
+  "last_updated_utc": "2026-02-26T18:55:05.619234+00:00"
 }

@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Integrating AI with power grid operations with OATI | DTECH Interview Studio",
+      "category": "RENEWABLE",
+      "date": "2026-02-26T17:12:32+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/integrating-ai-with-power-grid-operations-with-oati-dtech-interview-studio/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "How two AMUG scholars are finding their place in additive manufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-02-26T16:56:25+00:00",
+      "url": "https://www.engineering.com/how-two-amug-scholars-are-finding-their-place-in-additive-manufacturing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Core Lithium to sell Finniss stockpile to Glencore International",
+      "category": "INDUSTRY",
+      "date": "2026-02-26T14:45:14+00:00",
+      "url": "https://www.mining-technology.com/news/core-lithium-sell-finniss-stockpile-glencore-international/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Midas Minerals discovers copper-silver deposits in Namibia",
+      "category": "INDUSTRY",
+      "date": "2026-02-26T14:40:19+00:00",
+      "url": "https://www.mining-technology.com/news/midas-minerals-copper-silver-deposits-namibia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NSC projects a 12% decrease in U.S. traffic deaths in 2025",
+      "category": "SAFETY",
+      "date": "2026-02-26T13:41:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-projects-a-12-decrease-in-u-s-traffic-deaths-in-2025/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EPA to regulate chemical used for plastics, rubber after finding ‘unreasonable’ risk",
+      "category": "SAFETY",
+      "date": "2026-02-26T13:33:02+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/epa-to-regulate-chemical-used-for-plastics-rubber-after-finding-unreasonable-risk/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Hardip Singh Chief Operating Officer, GREW Energy",
       "category": "POWER",
       "date": "2026-02-26T11:37:51+00:00",
@@ -10738,5 +10786,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-26T13:11:06.385599+00:00"
+  "last_updated_utc": "2026-02-26T18:55:05.619234+00:00"
 }
