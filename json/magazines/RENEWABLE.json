@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Case study: The lights are on at PG&E to build a smarter, stronger, sustainable grid",
+      "category": "RENEWABLE",
+      "date": "2026-02-27T13:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/case-study-the-lights-are-on-at-pge-to-build-a-smarter-stronger-sustainable-grid/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Appeals court questions shifting reasons for Trump’s EPA killing clean energy contracts",
       "category": "RENEWABLE",
       "date": "2026-02-26T19:26:26+00:00",
@@ -986,5 +994,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-27T06:57:24.354068+00:00"
+  "last_updated_utc": "2026-02-27T13:03:20.668932+00:00"
 }

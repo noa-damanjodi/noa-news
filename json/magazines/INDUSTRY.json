@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Questcorp initiates IP survey at BC’s North Island Project",
+      "category": "INDUSTRY",
+      "date": "2026-02-27T10:35:27+00:00",
+      "url": "https://www.mining-technology.com/news/questcorp-ip-survey-north-island-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Eureka Lithium acquires Cabin Lake and Tyee Projects in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-02-27T09:52:16+00:00",
+      "url": "https://www.mining-technology.com/news/eureka-lithium-acquires-cabin-lake-tyee-projects/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Athena Gold plans acquisition of Forester Gold Project in Ontario",
+      "category": "INDUSTRY",
+      "date": "2026-02-27T09:46:51+00:00",
+      "url": "https://www.mining-technology.com/news/athena-gold-plans-acquisition-forester-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Project ramp-ups and new projects set to lift Australia’s iron ore output in 2026",
+      "category": "INDUSTRY",
+      "date": "2026-02-26T15:00:36+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/project-ramp-ups-australia-iron-ore-output-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Core Lithium to sell Finniss stockpile to Glencore International",
       "category": "INDUSTRY",
       "date": "2026-02-26T14:45:14+00:00",
@@ -1650,5 +1682,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-27T06:57:24.354068+00:00"
+  "last_updated_utc": "2026-02-27T13:03:20.668932+00:00"
 }
