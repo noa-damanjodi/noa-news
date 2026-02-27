@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Parents: Running with a stroller may reduce your risk of injury",
+      "category": "SAFETY",
+      "date": "2026-02-26T19:41:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/parents-running-with-a-stroller-may-reduce-your-risk-of-injury/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Appeals court questions shifting reasons for Trump’s EPA killing clean energy contracts",
+      "category": "RENEWABLE",
+      "date": "2026-02-26T19:26:26+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/appeals-court-questions-shifting-reasons-for-trumps-epa-killing-clean-energy-contracts/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Integrating AI with power grid operations with OATI | DTECH Interview Studio",
       "category": "RENEWABLE",
       "date": "2026-02-26T17:12:32+00:00",
@@ -10786,5 +10802,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-26T18:55:05.619234+00:00"
+  "last_updated_utc": "2026-02-27T02:11:50.918979+00:00"
 }
