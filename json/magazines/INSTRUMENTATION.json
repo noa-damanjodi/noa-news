@@ -2,6 +2,38 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Ericsson and NTT Date partner to accelerate adoption of private 5G networks",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-27T16:48:40+00:00",
+      "url": "https://www.automationmag.com/ericsson-and-ntt-date-partner-to-accelerate-adoption-of-private-5g-networks/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "It is never too early to start succession planning",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-27T16:34:17+00:00",
+      "url": "https://www.automationmag.com/it-is-never-too-early-to-start-succession-planning/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "NORD extends IE5+ Synchronous Motor Line with new 112 frame size",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-27T15:12:41+00:00",
+      "url": "https://www.automationmag.com/nord-extends-ie5-synchronous-motor-line-with-new-112-frame-size/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Electric Canada opens new headquarters, EcoFit Centre in Milton",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-27T14:47:30+00:00",
+      "url": "https://www.automationmag.com/schneider-electric-canada-opens-new-headquarters-ecofit-centre-in-milton/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "HELUKABEL Group rebrands as HELU",
       "category": "INSTRUMENTATION",
       "date": "2026-02-25T12:22:29+00:00",
@@ -522,14 +554,6 @@
       "type": "magazine"
     },
     {
-      "title": "Schneider Electric Canada opens new headquarters, EcoFit Centre in Milton",
-      "category": "INSTRUMENTATION",
-      "date": "2026-01-16T14:47:30+00:00",
-      "url": "https://www.automationmag.com/schneider-electric-canada-opens-new-headquarters-ecofit-centre-in-milton/",
-      "source": "Manufacturing AUTOMATION",
-      "type": "magazine"
-    },
-    {
       "title": "Statistics Canada says manufacturing sales fell 1.2 per cent in November",
       "category": "INSTRUMENTATION",
       "date": "2026-01-15T15:30:55+00:00",
@@ -922,5 +946,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-27T13:03:20.668932+00:00"
+  "last_updated_utc": "2026-02-27T18:47:20.460250+00:00"
 }

@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Factor This finance and project development roundup: Ameresco, Atlas, Nextpower, OCI, Revolve",
+      "category": "RENEWABLE",
+      "date": "2026-02-27T18:34:34+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/energy-finance/factor-this-finance-and-project-development-roundup-ameresco-atlas-nextpower-oci-revolve/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Clean energy bans ‘skyrocket’ – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-02-27T17:10:09+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/clean-energy-bans-skyrocket-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Case study: The lights are on at PG&E to build a smarter, stronger, sustainable grid",
       "category": "RENEWABLE",
       "date": "2026-02-27T13:00:00+00:00",
@@ -994,5 +1010,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-27T13:03:20.668932+00:00"
+  "last_updated_utc": "2026-02-27T18:47:20.460250+00:00"
 }

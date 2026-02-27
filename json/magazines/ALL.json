@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Factor This finance and project development roundup: Ameresco, Atlas, Nextpower, OCI, Revolve",
+      "category": "RENEWABLE",
+      "date": "2026-02-27T18:34:34+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/energy-finance/factor-this-finance-and-project-development-roundup-ameresco-atlas-nextpower-oci-revolve/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Independent contractor or employee? DOL seeking another rule change",
+      "category": "SAFETY",
+      "date": "2026-02-27T17:38:19+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/independent-contractor-or-employee-dol-seeking-another-rule-change/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Clean energy bans ‘skyrocket’ – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-02-27T17:10:09+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/clean-energy-bans-skyrocket-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Ericsson and NTT Date partner to accelerate adoption of private 5G networks",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-27T16:48:40+00:00",
+      "url": "https://www.automationmag.com/ericsson-and-ntt-date-partner-to-accelerate-adoption-of-private-5g-networks/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "It is never too early to start succession planning",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-27T16:34:17+00:00",
+      "url": "https://www.automationmag.com/it-is-never-too-early-to-start-succession-planning/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "NORD extends IE5+ Synchronous Motor Line with new 112 frame size",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-27T15:12:41+00:00",
+      "url": "https://www.automationmag.com/nord-extends-ie5-synchronous-motor-line-with-new-112-frame-size/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Toray develops spherical PA12 powder for PBF",
+      "category": "MECHANICAL",
+      "date": "2026-02-27T14:58:03+00:00",
+      "url": "https://www.engineering.com/toray-develops-spherical-pa12-powder-for-pbf/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Electric Canada opens new headquarters, EcoFit Centre in Milton",
+      "category": "INSTRUMENTATION",
+      "date": "2026-02-27T14:47:30+00:00",
+      "url": "https://www.automationmag.com/schneider-electric-canada-opens-new-headquarters-ecofit-centre-in-milton/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "New from OSHA: job safety and health poster",
+      "category": "SAFETY",
+      "date": "2026-02-27T13:54:48+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-from-osha-job-safety-and-health-poster/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Basin Energy to sell Marshall Uranium Project to GCC",
+      "category": "INDUSTRY",
+      "date": "2026-02-27T13:42:21+00:00",
+      "url": "https://www.mining-technology.com/news/basin-energy-to-sell-marshall-uranium-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Case study: The lights are on at PG&E to build a smarter, stronger, sustainable grid",
       "category": "RENEWABLE",
       "date": "2026-02-27T13:00:00+00:00",
@@ -8314,14 +8394,6 @@
       "type": "magazine"
     },
     {
-      "title": "Schneider Electric Canada opens new headquarters, EcoFit Centre in Milton",
-      "category": "INSTRUMENTATION",
-      "date": "2026-01-16T14:47:30+00:00",
-      "url": "https://www.automationmag.com/schneider-electric-canada-opens-new-headquarters-ecofit-centre-in-milton/",
-      "source": "Manufacturing AUTOMATION",
-      "type": "magazine"
-    },
-    {
       "title": "Dalaroo identifies critical minerals system at Blue Lagoon, Greenland",
       "category": "INDUSTRY",
       "date": "2026-01-16T14:22:05+00:00",
@@ -10946,5 +11018,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-27T13:03:20.668932+00:00"
+  "last_updated_utc": "2026-02-27T18:47:20.460250+00:00"
 }
