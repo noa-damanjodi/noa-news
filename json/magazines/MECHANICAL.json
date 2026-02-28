@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Engineering challenges in software-defined vehicles",
+      "category": "MECHANICAL",
+      "date": "2026-02-27T21:08:54+00:00",
+      "url": "https://www.engineering.com/engineering-challenges-in-software-defined-vehicles/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Toray develops spherical PA12 powder for PBF",
       "category": "MECHANICAL",
       "date": "2026-02-27T14:58:03+00:00",
@@ -3226,5 +3234,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-02-27T18:47:20.460250+00:00"
+  "last_updated_utc": "2026-02-28T02:01:52.933904+00:00"
 }
