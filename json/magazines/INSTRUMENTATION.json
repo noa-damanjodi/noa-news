@@ -2,7 +2,15 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
-      "title": "Ericsson and NTT Date partner to accelerate adoption of private 5G networks",
+      "title": "S&P Global Canada PMI hits 51.0, marks 13-month high",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-02T18:13:38+00:00",
+      "url": "https://www.automationmag.com/sp-global-canada-pmi-hits-51-0-marks-13-month-high/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Ericsson and NTT DATA partner to accelerate adoption of private 5G networks",
       "category": "INSTRUMENTATION",
       "date": "2026-02-27T16:48:40+00:00",
       "url": "https://www.automationmag.com/ericsson-and-ntt-date-partner-to-accelerate-adoption-of-private-5g-networks/",
@@ -946,5 +954,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-02T13:03:11.107795+00:00"
+  "last_updated_utc": "2026-03-02T18:52:39.850298+00:00"
 }

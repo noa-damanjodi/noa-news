@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "S&P Global Canada PMI hits 51.0, marks 13-month high",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-02T18:13:38+00:00",
+      "url": "https://www.automationmag.com/sp-global-canada-pmi-hits-51-0-marks-13-month-high/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Survey asks retail employees: Do you feel safe at work?",
+      "category": "SAFETY",
+      "date": "2026-03-02T17:53:54+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/survey-asks-retail-employees-do-you-feel-safe-at-work/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New Nebraska law ends safety committee mandate for private employers",
+      "category": "SAFETY",
+      "date": "2026-03-02T17:44:53+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-nebraska-law-ends-safety-committee-mandate-for-private-employers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EV batteries and solar panels versus climate change",
+      "category": "MECHANICAL",
+      "date": "2026-03-02T17:02:19+00:00",
+      "url": "https://www.engineering.com/ev-batteries-and-solar-panels-versus-climate-change/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hearing protector fit testing: New guidance from OSHA",
+      "category": "SAFETY",
+      "date": "2026-03-02T16:28:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/hearing-protector-fit-testing-new-guidance-from-osha/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Judge orders changes to Columbia and Snake river dam operations to help ‘disappearing’ salmon",
+      "category": "RENEWABLE",
+      "date": "2026-03-02T16:28:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/judge-orders-changes-to-columbia-and-snake-river-dam-operations-to-help-disappearing-salmon/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Keeping cool: CHP systems and absorption chillers are a winning combo for data center developers",
+      "category": "RENEWABLE",
+      "date": "2026-03-02T16:25:21+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/microgrid/keeping-cool-chp-systems-and-absorption-chillers-are-a-winning-combo-for-data-center-developers/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Dateline Resources acquires Music Valley rare earths project in US",
+      "category": "INDUSTRY",
+      "date": "2026-03-02T14:25:03+00:00",
+      "url": "https://www.mining-technology.com/news/dateline-resources-acquires-music-valley-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Stratasys earns EcoVadis Gold sustainability rating",
+      "category": "MECHANICAL",
+      "date": "2026-03-02T13:45:30+00:00",
+      "url": "https://www.engineering.com/stratasys-earns-ecovadis-gold-sustainability-rating/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Bold Ventures secures new claims near Joutel Property in Canada",
       "category": "INDUSTRY",
       "date": "2026-03-02T11:01:34+00:00",
@@ -178,7 +250,7 @@
       "type": "magazine"
     },
     {
-      "title": "Ericsson and NTT Date partner to accelerate adoption of private 5G networks",
+      "title": "Ericsson and NTT DATA partner to accelerate adoption of private 5G networks",
       "category": "INSTRUMENTATION",
       "date": "2026-02-27T16:48:40+00:00",
       "url": "https://www.automationmag.com/ericsson-and-ntt-date-partner-to-accelerate-adoption-of-private-5g-networks/",
@@ -11178,5 +11250,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-02T13:03:11.107795+00:00"
+  "last_updated_utc": "2026-03-02T18:52:39.850298+00:00"
 }

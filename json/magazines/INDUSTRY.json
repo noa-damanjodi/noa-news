@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Dateline Resources acquires Music Valley rare earths project in US",
+      "category": "INDUSTRY",
+      "date": "2026-03-02T14:25:03+00:00",
+      "url": "https://www.mining-technology.com/news/dateline-resources-acquires-music-valley-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Bold Ventures secures new claims near Joutel Property in Canada",
       "category": "INDUSTRY",
       "date": "2026-03-02T11:01:34+00:00",
@@ -1730,5 +1738,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-02T13:03:11.107795+00:00"
+  "last_updated_utc": "2026-03-02T18:52:39.850298+00:00"
 }

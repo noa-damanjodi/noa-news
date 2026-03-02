@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Judge orders changes to Columbia and Snake river dam operations to help ‘disappearing’ salmon",
+      "category": "RENEWABLE",
+      "date": "2026-03-02T16:28:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/judge-orders-changes-to-columbia-and-snake-river-dam-operations-to-help-disappearing-salmon/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Keeping cool: CHP systems and absorption chillers are a winning combo for data center developers",
+      "category": "RENEWABLE",
+      "date": "2026-03-02T16:25:21+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/microgrid/keeping-cool-chp-systems-and-absorption-chillers-are-a-winning-combo-for-data-center-developers/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Factor This finance and project development roundup: Ameresco, Atlas, Nextpower, OCI, Revolve",
       "category": "RENEWABLE",
       "date": "2026-02-27T18:34:34+00:00",
@@ -1010,5 +1026,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-02T13:03:11.107795+00:00"
+  "last_updated_utc": "2026-03-02T18:52:39.850298+00:00"
 }

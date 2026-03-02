@@ -2,6 +2,30 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Survey asks retail employees: Do you feel safe at work?",
+      "category": "SAFETY",
+      "date": "2026-03-02T17:53:54+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/survey-asks-retail-employees-do-you-feel-safe-at-work/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New Nebraska law ends safety committee mandate for private employers",
+      "category": "SAFETY",
+      "date": "2026-03-02T17:44:53+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-nebraska-law-ends-safety-committee-mandate-for-private-employers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hearing protector fit testing: New guidance from OSHA",
+      "category": "SAFETY",
+      "date": "2026-03-02T16:28:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/hearing-protector-fit-testing-new-guidance-from-osha/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "What are FDA/CFIA-Compliant Gloves?",
       "category": "SAFETY",
       "date": "2026-02-27T22:11:05+00:00",
@@ -730,5 +754,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-02T13:03:11.107795+00:00"
+  "last_updated_utc": "2026-03-02T18:52:39.850298+00:00"
 }

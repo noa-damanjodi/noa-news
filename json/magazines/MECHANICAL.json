@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "EV batteries and solar panels versus climate change",
+      "category": "MECHANICAL",
+      "date": "2026-03-02T17:02:19+00:00",
+      "url": "https://www.engineering.com/ev-batteries-and-solar-panels-versus-climate-change/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Stratasys earns EcoVadis Gold sustainability rating",
+      "category": "MECHANICAL",
+      "date": "2026-03-02T13:45:30+00:00",
+      "url": "https://www.engineering.com/stratasys-earns-ecovadis-gold-sustainability-rating/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Molex launches 145 GHz Cardinal coaxial assemblies",
       "category": "MECHANICAL",
       "date": "2026-03-02T10:23:02+00:00",
@@ -3282,5 +3298,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-02T13:03:11.107795+00:00"
+  "last_updated_utc": "2026-03-02T18:52:39.850298+00:00"
 }
