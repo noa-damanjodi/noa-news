@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Bold Ventures secures new claims near Joutel Property in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-03-02T11:01:34+00:00",
+      "url": "https://www.mining-technology.com/news/bold-ventures-secures-claims-joutel-property/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Challenger Gold begins ore transport to Casposo Plant in Argentina",
+      "category": "INDUSTRY",
+      "date": "2026-03-02T08:48:58+00:00",
+      "url": "https://www.mining-technology.com/news/challenger-gold-begins-ore-transport-to-casposo-plant-in-argentina/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Teck American to sell Utah’s Apex Mine to Blue Moon Metals",
+      "category": "INDUSTRY",
+      "date": "2026-03-02T08:39:21+00:00",
+      "url": "https://www.mining-technology.com/news/teck-american-to-sell-apex-mine-blue-moon-metals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Yimin coal mine: what 100 AI-driven electric trucks taught the mining sector",
+      "category": "INDUSTRY",
+      "date": "2026-03-02T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/yimin-coal-mine-what-electric-trucks-taught-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Atacama Resources announces acquisition of Atacama 3 site",
       "category": "INDUSTRY",
       "date": "2026-02-27T13:47:55+00:00",
@@ -1698,5 +1730,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-02T07:01:18.005927+00:00"
+  "last_updated_utc": "2026-03-02T13:03:11.107795+00:00"
 }
