@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Vertiv shifts to digital twin platform for data centers",
+      "category": "MECHANICAL",
+      "date": "2026-03-02T06:56:00+00:00",
+      "url": "https://www.engineering.com/vertiv-shifts-to-digital-twin-platform-for-data-centers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NTPC and GMDC sign two MoUs for coal supply and downstream gasification initiatives",
+      "category": "POWER",
+      "date": "2026-03-02T05:19:02+00:00",
+      "url": "https://powerline.net.in/2026/03/02/ntpc-and-gmdc-sign-two-mous-for-coal-supply-and-downstream-gasification-initiatives/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "CESC announces winners of 600 MW ISTS-connected wind-solar hybrid auction",
+      "category": "POWER",
+      "date": "2026-03-02T05:18:13+00:00",
+      "url": "https://powerline.net.in/2026/03/02/cesc-announces-winners-of-600-mw-ists-connected-wind-solar-hybrid-auction/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Waaree subsidiary receives LoA from SECI for 300 MW wind project in Gujarat",
+      "category": "POWER",
+      "date": "2026-03-02T05:17:01+00:00",
+      "url": "https://powerline.net.in/2026/03/02/waaree-subsidiary-receives-loa-from-seci-for-300-mw-wind-project-in-gujarat/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Kirloskar Brothers secures Rs 2.14 billion pump package contract from Adani Power",
+      "category": "POWER",
+      "date": "2026-03-02T05:16:07+00:00",
+      "url": "https://powerline.net.in/2026/03/02/kirloskar-brothers-secures-rs-2-14-billion-pump-package-contract-from-adani-power/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Vikram Solar secures 378.75 MW module supply order for INGEL project in Gujarat",
+      "category": "POWER",
+      "date": "2026-03-02T05:14:58+00:00",
+      "url": "https://powerline.net.in/2026/03/02/vikram-solar-secures-378-75-mw-module-supply-order-for-ingel-project-in-gujarat/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "World Bank signs USD 60 million grant agreement with Tajikistan for 500 kV transmission project",
+      "category": "POWER",
+      "date": "2026-03-02T05:13:51+00:00",
+      "url": "https://powerline.net.in/2026/03/02/world-bank-signs-usd-60-million-grant-agreement-with-tajikistan-for-500-kv-transmission-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Qair secures MUR7 billion financing for Stor’Sun solar-plus-storage project in Mauritius",
+      "category": "POWER",
+      "date": "2026-03-02T05:12:53+00:00",
+      "url": "https://powerline.net.in/2026/03/02/qair-secures-mur7-billion-financing-for-storsun-solar-plus-storage-project-in-mauritius/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Why High-Fidelity 3D Still Can’t Scale to Millions of Users (And How Miris Fixed It)",
       "category": "MECHANICAL",
       "date": "2026-03-01T08:00:00+00:00",
@@ -11050,5 +11114,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-02T02:22:11.676719+00:00"
+  "last_updated_utc": "2026-03-02T07:01:18.005927+00:00"
 }
