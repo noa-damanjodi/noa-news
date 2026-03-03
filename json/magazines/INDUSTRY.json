@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Resolution Minerals acquires Johnson Creek tungsten mill in US",
+      "category": "INDUSTRY",
+      "date": "2026-03-03T11:13:32+00:00",
+      "url": "https://www.mining-technology.com/news/resolution-minerals-acquires-johnson-creek-tungsten-mill/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Hudbay Minerals agrees to acquire Arizona Sonoran for $1.48bn",
+      "category": "INDUSTRY",
+      "date": "2026-03-03T08:18:05+00:00",
+      "url": "https://www.mining-technology.com/news/hudbay-minerals-to-acquire-arizona-sonoran/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rio Tinto to invest $473m in RBM’s Zulti South project",
+      "category": "INDUSTRY",
+      "date": "2026-03-03T08:05:41+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-to-invest-473m-in-rbms-zulti-south-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Kingfisher Mining to sell Gascoyne assets to Dreadnought Exploration",
       "category": "INDUSTRY",
       "date": "2026-03-02T14:34:11+00:00",
@@ -1746,5 +1770,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-03T06:55:11.904830+00:00"
+  "last_updated_utc": "2026-03-03T13:02:12.304930+00:00"
 }
