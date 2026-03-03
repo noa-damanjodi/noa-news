@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "9 essential perspectives from DTECH 2026",
+      "category": "RENEWABLE",
+      "date": "2026-03-03T18:27:48+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/9-essential-perspectives-from-dtech-2026/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "AES is going private in a $33B deal",
+      "category": "RENEWABLE",
+      "date": "2026-03-03T18:13:08+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/aes-is-going-private-in-a-33b-deal/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Humanoid robots to reach nearly $30 billion USD by 2036, IDTechEX reports",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-03T17:20:02+00:00",
+      "url": "https://www.automationmag.com/humanoid-robots-to-reach-nearly-30-billion-usd-by-2036-idtechex-reports/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Onshape adds MBD for all users",
+      "category": "MECHANICAL",
+      "date": "2026-03-03T17:15:13+00:00",
+      "url": "https://www.engineering.com/onshape-adds-mbd-for-all-users/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Washington state initiates rulemaking for pregnancy-related accommodations at work",
+      "category": "SAFETY",
+      "date": "2026-03-03T15:51:38+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/washington-state-initiates-rulemaking-for-pregnancy-related-accommodations-at-work/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Study links workplace factors to elevated risk of long COVID",
+      "category": "SAFETY",
+      "date": "2026-03-03T15:46:37+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/study-links-workplace-factors-to-elevated-risk-of-long-covid/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Virginia targets surplus interconnection capacity in first-of-its-kind legislation",
+      "category": "RENEWABLE",
+      "date": "2026-03-03T15:29:08+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/virginia-targets-surplus-interconnection-capacity-in-first-of-its-kind-legislation/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Resolution Minerals acquires Johnson Creek tungsten mill in US",
       "category": "INDUSTRY",
       "date": "2026-03-03T11:13:32+00:00",
@@ -11426,5 +11482,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-03T13:02:12.304930+00:00"
+  "last_updated_utc": "2026-03-03T18:54:31.604415+00:00"
 }
