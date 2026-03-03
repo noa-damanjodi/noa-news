@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "CERC notifies CERC (Terms and Conditions for Purchase and Sale of Carbon Credit Certificates) Regulations, 2026",
+      "category": "POWER",
+      "date": "2026-03-03T05:35:03+00:00",
+      "url": "https://powerline.net.in/2026/03/03/cerc-notifies-cerc-terms-and-conditions-for-purchase-and-sale-of-carbon-credit-certificates-regulations-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "AGEL commissions 185 MW wind project in Gujarat",
+      "category": "POWER",
+      "date": "2026-03-03T05:34:04+00:00",
+      "url": "https://powerline.net.in/2026/03/03/agel-commissions-185-mw-wind-project-in-gujarat/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "AERB approves FPC for Kaiga nuclear power plant units 5 and 6",
+      "category": "POWER",
+      "date": "2026-03-03T05:33:02+00:00",
+      "url": "https://powerline.net.in/2026/03/03/aerb-approves-fpc-for-kaiga-nuclear-power-plant-units-5-and-6/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "GAIL approves setting up 178.2 MW greenfield wind project in Maharashtra",
+      "category": "POWER",
+      "date": "2026-03-03T05:32:08+00:00",
+      "url": "https://powerline.net.in/2026/03/03/gail-approves-setting-up-178-2-mw-greenfield-wind-project-in-maharashtra/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "TNERC approves 1,500 MWh BESS projects in Tamil Nadu for RTC renewable power supply",
+      "category": "POWER",
+      "date": "2026-03-03T05:31:18+00:00",
+      "url": "https://powerline.net.in/2026/03/03/tnerc-approves-1500-mwh-bess-projects-in-tamil-nadu-for-rtc-renewable-power-supply/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "RenewSys signs agreement to supply 125 MWp TOPCon modules to ENGIE for Rajasthan project",
+      "category": "POWER",
+      "date": "2026-03-03T05:30:08+00:00",
+      "url": "https://powerline.net.in/2026/03/03/renewsys-signs-agreement-to-supply-125-mwp-topcon-modules-to-engie-for-rajasthan-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Marubeni, Hyosung and Skeleton sign MoU to develop e-STATCOM grid stabilisation system",
+      "category": "POWER",
+      "date": "2026-03-03T05:28:59+00:00",
+      "url": "https://powerline.net.in/2026/03/03/marubeni-hyosung-and-skeleton-sign-mou-to-develop-e-statcom-grid-stabilisation-system/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Zambia signs implementation agreement with Goldenray Energy for 118 MWp solar project",
+      "category": "POWER",
+      "date": "2026-03-03T05:27:52+00:00",
+      "url": "https://powerline.net.in/2026/03/03/zambia-signs-implementation-agreement-with-goldenray-energy-for-118-mwp-solar-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "How high-resolution outage and flood modeling improves utility response and grid restoration",
       "category": "RENEWABLE",
       "date": "2026-03-02T19:58:50+00:00",
@@ -5575,6 +5639,14 @@
       "date": "2026-02-05T05:59:52+00:00",
       "url": "https://powerline.net.in/2026/02/05/cepcc-completes-high-voltage-testing-for-380-kv-underground-cable-project-in-riyadh/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "238 chainflex cables receive certificate for use in dry cleanrooms",
+      "category": "ELECTRICAL",
+      "date": "2026-02-05T05:47:19+00:00",
+      "url": "https://www.electricalindia.in/238-chainflex-cables-receive-certificate-for-use-in-dry-cleanrooms/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -11282,5 +11354,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-03T02:24:12.264252+00:00"
+  "last_updated_utc": "2026-03-03T06:55:11.904830+00:00"
 }
