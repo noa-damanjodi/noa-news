@@ -2,6 +2,30 @@
   "category": "ALL",
   "items": [
     {
+      "title": "How high-resolution outage and flood modeling improves utility response and grid restoration",
+      "category": "RENEWABLE",
+      "date": "2026-03-02T19:58:50+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/how-high-resolution-outage-and-flood-modeling-improves-utility-response-and-grid-restoration/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Eco Wave Power sets eyes on South Africa with ‘encouraging’ wave energy feasibility study",
+      "category": "RENEWABLE",
+      "date": "2026-03-02T19:22:05+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/eco-wave-power-sets-eyes-on-south-africa-with-encouraging-wave-energy-feasibility-study/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "NYPA upgrades first of 14 turbines in $1.1B Niagara modernization, digitization program",
+      "category": "RENEWABLE",
+      "date": "2026-03-02T19:12:20+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/nypa-upgrades-first-of-14-turbines-in-1-1b-niagara-modernization-digitization-program/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "S&P Global Canada PMI hits 51.0, marks 13-month high",
       "category": "INSTRUMENTATION",
       "date": "2026-03-02T18:13:38+00:00",
@@ -55,6 +79,14 @@
       "date": "2026-03-02T16:25:21+00:00",
       "url": "https://www.renewableenergyworld.com/power-grid/microgrid/keeping-cool-chp-systems-and-absorption-chillers-are-a-winning-combo-for-data-center-developers/",
       "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Kingfisher Mining to sell Gascoyne assets to Dreadnought Exploration",
+      "category": "INDUSTRY",
+      "date": "2026-03-02T14:34:11+00:00",
+      "url": "https://www.mining-technology.com/news/kingfisher-mining-sell-gascoyne-assets-dreadnought-exploration/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -11250,5 +11282,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-02T18:52:39.850298+00:00"
+  "last_updated_utc": "2026-03-03T02:24:12.264252+00:00"
 }

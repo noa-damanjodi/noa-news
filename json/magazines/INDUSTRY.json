@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Kingfisher Mining to sell Gascoyne assets to Dreadnought Exploration",
+      "category": "INDUSTRY",
+      "date": "2026-03-02T14:34:11+00:00",
+      "url": "https://www.mining-technology.com/news/kingfisher-mining-sell-gascoyne-assets-dreadnought-exploration/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Dateline Resources acquires Music Valley rare earths project in US",
       "category": "INDUSTRY",
       "date": "2026-03-02T14:25:03+00:00",
@@ -1738,5 +1746,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-02T18:52:39.850298+00:00"
+  "last_updated_utc": "2026-03-03T02:24:12.264252+00:00"
 }
