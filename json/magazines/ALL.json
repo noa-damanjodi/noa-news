@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Duke engineers uncover inflation of next-gen transistor performance",
+      "category": "MECHANICAL",
+      "date": "2026-03-03T22:12:54+00:00",
+      "url": "https://www.engineering.com/duke-engineers-uncover-inflation-of-next-gen-transistor-performance/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "What can we do about 3D printed guns?",
+      "category": "MECHANICAL",
+      "date": "2026-03-03T20:31:03+00:00",
+      "url": "https://www.engineering.com/what-can-we-do-about-3d-printed-guns/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DOL OIG to audit OSHA’s workplace violence prevention efforts",
+      "category": "SAFETY",
+      "date": "2026-03-03T20:23:20+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/dol-oig-to-audit-osha-workplace-violence-prevention-efforts/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Moving toward open standards and high-quality utility data with Landis+Gyr | DTECH Interview Studio",
+      "category": "RENEWABLE",
+      "date": "2026-03-03T20:14:19+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/moving-toward-open-standards-and-high-quality-utility-data-with-landisgyr-dtech-interview-studio/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "$50 million worth of solar panels headed for ‘highly visible’ state lands in Maryland",
+      "category": "RENEWABLE",
+      "date": "2026-03-03T19:54:09+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/50-million-worth-of-solar-panels-headed-for-highly-visible-state-lands-in-maryland/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Dropping a line: ‘Transformative’ $2.5B Puerto Rico power project includes new HVDC submarine interconnection cable",
+      "category": "RENEWABLE",
+      "date": "2026-03-03T19:45:48+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/dropping-a-line-transformative-2-5b-puerto-rico-power-project-includes-new-hvdc-submarine-interconnection-cable/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "OEMs are focusing on faster recovery, operational consistency, Rockwell Automation research finds",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-03T19:44:31+00:00",
+      "url": "https://www.automationmag.com/oems-are-focusing-on-faster-recovery-operational-consistency-rockwell-automation-research-finds/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "9 essential perspectives from DTECH 2026",
       "category": "RENEWABLE",
       "date": "2026-03-03T18:27:48+00:00",
@@ -55,6 +111,22 @@
       "date": "2026-03-03T15:29:08+00:00",
       "url": "https://www.renewableenergyworld.com/solar/virginia-targets-surplus-interconnection-capacity-in-first-of-its-kind-legislation/",
       "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Sandvik Mining launches cloud-based digital service My Sandvik Geo",
+      "category": "INDUSTRY",
+      "date": "2026-03-03T14:11:44+00:00",
+      "url": "https://www.mining-technology.com/news/sandvik-mining-launches-my-sandvik-geo/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "MacLean receives $2.5m for BEV research to support mining operations",
+      "category": "INDUSTRY",
+      "date": "2026-03-03T14:11:20+00:00",
+      "url": "https://www.mining-technology.com/news/maclean-receives-2-5m-for-bev-research/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -11482,5 +11554,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-03T18:54:31.604415+00:00"
+  "last_updated_utc": "2026-03-04T02:10:32.379345+00:00"
 }
