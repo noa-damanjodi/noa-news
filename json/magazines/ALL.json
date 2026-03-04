@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "AGTEK launches Reveal Transform AI module",
+      "category": "MECHANICAL",
+      "date": "2026-03-04T05:15:25+00:00",
+      "url": "https://www.engineering.com/agtek-launches-reveal-transform-ai-module/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Duke engineers uncover inflation of next-gen transistor performance",
       "category": "MECHANICAL",
       "date": "2026-03-03T22:12:54+00:00",
@@ -11554,5 +11562,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-04T02:10:32.379345+00:00"
+  "last_updated_utc": "2026-03-04T06:51:54.084767+00:00"
 }
