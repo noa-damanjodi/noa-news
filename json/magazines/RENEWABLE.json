@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Rethinking decarbonization markets – The invisible infrastructure and systems thinking paradox",
+      "category": "RENEWABLE",
+      "date": "2026-03-04T13:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/rethinking-decarbonization-markets-the-invisible-infrastructure-and-systems-thinking-paradox/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Moving toward open standards and high-quality utility data with Landis+Gyr | DTECH Interview Studio",
       "category": "RENEWABLE",
       "date": "2026-03-03T20:14:19+00:00",
@@ -1098,5 +1106,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-04T06:51:54.084767+00:00"
+  "last_updated_utc": "2026-03-04T13:01:09.968568+00:00"
 }

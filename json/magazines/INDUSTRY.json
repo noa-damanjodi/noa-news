@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Maronan Metals secures MDL for silver project in Australia",
+      "category": "INDUSTRY",
+      "date": "2026-03-04T10:42:31+00:00",
+      "url": "https://www.mining-technology.com/news/maronan-metals-wins-mdl-silver-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Vortex Metals starts phase two work at Illapel project, Chile",
+      "category": "INDUSTRY",
+      "date": "2026-03-04T09:14:28+00:00",
+      "url": "https://www.mining-technology.com/news/vortex-metals-phase-ii-work-illapel-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Blackrock Silver’s Tonopah West project secures Class II air quality permit",
+      "category": "INDUSTRY",
+      "date": "2026-03-04T09:06:52+00:00",
+      "url": "https://www.mining-technology.com/news/blackrock-silvers-tonopah-west-class-ii-air-quality-permit/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Sandvik Mining launches cloud-based digital service My Sandvik Geo",
       "category": "INDUSTRY",
       "date": "2026-03-03T14:11:44+00:00",
@@ -1786,5 +1810,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-04T06:51:54.084767+00:00"
+  "last_updated_utc": "2026-03-04T13:01:09.968568+00:00"
 }

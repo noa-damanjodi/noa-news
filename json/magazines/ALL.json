@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Rethinking decarbonization markets – The invisible infrastructure and systems thinking paradox",
+      "category": "RENEWABLE",
+      "date": "2026-03-04T13:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/rethinking-decarbonization-markets-the-invisible-infrastructure-and-systems-thinking-paradox/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Maronan Metals secures MDL for silver project in Australia",
+      "category": "INDUSTRY",
+      "date": "2026-03-04T10:42:31+00:00",
+      "url": "https://www.mining-technology.com/news/maronan-metals-wins-mdl-silver-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Vortex Metals starts phase two work at Illapel project, Chile",
+      "category": "INDUSTRY",
+      "date": "2026-03-04T09:14:28+00:00",
+      "url": "https://www.mining-technology.com/news/vortex-metals-phase-ii-work-illapel-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Innatera selects Synopsys for neuromorphic chip design",
+      "category": "MECHANICAL",
+      "date": "2026-03-04T09:09:29+00:00",
+      "url": "https://www.engineering.com/innatera-selects-synopsys-for-neuromorphic-chip-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Blackrock Silver’s Tonopah West project secures Class II air quality permit",
+      "category": "INDUSTRY",
+      "date": "2026-03-04T09:06:52+00:00",
+      "url": "https://www.mining-technology.com/news/blackrock-silvers-tonopah-west-class-ii-air-quality-permit/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens launches Questa One Agentic Toolkit for IC verification",
+      "category": "MECHANICAL",
+      "date": "2026-03-04T08:54:53+00:00",
+      "url": "https://www.engineering.com/siemens-launches-questa-one-agentic-toolkit-for-ic-verification/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Akash launches diamond-cooled AI servers with AMD GPUs",
+      "category": "MECHANICAL",
+      "date": "2026-03-04T08:11:11+00:00",
+      "url": "https://www.engineering.com/akash-launches-diamond-cooled-ai-servers-with-amd-gpus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SK Telecom, Supermicro, Schneider Electric partner on AI data centers",
+      "category": "MECHANICAL",
+      "date": "2026-03-04T07:55:12+00:00",
+      "url": "https://www.engineering.com/sk-telecom-supermicro-schneider-electric-partner-on-ai-data-centers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens to deploy cloud SCADA for Australian renewables",
+      "category": "MECHANICAL",
+      "date": "2026-03-04T07:44:17+00:00",
+      "url": "https://www.engineering.com/siemens-to-deploy-cloud-scada-for-australian-renewables/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "AGTEK launches Reveal Transform AI module",
       "category": "MECHANICAL",
       "date": "2026-03-04T05:15:25+00:00",
@@ -11562,5 +11634,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-04T06:51:54.084767+00:00"
+  "last_updated_utc": "2026-03-04T13:01:09.968568+00:00"
 }

@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Innatera selects Synopsys for neuromorphic chip design",
+      "category": "MECHANICAL",
+      "date": "2026-03-04T09:09:29+00:00",
+      "url": "https://www.engineering.com/innatera-selects-synopsys-for-neuromorphic-chip-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens launches Questa One Agentic Toolkit for IC verification",
+      "category": "MECHANICAL",
+      "date": "2026-03-04T08:54:53+00:00",
+      "url": "https://www.engineering.com/siemens-launches-questa-one-agentic-toolkit-for-ic-verification/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Akash launches diamond-cooled AI servers with AMD GPUs",
+      "category": "MECHANICAL",
+      "date": "2026-03-04T08:11:11+00:00",
+      "url": "https://www.engineering.com/akash-launches-diamond-cooled-ai-servers-with-amd-gpus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SK Telecom, Supermicro, Schneider Electric partner on AI data centers",
+      "category": "MECHANICAL",
+      "date": "2026-03-04T07:55:12+00:00",
+      "url": "https://www.engineering.com/sk-telecom-supermicro-schneider-electric-partner-on-ai-data-centers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens to deploy cloud SCADA for Australian renewables",
+      "category": "MECHANICAL",
+      "date": "2026-03-04T07:44:17+00:00",
+      "url": "https://www.engineering.com/siemens-to-deploy-cloud-scada-for-australian-renewables/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "AGTEK launches Reveal Transform AI module",
       "category": "MECHANICAL",
       "date": "2026-03-04T05:15:25+00:00",
@@ -3378,5 +3418,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-04T06:51:54.084767+00:00"
+  "last_updated_utc": "2026-03-04T13:01:09.968568+00:00"
 }
