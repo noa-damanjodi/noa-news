@@ -2,6 +2,30 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Using AI for engineering optimization",
+      "category": "MECHANICAL",
+      "date": "2026-03-04T21:40:49+00:00",
+      "url": "https://www.engineering.com/using-ai-for-engineering-optimization/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Enverus to acquire AI-enabled design automation platform for utilities",
+      "category": "RENEWABLE",
+      "date": "2026-03-04T20:24:27+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/enverus-to-acquire-ai-enabled-design-automation-platform-for-utilities/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Smart city success starts with sharing data, but what’s next?",
+      "category": "RENEWABLE",
+      "date": "2026-03-04T19:47:25+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/smart-city-success-starts-with-sharing-data-but-whats-next/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "OSHA issues resources for Safety Champions Program",
       "category": "SAFETY",
       "date": "2026-03-04T18:40:53+00:00",
@@ -55,6 +79,14 @@
       "date": "2026-03-04T13:38:51+00:00",
       "url": "https://www.safetyandhealthmagazine.com/arizona-moving-to-update-youth-labor-laws-and-rules/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Middle East tensions stall gold and silver shipments in Dubai",
+      "category": "INDUSTRY",
+      "date": "2026-03-04T13:29:33+00:00",
+      "url": "https://www.mining-technology.com/news/middle-east-tensions-stall-gold-and-silver-shipments-dubai/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -11698,5 +11730,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-04T18:54:34.799588+00:00"
+  "last_updated_utc": "2026-03-05T02:21:10.437717+00:00"
 }
