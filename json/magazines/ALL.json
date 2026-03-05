@@ -2,7 +2,119 @@
   "category": "ALL",
   "items": [
     {
-      "title": "“Right-Sizing” Utility Wildfire Investments for Smaller Utilities",
+      "title": "Alabama Power installs Tesla Megapacks at former coal plant site for state’s first utility-scale BESS project",
+      "category": "RENEWABLE",
+      "date": "2026-03-05T18:54:25+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/alabama-power-installs-tesla-megapacks-at-former-coal-plant-site-for-states-first-bess-project/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Trump says deal on data centers will lower electricity prices as tech companies vow to cover costs",
+      "category": "RENEWABLE",
+      "date": "2026-03-05T18:46:49+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/trump-says-deal-on-data-centers-will-lower-electricity-prices-as-tech-companies-vow-to-cover-costs/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "USDA seeking to change line-speed restrictions in some meat-processing plants",
+      "category": "SAFETY",
+      "date": "2026-03-05T18:35:33+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/usda-seeking-to-change-line-speed-restrictions-in-some-meat-processing-plants/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Deutsche Messe establishes dedicated business unit for Hannover MESSE",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-05T18:35:03+00:00",
+      "url": "https://www.automationmag.com/deutsche-messe-establishes-dedicated-business-unit-for-hannover-messe/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "POWERGEN 2026: The DR aura 412 is responsive by design and reliable by nature",
+      "category": "RENEWABLE",
+      "date": "2026-03-05T17:28:54+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/powergen-2026-the-dr-aura-412-natural-gas-generator/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Beyond the fuel tank: advanced approaches for mining efficiency",
+      "category": "INDUSTRY",
+      "date": "2026-03-05T17:21:53+00:00",
+      "url": "https://www.mining-technology.com/sponsored/beyond-the-fuel-tank-advanced-approaches-for-mining-efficiency/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "How to bring private 5G to life in mining: A five-step path to safer, smarter operations",
+      "category": "INDUSTRY",
+      "date": "2026-03-05T16:42:53+00:00",
+      "url": "https://www.mining-technology.com/sponsored/how-to-bring-private-5g-to-life-in-mining-a-five-step-path-to-safer-smarter-operations/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Tempest Minerals signs agreement to acquire Zealandia",
+      "category": "INDUSTRY",
+      "date": "2026-03-05T14:46:28+00:00",
+      "url": "https://www.mining-technology.com/news/tempest-minerals-agreement-to-acquire-zealandia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Aluminium prices hit high after Alba suspends metal deliveries",
+      "category": "INDUSTRY",
+      "date": "2026-03-05T14:39:26+00:00",
+      "url": "https://www.mining-technology.com/news/aluminium-prices-high-alba-suspends-metal-deliveries/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "EPA again delays provisions of trichloroethylene ban",
+      "category": "SAFETY",
+      "date": "2026-03-05T14:24:37+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/epa-again-delays-provisions-of-trichloroethylene-ban/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Future Electronics adds SnapMagic CAD models to online catalog",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T14:23:24+00:00",
+      "url": "https://www.engineering.com/future-electronics-adds-snapmagic-cad-models-to-online-catalog/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ExxonMobil and military research team earn NIOSH Safe-in-Sound awards",
+      "category": "SAFETY",
+      "date": "2026-03-05T14:14:05+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/exxonmobil-and-military-research-team-earn-niosh-safe-in-sound-awards/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC adds cloud-native MBD tools to Onshape platform",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T13:57:28+00:00",
+      "url": "https://www.engineering.com/ptc-adds-cloud-native-mbd-tools-to-onshape-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble Roadworks adds GPR sensor for asphalt compaction data",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T13:46:47+00:00",
+      "url": "https://www.engineering.com/trimble-roadworks-adds-gpr-sensor-for-asphalt-compaction-data/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Right-sizing utility wildfire investments for smaller utilities",
       "category": "RENEWABLE",
       "date": "2026-03-05T12:59:20+00:00",
       "url": "https://www.renewableenergyworld.com/power-grid/right-sizing-utility-wildfire-investments-for-smaller-utilities/",
@@ -34,6 +146,14 @@
       "type": "magazine"
     },
     {
+      "title": "Trimble Earthworks adds swing boom support and new machines",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T10:57:00+00:00",
+      "url": "https://www.engineering.com/trimble-earthworks-adds-swing-boom-support-and-new-machines/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Mining Technology’s parent company GlobalData moves to Main Market of LSE",
       "category": "INDUSTRY",
       "date": "2026-03-05T10:02:30+00:00",
@@ -47,6 +167,22 @@
       "date": "2026-03-05T09:37:53+00:00",
       "url": "https://www.mining-technology.com/news/cove-capital-ahq-mou-critical-minerals-projects/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Akamai adds NVIDIA Blackwell GPUs to distributed cloud",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T09:37:00+00:00",
+      "url": "https://www.engineering.com/akamai-adds-nvidia-blackwell-gpus-to-distributed-cloud/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA signs optics agreements with Lumentum for AI links",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T09:02:00+00:00",
+      "url": "https://www.engineering.com/nvidia-signs-optics-agreements-with-lumentum-for-ai-links/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -170,7 +306,7 @@
       "type": "magazine"
     },
     {
-      "title": "OSHA issues resources for Safety Champions Program",
+      "title": "OSHA publishes resources for Safety Champions Program",
       "category": "SAFETY",
       "date": "2026-03-04T18:40:53+00:00",
       "url": "https://www.safetyandhealthmagazine.com/osha-issues-resources-for-safety-champions-program/",
@@ -11874,5 +12010,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-05T13:04:55.863050+00:00"
+  "last_updated_utc": "2026-03-05T19:17:48.224047+00:00"
 }

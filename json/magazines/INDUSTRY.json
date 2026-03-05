@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Beyond the fuel tank: advanced approaches for mining efficiency",
+      "category": "INDUSTRY",
+      "date": "2026-03-05T17:21:53+00:00",
+      "url": "https://www.mining-technology.com/sponsored/beyond-the-fuel-tank-advanced-approaches-for-mining-efficiency/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "How to bring private 5G to life in mining: A five-step path to safer, smarter operations",
+      "category": "INDUSTRY",
+      "date": "2026-03-05T16:42:53+00:00",
+      "url": "https://www.mining-technology.com/sponsored/how-to-bring-private-5g-to-life-in-mining-a-five-step-path-to-safer-smarter-operations/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Tempest Minerals signs agreement to acquire Zealandia",
+      "category": "INDUSTRY",
+      "date": "2026-03-05T14:46:28+00:00",
+      "url": "https://www.mining-technology.com/news/tempest-minerals-agreement-to-acquire-zealandia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Aluminium prices hit high after Alba suspends metal deliveries",
+      "category": "INDUSTRY",
+      "date": "2026-03-05T14:39:26+00:00",
+      "url": "https://www.mining-technology.com/news/aluminium-prices-high-alba-suspends-metal-deliveries/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Mining Technology’s parent company GlobalData moves to Main Market of LSE",
       "category": "INDUSTRY",
       "date": "2026-03-05T10:02:30+00:00",
@@ -1858,5 +1890,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-05T13:04:55.863050+00:00"
+  "last_updated_utc": "2026-03-05T19:17:48.224047+00:00"
 }

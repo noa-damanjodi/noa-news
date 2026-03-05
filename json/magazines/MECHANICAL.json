@@ -2,10 +2,58 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Future Electronics adds SnapMagic CAD models to online catalog",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T14:23:24+00:00",
+      "url": "https://www.engineering.com/future-electronics-adds-snapmagic-cad-models-to-online-catalog/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC adds cloud-native MBD tools to Onshape platform",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T13:57:28+00:00",
+      "url": "https://www.engineering.com/ptc-adds-cloud-native-mbd-tools-to-onshape-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble Roadworks adds GPR sensor for asphalt compaction data",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T13:46:47+00:00",
+      "url": "https://www.engineering.com/trimble-roadworks-adds-gpr-sensor-for-asphalt-compaction-data/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Siemens, Palo Alto verify cybersecurity for private 5G",
       "category": "MECHANICAL",
       "date": "2026-03-05T11:52:28+00:00",
       "url": "https://www.engineering.com/siemens-palo-alto-verify-cybersecurity-for-private-5g/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble Earthworks adds swing boom support and new machines",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T10:57:00+00:00",
+      "url": "https://www.engineering.com/trimble-earthworks-adds-swing-boom-support-and-new-machines/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Akamai adds NVIDIA Blackwell GPUs to distributed cloud",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T09:37:00+00:00",
+      "url": "https://www.engineering.com/akamai-adds-nvidia-blackwell-gpus-to-distributed-cloud/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA signs optics agreements with Lumentum for AI links",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T09:02:00+00:00",
+      "url": "https://www.engineering.com/nvidia-signs-optics-agreements-with-lumentum-for-ai-links/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -3450,5 +3498,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-05T13:04:55.863050+00:00"
+  "last_updated_utc": "2026-03-05T19:17:48.224047+00:00"
 }
