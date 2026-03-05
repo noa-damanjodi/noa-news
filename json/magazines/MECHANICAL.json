@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Siemens, Palo Alto verify cybersecurity for private 5G",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T11:52:28+00:00",
+      "url": "https://www.engineering.com/siemens-palo-alto-verify-cybersecurity-for-private-5g/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Ronal Group standardizes remote access with Rockwell tools",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T08:19:00+00:00",
+      "url": "https://www.engineering.com/ronal-group-standardizes-remote-access-with-rockwell-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Falcon Electronics earns CMMC Level 2 certification",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T08:15:00+00:00",
+      "url": "https://www.engineering.com/falcon-electronics-earns-cmmc-level-2-certification/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Using AI for engineering optimization",
       "category": "MECHANICAL",
       "date": "2026-03-04T21:40:49+00:00",
@@ -3426,5 +3450,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-05T06:55:41.346564+00:00"
+  "last_updated_utc": "2026-03-05T13:04:55.863050+00:00"
 }

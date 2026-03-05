@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "“Right-Sizing” Utility Wildfire Investments for Smaller Utilities",
+      "category": "RENEWABLE",
+      "date": "2026-03-05T12:59:20+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/right-sizing-utility-wildfire-investments-for-smaller-utilities/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens, Palo Alto verify cybersecurity for private 5G",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T11:52:28+00:00",
+      "url": "https://www.engineering.com/siemens-palo-alto-verify-cybersecurity-for-private-5g/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Key Statistics: Source-wise power capacity and generation trends",
+      "category": "POWER",
+      "date": "2026-03-05T11:38:05+00:00",
+      "url": "https://powerline.net.in/2026/03/05/key-statistics-source-wise-power-capacity-and-generation-trends/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Green Energy Future: Emerging opportunities in the renewables sector",
+      "category": "POWER",
+      "date": "2026-03-05T11:09:20+00:00",
+      "url": "https://powerline.net.in/2026/03/05/green-energy-future-emerging-opportunities-in-the-renewables-sector/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Mining Technology’s parent company GlobalData moves to Main Market of LSE",
+      "category": "INDUSTRY",
+      "date": "2026-03-05T10:02:30+00:00",
+      "url": "https://www.mining-technology.com/news/globaldata-main-market-lse-5/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Cove Capital, AHQ sign MoU for critical minerals projects",
+      "category": "INDUSTRY",
+      "date": "2026-03-05T09:37:53+00:00",
+      "url": "https://www.mining-technology.com/news/cove-capital-ahq-mou-critical-minerals-projects/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Canstar signs LoI to acquire three exploration licences in Sweden",
+      "category": "INDUSTRY",
+      "date": "2026-03-05T08:56:19+00:00",
+      "url": "https://www.mining-technology.com/news/canstar-signs-loi-acquire-exploration-licences/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "SSR Mining to divest 80% stake in Çöpler Mine for $1.5bn",
+      "category": "INDUSTRY",
+      "date": "2026-03-05T08:50:27+00:00",
+      "url": "https://www.mining-technology.com/news/ssr-mining-to-divest-80-stake-copler-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Ronal Group standardizes remote access with Rockwell tools",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T08:19:00+00:00",
+      "url": "https://www.engineering.com/ronal-group-standardizes-remote-access-with-rockwell-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Falcon Electronics earns CMMC Level 2 certification",
+      "category": "MECHANICAL",
+      "date": "2026-03-05T08:15:00+00:00",
+      "url": "https://www.engineering.com/falcon-electronics-earns-cmmc-level-2-certification/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "February Issue 2026",
       "category": "POWER",
       "date": "2026-03-05T05:34:34+00:00",
@@ -11794,5 +11874,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-05T06:55:41.346564+00:00"
+  "last_updated_utc": "2026-03-05T13:04:55.863050+00:00"
 }
