@@ -2,6 +2,38 @@
   "category": "POWER",
   "items": [
     {
+      "title": "Group Nirmal: Engineering the Power Transition",
+      "category": "POWER",
+      "date": "2026-03-06T11:31:14+00:00",
+      "url": "https://powerline.net.in/2026/03/06/group-nirmal-engineering-the-power-transition/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Powering the Transition: Budget 2026-27 seeks to build capacity and energy security",
+      "category": "POWER",
+      "date": "2026-03-06T11:11:13+00:00",
+      "url": "https://powerline.net.in/2026/03/06/powering-the-transition-budget-2026-27-seeks-to-build-capacity-and-energy-security/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Managing Critical Assets: O&M best practices for coal and ash handling plants",
+      "category": "POWER",
+      "date": "2026-03-06T10:53:06+00:00",
+      "url": "https://powerline.net.in/2026/03/06/managing-critical-assets-om-best-practices-for-coal-and-ash-handling-plants/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Keeping the Lights On: MISO’s transmission expansion plan to strengthen the US power grid",
+      "category": "POWER",
+      "date": "2026-03-06T09:54:27+00:00",
+      "url": "https://powerline.net.in/2026/03/06/keeping-the-lights-on-misos-transmission-expansion-plan-to-strengthen-the-us-power-grid/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "SJVN announces winners of 600 MW ISTS-connected wind power auction",
       "category": "POWER",
       "date": "2026-03-06T06:10:02+00:00",
@@ -2978,5 +3010,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-06T06:53:15.403796+00:00"
+  "last_updated_utc": "2026-03-06T13:00:26.594451+00:00"
 }

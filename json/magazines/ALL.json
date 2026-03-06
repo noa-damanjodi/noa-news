@@ -2,6 +2,126 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Factor This finance and project development roundup: Avantus, Pivot, PFIFFNER, Qnetic, Recurrent",
+      "category": "RENEWABLE",
+      "date": "2026-03-06T12:59:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/energy-finance/factor-this-finance-and-project-development-roundup-avantus-pivot-pfiffner-qnetic-recurrent/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "USAC secures $27m for domestic critical materials extraction",
+      "category": "INDUSTRY",
+      "date": "2026-03-06T12:27:04+00:00",
+      "url": "https://www.mining-technology.com/news/usac-domestic-critical-materials-extraction/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Group Nirmal: Engineering the Power Transition",
+      "category": "POWER",
+      "date": "2026-03-06T11:31:14+00:00",
+      "url": "https://powerline.net.in/2026/03/06/group-nirmal-engineering-the-power-transition/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Powering the Transition: Budget 2026-27 seeks to build capacity and energy security",
+      "category": "POWER",
+      "date": "2026-03-06T11:11:13+00:00",
+      "url": "https://powerline.net.in/2026/03/06/powering-the-transition-budget-2026-27-seeks-to-build-capacity-and-energy-security/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Managing Critical Assets: O&M best practices for coal and ash handling plants",
+      "category": "POWER",
+      "date": "2026-03-06T10:53:06+00:00",
+      "url": "https://powerline.net.in/2026/03/06/managing-critical-assets-om-best-practices-for-coal-and-ash-handling-plants/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NexGen’s Rook I Uranium Project secures final federal approval",
+      "category": "INDUSTRY",
+      "date": "2026-03-06T10:34:25+00:00",
+      "url": "https://www.mining-technology.com/news/nexgens-rook-i-uranium-project-final-federal-approval/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Keeping the Lights On: MISO’s transmission expansion plan to strengthen the US power grid",
+      "category": "POWER",
+      "date": "2026-03-06T09:54:27+00:00",
+      "url": "https://powerline.net.in/2026/03/06/keeping-the-lights-on-misos-transmission-expansion-plan-to-strengthen-the-us-power-grid/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "InnovMetric integrates FARO Creaform scanners in PolyWorks",
+      "category": "MECHANICAL",
+      "date": "2026-03-06T09:39:12+00:00",
+      "url": "https://www.engineering.com/innovmetric-integrates-faro-creaform-scanners-in-polyworks/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble and Hyundai enable upgrade to Earthworks 3D platform",
+      "category": "MECHANICAL",
+      "date": "2026-03-06T09:26:24+00:00",
+      "url": "https://www.engineering.com/trimble-and-hyundai-enable-upgrade-to-earthworks-3d-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA, Coherent strike multiyear optics agreement",
+      "category": "MECHANICAL",
+      "date": "2026-03-06T09:24:00+00:00",
+      "url": "https://www.engineering.com/nvidia-coherent-strike-multiyear-optics-agreement/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AFM Capital acquires majority stake in Incodema3D",
+      "category": "MECHANICAL",
+      "date": "2026-03-06T09:23:59+00:00",
+      "url": "https://www.engineering.com/afm-capital-acquires-majority-stake-in-incodema3d/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMUG awards 2026 scholarships to Li Yang and Abby Stamper",
+      "category": "MECHANICAL",
+      "date": "2026-03-06T09:14:00+00:00",
+      "url": "https://www.engineering.com/amug-awards-2026-scholarships-to-li-yang-and-abby-stamper/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Pan American finds four new veins at La Colorada mine in Mexico",
+      "category": "INDUSTRY",
+      "date": "2026-03-06T09:08:21+00:00",
+      "url": "https://www.mining-technology.com/news/pan-american-finds-four-veins-la-colorada-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metso to supply equipment for Blackwater Mine phase two project in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-03-06T08:59:47+00:00",
+      "url": "https://www.mining-technology.com/news/metso-to-supply-equipment-for-blackwater-mine-phase-two-project-in-canada/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "EON Reality launches Genesis 3.0 training platform",
+      "category": "MECHANICAL",
+      "date": "2026-03-06T08:31:00+00:00",
+      "url": "https://www.engineering.com/eon-reality-launches-genesis-3-0-training-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "SJVN announces winners of 600 MW ISTS-connected wind power auction",
       "category": "POWER",
       "date": "2026-03-06T06:10:02+00:00",
@@ -12098,5 +12218,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-06T06:53:15.403796+00:00"
+  "last_updated_utc": "2026-03-06T13:00:26.594451+00:00"
 }
