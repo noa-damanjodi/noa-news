@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "The hidden potential of Trump’s critical minerals stockpile",
+      "category": "RENEWABLE",
+      "date": "2026-03-05T20:20:23+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/the-hidden-potential-of-trumps-critical-minerals-stockpile/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Alabama Power installs Tesla Megapacks at former coal plant site for state’s first utility-scale BESS project",
       "category": "RENEWABLE",
       "date": "2026-03-05T18:54:25+00:00",
@@ -12010,5 +12018,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-05T19:17:48.224047+00:00"
+  "last_updated_utc": "2026-03-06T02:12:09.997803+00:00"
 }
