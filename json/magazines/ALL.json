@@ -2,6 +2,30 @@
   "category": "ALL",
   "items": [
     {
+      "title": "‘Efficiency, efficiency, efficiency’: Lessons on AI, robotics and more from the Hannover MESSE Press Preview 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-06T16:22:54+00:00",
+      "url": "https://www.automationmag.com/efficiency-efficiency-efficiency-lessons-on-ai-robotics-and-more-from-the-hannover-messe-press-preview-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "goodBytz wins 2026 Robotics Award at Hannover MESSE Press Preview 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-06T16:12:30+00:00",
+      "url": "https://www.automationmag.com/goodbytz-wins-2026-robotics-award-at-hannover-messe-press-preview-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens expands circuit protection, introduces refurbished starter",
+      "category": "MECHANICAL",
+      "date": "2026-03-06T15:18:20+00:00",
+      "url": "https://www.engineering.com/siemens-expands-circuit-protection-introduces-refurbished-starter/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Factor This finance and project development roundup: Avantus, Pivot, PFIFFNER, Qnetic, Recurrent",
       "category": "RENEWABLE",
       "date": "2026-03-06T12:59:00+00:00",
@@ -103,6 +127,14 @@
       "date": "2026-03-06T09:08:21+00:00",
       "url": "https://www.mining-technology.com/news/pan-american-finds-four-veins-la-colorada-mine/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Nemetschek, Neilsoft form AEC/O strategic partnership",
+      "category": "MECHANICAL",
+      "date": "2026-03-06T09:00:00+00:00",
+      "url": "https://www.engineering.com/nemetschek-neilsoft-form-aec-o-strategic-partnership/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -12218,5 +12250,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-06T13:00:26.594451+00:00"
+  "last_updated_utc": "2026-03-06T18:50:45.537859+00:00"
 }
