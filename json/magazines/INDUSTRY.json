@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "New Frontier finds high tungsten levels at Harts Range in Australia",
+      "category": "INDUSTRY",
+      "date": "2026-03-06T12:55:16+00:00",
+      "url": "https://www.mining-technology.com/news/new-frontier-finds-tungsten-harts-range-australia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "USAC secures $27m for domestic critical materials extraction",
       "category": "INDUSTRY",
       "date": "2026-03-06T12:27:04+00:00",
@@ -1922,5 +1930,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-07T06:43:42.434794+00:00"
+  "last_updated_utc": "2026-03-07T12:51:53.961197+00:00"
 }
