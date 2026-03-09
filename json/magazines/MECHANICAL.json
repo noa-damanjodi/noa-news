@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "TI, NVIDIA collaborate on sensor fusion for humanoid robots",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T09:50:00+00:00",
+      "url": "https://www.engineering.com/ti-nvidia-collaborate-on-sensor-fusion-for-humanoid-robots/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mastercam completes acquisition of In-House Solutions",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T09:05:00+00:00",
+      "url": "https://www.engineering.com/mastercam-completes-acquisition-of-in-house-solutions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Tencent Cloud, Maxon partner to add AI to Cinema 4D",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T09:02:00+00:00",
+      "url": "https://www.engineering.com/tencent-cloud-maxon-partner-to-add-ai-to-cinema-4d/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Siemens expands circuit protection, introduces refurbished starter",
       "category": "MECHANICAL",
       "date": "2026-03-06T15:18:20+00:00",
@@ -3562,5 +3586,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-09T07:04:33.198255+00:00"
+  "last_updated_utc": "2026-03-09T13:07:55.510425+00:00"
 }

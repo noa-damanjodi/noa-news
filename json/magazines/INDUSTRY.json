@@ -2,6 +2,46 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Emmerson agrees to $218m acquisition by Pan African",
+      "category": "INDUSTRY",
+      "date": "2026-03-09T12:32:12+00:00",
+      "url": "https://www.mining-technology.com/news/emmerson-agrees-acquisition-by-pan-african/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Trafigura to secure lithium supply from Smackover project in US",
+      "category": "INDUSTRY",
+      "date": "2026-03-09T12:21:23+00:00",
+      "url": "https://www.mining-technology.com/news/trafigura-secure-lithium-supply-smackover-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Domestic Metals expands exploration efforts at Smart Creek Project in US",
+      "category": "INDUSTRY",
+      "date": "2026-03-09T11:27:27+00:00",
+      "url": "https://www.mining-technology.com/news/domestic-metals-exploration-efforts-smart-creek-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Chilean Cobalt expands NeoRe project",
+      "category": "INDUSTRY",
+      "date": "2026-03-09T07:52:38+00:00",
+      "url": "https://www.mining-technology.com/news/chilean-cobalt-expands-neore-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "A2Gold to acquire Taylor project in Nevada, US",
+      "category": "INDUSTRY",
+      "date": "2026-03-09T07:32:47+00:00",
+      "url": "https://www.mining-technology.com/news/a2gold-to-acquire-taylor-project-nevada/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Australia’s iron ore machine faces a structural test",
       "category": "INDUSTRY",
       "date": "2026-03-09T07:00:00+00:00",
@@ -1938,5 +1978,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-09T07:04:33.198255+00:00"
+  "last_updated_utc": "2026-03-09T13:07:55.510425+00:00"
 }

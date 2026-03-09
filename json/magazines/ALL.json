@@ -2,6 +2,134 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Emmerson agrees to $218m acquisition by Pan African",
+      "category": "INDUSTRY",
+      "date": "2026-03-09T12:32:12+00:00",
+      "url": "https://www.mining-technology.com/news/emmerson-agrees-acquisition-by-pan-african/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Trafigura to secure lithium supply from Smackover project in US",
+      "category": "INDUSTRY",
+      "date": "2026-03-09T12:21:23+00:00",
+      "url": "https://www.mining-technology.com/news/trafigura-secure-lithium-supply-smackover-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Domestic Metals expands exploration efforts at Smart Creek Project in US",
+      "category": "INDUSTRY",
+      "date": "2026-03-09T11:27:27+00:00",
+      "url": "https://www.mining-technology.com/news/domestic-metals-exploration-efforts-smart-creek-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "",
+      "category": "POWER",
+      "date": "2026-03-09T09:50:06+00:00",
+      "url": "https://powerline.net.in/2026/03/09/308491/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "TI, NVIDIA collaborate on sensor fusion for humanoid robots",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T09:50:00+00:00",
+      "url": "https://www.engineering.com/ti-nvidia-collaborate-on-sensor-fusion-for-humanoid-robots/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trading Data: Day-ahead market and real-time market",
+      "category": "POWER",
+      "date": "2026-03-09T09:43:57+00:00",
+      "url": "https://powerline.net.in/2026/03/09/trading-data-day-ahead-market-and-real-time-market-11/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Key Statistics: Legacy dues of discoms",
+      "category": "POWER",
+      "date": "2026-03-09T09:38:43+00:00",
+      "url": "https://powerline.net.in/2026/03/09/key-statistics-legacy-dues-of-discoms/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Key Statistics: Transmission losses across states",
+      "category": "POWER",
+      "date": "2026-03-09T09:36:33+00:00",
+      "url": "https://powerline.net.in/2026/03/09/key-statistics-transmission-losses-across-states/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Mastercam completes acquisition of In-House Solutions",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T09:05:00+00:00",
+      "url": "https://www.engineering.com/mastercam-completes-acquisition-of-in-house-solutions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Tencent Cloud, Maxon partner to add AI to Cinema 4D",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T09:02:00+00:00",
+      "url": "https://www.engineering.com/tencent-cloud-maxon-partner-to-add-ai-to-cinema-4d/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "GEAPP launches India Grids of the Future Accelerator at Mumbai Climate Week 2026",
+      "category": "POWER",
+      "date": "2026-03-09T08:50:02+00:00",
+      "url": "https://powerline.net.in/2026/03/09/geapp-launches-india-grids-of-the-future-accelerator-at-mumbai-climate-week-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Enerparc launches power trading arm to expand market access in India",
+      "category": "POWER",
+      "date": "2026-03-09T08:49:39+00:00",
+      "url": "https://powerline.net.in/2026/03/09/enerparc-launches-power-trading-arm-to-expand-market-access-in-india-2/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hartek secures Rs 7.35 billion substation orders across nine states",
+      "category": "POWER",
+      "date": "2026-03-09T08:47:47+00:00",
+      "url": "https://powerline.net.in/2026/03/09/hartek-secures-rs-7-35-billion-substation-orders-across-nine-states/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "GE Vernova launches GridBeats APS to modernise substation protection and automation",
+      "category": "POWER",
+      "date": "2026-03-09T08:46:36+00:00",
+      "url": "https://powerline.net.in/2026/03/09/ge-vernova-launches-gridbeats-aps-to-modernise-substation-protection-and-automation-2/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Chilean Cobalt expands NeoRe project",
+      "category": "INDUSTRY",
+      "date": "2026-03-09T07:52:38+00:00",
+      "url": "https://www.mining-technology.com/news/chilean-cobalt-expands-neore-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "A2Gold to acquire Taylor project in Nevada, US",
+      "category": "INDUSTRY",
+      "date": "2026-03-09T07:32:47+00:00",
+      "url": "https://www.mining-technology.com/news/a2gold-to-acquire-taylor-project-nevada/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Australia’s iron ore machine faces a structural test",
       "category": "INDUSTRY",
       "date": "2026-03-09T07:00:00+00:00",
@@ -12338,5 +12466,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-09T07:04:33.198255+00:00"
+  "last_updated_utc": "2026-03-09T13:07:55.510425+00:00"
 }

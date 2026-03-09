@@ -2,6 +2,70 @@
   "category": "POWER",
   "items": [
     {
+      "title": "",
+      "category": "POWER",
+      "date": "2026-03-09T09:50:06+00:00",
+      "url": "https://powerline.net.in/2026/03/09/308491/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Trading Data: Day-ahead market and real-time market",
+      "category": "POWER",
+      "date": "2026-03-09T09:43:57+00:00",
+      "url": "https://powerline.net.in/2026/03/09/trading-data-day-ahead-market-and-real-time-market-11/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Key Statistics: Legacy dues of discoms",
+      "category": "POWER",
+      "date": "2026-03-09T09:38:43+00:00",
+      "url": "https://powerline.net.in/2026/03/09/key-statistics-legacy-dues-of-discoms/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Key Statistics: Transmission losses across states",
+      "category": "POWER",
+      "date": "2026-03-09T09:36:33+00:00",
+      "url": "https://powerline.net.in/2026/03/09/key-statistics-transmission-losses-across-states/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "GEAPP launches India Grids of the Future Accelerator at Mumbai Climate Week 2026",
+      "category": "POWER",
+      "date": "2026-03-09T08:50:02+00:00",
+      "url": "https://powerline.net.in/2026/03/09/geapp-launches-india-grids-of-the-future-accelerator-at-mumbai-climate-week-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Enerparc launches power trading arm to expand market access in India",
+      "category": "POWER",
+      "date": "2026-03-09T08:49:39+00:00",
+      "url": "https://powerline.net.in/2026/03/09/enerparc-launches-power-trading-arm-to-expand-market-access-in-india-2/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hartek secures Rs 7.35 billion substation orders across nine states",
+      "category": "POWER",
+      "date": "2026-03-09T08:47:47+00:00",
+      "url": "https://powerline.net.in/2026/03/09/hartek-secures-rs-7-35-billion-substation-orders-across-nine-states/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "GE Vernova launches GridBeats APS to modernise substation protection and automation",
+      "category": "POWER",
+      "date": "2026-03-09T08:46:36+00:00",
+      "url": "https://powerline.net.in/2026/03/09/ge-vernova-launches-gridbeats-aps-to-modernise-substation-protection-and-automation-2/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Maharashtra spends Rs 248.89 billion on renewable energy in 2025-26",
       "category": "POWER",
       "date": "2026-03-09T06:29:17+00:00",
@@ -3066,5 +3130,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-09T07:04:33.198255+00:00"
+  "last_updated_utc": "2026-03-09T13:07:55.510425+00:00"
 }
