@@ -2,6 +2,38 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Offshore alert: Stay current with maintenance of aging equipment",
+      "category": "SAFETY",
+      "date": "2026-03-09T17:20:56+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/offshore-alert-stay-current-with-maintenance-of-aging-equipment/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "What time do most construction worker injuries happen?",
+      "category": "SAFETY",
+      "date": "2026-03-09T16:59:14+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/what-time-do-most-construction-worker-injuries-happen/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bipartisan Railway Safety Act reintroduced in the Senate",
+      "category": "SAFETY",
+      "date": "2026-03-09T16:27:39+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/bipartisan-railway-safety-act-reintroduced-in-the-senate/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Poor vision and home hazards drastically increase fall risk for older adults, study finds",
+      "category": "SAFETY",
+      "date": "2026-03-09T15:35:10+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/poor-vision-and-home-hazards-drastically-increase-fall-risk-for-older-adults-study-finds/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "USDA seeking to change line-speed restrictions in some meat-processing plants",
       "category": "SAFETY",
       "date": "2026-03-05T18:35:33+00:00",
@@ -826,5 +858,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-09T13:07:55.510425+00:00"
+  "last_updated_utc": "2026-03-09T18:56:07.777489+00:00"
 }

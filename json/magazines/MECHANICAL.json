@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "XTI adds SPARKX i7 3D printer to product lineup",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T13:22:39+00:00",
+      "url": "https://www.engineering.com/xti-adds-sparkx-i7-3d-printer-to-product-lineup/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble adds Earthworks 3D option for Vermeer surface miner",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T13:11:26+00:00",
+      "url": "https://www.engineering.com/trimble-adds-earthworks-3d-option-for-vermeer-surface-miner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Molex introduces 145 GHz multi-port coaxial assemblies",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T10:18:00+00:00",
+      "url": "https://www.engineering.com/molex-introduces-145-ghz-multi-port-coaxial-assemblies/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "TI, NVIDIA collaborate on sensor fusion for humanoid robots",
       "category": "MECHANICAL",
       "date": "2026-03-09T09:50:00+00:00",
@@ -22,6 +46,14 @@
       "category": "MECHANICAL",
       "date": "2026-03-09T09:02:00+00:00",
       "url": "https://www.engineering.com/tencent-cloud-maxon-partner-to-add-ai-to-cinema-4d/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Raken integrates RFI workflow with Bluebeam collaboration tools",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T08:25:00+00:00",
+      "url": "https://www.engineering.com/raken-integrates-rfi-workflow-with-bluebeam-collaboration-tools/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -3586,5 +3618,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-09T13:07:55.510425+00:00"
+  "last_updated_utc": "2026-03-09T18:56:07.777489+00:00"
 }

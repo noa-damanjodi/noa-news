@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Conversations reshaping the grid: Registration opens for 2026 DTECH Data centers & AI event",
+      "category": "RENEWABLE",
+      "date": "2026-03-09T17:44:20+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/conversations-reshaping-the-grid-registration-opens-for-2026-dtech-data-centers-ai-event/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Offshore alert: Stay current with maintenance of aging equipment",
+      "category": "SAFETY",
+      "date": "2026-03-09T17:20:56+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/offshore-alert-stay-current-with-maintenance-of-aging-equipment/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "What time do most construction worker injuries happen?",
+      "category": "SAFETY",
+      "date": "2026-03-09T16:59:14+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/what-time-do-most-construction-worker-injuries-happen/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bipartisan Railway Safety Act reintroduced in the Senate",
+      "category": "SAFETY",
+      "date": "2026-03-09T16:27:39+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/bipartisan-railway-safety-act-reintroduced-in-the-senate/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Poor vision and home hazards drastically increase fall risk for older adults, study finds",
+      "category": "SAFETY",
+      "date": "2026-03-09T15:35:10+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/poor-vision-and-home-hazards-drastically-increase-fall-risk-for-older-adults-study-finds/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "XTI adds SPARKX i7 3D printer to product lineup",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T13:22:39+00:00",
+      "url": "https://www.engineering.com/xti-adds-sparkx-i7-3d-printer-to-product-lineup/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble adds Earthworks 3D option for Vermeer surface miner",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T13:11:26+00:00",
+      "url": "https://www.engineering.com/trimble-adds-earthworks-3d-option-for-vermeer-surface-miner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Emmerson agrees to $218m acquisition by Pan African",
       "category": "INDUSTRY",
       "date": "2026-03-09T12:32:12+00:00",
@@ -23,6 +79,14 @@
       "date": "2026-03-09T11:27:27+00:00",
       "url": "https://www.mining-technology.com/news/domestic-metals-exploration-efforts-smart-creek-project/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Molex introduces 145 GHz multi-port coaxial assemblies",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T10:18:00+00:00",
+      "url": "https://www.engineering.com/molex-introduces-145-ghz-multi-port-coaxial-assemblies/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -111,6 +175,14 @@
       "date": "2026-03-09T08:46:36+00:00",
       "url": "https://powerline.net.in/2026/03/09/ge-vernova-launches-gridbeats-aps-to-modernise-substation-protection-and-automation-2/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Raken integrates RFI workflow with Bluebeam collaboration tools",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T08:25:00+00:00",
+      "url": "https://www.engineering.com/raken-integrates-rfi-workflow-with-bluebeam-collaboration-tools/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -12466,5 +12538,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-09T13:07:55.510425+00:00"
+  "last_updated_utc": "2026-03-09T18:56:07.777489+00:00"
 }
