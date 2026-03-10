@@ -2,6 +2,30 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Chemical Safety Board issues new set of chemical release reports",
+      "category": "SAFETY",
+      "date": "2026-03-10T17:58:44+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/chemical-safety-board-issues-new-set-of-chemical-release-reports/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Safety at the loading dock: What are the biggest challenges?",
+      "category": "SAFETY",
+      "date": "2026-03-10T17:49:06+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safety-at-the-loading-dock-what-are-the-biggest-challenges/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New alert: Help keep gas station convenience store workers safe",
+      "category": "SAFETY",
+      "date": "2026-03-10T17:35:44+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-alert-help-keep-gas-station-convenience-store-workers-safe/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Offshore alert: Stay current with maintenance of aging equipment",
       "category": "SAFETY",
       "date": "2026-03-09T17:20:56+00:00",
@@ -858,5 +882,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-10T13:05:15.451941+00:00"
+  "last_updated_utc": "2026-03-10T18:53:11.819276+00:00"
 }

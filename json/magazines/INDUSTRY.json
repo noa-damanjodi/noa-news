@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "New episode: Sustainable reporting in mining",
+      "category": "INDUSTRY",
+      "date": "2026-03-10T14:54:04+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-sustainable-reporting-in-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Lundin Mining to acquire additional stake in Lumina Copper",
+      "category": "INDUSTRY",
+      "date": "2026-03-10T13:19:26+00:00",
+      "url": "https://www.mining-technology.com/news/lundin-mining-to-acquire-additional-stake-lumina-copper/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Venezuela gains initial approval for new mining bill",
+      "category": "INDUSTRY",
+      "date": "2026-03-10T13:09:40+00:00",
+      "url": "https://www.mining-technology.com/news/venezuela-initial-approval-new-mining-bill/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Denison Mines begins Wheeler North 2026 exploration programme",
       "category": "INDUSTRY",
       "date": "2026-03-10T10:02:09+00:00",
@@ -2002,5 +2026,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-10T13:05:15.451941+00:00"
+  "last_updated_utc": "2026-03-10T18:53:11.819276+00:00"
 }

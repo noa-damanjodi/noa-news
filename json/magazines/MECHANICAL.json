@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "ABB plans $75 million manufacturing expansion in India",
+      "category": "MECHANICAL",
+      "date": "2026-03-10T13:51:43+00:00",
+      "url": "https://www.engineering.com/abb-plans-75-million-manufacturing-expansion-in-india/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "EVOLVE Fabrication links BIM models to shop equipment",
+      "category": "MECHANICAL",
+      "date": "2026-03-10T13:45:19+00:00",
+      "url": "https://www.engineering.com/evolve-fabrication-links-bim-models-to-shop-equipment/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "CIH launches CI-ONE Ka-band PA and switch module",
+      "category": "MECHANICAL",
+      "date": "2026-03-10T10:36:00+00:00",
+      "url": "https://www.engineering.com/cih-launches-ci-one-ka-band-pa-and-switch-module/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Heilind adds Molex power-over-coax connector line",
+      "category": "MECHANICAL",
+      "date": "2026-03-10T10:23:00+00:00",
+      "url": "https://www.engineering.com/heilind-adds-molex-power-over-coax-connector-line/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Eagleview marks 20 years in Esri partner network",
+      "category": "MECHANICAL",
+      "date": "2026-03-10T10:20:00+00:00",
+      "url": "https://www.engineering.com/eagleview-marks-20-years-in-esri-partner-network/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hitem3D v2.0 update focuses on AI image-to-3D workflows",
+      "category": "MECHANICAL",
+      "date": "2026-03-10T10:11:00+00:00",
+      "url": "https://www.engineering.com/hitem3d-v2-0-update-focuses-on-ai-image-to-3d-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Synopsys launches electronics digital twin platform",
       "category": "MECHANICAL",
       "date": "2026-03-10T08:23:26+00:00",
@@ -3666,5 +3714,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-10T13:05:15.451941+00:00"
+  "last_updated_utc": "2026-03-10T18:53:11.819276+00:00"
 }

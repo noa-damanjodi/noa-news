@@ -2,6 +2,134 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Flexibility as a standard? New AI data center offering will enhance grid reliability",
+      "category": "RENEWABLE",
+      "date": "2026-03-10T18:00:43+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/flexibility-as-a-standard-new-ai-data-center-offering-will-enhance-grid-reliability/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Chemical Safety Board issues new set of chemical release reports",
+      "category": "SAFETY",
+      "date": "2026-03-10T17:58:44+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/chemical-safety-board-issues-new-set-of-chemical-release-reports/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Beazley to acquire climate insurance provider kWh Analytics",
+      "category": "RENEWABLE",
+      "date": "2026-03-10T17:51:39+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/energy-finance/beazley-to-acquire-climate-insurance-provider-kwh-analytics/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Safety at the loading dock: What are the biggest challenges?",
+      "category": "SAFETY",
+      "date": "2026-03-10T17:49:06+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safety-at-the-loading-dock-what-are-the-biggest-challenges/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New alert: Help keep gas station convenience store workers safe",
+      "category": "SAFETY",
+      "date": "2026-03-10T17:35:44+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-alert-help-keep-gas-station-convenience-store-workers-safe/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Moment in the sun? Solar still dominates new capacity on the US grid",
+      "category": "RENEWABLE",
+      "date": "2026-03-10T16:15:20+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/moment-in-the-sun-solar-still-dominates-new-capacity-on-the-us-grid/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "TRC Companies: Utilities need multi-problem-solving solutions | DTECH Interview Studio",
+      "category": "RENEWABLE",
+      "date": "2026-03-10T15:20:22+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/trc-companies-utilities-need-multi-problem-solving-solutions-dtech-interview-studio/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "New episode: Sustainable reporting in mining",
+      "category": "INDUSTRY",
+      "date": "2026-03-10T14:54:04+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-sustainable-reporting-in-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB plans $75 million manufacturing expansion in India",
+      "category": "MECHANICAL",
+      "date": "2026-03-10T13:51:43+00:00",
+      "url": "https://www.engineering.com/abb-plans-75-million-manufacturing-expansion-in-india/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "EVOLVE Fabrication links BIM models to shop equipment",
+      "category": "MECHANICAL",
+      "date": "2026-03-10T13:45:19+00:00",
+      "url": "https://www.engineering.com/evolve-fabrication-links-bim-models-to-shop-equipment/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lundin Mining to acquire additional stake in Lumina Copper",
+      "category": "INDUSTRY",
+      "date": "2026-03-10T13:19:26+00:00",
+      "url": "https://www.mining-technology.com/news/lundin-mining-to-acquire-additional-stake-lumina-copper/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Venezuela gains initial approval for new mining bill",
+      "category": "INDUSTRY",
+      "date": "2026-03-10T13:09:40+00:00",
+      "url": "https://www.mining-technology.com/news/venezuela-initial-approval-new-mining-bill/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "CIH launches CI-ONE Ka-band PA and switch module",
+      "category": "MECHANICAL",
+      "date": "2026-03-10T10:36:00+00:00",
+      "url": "https://www.engineering.com/cih-launches-ci-one-ka-band-pa-and-switch-module/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Heilind adds Molex power-over-coax connector line",
+      "category": "MECHANICAL",
+      "date": "2026-03-10T10:23:00+00:00",
+      "url": "https://www.engineering.com/heilind-adds-molex-power-over-coax-connector-line/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Eagleview marks 20 years in Esri partner network",
+      "category": "MECHANICAL",
+      "date": "2026-03-10T10:20:00+00:00",
+      "url": "https://www.engineering.com/eagleview-marks-20-years-in-esri-partner-network/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hitem3D v2.0 update focuses on AI image-to-3D workflows",
+      "category": "MECHANICAL",
+      "date": "2026-03-10T10:11:00+00:00",
+      "url": "https://www.engineering.com/hitem3d-v2-0-update-focuses-on-ai-image-to-3d-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Denison Mines begins Wheeler North 2026 exploration programme",
       "category": "INDUSTRY",
       "date": "2026-03-10T10:02:09+00:00",
@@ -12706,5 +12834,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-10T13:05:15.451941+00:00"
+  "last_updated_utc": "2026-03-10T18:53:11.819276+00:00"
 }
