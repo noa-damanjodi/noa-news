@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Denison Mines begins Wheeler North 2026 exploration programme",
+      "category": "INDUSTRY",
+      "date": "2026-03-10T10:02:09+00:00",
+      "url": "https://www.mining-technology.com/news/denison-mines-begins-wheeler-north-2026-exploration/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Epiroc signs agreement to acquire Eventspec in South Africa",
+      "category": "INDUSTRY",
+      "date": "2026-03-10T09:22:25+00:00",
+      "url": "https://www.mining-technology.com/news/epiroc-signs-agreement-to-acquire-eventspec/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Mineros to acquire Colombian gold exploration project",
+      "category": "INDUSTRY",
+      "date": "2026-03-10T09:17:42+00:00",
+      "url": "https://www.mining-technology.com/news/mineros-to-acquire-gold-exploration-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Emmerson agrees to $218m acquisition by Pan African",
       "category": "INDUSTRY",
       "date": "2026-03-09T12:32:12+00:00",
@@ -1978,5 +2002,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-10T06:53:36.923898+00:00"
+  "last_updated_utc": "2026-03-10T13:05:15.451941+00:00"
 }
