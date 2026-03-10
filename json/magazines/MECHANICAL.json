@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "RMIT Engineers build Electronic Dolphin for tackling oil spills",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T19:54:50+00:00",
+      "url": "https://www.engineering.com/rmit-engineers-build-electronic-dolphin-for-tackling-oil-spills/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Additive aerospace update: GE Aerospace, Rocket Lab, Velo3D, and more",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T19:22:26+00:00",
+      "url": "https://www.engineering.com/additive-aerospace-update-ge-aerospace-rocket-lab-velo3d-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Are you struggling with implementing data pipelines?",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T19:20:01+00:00",
+      "url": "https://www.engineering.com/are-you-struggling-with-implementing-data-pipelines/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB’s Robotstudio will get Nvidia Omniverse libraries",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T19:14:54+00:00",
+      "url": "https://www.engineering.com/abbs-robotstudio-will-get-nvidia-omniverse-libraries/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "XTI adds SPARKX i7 3D printer to product lineup",
       "category": "MECHANICAL",
       "date": "2026-03-09T13:22:39+00:00",
@@ -3618,5 +3650,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-09T18:56:07.777489+00:00"
+  "last_updated_utc": "2026-03-10T02:09:49.289427+00:00"
 }

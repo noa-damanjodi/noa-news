@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "From reactive to predictive: Reimagining wildfire mitigation efforts for utilities",
+      "category": "RENEWABLE",
+      "date": "2026-03-09T20:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/from-reactive-to-predictive-reimagining-wildfire-mitigation-efforts-for-utilities/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "FERC streamlines NEPA reviews for low-impact hydro actions",
+      "category": "RENEWABLE",
+      "date": "2026-03-09T19:58:05+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/ferc-streamlines-nepa-reviews-for-low-impact-hydro-actions/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "RMIT Engineers build Electronic Dolphin for tackling oil spills",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T19:54:50+00:00",
+      "url": "https://www.engineering.com/rmit-engineers-build-electronic-dolphin-for-tackling-oil-spills/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Why New Jersey is going all-in on energy storage and distributed solar",
+      "category": "RENEWABLE",
+      "date": "2026-03-09T19:52:48+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/why-new-jersey-is-going-all-in-on-energy-storage-and-distributed-solar/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Could pumped storage hydropower serve as a reliable data center power source?",
+      "category": "RENEWABLE",
+      "date": "2026-03-09T19:51:21+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/pumped-storage/could-pumped-storage-hydropower-serve-as-a-reliable-data-center-power-source/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Additive aerospace update: GE Aerospace, Rocket Lab, Velo3D, and more",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T19:22:26+00:00",
+      "url": "https://www.engineering.com/additive-aerospace-update-ge-aerospace-rocket-lab-velo3d-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Are you struggling with implementing data pipelines?",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T19:20:01+00:00",
+      "url": "https://www.engineering.com/are-you-struggling-with-implementing-data-pipelines/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB’s Robotstudio will get Nvidia Omniverse libraries",
+      "category": "MECHANICAL",
+      "date": "2026-03-09T19:14:54+00:00",
+      "url": "https://www.engineering.com/abbs-robotstudio-will-get-nvidia-omniverse-libraries/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Conversations reshaping the grid: Registration opens for 2026 DTECH Data centers & AI event",
       "category": "RENEWABLE",
       "date": "2026-03-09T17:44:20+00:00",
@@ -15,6 +79,14 @@
       "date": "2026-03-09T17:20:56+00:00",
       "url": "https://www.safetyandhealthmagazine.com/offshore-alert-stay-current-with-maintenance-of-aging-equipment/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New Hampshire lawmakers agree the state’s aging dams are a problem but are divided over who should pay",
+      "category": "RENEWABLE",
+      "date": "2026-03-09T17:18:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/dams-civil-structures/new-hampshire-lawmakers-agree-the-states-aging-dams-are-a-problem-but-are-divided-over-who-should-pay/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -12538,5 +12610,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-09T18:56:07.777489+00:00"
+  "last_updated_utc": "2026-03-10T02:09:49.289427+00:00"
 }
