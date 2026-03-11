@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Rio Tinto obtains $1.17bn for lithium project in Argentina",
+      "category": "INDUSTRY",
+      "date": "2026-03-11T13:25:09+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-obtains-1-17bn-argentinas-lithium-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Fortescue’s Nascent Exploration acquires Alta Copper",
+      "category": "INDUSTRY",
+      "date": "2026-03-11T10:08:06+00:00",
+      "url": "https://www.mining-technology.com/news/fortescues-nascent-exploration-acquires-alta-copper/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Westgold approves expansion of Higginsville Processing Hub",
       "category": "INDUSTRY",
       "date": "2026-03-11T07:33:25+00:00",
@@ -2042,5 +2058,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-11T13:04:55.534815+00:00"
+  "last_updated_utc": "2026-03-11T18:56:10.504356+00:00"
 }

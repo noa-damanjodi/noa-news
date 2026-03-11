@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Issues with diesel exhaust fluid systems spur safety alert",
+      "category": "SAFETY",
+      "date": "2026-03-11T18:28:37+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/issues-with-diesel-exhaust-fluid-systems-spur-safety-alert/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Report explores impact of senior managers on safety and health",
+      "category": "SAFETY",
+      "date": "2026-03-11T18:27:22+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/report-explores-impact-of-senior-managers-on-safety-and-health/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Being a ‘night owl’ might be hard on your heart",
+      "category": "SAFETY",
+      "date": "2026-03-11T18:23:53+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/being-a-night-owl-might-be-hard-on-your-heart/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Getting started with metal AM safety",
+      "category": "MECHANICAL",
+      "date": "2026-03-11T17:55:39+00:00",
+      "url": "https://www.engineering.com/getting-started-with-metal-am-safety/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Motion controls market predicted to grow by 3.9 per cent in 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-11T15:10:23+00:00",
+      "url": "https://www.automationmag.com/motion-controls-market-predicted-to-grow-by-3-9-per-cent-in-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Ontario and Canada investment more than $228 million to protect workers and key industries, including manufacturing",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-11T15:01:15+00:00",
+      "url": "https://www.automationmag.com/ontario-and-canada-investment-more-than-228-million-to-protect-workers-and-key-industries-including-manufacturing/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "FAULHABER adds 9317 BXI G to motor portfolio",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-11T14:56:31+00:00",
+      "url": "https://www.automationmag.com/faulhaber-adds-9317-bxi-g-to-motor-portfolio/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB launches pH/ORP sensor with digital connectivity and reported industry-leading lifespan",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-11T14:31:52+00:00",
+      "url": "https://www.automationmag.com/abb-launches-ph-orp-sensor-with-digital-connectivity-and-reported-industry-leading-lifespan/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Smarter grid operations start with integration at the edge",
+      "category": "RENEWABLE",
+      "date": "2026-03-11T14:27:27+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smarter-grid-operations-start-with-integration-at-the-edge/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Canada advances Defence Industrial Strategy to strengthen security, sovereignty and prosperity",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-11T14:22:10+00:00",
+      "url": "https://www.automationmag.com/canada-advances-defence-industrial-strategy-to-strengthen-security-sovereignty-and-prosperity/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Electric completes its Sustainability Impact 2021–2025 program",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-11T14:11:43+00:00",
+      "url": "https://www.automationmag.com/schneider-electric-completes-its-sustainability-impact-2021-2025-program/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Rio Tinto obtains $1.17bn for lithium project in Argentina",
+      "category": "INDUSTRY",
+      "date": "2026-03-11T13:25:09+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-obtains-1-17bn-argentinas-lithium-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Tekla 2026 update adds AI tools and workflow features",
       "category": "MECHANICAL",
       "date": "2026-03-11T12:46:35+00:00",
@@ -34,6 +130,14 @@
       "type": "magazine"
     },
     {
+      "title": "Fortescue’s Nascent Exploration acquires Alta Copper",
+      "category": "INDUSTRY",
+      "date": "2026-03-11T10:08:06+00:00",
+      "url": "https://www.mining-technology.com/news/fortescues-nascent-exploration-acquires-alta-copper/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "ST Engineering iDirect, Q-KON partner to launch Intuition Unbound across Africa",
       "category": "MECHANICAL",
       "date": "2026-03-11T09:44:54+00:00",
@@ -46,6 +150,22 @@
       "category": "MECHANICAL",
       "date": "2026-03-11T09:42:39+00:00",
       "url": "https://www.engineering.com/mathworks-joins-edge-ai-foundation-for-embedded-ai-work/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Alquist expands 3D construction training partnerships",
+      "category": "MECHANICAL",
+      "date": "2026-03-11T08:24:00+00:00",
+      "url": "https://www.engineering.com/alquist-expands-3d-construction-training-partnerships/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ACS becomes certified FANUC systems integrator",
+      "category": "MECHANICAL",
+      "date": "2026-03-11T08:16:00+00:00",
+      "url": "https://www.engineering.com/acs-becomes-certified-fanuc-systems-integrator/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -12978,5 +13098,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-11T13:04:55.534815+00:00"
+  "last_updated_utc": "2026-03-11T18:56:10.504356+00:00"
 }

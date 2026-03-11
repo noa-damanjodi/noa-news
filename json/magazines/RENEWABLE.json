@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Smarter grid operations start with integration at the edge",
+      "category": "RENEWABLE",
+      "date": "2026-03-11T14:27:27+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smarter-grid-operations-start-with-integration-at-the-edge/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "PJM is the first grid operator to implement ambient-air ratings for transmission under FERC order",
       "category": "RENEWABLE",
       "date": "2026-03-10T19:13:07+00:00",
@@ -1282,5 +1290,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-11T13:04:55.534815+00:00"
+  "last_updated_utc": "2026-03-11T18:56:10.504356+00:00"
 }
