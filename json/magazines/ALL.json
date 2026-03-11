@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Tekla 2026 update adds AI tools and workflow features",
+      "category": "MECHANICAL",
+      "date": "2026-03-11T12:46:35+00:00",
+      "url": "https://www.engineering.com/tekla-2026-update-adds-ai-tools-and-workflow-features/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Future Form adds 3D printing services",
+      "category": "MECHANICAL",
+      "date": "2026-03-11T12:00:37+00:00",
+      "url": "https://www.engineering.com/future-form-adds-3d-printing-services/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Octopart adds design context with Octopart Discover",
+      "category": "MECHANICAL",
+      "date": "2026-03-11T11:45:26+00:00",
+      "url": "https://www.engineering.com/octopart-adds-design-context-with-octopart-discover/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ADLINK partners with Noble Machines on AI robot platforms",
+      "category": "MECHANICAL",
+      "date": "2026-03-11T11:36:50+00:00",
+      "url": "https://www.engineering.com/adlink-partners-with-noble-machines-on-ai-robot-platforms/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ST Engineering iDirect, Q-KON partner to launch Intuition Unbound across Africa",
+      "category": "MECHANICAL",
+      "date": "2026-03-11T09:44:54+00:00",
+      "url": "https://www.engineering.com/st-engineering-idirect-partners-with-q-kon-to-launch-intuition-unbound/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MathWorks joins Edge AI Foundation for embedded AI work",
+      "category": "MECHANICAL",
+      "date": "2026-03-11T09:42:39+00:00",
+      "url": "https://www.engineering.com/mathworks-joins-edge-ai-foundation-for-embedded-ai-work/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Westgold approves expansion of Higginsville Processing Hub",
+      "category": "INDUSTRY",
+      "date": "2026-03-11T07:33:25+00:00",
+      "url": "https://www.mining-technology.com/news/westgold-approves-expansion-of-higginsville-processing-hub/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Critical Metals to advance Tanbreez project in Greenland",
+      "category": "INDUSTRY",
+      "date": "2026-03-11T07:19:31+00:00",
+      "url": "https://www.mining-technology.com/news/critical-metals-to-advance-tanbreez-project-greenland/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "CEA notifies draft CEA (Installation and Operation of Meters) Amendment Regulations, 2026",
       "category": "POWER",
       "date": "2026-03-11T06:06:48+00:00",
@@ -12914,5 +12978,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-11T06:56:53.557183+00:00"
+  "last_updated_utc": "2026-03-11T13:04:55.534815+00:00"
 }
