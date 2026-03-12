@@ -2,10 +2,154 @@
   "category": "ELECTRICAL",
   "items": [
     {
+      "title": "Google to Buy Green Offshore Wind Power from EnBW in Germany",
+      "category": "ELECTRICAL",
+      "date": "2026-02-15T06:54:25+00:00",
+      "url": "https://www.electricalindia.in/google-to-buy-green-offshore-wind-power-from-enbw-in-germany/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hitachi Energy to Host a Pre-Event to AI Impact Summit 2026",
+      "category": "ELECTRICAL",
+      "date": "2026-02-12T06:51:30+00:00",
+      "url": "https://www.electricalindia.in/hitachi-energy-to-host-a-pre-event-to-ai-impact-summit-2026/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "P. Soares to Spearhead Suzlon’s Next Phase of Global Growth",
+      "category": "ELECTRICAL",
+      "date": "2026-02-12T06:44:40+00:00",
+      "url": "https://www.electricalindia.in/p-soares-to-spearhead-suzlons-next-phase-of-global-growth/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BHEL Begins Supply of Special Transformers for Railway Project",
+      "category": "ELECTRICAL",
+      "date": "2026-02-12T06:42:40+00:00",
+      "url": "https://www.electricalindia.in/bhel-begins-supply-of-special-transformers-for-railway-project/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "HORIBA Takes over Pristine Deeptech Private Limited in India",
+      "category": "ELECTRICAL",
+      "date": "2026-02-12T06:40:20+00:00",
+      "url": "https://www.electricalindia.in/horiba-takes-over-pristine-deeptech-private-limited-in-india/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "WRTL to Acquire Majority Stake in ASPL",
+      "category": "ELECTRICAL",
+      "date": "2026-02-10T06:38:31+00:00",
+      "url": "https://www.electricalindia.in/wrtl-to-acquire-majority-stake-in-aspl/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "KEC International Wins New Orders Worth Rs. 1,020 crores",
+      "category": "ELECTRICAL",
+      "date": "2026-02-10T06:36:41+00:00",
+      "url": "https://www.electricalindia.in/kec-international-wins-new-orders-worth-rs-1020-crores/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Tata Power Commissions New Transmission Lines Spanning 574 CKM",
+      "category": "ELECTRICAL",
+      "date": "2026-02-10T06:33:31+00:00",
+      "url": "https://www.electricalindia.in/tata-power-commissions-new-transmission-lines-spanning-574-ckm/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Servotech Renewable Power System Limited Delivers a Strong Sequential Recovery",
+      "category": "ELECTRICAL",
+      "date": "2026-02-10T06:30:40+00:00",
+      "url": "https://www.electricalindia.in/servotech-renewable-power-system-limited-delivers-a-strong-sequential-recovery/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NTPC Plans to Set up Nuclear Power Projects",
+      "category": "ELECTRICAL",
+      "date": "2026-02-08T06:28:54+00:00",
+      "url": "https://www.electricalindia.in/ntpc-plans-to-set-up-nuclear-power-projects/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "India, Bhutan to Strengthen Cooperation in the Power Sector",
+      "category": "ELECTRICAL",
+      "date": "2026-02-08T06:27:05+00:00",
+      "url": "https://www.electricalindia.in/india-bhutan-to-strengthen-cooperation-in-the-power-sector/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "DAE Conclave Showcases India’s Advances in Nuclear Science",
+      "category": "ELECTRICAL",
+      "date": "2026-02-08T06:21:57+00:00",
+      "url": "https://www.electricalindia.in/dae-conclave-showcases-indias-advances-in-nuclear-science/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "India Combines Scale with Resilience in Energy Transition: Pralhad Joshi",
+      "category": "ELECTRICAL",
+      "date": "2026-02-08T06:13:54+00:00",
+      "url": "https://www.electricalindia.in/india-combines-scale-with-resilience-in-energy-transition-pralhad-joshi/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "India’s Power Transmission Network Grows Remarkably",
+      "category": "ELECTRICAL",
+      "date": "2026-02-05T06:11:17+00:00",
+      "url": "https://www.electricalindia.in/indias-power-transmission-network-grows-remarkably/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bioenergy to Play Pivotal Role in Decarbonising MSMEs",
+      "category": "ELECTRICAL",
+      "date": "2026-02-05T06:09:23+00:00",
+      "url": "https://www.electricalindia.in/bioenergy-to-play-pivotal-role-in-decarbonising-msmes/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "India Has Evolved from a Power Deficit to Power Sufficient Country",
+      "category": "ELECTRICAL",
+      "date": "2026-02-05T06:06:07+00:00",
+      "url": "https://www.electricalindia.in/india-has-evolved-from-a-power-deficit-to-power-sufficient-country/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Power Minister Inaugurates a CoE for Regulatory Affairs in the Power Sector",
+      "category": "ELECTRICAL",
+      "date": "2026-02-05T05:54:13+00:00",
+      "url": "https://www.electricalindia.in/power-minister-inaugurates-a-coe-for-regulatory-affairs-in-the-power-sector/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "238 chainflex cables receive certificate for use in dry cleanrooms",
       "category": "ELECTRICAL",
       "date": "2026-02-05T05:47:19+00:00",
       "url": "https://www.electricalindia.in/238-chainflex-cables-receive-certificate-for-use-in-dry-cleanrooms/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "FM Has Presented a Praiseworthy Budget",
+      "category": "ELECTRICAL",
+      "date": "2026-02-05T05:29:12+00:00",
+      "url": "https://www.electricalindia.in/fm-has-presented-a-praiseworthy-budget/",
       "source": "Electrical India Magazine",
       "type": "magazine"
     },
@@ -530,5 +674,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-12T02:22:37.066779+00:00"
+  "last_updated_utc": "2026-03-12T06:58:46.076200+00:00"
 }
