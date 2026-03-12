@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "New insights into battery failure",
+      "category": "MECHANICAL",
+      "date": "2026-03-12T18:52:22+00:00",
+      "url": "https://www.engineering.com/new-insights-into-battery-failure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Synopsys updates hardware-assisted verification portfolio",
       "category": "MECHANICAL",
       "date": "2026-03-12T12:35:38+00:00",
@@ -3890,5 +3898,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-12T13:04:38.360212+00:00"
+  "last_updated_utc": "2026-03-12T18:56:55.167860+00:00"
 }

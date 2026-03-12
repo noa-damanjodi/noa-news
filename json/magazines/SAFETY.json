@@ -2,6 +2,22 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Hearing conservation",
+      "category": "SAFETY",
+      "date": "2026-03-12T13:34:46+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/hearing-conservation/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "On the Safe Side podcast Episode 73: Generational differences at work and highlights from our March issue",
+      "category": "SAFETY",
+      "date": "2026-03-12T05:00:19+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/on-the-safe-side-podcast-episode-73-generational-differences-at-work-and-highlights-from-our-march-issue/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Issues with diesel exhaust fluid systems spur safety alert",
       "category": "SAFETY",
       "date": "2026-03-11T18:28:37+00:00",
@@ -906,5 +922,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-12T13:04:38.360212+00:00"
+  "last_updated_utc": "2026-03-12T18:56:55.167860+00:00"
 }
