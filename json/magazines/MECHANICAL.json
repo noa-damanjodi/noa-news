@@ -2,6 +2,78 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Synopsys updates hardware-assisted verification portfolio",
+      "category": "MECHANICAL",
+      "date": "2026-03-12T12:35:38+00:00",
+      "url": "https://www.engineering.com/synopsys-updates-hardware-assisted-verification-portfolio/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Synopsys releases Ansys 2026 R1 engineering platform",
+      "category": "MECHANICAL",
+      "date": "2026-03-12T12:10:24+00:00",
+      "url": "https://www.engineering.com/synopsys-releases-ansys-2026-r1-engineering-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens introduces LOGO! 9 logic controller",
+      "category": "MECHANICAL",
+      "date": "2026-03-12T11:13:39+00:00",
+      "url": "https://www.engineering.com/siemens-introduces-logo-9-logic-controller/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA partners with Nebius to expand AI cloud infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-03-12T08:53:35+00:00",
+      "url": "https://www.engineering.com/nvidia-partners-with-nebius-to-expand-ai-cloud-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nordic expands edge AI portfolio with NPU-enabled SoC",
+      "category": "MECHANICAL",
+      "date": "2026-03-12T08:48:22+00:00",
+      "url": "https://www.engineering.com/nordic-expands-edge-ai-portfolio-with-npu-enabled-soc/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "congatec expands Ryzen AI embedded COM Express modules",
+      "category": "MECHANICAL",
+      "date": "2026-03-12T08:40:10+00:00",
+      "url": "https://www.engineering.com/congatec-expands-ryzen-ai-embedded-com-express-modules/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ASRock Industrial expands motherboard lineup for AMD CPUs",
+      "category": "MECHANICAL",
+      "date": "2026-03-12T08:28:03+00:00",
+      "url": "https://www.engineering.com/asrock-industrial-expands-motherboard-lineup-for-amd-cpus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IMAGINiT wins Autodesk 2026 Platinum Club awards",
+      "category": "MECHANICAL",
+      "date": "2026-03-12T08:13:38+00:00",
+      "url": "https://www.engineering.com/imaginit-wins-autodesk-2026-platinum-club-awards/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DuPont wins WateReuse award for wastewater reuse membrane",
+      "category": "MECHANICAL",
+      "date": "2026-03-12T08:09:03+00:00",
+      "url": "https://www.engineering.com/dupont-wins-watereuse-award-for-wastewater-reuse-membrane/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Velo3D supports aviation heat exchanger part production",
       "category": "MECHANICAL",
       "date": "2026-03-12T05:21:41+00:00",
@@ -3818,5 +3890,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-12T06:58:46.076200+00:00"
+  "last_updated_utc": "2026-03-12T13:04:38.360212+00:00"
 }
