@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Opinion: AI agents are stepping up for engineering simulation",
+      "category": "MECHANICAL",
+      "date": "2026-03-12T19:12:14+00:00",
+      "url": "https://www.engineering.com/opinion-ai-agents-are-stepping-up-for-engineering-simulation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "New insights into battery failure",
       "category": "MECHANICAL",
       "date": "2026-03-12T18:52:22+00:00",
@@ -3898,5 +3906,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-12T18:56:55.167860+00:00"
+  "last_updated_utc": "2026-03-13T02:12:50.419349+00:00"
 }

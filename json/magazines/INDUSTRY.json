@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Soma Gold gets first shipment from Diamantina Mine in Colombia",
+      "category": "INDUSTRY",
+      "date": "2026-03-12T13:00:46+00:00",
+      "url": "https://www.mining-technology.com/news/soma-gold-first-shipment-diamantina-mine-colombia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Resolute Mining approves Doropo Gold Project FID",
       "category": "INDUSTRY",
       "date": "2026-03-12T11:54:04+00:00",
@@ -2098,5 +2106,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-12T18:56:55.167860+00:00"
+  "last_updated_utc": "2026-03-13T02:12:50.419349+00:00"
 }

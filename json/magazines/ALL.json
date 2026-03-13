@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Opinion: AI agents are stepping up for engineering simulation",
+      "category": "MECHANICAL",
+      "date": "2026-03-12T19:12:14+00:00",
+      "url": "https://www.engineering.com/opinion-ai-agents-are-stepping-up-for-engineering-simulation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "New insights into battery failure",
       "category": "MECHANICAL",
       "date": "2026-03-12T18:52:22+00:00",
@@ -87,6 +95,14 @@
       "date": "2026-03-12T13:08:22+00:00",
       "url": "https://www.automationmag.com/ontario-investing-7-3-million-in-windsor-to-protect-tariff-impacted-workers/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Soma Gold gets first shipment from Diamantina Mine in Colombia",
+      "category": "INDUSTRY",
+      "date": "2026-03-12T13:00:46+00:00",
+      "url": "https://www.mining-technology.com/news/soma-gold-first-shipment-diamantina-mine-colombia/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -13578,5 +13594,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-12T18:56:55.167860+00:00"
+  "last_updated_utc": "2026-03-13T02:12:50.419349+00:00"
 }
