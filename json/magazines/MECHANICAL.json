@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Siemens signs MOU with DOE for Genesis Mission",
+      "category": "MECHANICAL",
+      "date": "2026-03-13T12:04:06+00:00",
+      "url": "https://www.engineering.com/siemens-signs-mou-with-doe-for-genesis-mission/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Manz Asia partners with Epson on semiconductor inkjet",
+      "category": "MECHANICAL",
+      "date": "2026-03-13T11:36:12+00:00",
+      "url": "https://www.engineering.com/manz-asia-partners-with-epson-on-semiconductor-inkjet/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Panzura releases CloudFS 8.7 hybrid cloud file platform",
+      "category": "MECHANICAL",
+      "date": "2026-03-13T11:27:26+00:00",
+      "url": "https://www.engineering.com/panzura-releases-cloudfs-8-7-hybrid-cloud-file-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon appoints board for Octave",
+      "category": "MECHANICAL",
+      "date": "2026-03-13T09:40:21+00:00",
+      "url": "https://www.engineering.com/hexagon-appoints-board-for-octave/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Tencent Cloud supports iyzico European cloud platform launch",
+      "category": "MECHANICAL",
+      "date": "2026-03-13T08:29:22+00:00",
+      "url": "https://www.engineering.com/tencent-cloud-supports-iyzico-european-cloud-platform-launch/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ASRock Industrial controller wins Embedded World award",
+      "category": "MECHANICAL",
+      "date": "2026-03-13T08:22:40+00:00",
+      "url": "https://www.engineering.com/asrock-industrial-controller-wins-embedded-world-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Opinion: AI agents are stepping up for engineering simulation",
       "category": "MECHANICAL",
       "date": "2026-03-12T19:12:14+00:00",
@@ -3906,5 +3954,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-13T06:56:51.488542+00:00"
+  "last_updated_utc": "2026-03-13T13:03:07.152728+00:00"
 }

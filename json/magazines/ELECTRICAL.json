@@ -10,6 +10,14 @@
       "type": "magazine"
     },
     {
+      "title": "Enhancing Reliability and Power Quality in India",
+      "category": "ELECTRICAL",
+      "date": "2026-02-20T04:11:20+00:00",
+      "url": "https://www.electricalindia.in/enhancing-reliability-and-power-quality-in-india/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Valmet’s Automation to Optimise Projects in Vietnam",
       "category": "ELECTRICAL",
       "date": "2026-02-18T07:20:42+00:00",
@@ -738,5 +746,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-13T06:56:51.488542+00:00"
+  "last_updated_utc": "2026-03-13T13:03:07.152728+00:00"
 }

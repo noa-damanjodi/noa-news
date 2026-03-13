@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Siemens signs MOU with DOE for Genesis Mission",
+      "category": "MECHANICAL",
+      "date": "2026-03-13T12:04:06+00:00",
+      "url": "https://www.engineering.com/siemens-signs-mou-with-doe-for-genesis-mission/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Manz Asia partners with Epson on semiconductor inkjet",
+      "category": "MECHANICAL",
+      "date": "2026-03-13T11:36:12+00:00",
+      "url": "https://www.engineering.com/manz-asia-partners-with-epson-on-semiconductor-inkjet/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Panzura releases CloudFS 8.7 hybrid cloud file platform",
+      "category": "MECHANICAL",
+      "date": "2026-03-13T11:27:26+00:00",
+      "url": "https://www.engineering.com/panzura-releases-cloudfs-8-7-hybrid-cloud-file-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Idaho Strategic executes lease agreement for Niagara project",
+      "category": "INDUSTRY",
+      "date": "2026-03-13T10:15:14+00:00",
+      "url": "https://www.mining-technology.com/news/idaho-strategic-lease-agreement-niagara-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon appoints board for Octave",
+      "category": "MECHANICAL",
+      "date": "2026-03-13T09:40:21+00:00",
+      "url": "https://www.engineering.com/hexagon-appoints-board-for-octave/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Copper Quest finalises Auxer Gold Property acquisition",
+      "category": "INDUSTRY",
+      "date": "2026-03-13T09:32:11+00:00",
+      "url": "https://www.mining-technology.com/news/copper-quest-auxer-gold-property-acquisition/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "First Quantum to sell Çayeli Mine in Türkiye",
+      "category": "INDUSTRY",
+      "date": "2026-03-13T09:14:13+00:00",
+      "url": "https://www.mining-technology.com/news/first-quantum-to-sell-cayeli-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Tencent Cloud supports iyzico European cloud platform launch",
+      "category": "MECHANICAL",
+      "date": "2026-03-13T08:29:22+00:00",
+      "url": "https://www.engineering.com/tencent-cloud-supports-iyzico-european-cloud-platform-launch/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ASRock Industrial controller wins Embedded World award",
+      "category": "MECHANICAL",
+      "date": "2026-03-13T08:22:40+00:00",
+      "url": "https://www.engineering.com/asrock-industrial-controller-wins-embedded-world-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "RERC issues draft RERC (Renewable Purchase Obligation) (First Amendment) Regulations, 2026",
       "category": "POWER",
       "date": "2026-03-13T06:37:54+00:00",
@@ -4607,6 +4679,14 @@
       "date": "2026-02-20T04:59:37+00:00",
       "url": "https://theconstructor.org/building/challenges-excavating-urban-areas/579545/",
       "source": "theconstructor.org",
+      "type": "magazine"
+    },
+    {
+      "title": "Enhancing Reliability and Power Quality in India",
+      "category": "ELECTRICAL",
+      "date": "2026-02-20T04:11:20+00:00",
+      "url": "https://www.electricalindia.in/enhancing-reliability-and-power-quality-in-india/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -13658,5 +13738,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-13T06:56:51.488542+00:00"
+  "last_updated_utc": "2026-03-13T13:03:07.152728+00:00"
 }
