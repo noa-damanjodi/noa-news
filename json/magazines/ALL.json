@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Factor This finance and project development roundup: ArcLight, Arevon, Aypa Power, Octopus, Sol Systems",
+      "category": "RENEWABLE",
+      "date": "2026-03-13T18:05:15+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/factor-this-finance-and-project-development-roundup-arclight-arevon-aypa-power-octopus-sol-systems/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Electrical safety in construction: OSHA unveils new initiative",
       "category": "SAFETY",
       "date": "2026-03-13T16:32:41+00:00",
@@ -15,6 +23,14 @@
       "date": "2026-03-13T16:11:54+00:00",
       "url": "https://www.safetyandhealthmagazine.com/lawmakers-in-colorado-want-to-shield-workplace-safety-rules-from-federal-rollbacks/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Breaking: DOE rolls out $1.9B funding opportunity for ‘urgently needed’ grid upgrades",
+      "category": "RENEWABLE",
+      "date": "2026-03-13T15:20:09+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/breaking-doe-rolls-out-1-9b-funding-opportunity-for-urgently-needed-grid-upgrades/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -47,6 +63,14 @@
       "date": "2026-03-13T12:04:06+00:00",
       "url": "https://www.engineering.com/siemens-signs-mou-with-doe-for-genesis-mission/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Can this new coalition help bring down energy costs? – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-03-13T12:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/can-this-new-coalition-help-bring-down-energy-costs-this-week-in-cleantech/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -13778,5 +13802,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-13T18:45:32.032760+00:00"
+  "last_updated_utc": "2026-03-14T02:10:55.945158+00:00"
 }
