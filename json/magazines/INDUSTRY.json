@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Alba initiates shutdown of aluminium smelting lines",
+      "category": "INDUSTRY",
+      "date": "2026-03-16T10:42:42+00:00",
+      "url": "https://www.mining-technology.com/news/alba-initiates-shutdown-aluminium-smelting-lines/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Athena Gold concludes Forester Gold Project acquisition",
+      "category": "INDUSTRY",
+      "date": "2026-03-16T09:31:12+00:00",
+      "url": "https://www.mining-technology.com/news/athena-gold-forester-gold-project-acquisition/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "JSW Steel initiates coal mining project in Mozambique",
+      "category": "INDUSTRY",
+      "date": "2026-03-16T09:25:32+00:00",
+      "url": "https://www.mining-technology.com/news/jsw-steel-coal-mining-project-mozambique/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Westgold divests Reedy, Comet projects to Valiant Gold",
       "category": "INDUSTRY",
       "date": "2026-03-13T13:28:26+00:00",
@@ -2146,5 +2170,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-16T07:20:45.145693+00:00"
+  "last_updated_utc": "2026-03-16T13:17:21.790796+00:00"
 }
