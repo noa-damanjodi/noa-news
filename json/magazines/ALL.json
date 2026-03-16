@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Siemens and 1898 & Co. collaborate to automate critical grid protection",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-16T18:24:33+00:00",
+      "url": "https://www.automationmag.com/siemens-and-1898-co-collaborate-to-automate-critical-grid-protection/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Wanted: roofing supervisor input on industry safety",
+      "category": "SAFETY",
+      "date": "2026-03-16T17:09:43+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/wanted-roofing-supervisor-input-on-industry-safety/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Transportation Secretary Sean Duffy welcomes input from states",
+      "category": "SAFETY",
+      "date": "2026-03-16T16:37:59+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/transportation-secretary-sean-duffy-welcomes-input-from-states/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "University researchers creating ‘personalized’ manufacturing safety training",
+      "category": "SAFETY",
+      "date": "2026-03-16T16:37:01+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/university-researchers-creating-personalized-manufacturing-safety-training/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Great expectations for AMUG 2026",
+      "category": "MECHANICAL",
+      "date": "2026-03-16T16:01:08+00:00",
+      "url": "https://www.engineering.com/great-expectations-for-amug-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Celebrating the energy transition’s unsung hero | DTECH Interview Studio",
+      "category": "RENEWABLE",
+      "date": "2026-03-16T14:17:34+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/celebrating-the-energy-transitions-unsung-hero-dtech-interview-studio/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "A Maturing Market: Renewable energy financing trends",
       "category": "POWER",
       "date": "2026-03-16T11:33:00+00:00",
@@ -4442,6 +4490,30 @@
       "type": "magazine"
     },
     {
+      "title": "“Kusam-Meco” 1000V DC Hand Held Digital Insulation Resistance Tester Model- KM 372",
+      "category": "ELECTRICAL",
+      "date": "2026-02-22T16:07:59+00:00",
+      "url": "https://www.electricalindia.in/kusam-meco-1000v-dc-hand-held-digital-insulation-resistance-tester-model-km-372-2/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "India’s COP26 Roadmap for Sustainable Power Growth",
+      "category": "ELECTRICAL",
+      "date": "2026-02-22T15:52:38+00:00",
+      "url": "https://www.electricalindia.in/indias-cop26-roadmap-for-sustainable-power-growth/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Empowering the Renewable Revolution: High-Performance Inverter Duty Transformers",
+      "category": "ELECTRICAL",
+      "date": "2026-02-22T15:14:32+00:00",
+      "url": "https://www.electricalindia.in/empowering-the-renewable-revolution-high-performance-inverter-duty-transformers/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Trump tariffs crushed by US Supreme Court: windfall moment or the start of a new trade storm?",
       "category": "MECHANICAL",
       "date": "2026-02-22T15:11:15+00:00",
@@ -4966,6 +5038,30 @@
       "category": "ELECTRICAL",
       "date": "2026-02-20T04:11:20+00:00",
       "url": "https://www.electricalindia.in/enhancing-reliability-and-power-quality-in-india/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Adaptive and Resilient T&D SYSTEMS",
+      "category": "ELECTRICAL",
+      "date": "2026-02-20T03:08:20+00:00",
+      "url": "https://www.electricalindia.in/adaptive-and-resilient-td-systems/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "India’s Renewable Energy Transition",
+      "category": "ELECTRICAL",
+      "date": "2026-02-20T02:21:06+00:00",
+      "url": "https://www.electricalindia.in/indias-renewable-energy-transition/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Managing Renewable Energy Intermittency",
+      "category": "ELECTRICAL",
+      "date": "2026-02-20T00:37:40+00:00",
+      "url": "https://www.electricalindia.in/managing-renewable-energy-intermittency/",
       "source": "Electrical India Magazine",
       "type": "magazine"
     },
@@ -14018,5 +14114,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-16T13:17:21.790796+00:00"
+  "last_updated_utc": "2026-03-16T19:04:41.214730+00:00"
 }
