@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Jacobs releases digital twin solution for AI data centres",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-17T18:15:57+00:00",
+      "url": "https://www.automationmag.com/jacobs-releases-digital-twin-solution-for-ai-data-centres/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Workplace air monitoring",
+      "category": "SAFETY",
+      "date": "2026-03-17T16:56:22+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/workplace-air-monitoring/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Flex adds modular reference designs for AI factories",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T15:47:11+00:00",
+      "url": "https://www.engineering.com/flex-adds-modular-reference-designs-for-ai-factories/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Vectorworks 2026 Update 4 adds phasing and carbon tools",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T15:43:13+00:00",
+      "url": "https://www.engineering.com/vectorworks-2026-update-4-adds-phasing-and-carbon-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "It’s Workplace Eye Wellness Month: Protect your vision",
+      "category": "SAFETY",
+      "date": "2026-03-17T15:40:02+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/its-workplace-eye-wellness-month-protect-your-vision/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon updates Geomagic Freeform for organic design",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T15:02:08+00:00",
+      "url": "https://www.engineering.com/hexagon-updates-geomagic-freeform-for-organic-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC links Onshape with NVIDIA Isaac Sim for robotics",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T14:33:32+00:00",
+      "url": "https://www.engineering.com/ptc-links-onshape-with-nvidia-isaac-sim-for-robotics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA expands AI compute for space and edge systems",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T14:19:01+00:00",
+      "url": "https://www.engineering.com/nvidia-expands-ai-compute-for-space-and-edge-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens adds AI agent orchestration to EDA workflows",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T14:00:00+00:00",
+      "url": "https://www.engineering.com/siemens-adds-ai-agent-orchestration-to-eda-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Harena signs agreement for Paradigm Critical Minerals acquisition",
+      "category": "INDUSTRY",
+      "date": "2026-03-17T13:33:09+00:00",
+      "url": "https://www.mining-technology.com/news/harena-agreement-paradigm-critical-minerals-acquisition/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "What makes messages about SIFs effective? Researchers want to know",
       "category": "SAFETY",
       "date": "2026-03-17T13:16:05+00:00",
@@ -15,6 +95,38 @@
       "date": "2026-03-17T13:15:21+00:00",
       "url": "https://www.safetyandhealthmagazine.com/safety-groups-call-on-osha-to-update-references-to-ppe-consensus-standards/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Resolution, USFS conclude land exchange for copper deposits",
+      "category": "INDUSTRY",
+      "date": "2026-03-17T12:11:21+00:00",
+      "url": "https://www.mining-technology.com/news/resolution-usfs-conclude-land-exchange-copper-deposits/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "FANUC links robotics platform with NVIDIA AI tools",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T11:01:00+00:00",
+      "url": "https://www.engineering.com/fanuc-links-robotics-platform-with-nvidia-ai-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA introduces Vera CPU for AI infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T10:50:00+00:00",
+      "url": "https://www.engineering.com/nvidia-introduces-vera-cpu-for-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro launches integrated AI data platform solutions",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T10:39:00+00:00",
+      "url": "https://www.engineering.com/supermicro-launches-integrated-ai-data-platform-solutions/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -14282,5 +14394,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-17T13:16:31.387878+00:00"
+  "last_updated_utc": "2026-03-17T19:04:56.543602+00:00"
 }

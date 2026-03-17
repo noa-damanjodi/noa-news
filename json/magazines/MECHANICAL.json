@@ -2,6 +2,78 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Flex adds modular reference designs for AI factories",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T15:47:11+00:00",
+      "url": "https://www.engineering.com/flex-adds-modular-reference-designs-for-ai-factories/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Vectorworks 2026 Update 4 adds phasing and carbon tools",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T15:43:13+00:00",
+      "url": "https://www.engineering.com/vectorworks-2026-update-4-adds-phasing-and-carbon-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon updates Geomagic Freeform for organic design",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T15:02:08+00:00",
+      "url": "https://www.engineering.com/hexagon-updates-geomagic-freeform-for-organic-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC links Onshape with NVIDIA Isaac Sim for robotics",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T14:33:32+00:00",
+      "url": "https://www.engineering.com/ptc-links-onshape-with-nvidia-isaac-sim-for-robotics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA expands AI compute for space and edge systems",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T14:19:01+00:00",
+      "url": "https://www.engineering.com/nvidia-expands-ai-compute-for-space-and-edge-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens adds AI agent orchestration to EDA workflows",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T14:00:00+00:00",
+      "url": "https://www.engineering.com/siemens-adds-ai-agent-orchestration-to-eda-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "FANUC links robotics platform with NVIDIA AI tools",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T11:01:00+00:00",
+      "url": "https://www.engineering.com/fanuc-links-robotics-platform-with-nvidia-ai-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA introduces Vera CPU for AI infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T10:50:00+00:00",
+      "url": "https://www.engineering.com/nvidia-introduces-vera-cpu-for-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro launches integrated AI data platform solutions",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T10:39:00+00:00",
+      "url": "https://www.engineering.com/supermicro-launches-integrated-ai-data-platform-solutions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Hitem3D v2.0 targets stable AI image-to-3D workflows",
       "category": "MECHANICAL",
       "date": "2026-03-17T10:04:39+00:00",
@@ -4050,5 +4122,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-17T13:16:31.387878+00:00"
+  "last_updated_utc": "2026-03-17T19:04:56.543602+00:00"
 }
