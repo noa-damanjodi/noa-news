@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Hitem3D v2.0 targets stable AI image-to-3D workflows",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T10:04:39+00:00",
+      "url": "https://www.engineering.com/hitem3d-v2-0-targets-stable-ai-image-to-3d-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nscale to deploy 1.35 GW AI compute with Microsoft",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T10:03:06+00:00",
+      "url": "https://www.engineering.com/nscale-to-deploy-1-35-gw-ai-compute-with-microsoft/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ASUS introduces liquid-cooled AI infrastructure at GTC 2026",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T10:00:41+00:00",
+      "url": "https://www.engineering.com/asus-introduces-liquid-cooled-ai-infrastructure-at-gtc-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sony introduces IMX908 4K sensor with 96 dB dynamic range",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T09:59:24+00:00",
+      "url": "https://www.engineering.com/sony-introduces-imx908-4k-sensor-with-96-db-dynamic-range/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Great expectations for AMUG 2026",
       "category": "MECHANICAL",
       "date": "2026-03-16T16:01:08+00:00",
@@ -4018,5 +4050,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-17T07:06:41.653976+00:00"
+  "last_updated_utc": "2026-03-17T13:16:31.387878+00:00"
 }

@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "What makes messages about SIFs effective? Researchers want to know",
+      "category": "SAFETY",
+      "date": "2026-03-17T13:16:05+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/what-makes-messages-about-sifs-effective-researchers-want-to-know/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Safety groups call on OSHA to update references to PPE consensus standards",
+      "category": "SAFETY",
+      "date": "2026-03-17T13:15:21+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safety-groups-call-on-osha-to-update-references-to-ppe-consensus-standards/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ANDRITZ secures order for 1,000 MW Bhivpuri PSP from Tata Power",
+      "category": "POWER",
+      "date": "2026-03-17T10:34:55+00:00",
+      "url": "https://powerline.net.in/2026/03/17/andritz-secures-order-for-1000-mw-bhivpuri-psp-from-tata-power/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hitem3D v2.0 targets stable AI image-to-3D workflows",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T10:04:39+00:00",
+      "url": "https://www.engineering.com/hitem3d-v2-0-targets-stable-ai-image-to-3d-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nscale to deploy 1.35 GW AI compute with Microsoft",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T10:03:06+00:00",
+      "url": "https://www.engineering.com/nscale-to-deploy-1-35-gw-ai-compute-with-microsoft/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ASUS introduces liquid-cooled AI infrastructure at GTC 2026",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T10:00:41+00:00",
+      "url": "https://www.engineering.com/asus-introduces-liquid-cooled-ai-infrastructure-at-gtc-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sony introduces IMX908 4K sensor with 96 dB dynamic range",
+      "category": "MECHANICAL",
+      "date": "2026-03-17T09:59:24+00:00",
+      "url": "https://www.engineering.com/sony-introduces-imx908-4k-sensor-with-96-db-dynamic-range/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Eldorado secures operating authorisation for Ormaque deposit",
+      "category": "INDUSTRY",
+      "date": "2026-03-17T09:49:14+00:00",
+      "url": "https://www.mining-technology.com/news/eldorado-secures-operating-authorisation-ormaque-deposit/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Centaurus, Glencore sign nickel supply deal in Brazil",
+      "category": "INDUSTRY",
+      "date": "2026-03-17T08:53:46+00:00",
+      "url": "https://www.mining-technology.com/news/centaurus-glencore-nickel-supply-deal-brazil/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Phase one commissioning concludes at Almonty’s Sangdong Mine",
+      "category": "INDUSTRY",
+      "date": "2026-03-17T08:39:34+00:00",
+      "url": "https://www.mining-technology.com/news/phase-1-commissioning-concludes-sangdong-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Adani Power secures LoA from MSEDCL for 1,600 MW thermal power supply",
       "category": "POWER",
       "date": "2026-03-17T05:45:01+00:00",
@@ -119,6 +199,22 @@
       "date": "2026-03-16T14:17:34+00:00",
       "url": "https://www.renewableenergyworld.com/power-grid/celebrating-the-energy-transitions-unsung-hero-dtech-interview-studio/",
       "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Toubani begins construction at Kobada Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-03-16T12:27:34+00:00",
+      "url": "https://www.mining-technology.com/news/toubani-begins-construction-kobada-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Ashley receives drilling permit for Gold Mountain Project",
+      "category": "INDUSTRY",
+      "date": "2026-03-16T12:21:11+00:00",
+      "url": "https://www.mining-technology.com/news/ashley-drilling-permit-gold-mountain-project/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -14186,5 +14282,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-17T07:06:41.653976+00:00"
+  "last_updated_utc": "2026-03-17T13:16:31.387878+00:00"
 }
