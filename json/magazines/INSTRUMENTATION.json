@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Fluke transforms eMaint into purpose-built AI platform to accelerate maintenance work",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-16T20:10:04+00:00",
+      "url": "https://www.automationmag.com/fluke-transforms-emaint-into-purpose-built-ai-platform-to-accelerate-maintenance-work/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "TI accelerates the next generation of physical AI with NVIDIA",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-16T19:31:59+00:00",
+      "url": "https://www.automationmag.com/ti-accelerates-the-next-generation-of-physical-ai-with-nvidia/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Siemens and 1898 & Co. collaborate to automate critical grid protection",
       "category": "INSTRUMENTATION",
       "date": "2026-03-16T18:24:33+00:00",
@@ -1106,5 +1122,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-16T19:04:41.214730+00:00"
+  "last_updated_utc": "2026-03-17T02:22:43.829217+00:00"
 }
