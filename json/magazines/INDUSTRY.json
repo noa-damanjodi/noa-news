@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Riverside secures three Union Project concessions in Mexico",
+      "category": "INDUSTRY",
+      "date": "2026-03-18T13:27:27+00:00",
+      "url": "https://www.mining-technology.com/news/riverside-secures-three-union-project-concessions/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Troilus, Boliden sign MoU for copper-gold concentrate supply",
+      "category": "INDUSTRY",
+      "date": "2026-03-18T13:06:06+00:00",
+      "url": "https://www.mining-technology.com/news/troilus-boliden-mou-copper-gold-supply/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Beyond formulation: Devising a lubricant strategy for component longevity and safety",
       "category": "INDUSTRY",
       "date": "2026-03-18T12:43:56+00:00",
@@ -2266,5 +2282,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-18T13:17:28.531227+00:00"
+  "last_updated_utc": "2026-03-18T19:03:10.300472+00:00"
 }

@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "NVIDIA introduces BlueField-4 STX storage architecture",
+      "category": "MECHANICAL",
+      "date": "2026-03-18T15:48:54+00:00",
+      "url": "https://www.engineering.com/nvidia-introduces-bluefield-4-stx-storage-architecture/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA introduces Vera Rubin AI infrastructure platform",
+      "category": "MECHANICAL",
+      "date": "2026-03-18T15:45:27+00:00",
+      "url": "https://www.engineering.com/nvidia-introduces-vera-rubin-ai-infrastructure-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro unveils AI systems based on NVIDIA Vera Rubin",
+      "category": "MECHANICAL",
+      "date": "2026-03-18T15:41:26+00:00",
+      "url": "https://www.engineering.com/supermicro-unveils-ai-systems-based-on-nvidia-vera-rubin/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Atom Computing integrates NVQLink into quantum systems",
+      "category": "MECHANICAL",
+      "date": "2026-03-18T15:40:03+00:00",
+      "url": "https://www.engineering.com/atom-computing-integrates-nvqlink-into-quantum-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "IWT expands use of Aras Innovator PLM platform",
       "category": "MECHANICAL",
       "date": "2026-03-18T11:03:45+00:00",
@@ -30,6 +62,14 @@
       "category": "MECHANICAL",
       "date": "2026-03-18T10:57:54+00:00",
       "url": "https://www.engineering.com/hitachi-unveils-800-vdc-architecture-for-ai-data-centers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cognizant launches AI Factory for enterprise AI lifecycle",
+      "category": "MECHANICAL",
+      "date": "2026-03-18T08:06:00+00:00",
+      "url": "https://www.engineering.com/cognizant-launches-ai-factory-for-enterprise-ai-lifecycle/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -4170,5 +4210,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-18T13:17:28.531227+00:00"
+  "last_updated_utc": "2026-03-18T19:03:10.300472+00:00"
 }
