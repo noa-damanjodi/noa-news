@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "IWT expands use of Aras Innovator PLM platform",
+      "category": "MECHANICAL",
+      "date": "2026-03-18T11:03:45+00:00",
+      "url": "https://www.engineering.com/iwt-expands-use-of-aras-innovator-plm-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Stratasys TrueDent resins receive CE Class IIa marking",
+      "category": "MECHANICAL",
+      "date": "2026-03-18T11:02:18+00:00",
+      "url": "https://www.engineering.com/stratasys-truedent-resins-receive-ce-class-iia-marking/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HyperLight releases 400G-per-lane TFLN photonic ICs",
+      "category": "MECHANICAL",
+      "date": "2026-03-18T10:59:15+00:00",
+      "url": "https://www.engineering.com/hyperlight-releases-400g-per-lane-tfln-photonic-ics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hitachi unveils 800 VDC architecture for AI data centers",
+      "category": "MECHANICAL",
+      "date": "2026-03-18T10:57:54+00:00",
+      "url": "https://www.engineering.com/hitachi-unveils-800-vdc-architecture-for-ai-data-centers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Nvidia is absolutely everywhere in engineering software",
       "category": "MECHANICAL",
       "date": "2026-03-17T20:00:13+00:00",
@@ -4138,5 +4170,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-18T07:03:54.778373+00:00"
+  "last_updated_utc": "2026-03-18T13:17:28.531227+00:00"
 }
