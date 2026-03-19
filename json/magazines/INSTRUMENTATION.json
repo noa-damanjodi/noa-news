@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "MassRobotics reveals second cohort of Physical AI Fellowship",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-18T20:21:11+00:00",
+      "url": "https://www.automationmag.com/massrobotics-reveals-second-cohort-of-physical-ai-fellowship/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Vention debuts Rapid Operator, a physical AI solution for autonomous bin picking",
       "category": "INSTRUMENTATION",
       "date": "2026-03-17T19:17:30+00:00",
@@ -1138,5 +1146,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-18T19:03:10.300472+00:00"
+  "last_updated_utc": "2026-03-19T02:28:16.929918+00:00"
 }
