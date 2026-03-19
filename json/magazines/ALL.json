@@ -2,6 +2,126 @@
   "category": "ALL",
   "items": [
     {
+      "title": "FMCSA looking for truckers to ‘pre-test’ its hours-of-service changes",
+      "category": "SAFETY",
+      "date": "2026-03-19T12:38:30+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fmcsa-looking-for-truckers-to-pre-test-its-hours-of-service-changes/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Vertiv supports NVIDIA DSX AI factory infrastructure design",
+      "category": "MECHANICAL",
+      "date": "2026-03-19T10:23:45+00:00",
+      "url": "https://www.engineering.com/vertiv-supports-nvidia-dsx-ai-factory-infrastructure-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Maxon releases Redshift plugins for Vectorworks and Revit",
+      "category": "MECHANICAL",
+      "date": "2026-03-19T10:06:44+00:00",
+      "url": "https://www.engineering.com/maxon-releases-redshift-plugins-for-vectorworks-and-revit/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and Rittal partner on data center power systems",
+      "category": "MECHANICAL",
+      "date": "2026-03-19T09:58:02+00:00",
+      "url": "https://www.engineering.com/siemens-and-rittal-partner-on-data-center-power-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro expands AI systems with NVIDIA RTX PRO GPUs",
+      "category": "MECHANICAL",
+      "date": "2026-03-19T09:56:32+00:00",
+      "url": "https://www.engineering.com/supermicro-expands-ai-systems-with-nvidia-rtx-pro-gpus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Switch integrates NVIDIA Omniverse into AI factory platform",
+      "category": "MECHANICAL",
+      "date": "2026-03-19T09:51:00+00:00",
+      "url": "https://www.engineering.com/switch-integrates-nvidia-omniverse-into-ai-factory-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight launches AI inference validation platform",
+      "category": "MECHANICAL",
+      "date": "2026-03-19T08:31:43+00:00",
+      "url": "https://www.engineering.com/keysight-launches-ai-inference-validation-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HPE launches AI Grid for distributed inference clusters",
+      "category": "MECHANICAL",
+      "date": "2026-03-19T08:22:02+00:00",
+      "url": "https://www.engineering.com/hpe-launches-ai-grid-for-distributed-inference-clusters/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Toshiba launches photocoupler for automotive SSRs",
+      "category": "MECHANICAL",
+      "date": "2026-03-19T08:06:51+00:00",
+      "url": "https://www.engineering.com/toshiba-launches-photocoupler-for-automotive-ssrs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Körber collaborates with NVIDIA on logistics digital twins",
+      "category": "MECHANICAL",
+      "date": "2026-03-19T08:06:00+00:00",
+      "url": "https://www.engineering.com/korber-collaborates-with-nvidia-on-logistics-digital-twins/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Datacor acquires simulation software developer GoldSim",
+      "category": "MECHANICAL",
+      "date": "2026-03-19T08:01:00+00:00",
+      "url": "https://www.engineering.com/datacor-acquires-simulation-software-developer-goldsim/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "CERC issues suo moto order on congestion charges for real-time inter-state transmission",
+      "category": "POWER",
+      "date": "2026-03-19T07:13:55+00:00",
+      "url": "https://powerline.net.in/2026/03/19/cerc-issues-suo-moto-order-on-congestion-charges-for-real-time-inter-state-transmission/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "MNRE extends ALMM framework to solar ingots and wafers",
+      "category": "POWER",
+      "date": "2026-03-19T07:03:36+00:00",
+      "url": "https://powerline.net.in/2026/03/19/mnre-extends-almm-framework-to-solar-ingots-and-wafers/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "UPPCL to offer one-time relief to prepaid smart meter consumers after disconnections",
+      "category": "POWER",
+      "date": "2026-03-19T07:03:06+00:00",
+      "url": "https://powerline.net.in/2026/03/19/uppcl-to-offer-one-time-relief-to-prepaid-smart-meter-consumers-after-disconnections/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Sunsure Energy secures Rs 6.06 billion debt financing for solar projects",
+      "category": "POWER",
+      "date": "2026-03-19T07:01:43+00:00",
+      "url": "https://powerline.net.in/2026/03/19/sunsure-energy-secures-rs-6-06-billion-debt-financing-for-solar-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Reliance signs USD 3 billion green ammonia supply deal with Samsung C&T",
       "category": "POWER",
       "date": "2026-03-19T07:00:04+00:00",
@@ -570,7 +690,7 @@
       "type": "magazine"
     },
     {
-      "title": "Transportation Secretary Sean Duffy welcomes input from states",
+      "title": "Transportation Secretary Sean Duffy says he welcomes input from states",
       "category": "SAFETY",
       "date": "2026-03-16T16:37:59+00:00",
       "url": "https://www.safetyandhealthmagazine.com/transportation-secretary-sean-duffy-welcomes-input-from-states/",
@@ -14682,5 +14802,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-19T07:00:42.271812+00:00"
+  "last_updated_utc": "2026-03-19T13:09:38.737731+00:00"
 }
