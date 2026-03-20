@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Leviathan Metals to acquire prospecting licence in Botswana",
+      "category": "INDUSTRY",
+      "date": "2026-03-20T10:03:59+00:00",
+      "url": "https://www.mining-technology.com/news/leviathan-metals-to-acquire-prospecting-licence-botswana/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Freeport plans $7.5bn boost to Chile’s El Abra copper output",
+      "category": "INDUSTRY",
+      "date": "2026-03-20T09:21:31+00:00",
+      "url": "https://www.mining-technology.com/news/freeport-plans-boost-el-abra-copper-output/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Lynas announces first samarium oxide output in Malaysia",
+      "category": "INDUSTRY",
+      "date": "2026-03-20T09:13:38+00:00",
+      "url": "https://www.mining-technology.com/news/lynas-first-samarium-oxide-output-malaysia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Riverside secures three Union Project concessions in Mexico",
       "category": "INDUSTRY",
       "date": "2026-03-18T13:27:27+00:00",
@@ -2282,5 +2306,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-20T06:58:40.212593+00:00"
+  "last_updated_utc": "2026-03-20T13:03:56.611438+00:00"
 }
