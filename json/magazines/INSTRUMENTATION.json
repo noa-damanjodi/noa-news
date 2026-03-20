@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Dematic launches intelligence platform for warehouse operations",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-20T17:43:53+00:00",
+      "url": "https://www.automationmag.com/dematic-launches-intelligence-platform-for-warehouse-operations/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "ReBelMove Pro modular autonomous mobile robot introduced by igus",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-20T17:03:24+00:00",
+      "url": "https://www.automationmag.com/rebelmove-pro-modular-autonomous-mobile-robot-introduced-by-igus/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "MassRobotics reveals second cohort of Physical AI Fellowship",
       "category": "INSTRUMENTATION",
       "date": "2026-03-18T20:21:11+00:00",
@@ -1146,5 +1162,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-20T13:03:56.611438+00:00"
+  "last_updated_utc": "2026-03-20T18:53:24.540987+00:00"
 }

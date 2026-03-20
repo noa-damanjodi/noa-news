@@ -2,6 +2,86 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "A rare victory for offshore wind – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-03-20T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/a-rare-victory-for-offshore-wind-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Tackling flexibility and stability with envelio CEO Luigi Montana | DTECH Interview Studio",
+      "category": "RENEWABLE",
+      "date": "2026-03-19T20:33:33+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/tackling-flexibility-and-stability-with-envelio-ceo-luigi-montana-dtech-interview-studio/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "House Democrats want clean energy tax credits back",
+      "category": "RENEWABLE",
+      "date": "2026-03-19T19:05:41+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/house-democrats-want-clean-energy-tax-credits-back/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Fervo Energy closes $421M in financing for first stage of ‘flagship’ geothermal project",
+      "category": "RENEWABLE",
+      "date": "2026-03-19T18:56:58+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/fervo-energy-closes-421m-in-financing-for-first-stage-of-flagship-geothermal-project/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Louisa County officials push back against Valley Link Transmission proposal",
+      "category": "RENEWABLE",
+      "date": "2026-03-19T18:01:22+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/louisa-county-officials-push-back-against-valley-link-transmission-proposal/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "PSE, ChargeScape launch Washington’s first vehicle-to-home power demonstration",
+      "category": "RENEWABLE",
+      "date": "2026-03-19T16:07:00+00:00",
+      "url": "https://www.renewableenergyworld.com/electric-vehicle/ev-charging/pse-chargescape-launch-washingtons-first-vehicle-to-home-power-demonstration/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Exploring Looq AI’s journey from the DTECH Initiate Startup Pavilion to a utility mainstay",
+      "category": "RENEWABLE",
+      "date": "2026-03-19T14:06:07+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/exploring-looq-ais-journey-from-the-dtech-initiate-startup-pavilion-to-a-utility-mainstay/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Islandwide blackout hits Cuba as it struggles with deepening energy crisis",
+      "category": "RENEWABLE",
+      "date": "2026-03-17T15:08:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/islandwide-blackout-hits-cuba-as-it-struggles-with-deepening-energy-crisis/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Red Rock hydropower proposal ‘simply does not align’ with conservation goals, water officials say",
+      "category": "RENEWABLE",
+      "date": "2026-03-16T19:38:29+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/red-rock-hydropower-proposal-simply-does-not-align-with-conservation-goals-water-officials-say/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "International Energy Agency releases new policy guidance to accelerate ocean energy deployment",
+      "category": "RENEWABLE",
+      "date": "2026-03-16T17:25:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/international-energy-agency-releases-new-policy-guidance-to-accelerate-ocean-energy-deployment/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Celebrating the energy transition’s unsung hero | DTECH Interview Studio",
       "category": "RENEWABLE",
       "date": "2026-03-16T14:17:34+00:00",
@@ -1362,5 +1442,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-20T13:03:56.611438+00:00"
+  "last_updated_utc": "2026-03-20T18:53:24.540987+00:00"
 }
