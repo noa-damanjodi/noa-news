@@ -2,6 +2,46 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Centaurus gets $190m in funding for Jaguar project",
+      "category": "INDUSTRY",
+      "date": "2026-03-23T12:50:58+00:00",
+      "url": "https://www.mining-technology.com/news/centaurus-gets-funding-jaguar-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Canadian Uranium signs agreement to acquire Rook 2",
+      "category": "INDUSTRY",
+      "date": "2026-03-23T10:50:52+00:00",
+      "url": "https://www.mining-technology.com/news/canadian-uranium-agreement-acquire-rook-2/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Ghana Parliament ratifies Atlantic’s Ewoyaa mining lease",
+      "category": "INDUSTRY",
+      "date": "2026-03-23T09:04:13+00:00",
+      "url": "https://www.mining-technology.com/news/ghana-parliament-ratifies-ewoyaa-mining-lease/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Epiroc to supply electric mining rigs in Africa",
+      "category": "INDUSTRY",
+      "date": "2026-03-23T08:57:18+00:00",
+      "url": "https://www.mining-technology.com/news/epiroc-supply-electric-mining-rigs-africa/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Q&A: Measuring what matters, inside GRI’s mining sustainability standard",
+      "category": "INDUSTRY",
+      "date": "2026-03-23T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/qa-measuring-what-matters-inside-gris-mining-sustainability-standard/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Canada, Peru formalise mining cooperation agreement",
       "category": "INDUSTRY",
       "date": "2026-03-20T13:11:39+00:00",
@@ -2322,5 +2362,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-23T07:13:41.033938+00:00"
+  "last_updated_utc": "2026-03-23T13:12:19.287310+00:00"
 }
