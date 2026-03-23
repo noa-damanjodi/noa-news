@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Why shifting from AMI 2.0 to NextWave AMI could define the future of grid intelligence",
+      "category": "RENEWABLE",
+      "date": "2026-03-23T15:58:06+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/why-shifting-from-ami-2-0-to-nextwave-ami-could-define-the-future-of-grid-intelligence/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Factor this finance and project development roundup: Avantus, Doral, EIB, ForeFront, Form Energy, GSPP",
+      "category": "RENEWABLE",
+      "date": "2026-03-20T20:08:13+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/energy-finance/factor-this-finance-and-project-development-roundup-avantus-doral-eib-forefront-form-energy-gspp/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Google has integrated 1 GW of data center demand response with US utilities",
+      "category": "RENEWABLE",
+      "date": "2026-03-20T17:46:31+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/google-has-integrated-1-gw-of-data-center-demand-response-with-us-utilities/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "A rare victory for offshore wind – This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-03-20T10:00:00+00:00",
@@ -1442,5 +1466,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-23T13:12:19.287310+00:00"
+  "last_updated_utc": "2026-03-23T18:57:44.366872+00:00"
 }

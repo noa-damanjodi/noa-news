@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Trimble and Hitachi expand grade control in Europe",
+      "category": "MECHANICAL",
+      "date": "2026-03-23T14:21:08+00:00",
+      "url": "https://www.engineering.com/trimble-and-hitachi-expand-grade-control-in-europe/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Moldex3D releases 2026 version with A.O.I. updates",
+      "category": "MECHANICAL",
+      "date": "2026-03-23T14:14:18+00:00",
+      "url": "https://www.engineering.com/moldex3d-releases-2026-version-with-a-o-i-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Improve speed, cost and quality through Cloud PLM",
+      "category": "MECHANICAL",
+      "date": "2026-03-23T13:38:25+00:00",
+      "url": "https://www.engineering.com/improve-speed-cost-and-quality-through-cloud-plm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Scanology launches SIMSCAN-S Gen2 wireless 3D scanner",
       "category": "MECHANICAL",
       "date": "2026-03-23T07:47:34+00:00",
@@ -4386,5 +4410,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-23T13:12:19.287310+00:00"
+  "last_updated_utc": "2026-03-23T18:57:44.366872+00:00"
 }

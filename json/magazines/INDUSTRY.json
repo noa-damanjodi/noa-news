@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Rio Tinto, LCL sign agreement for Ono Project in Papua New Guinea",
+      "category": "INDUSTRY",
+      "date": "2026-03-23T13:00:33+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-lcl-agreement-ono-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Centaurus gets $190m in funding for Jaguar project",
       "category": "INDUSTRY",
       "date": "2026-03-23T12:50:58+00:00",
@@ -2362,5 +2370,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-23T13:12:19.287310+00:00"
+  "last_updated_utc": "2026-03-23T18:57:44.366872+00:00"
 }

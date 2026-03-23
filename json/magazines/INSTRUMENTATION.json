@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Manufacturers increasingly expect performance and simplicity from AI vision systems, Cognex research finds",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-23T17:49:53+00:00",
+      "url": "https://www.automationmag.com/manufacturers-increasingly-expect-performance-and-simplicity-from-ai-vision-systems-cognex-research-finds/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Canada facing “emergency level” productivity problem, ICTC reports",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-23T15:16:25+00:00",
+      "url": "https://www.automationmag.com/canada-facing-emergency-level-productivity-problem-ictc-reports/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Dematic launches intelligence platform for warehouse operations",
       "category": "INSTRUMENTATION",
       "date": "2026-03-20T17:43:53+00:00",
@@ -1162,5 +1178,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-23T13:12:19.287310+00:00"
+  "last_updated_utc": "2026-03-23T18:57:44.366872+00:00"
 }

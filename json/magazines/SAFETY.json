@@ -2,6 +2,30 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "‘OSHA Cares’: Agency launches initiative webpage",
+      "category": "SAFETY",
+      "date": "2026-03-23T17:30:27+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-cares-agency-launches-initiative-webpage/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bipartisan railroad safety bill would preserve human presence in track inspections",
+      "category": "SAFETY",
+      "date": "2026-03-23T17:25:24+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/bipartisan-railroad-safety-bill-would-preserve-human-presence-in-track-inspections/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Oregon OSHA invites fire districts to take part in Challenge program",
+      "category": "SAFETY",
+      "date": "2026-03-23T14:23:35+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/oregon-osha-invites-fire-districts-to-take-part-in-challenge-program/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Error in Walking-Working Surfaces rule prompts interim guidance",
       "category": "SAFETY",
       "date": "2026-03-19T15:08:50+00:00",
@@ -1058,5 +1082,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-23T13:12:19.287310+00:00"
+  "last_updated_utc": "2026-03-23T18:57:44.366872+00:00"
 }
