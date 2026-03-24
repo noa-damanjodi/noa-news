@@ -2,6 +2,70 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Redshift for Vectorworks, Revit and more with new Archviz integrations",
+      "category": "MECHANICAL",
+      "date": "2026-03-24T15:09:26+00:00",
+      "url": "https://www.engineering.com/redshift-for-vectorworks-revit-and-more-with-new-archviz-integrations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon updates BendingStudio XT inspection software",
+      "category": "MECHANICAL",
+      "date": "2026-03-24T14:08:40+00:00",
+      "url": "https://www.engineering.com/hexagon-updates-bendingstudio-xt-inspection-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA expands robotics platform and AI models",
+      "category": "MECHANICAL",
+      "date": "2026-03-24T10:50:00+00:00",
+      "url": "https://www.engineering.com/nvidia-expands-robotics-platform-and-ai-models/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA releases Dynamo 1.0 for AI inference",
+      "category": "MECHANICAL",
+      "date": "2026-03-24T10:41:00+00:00",
+      "url": "https://www.engineering.com/nvidia-releases-dynamo-1-0-for-ai-inference/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "FANUC America plans new Michigan robotics facility",
+      "category": "MECHANICAL",
+      "date": "2026-03-24T09:14:00+00:00",
+      "url": "https://www.engineering.com/fanuc-america-plans-new-michigan-robotics-facility/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence expands AI design collaboration with NVIDIA",
+      "category": "MECHANICAL",
+      "date": "2026-03-24T09:05:00+00:00",
+      "url": "https://www.engineering.com/cadence-expands-ai-design-collaboration-with-nvidia/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Procore integrates with NVIDIA Omniverse DSX",
+      "category": "MECHANICAL",
+      "date": "2026-03-24T08:38:00+00:00",
+      "url": "https://www.engineering.com/procore-integrates-with-nvidia-omniverse-dsx/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "embedUR expands Arm support in Fusion Studio",
+      "category": "MECHANICAL",
+      "date": "2026-03-24T08:04:00+00:00",
+      "url": "https://www.engineering.com/embedur-expands-arm-support-in-fusion-studio/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Additive business update: 3D Systems, Materialise, Stratasys, and more",
       "category": "MECHANICAL",
       "date": "2026-03-23T20:57:32+00:00",
@@ -4426,5 +4490,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-24T13:16:25.842576+00:00"
+  "last_updated_utc": "2026-03-24T19:05:25.583486+00:00"
 }

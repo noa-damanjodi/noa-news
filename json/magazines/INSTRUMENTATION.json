@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "DHL Supply Chain accelerating automation deployments with SVT Robotics SOFTBOT platform",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-24T16:49:28+00:00",
+      "url": "https://www.automationmag.com/dhl-supply-chain-accelerating-automation-deployments-with-svt-robotics-softbot-platform/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Successful automation implementations require system integration, data access and collaboration, Eclipse Automation report finds",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-24T14:50:39+00:00",
+      "url": "https://www.automationmag.com/successful-automation-implementations-require-system-integration-data-access-and-collaboration-eclipse-automation-report-finds/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB bolsters flow measurement portfolio with Ethernet-APL connectivity",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-24T13:56:15+00:00",
+      "url": "https://www.automationmag.com/abb-bolsters-flow-measurement-portfolio-with-ethernet-apl-connectivity/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Manufacturers increasingly expect performance and simplicity from AI vision systems, Cognex research finds",
       "category": "INSTRUMENTATION",
       "date": "2026-03-23T17:49:53+00:00",
@@ -1178,5 +1202,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-24T13:16:25.842576+00:00"
+  "last_updated_utc": "2026-03-24T19:05:25.583486+00:00"
 }
