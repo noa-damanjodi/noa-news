@@ -2,6 +2,30 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Alaska DNR approves Felix Gold’s antimony ore sampling",
+      "category": "INDUSTRY",
+      "date": "2026-03-24T10:17:40+00:00",
+      "url": "https://www.mining-technology.com/news/alaska-dnr-felix-golds-antimony-ore-sampling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Drill rig arrives at Zacatecas Silver’s El Cristo site",
+      "category": "INDUSTRY",
+      "date": "2026-03-24T08:31:45+00:00",
+      "url": "https://www.mining-technology.com/news/drill-rig-at-zacatecas-silvers-el-cristo/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Zijin to acquire stake in Chifeng Gold",
+      "category": "INDUSTRY",
+      "date": "2026-03-24T08:24:58+00:00",
+      "url": "https://www.mining-technology.com/news/zijin-to-acquire-stake-chifeng-gold/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Permitting, not geology: why Chile’s mining sector is stalling",
       "category": "INDUSTRY",
       "date": "2026-03-24T07:00:00+00:00",
@@ -111,6 +135,22 @@
       "date": "2026-03-23T18:59:49+00:00",
       "url": "https://www.engineering.com/agricultural-tradition-meets-the-digital-design-age/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Record heat, melting snow: What does it mean for California’s reservoirs?",
+      "category": "RENEWABLE",
+      "date": "2026-03-23T18:50:29+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/record-heat-melting-snow-what-does-it-mean-for-californias-reservoirs/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Why Colorado River negotiations stalled, and how they could resume with the possibility of agreement",
+      "category": "RENEWABLE",
+      "date": "2026-03-23T18:37:02+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/why-colorado-river-negotiations-stalled-and-how-they-could-resume-with-the-possibility-of-agreement/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -410,6 +450,14 @@
       "type": "magazine"
     },
     {
+      "title": "Thousands of Moldovans cut off from water after Russian strike on Ukrainian hydropower plant",
+      "category": "RENEWABLE",
+      "date": "2026-03-20T17:07:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/thousands-of-moldovans-cut-off-from-water-after-russian-strike-on-ukrainian-hydropower-plant/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "ReBelMove Pro modular autonomous mobile robot introduced by igus",
       "category": "INSTRUMENTATION",
       "date": "2026-03-20T17:03:24+00:00",
@@ -527,6 +575,22 @@
       "date": "2026-03-20T09:13:38+00:00",
       "url": "https://www.mining-technology.com/news/lynas-first-samarium-oxide-output-malaysia/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Surya Roshni Lights Up Indhana Bhawan with Advanced Façade Lighting",
+      "category": "ELECTRICAL",
+      "date": "2026-03-20T07:04:59+00:00",
+      "url": "https://www.electricalindia.in/surya-roshni-lights-up-indhana-bhawan-with-advanced-facade-lighting/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Har Gaon Roshan: Powering Rural India’s Next Development Inflection",
+      "category": "ELECTRICAL",
+      "date": "2026-03-20T07:01:56+00:00",
+      "url": "https://www.electricalindia.in/har-gaon-roshan-powering-rural-indias-next-development-inflection/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -3431,22 +3495,6 @@
       "date": "2026-03-05T08:15:00+00:00",
       "url": "https://www.engineering.com/falcon-electronics-earns-cmmc-level-2-certification/",
       "source": "Engineering.com",
-      "type": "magazine"
-    },
-    {
-      "title": "Surya Roshni Lights Up Indhana Bhawan with Advanced Façade Lighting",
-      "category": "ELECTRICAL",
-      "date": "2026-03-05T07:04:59+00:00",
-      "url": "https://www.electricalindia.in/surya-roshni-lights-up-indhana-bhawan-with-advanced-facade-lighting/",
-      "source": "Electrical India Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "Har Gaon Roshan: Powering Rural India’s Next Development Inflection",
-      "category": "ELECTRICAL",
-      "date": "2026-03-05T07:01:56+00:00",
-      "url": "https://www.electricalindia.in/har-gaon-roshan-powering-rural-indias-next-development-inflection/",
-      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -15506,5 +15554,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-24T07:06:44.153985+00:00"
+  "last_updated_utc": "2026-03-24T13:16:25.842576+00:00"
 }
