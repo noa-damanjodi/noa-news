@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Permitting, not geology: why Chile’s mining sector is stalling",
+      "category": "INDUSTRY",
+      "date": "2026-03-24T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/permitting-not-geology-why-chiles-mining-sector-is-stalling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "PFC board approves plan to raise Rs 1.6 trillion from domestic and global markets",
+      "category": "POWER",
+      "date": "2026-03-24T06:38:47+00:00",
+      "url": "https://powerline.net.in/2026/03/24/pfc-board-approves-plan-to-raise-rs-1-6-trillion-from-domestic-and-global-markets/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "GUVNL announces results of 625 MWp solar power auction",
+      "category": "POWER",
+      "date": "2026-03-24T06:36:56+00:00",
+      "url": "https://powerline.net.in/2026/03/24/guvnl-announces-results-of-625-mwp-solar-power-auction/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Sorigin RE Services secures 250 MW/500 MWh standalone BESS project in Rajasthan",
+      "category": "POWER",
+      "date": "2026-03-24T06:33:14+00:00",
+      "url": "https://powerline.net.in/2026/03/24/sorigin-re-services-secures-250-mw-500-mwh-standalone-bess-project-in-rajasthan/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "RERC issues draft resource adequacy regulations",
+      "category": "POWER",
+      "date": "2026-03-24T06:32:00+00:00",
+      "url": "https://powerline.net.in/2026/03/24/rerc-issues-draft-resource-adequacy-regulations/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "SUGS Lloyd secures Rs 6.39 billion EPC order from Konkan Railway",
+      "category": "POWER",
+      "date": "2026-03-24T06:28:17+00:00",
+      "url": "https://powerline.net.in/2026/03/24/sugs-lloyd-secures-rs-6-39-billion-epc-order-from-konkan-railway/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Tunisia plans to launch country’s first utility-scale solar plus BESS project",
+      "category": "POWER",
+      "date": "2026-03-24T06:23:34+00:00",
+      "url": "https://powerline.net.in/2026/03/24/tunisia-plans-to-launch-countrys-first-utility-scale-solar-plus-bess-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Energy China consortium wins EPC contract for 1,000 MWh BESS in Egypt",
+      "category": "POWER",
+      "date": "2026-03-24T06:22:19+00:00",
+      "url": "https://powerline.net.in/2026/03/24/energy-china-consortium-wins-epc-contract-for-1000-mwh-bess-in-egypt/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Keep truck drivers safe in construction work zones",
+      "category": "SAFETY",
+      "date": "2026-03-24T05:00:57+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/keep-truck-drivers-safe-in-construction-work-zones/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "FACE Report: Concrete finisher crushed by collapsing dump truck bed",
+      "category": "SAFETY",
+      "date": "2026-03-24T05:00:49+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/face-report-concrete-finisher-crushed-by-collapsing-dump-truck-bed/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Protect workers from tinnitus",
+      "category": "SAFETY",
+      "date": "2026-03-24T05:00:40+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/protect-workers-from-tinnitus/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Safety feedback: Use the COIN method",
+      "category": "SAFETY",
+      "date": "2026-03-24T05:00:19+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safety-feedback-use-the-coin-method/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Additive business update: 3D Systems, Materialise, Stratasys, and more",
       "category": "MECHANICAL",
       "date": "2026-03-23T20:57:32+00:00",
@@ -15410,5 +15506,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-24T02:21:44.511087+00:00"
+  "last_updated_utc": "2026-03-24T07:06:44.153985+00:00"
 }
