@@ -2,7 +2,15 @@
   "category": "SAFETY",
   "items": [
     {
-      "title": "OSHA to host a job fair in April",
+      "title": "House hearing explores ‘hurdles’ related to federal workers’ comp programs",
+      "category": "SAFETY",
+      "date": "2026-03-24T19:56:57+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/house-hearing-explores-hurdles-related-to-federal-workers-comp-programs/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA to host virtual job fair in April",
       "category": "SAFETY",
       "date": "2026-03-24T19:00:18+00:00",
       "url": "https://www.safetyandhealthmagazine.com/osha-to-host-a-job-fair-in-april/",
@@ -1130,5 +1138,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-24T19:05:25.583486+00:00"
+  "last_updated_utc": "2026-03-25T02:26:55.578405+00:00"
 }

@@ -2,7 +2,15 @@
   "category": "ALL",
   "items": [
     {
-      "title": "OSHA to host a job fair in April",
+      "title": "House hearing explores ‘hurdles’ related to federal workers’ comp programs",
+      "category": "SAFETY",
+      "date": "2026-03-24T19:56:57+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/house-hearing-explores-hurdles-related-to-federal-workers-comp-programs/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA to host virtual job fair in April",
       "category": "SAFETY",
       "date": "2026-03-24T19:00:18+00:00",
       "url": "https://www.safetyandhealthmagazine.com/osha-to-host-a-job-fair-in-april/",
@@ -18,11 +26,27 @@
       "type": "magazine"
     },
     {
+      "title": "EPRI launches new large load framework to reduce time to power for data centers",
+      "category": "RENEWABLE",
+      "date": "2026-03-24T17:20:45+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/epri-launches-new-large-load-framework-to-reduce-time-to-power-for-data-centers/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "DHL Supply Chain accelerating automation deployments with SVT Robotics SOFTBOT platform",
       "category": "INSTRUMENTATION",
       "date": "2026-03-24T16:49:28+00:00",
       "url": "https://www.automationmag.com/dhl-supply-chain-accelerating-automation-deployments-with-svt-robotics-softbot-platform/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Project expansions set to lift India’s iron ore output in 2026",
+      "category": "INDUSTRY",
+      "date": "2026-03-24T16:40:02+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/project-expansions-to-lift-india-iron-ore-output-2026/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -47,6 +71,14 @@
       "date": "2026-03-24T15:09:26+00:00",
       "url": "https://www.engineering.com/redshift-for-vectorworks-revit-and-more-with-new-archviz-integrations/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trump administration to pay French company $1B to walk away from US offshore wind leases",
+      "category": "RENEWABLE",
+      "date": "2026-03-24T15:05:00+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/offshore/trump-administration-to-pay-french-company-1b-to-walk-away-from-us-offshore-wind-leases/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -15714,5 +15746,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-24T19:05:25.583486+00:00"
+  "last_updated_utc": "2026-03-25T02:26:55.578405+00:00"
 }
