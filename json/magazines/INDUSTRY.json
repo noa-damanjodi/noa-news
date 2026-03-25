@@ -2,6 +2,46 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Rio Tinto partners with governments for Boyne smelter",
+      "category": "INDUSTRY",
+      "date": "2026-03-25T11:55:37+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-partners-governments-boyne-smelter/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Anson Resources begins drilling at Yellow Cat project",
+      "category": "INDUSTRY",
+      "date": "2026-03-25T10:27:15+00:00",
+      "url": "https://www.mining-technology.com/news/anson-resources-drilling-yellow-cat-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Terramin begins site preparation works at Algerian zinc project",
+      "category": "INDUSTRY",
+      "date": "2026-03-25T09:31:01+00:00",
+      "url": "https://www.mining-technology.com/news/terramin-site-preparation-algerias-zinc-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Ambra transforms comms system at IAMGOLD’s Côté Gold Mine",
+      "category": "INDUSTRY",
+      "date": "2026-03-25T09:24:53+00:00",
+      "url": "https://www.mining-technology.com/news/ambra-transforms-comms-system-at-iamgolds-cote-gold-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Protecting mining shovels against over-lubrication",
+      "category": "INDUSTRY",
+      "date": "2026-03-25T07:55:50+00:00",
+      "url": "https://www.mining-technology.com/sponsored/protecting-mining-shovels-against-over-lubrication/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Project expansions set to lift India’s iron ore output in 2026",
       "category": "INDUSTRY",
       "date": "2026-03-24T16:40:02+00:00",
@@ -2466,5 +2506,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-25T07:04:35.691002+00:00"
+  "last_updated_utc": "2026-03-25T13:15:20.606507+00:00"
 }

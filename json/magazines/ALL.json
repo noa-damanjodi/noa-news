@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Rio Tinto partners with governments for Boyne smelter",
+      "category": "INDUSTRY",
+      "date": "2026-03-25T11:55:37+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-partners-governments-boyne-smelter/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "InnovMetric partners with Aberlink for CMM software",
+      "category": "MECHANICAL",
+      "date": "2026-03-25T11:35:00+00:00",
+      "url": "https://www.engineering.com/innovmetric-partners-with-aberlink-for-cmm-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ASRock Industrial introduces compact AI edge system",
+      "category": "MECHANICAL",
+      "date": "2026-03-25T11:32:00+00:00",
+      "url": "https://www.engineering.com/asrock-industrial-introduces-compact-ai-edge-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "congatec launches partner program for embedded systems",
+      "category": "MECHANICAL",
+      "date": "2026-03-25T11:16:00+00:00",
+      "url": "https://www.engineering.com/congatec-launches-partner-program-for-embedded-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric develops CNC digital twin technology",
+      "category": "MECHANICAL",
+      "date": "2026-03-25T11:12:00+00:00",
+      "url": "https://www.engineering.com/mitsubishi-electric-develops-cnc-digital-twin-technology/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SimScale integrates PAMICS solver for CFD workflows",
+      "category": "MECHANICAL",
+      "date": "2026-03-25T11:10:00+00:00",
+      "url": "https://www.engineering.com/simscale-integrates-pamics-solver-for-cfd-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Synopsys supports Arm AGI CPU development",
+      "category": "MECHANICAL",
+      "date": "2026-03-25T11:06:00+00:00",
+      "url": "https://www.engineering.com/synopsys-supports-arm-agi-cpu-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMC Bridge demos MCP connector for BIM workflows",
+      "category": "MECHANICAL",
+      "date": "2026-03-25T10:54:07+00:00",
+      "url": "https://www.engineering.com/amc-bridge-demos-mcp-connector-for-bim-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Anson Resources begins drilling at Yellow Cat project",
+      "category": "INDUSTRY",
+      "date": "2026-03-25T10:27:15+00:00",
+      "url": "https://www.mining-technology.com/news/anson-resources-drilling-yellow-cat-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Terramin begins site preparation works at Algerian zinc project",
+      "category": "INDUSTRY",
+      "date": "2026-03-25T09:31:01+00:00",
+      "url": "https://www.mining-technology.com/news/terramin-site-preparation-algerias-zinc-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Ambra transforms comms system at IAMGOLD’s Côté Gold Mine",
+      "category": "INDUSTRY",
+      "date": "2026-03-25T09:24:53+00:00",
+      "url": "https://www.mining-technology.com/news/ambra-transforms-comms-system-at-iamgolds-cote-gold-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Protecting mining shovels against over-lubrication",
+      "category": "INDUSTRY",
+      "date": "2026-03-25T07:55:50+00:00",
+      "url": "https://www.mining-technology.com/sponsored/protecting-mining-shovels-against-over-lubrication/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Vietnam plans two renewable energy hubs by 2030 under revised JETP roadmap",
       "category": "POWER",
       "date": "2026-03-25T05:56:28+00:00",
@@ -15802,5 +15898,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-25T07:04:35.691002+00:00"
+  "last_updated_utc": "2026-03-25T13:15:20.606507+00:00"
 }
