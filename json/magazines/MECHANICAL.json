@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "What engineers need to understand about metal AM surface finishing",
+      "category": "MECHANICAL",
+      "date": "2026-03-25T18:48:44+00:00",
+      "url": "https://www.engineering.com/what-engineers-need-to-understand-about-metal-am-surface-finishing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "InnovMetric partners with Aberlink for CMM software",
       "category": "MECHANICAL",
       "date": "2026-03-25T11:35:00+00:00",
@@ -54,6 +62,22 @@
       "category": "MECHANICAL",
       "date": "2026-03-25T10:54:07+00:00",
       "url": "https://www.engineering.com/amc-bridge-demos-mcp-connector-for-bim-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nota AI and SiMa.ai partner on edge physical AI",
+      "category": "MECHANICAL",
+      "date": "2026-03-25T09:33:00+00:00",
+      "url": "https://www.engineering.com/nota-ai-and-sima-ai-partner-on-edge-physical-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "CIQ and AMD collaborate on Rocky Linux for AI, HPC",
+      "category": "MECHANICAL",
+      "date": "2026-03-25T08:26:00+00:00",
+      "url": "https://www.engineering.com/ciq-and-amd-collaborate-on-rocky-linux-for-ai-hpc/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -4546,5 +4570,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-25T13:15:20.606507+00:00"
+  "last_updated_utc": "2026-03-25T18:58:01.119021+00:00"
 }

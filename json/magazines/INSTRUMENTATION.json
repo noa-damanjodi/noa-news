@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "DigiKey collaborates with STMicroelectronics and Ultra Librarian to deliver enhanced eDesignSuite integration",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-25T15:48:13+00:00",
+      "url": "https://www.automationmag.com/digikey-collaborates-with-stmicroelectronics-and-ultra-librarian-to-deliver-enhanced-edesignsuite-integration/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Orbbec and Basler announce technology partnership, launch Stereo mini product line",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-25T15:29:46+00:00",
+      "url": "https://www.automationmag.com/orbbec-and-basler-announce-technology-partnership-launch-stereo-mini-product-line/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Top Trends in 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-25T14:28:17+00:00",
+      "url": "https://www.automationmag.com/top-trends-in-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "DHL Supply Chain accelerating automation deployments with SVT Robotics SOFTBOT platform",
       "category": "INSTRUMENTATION",
       "date": "2026-03-24T16:49:28+00:00",
@@ -1202,5 +1226,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-25T13:15:20.606507+00:00"
+  "last_updated_utc": "2026-03-25T18:58:01.119021+00:00"
 }

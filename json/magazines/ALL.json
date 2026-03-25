@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "What engineers need to understand about metal AM surface finishing",
+      "category": "MECHANICAL",
+      "date": "2026-03-25T18:48:44+00:00",
+      "url": "https://www.engineering.com/what-engineers-need-to-understand-about-metal-am-surface-finishing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Study identifies negative impacts of tinnitus on workers",
+      "category": "SAFETY",
+      "date": "2026-03-25T16:36:01+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/study-identifies-negative-impacts-of-tinnitus-on-workers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "‘Safety can’t depend on a badge color’: Chemical Safety Board urges improved contractor oversight",
+      "category": "SAFETY",
+      "date": "2026-03-25T16:34:59+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safety-cant-depend-on-a-badge-color-chemical-safety-board-urges-improved-contractor-oversight/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "DigiKey collaborates with STMicroelectronics and Ultra Librarian to deliver enhanced eDesignSuite integration",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-25T15:48:13+00:00",
+      "url": "https://www.automationmag.com/digikey-collaborates-with-stmicroelectronics-and-ultra-librarian-to-deliver-enhanced-edesignsuite-integration/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Orbbec and Basler announce technology partnership, launch Stereo mini product line",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-25T15:29:46+00:00",
+      "url": "https://www.automationmag.com/orbbec-and-basler-announce-technology-partnership-launch-stereo-mini-product-line/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Biodiversity strategy is a must for mining companies",
+      "category": "INDUSTRY",
+      "date": "2026-03-25T15:22:51+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/biodiversity-strategy-a-must-mining-companies/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Top Trends in 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-25T14:28:17+00:00",
+      "url": "https://www.automationmag.com/top-trends-in-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "New grant competition targets on-the-job electrical fatalities",
+      "category": "SAFETY",
+      "date": "2026-03-25T13:58:34+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-grant-competition-targets-on-the-job-electrical-fatalities/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Coppermoly acquires complete stake in Wyemandoo Project",
+      "category": "INDUSTRY",
+      "date": "2026-03-25T13:49:00+00:00",
+      "url": "https://www.mining-technology.com/news/coppermoly-acquires-complete-stake-wyemandoo-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Oil monitoring and used oil analysis: Best practices for mining operations",
+      "category": "INDUSTRY",
+      "date": "2026-03-25T13:20:21+00:00",
+      "url": "https://www.mining-technology.com/sponsored/oil-monitoring-and-used-oil-analysis-best-practices-for-mining-operations/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Rio Tinto partners with governments for Boyne smelter",
       "category": "INDUSTRY",
       "date": "2026-03-25T11:55:37+00:00",
@@ -74,6 +154,14 @@
       "type": "magazine"
     },
     {
+      "title": "Nota AI and SiMa.ai partner on edge physical AI",
+      "category": "MECHANICAL",
+      "date": "2026-03-25T09:33:00+00:00",
+      "url": "https://www.engineering.com/nota-ai-and-sima-ai-partner-on-edge-physical-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Terramin begins site preparation works at Algerian zinc project",
       "category": "INDUSTRY",
       "date": "2026-03-25T09:31:01+00:00",
@@ -87,6 +175,14 @@
       "date": "2026-03-25T09:24:53+00:00",
       "url": "https://www.mining-technology.com/news/ambra-transforms-comms-system-at-iamgolds-cote-gold-mine/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "CIQ and AMD collaborate on Rocky Linux for AI, HPC",
+      "category": "MECHANICAL",
+      "date": "2026-03-25T08:26:00+00:00",
+      "url": "https://www.engineering.com/ciq-and-amd-collaborate-on-rocky-linux-for-ai-hpc/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -15898,5 +15994,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-25T13:15:20.606507+00:00"
+  "last_updated_utc": "2026-03-25T18:58:01.119021+00:00"
 }
