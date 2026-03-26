@@ -2,6 +2,150 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Rio Tinto targets mid-2030s for Arizona copper mine opening",
+      "category": "INDUSTRY",
+      "date": "2026-03-26T13:18:42+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-mid-2030s-arizona-copper-mine-opening/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "BMF introduces compact microArch S150 3D printers",
+      "category": "MECHANICAL",
+      "date": "2026-03-26T12:36:08+00:00",
+      "url": "https://www.engineering.com/bmf-introduces-compact-microarch-s150-3d-printers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "VisiSpecs 26.0 adds collaboration and keynote updates",
+      "category": "MECHANICAL",
+      "date": "2026-03-26T12:22:34+00:00",
+      "url": "https://www.engineering.com/visispecs-26-0-adds-collaboration-and-keynote-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon launches APOLLO for metrology asset monitoring",
+      "category": "MECHANICAL",
+      "date": "2026-03-26T12:18:09+00:00",
+      "url": "https://www.engineering.com/hexagon-launches-apollo-for-metrology-asset-monitoring/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lynas partners with LS Eco Energy for rare earth metal production",
+      "category": "INDUSTRY",
+      "date": "2026-03-26T12:13:54+00:00",
+      "url": "https://www.mining-technology.com/news/lynas-partners-ls-eco-energy-rare-earth-production/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Brooks Tractor becomes new Trimble Technology Outlet",
+      "category": "MECHANICAL",
+      "date": "2026-03-26T12:12:55+00:00",
+      "url": "https://www.engineering.com/brooks-tractor-becomes-new-trimble-technology-outlet/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SER receives two Queensland exploration grants",
+      "category": "INDUSTRY",
+      "date": "2026-03-26T11:11:39+00:00",
+      "url": "https://www.mining-technology.com/news/ser-receives-two-queensland-exploration-grants/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD, NAVER Cloud expand AI infrastructure collaboration",
+      "category": "MECHANICAL",
+      "date": "2026-03-26T11:05:27+00:00",
+      "url": "https://www.engineering.com/amd-naver-cloud-expand-ai-infrastructure-collaboration/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Gigabyte launches Z890 Plus motherboards for Core Ultra",
+      "category": "MECHANICAL",
+      "date": "2026-03-26T10:44:23+00:00",
+      "url": "https://www.engineering.com/gigabyte-launches-z890-plus-motherboards-for-core-ultra/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MiTAC highlights AI and liquid cooling at CloudFest",
+      "category": "MECHANICAL",
+      "date": "2026-03-26T10:38:51+00:00",
+      "url": "https://www.engineering.com/mitac-highlights-ai-and-liquid-cooling-at-cloudfest/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "YIQIAO expands integrated hose and fitting production",
+      "category": "MECHANICAL",
+      "date": "2026-03-26T10:28:00+00:00",
+      "url": "https://www.engineering.com/yiqiao-expands-integrated-hose-and-fitting-production/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "CLOU debuts Aqua-C3.0 Ultra in Africa",
+      "category": "MECHANICAL",
+      "date": "2026-03-26T10:23:29+00:00",
+      "url": "https://www.engineering.com/clou-debuts-aqua-c3-0-ultra-in-africa/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "National Generation Adequacy Plan (2026-27 to 2035-36)",
+      "category": "POWER",
+      "date": "2026-03-26T08:19:09+00:00",
+      "url": "https://powerline.net.in/2026/03/26/national-generation-adequacy-plan-2026-27-to-2035-36/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Transmission Plan for Integration of over 900 GW Non-Fossil Fuel Capacity by 2035-36",
+      "category": "POWER",
+      "date": "2026-03-26T08:18:51+00:00",
+      "url": "https://powerline.net.in/2026/03/26/transmission-plan-for-integration-of-over-900-gw-non-fossil-fuel-capacity-by-2035-36/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Report on Ash Generation and Utilization For Grid-Connected Thermal Power Stations for the Year 2024–25",
+      "category": "POWER",
+      "date": "2026-03-26T08:18:32+00:00",
+      "url": "https://powerline.net.in/2026/03/26/report-on-ash-generation-and-utilization-for-grid-connected-thermal-power-stations-for-the-year-2024-25/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Distribution Utilities Ranking (DUR) Report",
+      "category": "POWER",
+      "date": "2026-03-26T08:17:08+00:00",
+      "url": "https://powerline.net.in/2026/03/26/distribution-utilities-ranking-dur-report/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NexGold launches RC drilling campaign at Goldboro project",
+      "category": "INDUSTRY",
+      "date": "2026-03-26T08:16:17+00:00",
+      "url": "https://www.mining-technology.com/news/nexgold-launches-rc-drill-goldboro-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "BRE receives Trial Mining Licence for Monte Alto Project",
+      "category": "INDUSTRY",
+      "date": "2026-03-26T08:04:42+00:00",
+      "url": "https://www.mining-technology.com/news/bre-trial-mining-licence-monte-alto-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "REC approves Rs 1.6 trillion market borrowing plan for 2026-27",
       "category": "POWER",
       "date": "2026-03-26T05:33:39+00:00",
@@ -16050,5 +16194,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-26T07:11:51.929952+00:00"
+  "last_updated_utc": "2026-03-26T13:20:36.666626+00:00"
 }

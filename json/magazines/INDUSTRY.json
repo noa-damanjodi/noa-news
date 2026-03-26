@@ -2,6 +2,46 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Rio Tinto targets mid-2030s for Arizona copper mine opening",
+      "category": "INDUSTRY",
+      "date": "2026-03-26T13:18:42+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-mid-2030s-arizona-copper-mine-opening/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Lynas partners with LS Eco Energy for rare earth metal production",
+      "category": "INDUSTRY",
+      "date": "2026-03-26T12:13:54+00:00",
+      "url": "https://www.mining-technology.com/news/lynas-partners-ls-eco-energy-rare-earth-production/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "SER receives two Queensland exploration grants",
+      "category": "INDUSTRY",
+      "date": "2026-03-26T11:11:39+00:00",
+      "url": "https://www.mining-technology.com/news/ser-receives-two-queensland-exploration-grants/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NexGold launches RC drilling campaign at Goldboro project",
+      "category": "INDUSTRY",
+      "date": "2026-03-26T08:16:17+00:00",
+      "url": "https://www.mining-technology.com/news/nexgold-launches-rc-drill-goldboro-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "BRE receives Trial Mining Licence for Monte Alto Project",
+      "category": "INDUSTRY",
+      "date": "2026-03-26T08:04:42+00:00",
+      "url": "https://www.mining-technology.com/news/bre-trial-mining-licence-monte-alto-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Biodiversity strategy is a must for mining companies",
       "category": "INDUSTRY",
       "date": "2026-03-25T15:22:51+00:00",
@@ -2530,5 +2570,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-26T07:11:51.929952+00:00"
+  "last_updated_utc": "2026-03-26T13:20:36.666626+00:00"
 }
