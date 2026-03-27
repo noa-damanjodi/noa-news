@@ -2,6 +2,62 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "North Bay signs LoI to acquire Bendito Resources",
+      "category": "INDUSTRY",
+      "date": "2026-03-27T12:37:12+00:00",
+      "url": "https://www.mining-technology.com/news/north-bay-signs-loi-acquire-bendito-resources/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Barrick slows operations at Reko Diq in Pakistan",
+      "category": "INDUSTRY",
+      "date": "2026-03-27T12:26:09+00:00",
+      "url": "https://www.mining-technology.com/news/barrick-slows-operations-reko-diq-pakistan/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Salar de Atacama expansion set to lift Chile lithium output in 2026",
+      "category": "INDUSTRY",
+      "date": "2026-03-27T12:02:13+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/salar-de-atacama-expansion-chile-lithium-output-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NMG signs new graphite supply deal with Canadian Government",
+      "category": "INDUSTRY",
+      "date": "2026-03-27T11:29:45+00:00",
+      "url": "https://www.mining-technology.com/news/nmg-new-graphite-supply-deal-canadian-government/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Q&A: how mine tailings technologies will make liability lucrative",
+      "category": "INDUSTRY",
+      "date": "2026-03-27T11:18:25+00:00",
+      "url": "https://www.mining-technology.com/features/mine-tailings-technologies-liability-mica/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Kenorland to acquire mineral claims in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-03-27T09:47:42+00:00",
+      "url": "https://www.mining-technology.com/news/kenorland-to-acquire-mineral-claims-canada/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "K2 Gold concludes 2026 drilling campaign at Nevada’s Si2 project",
+      "category": "INDUSTRY",
+      "date": "2026-03-27T09:23:31+00:00",
+      "url": "https://www.mining-technology.com/news/k2-gold-concludes-drilling-si2-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Rio Tinto targets mid-2030s for Arizona copper mine opening",
       "category": "INDUSTRY",
       "date": "2026-03-26T13:18:42+00:00",
@@ -110,14 +166,6 @@
       "category": "INDUSTRY",
       "date": "2026-03-24T16:40:02+00:00",
       "url": "https://www.mining-technology.com/analyst-comment/project-expansions-to-lift-india-iron-ore-output-2026/",
-      "source": "Mining Technology",
-      "type": "magazine"
-    },
-    {
-      "title": "Salar de Atacama expansion set to lift Chile lithium output in 2026",
-      "category": "INDUSTRY",
-      "date": "2026-03-24T16:17:37+00:00",
-      "url": "https://www.mining-technology.com/analyst-comment/salar-de-atacama-expansion-chile-lithium-output-2026/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -2570,5 +2618,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-27T07:11:17.476916+00:00"
+  "last_updated_utc": "2026-03-27T13:11:03.702202+00:00"
 }
