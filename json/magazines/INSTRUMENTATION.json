@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Ontario’s 2026 budget: What manufacturers need to know",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-27T16:05:16+00:00",
+      "url": "https://www.automationmag.com/ontarios-2026-budget-what-manufacturers-need-to-know/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "DigiKey collaborates with STMicroelectronics and Ultra Librarian to deliver enhanced eDesignSuite integration",
       "category": "INSTRUMENTATION",
       "date": "2026-03-25T15:48:13+00:00",
@@ -1226,5 +1234,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-27T13:11:03.702202+00:00"
+  "last_updated_utc": "2026-03-27T18:58:18.942388+00:00"
 }
