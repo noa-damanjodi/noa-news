@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Stratasys Direct joins military additive pilot program",
+      "category": "MECHANICAL",
+      "date": "2026-03-30T16:35:55+00:00",
+      "url": "https://www.engineering.com/stratasys-direct-joins-military-additive-pilot-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Durabook launches Z14I-HG rugged mobile workstation",
+      "category": "MECHANICAL",
+      "date": "2026-03-30T16:23:16+00:00",
+      "url": "https://www.engineering.com/durabook-launches-z14i-hg-rugged-mobile-workstation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "A.I. in Engineering: Separating Hype from Reality",
+      "category": "MECHANICAL",
+      "date": "2026-03-30T13:26:21+00:00",
+      "url": "https://www.engineering.com/a-i-in-engineering-separating-hype-from-reality/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "ABB expands VoltaGrid deal for AI data center power",
       "category": "MECHANICAL",
       "date": "2026-03-30T12:28:00+00:00",
@@ -4738,5 +4762,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-30T13:24:42.798980+00:00"
+  "last_updated_utc": "2026-03-30T19:02:31.578254+00:00"
 }
