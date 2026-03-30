@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Greenland Resources signs molybdenum supply deal with ROGESA",
+      "category": "INDUSTRY",
+      "date": "2026-03-30T07:41:21+00:00",
+      "url": "https://www.mining-technology.com/news/greenland-resources-molybdenum-supply-deal-rogesa/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Iran War: supply chain risks and outlook for mining industry",
       "category": "INDUSTRY",
       "date": "2026-03-27T14:02:28+00:00",
@@ -2626,5 +2634,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-30T02:40:41.214365+00:00"
+  "last_updated_utc": "2026-03-30T07:45:01.954970+00:00"
 }
