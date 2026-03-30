@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "ABB expands VoltaGrid deal for AI data center power",
+      "category": "MECHANICAL",
+      "date": "2026-03-30T12:28:00+00:00",
+      "url": "https://www.engineering.com/abb-expands-voltagrid-deal-for-ai-data-center-power/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens launches digital twin tools in India",
+      "category": "MECHANICAL",
+      "date": "2026-03-30T12:15:00+00:00",
+      "url": "https://www.engineering.com/teamcenter-digital-reality-viewer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
+      "category": "MECHANICAL",
+      "date": "2026-03-30T11:59:27+00:00",
+      "url": "https://www.engineering.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Math Magic adds Hitem3D API service to OpenClaw",
+      "category": "MECHANICAL",
+      "date": "2026-03-30T08:27:20+00:00",
+      "url": "https://www.engineering.com/math-magic-adds-hitem3d-api-service-to-openclaw/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens expands Carolinas manufacturing for AI demand",
+      "category": "MECHANICAL",
+      "date": "2026-03-30T08:14:44+00:00",
+      "url": "https://www.engineering.com/siemens-expands-carolinas-manufacturing-for-ai-demand/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Siemens launches on-premises drivetrain monitoring software",
       "category": "MECHANICAL",
       "date": "2026-03-27T15:33:44+00:00",
@@ -4698,5 +4738,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-30T07:45:01.954970+00:00"
+  "last_updated_utc": "2026-03-30T13:24:42.798980+00:00"
 }

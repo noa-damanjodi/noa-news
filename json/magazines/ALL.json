@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "ABB expands VoltaGrid deal for AI data center power",
+      "category": "MECHANICAL",
+      "date": "2026-03-30T12:28:00+00:00",
+      "url": "https://www.engineering.com/abb-expands-voltagrid-deal-for-ai-data-center-power/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens launches digital twin tools in India",
+      "category": "MECHANICAL",
+      "date": "2026-03-30T12:15:00+00:00",
+      "url": "https://www.engineering.com/teamcenter-digital-reality-viewer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
+      "category": "MECHANICAL",
+      "date": "2026-03-30T11:59:27+00:00",
+      "url": "https://www.engineering.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Felix Gold exercises option for Treasure Creek Project in Alaska",
+      "category": "INDUSTRY",
+      "date": "2026-03-30T11:45:30+00:00",
+      "url": "https://www.mining-technology.com/news/felix-gold-exercises-option-treasure-creek-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metso secures contract for Tia Maria project in Peru",
+      "category": "INDUSTRY",
+      "date": "2026-03-30T11:39:58+00:00",
+      "url": "https://www.mining-technology.com/news/metso-contract-tia-maria-project-peru/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Lachlan Star acquires gold project in Western Australia",
+      "category": "INDUSTRY",
+      "date": "2026-03-30T09:42:40+00:00",
+      "url": "https://www.mining-technology.com/news/lachlan-star-acquires-gold-project-western-australia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Underground mining safety: why accidents persist and what technologies help",
+      "category": "INDUSTRY",
+      "date": "2026-03-30T08:43:46+00:00",
+      "url": "https://www.mining-technology.com/features/underground-mining-safety-why-accidents-persist-and-what-technologies-help/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Math Magic adds Hitem3D API service to OpenClaw",
+      "category": "MECHANICAL",
+      "date": "2026-03-30T08:27:20+00:00",
+      "url": "https://www.engineering.com/math-magic-adds-hitem3d-api-service-to-openclaw/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens expands Carolinas manufacturing for AI demand",
+      "category": "MECHANICAL",
+      "date": "2026-03-30T08:14:44+00:00",
+      "url": "https://www.engineering.com/siemens-expands-carolinas-manufacturing-for-ai-demand/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Iranian attacks disrupt aluminium production in UAE, Bahrain",
+      "category": "INDUSTRY",
+      "date": "2026-03-30T07:41:40+00:00",
+      "url": "https://www.mining-technology.com/news/iranian-attacks-disrupt-aluminium-uae-bahrain/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Greenland Resources signs molybdenum supply deal with ROGESA",
       "category": "INDUSTRY",
       "date": "2026-03-30T07:41:21+00:00",
@@ -16546,5 +16626,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-30T07:45:01.954970+00:00"
+  "last_updated_utc": "2026-03-30T13:24:42.798980+00:00"
 }
