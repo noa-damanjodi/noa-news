@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Epson Robots and Clayton Controls form Southwest alliance",
+      "category": "MECHANICAL",
+      "date": "2026-03-31T13:14:18+00:00",
+      "url": "https://www.engineering.com/epson-robots-and-clayton-controls-form-southwest-alliance/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Gcore launches GPU virtual machines on NVIDIA Hopper",
+      "category": "MECHANICAL",
+      "date": "2026-03-31T13:07:48+00:00",
+      "url": "https://www.engineering.com/gcore-launches-gpu-virtual-machines-on-nvidia-hopper/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "VectorWave launches analog edge AI platform for RF",
+      "category": "MECHANICAL",
+      "date": "2026-03-31T13:00:31+00:00",
+      "url": "https://www.engineering.com/vectorwave-launches-analog-edge-ai-platform-for-rf/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Applied Intuition and LG Innotek partner on autonomy",
+      "category": "MECHANICAL",
+      "date": "2026-03-31T12:15:56+00:00",
+      "url": "https://www.engineering.com/applied-intuition-and-lg-innotek-partner-on-autonomy/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Atom Computing signs quantum networking MOU with Cisco",
+      "category": "MECHANICAL",
+      "date": "2026-03-31T12:11:13+00:00",
+      "url": "https://www.engineering.com/atom-computing-signs-quantum-networking-mou-with-cisco/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Latitude 66 concludes Phase 2 drilling at Laverton Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-03-31T10:35:31+00:00",
+      "url": "https://www.mining-technology.com/news/latitude-66-concludes-phase-2-drilling-laverton-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Platina starts Phase 3 aircore drilling at Mt McKenna in WA",
+      "category": "INDUSTRY",
+      "date": "2026-03-31T07:39:50+00:00",
+      "url": "https://www.mining-technology.com/news/platina-phase-3-aircore-drilling-mt-mckenna/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "GoldMining initiates drilling at São Jorge Project, Brazil",
+      "category": "INDUSTRY",
+      "date": "2026-03-31T07:39:26+00:00",
+      "url": "https://www.mining-technology.com/news/goldmining-initiates-drilling-sao-jorge-brazil/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "BHEL receives NoA for 3×800 MW stage-II thermal power project from NTPC in Telangana",
       "category": "POWER",
       "date": "2026-03-31T05:48:42+00:00",
@@ -284,31 +348,55 @@
     {
       "title": "Safety on the line",
       "category": "SAFETY",
-      "date": "2026-03-30T05:00:59+00:00",
+      "date": "2026-03-30T05:20:59+00:00",
       "url": "https://www.safetyandhealthmagazine.com/safety-on-the-line-2/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "My Story: Frank Mifflin",
-      "category": "SAFETY",
-      "date": "2026-03-30T05:00:57+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/my-story-frank-mifflin/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
     {
       "title": "The 2026 NSC Safety Summit",
       "category": "SAFETY",
-      "date": "2026-03-30T05:00:51+00:00",
+      "date": "2026-03-30T05:20:51+00:00",
       "url": "https://www.safetyandhealthmagazine.com/the-2026-nsc-safety-summit/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "2026 Training Survey",
+      "category": "SAFETY",
+      "date": "2026-03-30T05:20:18+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/2026-training-survey/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NSC Thought Leadership: Create your SIF prevention ‘elevator pitch’ for executive leadership",
+      "category": "SAFETY",
+      "date": "2026-03-30T05:15:15+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-thought-leadership-create-your-sif-prevention-elevator-pitch-for-executive-leadership/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Editor’s Note: Be proactive on opioid overdose response",
+      "category": "SAFETY",
+      "date": "2026-03-30T05:14:21+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/editors-note-be-proactive-on-opioid-overdose-response/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "My Story: Frank Mifflin",
+      "category": "SAFETY",
+      "date": "2026-03-30T05:10:57+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/my-story-frank-mifflin/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
     {
       "title": "My Story: Kalaigh Sullivan, BS, MPH, CPS",
       "category": "SAFETY",
-      "date": "2026-03-30T05:00:41+00:00",
+      "date": "2026-03-30T05:10:41+00:00",
       "url": "https://www.safetyandhealthmagazine.com/my-story-kalaigh-sullivan-bs-mph-cps/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
@@ -322,34 +410,10 @@
       "type": "magazine"
     },
     {
-      "title": "Editor’s Note: Be proactive on opioid overdose response",
-      "category": "SAFETY",
-      "date": "2026-03-30T05:00:21+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/editors-note-be-proactive-on-opioid-overdose-response/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "2026 Training Survey",
-      "category": "SAFETY",
-      "date": "2026-03-30T05:00:18+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/2026-training-survey/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
       "title": "10 Questions to Measure Employee Engagement in Your Safety Program",
       "category": "SAFETY",
       "date": "2026-03-30T05:00:17+00:00",
       "url": "https://www.safetyandhealthmagazine.com/resource-10-questions-to-measure-employee-engagement-in-your-safety-program/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "NSC Thought Leadership: Create your SIF prevention ‘elevator pitch’ for executive leadership",
-      "category": "SAFETY",
-      "date": "2026-03-30T05:00:15+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/nsc-thought-leadership-create-your-sif-prevention-elevator-pitch-for-executive-leadership/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -16762,5 +16826,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-31T07:18:21.833048+00:00"
+  "last_updated_utc": "2026-03-31T13:23:54.535842+00:00"
 }

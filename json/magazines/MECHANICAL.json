@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Epson Robots and Clayton Controls form Southwest alliance",
+      "category": "MECHANICAL",
+      "date": "2026-03-31T13:14:18+00:00",
+      "url": "https://www.engineering.com/epson-robots-and-clayton-controls-form-southwest-alliance/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Gcore launches GPU virtual machines on NVIDIA Hopper",
+      "category": "MECHANICAL",
+      "date": "2026-03-31T13:07:48+00:00",
+      "url": "https://www.engineering.com/gcore-launches-gpu-virtual-machines-on-nvidia-hopper/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "VectorWave launches analog edge AI platform for RF",
+      "category": "MECHANICAL",
+      "date": "2026-03-31T13:00:31+00:00",
+      "url": "https://www.engineering.com/vectorwave-launches-analog-edge-ai-platform-for-rf/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Applied Intuition and LG Innotek partner on autonomy",
+      "category": "MECHANICAL",
+      "date": "2026-03-31T12:15:56+00:00",
+      "url": "https://www.engineering.com/applied-intuition-and-lg-innotek-partner-on-autonomy/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Atom Computing signs quantum networking MOU with Cisco",
+      "category": "MECHANICAL",
+      "date": "2026-03-31T12:11:13+00:00",
+      "url": "https://www.engineering.com/atom-computing-signs-quantum-networking-mou-with-cisco/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Klarna dropped Salesforce, but that doesn’t mean AI replaces PLM",
       "category": "MECHANICAL",
       "date": "2026-03-30T19:25:04+00:00",
@@ -4770,5 +4810,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-31T07:18:21.833048+00:00"
+  "last_updated_utc": "2026-03-31T13:23:54.535842+00:00"
 }

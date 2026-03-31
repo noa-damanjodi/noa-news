@@ -20,31 +20,55 @@
     {
       "title": "Safety on the line",
       "category": "SAFETY",
-      "date": "2026-03-30T05:00:59+00:00",
+      "date": "2026-03-30T05:20:59+00:00",
       "url": "https://www.safetyandhealthmagazine.com/safety-on-the-line-2/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "My Story: Frank Mifflin",
-      "category": "SAFETY",
-      "date": "2026-03-30T05:00:57+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/my-story-frank-mifflin/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
     {
       "title": "The 2026 NSC Safety Summit",
       "category": "SAFETY",
-      "date": "2026-03-30T05:00:51+00:00",
+      "date": "2026-03-30T05:20:51+00:00",
       "url": "https://www.safetyandhealthmagazine.com/the-2026-nsc-safety-summit/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "2026 Training Survey",
+      "category": "SAFETY",
+      "date": "2026-03-30T05:20:18+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/2026-training-survey/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NSC Thought Leadership: Create your SIF prevention ‘elevator pitch’ for executive leadership",
+      "category": "SAFETY",
+      "date": "2026-03-30T05:15:15+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-thought-leadership-create-your-sif-prevention-elevator-pitch-for-executive-leadership/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Editor’s Note: Be proactive on opioid overdose response",
+      "category": "SAFETY",
+      "date": "2026-03-30T05:14:21+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/editors-note-be-proactive-on-opioid-overdose-response/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "My Story: Frank Mifflin",
+      "category": "SAFETY",
+      "date": "2026-03-30T05:10:57+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/my-story-frank-mifflin/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
     {
       "title": "My Story: Kalaigh Sullivan, BS, MPH, CPS",
       "category": "SAFETY",
-      "date": "2026-03-30T05:00:41+00:00",
+      "date": "2026-03-30T05:10:41+00:00",
       "url": "https://www.safetyandhealthmagazine.com/my-story-kalaigh-sullivan-bs-mph-cps/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
@@ -58,34 +82,10 @@
       "type": "magazine"
     },
     {
-      "title": "Editor’s Note: Be proactive on opioid overdose response",
-      "category": "SAFETY",
-      "date": "2026-03-30T05:00:21+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/editors-note-be-proactive-on-opioid-overdose-response/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "2026 Training Survey",
-      "category": "SAFETY",
-      "date": "2026-03-30T05:00:18+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/2026-training-survey/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
       "title": "10 Questions to Measure Employee Engagement in Your Safety Program",
       "category": "SAFETY",
       "date": "2026-03-30T05:00:17+00:00",
       "url": "https://www.safetyandhealthmagazine.com/resource-10-questions-to-measure-employee-engagement-in-your-safety-program/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "NSC Thought Leadership: Create your SIF prevention ‘elevator pitch’ for executive leadership",
-      "category": "SAFETY",
-      "date": "2026-03-30T05:00:15+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/nsc-thought-leadership-create-your-sif-prevention-elevator-pitch-for-executive-leadership/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -1298,5 +1298,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-31T07:18:21.833048+00:00"
+  "last_updated_utc": "2026-03-31T13:23:54.535842+00:00"
 }

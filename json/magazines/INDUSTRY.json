@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Latitude 66 concludes Phase 2 drilling at Laverton Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-03-31T10:35:31+00:00",
+      "url": "https://www.mining-technology.com/news/latitude-66-concludes-phase-2-drilling-laverton-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Platina starts Phase 3 aircore drilling at Mt McKenna in WA",
+      "category": "INDUSTRY",
+      "date": "2026-03-31T07:39:50+00:00",
+      "url": "https://www.mining-technology.com/news/platina-phase-3-aircore-drilling-mt-mckenna/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "GoldMining initiates drilling at São Jorge Project, Brazil",
+      "category": "INDUSTRY",
+      "date": "2026-03-31T07:39:26+00:00",
+      "url": "https://www.mining-technology.com/news/goldmining-initiates-drilling-sao-jorge-brazil/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Felix Gold exercises option for Treasure Creek Project in Alaska",
       "category": "INDUSTRY",
       "date": "2026-03-30T11:45:30+00:00",
@@ -2674,5 +2698,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-31T07:18:21.833048+00:00"
+  "last_updated_utc": "2026-03-31T13:23:54.535842+00:00"
 }
