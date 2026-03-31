@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "NGen announces $79.5 million in new AI projects",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-31T18:43:52+00:00",
+      "url": "https://www.automationmag.com/ngen-announces-79-5-million-in-new-ai-projects/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "AI supercharging cyber-attacks and their defence, PwC report finds",
       "category": "INSTRUMENTATION",
       "date": "2026-03-30T16:06:23+00:00",
@@ -1242,5 +1250,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-31T13:23:54.535842+00:00"
+  "last_updated_utc": "2026-03-31T19:04:20.523046+00:00"
 }

@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Leo AI can now generate full CAD assemblies",
+      "category": "MECHANICAL",
+      "date": "2026-03-31T18:56:39+00:00",
+      "url": "https://www.engineering.com/leo-ai-can-now-generate-full-cad-assemblies/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Additive research update: simulated seas, super foam, bone scaffolds, and more",
+      "category": "MECHANICAL",
+      "date": "2026-03-31T18:51:35+00:00",
+      "url": "https://www.engineering.com/additive-research-update-simulated-seas-super-foam-bone-scaffolds-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NGen announces $79.5 million in new AI projects",
+      "category": "INSTRUMENTATION",
+      "date": "2026-03-31T18:43:52+00:00",
+      "url": "https://www.automationmag.com/ngen-announces-79-5-million-in-new-ai-projects/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Get ready to stand down to prevent struck-by incidents",
+      "category": "SAFETY",
+      "date": "2026-03-31T17:06:18+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/get-ready-to-stand-down-to-prevent-struck-by-incidents/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Insufficient sleep may increase older workers’ risk of A-fib: study",
+      "category": "SAFETY",
+      "date": "2026-03-31T16:55:04+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/insufficient-sleep-may-increase-older-workers-risk-of-a-fib-study/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Colorado House committee advances bill on heat and cold stress protections",
+      "category": "SAFETY",
+      "date": "2026-03-31T16:31:26+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/colorado-house-committee-advances-bill-on-heat-and-cold-stress-protections/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon updates PULSE for CMM environment monitoring",
+      "category": "MECHANICAL",
+      "date": "2026-03-31T15:06:10+00:00",
+      "url": "https://www.engineering.com/hexagon-updates-pulse-for-cmm-environment-monitoring/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Datamine updates MineScape with digital twin tools",
+      "category": "MECHANICAL",
+      "date": "2026-03-31T14:48:40+00:00",
+      "url": "https://www.engineering.com/datamine-updates-minescape-with-digital-twin-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens joins ESA commercialization support program",
+      "category": "MECHANICAL",
+      "date": "2026-03-31T14:01:45+00:00",
+      "url": "https://www.engineering.com/siemens-joins-esa-commercialization-support-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens adds Viakoo platform for OT and IoT security",
+      "category": "MECHANICAL",
+      "date": "2026-03-31T13:43:00+00:00",
+      "url": "https://www.engineering.com/siemens-adds-viakoo-platform-for-ot-and-iot-security/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Epson Robots and Clayton Controls form Southwest alliance",
       "category": "MECHANICAL",
       "date": "2026-03-31T13:14:18+00:00",
@@ -26,6 +106,22 @@
       "type": "magazine"
     },
     {
+      "title": "Agnico Eagle to invest in Cascadia Minerals",
+      "category": "INDUSTRY",
+      "date": "2026-03-31T12:20:25+00:00",
+      "url": "https://www.mining-technology.com/news/agnico-eagle-to-invest-cascadia-minerals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Santana secures build slots for Bendigo-Ophir Project",
+      "category": "INDUSTRY",
+      "date": "2026-03-31T12:20:16+00:00",
+      "url": "https://www.mining-technology.com/news/santana-build-slots-bendigo-ophir-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Applied Intuition and LG Innotek partner on autonomy",
       "category": "MECHANICAL",
       "date": "2026-03-31T12:15:56+00:00",
@@ -39,6 +135,14 @@
       "date": "2026-03-31T12:11:13+00:00",
       "url": "https://www.engineering.com/atom-computing-signs-quantum-networking-mou-with-cisco/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "How utilities are rethinking resiliency with AI planning tools",
+      "category": "RENEWABLE",
+      "date": "2026-03-31T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/how-utilities-are-rethinking-resiliency-with-ai-planning-tools/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -146,11 +250,27 @@
       "type": "magazine"
     },
     {
+      "title": "Arizona hires high-powered law firm, setting the stage for a legal battle over Colorado River water",
+      "category": "RENEWABLE",
+      "date": "2026-03-30T19:32:37+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/arizona-hires-high-powered-law-firm-setting-the-stage-for-a-legal-battle-over-colorado-river-water/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Klarna dropped Salesforce, but that doesn’t mean AI replaces PLM",
       "category": "MECHANICAL",
       "date": "2026-03-30T19:25:04+00:00",
       "url": "https://www.engineering.com/klarna-dropped-salesforce-but-that-doesnt-mean-ai-replaces-plm/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DOE-funded hydropower competitions offer cash prizes for solving nagging industry problems",
+      "category": "RENEWABLE",
+      "date": "2026-03-30T16:47:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/doe-funded-hydropower-competitions-offer-cash-prizes-for-solving-nagging-industry-problems/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -191,6 +311,14 @@
       "date": "2026-03-30T14:54:02+00:00",
       "url": "https://www.safetyandhealthmagazine.com/michigan-earns-niosh-total-work-health-affiliate-status/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "2026’s historic snow drought brings worries about water, wildfires and the future in the West",
+      "category": "RENEWABLE",
+      "date": "2026-03-30T14:34:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/2026s-historic-snow-drought-brings-worries-about-water-wildfires-and-the-future-in-the-west/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -426,6 +554,14 @@
       "type": "magazine"
     },
     {
+      "title": "Factor This finance and project development roundup: Arevon, BrightNight, Brooklyn SolarWorks, Doral, Hull Street",
+      "category": "RENEWABLE",
+      "date": "2026-03-27T18:36:53+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/factor-this-finance-and-project-development-roundup-arevon-brightnight-brooklyn-solarworks-doral-hull-street/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Ontario’s 2026 budget: What manufacturers need to know",
       "category": "INSTRUMENTATION",
       "date": "2026-03-27T16:05:16+00:00",
@@ -482,6 +618,14 @@
       "type": "magazine"
     },
     {
+      "title": "From pilots to production: Where AI is delivering real value in utility field operations",
+      "category": "RENEWABLE",
+      "date": "2026-03-27T13:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/from-pilots-to-production-where-ai-is-delivering-real-value-in-utility-field-operations/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "North Bay signs LoI to acquire Bendito Resources",
       "category": "INDUSTRY",
       "date": "2026-03-27T12:37:12+00:00",
@@ -535,6 +679,14 @@
       "date": "2026-03-27T10:00:22+00:00",
       "url": "https://www.engineering.com/fanuc-america-plans-new-michigan-manufacturing-facility/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Iran conflict highlights perils of fossil fuel dependence – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-03-27T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/iran-conflict-highlights-perils-of-fossil-fuel-dependence-this-week-in-cleantech/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -602,6 +754,14 @@
       "type": "magazine"
     },
     {
+      "title": "Form Energy and Crusoe reach deal for 12 GWh of AI data center batteries",
+      "category": "RENEWABLE",
+      "date": "2026-03-26T19:01:36+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/form-energy-and-crusoe-reach-deal-for-12-gwh-of-ai-data-center-batteries/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Hazmat safety agency seeks input on rules for space-related materials",
       "category": "SAFETY",
       "date": "2026-03-26T18:52:48+00:00",
@@ -626,6 +786,14 @@
       "type": "magazine"
     },
     {
+      "title": "Utilities with antiquated digital tools are finding it hard to keep pace",
+      "category": "RENEWABLE",
+      "date": "2026-03-26T17:23:02+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/utilities-with-antiquated-digital-tools-are-finding-it-hard-to-keep-pace/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Advocacy group claims ‘massive gap’ in number of deaths caused by drowsy driving",
       "category": "SAFETY",
       "date": "2026-03-26T16:30:32+00:00",
@@ -639,6 +807,14 @@
       "date": "2026-03-26T16:20:20+00:00",
       "url": "https://www.safetyandhealthmagazine.com/we-want-to-be-in-the-solutions-business-head-of-osha-says/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Data centers shattered records in 2025. So why is construction slowing down?",
+      "category": "RENEWABLE",
+      "date": "2026-03-26T15:03:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/data-centers-shattered-records-in-2025-so-why-is-construction-slowing-down/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -16826,5 +17002,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-31T13:23:54.535842+00:00"
+  "last_updated_utc": "2026-03-31T19:04:20.523046+00:00"
 }

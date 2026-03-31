@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Agnico Eagle to invest in Cascadia Minerals",
+      "category": "INDUSTRY",
+      "date": "2026-03-31T12:20:25+00:00",
+      "url": "https://www.mining-technology.com/news/agnico-eagle-to-invest-cascadia-minerals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Santana secures build slots for Bendigo-Ophir Project",
+      "category": "INDUSTRY",
+      "date": "2026-03-31T12:20:16+00:00",
+      "url": "https://www.mining-technology.com/news/santana-build-slots-bendigo-ophir-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Latitude 66 concludes Phase 2 drilling at Laverton Gold Project",
       "category": "INDUSTRY",
       "date": "2026-03-31T10:35:31+00:00",
@@ -2698,5 +2714,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-31T13:23:54.535842+00:00"
+  "last_updated_utc": "2026-03-31T19:04:20.523046+00:00"
 }

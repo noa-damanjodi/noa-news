@@ -2,6 +2,86 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "How utilities are rethinking resiliency with AI planning tools",
+      "category": "RENEWABLE",
+      "date": "2026-03-31T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/how-utilities-are-rethinking-resiliency-with-ai-planning-tools/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Arizona hires high-powered law firm, setting the stage for a legal battle over Colorado River water",
+      "category": "RENEWABLE",
+      "date": "2026-03-30T19:32:37+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/arizona-hires-high-powered-law-firm-setting-the-stage-for-a-legal-battle-over-colorado-river-water/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "DOE-funded hydropower competitions offer cash prizes for solving nagging industry problems",
+      "category": "RENEWABLE",
+      "date": "2026-03-30T16:47:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/doe-funded-hydropower-competitions-offer-cash-prizes-for-solving-nagging-industry-problems/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "2026’s historic snow drought brings worries about water, wildfires and the future in the West",
+      "category": "RENEWABLE",
+      "date": "2026-03-30T14:34:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/2026s-historic-snow-drought-brings-worries-about-water-wildfires-and-the-future-in-the-west/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Factor This finance and project development roundup: Arevon, BrightNight, Brooklyn SolarWorks, Doral, Hull Street",
+      "category": "RENEWABLE",
+      "date": "2026-03-27T18:36:53+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/factor-this-finance-and-project-development-roundup-arevon-brightnight-brooklyn-solarworks-doral-hull-street/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "From pilots to production: Where AI is delivering real value in utility field operations",
+      "category": "RENEWABLE",
+      "date": "2026-03-27T13:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/from-pilots-to-production-where-ai-is-delivering-real-value-in-utility-field-operations/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Iran conflict highlights perils of fossil fuel dependence – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-03-27T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/iran-conflict-highlights-perils-of-fossil-fuel-dependence-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Form Energy and Crusoe reach deal for 12 GWh of AI data center batteries",
+      "category": "RENEWABLE",
+      "date": "2026-03-26T19:01:36+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/form-energy-and-crusoe-reach-deal-for-12-gwh-of-ai-data-center-batteries/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Utilities with antiquated digital tools are finding it hard to keep pace",
+      "category": "RENEWABLE",
+      "date": "2026-03-26T17:23:02+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/utilities-with-antiquated-digital-tools-are-finding-it-hard-to-keep-pace/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Data centers shattered records in 2025. So why is construction slowing down?",
+      "category": "RENEWABLE",
+      "date": "2026-03-26T15:03:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/data-centers-shattered-records-in-2025-so-why-is-construction-slowing-down/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "EPRI launches new large load framework to reduce time to power for data centers",
       "category": "RENEWABLE",
       "date": "2026-03-24T17:20:45+00:00",
@@ -1506,5 +1586,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-03-31T13:23:54.535842+00:00"
+  "last_updated_utc": "2026-03-31T19:04:20.523046+00:00"
 }
