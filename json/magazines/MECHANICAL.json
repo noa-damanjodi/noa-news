@@ -2,6 +2,86 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Vectorworks names 2026 Creative Genius Awards winners",
+      "category": "MECHANICAL",
+      "date": "2026-04-01T13:23:31+00:00",
+      "url": "https://www.engineering.com/vectorworks-names-2026-creative-genius-awards-winners/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Farsoon introduces large-format metal PBF system",
+      "category": "MECHANICAL",
+      "date": "2026-04-01T12:04:19+00:00",
+      "url": "https://www.engineering.com/farsoon-introduces-large-format-metal-pbf-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Tech Soft 3D releases HOOPS AI for CAD workflows",
+      "category": "MECHANICAL",
+      "date": "2026-04-01T11:55:17+00:00",
+      "url": "https://www.engineering.com/tech-soft-3d-releases-hoops-ai-for-cad-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HighPoint introduces retimer-based PCIe Gen5 M.2 card",
+      "category": "MECHANICAL",
+      "date": "2026-04-01T11:47:00+00:00",
+      "url": "https://www.engineering.com/highpoint-introduces-retimer-based-pcie-gen5-m-2-card/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA and Marvell expand AI infrastructure partnership",
+      "category": "MECHANICAL",
+      "date": "2026-04-01T11:34:00+00:00",
+      "url": "https://www.engineering.com/nvidia-and-marvell-expand-ai-infrastructure-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AVEVA joins NVIDIA on digital twin tools for AI factories",
+      "category": "MECHANICAL",
+      "date": "2026-04-01T11:19:00+00:00",
+      "url": "https://www.engineering.com/aveva-collaborates-with-nvidia-to-develop-digital-twin-architecture-for-ai-factories/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Acelab adds Revit integration to Material Hub Pro",
+      "category": "MECHANICAL",
+      "date": "2026-04-01T10:59:00+00:00",
+      "url": "https://www.engineering.com/acelab-adds-revit-integration-to-material-hub-pro/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "EON Reality launches Genesis 2.0 3D asset library",
+      "category": "MECHANICAL",
+      "date": "2026-04-01T10:48:00+00:00",
+      "url": "https://www.engineering.com/eon-reality-launches-genesis-2-0-3d-asset-library/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MicroCloud Hologram launches FPGA quantum abstraction platform",
+      "category": "MECHANICAL",
+      "date": "2026-04-01T10:27:00+00:00",
+      "url": "https://www.engineering.com/microcloud-hologram-launches-fpga-quantum-abstraction-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Purdue’s online master’s degrees in engineering achieve top spots in national rankings, making significant gains",
+      "category": "MECHANICAL",
+      "date": "2026-04-01T08:09:00+00:00",
+      "url": "https://www.engineering.com/purdues-online-masters-degrees-in-engineering-achieve-top-spots-in-national-rankings-making-significant-gains/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Most manufacturers are ready for AI, but only if they start with their data",
       "category": "MECHANICAL",
       "date": "2026-03-31T20:51:21+00:00",
@@ -4866,5 +4946,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-01T07:23:52.355337+00:00"
+  "last_updated_utc": "2026-04-01T13:26:11.759995+00:00"
 }
