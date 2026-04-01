@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Phase 2 exploration begins at La Union Project, Mexico",
+      "category": "INDUSTRY",
+      "date": "2026-04-01T13:01:30+00:00",
+      "url": "https://www.mining-technology.com/news/phase-2-exploration-begins-la-union-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Orano CE to accept Kayelekera uranium concentrate",
+      "category": "INDUSTRY",
+      "date": "2026-04-01T13:01:16+00:00",
+      "url": "https://www.mining-technology.com/news/orano-ce-to-accept-kayelekera-uranium/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Resolute, NMC sign MoU for gold exploration in Guinea",
       "category": "INDUSTRY",
       "date": "2026-04-01T09:57:10+00:00",
@@ -2754,5 +2770,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-01T13:26:11.759995+00:00"
+  "last_updated_utc": "2026-04-01T19:04:54.492155+00:00"
 }

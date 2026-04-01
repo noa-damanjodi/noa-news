@@ -2,6 +2,30 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Explosion and gas release prompt CSB warning about confined space operations",
+      "category": "SAFETY",
+      "date": "2026-04-01T16:49:23+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/explosion-and-gas-release-prompt-csb-warning-about-confined-space-operations/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA updates manual on use of Special Government Employees",
+      "category": "SAFETY",
+      "date": "2026-04-01T16:36:51+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-updates-manual-on-use-of-special-government-employees/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NSC and NCCCO Foundation team up for survey on crane industry safety",
+      "category": "SAFETY",
+      "date": "2026-04-01T16:30:05+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-and-nccco-foundation-team-for-survey-on-crane-industry-safety/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Get ready to stand down to prevent struck-by incidents",
       "category": "SAFETY",
       "date": "2026-03-31T17:06:18+00:00",
@@ -1322,5 +1346,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-01T13:26:11.759995+00:00"
+  "last_updated_utc": "2026-04-01T19:04:54.492155+00:00"
 }
