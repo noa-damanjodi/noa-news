@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Brazil’s iron ore production to rise due to stronger Vale performance",
+      "category": "INDUSTRY",
+      "date": "2026-04-02T14:41:42+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/brazil-iron-ore-production-stronger-vale-performance/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "KGL Resources signs $300m agreement with Wheaton",
+      "category": "INDUSTRY",
+      "date": "2026-04-02T12:44:50+00:00",
+      "url": "https://www.mining-technology.com/news/kgl-resources-signs-agreement-wheaton/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "St Barbara receives $269.5m investment from Lingbao",
+      "category": "INDUSTRY",
+      "date": "2026-04-02T12:44:31+00:00",
+      "url": "https://www.mining-technology.com/news/st-barbara-receives-investment-lingbao/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Zacatecas Silver starts 2026 drilling at El Cristo, Mexico",
       "category": "INDUSTRY",
       "date": "2026-04-02T10:02:00+00:00",
@@ -2794,5 +2818,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-02T13:18:21.852306+00:00"
+  "last_updated_utc": "2026-04-02T18:59:24.880239+00:00"
 }

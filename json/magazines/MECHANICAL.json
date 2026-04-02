@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Neuron Factory raises funding for construction AI platform",
+      "category": "MECHANICAL",
+      "date": "2026-04-02T14:45:10+00:00",
+      "url": "https://www.engineering.com/neuron-factory-raises-funding-for-construction-ai-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IBM and Arm collaborate on enterprise AI hardware",
+      "category": "MECHANICAL",
+      "date": "2026-04-02T14:35:29+00:00",
+      "url": "https://www.engineering.com/ibm-and-arm-collaborate-on-enterprise-ai-hardware/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ZEISS introduces Crossbeam 750 FIB-SEM for sample prep",
+      "category": "MECHANICAL",
+      "date": "2026-04-02T14:05:59+00:00",
+      "url": "https://www.engineering.com/zeiss-introduces-crossbeam-750-fib-sem-for-sample-prep/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "FDH Electronics launches new mil-aero ecommerce website",
+      "category": "MECHANICAL",
+      "date": "2026-04-02T13:48:34+00:00",
+      "url": "https://www.engineering.com/fdh-electronics-launches-new-mil-aero-ecommerce-website/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "restor3d launches Aeros Modular Stem System",
       "category": "MECHANICAL",
       "date": "2026-04-02T11:54:38+00:00",
@@ -5002,5 +5034,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-02T13:18:21.852306+00:00"
+  "last_updated_utc": "2026-04-02T18:59:24.880239+00:00"
 }
