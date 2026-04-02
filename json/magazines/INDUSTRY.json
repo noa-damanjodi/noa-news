@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Zacatecas Silver starts 2026 drilling at El Cristo, Mexico",
+      "category": "INDUSTRY",
+      "date": "2026-04-02T10:02:00+00:00",
+      "url": "https://www.mining-technology.com/news/zacatecas-silver-starts-drilling-el-cristo/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "REalloys, USCM sign MoU on Sheep Creek rare earth project",
+      "category": "INDUSTRY",
+      "date": "2026-04-02T07:39:31+00:00",
+      "url": "https://www.mining-technology.com/news/realloys-uscm-mou-sheep-creek-rare-earth/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "GoldHaven begins drill targeting at Magno Project in BC",
+      "category": "INDUSTRY",
+      "date": "2026-04-02T07:39:20+00:00",
+      "url": "https://www.mining-technology.com/news/goldhaven-begins-drill-targeting-magno-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Phase 2 exploration begins at La Union Project, Mexico",
       "category": "INDUSTRY",
       "date": "2026-04-01T13:01:30+00:00",
@@ -2770,5 +2794,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-02T07:15:41.495512+00:00"
+  "last_updated_utc": "2026-04-02T13:18:21.852306+00:00"
 }

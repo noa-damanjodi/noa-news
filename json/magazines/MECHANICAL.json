@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "restor3d launches Aeros Modular Stem System",
+      "category": "MECHANICAL",
+      "date": "2026-04-02T11:54:38+00:00",
+      "url": "https://www.engineering.com/restor3d-launches-aeros-modular-stem-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon updates ESPRIT EDGE for CNC programming",
+      "category": "MECHANICAL",
+      "date": "2026-04-02T11:23:22+00:00",
+      "url": "https://www.engineering.com/hexagon-updates-esprit-edge-for-cnc-programming/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Ann Fairchild named president and CEO of Siemens USA",
+      "category": "MECHANICAL",
+      "date": "2026-04-02T10:26:47+00:00",
+      "url": "https://www.engineering.com/ann-fairchild-named-president-and-ceo-of-siemens-usa/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "BMW Group adopts PTC Codebeamer for requirements management",
+      "category": "MECHANICAL",
+      "date": "2026-04-02T09:34:10+00:00",
+      "url": "https://www.engineering.com/bmw-group-adopts-ptc-codebeamer-for-requirements-management/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Silvaco expands partnership with APEC on SiC design",
+      "category": "MECHANICAL",
+      "date": "2026-04-02T08:57:00+00:00",
+      "url": "https://www.engineering.com/silvaco-expands-partnership-with-apec-on-sic-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "The dirty secret of powder bed fusion",
       "category": "MECHANICAL",
       "date": "2026-04-01T16:08:30+00:00",
@@ -4962,5 +5002,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-02T07:15:41.495512+00:00"
+  "last_updated_utc": "2026-04-02T13:18:21.852306+00:00"
 }

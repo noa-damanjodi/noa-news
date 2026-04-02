@@ -2,6 +2,14 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Drivers say they ‘move over,’ but do they ‘slow down’?",
+      "category": "SAFETY",
+      "date": "2026-04-02T12:49:31+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/drivers-say-they-move-over-but-do-they-slow-down/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Explosion and gas release prompt CSB warning about confined space operations",
       "category": "SAFETY",
       "date": "2026-04-01T16:49:23+00:00",
@@ -1346,5 +1354,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-02T07:15:41.495512+00:00"
+  "last_updated_utc": "2026-04-02T13:18:21.852306+00:00"
 }
