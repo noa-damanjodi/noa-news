@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Weidmuller USA introduces PROeco II Power Supplies with SNAP IN technology",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-01T19:22:44+00:00",
+      "url": "https://www.automationmag.com/weidmuller-usa-introduces-proeco-ii-power-supplies-with-snap-in-technology/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Canada’s manufacturing growth pauses in March: S&P Global",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-01T19:08:29+00:00",
+      "url": "https://www.automationmag.com/canadas-manufacturing-growth-pauses-in-march-sp-global/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Explosion and gas release prompt CSB warning about confined space operations",
       "category": "SAFETY",
       "date": "2026-04-01T16:49:23+00:00",
@@ -17266,5 +17282,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-01T19:04:54.492155+00:00"
+  "last_updated_utc": "2026-04-02T02:31:21.020863+00:00"
 }
