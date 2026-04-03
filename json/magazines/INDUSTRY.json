@@ -34,6 +34,14 @@
       "type": "magazine"
     },
     {
+      "title": "Underground mining safety: why accidents persist and what technologies help",
+      "category": "INDUSTRY",
+      "date": "2026-04-02T08:43:46+00:00",
+      "url": "https://www.mining-technology.com/features/underground-mining-safety-why-accidents-persist-and-what-technologies-help/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "REalloys, USCM sign MoU on Sheep Creek rare earth project",
       "category": "INDUSTRY",
       "date": "2026-04-02T07:39:31+00:00",
@@ -166,14 +174,6 @@
       "category": "INDUSTRY",
       "date": "2026-03-30T09:42:40+00:00",
       "url": "https://www.mining-technology.com/news/lachlan-star-acquires-gold-project-western-australia/",
-      "source": "Mining Technology",
-      "type": "magazine"
-    },
-    {
-      "title": "Underground mining safety: why accidents persist and what technologies help",
-      "category": "INDUSTRY",
-      "date": "2026-03-30T08:43:46+00:00",
-      "url": "https://www.mining-technology.com/features/underground-mining-safety-why-accidents-persist-and-what-technologies-help/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -2818,5 +2818,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-03T13:08:21.162838+00:00"
+  "last_updated_utc": "2026-04-03T18:51:12.442492+00:00"
 }

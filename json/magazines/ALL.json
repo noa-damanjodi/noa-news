@@ -2,6 +2,30 @@
   "category": "ALL",
   "items": [
     {
+      "title": "iAutomation authorized to sell Festo in Eastern U.S.",
+      "category": "MECHANICAL",
+      "date": "2026-04-03T13:30:38+00:00",
+      "url": "https://www.engineering.com/iautomation-authorized-to-sell-festo-in-eastern-u-s/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Roland DGA launches 64-inch UV flatbed printer",
+      "category": "MECHANICAL",
+      "date": "2026-04-03T13:20:36+00:00",
+      "url": "https://www.engineering.com/roland-dga-launches-64-inch-uv-flatbed-printer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Getac named to CRN Edge Computing 100 list",
+      "category": "MECHANICAL",
+      "date": "2026-04-03T13:15:40+00:00",
+      "url": "https://www.engineering.com/getac-named-to-crn-edge-computing-100-list/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Wonderful PCB expands reverse engineering services",
       "category": "MECHANICAL",
       "date": "2026-04-03T13:06:57+00:00",
@@ -167,6 +191,14 @@
       "date": "2026-04-02T08:57:00+00:00",
       "url": "https://www.engineering.com/silvaco-expands-partnership-with-apec-on-sic-design/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Underground mining safety: why accidents persist and what technologies help",
+      "category": "INDUSTRY",
+      "date": "2026-04-02T08:43:46+00:00",
+      "url": "https://www.mining-technology.com/features/underground-mining-safety-why-accidents-persist-and-what-technologies-help/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -902,14 +934,6 @@
       "category": "INDUSTRY",
       "date": "2026-03-30T09:42:40+00:00",
       "url": "https://www.mining-technology.com/news/lachlan-star-acquires-gold-project-western-australia/",
-      "source": "Mining Technology",
-      "type": "magazine"
-    },
-    {
-      "title": "Underground mining safety: why accidents persist and what technologies help",
-      "category": "INDUSTRY",
-      "date": "2026-03-30T08:43:46+00:00",
-      "url": "https://www.mining-technology.com/features/underground-mining-safety-why-accidents-persist-and-what-technologies-help/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -17538,5 +17562,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-03T13:08:21.162838+00:00"
+  "last_updated_utc": "2026-04-03T18:51:12.442492+00:00"
 }
