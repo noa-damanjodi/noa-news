@@ -2,6 +2,30 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Researchers explore link between psychological safety and work performance",
+      "category": "SAFETY",
+      "date": "2026-04-03T15:13:29+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/researchers-explore-link-between-psychological-safety-and-work-performance/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA and NIOSH update alert on silica and countertop workers",
+      "category": "SAFETY",
+      "date": "2026-04-03T15:03:00+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-and-niosh-update-alert-on-silica-and-countertop-workers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Let workers use the restroom, Washington state tells port and rail yard operators",
+      "category": "SAFETY",
+      "date": "2026-04-03T14:57:04+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/let-workers-use-the-restroom-washington-state-tells-port-and-railyard-operators/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Drivers say they ‘move over,’ but do they ‘slow down’?",
       "category": "SAFETY",
       "date": "2026-04-02T12:49:31+00:00",
@@ -1354,5 +1378,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-03T18:51:12.442492+00:00"
+  "last_updated_utc": "2026-04-04T02:25:00.877057+00:00"
 }
