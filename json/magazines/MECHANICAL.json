@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Autodesk launches Forma Building Design to complement Revit",
+      "category": "MECHANICAL",
+      "date": "2026-04-07T18:37:30+00:00",
+      "url": "https://www.engineering.com/autodesk-launches-forma-building-design-to-complement-revit/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "3D printing safety at home",
+      "category": "MECHANICAL",
+      "date": "2026-04-07T15:57:01+00:00",
+      "url": "https://www.engineering.com/3d-printing-safety-at-home/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "InnovMetric acquires Digisens intellectual property",
+      "category": "MECHANICAL",
+      "date": "2026-04-07T14:55:55+00:00",
+      "url": "https://www.engineering.com/innovmetric-acquires-digisens-intellectual-property/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Baucor expands industrial blade and CNC tool catalog",
       "category": "MECHANICAL",
       "date": "2026-04-07T13:11:58+00:00",
@@ -5226,5 +5250,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-07T13:22:52.091352+00:00"
+  "last_updated_utc": "2026-04-07T19:06:18.635087+00:00"
 }

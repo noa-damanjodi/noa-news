@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Autodesk launches Forma Building Design to complement Revit",
+      "category": "MECHANICAL",
+      "date": "2026-04-07T18:37:30+00:00",
+      "url": "https://www.engineering.com/autodesk-launches-forma-building-design-to-complement-revit/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Emerson expands Guardian Digital Platform capabilities",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-07T18:25:48+00:00",
+      "url": "https://www.automationmag.com/emerson-expands-guardian-digital-platform-capabilities/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "After miner struck in face, MSHA issues equipment safety alert",
+      "category": "SAFETY",
+      "date": "2026-04-07T17:02:36+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/after-miner-struck-in-face-msha-issues-equipment-safety-alert/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NIOSH’s Total Worker Health Affiliate Program continues to grow",
+      "category": "SAFETY",
+      "date": "2026-04-07T16:57:57+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nioshs-total-worker-health-affiliate-program-continues-to-grow/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "From the Editor: Lessons from Hannover MESSE",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-07T16:23:21+00:00",
+      "url": "https://www.automationmag.com/from-the-editor-lessons-from-hannover-messe/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "3D printing safety at home",
+      "category": "MECHANICAL",
+      "date": "2026-04-07T15:57:01+00:00",
+      "url": "https://www.engineering.com/3d-printing-safety-at-home/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "InnovMetric acquires Digisens intellectual property",
+      "category": "MECHANICAL",
+      "date": "2026-04-07T14:55:55+00:00",
+      "url": "https://www.engineering.com/innovmetric-acquires-digisens-intellectual-property/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "New episode: Q&A with Sweden’s nuclear power chief",
+      "category": "INDUSTRY",
+      "date": "2026-04-07T14:55:33+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-qa-with-swedens-nuclear-power-chief/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Working safely at speed",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-07T13:56:17+00:00",
+      "url": "https://www.automationmag.com/working-safely-at-speed/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Baucor expands industrial blade and CNC tool catalog",
       "category": "MECHANICAL",
       "date": "2026-04-07T13:11:58+00:00",
@@ -15,6 +87,14 @@
       "date": "2026-04-07T12:36:35+00:00",
       "url": "https://www.engineering.com/hp-updates-z-workstations-and-ai-systems-for-hybrid-it/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lachlan Star starts drilling at New Waverley Project, WA",
+      "category": "INDUSTRY",
+      "date": "2026-04-07T12:14:10+00:00",
+      "url": "https://www.mining-technology.com/news/lachlan-star-drilling-new-waverley-project/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -18050,5 +18130,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-07T13:22:52.091352+00:00"
+  "last_updated_utc": "2026-04-07T19:06:18.635087+00:00"
 }

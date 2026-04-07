@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "New episode: Q&A with Sweden’s nuclear power chief",
+      "category": "INDUSTRY",
+      "date": "2026-04-07T14:55:33+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-qa-with-swedens-nuclear-power-chief/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Lachlan Star starts drilling at New Waverley Project, WA",
+      "category": "INDUSTRY",
+      "date": "2026-04-07T12:14:10+00:00",
+      "url": "https://www.mining-technology.com/news/lachlan-star-drilling-new-waverley-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "MEGA Resources mobilises to Tumblegum South project",
       "category": "INDUSTRY",
       "date": "2026-04-07T12:04:20+00:00",
@@ -2890,5 +2906,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-07T13:22:52.091352+00:00"
+  "last_updated_utc": "2026-04-07T19:06:18.635087+00:00"
 }
