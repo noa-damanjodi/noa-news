@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "OSHA moves to overturn 2036 deadline for fixed ladder requirements",
+      "category": "SAFETY",
+      "date": "2026-04-07T21:02:47+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-moves-to-overturn-2036-deadline-for-fixed-ladder-requirements/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Fervo Energy and Turboden partner up for ORC supply to shorten lead times",
+      "category": "RENEWABLE",
+      "date": "2026-04-07T20:05:57+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/fervo-energy-and-turboden-partner-up-for-orc-supply-to-shorten-lead-times/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Autodesk launches Forma Building Design to complement Revit",
       "category": "MECHANICAL",
       "date": "2026-04-07T18:37:30+00:00",
@@ -47,6 +63,14 @@
       "date": "2026-04-07T15:57:01+00:00",
       "url": "https://www.engineering.com/3d-printing-safety-at-home/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Data centers are straining the grid. Can they be forced to pay for it?",
+      "category": "RENEWABLE",
+      "date": "2026-04-07T15:27:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/data-centers-are-straining-the-grid-can-they-be-forced-to-pay-for-it/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -250,6 +274,22 @@
       "type": "magazine"
     },
     {
+      "title": "Ocean energy is still making waves: new report highlights ‘steady progress’ in the field",
+      "category": "RENEWABLE",
+      "date": "2026-04-06T18:43:41+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/ocean-energy-is-still-making-waves-new-report-highlights-steady-progress-in-the-field/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Eco Wave Power completes its first US wave energy pilot program",
+      "category": "RENEWABLE",
+      "date": "2026-04-06T18:01:58+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/eco-wave-power-completes-its-first-us-wave-energy-pilot-program/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Senators introduce their version of the Pro Codes Act",
       "category": "SAFETY",
       "date": "2026-04-06T17:53:27+00:00",
@@ -282,6 +322,30 @@
       "type": "magazine"
     },
     {
+      "title": "Understanding the real secret to utility tech adoption",
+      "category": "RENEWABLE",
+      "date": "2026-04-06T14:55:53+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/understanding-the-real-secret-to-utility-tech-adoption/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Why success with AI starts with utility process, not technology platform",
+      "category": "RENEWABLE",
+      "date": "2026-04-06T14:54:26+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/why-success-with-ai-starts-with-utility-process-not-technology-platform/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Redefining the utility transformation roadmap",
+      "category": "RENEWABLE",
+      "date": "2026-04-06T14:38:36+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/redefining-the-utility-transformation-roadmap/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "AECOM, SMU partner on AI infrastructure research",
       "category": "MECHANICAL",
       "date": "2026-04-06T14:30:33+00:00",
@@ -295,6 +359,14 @@
       "date": "2026-04-06T14:26:38+00:00",
       "url": "https://www.engineering.com/piezo-direct-adds-coaxial-cable-and-pvdf-film-sensors/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Could this autonomous aquatic robot help advance hydropower?",
+      "category": "RENEWABLE",
+      "date": "2026-04-06T13:39:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/could-this-autonomous-aquatic-robot-help-advance-hydropower/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -471,6 +543,22 @@
       "date": "2026-04-06T05:26:12+00:00",
       "url": "https://powerline.net.in/2026/04/06/ratch-groups-nava-nakorn-expansion-begins-commercial-operations/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New PECO rate hike request includes proposal for peak-shaving distributed battery program",
+      "category": "RENEWABLE",
+      "date": "2026-04-03T20:03:47+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/new-peco-rate-hike-request-includes-proposal-for-peak-shaving-distributed-battery-program/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Factor This finance and project development roundup: AES, Dimension, Georgia Power, Zelestra",
+      "category": "RENEWABLE",
+      "date": "2026-04-03T15:19:43+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/factor-this-finance-and-project-development-roundup-aes-dimension-georgia-power-zelestra/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -18130,5 +18218,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-07T19:06:18.635087+00:00"
+  "last_updated_utc": "2026-04-08T02:36:41.554910+00:00"
 }
