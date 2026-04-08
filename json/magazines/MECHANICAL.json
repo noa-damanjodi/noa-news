@@ -2,6 +2,70 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Stratasys expands additive manufacturing materials lineup",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T12:21:06+00:00",
+      "url": "https://www.engineering.com/stratasys-expands-additive-manufacturing-materials-lineup/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "BricsCAD V26.2 adds AI, BIM and survey updates",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T11:57:12+00:00",
+      "url": "https://www.engineering.com/bricscad-v26-2-adds-ai-bim-and-survey-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ISCAR adopts MDES for standardized tooling data",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T11:50:00+00:00",
+      "url": "https://www.engineering.com/iscar-adopts-mdes-for-standardized-tooling-data/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Roland DGA launches TrueVis VG4 print-and-cut series",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T11:31:37+00:00",
+      "url": "https://www.engineering.com/roland-dga-launches-truevis-vg4-print-and-cut-series/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Murata begins mass production of high-capacitance auto MLCCs",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T11:12:30+00:00",
+      "url": "https://www.engineering.com/murata-begins-mass-production-of-high-capacitance-auto-mlccs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight, Sateliot win ESA-GSMA NTN innovation award",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T11:04:50+00:00",
+      "url": "https://www.engineering.com/keysight-sateliot-win-esa-gsma-ntn-innovation-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "CollisionRight partners with asTech on ADAS calibrations",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T11:00:38+00:00",
+      "url": "https://www.engineering.com/collisionright-partners-with-astech-on-adas-calibrations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Infosys, Harness team on agentic AI software delivery",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T10:53:41+00:00",
+      "url": "https://www.engineering.com/infosys-harness-team-on-agentic-ai-software-delivery/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Autodesk launches Forma Building Design to complement Revit",
       "category": "MECHANICAL",
       "date": "2026-04-07T18:37:30+00:00",
@@ -5250,5 +5314,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-08T07:23:32.328549+00:00"
+  "last_updated_utc": "2026-04-08T13:23:22.678878+00:00"
 }

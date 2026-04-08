@@ -2,6 +2,126 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Stratasys expands additive manufacturing materials lineup",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T12:21:06+00:00",
+      "url": "https://www.engineering.com/stratasys-expands-additive-manufacturing-materials-lineup/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "BricsCAD V26.2 adds AI, BIM and survey updates",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T11:57:12+00:00",
+      "url": "https://www.engineering.com/bricscad-v26-2-adds-ai-bim-and-survey-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ISCAR adopts MDES for standardized tooling data",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T11:50:00+00:00",
+      "url": "https://www.engineering.com/iscar-adopts-mdes-for-standardized-tooling-data/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Roland DGA launches TrueVis VG4 print-and-cut series",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T11:31:37+00:00",
+      "url": "https://www.engineering.com/roland-dga-launches-truevis-vg4-print-and-cut-series/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Murata begins mass production of high-capacitance auto MLCCs",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T11:12:30+00:00",
+      "url": "https://www.engineering.com/murata-begins-mass-production-of-high-capacitance-auto-mlccs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight, Sateliot win ESA-GSMA NTN innovation award",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T11:04:50+00:00",
+      "url": "https://www.engineering.com/keysight-sateliot-win-esa-gsma-ntn-innovation-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "CollisionRight partners with asTech on ADAS calibrations",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T11:00:38+00:00",
+      "url": "https://www.engineering.com/collisionright-partners-with-astech-on-adas-calibrations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Infosys, Harness team on agentic AI software delivery",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T10:53:41+00:00",
+      "url": "https://www.engineering.com/infosys-harness-team-on-agentic-ai-software-delivery/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Evolving Practices: TPPs transition to reliability-centred maintenance",
+      "category": "POWER",
+      "date": "2026-04-08T10:45:10+00:00",
+      "url": "https://powerline.net.in/2026/04/08/evolving-practices-tpps-transition-to-reliability-centred-maintenance/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Towards a Smarter Grid: Digital initiatives to make the distribution system more intelligent and resilient",
+      "category": "POWER",
+      "date": "2026-04-08T10:32:01+00:00",
+      "url": "https://powerline.net.in/2026/04/08/towards-a-smarter-grid-digital-initiatives-to-make-the-distribution-system-more-intelligent-and-resilient/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Celebrating Jindal’s Enduring Legacy on 56th Inception Day",
+      "category": "ELECTRICAL",
+      "date": "2026-04-08T10:05:40+00:00",
+      "url": "https://www.electricalindia.in/celebrating-jindals-enduring-legacy-on-56th-inception-day/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Core Lithium awards contract for Finniss project",
+      "category": "INDUSTRY",
+      "date": "2026-04-08T10:03:44+00:00",
+      "url": "https://www.mining-technology.com/news/core-lithium-contract-finniss-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Shielding performance: Hydraulic protection in mining",
+      "category": "INDUSTRY",
+      "date": "2026-04-08T09:51:43+00:00",
+      "url": "https://www.mining-technology.com/sponsored/shielding-performance-hydraulic-protection-in-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Power Priority: Energy security and sustainability take centre stage at BES 2026",
+      "category": "POWER",
+      "date": "2026-04-08T08:52:00+00:00",
+      "url": "https://powerline.net.in/2026/04/08/power-priority-energy-security-and-sustainability-take-centre-stage-at-bes-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Richmond Hill to acquire Bartlett mining claims",
+      "category": "INDUSTRY",
+      "date": "2026-04-08T07:17:50+00:00",
+      "url": "https://www.mining-technology.com/news/richmond-hill-to-acquire-bartlett-mining-claims/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "St George signs MoU with Técnicas Reunidas for Araxá rare earths",
       "category": "INDUSTRY",
       "date": "2026-04-08T07:01:08+00:00",
@@ -3178,11 +3298,43 @@
       "type": "magazine"
     },
     {
+      "title": "Navitas, EPFL to Showcase Novel Solid-State Transformer Solution",
+      "category": "ELECTRICAL",
+      "date": "2026-03-20T10:23:47+00:00",
+      "url": "https://www.electricalindia.in/navitas-epfl-to-showcase-novel-solid-state-transformer-solution/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Yokogawa to Provide Components for Cosmo Eco Power’s WPP",
+      "category": "ELECTRICAL",
+      "date": "2026-03-20T10:21:52+00:00",
+      "url": "https://www.electricalindia.in/yokogawa-to-provide-components-for-cosmo-eco-powers-wpp/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Stellantis to Sell its 49% Equity Stake in NextStar Energy",
+      "category": "ELECTRICAL",
+      "date": "2026-03-20T10:20:47+00:00",
+      "url": "https://www.electricalindia.in/stellantis-to-sell-its-49-equity-stake-in-nextstar-energy/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Hyperscale Data targets June launch for robotics unit",
       "category": "MECHANICAL",
       "date": "2026-03-20T10:19:29+00:00",
       "url": "https://www.engineering.com/hyperscale-data-targets-june-launch-for-robotics-unit/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Vattenfall Constructs Combined Wind and Solar Park in South-West Germany",
+      "category": "ELECTRICAL",
+      "date": "2026-03-20T10:19:04+00:00",
+      "url": "https://www.electricalindia.in/vattenfall-constructs-combined-wind-and-solar-park-in-south-west-germany/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -3655,6 +3807,38 @@
       "date": "2026-03-18T10:57:54+00:00",
       "url": "https://www.engineering.com/hitachi-unveils-800-vdc-architecture-for-ai-data-centers/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "B. Braun Significantly Reduces GHG Emissions",
+      "category": "ELECTRICAL",
+      "date": "2026-03-18T10:17:58+00:00",
+      "url": "https://www.electricalindia.in/b-braun-significantly-reduces-ghg-emissions/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Melexis Rolls out New Product Line",
+      "category": "ELECTRICAL",
+      "date": "2026-03-18T10:15:44+00:00",
+      "url": "https://www.electricalindia.in/melexis-rolls-out-new-product-line/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Efforts Taken to Transform Canada into an Energy Superpower",
+      "category": "ELECTRICAL",
+      "date": "2026-03-18T10:14:43+00:00",
+      "url": "https://www.electricalindia.in/efforts-taken-to-transform-canada-into-an-energy-superpower/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "MoU Signed to Build the First Commercial Fusion Power Plant in Europe",
+      "category": "ELECTRICAL",
+      "date": "2026-03-18T10:12:18+00:00",
+      "url": "https://www.electricalindia.in/mou-signed-to-build-the-first-commercial-fusion-power-plant-in-europe/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -4327,6 +4511,30 @@
       "date": "2026-03-16T01:09:20+00:00",
       "url": "https://powerline.net.in/2026/03/16/green-energy-future-emerging-opportunities-in-the-renewables-sector/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens Brings Together 500+ Customers, Partners",
+      "category": "ELECTRICAL",
+      "date": "2026-03-15T10:10:36+00:00",
+      "url": "https://www.electricalindia.in/siemens-brings-together-500-customers-partners/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Shongtong Karchham Project Nearing Completion",
+      "category": "ELECTRICAL",
+      "date": "2026-03-15T10:08:03+00:00",
+      "url": "https://www.electricalindia.in/shongtong-karchham-project-nearing-completion/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB Makes New Investments in Karnataka",
+      "category": "ELECTRICAL",
+      "date": "2026-03-15T10:06:48+00:00",
+      "url": "https://www.electricalindia.in/abb-makes-new-investments-in-karnataka/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -18322,5 +18530,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-08T07:23:32.328549+00:00"
+  "last_updated_utc": "2026-04-08T13:23:22.678878+00:00"
 }
