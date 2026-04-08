@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "St George signs MoU with Técnicas Reunidas for Araxá rare earths",
+      "category": "INDUSTRY",
+      "date": "2026-04-08T07:01:08+00:00",
+      "url": "https://www.mining-technology.com/news/st-george-mou-tecnicas-reunidas-araxa/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "March Issue 2026",
+      "category": "POWER",
+      "date": "2026-04-08T05:53:36+00:00",
+      "url": "https://powerline.net.in/2026/04/08/march-issue-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BCGCL and MCL sign land lease agreement for coal-to-ammonium nitrate project in Odisha",
+      "category": "POWER",
+      "date": "2026-04-08T05:47:43+00:00",
+      "url": "https://powerline.net.in/2026/04/08/bcgcl-and-mcl-sign-land-lease-agreement-for-coal-to-ammonium-nitrate-project-in-odisha/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Diamond Power Infra secures LoI from Adani Power for Raipur thermal project cable supply",
+      "category": "POWER",
+      "date": "2026-04-08T05:46:40+00:00",
+      "url": "https://powerline.net.in/2026/04/08/diamond-power-infra-secures-loi-from-adani-power-for-raipur-thermal-project-cable-supply/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Waaree subsidiary commissions 3 GW solar module manufacturing facility in Gujarat",
+      "category": "POWER",
+      "date": "2026-04-08T05:45:30+00:00",
+      "url": "https://powerline.net.in/2026/04/08/waaree-subsidiary-commissions-3-gw-solar-module-manufacturing-facility-in-gujarat/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Texmaco Rail secures Rs 463.2 million electrification contract from Southern Railway",
+      "category": "POWER",
+      "date": "2026-04-08T05:44:18+00:00",
+      "url": "https://powerline.net.in/2026/04/08/texmaco-rail-secures-rs-463-2-million-electrification-contract-from-southern-railway/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "KETRACO commissions 132 kV Sondu-Homa Bay transmission line in Kenya",
+      "category": "POWER",
+      "date": "2026-04-08T05:39:30+00:00",
+      "url": "https://powerline.net.in/2026/04/08/ketraco-commissions-132-kv-sondu-homa-bay-transmission-line-in-kenya/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "SGCC advances Fujian-Jiangxi 500 kV interconnection and commissions Suoku substation",
+      "category": "POWER",
+      "date": "2026-04-08T05:39:02+00:00",
+      "url": "https://powerline.net.in/2026/04/08/sgcc-advances-fujian-jiangxi-500-kv-interconnection-and-commissions-suoku-substation/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "OSHA moves to overturn 2036 deadline for fixed ladder requirements",
       "category": "SAFETY",
       "date": "2026-04-07T21:02:47+00:00",
@@ -4266,6 +4330,14 @@
       "type": "magazine"
     },
     {
+      "title": "Servotech, Electra EV Secure Joint Patent for LV Electric Vehicle Charging Device",
+      "category": "ELECTRICAL",
+      "date": "2026-03-15T06:13:32+00:00",
+      "url": "https://www.electricalindia.in/servotech-electra-ev-secure-joint-patent-for-lv-electric-vehicle-charging-device/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Social connections may be key to older adults staying physically active",
       "category": "SAFETY",
       "date": "2026-03-14T15:02:27+00:00",
@@ -4687,6 +4759,22 @@
       "date": "2026-03-12T08:09:03+00:00",
       "url": "https://www.engineering.com/dupont-wins-watereuse-award-for-wastewater-reuse-membrane/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ACME Solar Signs PPAs for 450 MW / 1800 MWh",
+      "category": "ELECTRICAL",
+      "date": "2026-03-12T06:10:43+00:00",
+      "url": "https://www.electricalindia.in/acme-solar-signs-ppas-for-450-mw-1800-mwh/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Suzlon Unveils New Leadership Architecture, Forms GEC",
+      "category": "ELECTRICAL",
+      "date": "2026-03-12T06:08:47+00:00",
+      "url": "https://www.electricalindia.in/suzlon-unveils-new-leadership-architecture-forms-gec/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -5207,6 +5295,22 @@
       "date": "2026-03-10T08:20:05+00:00",
       "url": "https://www.engineering.com/graybar-plans-acquisition-of-broken-arrow-electric-supply/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "L&T to Divest NPL to Torrent Power",
+      "category": "ELECTRICAL",
+      "date": "2026-03-10T06:04:45+00:00",
+      "url": "https://www.electricalindia.in/lt-to-divest-npl-to-torrent-power/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Tata Power Collaborates with Salesforce to Speedify India’s Clean Energy Transition",
+      "category": "ELECTRICAL",
+      "date": "2026-03-10T06:01:43+00:00",
+      "url": "https://www.electricalindia.in/tata-power-collaborates-with-salesforce-to-speedify-indias-clean-energy-transition/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -18218,5 +18322,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-08T02:36:41.554910+00:00"
+  "last_updated_utc": "2026-04-08T07:23:32.328549+00:00"
 }
