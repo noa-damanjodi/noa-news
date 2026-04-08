@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "ABB Robotics, Jacobi Robotics collab for AI-powered mixed-case palletizing",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T18:09:36+00:00",
+      "url": "https://www.engineering.com/abb-robotics-jacobi-robotics-collab-for-ai-powered-mixed-case-palletizing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Stratasys expands additive manufacturing materials lineup",
       "category": "MECHANICAL",
       "date": "2026-04-08T12:21:06+00:00",
@@ -5314,5 +5322,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-08T13:23:22.678878+00:00"
+  "last_updated_utc": "2026-04-08T19:19:25.322638+00:00"
 }

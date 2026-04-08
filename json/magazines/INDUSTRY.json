@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Perenti extends Duketon mining contract with Regis",
+      "category": "INDUSTRY",
+      "date": "2026-04-08T13:27:03+00:00",
+      "url": "https://www.mining-technology.com/news/perenti-extends-duketon-mining-contract-regis/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Sandvik unveils automated DD423i drill rig",
+      "category": "INDUSTRY",
+      "date": "2026-04-08T12:54:51+00:00",
+      "url": "https://www.mining-technology.com/news/sandvik-automated-dd423i-drill-rig/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Core Lithium awards contract for Finniss project",
       "category": "INDUSTRY",
       "date": "2026-04-08T10:03:44+00:00",
@@ -2938,5 +2954,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-08T13:23:22.678878+00:00"
+  "last_updated_utc": "2026-04-08T19:19:25.322638+00:00"
 }

@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "ABB Robotics, Jacobi Robotics collab for AI-powered mixed-case palletizing",
+      "category": "MECHANICAL",
+      "date": "2026-04-08T18:09:36+00:00",
+      "url": "https://www.engineering.com/abb-robotics-jacobi-robotics-collab-for-ai-powered-mixed-case-palletizing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Health and Human Services proposes trimming NIOSH programs",
+      "category": "SAFETY",
+      "date": "2026-04-08T17:00:27+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/health-and-human-services-proposes-trimming-niosh-programs/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Tower worker association releases new resource on good nutrition",
+      "category": "SAFETY",
+      "date": "2026-04-08T16:51:50+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/tower-worker-association-releases-new-resource-on-good-nutrition/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Ontario welcomes multi-billion AI infrastructure expansion investment from Microsoft",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-08T14:14:37+00:00",
+      "url": "https://www.automationmag.com/ontario-welcomes-multi-billion-ai-infrastructure-expansion-investment-from-microsoft/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Algoma Steel forms joint venture with armoured vehicle company Roshel",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-08T14:01:09+00:00",
+      "url": "https://www.automationmag.com/algoma-steel-forms-joint-venture-with-armoured-vehicle-company-roshel/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Perenti extends Duketon mining contract with Regis",
+      "category": "INDUSTRY",
+      "date": "2026-04-08T13:27:03+00:00",
+      "url": "https://www.mining-technology.com/news/perenti-extends-duketon-mining-contract-regis/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Sandvik unveils automated DD423i drill rig",
+      "category": "INDUSTRY",
+      "date": "2026-04-08T12:54:51+00:00",
+      "url": "https://www.mining-technology.com/news/sandvik-automated-dd423i-drill-rig/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Stratasys expands additive manufacturing materials lineup",
       "category": "MECHANICAL",
       "date": "2026-04-08T12:21:06+00:00",
@@ -18530,5 +18586,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-08T13:23:22.678878+00:00"
+  "last_updated_utc": "2026-04-08T19:19:25.322638+00:00"
 }

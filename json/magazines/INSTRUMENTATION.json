@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Ontario welcomes multi-billion AI infrastructure expansion investment from Microsoft",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-08T14:14:37+00:00",
+      "url": "https://www.automationmag.com/ontario-welcomes-multi-billion-ai-infrastructure-expansion-investment-from-microsoft/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Algoma Steel forms joint venture with armoured vehicle company Roshel",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-08T14:01:09+00:00",
+      "url": "https://www.automationmag.com/algoma-steel-forms-joint-venture-with-armoured-vehicle-company-roshel/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Emerson expands Guardian Digital Platform capabilities",
       "category": "INSTRUMENTATION",
       "date": "2026-04-07T18:25:48+00:00",
@@ -1322,5 +1338,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-08T13:23:22.678878+00:00"
+  "last_updated_utc": "2026-04-08T19:19:25.322638+00:00"
 }
