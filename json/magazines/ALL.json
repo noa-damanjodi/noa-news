@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Cornell University and construction trades group partner on mental health training",
+      "category": "SAFETY",
+      "date": "2026-04-08T19:53:19+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/cornell-university-and-construction-trades-group-partner-on-mental-health-training/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "ABB Robotics, Jacobi Robotics collab for AI-powered mixed-case palletizing",
       "category": "MECHANICAL",
       "date": "2026-04-08T18:09:36+00:00",
@@ -18586,5 +18594,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-08T19:19:25.322638+00:00"
+  "last_updated_utc": "2026-04-09T02:31:51.782615+00:00"
 }
