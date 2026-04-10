@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "wBullion Gold concludes drilling at Quebec’s Langlade project",
+      "category": "INDUSTRY",
+      "date": "2026-04-10T12:44:10+00:00",
+      "url": "https://www.mining-technology.com/news/wbullion-gold-concludes-drilling-langlade-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Joby, ASI partner on eVTOL airspace integration",
+      "category": "MECHANICAL",
+      "date": "2026-04-10T12:32:53+00:00",
+      "url": "https://www.engineering.com/joby-asi-partner-on-evtol-airspace-integration/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Modelithics updates COMPLETE+3D Library for HFSS",
+      "category": "MECHANICAL",
+      "date": "2026-04-10T12:25:05+00:00",
+      "url": "https://www.engineering.com/modelithics-updates-complete3d-library-for-hfss/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "G Mining Ventures to acquire G2 Goldfields",
+      "category": "INDUSTRY",
+      "date": "2026-04-10T09:48:30+00:00",
+      "url": "https://www.mining-technology.com/news/g-mining-ventures-to-acquire-g2-goldfields/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Power Generation: Total power generation in January 2026",
+      "category": "POWER",
+      "date": "2026-04-10T08:23:43+00:00",
+      "url": "https://powerline.net.in/2026/04/10/power-generation-total-power-generation-in-january-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Trading Data: Day-ahead market and real-time market",
+      "category": "POWER",
+      "date": "2026-04-10T08:17:21+00:00",
+      "url": "https://powerline.net.in/2026/04/10/trading-data-day-ahead-market-and-real-time-market-12/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Key Statistics: Status of thermal power projects up to 2031-32",
+      "category": "POWER",
+      "date": "2026-04-10T08:15:41+00:00",
+      "url": "https://powerline.net.in/2026/04/10/key-statistics-status-of-thermal-power-projects-up-to-2031-32/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Paramount begins IA at Nevada’s Sleeper Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-04-10T07:32:17+00:00",
+      "url": "https://www.mining-technology.com/news/paramount-begins-ia-sleeper-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Pacgold achieves initial gold output at White Dam Project",
+      "category": "INDUSTRY",
+      "date": "2026-04-10T07:20:04+00:00",
+      "url": "https://www.mining-technology.com/news/pacgold-achieves-initial-gold-white-dam/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Minhaj Alam IAS, Additional Chief Secretary, Government of Kerala, Chairman & Managing Director, KSEBL",
       "category": "POWER",
       "date": "2026-04-10T06:38:16+00:00",
@@ -2874,6 +2946,14 @@
       "type": "magazine"
     },
     {
+      "title": "Know Your Transformer (KYT)",
+      "category": "ELECTRICAL",
+      "date": "2026-03-25T10:54:44+00:00",
+      "url": "https://www.electricalindia.in/know-your-transformer-kyt/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "AMC Bridge demos MCP connector for BIM workflows",
       "category": "MECHANICAL",
       "date": "2026-03-25T10:54:07+00:00",
@@ -3622,6 +3702,22 @@
       "category": "ELECTRICAL",
       "date": "2026-03-22T05:39:36+00:00",
       "url": "https://www.electricalindia.in/recent-trends-in-electric-vehicles/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Switchgear and Protection",
+      "category": "ELECTRICAL",
+      "date": "2026-03-22T01:49:38+00:00",
+      "url": "https://www.electricalindia.in/switchgear-and-protection/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Electrical Fires in India’s Power Sector",
+      "category": "ELECTRICAL",
+      "date": "2026-03-22T01:34:57+00:00",
+      "url": "https://www.electricalindia.in/electrical-fires-in-indias-power-sector/",
       "source": "Electrical India Magazine",
       "type": "magazine"
     },
@@ -18962,5 +19058,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-10T07:44:47.037169+00:00"
+  "last_updated_utc": "2026-04-10T13:15:33.596115+00:00"
 }

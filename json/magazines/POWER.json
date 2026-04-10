@@ -2,6 +2,30 @@
   "category": "POWER",
   "items": [
     {
+      "title": "Power Generation: Total power generation in January 2026",
+      "category": "POWER",
+      "date": "2026-04-10T08:23:43+00:00",
+      "url": "https://powerline.net.in/2026/04/10/power-generation-total-power-generation-in-january-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Trading Data: Day-ahead market and real-time market",
+      "category": "POWER",
+      "date": "2026-04-10T08:17:21+00:00",
+      "url": "https://powerline.net.in/2026/04/10/trading-data-day-ahead-market-and-real-time-market-12/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Key Statistics: Status of thermal power projects up to 2031-32",
+      "category": "POWER",
+      "date": "2026-04-10T08:15:41+00:00",
+      "url": "https://powerline.net.in/2026/04/10/key-statistics-status-of-thermal-power-projects-up-to-2031-32/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Minhaj Alam IAS, Additional Chief Secretary, Government of Kerala, Chairman & Managing Director, KSEBL",
       "category": "POWER",
       "date": "2026-04-10T06:38:16+00:00",
@@ -4786,5 +4810,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-10T07:44:47.037169+00:00"
+  "last_updated_utc": "2026-04-10T13:15:33.596115+00:00"
 }
