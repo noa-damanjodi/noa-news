@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Building trust with buyers: Legal lessons for business owners looking to sell",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-09T20:55:50+00:00",
+      "url": "https://www.automationmag.com/building-trust-with-buyers-legal-lessons-for-business-owners-looking-to-sell/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "‘Canada, Canada, Canada’: AI, defence and sovereignty take centre stage at NGen’s N3 Summit",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-09T19:18:05+00:00",
+      "url": "https://www.automationmag.com/canada-canada-canada-ai-defence-and-sovereignty-take-centre-stage-at-ngens-n3-summit/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Jacobi Robotics signs collaboration with ABB Robotics for AI-powered palletizing solution",
       "category": "INSTRUMENTATION",
       "date": "2026-04-09T14:05:13+00:00",
@@ -1362,5 +1378,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-09T19:09:56.414965+00:00"
+  "last_updated_utc": "2026-04-10T02:43:11.029618+00:00"
 }
