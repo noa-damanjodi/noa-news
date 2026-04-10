@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Stratasys expands software, materials and 3D printing",
+      "category": "MECHANICAL",
+      "date": "2026-04-10T14:04:22+00:00",
+      "url": "https://www.engineering.com/stratasys-expands-software-materials-and-3d-printing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and NVIDIA scale pre-silicon verification",
+      "category": "MECHANICAL",
+      "date": "2026-04-10T13:36:30+00:00",
+      "url": "https://www.engineering.com/siemens-and-nvidia-scale-pre-silicon-verification/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ELEMENTS 4.5.0 adds a new multi-physics workflow",
+      "category": "MECHANICAL",
+      "date": "2026-04-10T13:24:07+00:00",
+      "url": "https://www.engineering.com/elements-4-5-0-adds-a-new-multi-physics-workflow/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Joby, ASI partner on eVTOL airspace integration",
       "category": "MECHANICAL",
       "date": "2026-04-10T12:32:53+00:00",
@@ -14,6 +38,46 @@
       "category": "MECHANICAL",
       "date": "2026-04-10T12:25:05+00:00",
       "url": "https://www.engineering.com/modelithics-updates-complete3d-library-for-hfss/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro launches pre-configured Gold Series servers",
+      "category": "MECHANICAL",
+      "date": "2026-04-10T11:55:00+00:00",
+      "url": "https://www.engineering.com/supermicro-launches-pre-configured-gold-series-servers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Toshiba adds Xerox PrimeLink production printers",
+      "category": "MECHANICAL",
+      "date": "2026-04-10T10:04:00+00:00",
+      "url": "https://www.engineering.com/toshiba-adds-xerox-primelink-production-printers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Clarivate names Mitsubishi Electric to AI50 list",
+      "category": "MECHANICAL",
+      "date": "2026-04-10T09:40:00+00:00",
+      "url": "https://www.engineering.com/clarivate-names-mitsubishi-electric-to-ai50-list/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "EON Reality, Hindalco partner on XR skills centers",
+      "category": "MECHANICAL",
+      "date": "2026-04-10T09:30:00+00:00",
+      "url": "https://www.engineering.com/eon-reality-hindalco-partner-on-xr-skills-centers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Silex, Edge Impulse team on edge AI development",
+      "category": "MECHANICAL",
+      "date": "2026-04-10T09:19:00+00:00",
+      "url": "https://www.engineering.com/silex-edge-impulse-team-on-edge-ai-development/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -5410,5 +5474,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-10T13:15:33.596115+00:00"
+  "last_updated_utc": "2026-04-10T18:57:01.340213+00:00"
 }
