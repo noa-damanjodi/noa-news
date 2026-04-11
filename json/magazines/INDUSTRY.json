@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Venezuela’s National Assembly ‌approves mining law",
+      "category": "INDUSTRY",
+      "date": "2026-04-10T12:53:25+00:00",
+      "url": "https://www.mining-technology.com/news/venezuelas-national-assembly-approves-mining-law/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "wBullion Gold concludes drilling at Quebec’s Langlade project",
       "category": "INDUSTRY",
       "date": "2026-04-10T12:44:10+00:00",
@@ -3034,5 +3042,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-11T13:02:52.262639+00:00"
+  "last_updated_utc": "2026-04-11T18:49:38.953238+00:00"
 }
