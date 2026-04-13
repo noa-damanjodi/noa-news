@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Epiroc secures mining equipment contract from Mopani",
+      "category": "INDUSTRY",
+      "date": "2026-04-13T08:00:19+00:00",
+      "url": "https://www.mining-technology.com/news/epiroc-secures-mining-equipment-contract-from-mopani/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Processing under pressure: where the Iran war is hitting mining",
+      "category": "INDUSTRY",
+      "date": "2026-04-13T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/processing-under-pressure-where-the-iran-war-is-hitting-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Venezuela’s National Assembly ‌approves mining law",
       "category": "INDUSTRY",
       "date": "2026-04-10T12:53:25+00:00",
@@ -3042,5 +3058,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-13T02:51:38.616122+00:00"
+  "last_updated_utc": "2026-04-13T08:06:58.870296+00:00"
 }
