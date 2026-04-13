@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "J2 Metals starts IP survey at Miniac Project",
+      "category": "INDUSTRY",
+      "date": "2026-04-13T12:54:12+00:00",
+      "url": "https://www.mining-technology.com/news/j2-metals-starts-ip-survey-miniac-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Versamet finalises Eskay Creek gold stream acquisition",
+      "category": "INDUSTRY",
+      "date": "2026-04-13T12:43:51+00:00",
+      "url": "https://www.mining-technology.com/news/versamet-eskay-creek-gold-stream-acquisition/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Neo Performance’s HREE line commissioned in Estonia",
+      "category": "INDUSTRY",
+      "date": "2026-04-13T09:35:25+00:00",
+      "url": "https://www.mining-technology.com/news/neo-performances-hree-line-commissioned-estonia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metals Exploration secures four La India concessions",
+      "category": "INDUSTRY",
+      "date": "2026-04-13T08:09:18+00:00",
+      "url": "https://www.mining-technology.com/news/metals-exploration-secures-four-la-india-concessions/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Epiroc secures mining equipment contract from Mopani",
       "category": "INDUSTRY",
       "date": "2026-04-13T08:00:19+00:00",
@@ -18,6 +50,14 @@
       "type": "magazine"
     },
     {
+      "title": "Processing under pressure: where the Iran war is hitting mining",
+      "category": "INDUSTRY",
+      "date": "2026-04-13T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/analysis/processing-under-pressure-where-the-iran-war-is-hitting-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Venezuela’s National Assembly ‌approves mining law",
       "category": "INDUSTRY",
       "date": "2026-04-10T12:53:25+00:00",
@@ -26,7 +66,7 @@
       "type": "magazine"
     },
     {
-      "title": "wBullion Gold concludes drilling at Quebec’s Langlade project",
+      "title": "Bullion Gold concludes drilling at Quebec’s Langlade project",
       "category": "INDUSTRY",
       "date": "2026-04-10T12:44:10+00:00",
       "url": "https://www.mining-technology.com/news/wbullion-gold-concludes-drilling-langlade-project/",
@@ -3058,5 +3098,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-13T08:06:58.870296+00:00"
+  "last_updated_utc": "2026-04-13T13:42:35.352860+00:00"
 }

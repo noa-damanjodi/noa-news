@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Bosch and Qualcomm expand partnership into ADAS",
+      "category": "MECHANICAL",
+      "date": "2026-04-13T12:02:24+00:00",
+      "url": "https://www.engineering.com/bosch-and-qualcomm-expand-partnership-into-adas/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Kubotek Kosmos updates 3D Framework to version 8.0",
+      "category": "MECHANICAL",
+      "date": "2026-04-13T10:44:44+00:00",
+      "url": "https://www.engineering.com/kubotek-kosmos-updates-3d-framework-to-version-8-0/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon to acquire Waygate Technologies",
+      "category": "MECHANICAL",
+      "date": "2026-04-13T10:30:00+00:00",
+      "url": "https://www.engineering.com/hexagon-to-acquire-waygate-technologies/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Stratasys expands software, materials and 3D printing",
       "category": "MECHANICAL",
       "date": "2026-04-10T14:04:22+00:00",
@@ -5474,5 +5498,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-13T08:06:58.870296+00:00"
+  "last_updated_utc": "2026-04-13T13:42:35.352860+00:00"
 }

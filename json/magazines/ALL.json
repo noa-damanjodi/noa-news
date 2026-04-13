@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "J2 Metals starts IP survey at Miniac Project",
+      "category": "INDUSTRY",
+      "date": "2026-04-13T12:54:12+00:00",
+      "url": "https://www.mining-technology.com/news/j2-metals-starts-ip-survey-miniac-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Versamet finalises Eskay Creek gold stream acquisition",
+      "category": "INDUSTRY",
+      "date": "2026-04-13T12:43:51+00:00",
+      "url": "https://www.mining-technology.com/news/versamet-eskay-creek-gold-stream-acquisition/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Bosch and Qualcomm expand partnership into ADAS",
+      "category": "MECHANICAL",
+      "date": "2026-04-13T12:02:24+00:00",
+      "url": "https://www.engineering.com/bosch-and-qualcomm-expand-partnership-into-adas/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Kirloskar Brothers powers India’s nuclear milestone",
+      "category": "POWER",
+      "date": "2026-04-13T11:48:05+00:00",
+      "url": "https://powerline.net.in/2026/04/13/kirloskar-brothers-powers-indias-nuclear-milestone/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Kubotek Kosmos updates 3D Framework to version 8.0",
+      "category": "MECHANICAL",
+      "date": "2026-04-13T10:44:44+00:00",
+      "url": "https://www.engineering.com/kubotek-kosmos-updates-3d-framework-to-version-8-0/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon to acquire Waygate Technologies",
+      "category": "MECHANICAL",
+      "date": "2026-04-13T10:30:00+00:00",
+      "url": "https://www.engineering.com/hexagon-to-acquire-waygate-technologies/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Neo Performance’s HREE line commissioned in Estonia",
+      "category": "INDUSTRY",
+      "date": "2026-04-13T09:35:25+00:00",
+      "url": "https://www.mining-technology.com/news/neo-performances-hree-line-commissioned-estonia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metals Exploration secures four La India concessions",
+      "category": "INDUSTRY",
+      "date": "2026-04-13T08:09:18+00:00",
+      "url": "https://www.mining-technology.com/news/metals-exploration-secures-four-la-india-concessions/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Epiroc secures mining equipment contract from Mopani",
       "category": "INDUSTRY",
       "date": "2026-04-13T08:00:19+00:00",
@@ -66,6 +130,14 @@
       "type": "magazine"
     },
     {
+      "title": "Processing under pressure: where the Iran war is hitting mining",
+      "category": "INDUSTRY",
+      "date": "2026-04-13T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/analysis/processing-under-pressure-where-the-iran-war-is-hitting-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "MSHA silica rule on hold ‘indefinitely,’ agency says",
       "category": "SAFETY",
       "date": "2026-04-10T17:05:44+00:00",
@@ -114,7 +186,7 @@
       "type": "magazine"
     },
     {
-      "title": "wBullion Gold concludes drilling at Quebec’s Langlade project",
+      "title": "Bullion Gold concludes drilling at Quebec’s Langlade project",
       "category": "INDUSTRY",
       "date": "2026-04-10T12:44:10+00:00",
       "url": "https://www.mining-technology.com/news/wbullion-gold-concludes-drilling-langlade-project/",
@@ -3175,6 +3247,14 @@
       "date": "2026-03-25T09:24:53+00:00",
       "url": "https://www.mining-technology.com/news/ambra-transforms-comms-system-at-iamgolds-cote-gold-mine/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Tata Power Renewable Energy Ltd. Commissions 198 MW Group Captive Project",
+      "category": "ELECTRICAL",
+      "date": "2026-03-25T09:11:45+00:00",
+      "url": "https://www.electricalindia.in/tata-power-renewable-energy-ltd-commissions-198-mw-group-captive-project/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -19234,5 +19314,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-13T08:06:58.870296+00:00"
+  "last_updated_utc": "2026-04-13T13:42:35.352860+00:00"
 }
