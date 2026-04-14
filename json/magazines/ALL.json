@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "ModuleWorks 2026.04 adds GPU machine simulation",
+      "category": "MECHANICAL",
+      "date": "2026-04-14T12:56:06+00:00",
+      "url": "https://www.engineering.com/moduleworks-2026-04-adds-gpu-machine-simulation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rapidus opens analysis center and chiplet solutions hub",
+      "category": "MECHANICAL",
+      "date": "2026-04-14T12:52:56+00:00",
+      "url": "https://www.engineering.com/rapidus-opens-analysis-center-and-chiplet-solutions-hub/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nemetschek to acquire HCSS for heavy civil software",
+      "category": "MECHANICAL",
+      "date": "2026-04-14T12:46:44+00:00",
+      "url": "https://www.engineering.com/nemetschek-to-acquire-hcss-for-heavy-civil-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "EnviroGold to develop processing hub for metal supply boost",
+      "category": "INDUSTRY",
+      "date": "2026-04-14T12:46:01+00:00",
+      "url": "https://www.mining-technology.com/news/envirogold-to-develop-processing-hub-metal-supply/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro adds compact AMD EPYC 4005 edge systems",
+      "category": "MECHANICAL",
+      "date": "2026-04-14T12:35:40+00:00",
+      "url": "https://www.engineering.com/supermicro-adds-compact-amd-epyc-4005-edge-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aras joins Alliance for OpenUSD for digital twins",
+      "category": "MECHANICAL",
+      "date": "2026-04-14T11:54:48+00:00",
+      "url": "https://www.engineering.com/aras-joins-alliance-for-openusd-for-digital-twins/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Globant named Autodesk Tandem digital twin provider",
+      "category": "MECHANICAL",
+      "date": "2026-04-14T11:48:54+00:00",
+      "url": "https://www.engineering.com/globant-named-autodesk-tandem-digital-twin-provider/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Australia and US allocate $3.5bn for critical minerals projects",
+      "category": "INDUSTRY",
+      "date": "2026-04-14T09:31:24+00:00",
+      "url": "https://www.mining-technology.com/news/australia-us-allocate-3-5bn-critical-minerals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "A2Gold to acquire RT/JO claims in US",
+      "category": "INDUSTRY",
+      "date": "2026-04-14T07:15:21+00:00",
+      "url": "https://www.mining-technology.com/news/a2gold-to-acquire-rt-jo-claims-us/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Denarius Metals proposes Emerita Resources acquisition",
       "category": "INDUSTRY",
       "date": "2026-04-14T07:01:06+00:00",
@@ -78,6 +150,14 @@
       "category": "POWER",
       "date": "2026-04-14T05:57:42+00:00",
       "url": "https://powerline.net.in/2026/04/14/ebrd-to-sanction-usd-80-million-loan-for-scatecs-solar-and-battery-storage-project-in-egypt/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Roadmap to 2047: Pathways to a clean and integrated energy future",
+      "category": "POWER",
+      "date": "2026-04-14T05:04:01+00:00",
+      "url": "https://powerline.net.in/2026/04/14/roadmap-to-2047-pathways-to-a-clean-and-integrated-energy-future/",
       "source": "Power Line Magazine",
       "type": "magazine"
     },
@@ -19490,5 +19570,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-14T07:49:27.670089+00:00"
+  "last_updated_utc": "2026-04-14T13:45:34.105363+00:00"
 }
