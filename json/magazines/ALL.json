@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Denarius Metals proposes Emerita Resources acquisition",
+      "category": "INDUSTRY",
+      "date": "2026-04-14T07:01:06+00:00",
+      "url": "https://www.mining-technology.com/news/denarius-metals-proposes-emerita-resources-acquisition/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ANDRITZ secures order from Torrent Power for 3,000 MW Saidongar PSP",
+      "category": "POWER",
+      "date": "2026-04-14T06:06:30+00:00",
+      "url": "https://powerline.net.in/2026/04/14/andritz-secures-order-from-torrent-power-for-3000-mw-saidongar-psp/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "MoP launches insurance surety bonds as alternative to bank guarantees across power procurement frameworks",
+      "category": "POWER",
+      "date": "2026-04-14T06:06:02+00:00",
+      "url": "https://powerline.net.in/2026/04/14/mop-launches-insurance-surety-bonds-as-alternative-to-bank-guarantees-across-power-procurement-frameworks/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Google secures discom licence for Vizag data centre hub",
+      "category": "POWER",
+      "date": "2026-04-14T06:05:02+00:00",
+      "url": "https://powerline.net.in/2026/04/14/google-secures-discom-licence-for-vizag-data-centre-hub/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Fourth Partner Energy to supply 28 MW from hybrid project to Hyundai Group",
+      "category": "POWER",
+      "date": "2026-04-14T06:04:02+00:00",
+      "url": "https://powerline.net.in/2026/04/14/fourth-partner-energy-to-supply-28-mw-from-hybrid-project-to-hyundai-group/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "AMPIN inaugurates integrated solar cell and module facility in Odisha",
+      "category": "POWER",
+      "date": "2026-04-14T06:02:50+00:00",
+      "url": "https://powerline.net.in/2026/04/14/ampin-inaugurates-integrated-solar-cell-and-module-facility-in-odisha/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Avaada to invest Rs 220 billion for solar and storage expansion",
+      "category": "POWER",
+      "date": "2026-04-14T06:01:26+00:00",
+      "url": "https://powerline.net.in/2026/04/14/avaada-to-invest-rs-220-billion-for-solar-and-storage-expansion/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Sunsure Energy signs three solar PPAs with Wonder Cement",
+      "category": "POWER",
+      "date": "2026-04-14T06:00:28+00:00",
+      "url": "https://powerline.net.in/2026/04/14/sunsure-energy-signs-three-solar-ppas-with-wonder-cement/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "TotalEnergies and Masdar set up JV to consolidate 9 GW of renewable energy assets across Asia",
+      "category": "POWER",
+      "date": "2026-04-14T05:59:38+00:00",
+      "url": "https://powerline.net.in/2026/04/14/totalenergies-and-masdar-set-up-jv-to-consolidate-9-gw-of-renewable-energy-assets-across-asia/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EBRD to sanction USD 80 million loan for Scatec’s solar and battery storage project in Egypt",
+      "category": "POWER",
+      "date": "2026-04-14T05:57:42+00:00",
+      "url": "https://powerline.net.in/2026/04/14/ebrd-to-sanction-usd-80-million-loan-for-scatecs-solar-and-battery-storage-project-in-egypt/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "On the Safe Side podcast Episode 74: Value of trust in the workplace, April issue highlights",
+      "category": "SAFETY",
+      "date": "2026-04-14T05:00:51+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/on-the-safe-side-podcast-episode-74-value-of-trust-in-the-workplace-april-issue-highlights/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "RAPID Update: 3D Systems & Stratasys announce new hardware, software, and materials",
       "category": "MECHANICAL",
       "date": "2026-04-14T01:05:07+00:00",
@@ -19402,5 +19490,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-14T02:44:29.864628+00:00"
+  "last_updated_utc": "2026-04-14T07:49:27.670089+00:00"
 }
