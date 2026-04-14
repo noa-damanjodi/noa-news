@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Arizona approves recommendations on protecting workers from heat",
+      "category": "SAFETY",
+      "date": "2026-04-14T17:33:58+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/arizona-approves-recommendations-on-protecting-workers-from-heat/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Robotic smelting: how automation is reshaping aluminium production",
+      "category": "INDUSTRY",
+      "date": "2026-04-14T16:27:07+00:00",
+      "url": "https://www.mining-technology.com/features/robot-smelting-automation-reshaping-aluminium-production/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "PIA Automation launches humanoid robotics business segment",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-14T16:06:26+00:00",
+      "url": "https://www.automationmag.com/pia-automation-launches-humanoid-robotics-business-segment/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "KUKA unveils vision for Automation 2.0 as Physical AI reshapes global manufacturing",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-14T15:52:09+00:00",
+      "url": "https://www.automationmag.com/kuka-unveils-vision-for-automation-2-0-as-physical-ai-reshapes-global-manufacturing/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Future-proofing mining",
+      "category": "INDUSTRY",
+      "date": "2026-04-14T15:22:51+00:00",
+      "url": "https://www.mining-technology.com/sponsored/future-proofing-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "From signal to insight",
+      "category": "INDUSTRY",
+      "date": "2026-04-14T15:15:51+00:00",
+      "url": "https://www.mining-technology.com/sponsored/from-signal-to-insight/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "3D Systems adds SLA printer and AddiTrak software",
+      "category": "MECHANICAL",
+      "date": "2026-04-14T15:08:39+00:00",
+      "url": "https://www.engineering.com/3d-systems-adds-sla-printer-and-additrak-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ALLPLAN launches Steel Genie for steel estimating",
+      "category": "MECHANICAL",
+      "date": "2026-04-14T14:46:18+00:00",
+      "url": "https://www.engineering.com/allplan-launches-steel-genie-for-steel-estimating/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens updates Industrial Automation DataCenter for AI",
+      "category": "MECHANICAL",
+      "date": "2026-04-14T14:30:02+00:00",
+      "url": "https://www.engineering.com/siemens-updates-industrial-automation-datacenter-for-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IoT integration: Your step-by-step guide",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-14T14:19:39+00:00",
+      "url": "https://www.automationmag.com/iot-integration-your-step-by-step-guide/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Yancoal signs $2.4bn deal for 80% stake in Kestrel Coal Mine",
+      "category": "INDUSTRY",
+      "date": "2026-04-14T13:31:31+00:00",
+      "url": "https://www.mining-technology.com/news/yancoal-2-4bn-deal-stake-kestrel-coal-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "ModuleWorks 2026.04 adds GPU machine simulation",
       "category": "MECHANICAL",
       "date": "2026-04-14T12:56:06+00:00",
@@ -19570,5 +19658,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-14T13:45:34.105363+00:00"
+  "last_updated_utc": "2026-04-14T19:18:53.283473+00:00"
 }

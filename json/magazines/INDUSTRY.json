@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Robotic smelting: how automation is reshaping aluminium production",
+      "category": "INDUSTRY",
+      "date": "2026-04-14T16:27:07+00:00",
+      "url": "https://www.mining-technology.com/features/robot-smelting-automation-reshaping-aluminium-production/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Future-proofing mining",
+      "category": "INDUSTRY",
+      "date": "2026-04-14T15:22:51+00:00",
+      "url": "https://www.mining-technology.com/sponsored/future-proofing-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "From signal to insight",
+      "category": "INDUSTRY",
+      "date": "2026-04-14T15:15:51+00:00",
+      "url": "https://www.mining-technology.com/sponsored/from-signal-to-insight/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Yancoal signs $2.4bn deal for 80% stake in Kestrel Coal Mine",
+      "category": "INDUSTRY",
+      "date": "2026-04-14T13:31:31+00:00",
+      "url": "https://www.mining-technology.com/news/yancoal-2-4bn-deal-stake-kestrel-coal-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "EnviroGold to develop processing hub for metal supply boost",
       "category": "INDUSTRY",
       "date": "2026-04-14T12:46:01+00:00",
@@ -3154,5 +3186,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-14T13:45:34.105363+00:00"
+  "last_updated_utc": "2026-04-14T19:18:53.283473+00:00"
 }

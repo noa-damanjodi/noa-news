@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "PIA Automation launches humanoid robotics business segment",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-14T16:06:26+00:00",
+      "url": "https://www.automationmag.com/pia-automation-launches-humanoid-robotics-business-segment/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "KUKA unveils vision for Automation 2.0 as Physical AI reshapes global manufacturing",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-14T15:52:09+00:00",
+      "url": "https://www.automationmag.com/kuka-unveils-vision-for-automation-2-0-as-physical-ai-reshapes-global-manufacturing/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "IoT integration: Your step-by-step guide",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-14T14:19:39+00:00",
+      "url": "https://www.automationmag.com/iot-integration-your-step-by-step-guide/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Building trust with buyers: Legal lessons for business owners looking to sell",
       "category": "INSTRUMENTATION",
       "date": "2026-04-09T20:55:50+00:00",
@@ -1378,5 +1402,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-14T13:45:34.105363+00:00"
+  "last_updated_utc": "2026-04-14T19:18:53.283473+00:00"
 }
