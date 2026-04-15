@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Siemens to automate DrinkPAK Fort Worth facility",
+      "category": "MECHANICAL",
+      "date": "2026-04-15T13:34:45+00:00",
+      "url": "https://www.engineering.com/siemens-to-automate-drinkpak-fort-worth-facility/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA introduces open-source Ising quantum AI models",
+      "category": "MECHANICAL",
+      "date": "2026-04-15T13:26:20+00:00",
+      "url": "https://www.engineering.com/nvidia-introduces-open-source-ising-quantum-ai-models/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "BrainChip launches radar reference platform for edge AI",
+      "category": "MECHANICAL",
+      "date": "2026-04-15T12:04:42+00:00",
+      "url": "https://www.engineering.com/brainchip-launches-radar-reference-platform-for-edge-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "KYOCERA AVX expands MIL-PRF-32535 BME NP0 MLCCs",
+      "category": "MECHANICAL",
+      "date": "2026-04-15T11:53:43+00:00",
+      "url": "https://www.engineering.com/kyocera-avx-expands-mil-prf-32535-bme-np0-mlccs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "InnovMetric acquires German partner Duwe-3d",
       "category": "MECHANICAL",
       "date": "2026-04-15T05:34:58+00:00",
@@ -5626,5 +5658,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-15T07:49:55.072135+00:00"
+  "last_updated_utc": "2026-04-15T13:41:17.117950+00:00"
 }
