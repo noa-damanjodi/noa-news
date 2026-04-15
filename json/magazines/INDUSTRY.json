@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Canadian Copper secures $70m funding for Bathurst development",
+      "category": "INDUSTRY",
+      "date": "2026-04-15T07:01:36+00:00",
+      "url": "https://www.mining-technology.com/news/canadian-copper-70m-funding-bathurst-development/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Robotic smelting: how automation is reshaping aluminium production",
       "category": "INDUSTRY",
       "date": "2026-04-14T16:27:07+00:00",
@@ -3186,5 +3194,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-15T02:41:51.282965+00:00"
+  "last_updated_utc": "2026-04-15T07:49:55.072135+00:00"
 }
