@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Accuris launches AI Assistant for engineering intelligence",
+      "category": "MECHANICAL",
+      "date": "2026-04-14T19:30:26+00:00",
+      "url": "https://www.engineering.com/accuris-launches-ai-assistant-for-engineering-intelligence/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "3D Systems adds SLA printer and AddiTrak software",
       "category": "MECHANICAL",
       "date": "2026-04-14T15:08:39+00:00",
@@ -5610,5 +5618,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-14T19:18:53.283473+00:00"
+  "last_updated_utc": "2026-04-15T02:41:51.282965+00:00"
 }

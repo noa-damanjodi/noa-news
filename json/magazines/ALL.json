@@ -2,6 +2,30 @@
   "category": "ALL",
   "items": [
     {
+      "title": "EPA offers more time for input on controversial revisions to chemical safety rule",
+      "category": "SAFETY",
+      "date": "2026-04-14T20:11:41+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/epa-offers-more-time-for-input-on-controversial-revisions-to-chemical-safety-rule/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Physical strain common among warehouse workers: survey",
+      "category": "SAFETY",
+      "date": "2026-04-14T19:47:18+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/physical-strain-common-among-warehouse-workers-survey/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Accuris launches AI Assistant for engineering intelligence",
+      "category": "MECHANICAL",
+      "date": "2026-04-14T19:30:26+00:00",
+      "url": "https://www.engineering.com/accuris-launches-ai-assistant-for-engineering-intelligence/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Arizona approves recommendations on protecting workers from heat",
       "category": "SAFETY",
       "date": "2026-04-14T17:33:58+00:00",
@@ -19658,5 +19682,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-14T19:18:53.283473+00:00"
+  "last_updated_utc": "2026-04-15T02:41:51.282965+00:00"
 }
