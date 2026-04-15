@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Altech introduces range of digital indicators for wide range of applications",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-15T18:54:39+00:00",
+      "url": "https://www.automationmag.com/altech-introduces-range-of-digital-indicators-for-wide-range-of-applications/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "AutomationDirect adds BLOCK DC UPS to product offerings",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-15T18:39:23+00:00",
+      "url": "https://www.automationmag.com/automationdirect-adds-block-dc-ups-to-product-offerings/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Digital safety programs",
+      "category": "SAFETY",
+      "date": "2026-04-15T18:23:28+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/digital-safety-programs/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Canada’s largest automotive manufacturers form new association",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-15T17:32:19+00:00",
+      "url": "https://www.automationmag.com/canadas-largest-automotive-manufacturers-form-new-association/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Chemical Safety Board applauds trade association for going ‘above and beyond’",
+      "category": "SAFETY",
+      "date": "2026-04-15T17:18:38+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/chemical-safety-board-applauds-trade-association-for-going-above-and-beyond/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Researchers seek input from workers exposed to ‘forever chemicals’",
+      "category": "SAFETY",
+      "date": "2026-04-15T16:44:46+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/researchers-seek-input-from-workers-exposed-to-forever-chemicals/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Women’s group pushes for workplace education and lawmaker action on menopause",
+      "category": "SAFETY",
+      "date": "2026-04-15T16:35:20+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/womens-group-pushes-for-workplace-education-and-lawmaker-action-on-menopause/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hitachi and Adani commissions HVDC city center infeed in Mumbai",
+      "category": "POWER",
+      "date": "2026-04-15T15:50:30+00:00",
+      "url": "https://powerline.net.in/2026/04/15/hitachi-and-adani-commissions-hvdc-city-center-infeed-in-mumbai/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Flexcompute automates the engineering simulation workflow with GeometryAI",
+      "category": "MECHANICAL",
+      "date": "2026-04-15T15:35:58+00:00",
+      "url": "https://www.engineering.com/flexcompute-automates-the-engineering-simulation-workflow-with-geometryai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "R-evolution starts Green Cubes airborne mapping missions",
+      "category": "MECHANICAL",
+      "date": "2026-04-15T14:36:14+00:00",
+      "url": "https://www.engineering.com/r-evolution-starts-green-cubes-airborne-mapping-missions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NASA selects Synopsys, EMA for lunar spacesuit analysis",
+      "category": "MECHANICAL",
+      "date": "2026-04-15T14:20:49+00:00",
+      "url": "https://www.engineering.com/nasa-selects-synopsys-ema-for-lunar-spacesuit-analysis/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Siemens to automate DrinkPAK Fort Worth facility",
       "category": "MECHANICAL",
       "date": "2026-04-15T13:34:45+00:00",
@@ -55,6 +143,30 @@
       "date": "2026-04-15T10:17:23+00:00",
       "url": "https://www.mining-technology.com/news/global-oil-supply-chains-iran-conflict/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ASRock Industrial introduces AiUAC Copilot for IEC 61499",
+      "category": "MECHANICAL",
+      "date": "2026-04-15T09:56:00+00:00",
+      "url": "https://www.engineering.com/asrock-industrial-introduces-aiuac-copilot-for-iec-61499/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sivers and Jabil collaborate on 1.6T optical module",
+      "category": "MECHANICAL",
+      "date": "2026-04-15T08:22:00+00:00",
+      "url": "https://www.engineering.com/sivers-and-jabil-collaborate-on-1-6t-optical-module/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "RB Industrial adds Keyence XM-1540 measurement system",
+      "category": "MECHANICAL",
+      "date": "2026-04-15T08:18:00+00:00",
+      "url": "https://www.engineering.com/rb-industrial-adds-keyence-xm-1540-measurement-system/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -19842,5 +19954,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-15T13:41:17.117950+00:00"
+  "last_updated_utc": "2026-04-15T19:20:09.106554+00:00"
 }
