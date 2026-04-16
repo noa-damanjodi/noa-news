@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "How innovation evolves when an engineer gets tired of chasing his kids downhill",
+      "category": "MECHANICAL",
+      "date": "2026-04-15T20:41:31+00:00",
+      "url": "https://www.engineering.com/how-innovation-evolves-when-an-engineer-gets-tired-of-chasing-his-kids-downhill/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Basler introduces CoaXPress-over-Fiber TDI vision system",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-15T19:21:41+00:00",
+      "url": "https://www.automationmag.com/basler-introduces-coaxpress-over-fiber-tdi-vision-system/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Altech introduces range of digital indicators for wide range of applications",
       "category": "INSTRUMENTATION",
       "date": "2026-04-15T18:54:39+00:00",
@@ -19954,5 +19970,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-15T19:20:09.106554+00:00"
+  "last_updated_utc": "2026-04-16T02:49:34.278190+00:00"
 }

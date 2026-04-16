@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Basler introduces CoaXPress-over-Fiber TDI vision system",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-15T19:21:41+00:00",
+      "url": "https://www.automationmag.com/basler-introduces-coaxpress-over-fiber-tdi-vision-system/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Altech introduces range of digital indicators for wide range of applications",
       "category": "INSTRUMENTATION",
       "date": "2026-04-15T18:54:39+00:00",
@@ -1426,5 +1434,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-15T19:20:09.106554+00:00"
+  "last_updated_utc": "2026-04-16T02:49:34.278190+00:00"
 }
