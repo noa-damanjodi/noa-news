@@ -2,6 +2,14 @@
   "category": "POWER",
   "items": [
     {
+      "title": "Ensuring System Resilience: Why black start services require a reliability assurance framework",
+      "category": "POWER",
+      "date": "2026-04-16T12:18:09+00:00",
+      "url": "https://powerline.net.in/2026/04/16/ensuring-system-resilience-why-black-start-services-require-a-reliability-assurance-framework/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "AESL commissions 1,000 MW HVDC link in Mumbai",
       "category": "POWER",
       "date": "2026-04-16T06:13:50+00:00",
@@ -5090,5 +5098,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-16T07:49:53.257089+00:00"
+  "last_updated_utc": "2026-04-16T13:49:38.851303+00:00"
 }

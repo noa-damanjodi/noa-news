@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "USA Rare Earth produces initial yttrium metal",
+      "category": "INDUSTRY",
+      "date": "2026-04-16T09:35:54+00:00",
+      "url": "https://www.mining-technology.com/news/usa-rare-earth-produces-initial-yttrium-metal/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Mogotes signs agreement with Kennecott for Montana site",
+      "category": "INDUSTRY",
+      "date": "2026-04-16T08:26:58+00:00",
+      "url": "https://www.mining-technology.com/news/mogotes-signs-agreement-kennecott-montana-site/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB to provide GMD and RMD systems for Australian mine",
+      "category": "INDUSTRY",
+      "date": "2026-04-16T08:20:15+00:00",
+      "url": "https://www.mining-technology.com/news/abb-gmd-rmd-systems-australian-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Ascension secures funding for geothermal critical mineral recovery",
+      "category": "INDUSTRY",
+      "date": "2026-04-15T13:12:53+00:00",
+      "url": "https://www.mining-technology.com/news/ascension-funding-geothermal-critical-mineral-recovery/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "SAGA Metals to acquire Wolverine REE project in Canada",
       "category": "INDUSTRY",
       "date": "2026-04-15T12:49:57+00:00",
@@ -3226,5 +3258,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-16T07:49:53.257089+00:00"
+  "last_updated_utc": "2026-04-16T13:49:38.851303+00:00"
 }

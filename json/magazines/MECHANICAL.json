@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Okuma introduces high-pressure coolant system",
+      "category": "MECHANICAL",
+      "date": "2026-04-16T13:33:45+00:00",
+      "url": "https://www.engineering.com/okuma-introduces-high-pressure-coolant-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Elegoo launches Jupiter 2 large-format 16K resin printer",
+      "category": "MECHANICAL",
+      "date": "2026-04-16T10:51:42+00:00",
+      "url": "https://www.engineering.com/elegoo-launches-jupiter-2-large-format-16k-resin-printer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence and NVIDIA expand partnership for agentic AI design",
+      "category": "MECHANICAL",
+      "date": "2026-04-16T09:30:00+00:00",
+      "url": "https://www.engineering.com/cadence-and-nvidia-expand-partnership-for-agentic-ai-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence collaborates with Google on AI-driven chip design",
+      "category": "MECHANICAL",
+      "date": "2026-04-16T09:07:00+00:00",
+      "url": "https://www.engineering.com/cadence-collaborates-with-google-on-ai-driven-chip-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Molex to acquire Teramount for fiber-to-chip connectivity",
+      "category": "MECHANICAL",
+      "date": "2026-04-16T08:11:00+00:00",
+      "url": "https://www.engineering.com/molex-to-acquire-teramount-for-fiber-to-chip-connectivity/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Scale Computing launches Velocity partner program",
+      "category": "MECHANICAL",
+      "date": "2026-04-16T08:05:00+00:00",
+      "url": "https://www.engineering.com/scale-computing-launches-velocity-partner-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "How innovation evolves when an engineer gets tired of chasing his kids downhill",
       "category": "MECHANICAL",
       "date": "2026-04-15T20:41:31+00:00",
@@ -5714,5 +5762,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-16T07:49:53.257089+00:00"
+  "last_updated_utc": "2026-04-16T13:49:38.851303+00:00"
 }
