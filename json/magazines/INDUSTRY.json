@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Tocvan deploys heavy machinery at Mexico’s Gran Pilar project",
+      "category": "INDUSTRY",
+      "date": "2026-04-16T13:06:19+00:00",
+      "url": "https://www.mining-technology.com/news/tocvan-deploys-heavy-machinery-gran-pilar/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "MMD to acquire TraxIQ rights from Anglo American",
+      "category": "INDUSTRY",
+      "date": "2026-04-16T12:59:35+00:00",
+      "url": "https://www.mining-technology.com/news/mmd-to-acquire-traxiq-rights-anglo-american/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "USA Rare Earth produces initial yttrium metal",
       "category": "INDUSTRY",
       "date": "2026-04-16T09:35:54+00:00",
@@ -3258,5 +3274,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-16T13:49:38.851303+00:00"
+  "last_updated_utc": "2026-04-16T19:18:11.055124+00:00"
 }

@@ -2,11 +2,43 @@
   "category": "ALL",
   "items": [
     {
+      "title": "You may be ‘floored’ to learn how long ticks can live in your home",
+      "category": "SAFETY",
+      "date": "2026-04-16T15:30:50+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/you-may-be-floored-to-learn-how-long-ticks-can-live-in-your-home/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Okuma introduces high-pressure coolant system",
       "category": "MECHANICAL",
       "date": "2026-04-16T13:33:45+00:00",
       "url": "https://www.engineering.com/okuma-introduces-high-pressure-coolant-system/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Tocvan deploys heavy machinery at Mexico’s Gran Pilar project",
+      "category": "INDUSTRY",
+      "date": "2026-04-16T13:06:19+00:00",
+      "url": "https://www.mining-technology.com/news/tocvan-deploys-heavy-machinery-gran-pilar/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and KION partner to digitalize intralogistics",
+      "category": "MECHANICAL",
+      "date": "2026-04-16T13:06:00+00:00",
+      "url": "https://www.engineering.com/siemens-and-kion-partner-to-digitalize-intralogistics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MMD to acquire TraxIQ rights from Anglo American",
+      "category": "INDUSTRY",
+      "date": "2026-04-16T12:59:35+00:00",
+      "url": "https://www.mining-technology.com/news/mmd-to-acquire-traxiq-rights-anglo-american/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -20114,5 +20146,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-16T13:49:38.851303+00:00"
+  "last_updated_utc": "2026-04-16T19:18:11.055124+00:00"
 }
