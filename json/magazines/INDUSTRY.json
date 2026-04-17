@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Fredonia begins 10,000m drilling at EDM gold project",
+      "category": "INDUSTRY",
+      "date": "2026-04-17T09:25:35+00:00",
+      "url": "https://www.mining-technology.com/news/fredonia-10000m-drilling-edm-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Origen plans acquisition of Brazilian REE project",
       "category": "INDUSTRY",
       "date": "2026-04-17T07:35:30+00:00",
@@ -3290,5 +3298,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-17T07:50:22.753436+00:00"
+  "last_updated_utc": "2026-04-17T13:23:34.418452+00:00"
 }
