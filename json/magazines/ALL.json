@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Origen plans acquisition of Brazilian REE project",
+      "category": "INDUSTRY",
+      "date": "2026-04-17T07:35:30+00:00",
+      "url": "https://www.mining-technology.com/news/origen-plans-acquisition-brazils-ree-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Hitachi delivers electric excavator to Rudnik uglja Pljevlja",
+      "category": "INDUSTRY",
+      "date": "2026-04-17T07:24:15+00:00",
+      "url": "https://www.mining-technology.com/news/hitachi-electric-excavator-rudnik-uglja-pljevlja/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "CERC issues draft procedure for levy of compensation charges for GNA milestone delays",
+      "category": "POWER",
+      "date": "2026-04-17T06:54:07+00:00",
+      "url": "https://powerline.net.in/2026/04/17/cerc-issues-draft-procedure-for-levy-of-compensation-charges-for-gna-milestone-delays/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Polaris Smart Metering secures Rs 7.1 billion from BII for West Bengal rollout",
+      "category": "POWER",
+      "date": "2026-04-17T06:52:45+00:00",
+      "url": "https://powerline.net.in/2026/04/17/polaris-smart-metering-secures-rs-7-1-billion-from-bii-for-west-bengal-rollout/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Godawari Power increases investment in energy subsidiary for BESS project",
+      "category": "POWER",
+      "date": "2026-04-17T06:51:37+00:00",
+      "url": "https://powerline.net.in/2026/04/17/godawari-power-increases-investment-in-energy-subsidiary-for-bess-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "JK Cement acquires 9.77 per cent stake in renewable energy SPV",
+      "category": "POWER",
+      "date": "2026-04-17T06:50:09+00:00",
+      "url": "https://powerline.net.in/2026/04/17/jk-cement-acquires-9-77-per-cent-stake-in-renewable-energy-spv/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Pi Green and EcoGuard partner to deploy digital MRV systems for carbon capture projects",
+      "category": "POWER",
+      "date": "2026-04-17T06:48:33+00:00",
+      "url": "https://powerline.net.in/2026/04/17/pi-green-and-ecoguard-partner-to-deploy-digital-mrv-systems-for-carbon-capture-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Sterling & Wilson RE issues USD 34 million guarantee for South Africa subsidiary",
+      "category": "POWER",
+      "date": "2026-04-17T06:47:28+00:00",
+      "url": "https://powerline.net.in/2026/04/17/sterling-wilson-re-issues-usd-34-million-guarantee-for-south-africa-subsidiary/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Citicore commissions 125 MWp solar project in the Philippines",
+      "category": "POWER",
+      "date": "2026-04-17T06:46:22+00:00",
+      "url": "https://powerline.net.in/2026/04/17/citicore-commissions-125-mwp-solar-project-in-the-philippines/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Schneider Electric unveiling agentic manufacturing capabilities with Microsoft Azure AI at Hannover MESSE",
       "category": "INSTRUMENTATION",
       "date": "2026-04-16T20:39:07+00:00",
@@ -20162,5 +20234,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-17T02:44:58.693884+00:00"
+  "last_updated_utc": "2026-04-17T07:50:22.753436+00:00"
 }

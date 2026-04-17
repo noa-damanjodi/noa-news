@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Origen plans acquisition of Brazilian REE project",
+      "category": "INDUSTRY",
+      "date": "2026-04-17T07:35:30+00:00",
+      "url": "https://www.mining-technology.com/news/origen-plans-acquisition-brazils-ree-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Hitachi delivers electric excavator to Rudnik uglja Pljevlja",
+      "category": "INDUSTRY",
+      "date": "2026-04-17T07:24:15+00:00",
+      "url": "https://www.mining-technology.com/news/hitachi-electric-excavator-rudnik-uglja-pljevlja/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Tocvan deploys heavy machinery at Mexico’s Gran Pilar project",
       "category": "INDUSTRY",
       "date": "2026-04-16T13:06:19+00:00",
@@ -3274,5 +3290,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-17T02:44:58.693884+00:00"
+  "last_updated_utc": "2026-04-17T07:50:22.753436+00:00"
 }
