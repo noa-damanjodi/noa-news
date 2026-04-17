@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "CENGN partners with CNIMI and Ericsson, launch of advanced manufacturing living lab",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-17T14:53:43+00:00",
+      "url": "https://www.automationmag.com/cengn-partners-with-cnimi-and-ericsson-launch-of-advanced-manufacturing-living-lab/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB enhances AI capabilities of flagship industrial device digital solutions",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-17T14:34:57+00:00",
+      "url": "https://www.automationmag.com/abb-enhances-ai-capabilities-of-flagship-industrial-device-digital-solutions/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Schneider Electric unveiling agentic manufacturing capabilities with Microsoft Azure AI at Hannover MESSE",
       "category": "INSTRUMENTATION",
       "date": "2026-04-16T20:39:07+00:00",
@@ -1450,5 +1466,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-17T13:23:34.418452+00:00"
+  "last_updated_utc": "2026-04-17T19:03:25.804353+00:00"
 }
