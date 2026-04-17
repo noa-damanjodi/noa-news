@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Schneider Electric unveiling agentic manufacturing capabilities with Microsoft Azure AI at Hannover MESSE",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-16T20:39:07+00:00",
+      "url": "https://www.automationmag.com/schneider-electric-unveiling-agentic-manufacturing-capabilities-with-microsoft-azure-ai-at-hannover-messe/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Endress+Hauser reports positive results for 2025",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-16T20:27:58+00:00",
+      "url": "https://www.automationmag.com/endresshauser-reports-positive-results-for-2025/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "You may be ‘floored’ to learn how long ticks can live in your home",
       "category": "SAFETY",
       "date": "2026-04-16T15:30:50+00:00",
@@ -20146,5 +20162,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-16T19:18:11.055124+00:00"
+  "last_updated_utc": "2026-04-17T02:44:58.693884+00:00"
 }
