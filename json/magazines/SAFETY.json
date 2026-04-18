@@ -2,6 +2,14 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Understanding HAZWOPER",
+      "category": "SAFETY",
+      "date": "2026-04-17T19:17:38+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/understanding-hazwoper/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Small construction firms face disproportionally higher injury rates, CPWR says",
       "category": "SAFETY",
       "date": "2026-04-17T16:45:28+00:00",
@@ -1602,5 +1610,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-17T19:03:25.804353+00:00"
+  "last_updated_utc": "2026-04-18T02:35:12.805585+00:00"
 }
