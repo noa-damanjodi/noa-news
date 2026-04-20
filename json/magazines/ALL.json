@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Technology targets a revival in copper refining",
+      "category": "INDUSTRY",
+      "date": "2026-04-20T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/technology-targets-a-revival-in-copper-refining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NGEL commissions 150 MW of Rajasthan solar project",
+      "category": "POWER",
+      "date": "2026-04-20T05:02:30+00:00",
+      "url": "https://powerline.net.in/2026/04/20/ngel-commissions-150-mw-of-rajasthan-solar-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "SWELECT commissions 50 MVA transformer for 50 MW solar project in Tamil Nadu",
+      "category": "POWER",
+      "date": "2026-04-20T05:00:48+00:00",
+      "url": "https://powerline.net.in/2026/04/20/swelect-commissions-50-mva-transformer-for-50-mw-solar-project-in-tamil-nadu/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Crompton Greaves Consumer Electricals secures orders worth Rs 7.17 billion from MSEDCL",
+      "category": "POWER",
+      "date": "2026-04-20T04:59:46+00:00",
+      "url": "https://powerline.net.in/2026/04/20/crompton-greaves-consumer-electricals-secures-orders-worth-rs-7-17-billion-from-msedcl/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Ganesh Green Bharat secures Rs 4.3 billion order for 630 Wp TOPCon modules",
+      "category": "POWER",
+      "date": "2026-04-20T04:58:45+00:00",
+      "url": "https://powerline.net.in/2026/04/20/ganesh-green-bharat-secures-rs-4-3-billion-order-for-630-wp-topcon-modules/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "HD Renewable Energy and Tokyo Gas join forces for 340 MW BESS projects in Japan",
+      "category": "POWER",
+      "date": "2026-04-20T04:57:43+00:00",
+      "url": "https://powerline.net.in/2026/04/20/hd-renewable-energy-and-tokyo-gas-join-forces-for-340-mw-bess-projects-in-japan/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Naqaa Sustainable Energy set to develop 500 MW solar park with BESS in Botswana",
+      "category": "POWER",
+      "date": "2026-04-20T04:56:55+00:00",
+      "url": "https://powerline.net.in/2026/04/20/naqaa-sustainable-energy-set-to-develop-500-mw-solar-park-with-bess-in-botswana/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Metal under pressure: new issue of MINE out now!",
+      "category": "INDUSTRY",
+      "date": "2026-04-20T00:00:00+00:00",
+      "url": "https://www.mining-technology.com/news/metal-under-pressure-new-issue-of-mine-out-now/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Understanding HAZWOPER",
       "category": "SAFETY",
       "date": "2026-04-17T19:17:38+00:00",
@@ -20378,5 +20442,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-20T02:52:36.237630+00:00"
+  "last_updated_utc": "2026-04-20T08:11:09.328774+00:00"
 }

@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Technology targets a revival in copper refining",
+      "category": "INDUSTRY",
+      "date": "2026-04-20T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/technology-targets-a-revival-in-copper-refining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metal under pressure: new issue of MINE out now!",
+      "category": "INDUSTRY",
+      "date": "2026-04-20T00:00:00+00:00",
+      "url": "https://www.mining-technology.com/news/metal-under-pressure-new-issue-of-mine-out-now/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Century Aluminum starts production at expanded Mt. Holly plant",
       "category": "INDUSTRY",
       "date": "2026-04-17T12:37:56+00:00",
@@ -3314,5 +3330,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-20T02:52:36.237630+00:00"
+  "last_updated_utc": "2026-04-20T08:11:09.328774+00:00"
 }
