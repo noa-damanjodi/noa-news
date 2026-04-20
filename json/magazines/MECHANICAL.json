@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Bambu Lab launches X2D dual-extrusion 3D printer",
+      "category": "MECHANICAL",
+      "date": "2026-04-20T11:59:55+00:00",
+      "url": "https://www.engineering.com/bambu-lab-launches-x2d-dual-extrusion-3d-printer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ENCY Software releases version 2.8 of CAD/CAM system",
+      "category": "MECHANICAL",
+      "date": "2026-04-20T11:39:31+00:00",
+      "url": "https://www.engineering.com/ency-software-releases-version-2-8-of-cad-cam-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Agibot introduces five robotic platforms and eight AI models",
+      "category": "MECHANICAL",
+      "date": "2026-04-20T10:44:00+00:00",
+      "url": "https://www.engineering.com/agibot-introduces-five-robotic-platforms-and-eight-ai-models/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "UltiMaker to distribute Tectonic-3D filaments in the Americas",
+      "category": "MECHANICAL",
+      "date": "2026-04-20T10:04:17+00:00",
+      "url": "https://www.engineering.com/ultimaker-to-distribute-tectonic-3d-filaments-in-the-americas/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and Vulcan partner on German lithium energy project",
+      "category": "MECHANICAL",
+      "date": "2026-04-20T09:34:00+00:00",
+      "url": "https://www.engineering.com/siemens-and-vulcan-partner-on-german-lithium-energy-project/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Humanoid robot completes logistics trials at Siemens plant",
       "category": "MECHANICAL",
       "date": "2026-04-17T13:13:53+00:00",
@@ -5842,5 +5882,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-20T08:11:09.328774+00:00"
+  "last_updated_utc": "2026-04-20T13:46:31.928263+00:00"
 }
