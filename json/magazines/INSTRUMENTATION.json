@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Schaeffler wins Hannover MESSE HERMES Award, BTRY wins Startup Award",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-20T16:24:37+00:00",
+      "url": "https://www.automationmag.com/schaeffler-wins-hannover-messe-hermes-award-btry-wins-startup-award/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "NGen announces $62.7 million in investment for advanced manufacturing projects at Hannover MESSE",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-20T16:07:30+00:00",
+      "url": "https://www.automationmag.com/ngen-announces-62-7-million-in-investment-for-advanced-manufacturing-projects-at-hannover-messe/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "CENGN partners with CNIMI and Ericsson, launch of advanced manufacturing living lab",
       "category": "INSTRUMENTATION",
       "date": "2026-04-17T14:53:43+00:00",
@@ -1466,5 +1482,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-20T13:46:31.928263+00:00"
+  "last_updated_utc": "2026-04-20T19:08:29.439558+00:00"
 }
