@@ -2,6 +2,118 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Women in Automation Q&A: Christy Michalak, NGen Canada",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-21T13:15:46+00:00",
+      "url": "https://www.automationmag.com/women-in-automation-qa-christy-michalak-ngen-canada/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Group Nirmal announces expansion of its aluminium manufacturing capabilities in Odisha",
+      "category": "POWER",
+      "date": "2026-04-21T11:34:02+00:00",
+      "url": "https://powerline.net.in/2026/04/21/group-nirmal-announces-expansion-of-its-aluminium-manufacturing-capabilities-in-odisha/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Going Digital: Technologies transforming the O&M of power plants",
+      "category": "POWER",
+      "date": "2026-04-21T11:25:03+00:00",
+      "url": "https://powerline.net.in/2026/04/21/going-digital-technologies-transforming-the-om-of-power-plants/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Optimising Performance: Improving thermal power plant O&M with AI and digital tools",
+      "category": "POWER",
+      "date": "2026-04-21T11:12:35+00:00",
+      "url": "https://powerline.net.in/2026/04/21/optimising-performance-improving-thermal-power-plant-om-with-ai-and-digital-tools/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Strategic Framework: CEA releases the National Adequacy Plan up to 2035-36",
+      "category": "POWER",
+      "date": "2026-04-21T10:34:24+00:00",
+      "url": "https://powerline.net.in/2026/04/21/strategic-framework-cea-releases-the-national-adequacy-plan-up-to-2035-36/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Lattice and TI simplify sensor fusion for edge AI",
+      "category": "MECHANICAL",
+      "date": "2026-04-21T10:13:19+00:00",
+      "url": "https://www.engineering.com/lattice-and-ti-simplify-sensor-fusion-for-edge-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DEEPX and Hyundai develop robotics AI platform",
+      "category": "MECHANICAL",
+      "date": "2026-04-21T10:04:36+00:00",
+      "url": "https://www.engineering.com/deepx-and-hyundai-develop-robotics-ai-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Liberty Star acquires 13 new Arizona mining permits",
+      "category": "INDUSTRY",
+      "date": "2026-04-21T10:02:11+00:00",
+      "url": "https://www.mining-technology.com/news/liberty-star-acquires-13-arizona-mining-permits/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Infor and AWS launch manufacturing AI agents",
+      "category": "MECHANICAL",
+      "date": "2026-04-21T09:51:43+00:00",
+      "url": "https://www.engineering.com/infor-and-aws-launch-manufacturing-ai-agents/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Continuous Composites expands Idaho manufacturing site",
+      "category": "MECHANICAL",
+      "date": "2026-04-21T09:40:26+00:00",
+      "url": "https://www.engineering.com/continuous-composites-expands-idaho-manufacturing-site/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Whale Cloud and AGIBOT partner on embodied AI",
+      "category": "MECHANICAL",
+      "date": "2026-04-21T09:32:35+00:00",
+      "url": "https://www.engineering.com/whale-cloud-and-agibot-partner-on-embodied-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Centrus appoints contractor for uranium plant expansion in Ohio",
+      "category": "INDUSTRY",
+      "date": "2026-04-21T07:22:26+00:00",
+      "url": "https://www.mining-technology.com/news/centrus-contractor-uranium-plant-expansion-ohio/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Agnico Eagle to consolidate assets in Finland’s CLGB",
+      "category": "INDUSTRY",
+      "date": "2026-04-21T07:16:33+00:00",
+      "url": "https://www.mining-technology.com/news/agnico-eagle-to-consolidate-assets-finlands-clgb/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "USA Rare Earth to acquire Serra Verde for $2.8bn",
+      "category": "INDUSTRY",
+      "date": "2026-04-21T07:05:12+00:00",
+      "url": "https://www.mining-technology.com/news/usa-rare-earth-to-acquire-serra-verde/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Regional Links: Meeting the electricity needs of the Global South",
       "category": "POWER",
       "date": "2026-04-21T05:06:53+00:00",
@@ -20682,5 +20794,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-21T07:54:49.280872+00:00"
+  "last_updated_utc": "2026-04-21T13:45:13.906799+00:00"
 }

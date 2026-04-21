@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Lattice and TI simplify sensor fusion for edge AI",
+      "category": "MECHANICAL",
+      "date": "2026-04-21T10:13:19+00:00",
+      "url": "https://www.engineering.com/lattice-and-ti-simplify-sensor-fusion-for-edge-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DEEPX and Hyundai develop robotics AI platform",
+      "category": "MECHANICAL",
+      "date": "2026-04-21T10:04:36+00:00",
+      "url": "https://www.engineering.com/deepx-and-hyundai-develop-robotics-ai-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Infor and AWS launch manufacturing AI agents",
+      "category": "MECHANICAL",
+      "date": "2026-04-21T09:51:43+00:00",
+      "url": "https://www.engineering.com/infor-and-aws-launch-manufacturing-ai-agents/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Continuous Composites expands Idaho manufacturing site",
+      "category": "MECHANICAL",
+      "date": "2026-04-21T09:40:26+00:00",
+      "url": "https://www.engineering.com/continuous-composites-expands-idaho-manufacturing-site/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Whale Cloud and AGIBOT partner on embodied AI",
+      "category": "MECHANICAL",
+      "date": "2026-04-21T09:32:35+00:00",
+      "url": "https://www.engineering.com/whale-cloud-and-agibot-partner-on-embodied-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Bambu Lab launches X2D dual-extrusion 3D printer",
       "category": "MECHANICAL",
       "date": "2026-04-20T11:59:55+00:00",
@@ -5882,5 +5922,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-21T07:54:49.280872+00:00"
+  "last_updated_utc": "2026-04-21T13:45:13.906799+00:00"
 }

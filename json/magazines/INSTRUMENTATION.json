@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Women in Automation Q&A: Christy Michalak, NGen Canada",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-21T13:15:46+00:00",
+      "url": "https://www.automationmag.com/women-in-automation-qa-christy-michalak-ngen-canada/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Schaeffler wins Hannover MESSE HERMES Award, BTRY wins Startup Award",
       "category": "INSTRUMENTATION",
       "date": "2026-04-20T16:24:37+00:00",
@@ -1482,5 +1490,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-21T07:54:49.280872+00:00"
+  "last_updated_utc": "2026-04-21T13:45:13.906799+00:00"
 }
