@@ -2,11 +2,99 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Hammond Manufacturing opens Western Canada distribution centre",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-21T19:11:36+00:00",
+      "url": "https://www.automationmag.com/hammond-manufacturing-opens-western-canada-distribution-centre/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Prime minister introduces new advisory council on Canada-U.S. trade ahead of CUSMA negotiations",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-21T18:53:57+00:00",
+      "url": "https://www.automationmag.com/prime-minister-introduces-new-advisory-council-on-canada-u-s-trade-ahead-of-cusma-negotiations/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "The disintermediation paradox",
+      "category": "MECHANICAL",
+      "date": "2026-04-21T17:54:41+00:00",
+      "url": "https://www.engineering.com/the-disintermediation-paradox/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lawmakers seek increased protections for roadside workers",
+      "category": "SAFETY",
+      "date": "2026-04-21T17:15:50+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/bipartisan-senate-bill-seeks-increased-protections-for-roadside-workers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Lori Chavez-DeRemer resigns as labor secretary",
+      "category": "SAFETY",
+      "date": "2026-04-21T17:09:38+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/lori-chavez-deremer-resigns-as-labor-secretary/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Extreme Weather + Work: Large businesses aim to help other employers protect workers",
+      "category": "SAFETY",
+      "date": "2026-04-21T16:27:46+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/extreme-weather-work-large-businesses-aim-to-help-other-employers-protect-workers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens adds DC protection and switching portfolio",
+      "category": "MECHANICAL",
+      "date": "2026-04-21T14:18:45+00:00",
+      "url": "https://www.engineering.com/siemens-adds-dc-protection-and-switching-portfolio/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "New episode: Earth Day – electric vehicles across power, oil and gas and mining",
+      "category": "INDUSTRY",
+      "date": "2026-04-21T14:10:05+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-earth-day-electric-vehicles-energy/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "EDGECAM update speeds verification and shopfloor review",
+      "category": "MECHANICAL",
+      "date": "2026-04-21T13:52:06+00:00",
+      "url": "https://www.engineering.com/edgecam-update-speeds-verification-and-shopfloor-review/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Women in Automation Q&A: Christy Michalak, NGen Canada",
       "category": "INSTRUMENTATION",
       "date": "2026-04-21T13:15:46+00:00",
       "url": "https://www.automationmag.com/women-in-automation-qa-christy-michalak-ngen-canada/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Spanish Mountain Gold to divest 1.5% royalty to Wheaton",
+      "category": "INDUSTRY",
+      "date": "2026-04-21T12:58:48+00:00",
+      "url": "https://www.mining-technology.com/news/spanish-mountain-gold-to-divest-royalty-wheaton/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Magnetite Mines initiates drilling at Ironback Hill",
+      "category": "INDUSTRY",
+      "date": "2026-04-21T12:46:25+00:00",
+      "url": "https://www.mining-technology.com/news/magnetite-mines-drilling-ironback-hill/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -20794,5 +20882,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-21T13:45:13.906799+00:00"
+  "last_updated_utc": "2026-04-21T19:15:25.330378+00:00"
 }

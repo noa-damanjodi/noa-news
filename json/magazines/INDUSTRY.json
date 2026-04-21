@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "New episode: Earth Day – electric vehicles across power, oil and gas and mining",
+      "category": "INDUSTRY",
+      "date": "2026-04-21T14:10:05+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-earth-day-electric-vehicles-energy/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Spanish Mountain Gold to divest 1.5% royalty to Wheaton",
+      "category": "INDUSTRY",
+      "date": "2026-04-21T12:58:48+00:00",
+      "url": "https://www.mining-technology.com/news/spanish-mountain-gold-to-divest-royalty-wheaton/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Magnetite Mines initiates drilling at Ironback Hill",
+      "category": "INDUSTRY",
+      "date": "2026-04-21T12:46:25+00:00",
+      "url": "https://www.mining-technology.com/news/magnetite-mines-drilling-ironback-hill/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Liberty Star acquires 13 new Arizona mining permits",
       "category": "INDUSTRY",
       "date": "2026-04-21T10:02:11+00:00",
@@ -3410,5 +3434,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-21T13:45:13.906799+00:00"
+  "last_updated_utc": "2026-04-21T19:15:25.330378+00:00"
 }
