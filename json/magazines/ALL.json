@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "FANUC adds CRX-3iA cobot for high-mix automation",
+      "category": "MECHANICAL",
+      "date": "2026-04-22T13:44:50+00:00",
+      "url": "https://www.engineering.com/fanuc-adds-crx-3ia-cobot-for-high-mix-automation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Queensland fast-tracks major coal and gold projects",
+      "category": "INDUSTRY",
+      "date": "2026-04-22T12:29:04+00:00",
+      "url": "https://www.mining-technology.com/news/queensland-fast-tracks-coal-gold-projects/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Syntax completes SAP transformation for Rio2",
+      "category": "INDUSTRY",
+      "date": "2026-04-22T12:23:19+00:00",
+      "url": "https://www.mining-technology.com/news/syntax-completes-sap-transformation-rio2/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "The invisible war on GPS and what it means for mining operations",
+      "category": "INDUSTRY",
+      "date": "2026-04-22T11:49:04+00:00",
+      "url": "https://www.mining-technology.com/comment/the-invisible-war-on-gps-and-what-it-means-for-mining-operations/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Dassault Systèmes and OMRON partner on IT/OT",
+      "category": "MECHANICAL",
+      "date": "2026-04-22T10:04:48+00:00",
+      "url": "https://www.engineering.com/dassault-systemes-and-omron-partner-on-it-ot/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Horse Powertrain debuts rear-mounted hybrid drive unit",
+      "category": "MECHANICAL",
+      "date": "2026-04-22T10:00:35+00:00",
+      "url": "https://www.engineering.com/horse-powertrain-debuts-rear-mounted-hybrid-drive-unit/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Why heap leaching needs process discipline, not irrigation logic",
+      "category": "INDUSTRY",
+      "date": "2026-04-22T09:55:05+00:00",
+      "url": "https://www.mining-technology.com/comment/why-heap-leaching-needs-process-discipline-not-irrigation-logic/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "BHP reports 3% dip in YTD March FY26 copper output",
+      "category": "INDUSTRY",
+      "date": "2026-04-22T09:54:48+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-dip-ytd-march-fy26-copper-output/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "SME names CoorsTek training award recipient",
+      "category": "MECHANICAL",
+      "date": "2026-04-22T09:48:33+00:00",
+      "url": "https://www.engineering.com/sme-names-coorstek-training-award-recipient/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Accelsius releases NeuCool IR150 cooling system",
+      "category": "MECHANICAL",
+      "date": "2026-04-22T09:41:18+00:00",
+      "url": "https://www.engineering.com/accelsius-releases-neucool-ir150-cooling-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Scale adds VMware migration path for Dell VxRail",
+      "category": "MECHANICAL",
+      "date": "2026-04-22T09:23:54+00:00",
+      "url": "https://www.engineering.com/scale-adds-vmware-migration-path-for-dell-vxrail/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Uranium American Resources finalises Jag Minerals acquisition",
+      "category": "INDUSTRY",
+      "date": "2026-04-22T07:25:36+00:00",
+      "url": "https://www.mining-technology.com/news/uranium-american-resources-jag-minerals-acquisition/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "A2Gold starts core drilling at Eastside project in Nevada",
       "category": "INDUSTRY",
       "date": "2026-04-22T07:18:05+00:00",
@@ -20970,5 +21066,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-22T07:51:22.087959+00:00"
+  "last_updated_utc": "2026-04-22T13:46:00.456603+00:00"
 }
