@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "A2Gold starts core drilling at Eastside project in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-04-22T07:18:05+00:00",
+      "url": "https://www.mining-technology.com/news/a2gold-core-drilling-nevadas-eastside-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "New episode: Earth Day – electric vehicles across power, oil and gas and mining",
       "category": "INDUSTRY",
       "date": "2026-04-21T14:10:05+00:00",
@@ -3434,5 +3442,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-22T02:43:55.118393+00:00"
+  "last_updated_utc": "2026-04-22T07:51:22.087959+00:00"
 }
