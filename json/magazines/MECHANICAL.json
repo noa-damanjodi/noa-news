@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Autodesk announces Fusion MCP servers and more AI updates",
+      "category": "MECHANICAL",
+      "date": "2026-04-22T17:38:51+00:00",
+      "url": "https://www.engineering.com/autodesk-announces-fusion-mcp-servers-and-more-ai-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon launches QUINDOS 2026.1 with CMM updates",
+      "category": "MECHANICAL",
+      "date": "2026-04-22T13:52:39+00:00",
+      "url": "https://www.engineering.com/hexagon-launches-quindos-2026-1-with-cmm-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "FANUC adds CRX-3iA cobot for high-mix automation",
       "category": "MECHANICAL",
       "date": "2026-04-22T13:44:50+00:00",
@@ -6002,5 +6018,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-22T13:46:00.456603+00:00"
+  "last_updated_utc": "2026-04-22T19:16:32.750080+00:00"
 }

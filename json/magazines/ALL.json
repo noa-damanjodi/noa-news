@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "NIOSH center revamps free online courses on Total Worker Health",
+      "category": "SAFETY",
+      "date": "2026-04-22T18:15:24+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/niosh-center-revamps-free-online-courses-on-total-worker-health/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "FMCSA allows even more time for use of paper medical certificates",
+      "category": "SAFETY",
+      "date": "2026-04-22T18:14:08+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fmcsa-allows-even-more-time-for-use-of-paper-medical-certificates/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EPA seeks to extend compliance deadlines on use of two cancer-causing chemicals",
+      "category": "SAFETY",
+      "date": "2026-04-22T17:59:46+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/epa-seeks-to-extend-compliance-deadlines-on-use-of-two-cancer-causing-chemicals/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Autodesk announces Fusion MCP servers and more AI updates",
+      "category": "MECHANICAL",
+      "date": "2026-04-22T17:38:51+00:00",
+      "url": "https://www.engineering.com/autodesk-announces-fusion-mcp-servers-and-more-ai-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hypertherm Associates releases software update for OLP Robotmaster",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-22T14:18:42+00:00",
+      "url": "https://www.automationmag.com/hypertherm-associates-releases-software-update-for-olp-robotmaster/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon launches QUINDOS 2026.1 with CMM updates",
+      "category": "MECHANICAL",
+      "date": "2026-04-22T13:52:39+00:00",
+      "url": "https://www.engineering.com/hexagon-launches-quindos-2026-1-with-cmm-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "FANUC adds CRX-3iA cobot for high-mix automation",
       "category": "MECHANICAL",
       "date": "2026-04-22T13:44:50+00:00",
@@ -87,6 +135,14 @@
       "date": "2026-04-22T09:23:54+00:00",
       "url": "https://www.engineering.com/scale-adds-vmware-migration-path-for-dell-vxrail/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rift Helium lists on AIM as geopolitical risk tightens global supply",
+      "category": "INDUSTRY",
+      "date": "2026-04-22T09:18:30+00:00",
+      "url": "https://www.mining-technology.com/news/rift-helium-lists-on-aim-as-geopolitical-risk-tightens-global-supply/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -21066,5 +21122,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-22T13:46:00.456603+00:00"
+  "last_updated_utc": "2026-04-22T19:16:32.750080+00:00"
 }
