@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "FANUC America expands CRX collaborative application lineup with CRX-3iA",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-21T19:54:57+00:00",
+      "url": "https://www.automationmag.com/fanuc-america-expands-crx-collaborative-application-lineup-with-crx-3ia/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Government investing $23 million in $70 million Siemens’ Canadian R&D centre",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-21T19:39:08+00:00",
+      "url": "https://www.automationmag.com/government-investing-23-million-in-70-million-siemens-canadian-rd-centre/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Hammond Manufacturing opens Western Canada distribution centre",
       "category": "INSTRUMENTATION",
       "date": "2026-04-21T19:11:36+00:00",
@@ -1506,5 +1522,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-21T19:15:25.330378+00:00"
+  "last_updated_utc": "2026-04-22T02:43:55.118393+00:00"
 }
