@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Private 5G delivers robust connectivity for autonomous mining operations",
+      "category": "INDUSTRY",
+      "date": "2026-04-22T18:00:52+00:00",
+      "url": "https://www.mining-technology.com/sponsored/private-5g-delivers-robust-connectivity-for-autonomous-mining-operations/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Queensland fast-tracks major coal and gold projects",
       "category": "INDUSTRY",
       "date": "2026-04-22T12:29:04+00:00",
@@ -3498,5 +3506,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-22T19:16:32.750080+00:00"
+  "last_updated_utc": "2026-04-23T02:47:43.263439+00:00"
 }
