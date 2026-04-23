@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Hexagon adds automated inspection features to ATS800",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T14:59:42+00:00",
+      "url": "https://www.engineering.com/hexagon-adds-automated-inspection-features-to-ats800/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "EVOLVE launches analytics platform for BIM performance",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T14:00:06+00:00",
+      "url": "https://www.engineering.com/evolve-launches-analytics-platform-for-bim-performance/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SHINING 3D’s FreeScan Omni receives Red Dot Award 2026 recognition",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T13:54:53+00:00",
+      "url": "https://www.engineering.com/shining-3ds-freescan-omni-receives-red-dot-award-2026-recognition/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "STL launches Neuralis data center connectivity suite",
       "category": "MECHANICAL",
       "date": "2026-04-23T11:34:55+00:00",
@@ -6066,5 +6090,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-23T13:48:08.067646+00:00"
+  "last_updated_utc": "2026-04-23T19:12:56.404578+00:00"
 }

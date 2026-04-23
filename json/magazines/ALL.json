@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "DOL Wage and Hour Division seeks to clarify ‘joint employment’",
+      "category": "SAFETY",
+      "date": "2026-04-23T17:55:10+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/dol-wage-and-hour-division-seeks-to-clarify-joint-employment/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA nixes standard for marine terminals",
+      "category": "SAFETY",
+      "date": "2026-04-23T17:12:45+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-nixes-standard-for-marine-terminals/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Alabama pilot program will add speed cameras to highway work zones",
+      "category": "SAFETY",
+      "date": "2026-04-23T16:28:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/alabama-pilot-program-will-add-speed-cameras-to-highway-work-zones/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "April 25 is National Prescription Drug Take Back Day",
+      "category": "SAFETY",
+      "date": "2026-04-23T15:59:23+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/get-ready-for-national-prescription-drug-take-back-day/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon adds automated inspection features to ATS800",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T14:59:42+00:00",
+      "url": "https://www.engineering.com/hexagon-adds-automated-inspection-features-to-ats800/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Allient Inc. publishes whitepaper on motor selection for humanoid robotics systems",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-23T14:47:35+00:00",
+      "url": "https://www.automationmag.com/allient-inc-publishes-whitepaper-on-motor-selection-for-humanoid-robotics-systems/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "EVOLVE launches analytics platform for BIM performance",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T14:00:06+00:00",
+      "url": "https://www.engineering.com/evolve-launches-analytics-platform-for-bim-performance/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SHINING 3D’s FreeScan Omni receives Red Dot Award 2026 recognition",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T13:54:53+00:00",
+      "url": "https://www.engineering.com/shining-3ds-freescan-omni-receives-red-dot-award-2026-recognition/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Middle East conflict triggers aluminium supply concerns",
       "category": "INDUSTRY",
       "date": "2026-04-23T13:07:20+00:00",
@@ -21266,5 +21330,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-23T13:48:08.067646+00:00"
+  "last_updated_utc": "2026-04-23T19:12:56.404578+00:00"
 }

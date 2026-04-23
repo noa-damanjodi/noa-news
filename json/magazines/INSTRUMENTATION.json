@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Allient Inc. publishes whitepaper on motor selection for humanoid robotics systems",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-23T14:47:35+00:00",
+      "url": "https://www.automationmag.com/allient-inc-publishes-whitepaper-on-motor-selection-for-humanoid-robotics-systems/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Hypertherm Associates releases software update for OLP Robotmaster",
       "category": "INSTRUMENTATION",
       "date": "2026-04-22T14:18:42+00:00",
@@ -1530,5 +1538,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-23T13:48:08.067646+00:00"
+  "last_updated_utc": "2026-04-23T19:12:56.404578+00:00"
 }
