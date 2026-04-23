@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "STL launches Neuralis data center connectivity suite",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T11:34:55+00:00",
+      "url": "https://www.engineering.com/stl-launches-neuralis-data-center-connectivity-suite/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence expands TSMC collaboration for AI chip design",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T11:14:32+00:00",
+      "url": "https://www.engineering.com/cadence-expands-tsmc-collaboration-for-ai-chip-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lattice FPGA wins 2026 environment and energy award",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T10:47:35+00:00",
+      "url": "https://www.engineering.com/lattice-fpga-wins-2026-environment-and-energy-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Procore appoints Vishal Misra to board of directors",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T10:40:28+00:00",
+      "url": "https://www.engineering.com/procore-appoints-vishal-misra-to-board-of-directors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Synopsys expands AI EDA and IP support for TSMC nodes",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T10:08:28+00:00",
+      "url": "https://www.engineering.com/synopsys-expands-ai-eda-and-ip-support-for-tsmc-nodes/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon, Schaeffler expand AEON robot partnership",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T09:53:57+00:00",
+      "url": "https://www.engineering.com/hexagon-schaeffler-expand-aeon-robot-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Autodesk announces Fusion MCP servers and more AI updates",
       "category": "MECHANICAL",
       "date": "2026-04-22T17:38:51+00:00",
@@ -6018,5 +6066,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-23T07:57:45.057835+00:00"
+  "last_updated_utc": "2026-04-23T13:48:08.067646+00:00"
 }

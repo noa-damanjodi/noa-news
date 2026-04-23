@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Middle East conflict triggers aluminium supply concerns",
+      "category": "INDUSTRY",
+      "date": "2026-04-23T13:07:20+00:00",
+      "url": "https://www.mining-technology.com/news/middle-east-conflict-aluminium-supply-concerns/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Pantoro partners with Mega Resources on Rama pit in WA",
+      "category": "INDUSTRY",
+      "date": "2026-04-23T12:59:37+00:00",
+      "url": "https://www.mining-technology.com/news/pantoro-partners-mega-resources-rama-pit/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "STL launches Neuralis data center connectivity suite",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T11:34:55+00:00",
+      "url": "https://www.engineering.com/stl-launches-neuralis-data-center-connectivity-suite/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence expands TSMC collaboration for AI chip design",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T11:14:32+00:00",
+      "url": "https://www.engineering.com/cadence-expands-tsmc-collaboration-for-ai-chip-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lattice FPGA wins 2026 environment and energy award",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T10:47:35+00:00",
+      "url": "https://www.engineering.com/lattice-fpga-wins-2026-environment-and-energy-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Procore appoints Vishal Misra to board of directors",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T10:40:28+00:00",
+      "url": "https://www.engineering.com/procore-appoints-vishal-misra-to-board-of-directors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Synopsys expands AI EDA and IP support for TSMC nodes",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T10:08:28+00:00",
+      "url": "https://www.engineering.com/synopsys-expands-ai-eda-and-ip-support-for-tsmc-nodes/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon, Schaeffler expand AEON robot partnership",
+      "category": "MECHANICAL",
+      "date": "2026-04-23T09:53:57+00:00",
+      "url": "https://www.engineering.com/hexagon-schaeffler-expand-aeon-robot-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SMM begins monazite processing plant construction",
+      "category": "INDUSTRY",
+      "date": "2026-04-23T09:43:46+00:00",
+      "url": "https://www.mining-technology.com/news/smm-monazite-processing-plant-construction/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "GSP Resource secures five-year MYAB drilling permit in BC",
+      "category": "INDUSTRY",
+      "date": "2026-04-23T07:39:08+00:00",
+      "url": "https://www.mining-technology.com/news/gsp-resource-five-year-myab-drilling-permit/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Rio2 initiates TFF commissioning at Peruvian copper mine",
       "category": "INDUSTRY",
       "date": "2026-04-23T07:28:26+00:00",
@@ -21186,5 +21266,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-23T07:57:45.057835+00:00"
+  "last_updated_utc": "2026-04-23T13:48:08.067646+00:00"
 }
