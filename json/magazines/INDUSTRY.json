@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Rio2 initiates TFF commissioning at Peruvian copper mine",
+      "category": "INDUSTRY",
+      "date": "2026-04-23T07:28:26+00:00",
+      "url": "https://www.mining-technology.com/news/rio2-initiates-tff-commissioning-at-peruvian-copper-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Private 5G delivers robust connectivity for autonomous mining operations",
       "category": "INDUSTRY",
       "date": "2026-04-22T18:00:52+00:00",
@@ -3506,5 +3514,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-23T02:47:43.263439+00:00"
+  "last_updated_utc": "2026-04-23T07:57:45.057835+00:00"
 }
