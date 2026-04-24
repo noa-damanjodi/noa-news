@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "The future of additive manufacturing in defense",
+      "category": "MECHANICAL",
+      "date": "2026-04-24T18:01:49+00:00",
+      "url": "https://www.engineering.com/the-future-of-additive-manufacturing-in-defense/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aitech launches rugged SBCs for military, aerospace AI",
+      "category": "MECHANICAL",
+      "date": "2026-04-24T16:14:57+00:00",
+      "url": "https://www.engineering.com/aitech-launches-rugged-sbcs-for-military-aerospace-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Concepts NREC names Innovalues Labs ASEAN reseller",
       "category": "MECHANICAL",
       "date": "2026-04-24T11:19:13+00:00",
@@ -6130,5 +6146,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-24T13:27:26.452245+00:00"
+  "last_updated_utc": "2026-04-24T18:55:21.698924+00:00"
 }
