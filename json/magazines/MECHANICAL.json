@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "These are the Top Workplaces for Engineers in 2026",
+      "category": "MECHANICAL",
+      "date": "2026-04-27T16:10:14+00:00",
+      "url": "https://www.engineering.com/these-are-the-top-workplaces-for-engineers-in-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Connected data and human judgment define engineering advantage in the AI era",
+      "category": "MECHANICAL",
+      "date": "2026-04-27T16:04:33+00:00",
+      "url": "https://www.engineering.com/connected-data-and-human-judgment-define-engineering-advantage-in-the-ai-era/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ARC and ORNL partner to scale defense manufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-04-27T15:59:25+00:00",
+      "url": "https://www.engineering.com/arc-and-ornl-partner-to-scale-defense-manufacturing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Pete Pharma partners with Fagron to scale pharma 3D printing",
+      "category": "MECHANICAL",
+      "date": "2026-04-27T15:52:08+00:00",
+      "url": "https://www.engineering.com/pete-pharma-partners-with-fagron-to-scale-pharma-3d-printing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Murata begins mass production of ultra-low power AMR sensors",
+      "category": "MECHANICAL",
+      "date": "2026-04-27T14:08:27+00:00",
+      "url": "https://www.engineering.com/murata-begins-mass-production-of-ultra-low-power-amr-sensors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Autodesk nominates Omar Abbosh to board of directors",
+      "category": "MECHANICAL",
+      "date": "2026-04-27T13:59:39+00:00",
+      "url": "https://www.engineering.com/autodesk-nominates-omar-abbosh-to-board-of-directors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Spatial enhances SDKs for CAD, meshing and workflows",
       "category": "MECHANICAL",
       "date": "2026-04-27T13:52:22+00:00",
@@ -6178,5 +6226,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-27T13:58:14.468261+00:00"
+  "last_updated_utc": "2026-04-27T19:25:28.774274+00:00"
 }
