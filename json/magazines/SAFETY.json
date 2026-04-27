@@ -2,10 +2,82 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "A combination of hazards",
+      "category": "SAFETY",
+      "date": "2026-04-27T08:35:09+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/a-combination-of-hazards/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "A conversation with OSHA’s Eric Harbin",
+      "category": "SAFETY",
+      "date": "2026-04-27T08:30:37+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/a-conversation-with-oshas-eric-harbin/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Emotional intelligence for safety pros",
+      "category": "SAFETY",
+      "date": "2026-04-27T08:30:25+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/emotional-intelligence-for-safety-pros/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "NSC Thought Leadership: Beyond the AI hype: A practical journey to integration in OSH",
       "category": "SAFETY",
-      "date": "2026-04-27T05:00:58+00:00",
+      "date": "2026-04-27T07:30:58+00:00",
       "url": "https://www.safetyandhealthmagazine.com/nsc-thought-leadership-beyond-the-ai-hype/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BCSP Viewpoints: From global insight to local impact",
+      "category": "SAFETY",
+      "date": "2026-04-27T07:26:07+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/bcsp-viewpoints-from-global-insight-to-local-impact/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Editor’s Note: Are you connecting?",
+      "category": "SAFETY",
+      "date": "2026-04-27T07:25:29+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/editors-note-are-you-connecting/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Letter to the Editor: ‘A true safety hero’",
+      "category": "SAFETY",
+      "date": "2026-04-27T07:20:18+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/letter-to-the-editor-a-true-safety-hero/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Electrical equipment maintenance",
+      "category": "SAFETY",
+      "date": "2026-04-27T07:00:50+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/electrical-equipment-maintenance/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Safety program management",
+      "category": "SAFETY",
+      "date": "2026-04-27T07:00:31+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safety-program-management/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Heat stress protection",
+      "category": "SAFETY",
+      "date": "2026-04-27T07:00:16+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/heat-stress-protection/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -26,14 +98,6 @@
       "type": "magazine"
     },
     {
-      "title": "Electrical equipment maintenance",
-      "category": "SAFETY",
-      "date": "2026-04-27T05:00:50+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/electrical-equipment-maintenance/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
       "title": "Safety program management",
       "category": "SAFETY",
       "date": "2026-04-27T05:00:43+00:00",
@@ -46,30 +110,6 @@
       "category": "SAFETY",
       "date": "2026-04-27T05:00:38+00:00",
       "url": "https://www.safetyandhealthmagazine.com/what-does-sustainability-look-like-in-practice/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "A conversation with OSHA’s Eric Harbin",
-      "category": "SAFETY",
-      "date": "2026-04-27T05:00:37+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/a-conversation-with-oshas-eric-harbin/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "Safety program management",
-      "category": "SAFETY",
-      "date": "2026-04-27T05:00:31+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/safety-program-management/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "Editor’s Note: Are you connecting?",
-      "category": "SAFETY",
-      "date": "2026-04-27T05:00:29+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/editors-note-are-you-connecting/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -1826,5 +1866,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-27T08:28:50.146384+00:00"
+  "last_updated_utc": "2026-04-27T13:58:14.468261+00:00"
 }

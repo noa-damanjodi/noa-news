@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Spatial enhances SDKs for CAD, meshing and workflows",
+      "category": "MECHANICAL",
+      "date": "2026-04-27T13:52:22+00:00",
+      "url": "https://www.engineering.com/spatial-enhances-sdks-for-cad-meshing-and-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Roland DG updates Connect Designer and VersaWorks 7",
+      "category": "MECHANICAL",
+      "date": "2026-04-27T13:01:56+00:00",
+      "url": "https://www.engineering.com/roland-dg-updates-connect-designer-and-versaworks-7/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "WeRide expands WRD 3.0 across multiple chip platforms",
+      "category": "MECHANICAL",
+      "date": "2026-04-27T12:20:57+00:00",
+      "url": "https://www.engineering.com/weride-expands-wrd-3-0-across-multiple-chip-platforms/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Woolpert ranks No. 36 on ENR Top 500 list",
+      "category": "MECHANICAL",
+      "date": "2026-04-27T12:08:25+00:00",
+      "url": "https://www.engineering.com/woolpert-ranks-no-36-on-enr-top-500-list/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "The future of additive manufacturing in defense",
       "category": "MECHANICAL",
       "date": "2026-04-24T18:01:49+00:00",
@@ -6146,5 +6178,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-27T08:28:50.146384+00:00"
+  "last_updated_utc": "2026-04-27T13:58:14.468261+00:00"
 }
