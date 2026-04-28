@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "CRC launches Capital Committee representing over $12 billion in venture assets",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-28T14:00:54+00:00",
+      "url": "https://www.automationmag.com/crc-launches-capital-committee-representing-over-12-billion-in-venture-assets/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Smaller panels, bigger questions",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-28T13:10:13+00:00",
+      "url": "https://www.automationmag.com/smaller-panels-bigger-questions/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Allient Inc. publishes whitepaper on motor selection for humanoid robotics systems",
       "category": "INSTRUMENTATION",
       "date": "2026-04-23T14:47:35+00:00",
@@ -1538,5 +1554,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-28T08:27:13.398514+00:00"
+  "last_updated_utc": "2026-04-28T14:11:48.445866+00:00"
 }

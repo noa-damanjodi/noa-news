@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Helping engineers thrive from first spark to fielded capability",
+      "category": "MECHANICAL",
+      "date": "2026-04-28T13:00:00+00:00",
+      "url": "https://www.engineering.com/helping-engineers-thrive-from-first-spark-to-fielded-capability/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MathWorks adds AI copilots in MATLAB and Simulink",
+      "category": "MECHANICAL",
+      "date": "2026-04-28T10:50:49+00:00",
+      "url": "https://www.engineering.com/mathworks-adds-ai-copilots-in-matlab-and-simulink/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro expands Silicon Valley AI infrastructure campus",
+      "category": "MECHANICAL",
+      "date": "2026-04-28T10:42:22+00:00",
+      "url": "https://www.engineering.com/supermicro-expands-silicon-valley-ai-infrastructure-campus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AZIO AI adds Giga Computing for dense AI infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-04-28T10:34:41+00:00",
+      "url": "https://www.engineering.com/azio-ai-adds-giga-computing-for-dense-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PATEO expands vehicle AI with new computing platform",
+      "category": "MECHANICAL",
+      "date": "2026-04-28T10:09:54+00:00",
+      "url": "https://www.engineering.com/pateo-expands-vehicle-ai-with-new-computing-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Vertiv acquires thermal specialist for liquid cooling",
+      "category": "MECHANICAL",
+      "date": "2026-04-28T10:00:35+00:00",
+      "url": "https://www.engineering.com/vertiv-acquires-thermal-specialist-for-liquid-cooling/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "These are the Top Workplaces for Engineers in 2026",
       "category": "MECHANICAL",
       "date": "2026-04-27T16:10:14+00:00",
@@ -6226,5 +6274,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-28T08:27:13.398514+00:00"
+  "last_updated_utc": "2026-04-28T14:11:48.445866+00:00"
 }

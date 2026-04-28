@@ -2,6 +2,46 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Barrick provides update on North American gold assets IPO",
+      "category": "INDUSTRY",
+      "date": "2026-04-28T12:42:44+00:00",
+      "url": "https://www.mining-technology.com/news/barrick-north-american-gold-assets-ipo/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "McCarthy, Fasken Martineau lead M&A legal advice in mining for Q1 2026",
+      "category": "INDUSTRY",
+      "date": "2026-04-28T12:28:49+00:00",
+      "url": "https://www.mining-technology.com/news/ma-legal-advice-mining-q1-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Desert Gold initiates phase one RC drilling in Mali",
+      "category": "INDUSTRY",
+      "date": "2026-04-28T10:16:28+00:00",
+      "url": "https://www.mining-technology.com/news/desert-gold-phase-1-rc-drilling-mali/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Tailings transparency remains under-researched despite growing scrutiny, study finds",
+      "category": "INDUSTRY",
+      "date": "2026-04-28T08:47:51+00:00",
+      "url": "https://www.mining-technology.com/news/tailings-transparency-remains-under-researched-despite-growing-scrutiny-study-finds/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Mariana Minerals resumes Copper One operations in Utah",
+      "category": "INDUSTRY",
+      "date": "2026-04-28T07:45:56+00:00",
+      "url": "https://www.mining-technology.com/news/mariana-minerals-resumes-copper-one-operations/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Critical Metals plans acquisition of European Lithium in $835m deal",
       "category": "INDUSTRY",
       "date": "2026-04-28T07:36:38+00:00",
@@ -30,6 +70,14 @@
       "category": "INDUSTRY",
       "date": "2026-04-27T12:14:54+00:00",
       "url": "https://www.mining-technology.com/news/confined-space-rescue-training-for-safer-underground-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Confined space rescue training in underground mining: why it matters",
+      "category": "INDUSTRY",
+      "date": "2026-04-27T12:14:54+00:00",
+      "url": "https://www.mining-technology.com/sponsored/confined-space-rescue-training-for-safer-underground-mining/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -3682,5 +3730,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-28T08:27:13.398514+00:00"
+  "last_updated_utc": "2026-04-28T14:11:48.445866+00:00"
 }

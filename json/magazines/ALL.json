@@ -2,6 +2,126 @@
   "category": "ALL",
   "items": [
     {
+      "title": "CRC launches Capital Committee representing over $12 billion in venture assets",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-28T14:00:54+00:00",
+      "url": "https://www.automationmag.com/crc-launches-capital-committee-representing-over-12-billion-in-venture-assets/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Smaller panels, bigger questions",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-28T13:10:13+00:00",
+      "url": "https://www.automationmag.com/smaller-panels-bigger-questions/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Helping engineers thrive from first spark to fielded capability",
+      "category": "MECHANICAL",
+      "date": "2026-04-28T13:00:00+00:00",
+      "url": "https://www.engineering.com/helping-engineers-thrive-from-first-spark-to-fielded-capability/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Barrick provides update on North American gold assets IPO",
+      "category": "INDUSTRY",
+      "date": "2026-04-28T12:42:44+00:00",
+      "url": "https://www.mining-technology.com/news/barrick-north-american-gold-assets-ipo/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "McCarthy, Fasken Martineau lead M&A legal advice in mining for Q1 2026",
+      "category": "INDUSTRY",
+      "date": "2026-04-28T12:28:49+00:00",
+      "url": "https://www.mining-technology.com/news/ma-legal-advice-mining-q1-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Advanced Solutions: O&M best practices in the hydropower segment",
+      "category": "POWER",
+      "date": "2026-04-28T11:16:08+00:00",
+      "url": "https://powerline.net.in/2026/04/28/advanced-solutions-om-best-practices-in-the-hydropower-segment/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "MathWorks adds AI copilots in MATLAB and Simulink",
+      "category": "MECHANICAL",
+      "date": "2026-04-28T10:50:49+00:00",
+      "url": "https://www.engineering.com/mathworks-adds-ai-copilots-in-matlab-and-simulink/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro expands Silicon Valley AI infrastructure campus",
+      "category": "MECHANICAL",
+      "date": "2026-04-28T10:42:22+00:00",
+      "url": "https://www.engineering.com/supermicro-expands-silicon-valley-ai-infrastructure-campus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Ramping Up: Maharashtra takes initiatives to meet its long-term renewables targets",
+      "category": "POWER",
+      "date": "2026-04-28T10:40:56+00:00",
+      "url": "https://powerline.net.in/2026/04/28/ramping-up-maharashtra-takes-initiatives-to-meet-its-long-term-renewables-targets/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "AZIO AI adds Giga Computing for dense AI infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-04-28T10:34:41+00:00",
+      "url": "https://www.engineering.com/azio-ai-adds-giga-computing-for-dense-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Desert Gold initiates phase one RC drilling in Mali",
+      "category": "INDUSTRY",
+      "date": "2026-04-28T10:16:28+00:00",
+      "url": "https://www.mining-technology.com/news/desert-gold-phase-1-rc-drilling-mali/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "PATEO expands vehicle AI with new computing platform",
+      "category": "MECHANICAL",
+      "date": "2026-04-28T10:09:54+00:00",
+      "url": "https://www.engineering.com/pateo-expands-vehicle-ai-with-new-computing-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Vertiv acquires thermal specialist for liquid cooling",
+      "category": "MECHANICAL",
+      "date": "2026-04-28T10:00:35+00:00",
+      "url": "https://www.engineering.com/vertiv-acquires-thermal-specialist-for-liquid-cooling/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Tailings transparency remains under-researched despite growing scrutiny, study finds",
+      "category": "INDUSTRY",
+      "date": "2026-04-28T08:47:51+00:00",
+      "url": "https://www.mining-technology.com/news/tailings-transparency-remains-under-researched-despite-growing-scrutiny-study-finds/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Mariana Minerals resumes Copper One operations in Utah",
+      "category": "INDUSTRY",
+      "date": "2026-04-28T07:45:56+00:00",
+      "url": "https://www.mining-technology.com/news/mariana-minerals-resumes-copper-one-operations/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Critical Metals plans acquisition of European Lithium in $835m deal",
       "category": "INDUSTRY",
       "date": "2026-04-28T07:36:38+00:00",
@@ -214,6 +334,14 @@
       "category": "INDUSTRY",
       "date": "2026-04-27T12:14:54+00:00",
       "url": "https://www.mining-technology.com/news/confined-space-rescue-training-for-safer-underground-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Confined space rescue training in underground mining: why it matters",
+      "category": "INDUSTRY",
+      "date": "2026-04-27T12:14:54+00:00",
+      "url": "https://www.mining-technology.com/sponsored/confined-space-rescue-training-for-safer-underground-mining/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -1602,6 +1730,14 @@
       "type": "magazine"
     },
     {
+      "title": "RE-Based Battery Swapping EVs Fast Charging Station",
+      "category": "ELECTRICAL",
+      "date": "2026-04-20T06:16:02+00:00",
+      "url": "https://www.electricalindia.in/re-based-battery-swapping-evs-fast-charging-station/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "NGEL commissions 150 MW of Rajasthan solar project",
       "category": "POWER",
       "date": "2026-04-20T05:02:30+00:00",
@@ -1647,6 +1783,14 @@
       "date": "2026-04-20T04:56:55+00:00",
       "url": "https://powerline.net.in/2026/04/20/naqaa-sustainable-energy-set-to-develop-500-mw-solar-park-with-bess-in-botswana/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Two-Way Power Flow under Renewable Energy Ramp-up",
+      "category": "ELECTRICAL",
+      "date": "2026-04-20T04:30:04+00:00",
+      "url": "https://www.electricalindia.in/two-way-power-flow-under-renewable-energy-ramp-up/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -22218,5 +22362,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-28T08:27:13.398514+00:00"
+  "last_updated_utc": "2026-04-28T14:11:48.445866+00:00"
 }

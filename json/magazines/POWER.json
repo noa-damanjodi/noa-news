@@ -2,6 +2,22 @@
   "category": "POWER",
   "items": [
     {
+      "title": "Advanced Solutions: O&M best practices in the hydropower segment",
+      "category": "POWER",
+      "date": "2026-04-28T11:16:08+00:00",
+      "url": "https://powerline.net.in/2026/04/28/advanced-solutions-om-best-practices-in-the-hydropower-segment/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Ramping Up: Maharashtra takes initiatives to meet its long-term renewables targets",
+      "category": "POWER",
+      "date": "2026-04-28T10:40:56+00:00",
+      "url": "https://powerline.net.in/2026/04/28/ramping-up-maharashtra-takes-initiatives-to-meet-its-long-term-renewables-targets/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "NGEL commissions 90 MW solar capacity in Gujarat",
       "category": "POWER",
       "date": "2026-04-28T06:07:38+00:00",
@@ -5610,5 +5626,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-28T08:27:13.398514+00:00"
+  "last_updated_utc": "2026-04-28T14:11:48.445866+00:00"
 }
