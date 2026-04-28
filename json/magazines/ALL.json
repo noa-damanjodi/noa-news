@@ -2,6 +2,38 @@
   "category": "ALL",
   "items": [
     {
+      "title": "AFL-CIO and OSHA commemorate Workers Memorial Day",
+      "category": "SAFETY",
+      "date": "2026-04-28T18:09:43+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/afl-cio-and-osha-commemorate-workers-memorial-day/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Annual ‘Roadcheck’ to focus on ELD tampering and cargo securement",
+      "category": "SAFETY",
+      "date": "2026-04-28T16:03:15+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/annual-roadcheck-to-focus-on-eld-tampering-and-cargo-securement/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "InnovMetric announces PolyWorks 2026 with cloud, AI updates",
+      "category": "MECHANICAL",
+      "date": "2026-04-28T14:41:05+00:00",
+      "url": "https://www.engineering.com/innovmetric-announces-polyworks-2026-with-cloud-ai-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Pudu Robotics opens new U.S. headquarters in Dallas",
+      "category": "MECHANICAL",
+      "date": "2026-04-28T14:04:00+00:00",
+      "url": "https://www.engineering.com/pudu-robotics-opens-new-u-s-headquarters-in-dallas/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "CRC launches Capital Committee representing over $12 billion in venture assets",
       "category": "INSTRUMENTATION",
       "date": "2026-04-28T14:00:54+00:00",
@@ -22362,5 +22394,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-28T14:11:48.445866+00:00"
+  "last_updated_utc": "2026-04-28T19:43:27.736482+00:00"
 }
