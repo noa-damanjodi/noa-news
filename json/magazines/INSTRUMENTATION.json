@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Epson Robots expands SCARA lineup with LS50C",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-29T17:52:37+00:00",
+      "url": "https://www.automationmag.com/epson-robots-expands-scara-lineup-with-ls50c/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "AutomationDirect adds Mindman Pneumatic Valves to product offering",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-29T17:14:59+00:00",
+      "url": "https://www.automationmag.com/automationdirect-adds-mindman-pneumatic-valves-to-product-offering/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Electromate named one of the Best Workplaces in Canada for 2026 by Great Place to Work",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-29T16:42:07+00:00",
+      "url": "https://www.automationmag.com/electromate-named-one-of-the-best-workplaces-in-canada-for-2026-by-great-place-to-work/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "ABB Robotics releases new family of PoWa cobots",
       "category": "INSTRUMENTATION",
       "date": "2026-04-28T19:57:37+00:00",
@@ -1562,5 +1586,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-29T14:01:46.955602+00:00"
+  "last_updated_utc": "2026-04-29T19:28:23.184713+00:00"
 }
