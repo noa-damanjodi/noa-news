@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Monarch Quantum, Oratomic partner on quantum systems",
+      "category": "MECHANICAL",
+      "date": "2026-04-29T07:36:04+00:00",
+      "url": "https://www.engineering.com/monarch-quantum-oratomic-partner-on-quantum-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro expands data center building block portfolio",
+      "category": "MECHANICAL",
+      "date": "2026-04-29T07:28:17+00:00",
+      "url": "https://www.engineering.com/supermicro-expands-data-center-building-block-portfolio/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "OPW launches HyperFlow dry disconnect coupler",
+      "category": "MECHANICAL",
+      "date": "2026-04-29T07:17:23+00:00",
+      "url": "https://www.engineering.com/opw-launches-hyperflow-dry-disconnect-coupler/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Plataine adds maintenance to production scheduling platform",
+      "category": "MECHANICAL",
+      "date": "2026-04-29T07:12:00+00:00",
+      "url": "https://www.engineering.com/plataine-adds-maintenance-to-production-scheduling-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Blykalla selects Aras for SMR digital backbone",
+      "category": "MECHANICAL",
+      "date": "2026-04-29T06:04:09+00:00",
+      "url": "https://www.engineering.com/blykalla-selects-aras-for-smr-digital-backbone/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "33DPQ Podcast – Rich Garrity",
       "category": "MECHANICAL",
       "date": "2026-04-28T21:13:53+00:00",
@@ -6306,5 +6346,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-29T03:23:50.432627+00:00"
+  "last_updated_utc": "2026-04-29T08:21:43.379956+00:00"
 }

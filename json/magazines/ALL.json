@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Monarch Quantum, Oratomic partner on quantum systems",
+      "category": "MECHANICAL",
+      "date": "2026-04-29T07:36:04+00:00",
+      "url": "https://www.engineering.com/monarch-quantum-oratomic-partner-on-quantum-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro expands data center building block portfolio",
+      "category": "MECHANICAL",
+      "date": "2026-04-29T07:28:17+00:00",
+      "url": "https://www.engineering.com/supermicro-expands-data-center-building-block-portfolio/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "OPW launches HyperFlow dry disconnect coupler",
+      "category": "MECHANICAL",
+      "date": "2026-04-29T07:17:23+00:00",
+      "url": "https://www.engineering.com/opw-launches-hyperflow-dry-disconnect-coupler/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Plataine adds maintenance to production scheduling platform",
+      "category": "MECHANICAL",
+      "date": "2026-04-29T07:12:00+00:00",
+      "url": "https://www.engineering.com/plataine-adds-maintenance-to-production-scheduling-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Ministry of Coal signs CMDPAs with UCG provisions for four commercial coal mines",
+      "category": "POWER",
+      "date": "2026-04-29T07:00:48+00:00",
+      "url": "https://powerline.net.in/2026/04/29/ministry-of-coal-signs-cmdpas-with-ucg-provisions-for-four-commercial-coal-mines/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NPCIL commences spillage to open reactor for Kudankulam unit 3 in Tamil Nadu",
+      "category": "POWER",
+      "date": "2026-04-29T06:59:03+00:00",
+      "url": "https://powerline.net.in/2026/04/29/npcil-commences-spillage-to-open-reactor-for-kudankulam-unit-3-in-tamil-nadu/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Battery Smart secures USD 15 million from Mirova to expand EV battery swapping network",
+      "category": "POWER",
+      "date": "2026-04-29T06:57:45+00:00",
+      "url": "https://powerline.net.in/2026/04/29/battery-smart-secures-usd-15-million-from-mirova-to-expand-ev-battery-swapping-network/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hindustan Power secures environmental clearance for 1,600 MW expansion in Madhya Pradesh",
+      "category": "POWER",
+      "date": "2026-04-29T06:56:31+00:00",
+      "url": "https://powerline.net.in/2026/04/29/hindustan-power-secures-environmental-clearance-for-1600-mw-expansion-in-madhya-pradesh/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Reliance Industries to invest Rs 1,600 billion in data centre cluster in Andhra Pradesh",
+      "category": "POWER",
+      "date": "2026-04-29T06:55:00+00:00",
+      "url": "https://powerline.net.in/2026/04/29/reliance-industries-to-invest-rs-1600-billion-in-data-centre-cluster-in-andhra-pradesh/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ENGIE and Pele Green Energy inaugurate 75 MW solar plant in South Africa",
+      "category": "POWER",
+      "date": "2026-04-29T06:52:42+00:00",
+      "url": "https://powerline.net.in/2026/04/29/engie-and-pele-green-energy-inaugurate-75-mw-solar-plant-in-south-africa/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Inspired Evolution invests USD40 million in CrossBoundary Energy",
+      "category": "POWER",
+      "date": "2026-04-29T06:51:31+00:00",
+      "url": "https://powerline.net.in/2026/04/29/inspired-evolution-invests-usd40-million-in-crossboundary-energy/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Blykalla selects Aras for SMR digital backbone",
+      "category": "MECHANICAL",
+      "date": "2026-04-29T06:04:09+00:00",
+      "url": "https://www.engineering.com/blykalla-selects-aras-for-smr-digital-backbone/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "33DPQ Podcast – Rich Garrity",
       "category": "MECHANICAL",
       "date": "2026-04-28T21:13:53+00:00",
@@ -1290,6 +1386,30 @@
       "type": "magazine"
     },
     {
+      "title": "“Kusam-Meco” 2500A Digital Clamp Meter Model- KM 2779",
+      "category": "ELECTRICAL",
+      "date": "2026-04-22T05:39:25+00:00",
+      "url": "https://www.electricalindia.in/kusam-meco-2500a-digital-clamp-meter-model-km-2779/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Tandem Solar Cells- breaking the SQ barrier",
+      "category": "ELECTRICAL",
+      "date": "2026-04-22T05:38:21+00:00",
+      "url": "https://www.electricalindia.in/tandem-solar-cells-breaking-the-sq-barrier/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Failure of Distribution Transformers",
+      "category": "ELECTRICAL",
+      "date": "2026-04-22T05:05:13+00:00",
+      "url": "https://www.electricalindia.in/failure-of-distribution-transformers/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "FANUC America expands CRX collaborative application lineup with CRX-3iA",
       "category": "INSTRUMENTATION",
       "date": "2026-04-21T19:54:57+00:00",
@@ -1854,6 +1974,22 @@
       "category": "ELECTRICAL",
       "date": "2026-04-20T04:30:04+00:00",
       "url": "https://www.electricalindia.in/two-way-power-flow-under-renewable-energy-ramp-up/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The Heart of the Grid – Part 1",
+      "category": "ELECTRICAL",
+      "date": "2026-04-20T02:35:36+00:00",
+      "url": "https://www.electricalindia.in/the-heart-of-the-grid-part-1/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EV Charging in India",
+      "category": "ELECTRICAL",
+      "date": "2026-04-20T01:58:39+00:00",
+      "url": "https://www.electricalindia.in/ev-charging-in-india/",
       "source": "Electrical India Magazine",
       "type": "magazine"
     },
@@ -22426,5 +22562,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-29T03:23:50.432627+00:00"
+  "last_updated_utc": "2026-04-29T08:21:43.379956+00:00"
 }
