@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "ABB Robotics releases new family of PoWa cobots",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-28T19:57:37+00:00",
+      "url": "https://www.automationmag.com/abb-robotics-releases-new-family-of-powa-cobots/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "CRC launches Capital Committee representing over $12 billion in venture assets",
       "category": "INSTRUMENTATION",
       "date": "2026-04-28T14:00:54+00:00",
@@ -1554,5 +1562,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-28T19:43:27.736482+00:00"
+  "last_updated_utc": "2026-04-29T03:23:50.432627+00:00"
 }
