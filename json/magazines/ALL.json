@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Kodiak, Teck sign LoI to establish new copper exploration company",
+      "category": "INDUSTRY",
+      "date": "2026-04-30T13:33:42+00:00",
+      "url": "https://www.mining-technology.com/news/kodiak-teck-loi-to-new-copper-exploration-company/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Reflex Robotics adopts Manufacturo for production control",
+      "category": "MECHANICAL",
+      "date": "2026-04-30T13:23:02+00:00",
+      "url": "https://www.engineering.com/reflex-robotics-adopts-manufacturo-for-production-control/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cognex launches In-Sight 6900 vision controller",
+      "category": "MECHANICAL",
+      "date": "2026-04-30T13:15:29+00:00",
+      "url": "https://www.engineering.com/cognex-launches-in-sight-6900-vision-controller/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Designing a workplace where engineers thrive",
+      "category": "MECHANICAL",
+      "date": "2026-04-30T13:00:00+00:00",
+      "url": "https://www.engineering.com/designing-a-workplace-where-engineers-thrive/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "GIGABYTE wins Red Dot awards for AI hardware lineup",
+      "category": "MECHANICAL",
+      "date": "2026-04-30T10:41:58+00:00",
+      "url": "https://www.engineering.com/gigabyte-wins-red-dot-awards-for-ai-hardware-lineup/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bentley secures FedRAMP Moderate for ProjectWise",
+      "category": "MECHANICAL",
+      "date": "2026-04-30T10:34:16+00:00",
+      "url": "https://www.engineering.com/bentley-secures-fedramp-moderate-for-projectwise/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Xali Gold concludes 50% of sampling at Pico Machay in Peru",
+      "category": "INDUSTRY",
+      "date": "2026-04-30T10:08:31+00:00",
+      "url": "https://www.mining-technology.com/news/xali-gold-concludes-50-sampling-pico-machay/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Arm launches Performix toolkit for AI performance analysis",
+      "category": "MECHANICAL",
+      "date": "2026-04-30T09:48:36+00:00",
+      "url": "https://www.engineering.com/arm-launches-performix-toolkit-for-ai-performance-analysis/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Q&A: How remote sensing is helping provide early detection of failures in critical mining equipment",
+      "category": "INDUSTRY",
+      "date": "2026-04-30T09:19:24+00:00",
+      "url": "https://www.mining-technology.com/sponsored/qa-how-remote-sensing-is-helping-provide-early-detection-of-failures-in-critical-mining-equipment/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Integra’s Wildcat exploration plan approved in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-04-30T07:40:29+00:00",
+      "url": "https://www.mining-technology.com/news/integras-wildcat-exploration-plan-approved-nevada/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "West Wits to sell Mt Cecelia project to Aventine",
+      "category": "INDUSTRY",
+      "date": "2026-04-30T07:27:51+00:00",
+      "url": "https://www.mining-technology.com/news/west-wits-to-sell-mt-cecelia-aventine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "New episode: batteries and beyond, emerging energy storage solutions",
       "category": "INDUSTRY",
       "date": "2026-04-30T07:10:00+00:00",
@@ -22754,5 +22842,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-30T08:23:55.383223+00:00"
+  "last_updated_utc": "2026-04-30T14:00:30.342539+00:00"
 }
