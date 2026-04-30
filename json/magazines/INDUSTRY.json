@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "New episode: batteries and beyond, emerging energy storage solutions",
+      "category": "INDUSTRY",
+      "date": "2026-04-30T07:10:00+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-emerging-energy-storage-solutions/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Neotech signs agreement for Torrance Project acquisition",
       "category": "INDUSTRY",
       "date": "2026-04-29T13:22:15+00:00",
@@ -3778,5 +3786,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-30T03:24:56.210892+00:00"
+  "last_updated_utc": "2026-04-30T08:23:55.383223+00:00"
 }
