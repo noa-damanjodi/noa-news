@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Endeavour Mining Q1 2026 gold output falls to 282,000oz",
+      "category": "INDUSTRY",
+      "date": "2026-05-01T12:47:28+00:00",
+      "url": "https://www.mining-technology.com/news/endeavour-mining-q1-2026-gold-output-282000oz/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Silver Sands to acquire Fairfield Gold Project in Mexico",
+      "category": "INDUSTRY",
+      "date": "2026-05-01T10:03:16+00:00",
+      "url": "https://www.mining-technology.com/news/silver-sands-to-acquire-fairfield-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Cove Kaz, Skyline sign merger agreement",
+      "category": "INDUSTRY",
+      "date": "2026-05-01T07:38:36+00:00",
+      "url": "https://www.mining-technology.com/news/cove-kaz-skyline-sign-merger-agreement/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Falcon Copper, Glencore to boost US minerals supply chain",
       "category": "INDUSTRY",
       "date": "2026-05-01T07:31:55+00:00",
@@ -3850,5 +3874,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-01T08:13:18.199190+00:00"
+  "last_updated_utc": "2026-05-01T13:22:27.094117+00:00"
 }

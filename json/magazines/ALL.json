@@ -2,11 +2,91 @@
   "category": "ALL",
   "items": [
     {
+      "title": "FARO expands Lévis service center for Canadian customers",
+      "category": "MECHANICAL",
+      "date": "2026-05-01T13:04:31+00:00",
+      "url": "https://www.engineering.com/faro-expands-levis-service-center-for-canadian-customers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Endeavour Mining Q1 2026 gold output falls to 282,000oz",
+      "category": "INDUSTRY",
+      "date": "2026-05-01T12:47:28+00:00",
+      "url": "https://www.mining-technology.com/news/endeavour-mining-q1-2026-gold-output-282000oz/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Stratasys receives multiple awards at RAPID + TCT",
+      "category": "MECHANICAL",
+      "date": "2026-05-01T12:46:29+00:00",
+      "url": "https://www.engineering.com/stratasys-receives-multiple-awards-at-rapid-tct/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aeva sensor powers Nikon laser radar inspection system",
+      "category": "MECHANICAL",
+      "date": "2026-05-01T11:56:17+00:00",
+      "url": "https://www.engineering.com/aeva-sensor-powers-nikon-laser-radar-inspection-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lattice wins 2026 AI Excellence Award for edge AI",
+      "category": "MECHANICAL",
+      "date": "2026-05-01T11:46:16+00:00",
+      "url": "https://www.engineering.com/lattice-wins-2026-ai-excellence-award-for-edge-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Altera updates FPGA AI Suite for edge AI deployment",
+      "category": "MECHANICAL",
+      "date": "2026-05-01T11:23:46+00:00",
+      "url": "https://www.engineering.com/altera-updates-fpga-ai-suite-for-edge-ai-deployment/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NatureWorks opens integrated Ingeo facility in Thailand",
+      "category": "MECHANICAL",
+      "date": "2026-05-01T10:34:57+00:00",
+      "url": "https://www.engineering.com/natureworks-opens-integrated-ingeo-facility-in-thailand/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IBM, Dallara partner on AI for aerodynamic design",
+      "category": "MECHANICAL",
+      "date": "2026-05-01T10:26:56+00:00",
+      "url": "https://www.engineering.com/ibm-dallara-partner-on-ai-for-aerodynamic-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Silver Sands to acquire Fairfield Gold Project in Mexico",
+      "category": "INDUSTRY",
+      "date": "2026-05-01T10:03:16+00:00",
+      "url": "https://www.mining-technology.com/news/silver-sands-to-acquire-fairfield-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Supercharging Digital Gauging at Bobcat North America",
       "category": "MECHANICAL",
       "date": "2026-05-01T08:00:00+00:00",
       "url": "https://www.engineering.com/supercharging-digital-gauging-at-bobcat-north-america/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cove Kaz, Skyline sign merger agreement",
+      "category": "INDUSTRY",
+      "date": "2026-05-01T07:38:36+00:00",
+      "url": "https://www.mining-technology.com/news/cove-kaz-skyline-sign-merger-agreement/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -22978,5 +23058,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-01T08:13:18.199190+00:00"
+  "last_updated_utc": "2026-05-01T13:22:27.094117+00:00"
 }
