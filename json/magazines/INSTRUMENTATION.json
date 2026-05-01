@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "MathWorks announces Release 2026a of MATLAB and Simulink product families",
+      "category": "INSTRUMENTATION",
+      "date": "2026-04-30T19:42:26+00:00",
+      "url": "https://www.automationmag.com/mathworks-announces-release-2026a-of-matlab-and-simulink-product-families/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Epson Robots expands SCARA lineup with LS50C",
       "category": "INSTRUMENTATION",
       "date": "2026-04-29T17:52:37+00:00",
@@ -1586,5 +1594,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-04-30T19:24:57.394633+00:00"
+  "last_updated_utc": "2026-05-01T03:34:58.012210+00:00"
 }
