@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Supercharging Digital Gauging at Bobcat North America",
+      "category": "MECHANICAL",
+      "date": "2026-05-01T08:00:00+00:00",
+      "url": "https://www.engineering.com/supercharging-digital-gauging-at-bobcat-north-america/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "JuliaHub launches Dyad 3.0 and raises $65 million",
+      "category": "MECHANICAL",
+      "date": "2026-05-01T07:04:52+00:00",
+      "url": "https://www.engineering.com/juliahub-launches-dyad-3-0-and-raises-65-million/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bringing humanoids to factories through digital threads",
+      "category": "MECHANICAL",
+      "date": "2026-05-01T07:00:00+00:00",
+      "url": "https://www.engineering.com/bringing-humanoids-to-factories-through-digital-threads/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "RoboSense launches SPAD-SoC platform and image chipsets",
       "category": "MECHANICAL",
       "date": "2026-04-30T15:22:44+00:00",
@@ -6442,5 +6466,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-01T03:34:58.012210+00:00"
+  "last_updated_utc": "2026-05-01T08:13:18.199190+00:00"
 }

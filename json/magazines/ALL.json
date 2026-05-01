@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Supercharging Digital Gauging at Bobcat North America",
+      "category": "MECHANICAL",
+      "date": "2026-05-01T08:00:00+00:00",
+      "url": "https://www.engineering.com/supercharging-digital-gauging-at-bobcat-north-america/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Falcon Copper, Glencore to boost US minerals supply chain",
+      "category": "INDUSTRY",
+      "date": "2026-05-01T07:31:55+00:00",
+      "url": "https://www.mining-technology.com/news/falcon-copper-glencore-us-minerals-supply/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "JuliaHub launches Dyad 3.0 and raises $65 million",
+      "category": "MECHANICAL",
+      "date": "2026-05-01T07:04:52+00:00",
+      "url": "https://www.engineering.com/juliahub-launches-dyad-3-0-and-raises-65-million/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bringing humanoids to factories through digital threads",
+      "category": "MECHANICAL",
+      "date": "2026-05-01T07:00:00+00:00",
+      "url": "https://www.engineering.com/bringing-humanoids-to-factories-through-digital-threads/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Ministry of Mines approves 58 companies under critical mineral recycling scheme",
+      "category": "POWER",
+      "date": "2026-05-01T05:42:14+00:00",
+      "url": "https://powerline.net.in/2026/05/01/ministry-of-mines-approves-58-companies-under-critical-mineral-recycling-scheme/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "POWERGRID board approves Rs 40 billion loan facility from SBI",
+      "category": "POWER",
+      "date": "2026-05-01T05:41:14+00:00",
+      "url": "https://powerline.net.in/2026/05/01/powergrid-board-approves-rs-40-billion-loan-facility-from-sbi/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Tamil Nadu government to release Rs 173.07 billion subsidy to TNPDCL in 2026-27",
+      "category": "POWER",
+      "date": "2026-05-01T05:40:12+00:00",
+      "url": "https://powerline.net.in/2026/05/01/tamil-nadu-government-to-release-rs-173-07-billion-subsidy-to-tnpdcl-in-2026-27/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Maharashtra cabinet approves Rs 123.03 billion MAGESTIC scheme",
+      "category": "POWER",
+      "date": "2026-05-01T05:37:52+00:00",
+      "url": "https://powerline.net.in/2026/05/01/maharashtra-cabinet-approves-rs-123-03-billion-magestic-scheme/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Ministry of Coal issues LoA to Kartikay Vayunandana for coal gasification project",
+      "category": "POWER",
+      "date": "2026-05-01T05:32:08+00:00",
+      "url": "https://powerline.net.in/2026/05/01/ministry-of-coal-issues-loa-to-kartikay-vayunandana-for-coal-gasification-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EVNNPT upgrades 220 kV Thanh Cong substation in Vietnam",
+      "category": "POWER",
+      "date": "2026-05-01T05:20:36+00:00",
+      "url": "https://powerline.net.in/2026/05/01/evnnpt-upgrades-220-kv-thanh-cong-substation-in-vietnam/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "OETC plans OMR 376 million investment in BESS projects during 2026-30",
+      "category": "POWER",
+      "date": "2026-05-01T05:18:46+00:00",
+      "url": "https://powerline.net.in/2026/05/01/oetc-plans-omr-376-million-investment-in-bess-projects-during-2026-30/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "MathWorks announces Release 2026a of MATLAB and Simulink product families",
       "category": "INSTRUMENTATION",
       "date": "2026-04-30T19:42:26+00:00",
@@ -22890,5 +22978,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-01T03:34:58.012210+00:00"
+  "last_updated_utc": "2026-05-01T08:13:18.199190+00:00"
 }
