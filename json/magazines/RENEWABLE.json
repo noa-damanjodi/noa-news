@@ -2,6 +2,86 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Non-compliance with a looming NERC deadline could cost clean energy owners and operators, big time",
+      "category": "RENEWABLE",
+      "date": "2026-05-01T15:06:03+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/non-compliance-with-a-looming-nerc-deadline-could-cost-clean-energy-owners-and-operators-big-time/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "How VPPs could improve grid reliability and save utilities 40% over gas peaker plants",
+      "category": "RENEWABLE",
+      "date": "2026-05-01T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/how-vpps-could-improve-grid-reliability-and-save-utilities-40-over-gas-peaker-plants/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Are Trump’s efforts against clean energy in vain? – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-05-01T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/are-trumps-efforts-against-clean-energy-in-vain-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Iron flow and sodium-ion battery manufacturers to join forces",
+      "category": "RENEWABLE",
+      "date": "2026-04-30T19:39:20+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/long-duration/iron-flow-and-sodium-ion-battery-manufacturers-to-join-forces/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Democrats investigate as Trump OKs almost $2 billion in taxpayer money to end offshore wind projects",
+      "category": "RENEWABLE",
+      "date": "2026-04-30T18:40:56+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/offshore/democrats-investigate-as-trump-oks-almost-2-billion-in-taxpayer-money-to-end-offshore-wind-projects/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "FERC order avoids $4.9B in costs across 19 transmission projects",
+      "category": "RENEWABLE",
+      "date": "2026-04-30T17:11:01+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/ferc-order-avoids-4-9b-in-costs-across-19-transmission-projects/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "This California battery tech company is close to launching the first large-scale advanced electrolyte facility in the US",
+      "category": "RENEWABLE",
+      "date": "2026-04-29T20:45:49+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/this-california-battery-tech-company-is-close-to-launching-the-first-large-scale-advanced-electrolyte-facility-in-the-us/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "New Texas solar panel recycling facility could process up to 600,000 solar panels per year",
+      "category": "RENEWABLE",
+      "date": "2026-04-29T19:28:38+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/new-texas-solar-panel-recycling-facility-could-process-up-to-600000-solar-panels-per-year/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "PG&E wants customers to feel more comfortable with electrification",
+      "category": "RENEWABLE",
+      "date": "2026-04-29T16:23:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/pge-wants-customers-to-feel-more-comfortable-with-electrification/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Data centers or sci-fi? Meta taps into space solar, 100-hour energy storage",
+      "category": "RENEWABLE",
+      "date": "2026-04-29T15:11:58+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/data-centers-or-sci-fi-meta-taps-into-space-solar-100-hour-energy-storage/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Why the effects on the Iran conflict will be felt on the US grid – This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-04-24T15:52:05+00:00",
@@ -1746,5 +1826,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-01T19:14:42.788466+00:00"
+  "last_updated_utc": "2026-05-02T02:51:17.664192+00:00"
 }
