@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Report details financial toll of misclassifying independent contractors",
+      "category": "SAFETY",
+      "date": "2026-05-04T19:26:24+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/report-details-financial-toll-of-misclassifying-independent-contractors/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "PPE group warns against ‘outlandish’ online claims about safety footwear",
+      "category": "SAFETY",
+      "date": "2026-05-04T19:16:33+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/ppe-group-warns-against-outlandish-online-claims-about-safety-footwear/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Michigan House panel takes testimony on dam safety reforms as heavy rain strains structures across state",
+      "category": "RENEWABLE",
+      "date": "2026-05-04T18:50:20+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/michigan-house-panel-takes-testimony-on-dam-safety-reforms-as-heavy-rain-strains-structures-across-state/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "GE Vernova lands equipment order for one of India’s largest pumped storage projects",
+      "category": "RENEWABLE",
+      "date": "2026-05-04T16:27:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/pumped-storage/ge-vernova-lands-equipment-order-for-one-of-indias-largest-pumped-storage-projects/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "DOE to release $430M for American hydropower fleet",
+      "category": "RENEWABLE",
+      "date": "2026-05-04T15:48:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/doe-to-release-430m-for-american-hydropower-fleet/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Eplus3D, Rosswag and qualloy partner on metal AM",
       "category": "MECHANICAL",
       "date": "2026-05-04T13:18:58+00:00",
@@ -23346,5 +23386,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-04T14:05:08.682671+00:00"
+  "last_updated_utc": "2026-05-04T19:42:13.599135+00:00"
 }
