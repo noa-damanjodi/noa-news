@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Excalibur Metals stakes 58 new claims at Nevada’s Bellehelen Project",
+      "category": "INDUSTRY",
+      "date": "2026-05-04T11:42:04+00:00",
+      "url": "https://www.mining-technology.com/news/excalibur-metals-58-new-claims-bellehelen-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Inspiration Mining initiates drilling at Rottenstone North project",
+      "category": "INDUSTRY",
+      "date": "2026-05-04T09:21:01+00:00",
+      "url": "https://www.mining-technology.com/news/inspiration-mining-drilling-rottenstone-north-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Mercuria, Heeney ink Venezuelan commodity offtake agreements",
+      "category": "INDUSTRY",
+      "date": "2026-05-04T09:17:50+00:00",
+      "url": "https://www.mining-technology.com/news/mercuria-heeney-venezuelan-commodity-offtake-agreements/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Trump-linked tungsten deal highlights processing gap in US supply chain push",
       "category": "INDUSTRY",
       "date": "2026-05-04T00:00:00+00:00",
@@ -3890,5 +3914,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-04T08:31:40.357880+00:00"
+  "last_updated_utc": "2026-05-04T14:05:08.682671+00:00"
 }

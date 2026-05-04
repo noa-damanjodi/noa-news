@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Clarion Events North America names new EVP of Energy",
+      "category": "RENEWABLE",
+      "date": "2026-05-04T13:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/clarion-events-north-america-names-new-evp-of-energy/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "It’s getting expensive to gas up | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-05-04T09:59:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/its-getting-expensive-to-gas-up-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Non-compliance with a looming NERC deadline could cost clean energy owners and operators, big time",
       "category": "RENEWABLE",
       "date": "2026-05-01T15:06:03+00:00",
@@ -1826,5 +1842,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-04T08:31:40.357880+00:00"
+  "last_updated_utc": "2026-05-04T14:05:08.682671+00:00"
 }
