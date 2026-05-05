@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Two deaths reported at Sibanye-Stillwater Kloof 8 shaft",
+      "category": "INDUSTRY",
+      "date": "2026-05-05T07:19:28+00:00",
+      "url": "https://www.mining-technology.com/news/two-deaths-at-sibanye-stillwater-kloof-8/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Ardea’s Goongarrie Hub selected in Australia-Japan minerals pact",
+      "category": "INDUSTRY",
+      "date": "2026-05-04T12:16:38+00:00",
+      "url": "https://www.mining-technology.com/news/goongarrie-hub-australia-japan-minerals-pact/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Pacgold produces maiden gold doré bar at White Dam project",
+      "category": "INDUSTRY",
+      "date": "2026-05-04T12:15:18+00:00",
+      "url": "https://www.mining-technology.com/news/pacgold-maiden-gold-dore-white-dam-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Excalibur Metals stakes 58 new claims at Nevada’s Bellehelen Project",
       "category": "INDUSTRY",
       "date": "2026-05-04T11:42:04+00:00",
@@ -3914,5 +3938,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-05T02:52:39.639996+00:00"
+  "last_updated_utc": "2026-05-05T08:12:27.552499+00:00"
 }

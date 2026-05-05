@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "BSES: Consumer-centric utilities emerge as the next frontier of power sector transformation",
+      "category": "POWER",
+      "date": "2026-05-05T08:05:27+00:00",
+      "url": "https://powerline.net.in/2026/05/05/bses-consumer-centric-utilities-emerge-as-the-next-frontier-of-power-sector-transformation/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Exploring CfDs: Shift towards market-linked renewable power procurement",
+      "category": "POWER",
+      "date": "2026-05-05T07:54:20+00:00",
+      "url": "https://powerline.net.in/2026/05/05/exploring-cfds-shift-towards-market-linked-renewable-power-procurement/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Damodar Valley Corporation: Focus on flexibilising and dercarbonising its thermal fleet",
+      "category": "POWER",
+      "date": "2026-05-05T07:50:30+00:00",
+      "url": "https://powerline.net.in/2026/05/05/damodar-valley-corporation-focus-on-flexibilising-and-dercarbonising-its-thermal-fleet/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Two deaths reported at Sibanye-Stillwater Kloof 8 shaft",
+      "category": "INDUSTRY",
+      "date": "2026-05-05T07:19:28+00:00",
+      "url": "https://www.mining-technology.com/news/two-deaths-at-sibanye-stillwater-kloof-8/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "AERB approves clearance for equipment installation at Kudankulam units 5 and 6",
+      "category": "POWER",
+      "date": "2026-05-05T06:43:20+00:00",
+      "url": "https://powerline.net.in/2026/05/05/aerb-approves-clearance-for-equipment-installation-at-kudankulam-units-5-and-6/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "MP Transco energises 200 MVA power transformer for Indore Metro",
+      "category": "POWER",
+      "date": "2026-05-05T06:42:24+00:00",
+      "url": "https://powerline.net.in/2026/05/05/mp-transco-energises-200-mva-power-transformer-for-indore-metro/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "AMPIN commissions 500 MWp wind-solar hybrid project in Rajasthan",
+      "category": "POWER",
+      "date": "2026-05-05T06:40:37+00:00",
+      "url": "https://powerline.net.in/2026/05/05/ampin-commissions-500-mwp-wind-solar-hybrid-project-in-rajasthan/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "HPL Electric secures Rs 2.42 billion smart meter orders from GMR Group firms",
+      "category": "POWER",
+      "date": "2026-05-05T06:40:16+00:00",
+      "url": "https://powerline.net.in/2026/05/05/hpl-electric-secures-rs-2-42-billion-smart-meter-orders-from-gmr-group-firms/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Noida power department to install 250 transformers to improve supply reliability",
+      "category": "POWER",
+      "date": "2026-05-05T06:38:52+00:00",
+      "url": "https://powerline.net.in/2026/05/05/noida-power-department-to-install-250-transformers-to-improve-supply-reliability/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "TPREL approves plans for ingot and wafer manufacturing business",
+      "category": "POWER",
+      "date": "2026-05-05T06:38:31+00:00",
+      "url": "https://powerline.net.in/2026/05/05/tprel-approves-plans-for-ingot-and-wafer-manufacturing-business/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ADB launches USD 70 billion plan for energy and digital infrastructure in Asia-Pacific",
+      "category": "POWER",
+      "date": "2026-05-05T06:37:13+00:00",
+      "url": "https://powerline.net.in/2026/05/05/adb-launches-usd-70-billion-plan-for-energy-and-digital-infrastructure-in-asia-pacific/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Underway: The National Safety Stand-Down to Prevent Falls in Construction",
       "category": "SAFETY",
       "date": "2026-05-04T21:47:24+00:00",
@@ -103,6 +191,22 @@
       "date": "2026-05-04T13:00:00+00:00",
       "url": "https://www.renewableenergyworld.com/energy-business/clarion-events-north-america-names-new-evp-of-energy/",
       "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Ardea’s Goongarrie Hub selected in Australia-Japan minerals pact",
+      "category": "INDUSTRY",
+      "date": "2026-05-04T12:16:38+00:00",
+      "url": "https://www.mining-technology.com/news/goongarrie-hub-australia-japan-minerals-pact/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Pacgold produces maiden gold doré bar at White Dam project",
+      "category": "INDUSTRY",
+      "date": "2026-05-04T12:15:18+00:00",
+      "url": "https://www.mining-technology.com/news/pacgold-maiden-gold-dore-white-dam-project/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -23418,5 +23522,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-05T02:52:39.639996+00:00"
+  "last_updated_utc": "2026-05-05T08:12:27.552499+00:00"
 }
