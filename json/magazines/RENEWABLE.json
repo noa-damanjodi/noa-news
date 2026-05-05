@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "SRP and NextEra to develop 3 GW of new solar by 2034",
+      "category": "RENEWABLE",
+      "date": "2026-05-04T20:10:29+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/utility-scale/srp-and-nextera-to-develop-3-gw-of-new-solar-by-2034/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Intelligence is cheaper than infrastructure: The case for demand-side flexibility",
+      "category": "RENEWABLE",
+      "date": "2026-05-04T19:19:09+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/intelligence-is-cheaper-than-infrastructure-the-case-for-demand-side-flexibility/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Michigan House panel takes testimony on dam safety reforms as heavy rain strains structures across state",
       "category": "RENEWABLE",
       "date": "2026-05-04T18:50:20+00:00",
@@ -1866,5 +1882,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-04T19:42:13.599135+00:00"
+  "last_updated_utc": "2026-05-05T02:52:39.639996+00:00"
 }

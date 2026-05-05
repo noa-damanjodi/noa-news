@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Why AI agents aren’t quite living up to the hype in manufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-05-04T20:29:37+00:00",
+      "url": "https://www.engineering.com/why-ai-agents-arent-quite-living-up-to-the-hype-in-manufacturing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Eplus3D, Rosswag and qualloy partner on metal AM",
       "category": "MECHANICAL",
       "date": "2026-05-04T13:18:58+00:00",
@@ -6578,5 +6586,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-04T19:42:13.599135+00:00"
+  "last_updated_utc": "2026-05-05T02:52:39.639996+00:00"
 }

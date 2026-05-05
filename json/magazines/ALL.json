@@ -2,11 +2,43 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Underway: The National Safety Stand-Down to Prevent Falls in Construction",
+      "category": "SAFETY",
+      "date": "2026-05-04T21:47:24+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/underway-the-national-safety-stand-down-to-prevent-falls-in-construction/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Why AI agents aren’t quite living up to the hype in manufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-05-04T20:29:37+00:00",
+      "url": "https://www.engineering.com/why-ai-agents-arent-quite-living-up-to-the-hype-in-manufacturing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SRP and NextEra to develop 3 GW of new solar by 2034",
+      "category": "RENEWABLE",
+      "date": "2026-05-04T20:10:29+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/utility-scale/srp-and-nextera-to-develop-3-gw-of-new-solar-by-2034/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Report details financial toll of misclassifying independent contractors",
       "category": "SAFETY",
       "date": "2026-05-04T19:26:24+00:00",
       "url": "https://www.safetyandhealthmagazine.com/report-details-financial-toll-of-misclassifying-independent-contractors/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Intelligence is cheaper than infrastructure: The case for demand-side flexibility",
+      "category": "RENEWABLE",
+      "date": "2026-05-04T19:19:09+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/intelligence-is-cheaper-than-infrastructure-the-case-for-demand-side-flexibility/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -23386,5 +23418,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-04T19:42:13.599135+00:00"
+  "last_updated_utc": "2026-05-05T02:52:39.639996+00:00"
 }
