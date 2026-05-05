@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "How utilities are using EVs as grid assets | Q&A with ChargeScape CEO Joseph Vellone",
+      "category": "RENEWABLE",
+      "date": "2026-05-05T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/electric-vehicle/ev-charging/how-utilities-are-using-evs-as-grid-assets-qa-with-chargescape-ceo-joseph-vellone/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "SRP and NextEra to develop 3 GW of new solar by 2034",
       "category": "RENEWABLE",
       "date": "2026-05-04T20:10:29+00:00",
@@ -1882,5 +1890,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-05T08:12:27.552499+00:00"
+  "last_updated_utc": "2026-05-05T13:58:46.078128+00:00"
 }

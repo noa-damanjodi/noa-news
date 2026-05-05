@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Larvotto identifies gold-antimony-tungsten deposits at Midas Gully",
+      "category": "INDUSTRY",
+      "date": "2026-05-05T13:28:59+00:00",
+      "url": "https://www.mining-technology.com/news/larvotto-identifies-gold-antimony-tungsten-midas-gully/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Pecoy Copper deploys third drill rig at Peru project",
+      "category": "INDUSTRY",
+      "date": "2026-05-05T10:42:14+00:00",
+      "url": "https://www.mining-technology.com/news/pecoy-copper-third-drill-rig-peru-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Will green demand push Australian transition metals into a new supercycle?",
+      "category": "INDUSTRY",
+      "date": "2026-05-05T08:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/green-demand-australia-transition-metals-supercycle/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "American Pacific Mining secures Madison drill contracts",
+      "category": "INDUSTRY",
+      "date": "2026-05-05T07:28:16+00:00",
+      "url": "https://www.mining-technology.com/news/american-pacific-mining-secures-madison-drill-contracts/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Two deaths reported at Sibanye-Stillwater Kloof 8 shaft",
       "category": "INDUSTRY",
       "date": "2026-05-05T07:19:28+00:00",
@@ -3938,5 +3970,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-05T08:12:27.552499+00:00"
+  "last_updated_utc": "2026-05-05T13:58:46.078128+00:00"
 }

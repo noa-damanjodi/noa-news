@@ -2,10 +2,66 @@
   "category": "POWER",
   "items": [
     {
+      "title": "Fresh Impetus: New scheme aims to unlock small-hydro potential in remote and hilly areas",
+      "category": "POWER",
+      "date": "2026-05-05T11:20:50+00:00",
+      "url": "https://powerline.net.in/2026/05/05/fresh-impetus-new-scheme-aims-to-unlock-small-hydro-potential-in-remote-and-hilly-areas/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Transforming Transmission: Time for Rajasthan to move to the 220/33 kV framework",
+      "category": "POWER",
+      "date": "2026-05-05T10:52:11+00:00",
+      "url": "https://powerline.net.in/2026/05/05/transforming-transmission-time-for-rajasthan-to-move-to-the-220-33-kv-framework/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Smarter Operations: Improving efficiency in thermal power plants through digitalisation",
+      "category": "POWER",
+      "date": "2026-05-05T10:30:58+00:00",
+      "url": "https://powerline.net.in/2026/05/05/smarter-operations-improving-efficiency-in-thermal-power-plants-through-digitalisation/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Views of Pralhad Joshi: “India’s wind energy segment has witnessed a notable uptick in capacity addition”",
+      "category": "POWER",
+      "date": "2026-05-05T09:45:34+00:00",
+      "url": "https://powerline.net.in/2026/05/05/views-of-pralhad-joshi-indias-wind-energy-segment-has-witnessed-a-notable-uptick-in-capacity-addition/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Industry speak: Integrated Coal Handling",
+      "category": "POWER",
+      "date": "2026-05-05T09:02:31+00:00",
+      "url": "https://powerline.net.in/2026/05/05/industry-speak-integrated-coal-handling/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Restoring Assets: Revitalising ageing power plants through R&M",
+      "category": "POWER",
+      "date": "2026-05-05T08:38:09+00:00",
+      "url": "https://powerline.net.in/2026/05/05/restoring-assets-revitalising-ageing-power-plants-through-rm/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "BSES: Consumer-centric utilities emerge as the next frontier of power sector transformation",
       "category": "POWER",
       "date": "2026-05-05T08:05:27+00:00",
       "url": "https://powerline.net.in/2026/05/05/bses-consumer-centric-utilities-emerge-as-the-next-frontier-of-power-sector-transformation/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Rating Utilities: Key highlights of the MoP’s discom performance reports",
+      "category": "POWER",
+      "date": "2026-05-05T07:54:33+00:00",
+      "url": "https://powerline.net.in/2026/05/05/rating-utilities-key-highlights-of-the-mops-discom-performance-reports/",
       "source": "Power Line Magazine",
       "type": "magazine"
     },
@@ -5938,5 +5994,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-05T08:12:27.552499+00:00"
+  "last_updated_utc": "2026-05-05T13:58:46.078128+00:00"
 }

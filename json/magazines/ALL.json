@@ -2,10 +2,170 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Larvotto identifies gold-antimony-tungsten deposits at Midas Gully",
+      "category": "INDUSTRY",
+      "date": "2026-05-05T13:28:59+00:00",
+      "url": "https://www.mining-technology.com/news/larvotto-identifies-gold-antimony-tungsten-midas-gully/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Vectorworks Architect 2026 named Architizer finalist",
+      "category": "MECHANICAL",
+      "date": "2026-05-05T13:10:08+00:00",
+      "url": "https://www.engineering.com/vectorworks-architect-2026-named-architizer-finalist/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens updates Gridscale X and PSS E software",
+      "category": "MECHANICAL",
+      "date": "2026-05-05T12:57:28+00:00",
+      "url": "https://www.engineering.com/siemens-updates-gridscale-x-and-pss-e-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA construction advisory committee set to meet May 19-20",
+      "category": "SAFETY",
+      "date": "2026-05-05T12:29:45+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-construction-advisory-committee-set-to-meet-may-19-20/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "KYOCERA AVX adds 48V multilayer varistors",
+      "category": "MECHANICAL",
+      "date": "2026-05-05T12:25:40+00:00",
+      "url": "https://www.engineering.com/kyocera-avx-adds-48v-multilayer-varistors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NIBS announces speakers for 2026 Building Innovation",
+      "category": "MECHANICAL",
+      "date": "2026-05-05T11:53:42+00:00",
+      "url": "https://www.engineering.com/nibs-announces-speakers-for-2026-building-innovation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Blaize and Winmate sign edge AI partnership",
+      "category": "MECHANICAL",
+      "date": "2026-05-05T11:42:26+00:00",
+      "url": "https://www.engineering.com/blaize-and-winmate-sign-edge-ai-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Michael Baker joins Autodesk digital twin program",
+      "category": "MECHANICAL",
+      "date": "2026-05-05T11:22:20+00:00",
+      "url": "https://www.engineering.com/michael-baker-joins-autodesk-digital-twin-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Fresh Impetus: New scheme aims to unlock small-hydro potential in remote and hilly areas",
+      "category": "POWER",
+      "date": "2026-05-05T11:20:50+00:00",
+      "url": "https://powerline.net.in/2026/05/05/fresh-impetus-new-scheme-aims-to-unlock-small-hydro-potential-in-remote-and-hilly-areas/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "How utilities are using EVs as grid assets | Q&A with ChargeScape CEO Joseph Vellone",
+      "category": "RENEWABLE",
+      "date": "2026-05-05T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/electric-vehicle/ev-charging/how-utilities-are-using-evs-as-grid-assets-qa-with-chargescape-ceo-joseph-vellone/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Transforming Transmission: Time for Rajasthan to move to the 220/33 kV framework",
+      "category": "POWER",
+      "date": "2026-05-05T10:52:11+00:00",
+      "url": "https://powerline.net.in/2026/05/05/transforming-transmission-time-for-rajasthan-to-move-to-the-220-33-kv-framework/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Pecoy Copper deploys third drill rig at Peru project",
+      "category": "INDUSTRY",
+      "date": "2026-05-05T10:42:14+00:00",
+      "url": "https://www.mining-technology.com/news/pecoy-copper-third-drill-rig-peru-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Lattice to acquire AMI in $1.65 billion deal",
+      "category": "MECHANICAL",
+      "date": "2026-05-05T10:32:32+00:00",
+      "url": "https://www.engineering.com/lattice-to-acquire-ami-in-1-65-billion-deal/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Smarter Operations: Improving efficiency in thermal power plants through digitalisation",
+      "category": "POWER",
+      "date": "2026-05-05T10:30:58+00:00",
+      "url": "https://powerline.net.in/2026/05/05/smarter-operations-improving-efficiency-in-thermal-power-plants-through-digitalisation/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Views of Pralhad Joshi: “India’s wind energy segment has witnessed a notable uptick in capacity addition”",
+      "category": "POWER",
+      "date": "2026-05-05T09:45:34+00:00",
+      "url": "https://powerline.net.in/2026/05/05/views-of-pralhad-joshi-indias-wind-energy-segment-has-witnessed-a-notable-uptick-in-capacity-addition/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "GIGABYTE launches Z890 Plus series motherboards",
+      "category": "MECHANICAL",
+      "date": "2026-05-05T09:36:35+00:00",
+      "url": "https://www.engineering.com/gigabyte-launches-z890-plus-series-motherboards/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Industry speak: Integrated Coal Handling",
+      "category": "POWER",
+      "date": "2026-05-05T09:02:31+00:00",
+      "url": "https://powerline.net.in/2026/05/05/industry-speak-integrated-coal-handling/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Restoring Assets: Revitalising ageing power plants through R&M",
+      "category": "POWER",
+      "date": "2026-05-05T08:38:09+00:00",
+      "url": "https://powerline.net.in/2026/05/05/restoring-assets-revitalising-ageing-power-plants-through-rm/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "BSES: Consumer-centric utilities emerge as the next frontier of power sector transformation",
       "category": "POWER",
       "date": "2026-05-05T08:05:27+00:00",
       "url": "https://powerline.net.in/2026/05/05/bses-consumer-centric-utilities-emerge-as-the-next-frontier-of-power-sector-transformation/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Will green demand push Australian transition metals into a new supercycle?",
+      "category": "INDUSTRY",
+      "date": "2026-05-05T08:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/green-demand-australia-transition-metals-supercycle/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rating Utilities: Key highlights of the MoP’s discom performance reports",
+      "category": "POWER",
+      "date": "2026-05-05T07:54:33+00:00",
+      "url": "https://powerline.net.in/2026/05/05/rating-utilities-key-highlights-of-the-mops-discom-performance-reports/",
       "source": "Power Line Magazine",
       "type": "magazine"
     },
@@ -23,6 +183,14 @@
       "date": "2026-05-05T07:50:30+00:00",
       "url": "https://powerline.net.in/2026/05/05/damodar-valley-corporation-focus-on-flexibilising-and-dercarbonising-its-thermal-fleet/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "American Pacific Mining secures Madison drill contracts",
+      "category": "INDUSTRY",
+      "date": "2026-05-05T07:28:16+00:00",
+      "url": "https://www.mining-technology.com/news/american-pacific-mining-secures-madison-drill-contracts/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -23522,5 +23690,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-05T08:12:27.552499+00:00"
+  "last_updated_utc": "2026-05-05T13:58:46.078128+00:00"
 }
