@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Inside Siemens’ AI factory bet",
+      "category": "MECHANICAL",
+      "date": "2026-05-05T18:09:08+00:00",
+      "url": "https://www.engineering.com/inside-siemens-ai-factory-bet/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Advancing plant-wide connectivity",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-05T17:21:28+00:00",
+      "url": "https://www.automationmag.com/advancing-plant-wide-connectivity/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "New episode: Turning tailings into assets, Q&A with Canada’s MICA",
+      "category": "INDUSTRY",
+      "date": "2026-05-05T17:12:17+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-turning-tailings-into-assets-qa-with-canadas-mica/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Lawmakers urge HHS to clear ‘barriers’ to alternative DOT drug testing methods",
+      "category": "SAFETY",
+      "date": "2026-05-05T16:53:21+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/lawmakers-urge-hhs-to-clear-barriers-to-alternative-dot-drug-testing-methods/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Keynote speakers announced for Automate 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-05T16:51:34+00:00",
+      "url": "https://www.automationmag.com/keynote-speakers-announced-for-automate-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Beckhoff Automation sees six per cent growth YoY in 2025, global revenue of 1.24 billion euros",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-05T16:27:11+00:00",
+      "url": "https://www.automationmag.com/beckhoff-automation-sees-six-per-cent-growth-yoy-in-2025-global-revenue-of-1-24-billion-euros/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric launching GOT3000 HMI globally",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-05T16:12:51+00:00",
+      "url": "https://www.automationmag.com/mitsubishi-electric-launching-got3000-hmi-globally/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "binder adds hex design to shielded M12 connectors",
+      "category": "MECHANICAL",
+      "date": "2026-05-05T15:28:45+00:00",
+      "url": "https://www.engineering.com/binder-adds-hex-design-to-shielded-m12-connectors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Postal Service reminds workers of its zero-tolerance policy on violence",
+      "category": "SAFETY",
+      "date": "2026-05-05T14:48:15+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/postal-service-reminds-workers-of-its-zero-tolerance-policy-for-violence/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Regis, Vault sign $7.68bn merger agreement",
+      "category": "INDUSTRY",
+      "date": "2026-05-05T13:39:40+00:00",
+      "url": "https://www.mining-technology.com/news/regis-vault-sign-merger-agreement/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Larvotto identifies gold-antimony-tungsten deposits at Midas Gully",
       "category": "INDUSTRY",
       "date": "2026-05-05T13:28:59+00:00",
@@ -23690,5 +23770,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-05T13:58:46.078128+00:00"
+  "last_updated_utc": "2026-05-05T19:23:36.676839+00:00"
 }

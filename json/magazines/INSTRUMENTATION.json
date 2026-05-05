@@ -2,6 +2,38 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Advancing plant-wide connectivity",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-05T17:21:28+00:00",
+      "url": "https://www.automationmag.com/advancing-plant-wide-connectivity/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Keynote speakers announced for Automate 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-05T16:51:34+00:00",
+      "url": "https://www.automationmag.com/keynote-speakers-announced-for-automate-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Beckhoff Automation sees six per cent growth YoY in 2025, global revenue of 1.24 billion euros",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-05T16:27:11+00:00",
+      "url": "https://www.automationmag.com/beckhoff-automation-sees-six-per-cent-growth-yoy-in-2025-global-revenue-of-1-24-billion-euros/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric launching GOT3000 HMI globally",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-05T16:12:51+00:00",
+      "url": "https://www.automationmag.com/mitsubishi-electric-launching-got3000-hmi-globally/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "S&P Global PMI improves to 53.0, economics director suggests considerable caution",
       "category": "INSTRUMENTATION",
       "date": "2026-05-01T15:11:07+00:00",
@@ -1602,5 +1634,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-05T13:58:46.078128+00:00"
+  "last_updated_utc": "2026-05-05T19:23:36.676839+00:00"
 }

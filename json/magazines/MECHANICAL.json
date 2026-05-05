@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Inside Siemens’ AI factory bet",
+      "category": "MECHANICAL",
+      "date": "2026-05-05T18:09:08+00:00",
+      "url": "https://www.engineering.com/inside-siemens-ai-factory-bet/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "binder adds hex design to shielded M12 connectors",
+      "category": "MECHANICAL",
+      "date": "2026-05-05T15:28:45+00:00",
+      "url": "https://www.engineering.com/binder-adds-hex-design-to-shielded-m12-connectors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Vectorworks Architect 2026 named Architizer finalist",
       "category": "MECHANICAL",
       "date": "2026-05-05T13:10:08+00:00",
@@ -6650,5 +6666,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-05T13:58:46.078128+00:00"
+  "last_updated_utc": "2026-05-05T19:23:36.676839+00:00"
 }
