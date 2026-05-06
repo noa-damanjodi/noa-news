@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "PTC launches Windchill AI Assistant for easier PLM insights",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T19:19:14+00:00",
+      "url": "https://www.engineering.com/ptc-launches-windchill-ai-assistant-for-easier-plm-insights/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Concepts NREC updates Agile Engineering Design System",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T15:22:48+00:00",
+      "url": "https://www.engineering.com/concepts-nrec-updates-agile-engineering-design-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hamilton Medical adopts PTC Codebeamer ALM",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T15:09:13+00:00",
+      "url": "https://www.engineering.com/hamilton-medical-adopts-ptc-codebeamer-alm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Why the mission matters for engineers at this Top Workplace",
       "category": "MECHANICAL",
       "date": "2026-05-06T13:00:00+00:00",
@@ -6722,5 +6746,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-06T14:17:50.023209+00:00"
+  "last_updated_utc": "2026-05-06T19:47:55.749704+00:00"
 }

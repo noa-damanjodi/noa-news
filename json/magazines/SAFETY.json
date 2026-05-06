@@ -2,6 +2,30 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Could your office layout contribute to workplace bullying?",
+      "category": "SAFETY",
+      "date": "2026-05-06T18:05:40+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/could-your-office-layout-contribute-to-workplace-bulling/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EPA to move forward on risk management regulations for 1,2-dichloroethane",
+      "category": "SAFETY",
+      "date": "2026-05-06T16:38:51+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/epa-to-move-forward-on-risk-management-regulations-for-12-dichloroethane/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "FMCSA to study trucker schedules and fatigue",
+      "category": "SAFETY",
+      "date": "2026-05-06T16:27:00+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fmcsa-to-study-trucker-schedules-and-fatigue/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Lawmakers urge HHS to clear ‘barriers’ to alternative DOT drug testing methods",
       "category": "SAFETY",
       "date": "2026-05-05T16:53:21+00:00",
@@ -2026,5 +2050,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-06T14:17:50.023209+00:00"
+  "last_updated_utc": "2026-05-06T19:47:55.749704+00:00"
 }

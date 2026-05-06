@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "APMA and Hanwha announce conditional joint venture to manufacture military vehicles in Canada",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-06T19:19:36+00:00",
+      "url": "https://www.automationmag.com/apma-and-hanwha-announce-conditional-joint-venture-to-manufacture-military-vehicles-in-canada/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC launches Windchill AI Assistant for easier PLM insights",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T19:19:14+00:00",
+      "url": "https://www.engineering.com/ptc-launches-windchill-ai-assistant-for-easier-plm-insights/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Could your office layout contribute to workplace bullying?",
+      "category": "SAFETY",
+      "date": "2026-05-06T18:05:40+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/could-your-office-layout-contribute-to-workplace-bulling/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Stonepeak, Bernhard look to nab a regulated utility in latest acquisition",
+      "category": "RENEWABLE",
+      "date": "2026-05-06T17:40:31+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/stonepeak-bernhard-look-to-nab-a-regulated-utility-in-latest-acquisition/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "EPA to move forward on risk management regulations for 1,2-dichloroethane",
+      "category": "SAFETY",
+      "date": "2026-05-06T16:38:51+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/epa-to-move-forward-on-risk-management-regulations-for-12-dichloroethane/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "FMCSA to study trucker schedules and fatigue",
+      "category": "SAFETY",
+      "date": "2026-05-06T16:27:00+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fmcsa-to-study-trucker-schedules-and-fatigue/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Balluff Inc. introduces 25GigE industrial camera family",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-06T16:21:52+00:00",
+      "url": "https://www.automationmag.com/balluff-inc-introduces-25gige-industrial-camera-family/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "The EDAM is live. What’s the EDAM again?",
+      "category": "RENEWABLE",
+      "date": "2026-05-06T16:06:02+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/the-edam-is-live-whats-the-edam-again/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Alliance Sensors Group launches LZ-19 Series LVIT Linear Position Sensors",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-06T15:27:53+00:00",
+      "url": "https://www.automationmag.com/alliance-sensors-group-launches-lz-19-series-lvit-linear-position-sensors/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Concepts NREC updates Agile Engineering Design System",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T15:22:48+00:00",
+      "url": "https://www.engineering.com/concepts-nrec-updates-agile-engineering-design-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hamilton Medical adopts PTC Codebeamer ALM",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T15:09:13+00:00",
+      "url": "https://www.engineering.com/hamilton-medical-adopts-ptc-codebeamer-alm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Powering the next wave of utility innovation with improved communication networks",
       "category": "RENEWABLE",
       "date": "2026-05-06T13:00:32+00:00",
@@ -15,6 +103,14 @@
       "date": "2026-05-06T13:00:00+00:00",
       "url": "https://www.engineering.com/why-the-mission-matters-for-engineers-at-this-top-workplace/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Zanaga Iron Ore confirms positive DRI plant costing outcomes",
+      "category": "INDUSTRY",
+      "date": "2026-05-06T12:53:04+00:00",
+      "url": "https://www.mining-technology.com/news/zanaga-iron-ore-positive-dri-plant-costing/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -23986,5 +24082,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-06T14:17:50.023209+00:00"
+  "last_updated_utc": "2026-05-06T19:47:55.749704+00:00"
 }

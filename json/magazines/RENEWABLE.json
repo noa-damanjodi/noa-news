@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Stonepeak, Bernhard look to nab a regulated utility in latest acquisition",
+      "category": "RENEWABLE",
+      "date": "2026-05-06T17:40:31+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/stonepeak-bernhard-look-to-nab-a-regulated-utility-in-latest-acquisition/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "The EDAM is live. What’s the EDAM again?",
+      "category": "RENEWABLE",
+      "date": "2026-05-06T16:06:02+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/the-edam-is-live-whats-the-edam-again/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Powering the next wave of utility innovation with improved communication networks",
       "category": "RENEWABLE",
       "date": "2026-05-06T13:00:32+00:00",
@@ -1898,5 +1914,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-06T14:17:50.023209+00:00"
+  "last_updated_utc": "2026-05-06T19:47:55.749704+00:00"
 }

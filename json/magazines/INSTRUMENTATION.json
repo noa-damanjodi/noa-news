@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "APMA and Hanwha announce conditional joint venture to manufacture military vehicles in Canada",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-06T19:19:36+00:00",
+      "url": "https://www.automationmag.com/apma-and-hanwha-announce-conditional-joint-venture-to-manufacture-military-vehicles-in-canada/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Balluff Inc. introduces 25GigE industrial camera family",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-06T16:21:52+00:00",
+      "url": "https://www.automationmag.com/balluff-inc-introduces-25gige-industrial-camera-family/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Alliance Sensors Group launches LZ-19 Series LVIT Linear Position Sensors",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-06T15:27:53+00:00",
+      "url": "https://www.automationmag.com/alliance-sensors-group-launches-lz-19-series-lvit-linear-position-sensors/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Tech Chat: Leo Sanchez, Machine Safety Business Development Manager, Wieland",
       "category": "INSTRUMENTATION",
       "date": "2026-05-05T19:42:17+00:00",
@@ -1642,5 +1666,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-06T14:17:50.023209+00:00"
+  "last_updated_utc": "2026-05-06T19:47:55.749704+00:00"
 }
