@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "33DPQ – Arvind Rangarajan",
+      "category": "MECHANICAL",
+      "date": "2026-05-05T20:22:16+00:00",
+      "url": "https://www.engineering.com/33dpq-arvind-rangarajan/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Tech Chat: Leo Sanchez, Machine Safety Business Development Manager, Wieland",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-05T19:42:17+00:00",
+      "url": "https://www.automationmag.com/tech-chat-leo-sanchez-machine-safety-business-development-manager-wieland/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Inside Siemens’ AI factory bet",
       "category": "MECHANICAL",
       "date": "2026-05-05T18:09:08+00:00",
@@ -23770,5 +23786,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-05T19:23:36.676839+00:00"
+  "last_updated_utc": "2026-05-06T03:22:06.883056+00:00"
 }
