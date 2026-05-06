@@ -2,6 +2,70 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "ANM confirms nine deaths in Sutatausa mine explosion",
+      "category": "INDUSTRY",
+      "date": "2026-05-06T12:37:32+00:00",
+      "url": "https://www.mining-technology.com/news/anm-nine-deaths-sutatausa-mine-explosion/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Two fatalities reported in Kazzinc plant explosion",
+      "category": "INDUSTRY",
+      "date": "2026-05-06T09:43:35+00:00",
+      "url": "https://www.mining-technology.com/news/two-fatalities-kazzinc-plant-explosion/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Eagle Nuclear starts permitting work ahead of Aurora uranium PFS drilling",
+      "category": "INDUSTRY",
+      "date": "2026-05-06T09:39:40+00:00",
+      "url": "https://www.mining-technology.com/news/eagle-nuclear-starts-permitting-work-ahead-of-aurora-uranium-pfs-drilling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Powering data centers: What the AI boom means for power distribution",
+      "category": "INDUSTRY",
+      "date": "2026-05-06T08:25:33+00:00",
+      "url": "https://www.mining-technology.com/sponsored/powering-data-centers-what-the-ai-boom-means-for-power-distribution/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "General Copper Gold to acquire 80% stake in Namibian licence",
+      "category": "INDUSTRY",
+      "date": "2026-05-06T07:40:56+00:00",
+      "url": "https://www.mining-technology.com/news/general-copper-gold-stake-namibian-license/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Premier1 to begin RC drilling at Rochefort gold prospect",
+      "category": "INDUSTRY",
+      "date": "2026-05-06T07:29:59+00:00",
+      "url": "https://www.mining-technology.com/news/premier1-rc-drilling-rochefort-gold-prospect/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NOAA says deep-sea mining “not going to wait” for environmental impact certainty",
+      "category": "INDUSTRY",
+      "date": "2026-05-05T17:15:43+00:00",
+      "url": "https://www.mining-technology.com/news/noaa-says-deep-sea-mining-not-going-to-wait-for-environmental-impact-certainty-2/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NOAA says deep-sea mining “not going to wait” for environmental impact certainty",
+      "category": "INDUSTRY",
+      "date": "2026-05-05T17:15:43+00:00",
+      "url": "https://www.mining-technology.com/news/noaa-says-deep-sea-mining-not-going-to-wait-for-environmental-impact-certainty/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "New episode: Turning tailings into assets, Q&A with Canada’s MICA",
       "category": "INDUSTRY",
       "date": "2026-05-05T17:12:17+00:00",
@@ -3986,5 +4050,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-06T03:22:06.883056+00:00"
+  "last_updated_utc": "2026-05-06T14:17:50.023209+00:00"
 }

@@ -2,6 +2,190 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Powering the next wave of utility innovation with improved communication networks",
+      "category": "RENEWABLE",
+      "date": "2026-05-06T13:00:32+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/powering-the-next-wave-of-utility-innovation-with-improved-communication-networks/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Why the mission matters for engineers at this Top Workplace",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T13:00:00+00:00",
+      "url": "https://www.engineering.com/why-the-mission-matters-for-engineers-at-this-top-workplace/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ANM confirms nine deaths in Sutatausa mine explosion",
+      "category": "INDUSTRY",
+      "date": "2026-05-06T12:37:32+00:00",
+      "url": "https://www.mining-technology.com/news/anm-nine-deaths-sutatausa-mine-explosion/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Cognex launches In-Sight 3900 vision system",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T11:36:38+00:00",
+      "url": "https://www.engineering.com/cognex-launches-in-sight-3900-vision-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Okuma names Morris Group distributor of the year",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T11:29:43+00:00",
+      "url": "https://www.engineering.com/okuma-names-morris-group-distributor-of-the-year/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Edwards Garment selects Centric PLM for development",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T11:15:35+00:00",
+      "url": "https://www.engineering.com/edwards-garment-selects-centric-plm-for-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Quantinuum, BMW extend quantum materials partnership",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T10:05:49+00:00",
+      "url": "https://www.engineering.com/quantinuum-bmw-extend-quantum-materials-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Two fatalities reported in Kazzinc plant explosion",
+      "category": "INDUSTRY",
+      "date": "2026-05-06T09:43:35+00:00",
+      "url": "https://www.mining-technology.com/news/two-fatalities-kazzinc-plant-explosion/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Transoft Solutions acquires CADaptor Solutions",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T09:42:47+00:00",
+      "url": "https://www.engineering.com/transoft-solutions-acquires-cadaptor-solutions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Eagle Nuclear starts permitting work ahead of Aurora uranium PFS drilling",
+      "category": "INDUSTRY",
+      "date": "2026-05-06T09:39:40+00:00",
+      "url": "https://www.mining-technology.com/news/eagle-nuclear-starts-permitting-work-ahead-of-aurora-uranium-pfs-drilling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Powering data centers: What the AI boom means for power distribution",
+      "category": "INDUSTRY",
+      "date": "2026-05-06T08:25:33+00:00",
+      "url": "https://www.mining-technology.com/sponsored/powering-data-centers-what-the-ai-boom-means-for-power-distribution/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "General Copper Gold to acquire 80% stake in Namibian licence",
+      "category": "INDUSTRY",
+      "date": "2026-05-06T07:40:56+00:00",
+      "url": "https://www.mining-technology.com/news/general-copper-gold-stake-namibian-license/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "“For us, it’s about engineering reliability at scale – powering over 9.1 GW of renewable energy while continuing to step up for what’s next.”",
+      "category": "POWER",
+      "date": "2026-05-06T07:36:51+00:00",
+      "url": "https://powerline.net.in/2026/05/06/overview-of-manufacturing-operations/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Premier1 to begin RC drilling at Rochefort gold prospect",
+      "category": "INDUSTRY",
+      "date": "2026-05-06T07:29:59+00:00",
+      "url": "https://www.mining-technology.com/news/premier1-rc-drilling-rochefort-gold-prospect/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Sandeep Narang Partner – Strategy and Transactions, EY",
+      "category": "POWER",
+      "date": "2026-05-06T06:27:05+00:00",
+      "url": "https://powerline.net.in/2026/05/06/sandeep-narang-partner-strategy-and-transactions-ey/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "CERC issues staff paper on capacity market for electricity in India",
+      "category": "POWER",
+      "date": "2026-05-06T05:47:31+00:00",
+      "url": "https://powerline.net.in/2026/05/06/cerc-issues-staff-paper-on-capacity-market-for-electricity-in-india/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NTPC declares commercial operation of 100 MW at Ramagundam solar project",
+      "category": "POWER",
+      "date": "2026-05-06T05:46:13+00:00",
+      "url": "https://powerline.net.in/2026/05/06/ntpc-declares-commercial-operation-of-100-mw-at-ramagundam-solar-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bajel Projects secures 500 kV OHTL contracts in MENA region",
+      "category": "POWER",
+      "date": "2026-05-06T05:45:06+00:00",
+      "url": "https://powerline.net.in/2026/05/06/bajel-projects-secures-500-kv-ohtl-contracts-in-mena-region/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ReNew to set up 6.5 GW solar ingot-wafer facility in Andhra Pradesh",
+      "category": "POWER",
+      "date": "2026-05-06T05:43:47+00:00",
+      "url": "https://powerline.net.in/2026/05/06/renew-to-set-up-6-5-gw-solar-ingot-wafer-facility-in-andhra-pradesh/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BHEL reports Rs 16 billion net profit in 2025-26",
+      "category": "POWER",
+      "date": "2026-05-06T05:40:37+00:00",
+      "url": "https://powerline.net.in/2026/05/06/bhel-reports-rs-16-billion-net-profit-in-2025-26/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "IFC and Norfund commit $83.2 million financing for solar mini-grids in Nigeria",
+      "category": "POWER",
+      "date": "2026-05-06T05:37:59+00:00",
+      "url": "https://powerline.net.in/2026/05/06/ifc-and-norfund-commit-83-2-million-financing-for-solar-mini-grids-in-nigeria/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EDF Renewables achieves financial closure for 265 MW solar project in Israel",
+      "category": "POWER",
+      "date": "2026-05-06T05:10:43+00:00",
+      "url": "https://powerline.net.in/2026/05/06/edf-renewables-achieves-financial-closure-for-265-mw-solar-project-in-israel/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Revising the Framework: Implications of the Electricity (Amendment) Rules, 2026 for captive users",
+      "category": "POWER",
+      "date": "2026-05-06T04:54:15+00:00",
+      "url": "https://powerline.net.in/2026/05/06/revising-the-framework-implications-of-the-electricity-amendment-rules-2026-for-captive-users/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "33DPQ – Arvind Rangarajan",
       "category": "MECHANICAL",
       "date": "2026-05-05T20:22:16+00:00",
@@ -31,6 +215,22 @@
       "date": "2026-05-05T17:21:28+00:00",
       "url": "https://www.automationmag.com/advancing-plant-wide-connectivity/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "NOAA says deep-sea mining “not going to wait” for environmental impact certainty",
+      "category": "INDUSTRY",
+      "date": "2026-05-05T17:15:43+00:00",
+      "url": "https://www.mining-technology.com/news/noaa-says-deep-sea-mining-not-going-to-wait-for-environmental-impact-certainty-2/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NOAA says deep-sea mining “not going to wait” for environmental impact certainty",
+      "category": "INDUSTRY",
+      "date": "2026-05-05T17:15:43+00:00",
+      "url": "https://www.mining-technology.com/news/noaa-says-deep-sea-mining-not-going-to-wait-for-environmental-impact-certainty/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -23786,5 +23986,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-06T03:22:06.883056+00:00"
+  "last_updated_utc": "2026-05-06T14:17:50.023209+00:00"
 }

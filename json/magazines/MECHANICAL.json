@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Why the mission matters for engineers at this Top Workplace",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T13:00:00+00:00",
+      "url": "https://www.engineering.com/why-the-mission-matters-for-engineers-at-this-top-workplace/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cognex launches In-Sight 3900 vision system",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T11:36:38+00:00",
+      "url": "https://www.engineering.com/cognex-launches-in-sight-3900-vision-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Okuma names Morris Group distributor of the year",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T11:29:43+00:00",
+      "url": "https://www.engineering.com/okuma-names-morris-group-distributor-of-the-year/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Edwards Garment selects Centric PLM for development",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T11:15:35+00:00",
+      "url": "https://www.engineering.com/edwards-garment-selects-centric-plm-for-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Quantinuum, BMW extend quantum materials partnership",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T10:05:49+00:00",
+      "url": "https://www.engineering.com/quantinuum-bmw-extend-quantum-materials-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Transoft Solutions acquires CADaptor Solutions",
+      "category": "MECHANICAL",
+      "date": "2026-05-06T09:42:47+00:00",
+      "url": "https://www.engineering.com/transoft-solutions-acquires-cadaptor-solutions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "33DPQ – Arvind Rangarajan",
       "category": "MECHANICAL",
       "date": "2026-05-05T20:22:16+00:00",
@@ -6674,5 +6722,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-06T03:22:06.883056+00:00"
+  "last_updated_utc": "2026-05-06T14:17:50.023209+00:00"
 }
