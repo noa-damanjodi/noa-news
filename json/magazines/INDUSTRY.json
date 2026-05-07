@@ -2,6 +2,46 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Tharisa awards underground contract to Cementation Africa",
+      "category": "INDUSTRY",
+      "date": "2026-05-07T12:29:13+00:00",
+      "url": "https://www.mining-technology.com/news/tharisa-awards-underground-contract-cementation-africa/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Trafigura to build new aluminium smelter in Egypt",
+      "category": "INDUSTRY",
+      "date": "2026-05-07T12:14:34+00:00",
+      "url": "https://www.mining-technology.com/news/trafigura-to-build-aluminium-smelter-egypt/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Gold Reserve launches American Heralds in the US",
+      "category": "INDUSTRY",
+      "date": "2026-05-07T10:41:04+00:00",
+      "url": "https://www.mining-technology.com/news/gold-reserve-launches-american-heralds/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Automation and FIFO: changing roles in Australia’s remote mines",
+      "category": "INDUSTRY",
+      "date": "2026-05-07T08:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/automation-and-fifo-australia-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Arizona Eagle reports results from Eagle project drilling",
+      "category": "INDUSTRY",
+      "date": "2026-05-07T07:33:44+00:00",
+      "url": "https://www.mining-technology.com/news/arizona-eagle-results-eagle-project-drilling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "CoTec, Copper Intelligence to form copper tailings JV",
       "category": "INDUSTRY",
       "date": "2026-05-07T07:22:22+00:00",
@@ -4066,5 +4106,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-07T08:35:49.139565+00:00"
+  "last_updated_utc": "2026-05-07T14:13:35.798393+00:00"
 }
