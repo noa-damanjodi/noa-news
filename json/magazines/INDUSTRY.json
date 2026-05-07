@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "CoTec, Copper Intelligence to form copper tailings JV",
+      "category": "INDUSTRY",
+      "date": "2026-05-07T07:22:22+00:00",
+      "url": "https://www.mining-technology.com/news/cotec-copper-intelligence-copper-tailings-jv/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Zanaga Iron Ore confirms positive DRI plant costing outcomes",
       "category": "INDUSTRY",
       "date": "2026-05-06T12:53:04+00:00",
@@ -4058,5 +4066,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-07T03:23:13.072932+00:00"
+  "last_updated_utc": "2026-05-07T08:35:49.139565+00:00"
 }
