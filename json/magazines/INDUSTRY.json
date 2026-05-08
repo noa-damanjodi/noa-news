@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "EGA partners with ADNOC to boost aluminium supply chain",
+      "category": "INDUSTRY",
+      "date": "2026-05-08T12:49:05+00:00",
+      "url": "https://www.mining-technology.com/news/ega-partners-adnoc-aluminium-supply-chain/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Huayou agrees to acquire Atlantic Lithium",
+      "category": "INDUSTRY",
+      "date": "2026-05-08T10:02:25+00:00",
+      "url": "https://www.mining-technology.com/news/huayou-agrees-to-acquire-atlantic-lithium/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Silver Storm mobilises contractors at La Parrilla mine",
+      "category": "INDUSTRY",
+      "date": "2026-05-08T07:37:52+00:00",
+      "url": "https://www.mining-technology.com/news/silver-storm-mobilises-contractors-at-la-parrilla/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "American Pacific unveils assay results from Madison project",
+      "category": "INDUSTRY",
+      "date": "2026-05-08T07:30:39+00:00",
+      "url": "https://www.mining-technology.com/news/american-pacific-assay-results-madison-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Pebble sorting gains traction as miners target grinding circuit inefficiencies",
       "category": "INDUSTRY",
       "date": "2026-05-07T12:44:47+00:00",
@@ -4114,5 +4146,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-08T07:44:11.353188+00:00"
+  "last_updated_utc": "2026-05-08T13:53:10.963012+00:00"
 }
