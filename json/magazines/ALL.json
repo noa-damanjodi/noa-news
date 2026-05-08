@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "What is ‘Premium Content’ on Mining Technology?",
+      "category": "INDUSTRY",
+      "date": "2026-05-08T16:47:48+00:00",
+      "url": "https://www.mining-technology.com/news/what-is-premium-content-on-mining-technology/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Injuries are becoming ‘more complex,’ workers’ comp claims show",
+      "category": "SAFETY",
+      "date": "2026-05-08T15:45:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/injuries-are-becoming-more-complex-workers-comp-claims-show/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New California DMV regs permit large driverless trucks",
+      "category": "SAFETY",
+      "date": "2026-05-08T15:40:23+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-california-dmv-regs-permit-large-driverless-trucks/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "How G&W is redefining reliability through purpose-built design",
+      "category": "RENEWABLE",
+      "date": "2026-05-08T13:39:24+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/how-gw-is-redefining-reliability-through-purpose-built-design/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "New products from Hubbell designed to redefine grid modernization efforts for utilities",
+      "category": "RENEWABLE",
+      "date": "2026-05-08T13:34:54+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/new-products-from-hubbell-redefine-grid-modernization/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Rolls-Royce to test hybrid trucks for mining operations",
+      "category": "INDUSTRY",
+      "date": "2026-05-08T13:12:14+00:00",
+      "url": "https://www.mining-technology.com/news/rolls-royce-test-hybrid-trucks-mining-operations/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "The engineers behind the best lasers in the world",
       "category": "MECHANICAL",
       "date": "2026-05-08T13:00:00+00:00",
@@ -178,7 +226,7 @@
       "type": "magazine"
     },
     {
-      "title": "As the NSC Safety Summit kicks off, a retired Air Force officer emphasizes the importance of trust",
+      "title": "Technology, transformation and trust take center stage at NSC Safety Summit",
       "category": "SAFETY",
       "date": "2026-05-07T16:25:39+00:00",
       "url": "https://www.safetyandhealthmagazine.com/as-nsc-safety-summit-kicks-off-retired-air-force-officer-emphasizes-importance-of-trust/",
@@ -24466,5 +24514,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-08T13:53:10.963012+00:00"
+  "last_updated_utc": "2026-05-08T19:20:42.718929+00:00"
 }

@@ -2,6 +2,22 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Injuries are becoming ‘more complex,’ workers’ comp claims show",
+      "category": "SAFETY",
+      "date": "2026-05-08T15:45:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/injuries-are-becoming-more-complex-workers-comp-claims-show/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New California DMV regs permit large driverless trucks",
+      "category": "SAFETY",
+      "date": "2026-05-08T15:40:23+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-california-dmv-regs-permit-large-driverless-trucks/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "NSC presents UL Solutions with 2026 Robert W. Campbell Award",
       "category": "SAFETY",
       "date": "2026-05-07T18:17:41+00:00",
@@ -10,7 +26,7 @@
       "type": "magazine"
     },
     {
-      "title": "As the NSC Safety Summit kicks off, a retired Air Force officer emphasizes the importance of trust",
+      "title": "Technology, transformation and trust take center stage at NSC Safety Summit",
       "category": "SAFETY",
       "date": "2026-05-07T16:25:39+00:00",
       "url": "https://www.safetyandhealthmagazine.com/as-nsc-safety-summit-kicks-off-retired-air-force-officer-emphasizes-importance-of-trust/",
@@ -2074,5 +2090,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-08T13:53:10.963012+00:00"
+  "last_updated_utc": "2026-05-08T19:20:42.718929+00:00"
 }

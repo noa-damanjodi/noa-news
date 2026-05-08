@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "How G&W is redefining reliability through purpose-built design",
+      "category": "RENEWABLE",
+      "date": "2026-05-08T13:39:24+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/how-gw-is-redefining-reliability-through-purpose-built-design/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "New products from Hubbell designed to redefine grid modernization efforts for utilities",
+      "category": "RENEWABLE",
+      "date": "2026-05-08T13:34:54+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/new-products-from-hubbell-redefine-grid-modernization/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Can Ford revive its struggling EV program? – This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-05-08T10:00:00+00:00",
@@ -1954,5 +1970,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-08T13:53:10.963012+00:00"
+  "last_updated_utc": "2026-05-08T19:20:42.718929+00:00"
 }
