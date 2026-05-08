@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "CERC releases discussion paper proposing shorter scheduling timeline for RTM",
+      "category": "POWER",
+      "date": "2026-05-08T06:05:49+00:00",
+      "url": "https://powerline.net.in/2026/05/08/cerc-releases-discussion-paper-proposing-shorter-scheduling-timeline-for-rtm/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "CEA releases report on insulator failures in transmission lines",
+      "category": "POWER",
+      "date": "2026-05-08T06:04:41+00:00",
+      "url": "https://powerline.net.in/2026/05/08/cea-releases-report-on-insulator-failures-in-transmission-lines/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Apple and CleanMax to invest Rs 1 billion in renewable capacity expansion in India",
+      "category": "POWER",
+      "date": "2026-05-08T06:03:47+00:00",
+      "url": "https://powerline.net.in/2026/05/08/apple-and-cleanmax-to-invest-rs-1-billion-in-renewable-capacity-expansion-in-india/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "RECPDCL invites bids for transmission projects to evacuate 21.5 GW renewable energy in Gujarat",
+      "category": "POWER",
+      "date": "2026-05-08T06:02:37+00:00",
+      "url": "https://powerline.net.in/2026/05/08/recpdcl-invites-bids-for-transmission-projects-to-evacuate-21-5-gw-renewable-energy-in-gujarat/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Philippine province rolls out solar rooftop campaign in tie-up with ACEN, GCash",
+      "category": "POWER",
+      "date": "2026-05-08T06:01:02+00:00",
+      "url": "https://powerline.net.in/2026/05/08/philippine-province-rolls-out-solar-rooftop-campaign-in-tie-up-with-acen-gcash/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Fugro secures geotechnical contract for Taiwan’s 600 MW FengMiao II offshore wind farm",
+      "category": "POWER",
+      "date": "2026-05-08T05:59:43+00:00",
+      "url": "https://powerline.net.in/2026/05/08/fugro-secures-geotechnical-contract-for-taiwans-600-mw-fengmiao-ii-offshore-wind-farm/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Could this privately funded bill assistance program be the key to lower payments?",
       "category": "RENEWABLE",
       "date": "2026-05-07T18:32:40+00:00",
@@ -39,6 +87,14 @@
       "date": "2026-05-07T13:06:55+00:00",
       "url": "https://www.renewableenergyworld.com/power-grid/affordability-and-reliability-define-the-data-center-wave/",
       "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Pebble sorting gains traction as miners target grinding circuit inefficiencies",
+      "category": "INDUSTRY",
+      "date": "2026-05-07T12:44:47+00:00",
+      "url": "https://www.mining-technology.com/sponsored/pebble-sorting-gains-traction-as-miners-target-grinding-circuit-inefficiencies/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -24306,5 +24362,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-08T03:20:28.567796+00:00"
+  "last_updated_utc": "2026-05-08T07:44:11.353188+00:00"
 }
