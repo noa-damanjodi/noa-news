@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Small construction companies make safety gains, but still have room to improve: report",
+      "category": "SAFETY",
+      "date": "2026-05-11T17:53:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/small-construction-companies-make-safety-gains-but-still-have-room-to-improve-report/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Delayed again: provisions of EPA trichlorethylene ban",
+      "category": "SAFETY",
+      "date": "2026-05-11T17:20:03+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/delayed-again-provisions-of-epa-trichlorethylene-ban/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "‘Safety Break’: Oregon OSHA’s annual stand-down is this week",
+      "category": "SAFETY",
+      "date": "2026-05-11T17:14:34+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safety-break-oregon-oshas-annual-stand-down-is-this-week/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Allient Inc. elects Alex Collichio as vice president",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-11T17:00:09+00:00",
+      "url": "https://www.automationmag.com/allient-inc-elects-alex-collichio-as-vice-president/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "COMAU and Omron collaborating to expand industrial automation solutions across light industry, electronics and medical manufacturing",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-11T15:20:08+00:00",
+      "url": "https://www.automationmag.com/comau-and-omron-collaborating-to-expand-industrial-automation-solutions-across-light-industry-electronics-and-medical-manufacturing/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Emerson introduces AspenTech AVA AI platform",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-11T15:02:51+00:00",
+      "url": "https://www.automationmag.com/emerson-introduces-aspentech-ava-ai-platform/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Robots for America launches national coalition to advance U.S. robotics deployment policy",
       "category": "INSTRUMENTATION",
       "date": "2026-05-11T14:38:54+00:00",
@@ -15,6 +63,22 @@
       "date": "2026-05-11T13:49:43+00:00",
       "url": "https://www.renewableenergyworld.com/power-grid/distribution/how-sc-is-embedding-intelligence-into-the-distribution-grid/",
       "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Power Minerals to begin drilling at Morro do Ferro Project in Brazil",
+      "category": "INDUSTRY",
+      "date": "2026-05-11T13:10:20+00:00",
+      "url": "https://www.mining-technology.com/news/power-minerals-drilling-morro-do-ferro-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Larvotto identifies tungsten opportunities at Curry’s Block prospect",
+      "category": "INDUSTRY",
+      "date": "2026-05-11T13:02:27+00:00",
+      "url": "https://www.mining-technology.com/news/larvotto-tungsten-opportunities-currys-block/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -24746,5 +24810,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-11T14:57:07.498639+00:00"
+  "last_updated_utc": "2026-05-11T19:49:57.490176+00:00"
 }
