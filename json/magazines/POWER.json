@@ -2,6 +2,30 @@
   "category": "POWER",
   "items": [
     {
+      "title": "Transformer Failure: Trends, causes and mitigation strategies",
+      "category": "POWER",
+      "date": "2026-05-11T11:04:08+00:00",
+      "url": "https://powerline.net.in/2026/05/11/transformer-failure-trends-causes-and-mitigation-strategies/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Powering Change: Systemic foundations of India’s energy transition",
+      "category": "POWER",
+      "date": "2026-05-11T10:33:02+00:00",
+      "url": "https://powerline.net.in/2026/05/11/powering-change-systemic-foundations-of-indias-energy-transition-2/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Change in the Making: Growing role of women in the energy transition",
+      "category": "POWER",
+      "date": "2026-05-11T09:48:30+00:00",
+      "url": "https://powerline.net.in/2026/05/11/change-in-the-making-growing-role-of-women-in-the-energy-transition/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Plant Upgrades: Initiatives to revive existing hydro fleets",
       "category": "POWER",
       "date": "2026-05-11T08:44:24+00:00",
@@ -6242,5 +6266,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-11T09:42:04.282735+00:00"
+  "last_updated_utc": "2026-05-11T14:57:07.498639+00:00"
 }

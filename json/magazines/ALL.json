@@ -2,6 +2,142 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Robots for America launches national coalition to advance U.S. robotics deployment policy",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-11T14:38:54+00:00",
+      "url": "https://www.automationmag.com/robots-for-america-launches-national-coalition-to-advance-u-s-robotics-deployment-policy/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "How S&C is embedding distributed intelligence to support grid resilience and reliability",
+      "category": "RENEWABLE",
+      "date": "2026-05-11T13:49:43+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/distribution/how-sc-is-embedding-intelligence-into-the-distribution-grid/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "When engineering feels like a choose-your-own-adventure novel",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T13:00:00+00:00",
+      "url": "https://www.engineering.com/when-engineering-feels-like-a-choose-your-own-adventure-novel/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Solibri launches Security+ for air-gapped BIM workflows",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T11:51:00+00:00",
+      "url": "https://www.engineering.com/solibri-launches-security-for-air-gapped-bim-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sindan and LEAP 71 partner on aerospace development",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T11:44:52+00:00",
+      "url": "https://www.engineering.com/sindan-and-leap-71-partner-on-aerospace-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Transformer Failure: Trends, causes and mitigation strategies",
+      "category": "POWER",
+      "date": "2026-05-11T11:04:08+00:00",
+      "url": "https://powerline.net.in/2026/05/11/transformer-failure-trends-causes-and-mitigation-strategies/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Those damn data centers | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-05-11T10:58:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/energy-finance/those-damn-data-centers-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens partners with Xometry on sourcing integration",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T10:55:10+00:00",
+      "url": "https://www.engineering.com/siemens-partners-with-xometry-on-sourcing-integration/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AVEVA plans Cambridge investment for HQ and R&D site",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T10:50:00+00:00",
+      "url": "https://www.engineering.com/aveva-plans-cambridge-investment-for-hq-and-rd-site/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SANY marks 1,000th electric excavator milestone as mining electrification accelerates",
+      "category": "INDUSTRY",
+      "date": "2026-05-11T10:47:08+00:00",
+      "url": "https://www.mining-technology.com/news/sany-marks-1000th-electric-excavator-milestone-as-mining-electrification-accelerates/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ABEC expands process sciences support for biomanufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T10:47:03+00:00",
+      "url": "https://www.engineering.com/abec-expands-process-sciences-support-for-biomanufacturing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DuPont named co-winner of IRI innovation culture award",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T10:42:10+00:00",
+      "url": "https://www.engineering.com/dupont-named-co-winner-of-iri-innovation-culture-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Populous acquires OJB Landscape Architecture",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T10:36:33+00:00",
+      "url": "https://www.engineering.com/populous-acquires-ojb-landscape-architecture-2/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Powering Change: Systemic foundations of India’s energy transition",
+      "category": "POWER",
+      "date": "2026-05-11T10:33:02+00:00",
+      "url": "https://powerline.net.in/2026/05/11/powering-change-systemic-foundations-of-indias-energy-transition-2/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Unionfab expands CNC machining support in North America",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T10:32:24+00:00",
+      "url": "https://www.engineering.com/unionfab-expands-cnc-machining-support-in-north-america/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Change in the Making: Growing role of women in the energy transition",
+      "category": "POWER",
+      "date": "2026-05-11T09:48:30+00:00",
+      "url": "https://powerline.net.in/2026/05/11/change-in-the-making-growing-role-of-women-in-the-energy-transition/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Vault Strategic to acquire Mirage-Mariposa Tungsten Mine",
+      "category": "INDUSTRY",
+      "date": "2026-05-11T09:26:37+00:00",
+      "url": "https://www.mining-technology.com/news/vault-strategic-to-acquire-mirage-mariposa-tungsten-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Plant Upgrades: Initiatives to revive existing hydro fleets",
       "category": "POWER",
       "date": "2026-05-11T08:44:24+00:00",
@@ -24610,5 +24746,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-11T09:42:04.282735+00:00"
+  "last_updated_utc": "2026-05-11T14:57:07.498639+00:00"
 }

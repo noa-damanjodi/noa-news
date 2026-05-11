@@ -2,6 +2,78 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "When engineering feels like a choose-your-own-adventure novel",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T13:00:00+00:00",
+      "url": "https://www.engineering.com/when-engineering-feels-like-a-choose-your-own-adventure-novel/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Solibri launches Security+ for air-gapped BIM workflows",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T11:51:00+00:00",
+      "url": "https://www.engineering.com/solibri-launches-security-for-air-gapped-bim-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sindan and LEAP 71 partner on aerospace development",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T11:44:52+00:00",
+      "url": "https://www.engineering.com/sindan-and-leap-71-partner-on-aerospace-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens partners with Xometry on sourcing integration",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T10:55:10+00:00",
+      "url": "https://www.engineering.com/siemens-partners-with-xometry-on-sourcing-integration/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AVEVA plans Cambridge investment for HQ and R&D site",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T10:50:00+00:00",
+      "url": "https://www.engineering.com/aveva-plans-cambridge-investment-for-hq-and-rd-site/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ABEC expands process sciences support for biomanufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T10:47:03+00:00",
+      "url": "https://www.engineering.com/abec-expands-process-sciences-support-for-biomanufacturing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DuPont named co-winner of IRI innovation culture award",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T10:42:10+00:00",
+      "url": "https://www.engineering.com/dupont-named-co-winner-of-iri-innovation-culture-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Populous acquires OJB Landscape Architecture",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T10:36:33+00:00",
+      "url": "https://www.engineering.com/populous-acquires-ojb-landscape-architecture-2/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Unionfab expands CNC machining support in North America",
+      "category": "MECHANICAL",
+      "date": "2026-05-11T10:32:24+00:00",
+      "url": "https://www.engineering.com/unionfab-expands-cnc-machining-support-in-north-america/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Designing for Oxygen-Enriched Environments Found in Electrolysers",
       "category": "MECHANICAL",
       "date": "2026-05-08T20:48:26+00:00",
@@ -6882,5 +6954,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-11T09:42:04.282735+00:00"
+  "last_updated_utc": "2026-05-11T14:57:07.498639+00:00"
 }
