@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Ivanhoe Electric to buy TBM for Arizona copper project",
+      "category": "INDUSTRY",
+      "date": "2026-05-12T12:54:50+00:00",
+      "url": "https://www.mining-technology.com/news/ivanhoe-electric-to-buy-tbm-arizona-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Copper Quest initiates drilling at Rip Project in British Columbia",
+      "category": "INDUSTRY",
+      "date": "2026-05-12T10:19:46+00:00",
+      "url": "https://www.mining-technology.com/news/copper-quest-initiates-drilling-at-rip-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Labrador Gold to acquire Yukon projects from Pacific Ridge",
+      "category": "INDUSTRY",
+      "date": "2026-05-12T07:36:07+00:00",
+      "url": "https://www.mining-technology.com/news/labrador-gold-to-acquire-yukon-projects/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "American Pacific begins sampling at Nevada’s Ziggurat Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-05-12T07:23:14+00:00",
+      "url": "https://www.mining-technology.com/news/american-pacific-begins-sampling-ziggurat-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Power Minerals to begin drilling at Morro do Ferro Project in Brazil",
       "category": "INDUSTRY",
       "date": "2026-05-11T13:10:20+00:00",
@@ -4226,5 +4258,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-12T08:42:15.735237+00:00"
+  "last_updated_utc": "2026-05-12T14:28:32.700632+00:00"
 }

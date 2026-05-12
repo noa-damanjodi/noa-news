@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "What’s driving the evolution of the utility industry? | Top takeaways from IEEE PES 2026",
+      "category": "RENEWABLE",
+      "date": "2026-05-12T14:17:31+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/evolution-of-the-utility-industry-ieee-pes-2026/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Ivanhoe Electric to buy TBM for Arizona copper project",
+      "category": "INDUSTRY",
+      "date": "2026-05-12T12:54:50+00:00",
+      "url": "https://www.mining-technology.com/news/ivanhoe-electric-to-buy-tbm-arizona-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Copper Quest initiates drilling at Rip Project in British Columbia",
+      "category": "INDUSTRY",
+      "date": "2026-05-12T10:19:46+00:00",
+      "url": "https://www.mining-technology.com/news/copper-quest-initiates-drilling-at-rip-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "6K Energy, CRG Defense partner on battery materials",
+      "category": "MECHANICAL",
+      "date": "2026-05-12T09:57:16+00:00",
+      "url": "https://www.engineering.com/6k-energy-crg-defense-partner-on-battery-materials/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Adlib releases Transform 2026.1 for regulated AI",
+      "category": "MECHANICAL",
+      "date": "2026-05-12T09:43:35+00:00",
+      "url": "https://www.engineering.com/adlib-releases-transform-2026-1-for-regulated-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DYPIU and Dassault to open engineering experience center",
+      "category": "MECHANICAL",
+      "date": "2026-05-12T09:35:48+00:00",
+      "url": "https://www.engineering.com/dypiu-and-dassault-to-open-engineering-experience-center/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Unionfab expands CNC machining support in key markets",
+      "category": "MECHANICAL",
+      "date": "2026-05-12T09:29:54+00:00",
+      "url": "https://www.engineering.com/unionfab-expands-cnc-machining-support-in-key-markets/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cyient Semiconductors launches seven GaN devices in India",
+      "category": "MECHANICAL",
+      "date": "2026-05-12T09:24:07+00:00",
+      "url": "https://www.engineering.com/cyient-semiconductors-launches-seven-gan-devices-in-india/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Labrador Gold to acquire Yukon projects from Pacific Ridge",
+      "category": "INDUSTRY",
+      "date": "2026-05-12T07:36:07+00:00",
+      "url": "https://www.mining-technology.com/news/labrador-gold-to-acquire-yukon-projects/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "American Pacific begins sampling at Nevada’s Ziggurat Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-05-12T07:23:14+00:00",
+      "url": "https://www.mining-technology.com/news/american-pacific-begins-sampling-ziggurat-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "CERC’s Staff Paper on Capacity Market for Electricity in India",
       "category": "POWER",
       "date": "2026-05-12T05:38:54+00:00",
@@ -24930,5 +25010,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-12T08:42:15.735237+00:00"
+  "last_updated_utc": "2026-05-12T14:28:32.700632+00:00"
 }
