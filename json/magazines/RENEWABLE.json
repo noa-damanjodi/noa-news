@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "SEIA names former Minnesota Governor new president and CEO",
+      "category": "RENEWABLE",
+      "date": "2026-05-11T20:10:39+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/seia-names-former-minnesota-governor-new-president-and-ceo/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "More spill, less hydropower: The electric grid tradeoffs Washington can’t ignore",
+      "category": "RENEWABLE",
+      "date": "2026-05-11T19:44:09+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/more-spill-less-hydropower-the-electric-grid-tradeoffs-washington-cant-ignore/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "California, Nevada and Arizona announce temporary plan to save water from the Colorado River",
+      "category": "RENEWABLE",
+      "date": "2026-05-11T16:08:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/california-nevada-and-arizona-announce-temporary-plan-to-save-water-from-the-colorado-river/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "How S&C is embedding distributed intelligence to support grid resilience and reliability",
       "category": "RENEWABLE",
       "date": "2026-05-11T13:49:43+00:00",
@@ -14,6 +38,14 @@
       "category": "RENEWABLE",
       "date": "2026-05-11T10:58:00+00:00",
       "url": "https://www.renewableenergyworld.com/energy-business/energy-finance/those-damn-data-centers-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "It’s time for Alaska to reconsider the Susitna-Watana Hydroelectric Project",
+      "category": "RENEWABLE",
+      "date": "2026-05-08T18:29:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/its-time-for-alaska-to-reconsider-the-susitna-watana-hydroelectric-project/",
       "source": "Factor This™",
       "type": "magazine"
     },
@@ -1986,5 +2018,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-11T19:49:57.490176+00:00"
+  "last_updated_utc": "2026-05-12T03:28:21.483433+00:00"
 }

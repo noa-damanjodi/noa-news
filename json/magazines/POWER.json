@@ -2,6 +2,14 @@
   "category": "POWER",
   "items": [
     {
+      "title": "REC invites EoI for carbon credit verification agencies",
+      "category": "POWER",
+      "date": "2026-05-11T19:55:39+00:00",
+      "url": "https://powerline.net.in/2026/05/11/rec-invites-eoi-for-carbon-credit-verification-agencies/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Transformer Failure: Trends, causes and mitigation strategies",
       "category": "POWER",
       "date": "2026-05-11T11:04:08+00:00",
@@ -6266,5 +6274,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-11T19:49:57.490176+00:00"
+  "last_updated_utc": "2026-05-12T03:28:21.483433+00:00"
 }
