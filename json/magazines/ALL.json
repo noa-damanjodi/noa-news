@@ -2,11 +2,83 @@
   "category": "ALL",
   "items": [
     {
+      "title": "5 Things I love about AMUG",
+      "category": "MECHANICAL",
+      "date": "2026-05-12T19:36:24+00:00",
+      "url": "https://www.engineering.com/5-things-i-love-about-amug/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and Xometry to bring instant quoting, DFM analysis to Designcenter",
+      "category": "MECHANICAL",
+      "date": "2026-05-12T18:00:56+00:00",
+      "url": "https://www.engineering.com/siemens-and-xometry-to-bring-instant-quoting-dfm-analysis-to-designcenter/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Ontario Defence Association reaches 120 members in first two weeks, hosts successful reception at RCMI Library",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-12T17:56:04+00:00",
+      "url": "https://www.automationmag.com/ontario-defence-association-reaches-120-members-in-first-two-weeks-hosts-successful-reception-at-rcmi-library/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "California lawmaker wants state prosecutors to investigate serious workplace incidents",
+      "category": "SAFETY",
+      "date": "2026-05-12T17:38:55+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/california-lawmaker-wants-state-prosecutors-to-investigate-serious-workplace-incidents/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Miner injury rate falls to all-time low, MSHA says",
+      "category": "SAFETY",
+      "date": "2026-05-12T16:16:09+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/msha-mining-injury-rate-falls-to-all-time-low/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA launches ‘safety shout-out’ challenge",
+      "category": "SAFETY",
+      "date": "2026-05-12T16:08:49+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-launches-safety-shout-out-challenge/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "TurboCAD 2026 adds AI tools and CAD workflow updates",
+      "category": "MECHANICAL",
+      "date": "2026-05-12T15:40:12+00:00",
+      "url": "https://www.engineering.com/turbocad-2026-adds-ai-tools-and-cad-workflow-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Robot orders hold steady in Q1 2026, demand broadens across non-automotive industries",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-12T14:46:43+00:00",
+      "url": "https://www.automationmag.com/robot-orders-hold-steady-in-q1-2026-demand-broadens-across-non-automotive-industries/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "What’s driving the evolution of the utility industry? | Top takeaways from IEEE PES 2026",
       "category": "RENEWABLE",
       "date": "2026-05-12T14:17:31+00:00",
       "url": "https://www.renewableenergyworld.com/power-grid/evolution-of-the-utility-industry-ieee-pes-2026/",
       "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "AOMC and Odyssey advance merger with SEC filing",
+      "category": "INDUSTRY",
+      "date": "2026-05-12T13:11:13+00:00",
+      "url": "https://www.mining-technology.com/news/aomc-odyssey-advance-merger-sec-filing/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -25010,5 +25082,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-12T14:28:32.700632+00:00"
+  "last_updated_utc": "2026-05-12T19:55:13.854744+00:00"
 }

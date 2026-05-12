@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "AOMC and Odyssey advance merger with SEC filing",
+      "category": "INDUSTRY",
+      "date": "2026-05-12T13:11:13+00:00",
+      "url": "https://www.mining-technology.com/news/aomc-odyssey-advance-merger-sec-filing/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Ivanhoe Electric to buy TBM for Arizona copper project",
       "category": "INDUSTRY",
       "date": "2026-05-12T12:54:50+00:00",
@@ -4258,5 +4266,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-12T14:28:32.700632+00:00"
+  "last_updated_utc": "2026-05-12T19:55:13.854744+00:00"
 }
