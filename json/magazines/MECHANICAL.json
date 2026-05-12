@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Aeva licenses Cadence DSP for 4D lidar systems",
+      "category": "MECHANICAL",
+      "date": "2026-05-12T05:32:06+00:00",
+      "url": "https://www.engineering.com/aeva-licenses-cadence-dsp-for-4d-lidar-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "When engineering feels like a choose-your-own-adventure novel",
       "category": "MECHANICAL",
       "date": "2026-05-11T13:00:00+00:00",
@@ -6954,5 +6962,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-12T03:28:21.483433+00:00"
+  "last_updated_utc": "2026-05-12T08:42:15.735237+00:00"
 }
