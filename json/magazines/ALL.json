@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Middle East aluminium disruption drives market towards historic deficit",
+      "category": "INDUSTRY",
+      "date": "2026-05-12T23:46:59+00:00",
+      "url": "https://www.mining-technology.com/news/middle-east-aluminium-disruption-drives-market-towards-historic-deficit/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "33DPQ Podcast – Bruce Bradshaw",
+      "category": "MECHANICAL",
+      "date": "2026-05-12T21:14:56+00:00",
+      "url": "https://www.engineering.com/33dpq-podcast-bruce-bradshaw/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Chemical classification",
+      "category": "SAFETY",
+      "date": "2026-05-12T21:12:35+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/chemical-classification/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Amazon turns to geothermal, solar and storage to power Nevada data center growth",
+      "category": "RENEWABLE",
+      "date": "2026-05-12T19:50:54+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/amazon-turns-to-geothermal-solar-and-storage-to-power-nevada-data-center-growth/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Should data centers pay for grid upgrades? Oregon regulators think so",
+      "category": "RENEWABLE",
+      "date": "2026-05-12T19:38:33+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/should-data-centers-pay-for-grid-upgrades-oregon-regulators-think-so/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "5 Things I love about AMUG",
       "category": "MECHANICAL",
       "date": "2026-05-12T19:36:24+00:00",
@@ -63,6 +103,14 @@
       "date": "2026-05-12T14:46:43+00:00",
       "url": "https://www.automationmag.com/robot-orders-hold-steady-in-q1-2026-demand-broadens-across-non-automotive-industries/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "New episode: OTC 2026 – Insights from the ground",
+      "category": "INDUSTRY",
+      "date": "2026-05-12T14:42:13+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-otc-2026/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -25082,5 +25130,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-12T19:55:13.854744+00:00"
+  "last_updated_utc": "2026-05-13T03:36:13.307309+00:00"
 }

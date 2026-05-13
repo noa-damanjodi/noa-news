@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Middle East aluminium disruption drives market towards historic deficit",
+      "category": "INDUSTRY",
+      "date": "2026-05-12T23:46:59+00:00",
+      "url": "https://www.mining-technology.com/news/middle-east-aluminium-disruption-drives-market-towards-historic-deficit/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "New episode: OTC 2026 – Insights from the ground",
+      "category": "INDUSTRY",
+      "date": "2026-05-12T14:42:13+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-otc-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "AOMC and Odyssey advance merger with SEC filing",
       "category": "INDUSTRY",
       "date": "2026-05-12T13:11:13+00:00",
@@ -4266,5 +4282,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-12T19:55:13.854744+00:00"
+  "last_updated_utc": "2026-05-13T03:36:13.307309+00:00"
 }
