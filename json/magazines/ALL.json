@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Great Southern Copper begins drilling at Artemisa North",
+      "category": "INDUSTRY",
+      "date": "2026-05-13T13:17:56+00:00",
+      "url": "https://www.mining-technology.com/news/great-southern-copper-begins-drilling-artemisa-north/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Engineers appreciate working for a company that respects, values and challenges them",
+      "category": "MECHANICAL",
+      "date": "2026-05-13T13:00:00+00:00",
+      "url": "https://www.engineering.com/engineers-appreciate-working-for-a-company-that-respects-values-and-challenges-them/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC connects Onshape and Altium for design collaboration",
+      "category": "MECHANICAL",
+      "date": "2026-05-13T12:30:30+00:00",
+      "url": "https://www.engineering.com/ptc-connects-onshape-and-altium-for-design-collaboration/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Vectorworks adds Morpholio Trace integration",
+      "category": "MECHANICAL",
+      "date": "2026-05-13T12:04:04+00:00",
+      "url": "https://www.engineering.com/vectorworks-adds-morpholio-trace-integration/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Emerson launches AspenTech AVA AI platform",
+      "category": "MECHANICAL",
+      "date": "2026-05-13T11:27:15+00:00",
+      "url": "https://www.engineering.com/emerson-launches-aspentech-ava-ai-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ROE expands digital denture production with NextDent",
+      "category": "MECHANICAL",
+      "date": "2026-05-13T11:15:00+00:00",
+      "url": "https://www.engineering.com/roe-expands-digital-denture-production-with-nextdent/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens joins European Chips Design Platform effort",
+      "category": "MECHANICAL",
+      "date": "2026-05-13T11:13:00+00:00",
+      "url": "https://www.engineering.com/siemens-joins-european-chips-design-platform-effort/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rescale launches agentic digital engineering platform",
+      "category": "MECHANICAL",
+      "date": "2026-05-13T10:56:10+00:00",
+      "url": "https://www.engineering.com/rescale-launches-agentic-digital-engineering-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Forrestania acquires Hyden Gold Project in Australia",
+      "category": "INDUSTRY",
+      "date": "2026-05-13T10:23:54+00:00",
+      "url": "https://www.mining-technology.com/news/forrestania-acquires-hyden-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Graitec earns Bluebeam Sapphire Partner status",
+      "category": "MECHANICAL",
+      "date": "2026-05-13T09:53:55+00:00",
+      "url": "https://www.engineering.com/graitec-earns-bluebeam-sapphire-partner-status/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Zyphra adds 15 MW of AMD MI355X capacity to cloud",
+      "category": "MECHANICAL",
+      "date": "2026-05-13T09:47:17+00:00",
+      "url": "https://www.engineering.com/zyphra-adds-15-mw-of-amd-mi355x-capacity-to-cloud/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lightium chooses Aras to streamline photonic chip development",
+      "category": "MECHANICAL",
+      "date": "2026-05-13T09:37:29+00:00",
+      "url": "https://www.engineering.com/lightium-chooses-aras-to-streamline-photonic-chip-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Freeport expects full output at Grasberg by 2027",
       "category": "INDUSTRY",
       "date": "2026-05-13T07:16:56+00:00",
@@ -14,6 +110,14 @@
       "category": "INDUSTRY",
       "date": "2026-05-13T07:03:13+00:00",
       "url": "https://www.mining-technology.com/news/fortescue-to-compensate-yindjibarndi-cultural-loss/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Can Australia turn cobalt into a viable battery supply chain?",
+      "category": "INDUSTRY",
+      "date": "2026-05-13T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/can-australia-turn-cobalt-into-a-viable-battery-supply-chain/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -25210,5 +25314,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-13T08:46:37.155939+00:00"
+  "last_updated_utc": "2026-05-13T14:38:12.957110+00:00"
 }
