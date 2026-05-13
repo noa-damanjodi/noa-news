@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Freeport expects full output at Grasberg by 2027",
+      "category": "INDUSTRY",
+      "date": "2026-05-13T07:16:56+00:00",
+      "url": "https://www.mining-technology.com/news/freeport-grasberg-full-output-2027/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Fortescue to compensate Yindjibarndi with $108.4m for cultural loss",
+      "category": "INDUSTRY",
+      "date": "2026-05-13T07:03:13+00:00",
+      "url": "https://www.mining-technology.com/news/fortescue-to-compensate-yindjibarndi-cultural-loss/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Middle East aluminium disruption drives market towards historic deficit",
       "category": "INDUSTRY",
       "date": "2026-05-12T23:46:59+00:00",
@@ -4282,5 +4298,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-13T03:36:13.307309+00:00"
+  "last_updated_utc": "2026-05-13T08:46:37.155939+00:00"
 }
