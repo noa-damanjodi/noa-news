@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "PTC expands startup program to all industries",
+      "category": "MECHANICAL",
+      "date": "2026-05-14T12:30:08+00:00",
+      "url": "https://www.engineering.com/ptc-expands-startup-program-to-all-industries/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nemetschek previews AI and collaboration tools",
+      "category": "MECHANICAL",
+      "date": "2026-05-14T12:12:42+00:00",
+      "url": "https://www.engineering.com/nemetschek-previews-ai-and-collaboration-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB signs deal to acquire transformer manufacturer",
+      "category": "MECHANICAL",
+      "date": "2026-05-14T12:07:47+00:00",
+      "url": "https://www.engineering.com/abb-signs-deal-to-acquire-transformer-manufacturer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Uranium supply gains momentum as nuclear energy returns to the spotlight",
+      "category": "INDUSTRY",
+      "date": "2026-05-14T11:16:21+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/uranium-supply-gains-momentum-nuclear-energy/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Kahua launches Noa AI assistant for construction teams",
+      "category": "MECHANICAL",
+      "date": "2026-05-14T10:34:42+00:00",
+      "url": "https://www.engineering.com/kahua-launches-noa-ai-assistant-for-construction-teams/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Oncor selects digital grid management tools",
+      "category": "MECHANICAL",
+      "date": "2026-05-14T10:27:20+00:00",
+      "url": "https://www.engineering.com/oncor-selects-digital-grid-management-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Innoviz signs software deal for on-sensor LiDAR",
+      "category": "MECHANICAL",
+      "date": "2026-05-14T10:20:18+00:00",
+      "url": "https://www.engineering.com/innoviz-signs-software-deal-for-on-sensor-lidar/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SINBON and Nexcellent partner on hydrogen power",
+      "category": "MECHANICAL",
+      "date": "2026-05-14T10:14:18+00:00",
+      "url": "https://www.engineering.com/sinbon-and-nexcellent-partner-on-hydrogen-power/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Core Lithium awards $198.5m contract for BP33 mining project",
+      "category": "INDUSTRY",
+      "date": "2026-05-14T09:56:36+00:00",
+      "url": "https://www.mining-technology.com/news/core-lithium-awards-contract-bp33-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Trafigura, EGC, EVelution to form DRC-US cobalt supply chain",
+      "category": "INDUSTRY",
+      "date": "2026-05-14T07:44:53+00:00",
+      "url": "https://www.mining-technology.com/news/trafigura-egc-evelution-cobalt-supply-chain/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Barminco wins $616m contract for Bellevue Gold Project in WA",
       "category": "INDUSTRY",
       "date": "2026-05-14T07:35:13+00:00",
@@ -25466,5 +25546,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-14T08:39:25.104889+00:00"
+  "last_updated_utc": "2026-05-14T14:17:44.040457+00:00"
 }

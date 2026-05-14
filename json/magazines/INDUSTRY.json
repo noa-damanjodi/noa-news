@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Uranium supply gains momentum as nuclear energy returns to the spotlight",
+      "category": "INDUSTRY",
+      "date": "2026-05-14T11:16:21+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/uranium-supply-gains-momentum-nuclear-energy/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Core Lithium awards $198.5m contract for BP33 mining project",
+      "category": "INDUSTRY",
+      "date": "2026-05-14T09:56:36+00:00",
+      "url": "https://www.mining-technology.com/news/core-lithium-awards-contract-bp33-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Trafigura, EGC, EVelution to form DRC-US cobalt supply chain",
+      "category": "INDUSTRY",
+      "date": "2026-05-14T07:44:53+00:00",
+      "url": "https://www.mining-technology.com/news/trafigura-egc-evelution-cobalt-supply-chain/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Barminco wins $616m contract for Bellevue Gold Project in WA",
       "category": "INDUSTRY",
       "date": "2026-05-14T07:35:13+00:00",
@@ -4346,5 +4370,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-14T08:39:25.104889+00:00"
+  "last_updated_utc": "2026-05-14T14:17:44.040457+00:00"
 }
