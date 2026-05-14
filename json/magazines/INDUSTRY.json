@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Barminco wins $616m contract for Bellevue Gold Project in WA",
+      "category": "INDUSTRY",
+      "date": "2026-05-14T07:35:13+00:00",
+      "url": "https://www.mining-technology.com/news/barminco-616m-contract-bellevue-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Equinox and Orla announce merger to create $18.5bn gold producer",
       "category": "INDUSTRY",
       "date": "2026-05-13T13:57:31+00:00",
@@ -4338,5 +4346,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-14T03:35:33.106815+00:00"
+  "last_updated_utc": "2026-05-14T08:39:25.104889+00:00"
 }
