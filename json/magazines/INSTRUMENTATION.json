@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Beckhoff Automation’s MX-System Roadshow provides hands-on experience with the next evolution of automation technology",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-14T18:58:39+00:00",
+      "url": "https://www.automationmag.com/beckhoff-automations-mx-system-roadshow-provides-hands-on-experience-with-the-next-evolution-of-automation-technology/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "AutomationDirect announces additional STAHL Zener barriers and isolators",
       "category": "INSTRUMENTATION",
       "date": "2026-05-13T17:20:57+00:00",
@@ -1746,5 +1754,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-14T14:17:44.040457+00:00"
+  "last_updated_utc": "2026-05-14T19:47:45.553953+00:00"
 }
