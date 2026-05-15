@@ -2,6 +2,22 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Colorado bill on heat and cold stress prevention moves forward",
+      "category": "SAFETY",
+      "date": "2026-05-15T16:03:06+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/colorado-bill-on-heat-and-cold-stress-prevention-moves-forward/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Survey shows that workers want mental health support from employers",
+      "category": "SAFETY",
+      "date": "2026-05-15T15:53:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/survey-shows-that-workers-want-more-mental-health-support-from-employers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Safety on the driveway",
       "category": "SAFETY",
       "date": "2026-05-15T13:00:59+00:00",
@@ -2242,5 +2258,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-15T14:10:10.135568+00:00"
+  "last_updated_utc": "2026-05-15T19:40:12.283813+00:00"
 }

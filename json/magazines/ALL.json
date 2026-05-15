@@ -2,6 +2,38 @@
   "category": "ALL",
   "items": [
     {
+      "title": "When AI isn’t the right tool to solve an engineering problem",
+      "category": "MECHANICAL",
+      "date": "2026-05-15T17:05:18+00:00",
+      "url": "https://www.engineering.com/when-ai-isnt-the-right-tool-to-solve-an-engineering-problem/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Reducing friction in engineering workflows from CAD to manufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-05-15T16:12:53+00:00",
+      "url": "https://www.engineering.com/reducing-friction-in-engineering-workflows-from-cad-to-manufacturing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Colorado bill on heat and cold stress prevention moves forward",
+      "category": "SAFETY",
+      "date": "2026-05-15T16:03:06+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/colorado-bill-on-heat-and-cold-stress-prevention-moves-forward/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Survey shows that workers want mental health support from employers",
+      "category": "SAFETY",
+      "date": "2026-05-15T15:53:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/survey-shows-that-workers-want-more-mental-health-support-from-employers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Metals One and DISA agree to treat uranium mine waste",
       "category": "INDUSTRY",
       "date": "2026-05-15T13:25:05+00:00",
@@ -25850,5 +25882,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-15T14:10:10.135568+00:00"
+  "last_updated_utc": "2026-05-15T19:40:12.283813+00:00"
 }
