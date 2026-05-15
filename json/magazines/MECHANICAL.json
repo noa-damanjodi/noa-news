@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Dassault Systèmes became a test case in the repricing of industrial software",
+      "category": "MECHANICAL",
+      "date": "2026-05-14T20:26:08+00:00",
+      "url": "https://www.engineering.com/dassault-systemes-became-a-test-case-in-the-repricing-of-industrial-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "PTC expands startup program to all industries",
       "category": "MECHANICAL",
       "date": "2026-05-14T12:30:08+00:00",
@@ -7170,5 +7178,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-14T19:47:45.553953+00:00"
+  "last_updated_utc": "2026-05-15T03:38:38.594485+00:00"
 }
