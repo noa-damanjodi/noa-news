@@ -2,6 +2,46 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Safety on the driveway",
+      "category": "SAFETY",
+      "date": "2026-05-15T13:00:59+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safety-on-the-driveway/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Don’t share prescription meds",
+      "category": "SAFETY",
+      "date": "2026-05-15T13:00:36+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/dont-share-prescription-meds/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The safe way to thaw frozen food",
+      "category": "SAFETY",
+      "date": "2026-05-15T13:00:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/the-safe-way-to-thaw-frozen-food/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Help older adults stay cool during high heat",
+      "category": "SAFETY",
+      "date": "2026-05-15T13:00:31+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/help-older-adults-stay-cool-during-high-heat/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Soothe baby’s teething pain",
+      "category": "SAFETY",
+      "date": "2026-05-15T13:00:23+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/soothe-babys-teething-pain/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Healthy teeth may help older adults stay at a healthy weight",
       "category": "SAFETY",
       "date": "2026-05-14T17:12:52+00:00",
@@ -2202,5 +2242,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-15T08:50:22.439590+00:00"
+  "last_updated_utc": "2026-05-15T14:10:10.135568+00:00"
 }
