@@ -2,6 +2,14 @@
   "category": "POWER",
   "items": [
     {
+      "title": "Driving Efficiency: New and emerging transformer technologies",
+      "category": "POWER",
+      "date": "2026-05-18T11:04:11+00:00",
+      "url": "https://powerline.net.in/2026/05/18/driving-efficiency-new-and-emerging-transformer-technologies/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "R&M of Thermal Power Plants: Roadmap for addressing energy transition challenges",
       "category": "POWER",
       "date": "2026-05-18T08:54:54+00:00",
@@ -6594,5 +6602,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-18T10:07:33.910023+00:00"
+  "last_updated_utc": "2026-05-18T15:36:06.052148+00:00"
 }

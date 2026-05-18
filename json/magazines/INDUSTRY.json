@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Australia orders six Northern Minerals investors to divest stakes",
+      "category": "INDUSTRY",
+      "date": "2026-05-18T13:47:00+00:00",
+      "url": "https://www.mining-technology.com/news/australia-northern-minerals-investors-divest-stakes/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Anglo coal sale highlights broader Australian coal transition: GlobalData",
+      "category": "INDUSTRY",
+      "date": "2026-05-18T11:09:57+00:00",
+      "url": "https://www.mining-technology.com/news/anglo-coal-sale-highlights-broader-australian-coal-transition-globaldata/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Rokeby announces 20-year licence renewal for Omeo Gold Project",
       "category": "INDUSTRY",
       "date": "2026-05-18T09:57:47+00:00",
@@ -4474,5 +4490,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-18T10:07:33.910023+00:00"
+  "last_updated_utc": "2026-05-18T15:36:06.052148+00:00"
 }
