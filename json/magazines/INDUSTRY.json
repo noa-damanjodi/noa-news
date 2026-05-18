@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Rokeby announces 20-year licence renewal for Omeo Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-05-18T09:57:47+00:00",
+      "url": "https://www.mining-technology.com/news/rokeby-licence-renewal-omeo-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Nobel begins drilling at Chile’s Pampa Austral",
+      "category": "INDUSTRY",
+      "date": "2026-05-18T07:32:24+00:00",
+      "url": "https://www.mining-technology.com/news/nobel-begins-drilling-pampa-austral/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ZCCM-IH aims for bigger stakes in Zambian mines",
+      "category": "INDUSTRY",
+      "date": "2026-05-18T07:25:12+00:00",
+      "url": "https://www.mining-technology.com/news/zccm-ih-bigger-stakes-zambian-mines/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Metals One and DISA agree to treat uranium mine waste",
       "category": "INDUSTRY",
       "date": "2026-05-15T13:25:05+00:00",
@@ -4450,5 +4474,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-18T03:52:07.764659+00:00"
+  "last_updated_utc": "2026-05-18T10:07:33.910023+00:00"
 }
