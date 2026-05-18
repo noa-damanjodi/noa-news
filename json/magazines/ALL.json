@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "OSHA clarifies its jurisdiction over two State Plans",
+      "category": "SAFETY",
+      "date": "2026-05-18T18:21:59+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-clarifies-its-jurisdiction-over-two-state-plans/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Report links psychosocial hazards at work to more than 800,000 early deaths",
+      "category": "SAFETY",
+      "date": "2026-05-18T18:18:30+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/report-links-psychosocial-hazards-at-work-to-more-than-800000-early-deaths/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Marine energy for maritime surveillance? Ocean Power Technologies’ latest deployment supports DHS operations",
+      "category": "RENEWABLE",
+      "date": "2026-05-18T17:27:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/marine-energy-for-maritime-surveillance-ocean-power-technologies-latest-deployment-supports-dhs-operations/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "DOT rule acknowledges delay on oral drug fluid testing",
+      "category": "SAFETY",
+      "date": "2026-05-18T16:54:31+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/dot-rule-acknowledges-delay-on-oral-drug-fluid-testing/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NextEra and Dominion are merging. Here’s what you need to know",
+      "category": "RENEWABLE",
+      "date": "2026-05-18T14:34:15+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/nextera-and-dominion-are-merging-heres-what-you-need-to-know/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Peopoly launches Giga 800 large-format pellet 3D printer",
       "category": "MECHANICAL",
       "date": "2026-05-18T14:16:34+00:00",
@@ -26082,5 +26122,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-18T15:36:06.052148+00:00"
+  "last_updated_utc": "2026-05-18T19:46:01.348502+00:00"
 }

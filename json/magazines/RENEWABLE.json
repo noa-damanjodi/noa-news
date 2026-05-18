@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Marine energy for maritime surveillance? Ocean Power Technologies’ latest deployment supports DHS operations",
+      "category": "RENEWABLE",
+      "date": "2026-05-18T17:27:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/marine-energy-for-maritime-surveillance-ocean-power-technologies-latest-deployment-supports-dhs-operations/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "NextEra and Dominion are merging. Here’s what you need to know",
+      "category": "RENEWABLE",
+      "date": "2026-05-18T14:34:15+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/nextera-and-dominion-are-merging-heres-what-you-need-to-know/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "xAI grows data center gas fleet despite legal scrutiny – This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-05-15T18:34:58+00:00",
@@ -2066,5 +2082,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-18T15:36:06.052148+00:00"
+  "last_updated_utc": "2026-05-18T19:46:01.348502+00:00"
 }
