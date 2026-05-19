@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Will the power industry meet the moment? At DTECH Data Centers and AI, utilities take the floor",
+      "category": "RENEWABLE",
+      "date": "2026-05-18T19:39:35+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/will-the-power-industry-meet-the-moment-at-dtech-data-centers-and-ai-utilities-take-the-floor/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "OSHA clarifies its jurisdiction over two State Plans",
       "category": "SAFETY",
       "date": "2026-05-18T18:21:59+00:00",
@@ -15,6 +23,14 @@
       "date": "2026-05-18T18:18:30+00:00",
       "url": "https://www.safetyandhealthmagazine.com/report-links-psychosocial-hazards-at-work-to-more-than-800000-early-deaths/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Wave energy prototype online: A EuropeWave project is now connected to the grid",
+      "category": "RENEWABLE",
+      "date": "2026-05-18T18:04:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/wave-energy-prototype-online-a-europewave-project-is-now-connected-to-the-grid/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -231,6 +247,14 @@
       "date": "2026-05-18T05:36:19+00:00",
       "url": "https://powerline.net.in/2026/05/18/indigrid-reports-rs-3-99-billion-net-profit-in-2025-26/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Voith Hydro selects Uwe Zulehner as North America CEO",
+      "category": "RENEWABLE",
+      "date": "2026-05-15T19:43:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/voith-hydro-selects-uwe-zulehner-as-north-america-ceo/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -26122,5 +26146,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-18T19:46:01.348502+00:00"
+  "last_updated_utc": "2026-05-19T03:42:29.781431+00:00"
 }
