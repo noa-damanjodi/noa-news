@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "WAGO celebrates 75-year anniversary, looks ahead to vendor-neutral and sustainable future",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-19T09:36:56+00:00",
+      "url": "https://www.automationmag.com/wago-celebrates-75-year-anniversary-looks-ahead-to-vendor-neutral-and-sustainable-future/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "US BLM approves Viking’s drilling campaign at Linka Project",
+      "category": "INDUSTRY",
+      "date": "2026-05-19T08:14:20+00:00",
+      "url": "https://www.mining-technology.com/news/us-blm-approves-vikings-drilling-linka-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Atlas Lithium appoints Alfa for Neves Project",
+      "category": "INDUSTRY",
+      "date": "2026-05-19T08:06:47+00:00",
+      "url": "https://www.mining-technology.com/news/atlas-lithium-appoints-alfa-for-neves-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Pioneer awards contract for Springfield RC drill programme",
+      "category": "INDUSTRY",
+      "date": "2026-05-19T07:52:54+00:00",
+      "url": "https://www.mining-technology.com/news/pioneer-contract-springfield-rc-drill-programme/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "CEA releases technical specifications for CRGO core distribution transformers",
+      "category": "POWER",
+      "date": "2026-05-19T05:05:36+00:00",
+      "url": "https://powerline.net.in/2026/05/19/cea-releases-technical-specifications-for-crgo-core-distribution-transformers/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "PFC board clears proposal for REC merger",
+      "category": "POWER",
+      "date": "2026-05-19T05:04:39+00:00",
+      "url": "https://powerline.net.in/2026/05/19/pfc-board-clears-proposal-for-rec-merger/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "PSPCL announces results of 1 GWh standalone BESS auction",
+      "category": "POWER",
+      "date": "2026-05-19T05:03:39+00:00",
+      "url": "https://powerline.net.in/2026/05/19/pspcl-announces-results-of-1-gwh-standalone-bess-auction/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bondada Engineering secures Rs 4.7 billion BOS orders for 250 MW Khavda solar project",
+      "category": "POWER",
+      "date": "2026-05-19T05:02:40+00:00",
+      "url": "https://powerline.net.in/2026/05/19/bondada-engineering-secures-rs-4-7-billion-bos-orders-for-250-mw-khavda-solar-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Mahanadi Coalfields gets IPO approval and CIL to dilute up to 25 per cent stake",
+      "category": "POWER",
+      "date": "2026-05-19T05:01:40+00:00",
+      "url": "https://powerline.net.in/2026/05/19/mahanadi-coalfields-gets-ipo-approval-and-cil-to-dilute-up-to-25-per-cent-stake/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Pace Digitek secures Rs 7,099 million BESS contract from NIRL",
+      "category": "POWER",
+      "date": "2026-05-19T05:00:45+00:00",
+      "url": "https://powerline.net.in/2026/05/19/pace-digitek-secures-rs-7099-million-bess-contract-from-nirl/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Tata Power and DGPC sign MoU for clean energy skill development in Bhutan",
+      "category": "POWER",
+      "date": "2026-05-19T04:59:43+00:00",
+      "url": "https://powerline.net.in/2026/05/19/tata-power-and-dgpc-sign-mou-for-clean-energy-skill-development-in-bhutan/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Indonesia, Malaysia firms to develop biogas and WtE projects",
+      "category": "POWER",
+      "date": "2026-05-19T04:58:52+00:00",
+      "url": "https://powerline.net.in/2026/05/19/indonesia-malaysia-firms-to-develop-biogas-and-wte-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Vietnam’s EVNNPT energises shunt capacitors at 16 substations",
+      "category": "POWER",
+      "date": "2026-05-19T04:57:15+00:00",
+      "url": "https://powerline.net.in/2026/05/19/vietnams-evnnpt-energises-shunt-capacitors-at-16-substations/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Will the power industry meet the moment? At DTECH Data Centers and AI, utilities take the floor",
       "category": "RENEWABLE",
       "date": "2026-05-18T19:39:35+00:00",
@@ -2711,6 +2815,14 @@
       "date": "2026-05-05T06:37:13+00:00",
       "url": "https://powerline.net.in/2026/05/05/adb-launches-usd-70-billion-plan-for-energy-and-digital-infrastructure-in-asia-pacific/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New Overhead Cable Guide from igus Improves the Charging of e-lorries and e-cars",
+      "category": "ELECTRICAL",
+      "date": "2026-05-05T03:49:25+00:00",
+      "url": "https://www.electricalindia.in/new-overhead-cable-guide-from-igus-improves-the-charging-of-e-lorries-and-e-cars/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -26146,5 +26258,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-19T03:42:29.781431+00:00"
+  "last_updated_utc": "2026-05-19T09:47:59.850352+00:00"
 }
