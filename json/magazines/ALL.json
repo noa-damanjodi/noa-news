@@ -2,6 +2,30 @@
   "category": "ALL",
   "items": [
     {
+      "title": "33DPQ Podcast – Joe Dopkowski",
+      "category": "MECHANICAL",
+      "date": "2026-05-19T19:38:28+00:00",
+      "url": "https://www.engineering.com/33dpq-podcast-joe-dopkowski/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Government investing more than $20 million in eight London and Chatham-Kent businesses",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-19T17:34:28+00:00",
+      "url": "https://www.automationmag.com/government-investing-more-than-20-million-in-eight-london-and-chatham-kent-businesses/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "FANUC accelerates physical AI through collaboration with Google",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-19T17:12:49+00:00",
+      "url": "https://www.automationmag.com/fanuc-accelerates-physical-ai-through-collaboration-with-google/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Miners’ lawyer pushes for MSHA silica rule during House hearing",
       "category": "SAFETY",
       "date": "2026-05-19T15:15:40+00:00",
@@ -23,6 +47,14 @@
       "date": "2026-05-19T14:36:10+00:00",
       "url": "https://www.safetyandhealthmagazine.com/osha-ends-open-fires-standard-for-marine-terminals/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Thor Explorations reports 35.8% rise in Q1 2026 net income",
+      "category": "INDUSTRY",
+      "date": "2026-05-19T14:33:36+00:00",
+      "url": "https://www.mining-technology.com/news/thor-explorations-rise-q1-2026-net-income/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -26378,5 +26410,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-19T15:27:41.243106+00:00"
+  "last_updated_utc": "2026-05-19T19:53:33.694585+00:00"
 }

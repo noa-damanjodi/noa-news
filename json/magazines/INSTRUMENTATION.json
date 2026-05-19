@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Government investing more than $20 million in eight London and Chatham-Kent businesses",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-19T17:34:28+00:00",
+      "url": "https://www.automationmag.com/government-investing-more-than-20-million-in-eight-london-and-chatham-kent-businesses/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "FANUC accelerates physical AI through collaboration with Google",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-19T17:12:49+00:00",
+      "url": "https://www.automationmag.com/fanuc-accelerates-physical-ai-through-collaboration-with-google/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "WAGO celebrates 75-year anniversary, looks ahead to vendor-neutral and sustainable future",
       "category": "INSTRUMENTATION",
       "date": "2026-05-19T09:36:56+00:00",
@@ -1762,5 +1778,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-19T15:27:41.243106+00:00"
+  "last_updated_utc": "2026-05-19T19:53:33.694585+00:00"
 }
