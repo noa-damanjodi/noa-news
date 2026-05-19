@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Utilities at a crossroads: Adopt distributed solar or risk becoming a backup plan",
+      "category": "RENEWABLE",
+      "date": "2026-05-19T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/residential/utilities-at-a-crossroads-adapt-to-distributed-solar-or-risk-becoming-the-backup-plan/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Will the power industry meet the moment? At DTECH Data Centers and AI, utilities take the floor",
       "category": "RENEWABLE",
       "date": "2026-05-18T19:39:35+00:00",
@@ -2106,5 +2114,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-19T09:47:59.850352+00:00"
+  "last_updated_utc": "2026-05-19T15:27:41.243106+00:00"
 }
