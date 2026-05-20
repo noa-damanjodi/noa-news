@@ -2,6 +2,22 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "New York advocacy group releases ‘Deadly Skyline’ report on construction worker deaths",
+      "category": "SAFETY",
+      "date": "2026-05-20T13:49:44+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-york-advocacy-group-releases-deadly-skyline-report-on-construction-worker-deaths/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EPA invites comment on controversial fragrance and one other chemical",
+      "category": "SAFETY",
+      "date": "2026-05-20T13:45:26+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/epa-invites-comment-on-controversial-fragrance-and-one-other-chemical/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Miners’ lawyer pushes for MSHA silica rule during House hearing",
       "category": "SAFETY",
       "date": "2026-05-19T15:15:40+00:00",
@@ -2314,5 +2330,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-20T09:36:54.311894+00:00"
+  "last_updated_utc": "2026-05-20T15:24:10.928331+00:00"
 }

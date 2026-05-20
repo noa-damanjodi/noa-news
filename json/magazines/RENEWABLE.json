@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Rethinking AI: Why conventional AI is failing the grid, and what a new architecture does differently",
+      "category": "RENEWABLE",
+      "date": "2026-05-20T13:32:35+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/rethinking-ai-why-conventional-ai-is-failing-the-grid-and-what-a-new-architecture-does-differently/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "MISO plans over 200 miles of new transmission across Illinois for $1.6B",
       "category": "RENEWABLE",
       "date": "2026-05-19T20:21:00+00:00",
@@ -2122,5 +2130,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-20T09:36:54.311894+00:00"
+  "last_updated_utc": "2026-05-20T15:24:10.928331+00:00"
 }

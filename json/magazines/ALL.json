@@ -2,6 +2,126 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Western Cape deploys Bentley Blyncsy for road monitoring",
+      "category": "MECHANICAL",
+      "date": "2026-05-20T13:53:19+00:00",
+      "url": "https://www.engineering.com/western-cape-deploys-bentley-blyncsy-for-road-monitoring/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "New York advocacy group releases ‘Deadly Skyline’ report on construction worker deaths",
+      "category": "SAFETY",
+      "date": "2026-05-20T13:49:44+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-york-advocacy-group-releases-deadly-skyline-report-on-construction-worker-deaths/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EPA invites comment on controversial fragrance and one other chemical",
+      "category": "SAFETY",
+      "date": "2026-05-20T13:45:26+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/epa-invites-comment-on-controversial-fragrance-and-one-other-chemical/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Mining enters the age of geopolitical supply chains: from discovery to extraction (Part I)",
+      "category": "INDUSTRY",
+      "date": "2026-05-20T13:38:44+00:00",
+      "url": "https://www.mining-technology.com/?p=710322",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rethinking AI: Why conventional AI is failing the grid, and what a new architecture does differently",
+      "category": "RENEWABLE",
+      "date": "2026-05-20T13:32:35+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/rethinking-ai-why-conventional-ai-is-failing-the-grid-and-what-a-new-architecture-does-differently/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Kavango concludes ore sample tests at Hillside Project",
+      "category": "INDUSTRY",
+      "date": "2026-05-20T13:24:10+00:00",
+      "url": "https://www.mining-technology.com/news/kavango-concludes-ore-sample-tests-hillside-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rio Tinto dispatches eight-billionth tonne of Pilbara iron ore",
+      "category": "INDUSTRY",
+      "date": "2026-05-20T13:12:21+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-dispatches-eight-billion-tonnes-pilbara-iron-ore/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Automation Anywhere previews EnterpriseClaw for AI agents",
+      "category": "MECHANICAL",
+      "date": "2026-05-20T13:03:59+00:00",
+      "url": "https://www.engineering.com/automation-anywhere-previews-enterpriseclaw-for-ai-agents/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mouser receives Digi infrastructure distribution award",
+      "category": "MECHANICAL",
+      "date": "2026-05-20T12:33:18+00:00",
+      "url": "https://www.engineering.com/mouser-receives-digi-infrastructure-distribution-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble, SkillsUSA bring construction tech to students",
+      "category": "MECHANICAL",
+      "date": "2026-05-20T12:26:38+00:00",
+      "url": "https://www.engineering.com/trimble-skillsusa-bring-construction-tech-to-students/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AVEVA, AWS expand cloud deal for industrial software",
+      "category": "MECHANICAL",
+      "date": "2026-05-20T11:28:19+00:00",
+      "url": "https://www.engineering.com/aveva-aws-expand-cloud-deal-for-industrial-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hoth plans Rocket One rebrand and AI chip pivot",
+      "category": "MECHANICAL",
+      "date": "2026-05-20T11:23:01+00:00",
+      "url": "https://www.engineering.com/hoth-plans-rocket-one-rebrand-and-ai-chip-pivot/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "EnergyX, Compass Minerals to build lithium plant in Utah, US",
+      "category": "INDUSTRY",
+      "date": "2026-05-20T10:11:34+00:00",
+      "url": "https://www.mining-technology.com/news/energyx-compass-minerals-to-build-lithium-plant/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "FANUC collaborates with Google on physical AI robots",
+      "category": "MECHANICAL",
+      "date": "2026-05-20T10:04:47+00:00",
+      "url": "https://www.engineering.com/fanuc-collaborates-with-google-on-physical-ai-robots/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bluebeam Max launches globally for AEC workflows",
+      "category": "MECHANICAL",
+      "date": "2026-05-20T09:58:58+00:00",
+      "url": "https://www.engineering.com/bluebeam-max-launches-globally-for-aec-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Corazon to acquire Chalice Gold Project for $18.3m",
       "category": "INDUSTRY",
       "date": "2026-05-20T08:09:40+00:00",
@@ -26522,5 +26642,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-20T09:36:54.311894+00:00"
+  "last_updated_utc": "2026-05-20T15:24:10.928331+00:00"
 }
