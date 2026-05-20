@@ -2,6 +2,38 @@
   "category": "ALL",
   "items": [
     {
+      "title": "A huge 5 GWh thermal energy storage system is now delivering power to a South Dakota biofuels facility",
+      "category": "RENEWABLE",
+      "date": "2026-05-20T19:34:54+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/a-huge-5-gwh-thermal-energy-storage-system-is-now-delivering-power-to-a-south-dakota-biofuels-facility/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Hull Street Energy to acquire FirstLight’s hydro, pumped storage assets",
+      "category": "RENEWABLE",
+      "date": "2026-05-20T16:39:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/hull-street-energy-to-acquire-firstlights-hydro-pumped-storage-assets/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Battery energy storage is foundational to the AI economy",
+      "category": "RENEWABLE",
+      "date": "2026-05-20T14:47:53+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/battery-energy-storage-is-foundational-to-the-ai-economy/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "New white paper redefines cable management best practices for utility-scale bifacial solar installations",
+      "category": "RENEWABLE",
+      "date": "2026-05-20T14:25:53+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/utility-scale/new-white-paper-redefines-cable-management-best-practices-for-utility-scale-bifacial-solar-installations/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Western Cape deploys Bentley Blyncsy for road monitoring",
       "category": "MECHANICAL",
       "date": "2026-05-20T13:53:19+00:00",
@@ -26642,5 +26674,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-20T15:24:10.928331+00:00"
+  "last_updated_utc": "2026-05-20T20:19:41.792833+00:00"
 }
