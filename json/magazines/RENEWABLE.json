@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "MISO plans over 200 miles of new transmission across Illinois for $1.6B",
+      "category": "RENEWABLE",
+      "date": "2026-05-19T20:21:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/miso-plans-over-200-miles-of-new-transmission-across-illinois-for-1-6b/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Utilities at a crossroads: Adopt distributed solar or risk becoming a backup plan",
       "category": "RENEWABLE",
       "date": "2026-05-19T11:00:00+00:00",
@@ -2114,5 +2122,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-19T19:53:33.694585+00:00"
+  "last_updated_utc": "2026-05-20T03:43:52.642084+00:00"
 }

@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "MISO plans over 200 miles of new transmission across Illinois for $1.6B",
+      "category": "RENEWABLE",
+      "date": "2026-05-19T20:21:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/miso-plans-over-200-miles-of-new-transmission-across-illinois-for-1-6b/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Comau enters into a binding agreement to acquire Invent Smart Intralogistics Solutions",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-19T20:11:27+00:00",
+      "url": "https://www.automationmag.com/comau-enters-into-a-binding-agreement-to-acquire-invent-smart-intralogistics-solutions/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "33DPQ Podcast – Joe Dopkowski",
       "category": "MECHANICAL",
       "date": "2026-05-19T19:38:28+00:00",
@@ -26410,5 +26426,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-19T19:53:33.694585+00:00"
+  "last_updated_utc": "2026-05-20T03:43:52.642084+00:00"
 }
