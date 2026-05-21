@@ -2,6 +2,70 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Shining 3D launches OptimScan Q12 HD scanner",
+      "category": "MECHANICAL",
+      "date": "2026-05-21T15:19:00+00:00",
+      "url": "https://www.engineering.com/shining-3d-launches-optimscan-q12-hd-scanner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MathWorks adds Renesas support for embedded deployment",
+      "category": "MECHANICAL",
+      "date": "2026-05-21T14:59:44+00:00",
+      "url": "https://www.engineering.com/mathworks-adds-renesas-support-for-embedded-deployment/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Synergis launches Adept Cloud engineering document SaaS",
+      "category": "MECHANICAL",
+      "date": "2026-05-21T14:55:22+00:00",
+      "url": "https://www.engineering.com/synergis-launches-adept-cloud-engineering-document-saas/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mazda selects Codebeamer for vehicle software development",
+      "category": "MECHANICAL",
+      "date": "2026-05-21T14:21:06+00:00",
+      "url": "https://www.engineering.com/mazda-selects-codebeamer-for-vehicle-software-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "A smart test drive in a digital Italy",
+      "category": "MECHANICAL",
+      "date": "2026-05-21T14:16:58+00:00",
+      "url": "https://www.engineering.com/a-smart-test-drive-in-a-digital-italy/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon updates NCSIMUL with selective simulation",
+      "category": "MECHANICAL",
+      "date": "2026-05-21T14:06:53+00:00",
+      "url": "https://www.engineering.com/hexagon-updates-ncsimul-with-selective-simulation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Fujifilm Cellular Dynamics opens new Madison facility",
+      "category": "MECHANICAL",
+      "date": "2026-05-21T13:29:25+00:00",
+      "url": "https://www.engineering.com/fujifilm-cellular-dynamics-opens-new-madison-facility/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Gartner names HPE a leader in LAN infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-05-21T11:37:54+00:00",
+      "url": "https://www.engineering.com/gartner-names-hpe-a-leader-in-lan-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Western Cape deploys Bentley Blyncsy for road monitoring",
       "category": "MECHANICAL",
       "date": "2026-05-20T13:53:19+00:00",
@@ -7474,5 +7538,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-21T09:43:24.929243+00:00"
+  "last_updated_utc": "2026-05-21T15:31:35.919860+00:00"
 }
