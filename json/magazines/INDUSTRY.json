@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Core Lithium begins mining activities at Australia’s Grants pit",
+      "category": "INDUSTRY",
+      "date": "2026-05-21T07:44:37+00:00",
+      "url": "https://www.mining-technology.com/news/core-lithium-begins-mining-activities-grants-pit/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Mining enters the age of geopolitical supply chains: from discovery to extraction (Part I)",
       "category": "INDUSTRY",
       "date": "2026-05-20T13:38:44+00:00",
@@ -4602,5 +4610,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-21T03:54:51.679748+00:00"
+  "last_updated_utc": "2026-05-21T09:43:24.929243+00:00"
 }
