@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "GIGABYTE wins COMPUTEX 2026 awards for AI hardware",
+      "category": "MECHANICAL",
+      "date": "2026-05-22T13:22:43+00:00",
+      "url": "https://www.engineering.com/gigabyte-wins-computex-2026-awards-for-ai-hardware/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Helix buys 50% stake in Weerianna Gold-Lithium Project",
+      "category": "INDUSTRY",
+      "date": "2026-05-22T13:19:12+00:00",
+      "url": "https://www.mining-technology.com/news/helix-buys-stake-weerianna-gold-lithium-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Centric Software launches AI platform for product teams",
+      "category": "MECHANICAL",
+      "date": "2026-05-22T13:10:07+00:00",
+      "url": "https://www.engineering.com/centric-software-launches-ai-platform-for-product-teams/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Perpetua Resources receives $2.9bn loan from EXIM",
+      "category": "INDUSTRY",
+      "date": "2026-05-22T13:08:39+00:00",
+      "url": "https://www.mining-technology.com/news/perpetua-resources-receives-loan-exim/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Axion Semiconductor acquires Moov Technologies",
+      "category": "MECHANICAL",
+      "date": "2026-05-22T13:01:25+00:00",
+      "url": "https://www.engineering.com/axion-semiconductor-acquires-moov-technologies/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric engineer earns Kaggle master title",
+      "category": "MECHANICAL",
+      "date": "2026-05-22T12:32:33+00:00",
+      "url": "https://www.engineering.com/mitsubishi-electric-engineer-earns-kaggle-master-title/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "TDConnex opens sixth micro-precision manufacturing site",
+      "category": "MECHANICAL",
+      "date": "2026-05-22T12:21:48+00:00",
+      "url": "https://www.engineering.com/tdconnex-opens-sixth-micro-precision-manufacturing-site/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Quanta adopts Siemens software for digital operations",
+      "category": "MECHANICAL",
+      "date": "2026-05-22T10:53:41+00:00",
+      "url": "https://www.engineering.com/quanta-adopts-siemens-software-for-digital-operations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Procore expands AI tools with construction workflow agents",
+      "category": "MECHANICAL",
+      "date": "2026-05-22T10:42:53+00:00",
+      "url": "https://www.engineering.com/procore-expands-ai-tools-with-construction-workflow-agents/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lincoln Electric introduces AlumaFab welding system",
+      "category": "MECHANICAL",
+      "date": "2026-05-22T10:32:07+00:00",
+      "url": "https://www.engineering.com/lincoln-electric-introduces-alumafab-welding-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Arafura announces FID on Nolans project in Australia",
+      "category": "INDUSTRY",
+      "date": "2026-05-22T10:21:05+00:00",
+      "url": "https://www.mining-technology.com/news/arafura-fid-nolans-project-australia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Great Southern initiates AMT survey at La Colorada prospect",
+      "category": "INDUSTRY",
+      "date": "2026-05-22T07:31:20+00:00",
+      "url": "https://www.mining-technology.com/news/great-southern-amt-survey-la-colorada/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Tungsten West secures $25m loan for Hemerdon mine restart",
+      "category": "INDUSTRY",
+      "date": "2026-05-22T07:23:07+00:00",
+      "url": "https://www.mining-technology.com/news/tungsten-west-25m-loan-hemerdon-mine-restart/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "CERC notifies draft CERC (Connectivity and General Network Access to the inter-State Transmission System) (Fourth Amendment) Regulations, 2026",
       "category": "POWER",
       "date": "2026-05-22T04:45:05+00:00",
@@ -27106,5 +27210,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-22T09:28:33.652499+00:00"
+  "last_updated_utc": "2026-05-22T14:42:12.496422+00:00"
 }
