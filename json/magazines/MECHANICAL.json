@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "EV Sales Sputter. But Will They Win the Long Game?",
+      "category": "MECHANICAL",
+      "date": "2026-05-25T13:15:11+00:00",
+      "url": "https://www.engineering.com/ev-sales-sputter-but-will-they-win-the-long-game/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "GIGABYTE wins COMPUTEX 2026 awards for AI hardware",
       "category": "MECHANICAL",
       "date": "2026-05-22T13:22:43+00:00",
@@ -7610,5 +7618,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-25T10:09:58.312522+00:00"
+  "last_updated_utc": "2026-05-25T14:56:09.050746+00:00"
 }

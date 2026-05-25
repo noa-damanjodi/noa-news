@@ -2,6 +2,14 @@
   "category": "POWER",
   "items": [
     {
+      "title": "O&M Priorities: Integrating advanced analytics into routine practices",
+      "category": "POWER",
+      "date": "2026-05-25T11:04:15+00:00",
+      "url": "https://powerline.net.in/2026/05/25/om-priorities-integrating-advanced-analytics-into-routine-practices/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Integrating Renewables: CEA’s transmission plan for 900 GW of non-fossil fuel capacity by 2035-36",
       "category": "POWER",
       "date": "2026-05-25T07:59:28+00:00",
@@ -6954,5 +6962,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-25T10:09:58.312522+00:00"
+  "last_updated_utc": "2026-05-25T14:56:09.050746+00:00"
 }

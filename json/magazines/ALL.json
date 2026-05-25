@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "EV Sales Sputter. But Will They Win the Long Game?",
+      "category": "MECHANICAL",
+      "date": "2026-05-25T13:15:11+00:00",
+      "url": "https://www.engineering.com/ev-sales-sputter-but-will-they-win-the-long-game/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "O&M Priorities: Integrating advanced analytics into routine practices",
+      "category": "POWER",
+      "date": "2026-05-25T11:04:15+00:00",
+      "url": "https://powerline.net.in/2026/05/25/om-priorities-integrating-advanced-analytics-into-routine-practices/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Integrating Renewables: CEA’s transmission plan for 900 GW of non-fossil fuel capacity by 2035-36",
       "category": "POWER",
       "date": "2026-05-25T07:59:28+00:00",
@@ -82,6 +98,22 @@
       "type": "magazine"
     },
     {
+      "title": "Celebrating 30 years of National Safety Month",
+      "category": "SAFETY",
+      "date": "2026-05-25T05:05:47+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/celebrating-30-years-of-national-safety-month/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "From a distance: Engaging the ‘distributed’ workforce",
+      "category": "SAFETY",
+      "date": "2026-05-25T05:05:02+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/from-a-distance-engaging-the-distributed-workforce/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "PPE use in construction",
       "category": "SAFETY",
       "date": "2026-05-25T05:00:55+00:00",
@@ -102,14 +134,6 @@
       "category": "SAFETY",
       "date": "2026-05-25T05:00:52+00:00",
       "url": "https://www.safetyandhealthmagazine.com/custom-safety-training/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "Celebrating 30 years of National Safety Month",
-      "category": "SAFETY",
-      "date": "2026-05-25T05:00:47+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/celebrating-30-years-of-national-safety-month/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -27498,5 +27522,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-25T10:09:58.312522+00:00"
+  "last_updated_utc": "2026-05-25T14:56:09.050746+00:00"
 }
