@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "China detains mine managers after Shanxi coal blast exposes safety failings",
+      "category": "INDUSTRY",
+      "date": "2026-05-24T23:00:33+00:00",
+      "url": "https://www.mining-technology.com/news/china-detains-mine-managers-after-shanxi-coal-blast-exposes-safety-failings/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "The world’s worst coal mining disasters",
+      "category": "INDUSTRY",
+      "date": "2026-05-24T22:53:04+00:00",
+      "url": "https://www.mining-technology.com/features/feature-world-worst-coal-mining-disasters-china/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Helix buys 50% stake in Weerianna Gold-Lithium Project",
       "category": "INDUSTRY",
       "date": "2026-05-22T13:19:12+00:00",
@@ -4698,5 +4714,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-25T04:00:09.067475+00:00"
+  "last_updated_utc": "2026-05-25T10:09:58.312522+00:00"
 }

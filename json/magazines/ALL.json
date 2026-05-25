@@ -2,6 +2,182 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Integrating Renewables: CEA’s transmission plan for 900 GW of non-fossil fuel capacity by 2035-36",
+      "category": "POWER",
+      "date": "2026-05-25T07:59:28+00:00",
+      "url": "https://powerline.net.in/2026/05/25/integrating-renewables-ceas-transmission-plan-for-900-gw-of-non-fossil-fuel-capacity-by-2035-36/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Key Statistics: RMU&LE at hydropower stations",
+      "category": "POWER",
+      "date": "2026-05-25T07:53:44+00:00",
+      "url": "https://powerline.net.in/2026/05/25/key-statistics-rmule-at-hydropower-stations/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Manish Gupta Chairman, Insolation Energy Limited",
+      "category": "POWER",
+      "date": "2026-05-25T06:30:16+00:00",
+      "url": "https://powerline.net.in/2026/05/25/manish-gupta-chairman-insolation-energy-limited/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "CEA advises utilities to use ester oil in at least 10 per cent of new transformers and reactors",
+      "category": "POWER",
+      "date": "2026-05-25T05:28:26+00:00",
+      "url": "https://powerline.net.in/2026/05/25/cea-advises-utilities-to-use-ester-oil-in-at-least-10-per-cent-of-new-transformers-and-reactors/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Ministry of Power implements decriminalisation provisions under Jan Vishwas Act",
+      "category": "POWER",
+      "date": "2026-05-25T05:27:26+00:00",
+      "url": "https://powerline.net.in/2026/05/25/ministry-of-power-implements-decriminalisation-provisions-under-jan-vishwas-act/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "MNRE issues EoI for AI-based RAG systems to improve government data access",
+      "category": "POWER",
+      "date": "2026-05-25T05:25:49+00:00",
+      "url": "https://powerline.net.in/2026/05/25/mnre-issues-eoi-for-ai-based-rag-systems-to-improve-government-data-access/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Transformers and Rectifiers India secures Rs 2.28 billion order from GETCO",
+      "category": "POWER",
+      "date": "2026-05-25T05:24:51+00:00",
+      "url": "https://powerline.net.in/2026/05/25/transformers-and-rectifiers-india-secures-rs-2-28-billion-order-from-getco/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "SPML Infra secures Rs 1.65 billion contract from RRVPNL for 400 kV grid substation and transmission infrastructure",
+      "category": "POWER",
+      "date": "2026-05-25T05:23:53+00:00",
+      "url": "https://powerline.net.in/2026/05/25/spml-infra-secures-rs-1-65-billion-contract-from-rrvpnl-for-400-kv-grid-substation-and-transmission-infrastructure/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Suzlon secures 195 MW repeat order from Sunsure Energy for wind project in Karnataka",
+      "category": "POWER",
+      "date": "2026-05-25T05:20:54+00:00",
+      "url": "https://powerline.net.in/2026/05/25/suzlon-secures-195-mw-repeat-order-from-sunsure-energy-for-wind-project-in-karnataka/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Voltide Solutions and JEM Energy launch BESS-as-a-service model",
+      "category": "POWER",
+      "date": "2026-05-25T05:19:32+00:00",
+      "url": "https://powerline.net.in/2026/05/25/voltide-solutions-and-jem-energy-launch-bess-as-a-service-model/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "PPE use in construction",
+      "category": "SAFETY",
+      "date": "2026-05-25T05:00:55+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/ppe-use-in-construction/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Incorporate the principles of Human and Organizational Performance",
+      "category": "SAFETY",
+      "date": "2026-05-25T05:00:54+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/incorporate-the-principles-of-human-and-organizational-performance/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Custom safety training",
+      "category": "SAFETY",
+      "date": "2026-05-25T05:00:52+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/custom-safety-training/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Celebrating 30 years of National Safety Month",
+      "category": "SAFETY",
+      "date": "2026-05-25T05:00:47+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/celebrating-30-years-of-national-safety-month/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "‘Competent,’ ‘qualified’ – and more",
+      "category": "SAFETY",
+      "date": "2026-05-25T05:00:45+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/competent-qualified-and-more/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Keeping People Safe: Global Data on the State of Workplace Safety",
+      "category": "SAFETY",
+      "date": "2026-05-25T05:00:45+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/keeping-people-safe-global-data-on-the-state-of-workplace-safety/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Practice wellness at work to prevent MSDs",
+      "category": "SAFETY",
+      "date": "2026-05-25T05:00:39+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/practice-wellness-at-work-to-prevent-msds/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Maintaining safety labeling",
+      "category": "SAFETY",
+      "date": "2026-05-25T05:00:38+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/maintaining-safety-labeling/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Why a good supervisor matters for safety",
+      "category": "SAFETY",
+      "date": "2026-05-25T05:00:34+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/why-a-good-supervisor-matters-for-safety/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Cellphone use behind the wheel: myths and truths",
+      "category": "SAFETY",
+      "date": "2026-05-25T05:00:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/cellphone-use-behind-the-wheel-myths-and-truths/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "China detains mine managers after Shanxi coal blast exposes safety failings",
+      "category": "INDUSTRY",
+      "date": "2026-05-24T23:00:33+00:00",
+      "url": "https://www.mining-technology.com/news/china-detains-mine-managers-after-shanxi-coal-blast-exposes-safety-failings/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "The world’s worst coal mining disasters",
+      "category": "INDUSTRY",
+      "date": "2026-05-24T22:53:04+00:00",
+      "url": "https://www.mining-technology.com/features/feature-world-worst-coal-mining-disasters-china/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Palazzani Industrie joins the Multitel Pagliero Group",
       "category": "INSTRUMENTATION",
       "date": "2026-05-22T18:13:13+00:00",
@@ -119,6 +295,14 @@
       "date": "2026-05-22T07:23:07+00:00",
       "url": "https://www.mining-technology.com/news/tungsten-west-25m-loan-hemerdon-mine-restart/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Push-X: The new milestone in connection technology by Phoenix Contact",
+      "category": "ELECTRICAL",
+      "date": "2026-05-22T04:49:23+00:00",
+      "url": "https://www.electricalindia.in/push-x-the-new-milestone-in-connection-technology-by-phoenix-contact-3/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -666,6 +850,30 @@
       "type": "magazine"
     },
     {
+      "title": "Recent Advances in Solar Technology",
+      "category": "ELECTRICAL",
+      "date": "2026-05-20T04:20:43+00:00",
+      "url": "https://www.electricalindia.in/recent-advances-in-solar-technology/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The Role of Intelligent Metering",
+      "category": "ELECTRICAL",
+      "date": "2026-05-20T03:32:10+00:00",
+      "url": "https://www.electricalindia.in/the-role-of-intelligent-metering/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The Gatekeepers of Power",
+      "category": "ELECTRICAL",
+      "date": "2026-05-20T02:53:36+00:00",
+      "url": "https://www.electricalindia.in/the-gatekeepers-of-power/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "MISO plans over 200 miles of new transmission across Illinois for $1.6B",
       "category": "RENEWABLE",
       "date": "2026-05-19T20:21:00+00:00",
@@ -1186,6 +1394,38 @@
       "type": "magazine"
     },
     {
+      "title": "Rosatom Starts up the First NPP in Bangladesh",
+      "category": "ELECTRICAL",
+      "date": "2026-05-18T04:18:53+00:00",
+      "url": "https://www.electricalindia.in/rosatom-starts-up-the-first-npp-in-bangladesh/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Fortress Power Rolls out eSpire Nano",
+      "category": "ELECTRICAL",
+      "date": "2026-05-18T04:14:54+00:00",
+      "url": "https://www.electricalindia.in/fortress-power-rolls-out-espire-nano/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New IRENA Policy Advisory Shows Strategic Role of Renewables",
+      "category": "ELECTRICAL",
+      "date": "2026-05-18T04:13:30+00:00",
+      "url": "https://www.electricalindia.in/new-irena-policy-advisory-shows-strategic-role-of-renewables/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Danfoss Invigorates its Electrification Business with Full Ownership of Semikron Danfoss",
+      "category": "ELECTRICAL",
+      "date": "2026-05-18T04:10:36+00:00",
+      "url": "https://www.electricalindia.in/danfoss-invigorates-its-electrification-business-with-full-ownership-of-semikron-danfoss/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Voith Hydro selects Uwe Zulehner as North America CEO",
       "category": "RENEWABLE",
       "date": "2026-05-15T19:43:00+00:00",
@@ -1455,6 +1695,30 @@
       "date": "2026-05-15T05:42:00+00:00",
       "url": "https://powerline.net.in/2026/05/15/adb-launches-usd70-billion-pan-asia-power-grid-initiative/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hitachi Energy, Samsung C&T Expand Strategic Collaboration",
+      "category": "ELECTRICAL",
+      "date": "2026-05-15T04:08:56+00:00",
+      "url": "https://www.electricalindia.in/hitachi-energy-samsung-ct-expand-strategic-collaboration/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Wärtsilä Further Expands its Data Center Footprint",
+      "category": "ELECTRICAL",
+      "date": "2026-05-15T04:04:14+00:00",
+      "url": "https://www.electricalindia.in/wartsila-further-expands-its-data-center-footprint/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Westinghouse ‘eVinci’ Microreactor Selected for Malmstrom Air Force Base",
+      "category": "ELECTRICAL",
+      "date": "2026-05-15T03:57:07+00:00",
+      "url": "https://www.electricalindia.in/westinghouse-evinci-microreactor-selected-for-malmstrom-air-force-base/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -27234,5 +27498,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-25T04:00:09.067475+00:00"
+  "last_updated_utc": "2026-05-25T10:09:58.312522+00:00"
 }
