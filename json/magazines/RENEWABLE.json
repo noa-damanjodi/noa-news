@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Solving interconnection bottlenecks with data center load flexibility",
+      "category": "RENEWABLE",
+      "date": "2026-05-26T13:36:14+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/solving-interconnection-bottlenecks-with-data-center-load-flexibility/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Statkraft plans $7bn investment in Norwegian hydropower",
+      "category": "RENEWABLE",
+      "date": "2026-05-26T13:32:05+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/statkraft-plans-7bn-investment-in-norwegian-hydropower/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Releasing cool water protects fish in the Grand Canyon. That comes at cost to hydropower",
+      "category": "RENEWABLE",
+      "date": "2026-05-26T13:26:37+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/releasing-cool-water-protects-fish-in-the-grand-canyon-that-comes-at-cost-to-hydropower/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "A huge 5 GWh thermal energy storage system is now delivering power to a South Dakota biofuels facility",
       "category": "RENEWABLE",
       "date": "2026-05-20T19:34:54+00:00",
@@ -2162,5 +2186,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-26T09:58:54.643370+00:00"
+  "last_updated_utc": "2026-05-26T15:35:12.347635+00:00"
 }

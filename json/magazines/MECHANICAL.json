@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Kawasaki opens Silicon Valley hub for Physical AI",
+      "category": "MECHANICAL",
+      "date": "2026-05-26T14:18:30+00:00",
+      "url": "https://www.engineering.com/kawasaki-opens-silicon-valley-hub-for-physical-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight, SRC UK collaborate on EW test modernization",
+      "category": "MECHANICAL",
+      "date": "2026-05-26T13:28:47+00:00",
+      "url": "https://www.engineering.com/keysight-src-uk-collaborate-on-ew-test-modernization/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "GoEngineer acquires SKA to expand in Latin America",
+      "category": "MECHANICAL",
+      "date": "2026-05-26T13:25:07+00:00",
+      "url": "https://www.engineering.com/goengineer-acquires-ska-to-expand-in-latin-america/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Unionfab expands industrial metal 3D printing services",
+      "category": "MECHANICAL",
+      "date": "2026-05-26T13:08:43+00:00",
+      "url": "https://www.engineering.com/unionfab-expands-industrial-metal-3d-printing-services/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ZFLOW AI improves B300 inference with simulation tuning",
+      "category": "MECHANICAL",
+      "date": "2026-05-26T13:02:08+00:00",
+      "url": "https://www.engineering.com/zflow-ai-improves-b300-inference-with-simulation-tuning/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Corsair launches AI workstations and servers",
+      "category": "MECHANICAL",
+      "date": "2026-05-26T12:54:49+00:00",
+      "url": "https://www.engineering.com/corsair-launches-ai-workstations-and-servers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Lessons learned from 60 years of additive manufacturing",
       "category": "MECHANICAL",
       "date": "2026-05-25T18:43:27+00:00",
@@ -7634,5 +7682,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-26T09:58:54.643370+00:00"
+  "last_updated_utc": "2026-05-26T15:35:12.347635+00:00"
 }

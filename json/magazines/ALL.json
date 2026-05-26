@@ -2,6 +2,126 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Festo introduces GripperAI universal software solution",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-26T14:26:42+00:00",
+      "url": "https://www.automationmag.com/festo-introduces-gripperai-universal-software-solution/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Kawasaki opens Silicon Valley hub for Physical AI",
+      "category": "MECHANICAL",
+      "date": "2026-05-26T14:18:30+00:00",
+      "url": "https://www.engineering.com/kawasaki-opens-silicon-valley-hub-for-physical-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Emerson partners with physical AI provider SiMa.ai",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-26T14:00:13+00:00",
+      "url": "https://www.automationmag.com/emerson-partners-with-physical-ai-provider-sima-ai/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Solving interconnection bottlenecks with data center load flexibility",
+      "category": "RENEWABLE",
+      "date": "2026-05-26T13:36:14+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/solving-interconnection-bottlenecks-with-data-center-load-flexibility/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Statkraft plans $7bn investment in Norwegian hydropower",
+      "category": "RENEWABLE",
+      "date": "2026-05-26T13:32:05+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/statkraft-plans-7bn-investment-in-norwegian-hydropower/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight, SRC UK collaborate on EW test modernization",
+      "category": "MECHANICAL",
+      "date": "2026-05-26T13:28:47+00:00",
+      "url": "https://www.engineering.com/keysight-src-uk-collaborate-on-ew-test-modernization/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Releasing cool water protects fish in the Grand Canyon. That comes at cost to hydropower",
+      "category": "RENEWABLE",
+      "date": "2026-05-26T13:26:37+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/releasing-cool-water-protects-fish-in-the-grand-canyon-that-comes-at-cost-to-hydropower/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "GoEngineer acquires SKA to expand in Latin America",
+      "category": "MECHANICAL",
+      "date": "2026-05-26T13:25:07+00:00",
+      "url": "https://www.engineering.com/goengineer-acquires-ska-to-expand-in-latin-america/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Unionfab expands industrial metal 3D printing services",
+      "category": "MECHANICAL",
+      "date": "2026-05-26T13:08:43+00:00",
+      "url": "https://www.engineering.com/unionfab-expands-industrial-metal-3d-printing-services/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ZFLOW AI improves B300 inference with simulation tuning",
+      "category": "MECHANICAL",
+      "date": "2026-05-26T13:02:08+00:00",
+      "url": "https://www.engineering.com/zflow-ai-improves-b300-inference-with-simulation-tuning/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Corsair launches AI workstations and servers",
+      "category": "MECHANICAL",
+      "date": "2026-05-26T12:54:49+00:00",
+      "url": "https://www.engineering.com/corsair-launches-ai-workstations-and-servers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Victory Metals gains access to US DIBC",
+      "category": "INDUSTRY",
+      "date": "2026-05-26T12:54:19+00:00",
+      "url": "https://www.mining-technology.com/news/victory-metals-gains-access-to-us-dibc/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "MinRes announces FID on Mt Marion lithium expansion in WA",
+      "category": "INDUSTRY",
+      "date": "2026-05-26T12:54:10+00:00",
+      "url": "https://www.mining-technology.com/news/minres-fid-mt-marion-lithium-expansion/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "China’s rare earth grip exposes UK critical minerals vulnerabilities",
+      "category": "INDUSTRY",
+      "date": "2026-05-26T10:21:22+00:00",
+      "url": "https://www.mining-technology.com/news/chinas-rare-earth-grip-exposes-uk-critical-minerals-vulnerabilities/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Forrestania Resources to acquire Midas Minerals",
+      "category": "INDUSTRY",
+      "date": "2026-05-26T10:12:51+00:00",
+      "url": "https://www.mining-technology.com/news/forrestania-resources-to-acquire-midas-minerals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Aurum secures three EIESA certificates for Boundiali Gold Project",
       "category": "INDUSTRY",
       "date": "2026-05-26T08:07:14+00:00",
@@ -27722,5 +27842,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-26T09:58:54.643370+00:00"
+  "last_updated_utc": "2026-05-26T15:35:12.347635+00:00"
 }

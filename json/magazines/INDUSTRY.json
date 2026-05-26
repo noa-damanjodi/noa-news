@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Victory Metals gains access to US DIBC",
+      "category": "INDUSTRY",
+      "date": "2026-05-26T12:54:19+00:00",
+      "url": "https://www.mining-technology.com/news/victory-metals-gains-access-to-us-dibc/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "MinRes announces FID on Mt Marion lithium expansion in WA",
+      "category": "INDUSTRY",
+      "date": "2026-05-26T12:54:10+00:00",
+      "url": "https://www.mining-technology.com/news/minres-fid-mt-marion-lithium-expansion/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "China’s rare earth grip exposes UK critical minerals vulnerabilities",
+      "category": "INDUSTRY",
+      "date": "2026-05-26T10:21:22+00:00",
+      "url": "https://www.mining-technology.com/news/chinas-rare-earth-grip-exposes-uk-critical-minerals-vulnerabilities/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Forrestania Resources to acquire Midas Minerals",
+      "category": "INDUSTRY",
+      "date": "2026-05-26T10:12:51+00:00",
+      "url": "https://www.mining-technology.com/news/forrestania-resources-to-acquire-midas-minerals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Aurum secures three EIESA certificates for Boundiali Gold Project",
       "category": "INDUSTRY",
       "date": "2026-05-26T08:07:14+00:00",
@@ -4738,5 +4770,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-26T09:58:54.643370+00:00"
+  "last_updated_utc": "2026-05-26T15:35:12.347635+00:00"
 }
