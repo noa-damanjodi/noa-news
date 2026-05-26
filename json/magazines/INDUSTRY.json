@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Aurum secures three EIESA certificates for Boundiali Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-05-26T08:07:14+00:00",
+      "url": "https://www.mining-technology.com/news/aurum-three-eiesa-certificates-boundiali-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "GDM signs gold offtake deal with MRI Trading",
+      "category": "INDUSTRY",
+      "date": "2026-05-26T08:06:33+00:00",
+      "url": "https://www.mining-technology.com/news/gdm-gold-offtake-deal-mri-trading/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Aben Gold secures Yukon mining licence for five-year exploration",
+      "category": "INDUSTRY",
+      "date": "2026-05-25T09:37:31+00:00",
+      "url": "https://www.mining-technology.com/news/aben-gold-yukon-mining-licence-five-year/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "China detains mine managers after Shanxi coal blast exposes safety failings",
       "category": "INDUSTRY",
       "date": "2026-05-24T23:00:33+00:00",
@@ -4714,5 +4738,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-26T03:42:39.343924+00:00"
+  "last_updated_utc": "2026-05-26T09:58:54.643370+00:00"
 }
