@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "DOL extends English-proficiency requirement to all commercial truck drivers",
+      "category": "SAFETY",
+      "date": "2026-05-26T19:27:31+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/dol-extends-english-proficiency-requirement-to-all-commercial-truck-drivers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "House bill would cut Chemical Safety Board’s funding by more than 40%",
+      "category": "SAFETY",
+      "date": "2026-05-26T18:15:49+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/house-bill-would-cut-chemical-safety-boards-funding-by-more-than-40/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Illinois lawmakers seek accommodations for workers experiencing menopause",
+      "category": "SAFETY",
+      "date": "2026-05-26T17:48:33+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/illinois-lawmakers-seek-accommodations-for-workers-experiencing-menopause/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Decarbonising mining: solar lights the way for electrification",
+      "category": "INDUSTRY",
+      "date": "2026-05-26T16:43:39+00:00",
+      "url": "https://www.mining-technology.com/features/decarbonising-mining-solar-lights-the-way-for-electrification/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Iran conflict makes clean energy look more secure – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-05-26T16:33:21+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/iran-conflict-makes-clean-energy-look-more-secure-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Why I love manufacturing people",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-26T16:21:03+00:00",
+      "url": "https://www.automationmag.com/why-i-love-manufacturing-people/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA inspection procedures now reflect 2024 HazCom update",
+      "category": "SAFETY",
+      "date": "2026-05-26T15:56:01+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-inspection-procedures-now-reflect-2024-hazcom-update/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Festo introduces GripperAI universal software solution",
       "category": "INSTRUMENTATION",
       "date": "2026-05-26T14:26:42+00:00",
@@ -27842,5 +27898,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-26T15:35:12.347635+00:00"
+  "last_updated_utc": "2026-05-26T20:10:15.466913+00:00"
 }

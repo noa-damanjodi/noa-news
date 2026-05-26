@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Iran conflict makes clean energy look more secure – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-05-26T16:33:21+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/iran-conflict-makes-clean-energy-look-more-secure-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Solving interconnection bottlenecks with data center load flexibility",
       "category": "RENEWABLE",
       "date": "2026-05-26T13:36:14+00:00",
@@ -2186,5 +2194,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-26T15:35:12.347635+00:00"
+  "last_updated_utc": "2026-05-26T20:10:15.466913+00:00"
 }

@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Why I love manufacturing people",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-26T16:21:03+00:00",
+      "url": "https://www.automationmag.com/why-i-love-manufacturing-people/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Festo introduces GripperAI universal software solution",
       "category": "INSTRUMENTATION",
       "date": "2026-05-26T14:26:42+00:00",
@@ -1826,5 +1834,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-26T15:35:12.347635+00:00"
+  "last_updated_utc": "2026-05-26T20:10:15.466913+00:00"
 }
