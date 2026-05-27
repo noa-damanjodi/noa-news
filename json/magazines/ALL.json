@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "33DPQ Podcast – John Kawola",
+      "category": "MECHANICAL",
+      "date": "2026-05-26T20:57:09+00:00",
+      "url": "https://www.engineering.com/33dpq-podcast-john-kawola/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HBK on why Smart Testing is the future of automotive engineering",
+      "category": "MECHANICAL",
+      "date": "2026-05-26T20:48:19+00:00",
+      "url": "https://www.engineering.com/hbk-on-why-smart-testing-is-the-future-of-automotive-engineering/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "DOL extends English-proficiency requirement to all commercial truck drivers",
       "category": "SAFETY",
       "date": "2026-05-26T19:27:31+00:00",
@@ -27898,5 +27914,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-26T20:10:15.466913+00:00"
+  "last_updated_utc": "2026-05-27T03:59:32.956577+00:00"
 }
