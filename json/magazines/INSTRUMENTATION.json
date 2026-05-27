@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "NGen leads $8 million investment in sovereign space launch capabilities",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-27T19:05:30+00:00",
+      "url": "https://www.automationmag.com/ngen-leads-8-million-investment-in-sovereign-space-launch-capabilities/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "IFS announces launch of IFS Zero",
+      "category": "INSTRUMENTATION",
+      "date": "2026-05-27T18:42:30+00:00",
+      "url": "https://www.automationmag.com/ifs-announces-launch-of-ifs-zero/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Why I love manufacturing people",
       "category": "INSTRUMENTATION",
       "date": "2026-05-26T16:21:03+00:00",
@@ -1834,5 +1850,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-27T15:48:40.911461+00:00"
+  "last_updated_utc": "2026-05-27T20:20:14.516323+00:00"
 }
