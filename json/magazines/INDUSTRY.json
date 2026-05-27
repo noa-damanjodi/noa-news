@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "New episode: Glut or shortage – what lies ahead for LNG?",
+      "category": "INDUSTRY",
+      "date": "2026-05-27T08:50:24+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-lng-glut-or-shortage/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metso to launch new lithium carbonate production method",
+      "category": "INDUSTRY",
+      "date": "2026-05-27T07:25:49+00:00",
+      "url": "https://www.mining-technology.com/news/metso-to-launch-lithium-carbonate-production/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "GoldMining starts exploration drilling at Colombia’s Yarumalito project",
+      "category": "INDUSTRY",
+      "date": "2026-05-27T07:25:07+00:00",
+      "url": "https://www.mining-technology.com/news/goldmining-starts-drilling-yarumalito-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Decarbonising mining: solar lights the way for electrification",
       "category": "INDUSTRY",
       "date": "2026-05-26T16:43:39+00:00",
@@ -4778,5 +4802,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-27T03:59:32.956577+00:00"
+  "last_updated_utc": "2026-05-27T09:54:15.615156+00:00"
 }

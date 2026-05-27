@@ -2,6 +2,118 @@
   "category": "ALL",
   "items": [
     {
+      "title": "New episode: Glut or shortage – what lies ahead for LNG?",
+      "category": "INDUSTRY",
+      "date": "2026-05-27T08:50:24+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-lng-glut-or-shortage/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metso to launch new lithium carbonate production method",
+      "category": "INDUSTRY",
+      "date": "2026-05-27T07:25:49+00:00",
+      "url": "https://www.mining-technology.com/news/metso-to-launch-lithium-carbonate-production/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "GoldMining starts exploration drilling at Colombia’s Yarumalito project",
+      "category": "INDUSTRY",
+      "date": "2026-05-27T07:25:07+00:00",
+      "url": "https://www.mining-technology.com/news/goldmining-starts-drilling-yarumalito-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "MNRE rules out blanket extension of ALMM List-II deadline beyond June 1, 2026",
+      "category": "POWER",
+      "date": "2026-05-27T05:35:32+00:00",
+      "url": "https://powerline.net.in/2026/05/27/mnre-rules-out-blanket-extension-of-almm-list-ii-deadline-beyond-june-1-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Adani Green commissions 1,990 MWh BESS and 50 MW solar project at Khavda",
+      "category": "POWER",
+      "date": "2026-05-27T05:34:33+00:00",
+      "url": "https://powerline.net.in/2026/05/27/adani-green-commissions-1990-mwh-bess-and-50-mw-solar-project-at-khavda/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ACME Solar signs PPA with SECI for 300 MW FDRE project",
+      "category": "POWER",
+      "date": "2026-05-27T05:33:27+00:00",
+      "url": "https://powerline.net.in/2026/05/27/acme-solar-signs-ppa-with-seci-for-300-mw-fdre-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "JSW Energy raises Rs 40 billion via qualified institutional placement",
+      "category": "POWER",
+      "date": "2026-05-27T05:32:24+00:00",
+      "url": "https://powerline.net.in/2026/05/27/jsw-energy-raises-rs-40-billion-via-qualified-institutional-placement/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Jindal India Power signs MoU with SCCL for coal supply from Naini mine",
+      "category": "POWER",
+      "date": "2026-05-27T05:31:20+00:00",
+      "url": "https://powerline.net.in/2026/05/27/jindal-india-power-signs-mou-with-sccl-for-coal-supply-from-naini-mine/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "POWERGRID reports Rs 159.28 billion net profit in 2025-26",
+      "category": "POWER",
+      "date": "2026-05-27T05:30:22+00:00",
+      "url": "https://powerline.net.in/2026/05/27/powergrid-reports-rs-159-28-billion-net-profit-in-2025-26/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NHPC reports Rs 42.2 billion net profit in 2025-26",
+      "category": "POWER",
+      "date": "2026-05-27T05:29:31+00:00",
+      "url": "https://powerline.net.in/2026/05/27/nhpc-reports-rs-42-2-billion-net-profit-in-2025-26/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Suzlon Energy reports Rs 31.63 billion net profit in 2025-26",
+      "category": "POWER",
+      "date": "2026-05-27T05:28:32+00:00",
+      "url": "https://powerline.net.in/2026/05/27/suzlon-energy-reports-rs-31-63-billion-net-profit-in-2025-26/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "THDC India reports Rs 10.29 billion net profit in 2025-26",
+      "category": "POWER",
+      "date": "2026-05-27T05:27:38+00:00",
+      "url": "https://powerline.net.in/2026/05/27/thdc-india-reports-rs-10-29-billion-net-profit-in-2025-26/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Singapore and ADB renew 3-year pact to back ASEAN power grid projects",
+      "category": "POWER",
+      "date": "2026-05-27T05:26:00+00:00",
+      "url": "https://powerline.net.in/2026/05/27/singapore-and-adb-renew-3-year-pact-to-back-asean-power-grid-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "How Leading Contractors are Capturing Safety Data at the Point of Work",
+      "category": "SAFETY",
+      "date": "2026-05-27T05:00:26+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/how-leading-contractors-are-capturing-safety-data-at-the-point-of-work/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "33DPQ Podcast – John Kawola",
       "category": "MECHANICAL",
       "date": "2026-05-26T20:57:09+00:00",
@@ -27914,5 +28026,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-27T03:59:32.956577+00:00"
+  "last_updated_utc": "2026-05-27T09:54:15.615156+00:00"
 }
