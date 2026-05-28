@@ -2,6 +2,38 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Inside PG&E’s ‘first of its kind’ wildfire monitoring center",
+      "category": "RENEWABLE",
+      "date": "2026-05-28T18:53:44+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/inside-pges-first-of-its-kind-wildfire-monitoring-center/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Inside GE Appliances’ AI agent rollout",
+      "category": "MECHANICAL",
+      "date": "2026-05-28T18:21:24+00:00",
+      "url": "https://www.engineering.com/inside-ge-appliances-ai-agent-rollout/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Don’t use these extension cords, consumer safety agency warns",
+      "category": "SAFETY",
+      "date": "2026-05-28T16:47:01+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/dont-use-these-extension-cords-consumer-safety-agency-warns/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Precision at Scale in an Increasingly Customized World",
+      "category": "MECHANICAL",
+      "date": "2026-05-28T15:56:06+00:00",
+      "url": "https://www.engineering.com/precision-at-scale-in-an-increasingly-customized-world/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "DOT: Medical marijuana ban still in place for safety-sensitive workers",
       "category": "SAFETY",
       "date": "2026-05-28T15:48:06+00:00",
@@ -18,7 +50,7 @@
       "type": "magazine"
     },
     {
-      "title": "Does Quebec have the workforce to meet its wind power aspirations?",
+      "title": "Does Quebec have the workforce to match its wind power aspirations?",
       "category": "RENEWABLE",
       "date": "2026-05-28T13:53:04+00:00",
       "url": "https://www.renewableenergyworld.com/wind-power/does-quebec-have-the-workforce-to-meet-its-wind-power-aspirations/",
@@ -28282,5 +28314,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-28T16:01:04.561648+00:00"
+  "last_updated_utc": "2026-05-28T20:25:08.470806+00:00"
 }

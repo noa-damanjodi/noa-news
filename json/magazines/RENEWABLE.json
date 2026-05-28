@@ -2,7 +2,15 @@
   "category": "RENEWABLE",
   "items": [
     {
-      "title": "Does Quebec have the workforce to meet its wind power aspirations?",
+      "title": "Inside PG&E’s ‘first of its kind’ wildfire monitoring center",
+      "category": "RENEWABLE",
+      "date": "2026-05-28T18:53:44+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/inside-pges-first-of-its-kind-wildfire-monitoring-center/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Does Quebec have the workforce to match its wind power aspirations?",
       "category": "RENEWABLE",
       "date": "2026-05-28T13:53:04+00:00",
       "url": "https://www.renewableenergyworld.com/wind-power/does-quebec-have-the-workforce-to-meet-its-wind-power-aspirations/",
@@ -2226,5 +2234,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-28T16:01:04.561648+00:00"
+  "last_updated_utc": "2026-05-28T20:25:08.470806+00:00"
 }
