@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "FORT Robotics acquires Mapless AI for supervised autonomy",
+      "category": "MECHANICAL",
+      "date": "2026-05-28T12:51:53+00:00",
+      "url": "https://www.engineering.com/fort-robotics-acquires-mapless-ai-for-supervised-autonomy/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IMAGINiT launches Clarity 2027 for AEC automation",
+      "category": "MECHANICAL",
+      "date": "2026-05-28T12:37:21+00:00",
+      "url": "https://www.engineering.com/imaginit-launches-clarity-2027-for-aec-automation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Scanology launches portable coordinate measuring arm",
+      "category": "MECHANICAL",
+      "date": "2026-05-28T12:33:40+00:00",
+      "url": "https://www.engineering.com/scanology-launches-portable-coordinate-measuring-arm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aitech to integrate NVIDIA IGX Thor in space systems",
+      "category": "MECHANICAL",
+      "date": "2026-05-28T12:10:42+00:00",
+      "url": "https://www.engineering.com/aitech-to-integrate-nvidia-igx-thor-in-space-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Verda selects Supermicro systems for AI cloud expansion",
+      "category": "MECHANICAL",
+      "date": "2026-05-28T12:00:27+00:00",
+      "url": "https://www.engineering.com/verda-selects-supermicro-systems-for-ai-cloud-expansion/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "JuliaHub launches Dyad 3.0 for physics-based simulation",
+      "category": "MECHANICAL",
+      "date": "2026-05-28T11:45:43+00:00",
+      "url": "https://www.engineering.com/juliahub-launches-dyad-3-0-for-physics-based-simulation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Stratasys to acquire Markforged in $42.5 million deal",
       "category": "MECHANICAL",
       "date": "2026-05-28T06:53:55+00:00",
@@ -7778,5 +7826,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-28T10:04:48.988718+00:00"
+  "last_updated_utc": "2026-05-28T16:01:04.561648+00:00"
 }

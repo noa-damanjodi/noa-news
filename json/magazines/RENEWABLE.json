@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Does Quebec have the workforce to meet its wind power aspirations?",
+      "category": "RENEWABLE",
+      "date": "2026-05-28T13:53:04+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/does-quebec-have-the-workforce-to-meet-its-wind-power-aspirations/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Specialist investor ArcLight to be acquired by global asset manager for up to $1B",
       "category": "RENEWABLE",
       "date": "2026-05-27T21:36:11+00:00",
@@ -2218,5 +2226,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-28T10:04:48.988718+00:00"
+  "last_updated_utc": "2026-05-28T16:01:04.561648+00:00"
 }
