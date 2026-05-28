@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Stratasys to acquire Markforged in $42.5 million deal",
+      "category": "MECHANICAL",
+      "date": "2026-05-28T06:53:55+00:00",
+      "url": "https://www.engineering.com/stratasys-to-acquire-markforged-in-42-5-million-deal/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Specialist investor ArcLight to be acquired by global asset manager for up to $1B",
       "category": "RENEWABLE",
       "date": "2026-05-27T21:36:11+00:00",
@@ -28186,5 +28194,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-28T03:47:42.401726+00:00"
+  "last_updated_utc": "2026-05-28T10:04:48.988718+00:00"
 }
