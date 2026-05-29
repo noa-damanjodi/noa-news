@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Local pushback against data centers hits a new high – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-05-29T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/local-pushback-against-data-centers-hits-a-new-high-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Project cancelations are accelerating while developers compete for sunsetting clean energy tax credits",
       "category": "RENEWABLE",
       "date": "2026-05-28T20:49:11+00:00",
@@ -2242,5 +2250,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-29T09:56:27.602375+00:00"
+  "last_updated_utc": "2026-05-29T15:37:56.054099+00:00"
 }
