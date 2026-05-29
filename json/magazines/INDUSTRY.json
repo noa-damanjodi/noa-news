@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Red Mountain Mining acquires 100% of Pioneer Tungsten Project",
+      "category": "INDUSTRY",
+      "date": "2026-05-29T07:34:47+00:00",
+      "url": "https://www.mining-technology.com/news/red-mountain-mining-acquires-pioneer-tungsten-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "UK inquiry thrusts tungsten mining into defence minerals spotlight",
       "category": "INDUSTRY",
       "date": "2026-05-28T12:00:18+00:00",
@@ -14,6 +22,14 @@
       "category": "INDUSTRY",
       "date": "2026-05-28T11:15:54+00:00",
       "url": "https://www.mining-technology.com/features/qa-thunderstones-ceo-on-whether-mining-can-extract-more-metal-with-less-rock/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Critical minerals are becoming the energy transition’s delivery constraint",
+      "category": "INDUSTRY",
+      "date": "2026-05-28T11:14:49+00:00",
+      "url": "https://www.mining-technology.com/analysis/critical-minerals-for-energy-transition/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -4842,5 +4858,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-29T03:49:35.451626+00:00"
+  "last_updated_utc": "2026-05-29T09:56:27.602375+00:00"
 }

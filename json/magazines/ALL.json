@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Red Mountain Mining acquires 100% of Pioneer Tungsten Project",
+      "category": "INDUSTRY",
+      "date": "2026-05-29T07:34:47+00:00",
+      "url": "https://www.mining-technology.com/news/red-mountain-mining-acquires-pioneer-tungsten-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "CERC notifies draft CERC (Deviation Settlement Mechanism and Related Matters) (Third Amendment) Regulations, 2026",
+      "category": "POWER",
+      "date": "2026-05-29T05:19:47+00:00",
+      "url": "https://powerline.net.in/2026/05/29/cerc-notifies-draft-cerc-deviation-settlement-mechanism-and-related-matters-third-amendment-regulations-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NTPC commissions 105 MW solar capacity at Khavda-II project in Gujarat",
+      "category": "POWER",
+      "date": "2026-05-29T05:18:54+00:00",
+      "url": "https://powerline.net.in/2026/05/29/ntpc-commissions-105-mw-solar-capacity-at-khavda-ii-project-in-gujarat/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "CleanMax raises $575 million for 1 GW renewable projects across Rajasthan and Karnataka",
+      "category": "POWER",
+      "date": "2026-05-29T05:18:01+00:00",
+      "url": "https://powerline.net.in/2026/05/29/cleanmax-raises-575-million-for-1-gw-renewable-projects-across-rajasthan-and-karnataka/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Saatvik Green Energy secures Rs 1.71 billion solar module supply order",
+      "category": "POWER",
+      "date": "2026-05-29T05:17:05+00:00",
+      "url": "https://powerline.net.in/2026/05/29/saatvik-green-energy-secures-rs-1-71-billion-solar-module-supply-order/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Arunachal Pradesh signs agreement with Greenko Demwe for 1,750 MW hydroelectric project",
+      "category": "POWER",
+      "date": "2026-05-29T05:15:58+00:00",
+      "url": "https://powerline.net.in/2026/05/29/arunachal-pradesh-signs-agreement-with-greenko-demwe-for-1750-mw-hydroelectric-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "China’s SGCC advances 500 kV grid expansion projects in three provinces",
+      "category": "POWER",
+      "date": "2026-05-29T05:13:46+00:00",
+      "url": "https://powerline.net.in/2026/05/29/chinas-sgcc-advances-500-kv-grid-expansion-projects-in-three-provinces/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Nepal’s NEA advances 220 kV Damauli–Bharatpur transmission line",
+      "category": "POWER",
+      "date": "2026-05-29T05:12:03+00:00",
+      "url": "https://powerline.net.in/2026/05/29/nepals-nea-advances-220-kv-damauli-bharatpur-transmission-line/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Project cancelations are accelerating while developers compete for sunsetting clean energy tax credits",
       "category": "RENEWABLE",
       "date": "2026-05-28T20:49:11+00:00",
@@ -126,6 +190,14 @@
       "category": "INDUSTRY",
       "date": "2026-05-28T11:15:54+00:00",
       "url": "https://www.mining-technology.com/features/qa-thunderstones-ceo-on-whether-mining-can-extract-more-metal-with-less-rock/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Critical minerals are becoming the energy transition’s delivery constraint",
+      "category": "INDUSTRY",
+      "date": "2026-05-28T11:14:49+00:00",
+      "url": "https://www.mining-technology.com/analysis/critical-minerals-for-energy-transition/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -28322,5 +28394,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-05-29T03:49:35.451626+00:00"
+  "last_updated_utc": "2026-05-29T09:56:27.602375+00:00"
 }
