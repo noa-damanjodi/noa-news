@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Synera works with NVIDIA on engineering AI agents",
+      "category": "MECHANICAL",
+      "date": "2026-06-01T12:16:02+00:00",
+      "url": "https://www.engineering.com/synera-works-with-nvidia-on-engineering-ai-agents/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence extends chip design agent to Level-5 autonomy",
+      "category": "MECHANICAL",
+      "date": "2026-06-01T12:10:29+00:00",
+      "url": "https://www.engineering.com/cadence-extends-chip-design-agent-to-level-5-autonomy/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro unveils AI data center deployment blueprints",
+      "category": "MECHANICAL",
+      "date": "2026-06-01T12:03:59+00:00",
+      "url": "https://www.engineering.com/supermicro-unveils-ai-data-center-deployment-blueprints/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MediaTek helps power NVIDIA RTX Spark PCs",
+      "category": "MECHANICAL",
+      "date": "2026-06-01T11:54:08+00:00",
+      "url": "https://www.engineering.com/mediatek-helps-power-nvidia-rtx-spark-pcs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Siemens and Samsung expand foundry design collaboration",
       "category": "MECHANICAL",
       "date": "2026-06-01T11:29:44+00:00",
@@ -7938,5 +7970,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-01T11:38:06.684821+00:00"
+  "last_updated_utc": "2026-06-01T17:43:33.606330+00:00"
 }

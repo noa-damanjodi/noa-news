@@ -2,6 +2,14 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Vermont finalizes landmark ban of paraquat",
+      "category": "SAFETY",
+      "date": "2026-06-01T17:18:16+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/vermont-finalizes-landmark-ban-of-paraquat/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Don’t use these extension cords, consumer safety agency warns",
       "category": "SAFETY",
       "date": "2026-05-28T16:47:01+00:00",
@@ -2530,5 +2538,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-01T11:38:06.684821+00:00"
+  "last_updated_utc": "2026-06-01T17:43:33.606330+00:00"
 }
