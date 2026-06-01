@@ -2,6 +2,142 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Siemens and Samsung expand foundry design collaboration",
+      "category": "MECHANICAL",
+      "date": "2026-06-01T11:29:44+00:00",
+      "url": "https://www.engineering.com/siemens-and-samsung-expand-foundry-design-collaboration/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "A holy crusade against AI? | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-06-01T10:55:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/a-holy-crusade-against-ai-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Petra Diamonds initiates Finsch rescue amid market downturn",
+      "category": "INDUSTRY",
+      "date": "2026-06-01T10:19:47+00:00",
+      "url": "https://www.mining-technology.com/news/petra-diamonds-finsch-rescue/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "HPE adds 2U server for agentic AI workloads",
+      "category": "MECHANICAL",
+      "date": "2026-06-01T10:05:44+00:00",
+      "url": "https://www.engineering.com/hpe-adds-2u-server-for-agentic-ai-workloads/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Stalled federal funding is freeing up to aid homeowners eyeing energy efficiency | Factor This podcast",
+      "category": "RENEWABLE",
+      "date": "2026-06-01T10:01:00+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/factor-this/stalled-federal-funding-is-freeing-up-to-aid-homeowners-eyeing-energy-efficiency-factor-this-podcast/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC named engine design software partner for TRD U.S.A.",
+      "category": "MECHANICAL",
+      "date": "2026-06-01T09:57:50+00:00",
+      "url": "https://www.engineering.com/ptc-named-engine-design-software-partner-for-trd-u-s-a/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Why mining operations are outgrowing Wi-Fi",
+      "category": "INDUSTRY",
+      "date": "2026-06-01T09:18:21+00:00",
+      "url": "https://www.mining-technology.com/sponsored/why-mining-operations-are-outgrowing-wi-fi/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Elcora signs deal to acquire South African gold mine",
+      "category": "INDUSTRY",
+      "date": "2026-06-01T07:51:58+00:00",
+      "url": "https://www.mining-technology.com/news/elcora-south-african-gold-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Critical One, GIP agree to support work at Howells Lake project",
+      "category": "INDUSTRY",
+      "date": "2026-06-01T07:37:28+00:00",
+      "url": "https://www.mining-technology.com/news/critical-one-gip-howells-lake-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NLC India Renewables and NCRTC incorporate JV for solar power projects",
+      "category": "POWER",
+      "date": "2026-06-01T05:47:13+00:00",
+      "url": "https://powerline.net.in/2026/06/01/nlc-india-renewables-and-ncrtc-incorporate-jv-for-solar-power-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Suyog Urja secures Rs 2.07 billion EPC contract for hybrid renewable energy project",
+      "category": "POWER",
+      "date": "2026-06-01T05:44:55+00:00",
+      "url": "https://powerline.net.in/2026/06/01/suyog-urja-secures-rs-2-07-billion-epc-contract-for-hybrid-renewable-energy-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BCCL commences operations at 2 MTPA Bhojudih coal washery",
+      "category": "POWER",
+      "date": "2026-06-01T05:42:57+00:00",
+      "url": "https://powerline.net.in/2026/06/01/bccl-commences-operations-at-2-mtpa-bhojudih-coal-washery/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "REC and ERDA sign agreement for quality assurance under RDSS",
+      "category": "POWER",
+      "date": "2026-06-01T05:41:35+00:00",
+      "url": "https://powerline.net.in/2026/06/01/rec-and-erda-sign-agreement-for-quality-assurance-under-rdss/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "SECL and CWC sign MoU to strengthen coal transportation and rail logistics",
+      "category": "POWER",
+      "date": "2026-06-01T05:40:04+00:00",
+      "url": "https://powerline.net.in/2026/06/01/secl-and-cwc-sign-mou-to-strengthen-coal-transportation-and-rail-logistics/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ADB and Singapore’s EMA renew partnership to support APG development",
+      "category": "POWER",
+      "date": "2026-06-01T05:38:56+00:00",
+      "url": "https://powerline.net.in/2026/06/01/adb-and-singapores-ema-renew-partnership-to-support-apg-development/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Vietnam’s EVNNPT invites banks to finance three 220 kV projects",
+      "category": "POWER",
+      "date": "2026-06-01T05:37:28+00:00",
+      "url": "https://powerline.net.in/2026/06/01/vietnams-evnnpt-invites-banks-to-finance-three-220-kv-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "SJVN Achieves COD of 70 MW Dhubri Solar Power Project",
+      "category": "ELECTRICAL",
+      "date": "2026-05-30T04:38:47+00:00",
+      "url": "https://www.electricalindia.in/sjvn-achieves-cod-of-70-mw-dhubri-solar-power-project/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Snowflake eyes Natoma, expands AWS deal",
       "category": "MECHANICAL",
       "date": "2026-05-29T16:59:04+00:00",
@@ -28522,5 +28658,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-01T04:15:25.874746+00:00"
+  "last_updated_utc": "2026-06-01T11:38:06.684821+00:00"
 }

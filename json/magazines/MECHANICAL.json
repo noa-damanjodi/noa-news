@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Siemens and Samsung expand foundry design collaboration",
+      "category": "MECHANICAL",
+      "date": "2026-06-01T11:29:44+00:00",
+      "url": "https://www.engineering.com/siemens-and-samsung-expand-foundry-design-collaboration/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HPE adds 2U server for agentic AI workloads",
+      "category": "MECHANICAL",
+      "date": "2026-06-01T10:05:44+00:00",
+      "url": "https://www.engineering.com/hpe-adds-2u-server-for-agentic-ai-workloads/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC named engine design software partner for TRD U.S.A.",
+      "category": "MECHANICAL",
+      "date": "2026-06-01T09:57:50+00:00",
+      "url": "https://www.engineering.com/ptc-named-engine-design-software-partner-for-trd-u-s-a/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Snowflake eyes Natoma, expands AWS deal",
       "category": "MECHANICAL",
       "date": "2026-05-29T16:59:04+00:00",
@@ -7914,5 +7938,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-01T04:15:25.874746+00:00"
+  "last_updated_utc": "2026-06-01T11:38:06.684821+00:00"
 }
