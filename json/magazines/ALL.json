@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Vertiv advances SmartRun digital twin for AI factories",
+      "category": "MECHANICAL",
+      "date": "2026-06-02T14:32:29+00:00",
+      "url": "https://www.engineering.com/vertiv-advances-smartrun-digital-twin-for-ai-factories/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "BE Networks, IREN simulate Blackwell Ultra AI cloud",
+      "category": "MECHANICAL",
+      "date": "2026-06-02T14:26:47+00:00",
+      "url": "https://www.engineering.com/be-networks-iren-simulate-blackwell-ultra-ai-cloud/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Quantinuum, Mitsubishi Electric plan quantum partnership",
+      "category": "MECHANICAL",
+      "date": "2026-06-02T13:42:38+00:00",
+      "url": "https://www.engineering.com/quantinuum-mitsubishi-electric-plan-quantum-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Unitree unveils H2 Plus humanoid reference design",
+      "category": "MECHANICAL",
+      "date": "2026-06-02T13:38:52+00:00",
+      "url": "https://www.engineering.com/unitree-unveils-h2-plus-humanoid-reference-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sharpa hands added to NVIDIA humanoid robot design",
+      "category": "MECHANICAL",
+      "date": "2026-06-02T13:31:38+00:00",
+      "url": "https://www.engineering.com/sharpa-hands-added-to-nvidia-humanoid-robot-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Solvay and Viridis sign LoI for rare earth supply",
+      "category": "INDUSTRY",
+      "date": "2026-06-02T13:06:19+00:00",
+      "url": "https://www.mining-technology.com/news/solvay-viridis-sign-loi-rare-earth-supply/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "RC drilling begins at Great Southern Copper’s Victoria prospect",
+      "category": "INDUSTRY",
+      "date": "2026-06-02T12:59:13+00:00",
+      "url": "https://www.mining-technology.com/news/rc-drilling-great-southern-coppers-victoria-prospect/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Has mining’s net-zero debate moved from corporate ambition to industrial reality?",
+      "category": "INDUSTRY",
+      "date": "2026-06-02T11:08:50+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/has-minings-net-zero-debate-moved-from-corporate-ambition-to-industrial-reality/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro adds 12 servers for Intel Xeon 6+",
+      "category": "MECHANICAL",
+      "date": "2026-06-02T11:01:13+00:00",
+      "url": "https://www.engineering.com/supermicro-adds-12-servers-for-intel-xeon-6/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Can upcycled EV batteries really power the grid? | Q&A with Moment Energy CEO Edward Chiang",
+      "category": "RENEWABLE",
+      "date": "2026-06-02T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/electric-vehicle/can-upcycled-ev-batteries-strengthen-the-grid-qa-with-moment-energy-ceo-edward-chiang/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Kenorland starts drilling at Ontario’s Western Wabigoon project",
+      "category": "INDUSTRY",
+      "date": "2026-06-02T10:24:23+00:00",
+      "url": "https://www.mining-technology.com/news/kenorland-starts-drilling-western-wabigoon-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Orla Mining halts Camino Rojo operations amid illegal stoppage",
       "category": "INDUSTRY",
       "date": "2026-06-02T07:58:29+00:00",
@@ -28866,5 +28954,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-02T10:26:32.163637+00:00"
+  "last_updated_utc": "2026-06-02T16:28:09.796398+00:00"
 }

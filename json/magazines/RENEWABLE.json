@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Can upcycled EV batteries really power the grid? | Q&A with Moment Energy CEO Edward Chiang",
+      "category": "RENEWABLE",
+      "date": "2026-06-02T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/electric-vehicle/can-upcycled-ev-batteries-strengthen-the-grid-qa-with-moment-energy-ceo-edward-chiang/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "‘Giga battery’ wind-hydro hybrid project begins commissioning",
       "category": "RENEWABLE",
       "date": "2026-06-01T20:12:02+00:00",
@@ -2314,5 +2322,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-02T10:26:32.163637+00:00"
+  "last_updated_utc": "2026-06-02T16:28:09.796398+00:00"
 }
