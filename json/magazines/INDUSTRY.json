@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Orla Mining halts Camino Rojo operations amid illegal stoppage",
+      "category": "INDUSTRY",
+      "date": "2026-06-02T07:58:29+00:00",
+      "url": "https://www.mining-technology.com/news/orla-mining-halts-camino-rojo-operations/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Cameco, Orano Canada to acquire TEPCO’s Cigar Lake interest",
+      "category": "INDUSTRY",
+      "date": "2026-06-02T07:50:09+00:00",
+      "url": "https://www.mining-technology.com/news/cameco-orano-canada-to-acquire-tepcos-cigar-lake-interest/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Cornish Metals advances exploration at South Crofty mine",
       "category": "INDUSTRY",
       "date": "2026-06-01T13:45:54+00:00",
@@ -4954,5 +4970,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-02T04:08:46.800546+00:00"
+  "last_updated_utc": "2026-06-02T10:26:32.163637+00:00"
 }
