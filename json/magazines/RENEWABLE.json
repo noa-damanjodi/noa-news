@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Opinion: Let’s not sit back while the world swaps Middle Eastern oil for Chinese solar",
+      "category": "RENEWABLE",
+      "date": "2026-06-02T19:00:40+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/opinion-lets-not-sit-back-while-the-world-swaps-middle-eastern-oil-for-chinese-solar/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Huge $3.2B HVDC transmission project adds ND cooperative to its utility consortium",
+      "category": "RENEWABLE",
+      "date": "2026-06-02T17:08:45+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/huge-3-2b-hvdc-transmission-project-adds-nd-cooperative-to-its-utility-consortium/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "How AI is reshaping cybersecurity in utility operations",
+      "category": "RENEWABLE",
+      "date": "2026-06-02T16:53:23+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/how-ai-is-reshaping-cybersecurity-in-utility-operations/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Can upcycled EV batteries really power the grid? | Q&A with Moment Energy CEO Edward Chiang",
       "category": "RENEWABLE",
       "date": "2026-06-02T11:00:00+00:00",
@@ -2322,5 +2346,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-02T16:28:09.796398+00:00"
+  "last_updated_utc": "2026-06-02T20:51:01.049248+00:00"
 }

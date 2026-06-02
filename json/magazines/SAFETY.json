@@ -2,7 +2,31 @@
   "category": "SAFETY",
   "items": [
     {
-      "title": "Organizations file suit over EPA’s missed asbestos deadline",
+      "title": "California moves toward ban on artificial stone countertop fabrication",
+      "category": "SAFETY",
+      "date": "2026-06-02T17:42:30+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/california-standards-board-moves-toward-ban-on-artificial-stone-countertop-fabrication/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Most workers believe they have a ‘toxic boss’: survey",
+      "category": "SAFETY",
+      "date": "2026-06-02T17:21:28+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/most-workers-believe-they-have-a-toxic-boss-survey/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA announces two meetings to prepare for UN’s GHS sessions",
+      "category": "SAFETY",
+      "date": "2026-06-02T16:29:06+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-announces-two-meetings-to-prepare-for-uns-ghs-sessions/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Group files suit over EPA’s missed asbestos deadline",
       "category": "SAFETY",
       "date": "2026-06-01T18:17:34+00:00",
       "url": "https://www.safetyandhealthmagazine.com/organizations-file-suit-over-epas-missed-asbestos-deadline/",
@@ -2554,5 +2578,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-02T16:28:09.796398+00:00"
+  "last_updated_utc": "2026-06-02T20:51:01.049248+00:00"
 }

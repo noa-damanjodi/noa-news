@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Stratasys and Markforged: ‘The perfect match’",
+      "category": "MECHANICAL",
+      "date": "2026-06-02T20:23:13+00:00",
+      "url": "https://www.engineering.com/stratasys-and-markforged-the-perfect-match/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Opinion: Let’s not sit back while the world swaps Middle Eastern oil for Chinese solar",
+      "category": "RENEWABLE",
+      "date": "2026-06-02T19:00:40+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/opinion-lets-not-sit-back-while-the-world-swaps-middle-eastern-oil-for-chinese-solar/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "California moves toward ban on artificial stone countertop fabrication",
+      "category": "SAFETY",
+      "date": "2026-06-02T17:42:30+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/california-standards-board-moves-toward-ban-on-artificial-stone-countertop-fabrication/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Most workers believe they have a ‘toxic boss’: survey",
+      "category": "SAFETY",
+      "date": "2026-06-02T17:21:28+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/most-workers-believe-they-have-a-toxic-boss-survey/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Huge $3.2B HVDC transmission project adds ND cooperative to its utility consortium",
+      "category": "RENEWABLE",
+      "date": "2026-06-02T17:08:45+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/huge-3-2b-hvdc-transmission-project-adds-nd-cooperative-to-its-utility-consortium/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "How AI is reshaping cybersecurity in utility operations",
+      "category": "RENEWABLE",
+      "date": "2026-06-02T16:53:23+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/how-ai-is-reshaping-cybersecurity-in-utility-operations/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA announces two meetings to prepare for UN’s GHS sessions",
+      "category": "SAFETY",
+      "date": "2026-06-02T16:29:06+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-announces-two-meetings-to-prepare-for-uns-ghs-sessions/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Vertiv advances SmartRun digital twin for AI factories",
       "category": "MECHANICAL",
       "date": "2026-06-02T14:32:29+00:00",
@@ -186,7 +242,7 @@
       "type": "magazine"
     },
     {
-      "title": "Organizations file suit over EPA’s missed asbestos deadline",
+      "title": "Group files suit over EPA’s missed asbestos deadline",
       "category": "SAFETY",
       "date": "2026-06-01T18:17:34+00:00",
       "url": "https://www.safetyandhealthmagazine.com/organizations-file-suit-over-epas-missed-asbestos-deadline/",
@@ -28954,5 +29010,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-02T16:28:09.796398+00:00"
+  "last_updated_utc": "2026-06-02T20:51:01.049248+00:00"
 }
