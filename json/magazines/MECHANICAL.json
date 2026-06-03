@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Ayar Labs joins NVIDIA NVLink Fusion ecosystem",
+      "category": "MECHANICAL",
+      "date": "2026-06-03T10:53:09+00:00",
+      "url": "https://www.engineering.com/ayar-labs-joins-nvidia-nvlink-fusion-ecosystem/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Causaly, Microsoft link computation and scientific reasoning",
+      "category": "MECHANICAL",
+      "date": "2026-06-03T10:20:56+00:00",
+      "url": "https://www.engineering.com/causaly-microsoft-link-computation-and-scientific-reasoning/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "33DPQ Podcast – Eric Beardslee",
       "category": "MECHANICAL",
       "date": "2026-06-02T23:20:25+00:00",
@@ -8042,5 +8058,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-03T04:18:38.664248+00:00"
+  "last_updated_utc": "2026-06-03T11:02:12.494110+00:00"
 }

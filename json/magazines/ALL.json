@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Ayar Labs joins NVIDIA NVLink Fusion ecosystem",
+      "category": "MECHANICAL",
+      "date": "2026-06-03T10:53:09+00:00",
+      "url": "https://www.engineering.com/ayar-labs-joins-nvidia-nvlink-fusion-ecosystem/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Causaly, Microsoft link computation and scientific reasoning",
+      "category": "MECHANICAL",
+      "date": "2026-06-03T10:20:56+00:00",
+      "url": "https://www.engineering.com/causaly-microsoft-link-computation-and-scientific-reasoning/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "April Issue 2026",
+      "category": "POWER",
+      "date": "2026-06-03T09:16:34+00:00",
+      "url": "https://powerline.net.in/2026/06/03/april-issue-2026-2/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "USA Rare Earth to build $1.2bn plant in South Carolina",
+      "category": "INDUSTRY",
+      "date": "2026-06-03T08:14:22+00:00",
+      "url": "https://www.mining-technology.com/news/usa-rare-earth-to-build-1-2bn-plant-south-carolina/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Leviathan begins drilling campaign at Botswana’s Central Project",
+      "category": "INDUSTRY",
+      "date": "2026-06-03T07:57:34+00:00",
+      "url": "https://www.mining-technology.com/news/leviathan-commences-10000m-drilling-central-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Sunsure Energy commissions 105 MWp solar project in Uttar Pradesh",
+      "category": "POWER",
+      "date": "2026-06-03T05:36:28+00:00",
+      "url": "https://powerline.net.in/2026/06/03/sunsure-energy-commissions-105-mwp-solar-project-in-uttar-pradesh/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hinduja Renewables signs agreements with industrial consumers for solar power supply",
+      "category": "POWER",
+      "date": "2026-06-03T05:35:25+00:00",
+      "url": "https://powerline.net.in/2026/06/03/hinduja-renewables-signs-agreements-with-industrial-consumers-for-solar-power-supply/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "DEE Development Engineers secures LoI for piping assembly contracts worth Rs 2.07 billion",
+      "category": "POWER",
+      "date": "2026-06-03T05:34:27+00:00",
+      "url": "https://powerline.net.in/2026/06/03/dee-development-engineers-secures-loi-for-piping-assembly-contracts-worth-rs-2-07-billion/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "UAE’s DEWA announces AED8.5 billion grid projects to be completed by 2028",
+      "category": "POWER",
+      "date": "2026-06-03T05:33:22+00:00",
+      "url": "https://powerline.net.in/2026/06/03/uaes-dewa-announces-aed8-5-billion-grid-projects-to-be-completed-by-2028/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "UAE’s AMEA Power breaks ground on 150 MW/300 MWh BESS project in Uzbekistan",
+      "category": "POWER",
+      "date": "2026-06-03T05:32:22+00:00",
+      "url": "https://powerline.net.in/2026/06/03/uaes-amea-power-breaks-ground-on-150-mw-300-mwh-bess-project-in-uzbekistan/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "APSPDCL shifts government electricity services to prepaid smart metering system",
+      "category": "POWER",
+      "date": "2026-06-03T05:30:38+00:00",
+      "url": "https://powerline.net.in/2026/06/03/apspdcl-shifts-government-electricity-services-to-prepaid-smart-metering-system/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "POWERGRID and Resonia acquire inter-state transmission SPVs from PFCCL",
+      "category": "POWER",
+      "date": "2026-06-03T05:28:53+00:00",
+      "url": "https://powerline.net.in/2026/06/03/powergrid-and-resonia-acquire-inter-state-transmission-spvs-from-pfccl/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "33DPQ Podcast – Eric Beardslee",
       "category": "MECHANICAL",
       "date": "2026-06-02T23:20:25+00:00",
@@ -29026,5 +29122,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-03T04:18:38.664248+00:00"
+  "last_updated_utc": "2026-06-03T11:02:12.494110+00:00"
 }
