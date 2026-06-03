@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "New episode: how big can, and should, mega turbines get?",
+      "category": "INDUSTRY",
+      "date": "2026-06-02T17:40:25+00:00",
+      "url": "https://www.mining-technology.com/news/new-episode-how-big-can-and-should-mega-turbines-get/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Solvay and Viridis sign LoI for rare earth supply",
       "category": "INDUSTRY",
       "date": "2026-06-02T13:06:19+00:00",
@@ -5002,5 +5010,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-02T20:51:01.049248+00:00"
+  "last_updated_utc": "2026-06-03T04:18:38.664248+00:00"
 }
