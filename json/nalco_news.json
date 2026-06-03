@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T16:25:22.461714Z",
+  "updated_at": "2026-06-03T22:26:21.751417Z",
   "count": 144,
   "items": [
     {
@@ -17,14 +17,6 @@
       "date": "2026-05-31",
       "timestamp": "2026-05-31T13:15:27+00:00",
       "summary": "Nalco Executive Director Sachidananda Jena superannuates&nbsp;&nbsp;scanx.trade"
-    },
-    {
-      "source": "Google News",
-      "title": "National Aluminium Company Ltd (NATIONALUM) Share Price - Business Today",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3ZTVXdKWjBFZUlMSjVXeTl1TzdLRFl1YjYtdGFTa3VkSGhFLXN0b0g2VlBod0ZKeHdzcGprdEo2U3ZZakRaRjZHd1BXSE1RVGozZFZBUEVHUGhONWh3VXpnbUlGWkFSSHgxNy1kV2Z3NUlVaW9qR3RGUFRDMDNiZTNxV2J3WmU2dTBad0tHN2NWNTk3UjVWaDJiRkI?oc=5",
-      "date": "2026-05-29",
-      "timestamp": "2026-05-29T10:29:00+00:00",
-      "summary": "National Aluminium Company Ltd (NATIONALUM) Share Price&nbsp;&nbsp;Business Today"
     },
     {
       "source": "Google News",
@@ -49,6 +41,14 @@
       "date": "2026-05-27",
       "timestamp": "2026-05-27T11:13:36+00:00",
       "summary": "Hindalco, NALCO jump up to 5% as global aluminium prices hit four-year high&nbsp;&nbsp;AL Circle"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO gets EAC nod to expand Angul power plant, greenbelt concerns flagged - Power Peak Digest",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MZlZFZkg0QTBXc1ltMG9GY3c0ZlpnZzY5NklpQ1RwNlFrM052cXBkQ0Z0VHdHcVpGLVF3a1NhSXpVdGpGS2xCSEtSNFhEQ0tYSm51elpucDRtc0NtX0l4ZWl5bkVyNk9kZUpHcXk1bjkwbEE?oc=5",
+      "date": "2026-05-25",
+      "timestamp": "2026-05-25T07:49:01+00:00",
+      "summary": "NALCO gets EAC nod to expand Angul power plant, greenbelt concerns flagged&nbsp;&nbsp;Power Peak Digest"
     },
     {
       "source": "Google News",
@@ -92,6 +92,14 @@
     },
     {
       "source": "Google News",
+      "title": "NALCO FY26: Ever-high aluminium prices lead to record profit, while bauxite & alumina sales drive revenue - AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeHA4MWZ5SzZiRTdGZU5QOXVNNmZ3S1VwRnhUWHBfNThrSUhqSTZ5d01KRzdidkhPanRyajI1MFdIMGczS21xN2h2Nk94TXFxQnN0UUR6WTFheEVjc0hMa0VxVjd0UThMd280QmZOeDFDSmxWUTlIemtYMUpwbHBZaVEwWE4wV1VzN3VIVGtGcHVIX3dOcW90aGxMbzhZZVVGdW9YZm8zYVVqNWpQeHlfUkdjaDcyb0JIM1BSTU9VSWtrY1YwWFRBeHpKMTRKdzA1ZHFNcQ?oc=5",
+      "date": "2026-05-05",
+      "timestamp": "2026-05-05T07:00:00+00:00",
+      "summary": "NALCO FY26: Ever-high aluminium prices lead to record profit, while bauxite & alumina sales drive revenue&nbsp;&nbsp;AL Circle"
+    },
+    {
+      "source": "Google News",
       "title": "NALCO FY26: Record ₹5,816 Cr Profit, Third Interim Dividend Declared - scanx.trade",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXJGUUhZMXpDZzhwdVZpemtHY3gtaUxCM3I1NGktZ3pmUnp6NEMwRFZRQkJYUEZrNndmVWxkNEFzYmpXNE4xeDY0V052b29fX0NieW4zcjV3RDFaS1JmSXJ0T3k1UFppTlZpNFJIcUJEOC14aFZ5bHpBakJyQjlfZlE5OWY4RFBTSF9TVl9HUnp1dkIwYklYX05oaTE2RVZWUDJES0hLc0V3dEVCSW5XTXJGbFlKVHpkSHFKNjhZYkV1N3RNRVV4TVA2LVNRd09GeE91anMxVldISDA?oc=5",
       "date": "2026-05-04",
@@ -129,6 +137,22 @@
       "date": "2026-04-30",
       "timestamp": "2026-04-30T07:00:00+00:00",
       "summary": "Nalco Q4 FY26 results: Net profit falls 16.6% to ₹1,722 cr, revenue dips&nbsp;&nbsp;Business Standard"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO posts 9% PAT surge to Rs 5,816 Cr, rewrites FY26 benchmarks - PSU Watch",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcE5BaVd2NEhkQ25iSDUxTk1hSDcyTE02RGV0TDZOQ1lrSDZGTG9kMVJqWnVIQzdjcS1zM1IzV1hKbmh0MTU0ZDFnZGRPc0Fmd3daLUxlSlJ5UDcyNDZPVHotZTQxb3hnR2xEZTRCbUphTXpaRVpqcUt4d1ZaTEVmRGY0N2VqVW9QZjduNTh3VzFaX3E4MG1PcGl5MNIBqAFBVV95cUxNeU5SOFNCVnNtbk1kYnlrRHg5TFVnbTFwVkwxRmdtaXhKdFIydFFFMlFVMUJNN3FsWnVaOXJHeXJCeFRxY1pjOVF3OGhwemx3SnZOOHJMalJTb1hiSGNZd01YWENkX2FkQnRiOFZuUTZLTmRnM0xmRG10aFVDOE1MUG1ScGVXTDNzQVFGenJIQVlnU3YxcHFSMzFRc25IdlEtYlZVT1gtOUQ?oc=5",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T07:00:00+00:00",
+      "summary": "NALCO posts 9% PAT surge to Rs 5,816 Cr, rewrites FY26 benchmarks&nbsp;&nbsp;PSU Watch"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO Announces Superannuation of Two Executive Directors - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaGdmMzlHaDZxOFpybEJoT1dMYjByNFFBT1hfTXRMcHdQMlRCX3lmTmc5SXkxdkJ1WDM5cUtpVmg3R29yVVVFeEx2WnpSTTV3ZXJLc0FQQWpSTm14U2tUT2syQWpwZjdQU1l5a2VQN04zOFhMN1llYlNTbHF2empwVXRnNF9iRWExT2xlU0drM3FNWlZtLTRhY1hnTmJwZ0t0TWpQcGI5MG91Q29lUjhYWS1fU1U?oc=5",
+      "date": "2026-04-30",
+      "timestamp": "2026-04-30T07:00:00+00:00",
+      "summary": "NALCO Announces Superannuation of Two Executive Directors&nbsp;&nbsp;scanx.trade"
     },
     {
       "source": "NALCO Press Release",
@@ -180,6 +204,22 @@
     },
     {
       "source": "Google News",
+      "title": "RITES shares rise 6.7% on revised NALCO-linked project, contract value nears INR 1.19B - AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYUtITWxzZ0Q0bVVENHdlakFOdndlQlBIcDlSNDU0RmdDbjRwUXozUTNTcm9jX2VIc1MxdF96Y0NyX2FtV1c5SUtZaXdZeHdKODREam1YUkx6N0hONDRLQ29fRW02UHR5TnNNZXBuc2NKQ2kxZ2xvTU1nTlcza20xRUl6d01XWF9mbWVONFdLZ3p3NTduYXN1Mk1PcGg0SXF0d05wSTA4TlhQWHozNmhPNFF6azVWb3hZdjlaVU1R?oc=5",
+      "date": "2026-04-10",
+      "timestamp": "2026-04-10T07:00:00+00:00",
+      "summary": "RITES shares rise 6.7% on revised NALCO-linked project, contract value nears INR 1.19B&nbsp;&nbsp;AL Circle"
+    },
+    {
+      "source": "Google News",
+      "title": "RITES order value for NALCO railway siding project revised to ₹118.89 crore - ET Infra",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdERmVHZSRE5nRE1mcG5ZeUxFY2xlZ1JqdTV4S0hJOUQ4LWNid3h5M09UX2lDb0JzYjhWRW02Ujd1SzNieHZYSGhrM0I5aDdRdjN6bF96M2dVQ3ZpX09XNk1peWQybzFVZlBxT1JvSFUwRmFXSVFDcGRMaG81T3AxcjBLSV92emV6U253VkpoMGltS3J1VDFzSVdvQTd6a0h3bnp1ZE9ZMTFwaW9hZ1k3dGJrX1dHQ091cWM0Mmp6R3lqUXFfV0pMbUhRcVRfb0RKQmVYV1lHb3Y5bUJXN0xtWl80Vnh3LXprRW1QMdIB8gFBVV95cUxOTmFfZUNINDNIX0NMNTJDam4wc3Zna0JuaFU5SFA2WlNOdVdSU3NYWnM5Z0JUT2F0NzEtMFFNbXUzUzI5ZTMweVBiWGRnX0dmcFU0VnZsZWFKeHpXYjFpRGl0N0RoQlZDTnNjVVBBamo3dDJLQVZPYlZPc3JjNUdfeE01MVJTdklXM3p2N0ptVnhCWm9HMUJmN0JkZm56QzhGa2drUWxJbzVqckZqaXVYQWhuM0p0RFRYOTY0UWFRc1V5ZmNHS1R2R1BLYmNGWi1uWEZGb1Y1MzluUk9HVGY5SzhNODE3RGY0ZUFYM0NyTkhmdw?oc=5",
+      "date": "2026-04-09",
+      "timestamp": "2026-04-09T07:00:00+00:00",
+      "summary": "RITES order value for NALCO railway siding project revised to ₹118.89 crore&nbsp;&nbsp;ET Infra"
+    },
+    {
+      "source": "Google News",
       "title": "NALCO Posts Historic FY26 Production And Sales Records - Construction World",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUmctM2lINUFDbWxqYXBDSjVmTjhxaWczUTNyTG9TNThHZUN1VmFxOExzaUwycHQwMXJ6TDVkbTNsMzh0VHZZdHNXVFpkTGNQLW1OeEw3NlJCRXoza2FVTTJNZE9vcU5sRUFKeHpLWXlBX2lFd1lCcW50cGlLMVItX2twM0tSeVdkSXAzTzlrLVJhNVZVYmFZUld1dEF6UUdKa21VY0pOMFBjbDd5Z3JMUm9scjZ6aWhqaWxCeHl4OWJmek0z?oc=5",
       "date": "2026-04-08",
@@ -220,6 +260,14 @@
     },
     {
       "source": "Google News",
+      "title": "NALCO Achieves Record-Breaking Performance in FY26, Sets New Milestones in Production and Sales - Machine Maker",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMWhyOE5Jc1F4TEN2TFUxaVNrUDlRTjFXc0M1b3gxQkk5TVFFeURIU3dJRmFhQ01lV3VZZ0M4QVpmdkJ3c2FEQ1JNNkJzbk9nUjdickFLU3J5dFdrS0txTkNQcGlnUkoyYzVSTzR1M1Jtc1hxbkQ3US1aSDJqVkc0cGY2WHFsOGhqZWhiNDZDQWhPTHYxTW5GQm5hQzhtUVY4eUFreUl6MzU0LU5VOENDeDdfcnlra0lRdUN5UU5vS0w0SlBkMURZ?oc=5",
+      "date": "2026-04-04",
+      "timestamp": "2026-04-04T07:00:00+00:00",
+      "summary": "NALCO Achieves Record-Breaking Performance in FY26, Sets New Milestones in Production and Sales&nbsp;&nbsp;Machine Maker"
+    },
+    {
+      "source": "Google News",
       "title": "NALCO achieves record-breaking production & sales performance - IndianMandarins",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ3QtWjhIaUxSdEpEaDZ0eFY0emQzTENBS0l1eVFGQkoxOEprMmJFWG42U3pRS2NtR2I1V1A2Snk0NkVYQlhxeHJ5Q2U5UjAzRG5iU3JkNzVBeEhaV1lOY0JJSTBYbUo4LVZRbzVFX3RQMFNNSHZPZGkzQlNmMjAteTA1SVYwQ2dROHloZXVFUG1HY2hIYzQ1dFVRMkw2c29COWlheQ?oc=5",
       "date": "2026-04-03",
@@ -236,11 +284,11 @@
     },
     {
       "source": "Google News",
-      "title": "Nalco posts record FY26 performance with 77 lakh tonnes bauxite evacuation - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQkgtV05aTmhGNXNXQWxiUVo1OVZoSF9icG14TjRWZmo4VFFkSzlUUEt1NUlPQ3Fxb2phWVpzT2s3MHFyUHBicUloRlN5elZHNHNiTU5KRXNqSTNHWGVlOEFZc3RTeUE2R3I0cUV0WlZkdTF6NDJ2eUZnWGUycWVvVzlfVHM0dDFRS293bk54VWp4V083TUNwczdnQ2dvYmo3UHc0Qk1fLTZqcXZ4UWdzRHRHQlVvSlVtbUw4MWd1OUNYT0taRFdQZ0RfOULSAdIBQVVfeXFMUEtNQ3ZQbTR2TDFRV3hoUTkxdGJsSVFjNml4eU5UNS1MTWlHYTVOWlowZV9YTXk5ZlRWT3R1MmFYMm5EMU1uZFI0cEJhOHlCb2xIWTg4RnZGWUZQNmlkSUJBaThuMW5fY0h6TjRYNDFQeHdYQjM3TkZnUS04dk1pLTc4WkY4NVJoV0w0cWpRcXRaUld0WkJSNktzTHVmWDY3a25vTDlxcS02eEJnWi13Qkcxc3hNSmRkcU8wMFVlMlBpUG5qNWkxeHBwUzZOWU5TZWV3?oc=5",
-      "date": "2026-04-02",
-      "timestamp": "2026-04-02T07:00:00+00:00",
-      "summary": "Nalco posts record FY26 performance with 77 lakh tonnes bauxite evacuation&nbsp;&nbsp;Business Standard"
+      "title": "NALCO posts record performance with 11.2% uptick in alumina production and 30.7% in sales - AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWlpyeDFKMGRmeEV6SGo1OHVpV3hiekRxNFNPV2N0TlpzYlhCRzl6cldfcG96dlZSSWNDSHJLcThtTzByVTdaMnB2SExLb05lckdTLVY4dlIxUm1aMThIWHdJZThsNnBzMUNxbzdHREpDcnMzT3d5Rm9PU2VNbWN2eF9QNkJsbXM5Y0tLSjJXc09hbmdVTW1Tek1SWlhBd0lqYzZYcXdTVzNINk1rYTBTZEQ0TVJuNVhtbG5oRmFLYXlSQQ?oc=5",
+      "date": "2026-04-03",
+      "timestamp": "2026-04-03T07:00:00+00:00",
+      "summary": "NALCO posts record performance with 11.2% uptick in alumina production and 30.7% in sales&nbsp;&nbsp;AL Circle"
     },
     {
       "source": "Google News",
@@ -252,6 +300,14 @@
     },
     {
       "source": "Google News",
+      "title": "Nalco posts record FY26 performance with 77 lakh tonnes bauxite evacuation - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQkgtV05aTmhGNXNXQWxiUVo1OVZoSF9icG14TjRWZmo4VFFkSzlUUEt1NUlPQ3Fxb2phWVpzT2s3MHFyUHBicUloRlN5elZHNHNiTU5KRXNqSTNHWGVlOEFZc3RTeUE2R3I0cUV0WlZkdTF6NDJ2eUZnWGUycWVvVzlfVHM0dDFRS293bk54VWp4V083TUNwczdnQ2dvYmo3UHc0Qk1fLTZqcXZ4UWdzRHRHQlVvSlVtbUw4MWd1OUNYT0taRFdQZ0RfOULSAdIBQVVfeXFMUEtNQ3ZQbTR2TDFRV3hoUTkxdGJsSVFjNml4eU5UNS1MTWlHYTVOWlowZV9YTXk5ZlRWT3R1MmFYMm5EMU1uZFI0cEJhOHlCb2xIWTg4RnZGWUZQNmlkSUJBaThuMW5fY0h6TjRYNDFQeHdYQjM3TkZnUS04dk1pLTc4WkY4NVJoV0w0cWpRcXRaUld0WkJSNktzTHVmWDY3a25vTDlxcS02eEJnWi13Qkcxc3hNSmRkcU8wMFVlMlBpUG5qNWkxeHBwUzZOWU5TZWV3?oc=5",
+      "date": "2026-04-02",
+      "timestamp": "2026-04-02T07:00:00+00:00",
+      "summary": "Nalco posts record FY26 performance with 77 lakh tonnes bauxite evacuation&nbsp;&nbsp;Business Standard"
+    },
+    {
+      "source": "Google News",
       "title": "NALCO FY26 update: Records highest-ever production, alumina sales up 31% - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGZNVDFqSlRtX1hhRWRBVzhrZUljNFdKWjRLYXdsQlRmNEw1cHd3RDNOUU0wV0d2N1RtaTNlbDZVenNmODJ2aVN2RFc1c3JTeGRwZk42ZVlzRFhTSGVTd2FrNjRlVnhSN1FJZ2ZrbWs1Y1pIQ2R2bldWZW51dGFReDdWSGtzUC0tbF9nLXg4VFUyNXRjRDJEUjRfbVZYQkY2NWZqYmdWV1FsNHRMOEcxUnRIVHRTY05xejhyVTM4em1NZ9IBxwFBVV95cUxQWHEzMGJHSG5CZUdUNUlzX0pIQ3A2dVBJQWtHS3lUS21JY3BkMTNSbkNvREg1NmhQczZ1Vk9rUzlSdXd5em01YmNadFZvTmRiangyYUtsa3YxcjNjZmpoQ1JZd3JyNkR6ekJtQXhoSFJWWnd0SVhDanh2aUdZdGx5Smw5Z1BIcEU4QlhOUkhHbGd1SmlPNHFjTWVYSFMzSnY1OS0wT3gwMlpSb0JHaHMyOEM2TUNlQUVhUGhqUnRaSC1BN3dXY2Fn?oc=5",
       "date": "2026-04-02",
@@ -260,19 +316,19 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Announces Cessation of Shri Sanjay Lohiya as Part-time Official Director - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORjYxRXNxalZnQ01rdHVBcFJJSFZKTTl0M3JTZmNsSGFtTW1fQkRmdFpZMG1MUFZGcTlFNHdqZzhoYkdER3lwcVNMM3A2Z3VTQzc3T2JzOHQyU0NXaWM3SGF3MHowbVZoQktGNThKUXVDaHoyWkFNY0hPQldncWxjWDQyRWhTd0xOdUFzR0lJWEdMTElKNU41MVVaX0VmcFJJak9yQk9DdG5yM2dWcHRyWGJkWWgxUlEzN1hueFhOSTA0d0hQbnRxdlhZSEdNS2pi?oc=5",
-      "date": "2026-04-02",
-      "timestamp": "2026-04-02T07:00:00+00:00",
-      "summary": "NALCO Announces Cessation of Shri Sanjay Lohiya as Part-time Official Director&nbsp;&nbsp;scanx.trade"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO Achieves Record Production & Sales in FY26 - Rediff MoneyWiz",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbTIzdE5TbUU5VVlXdG0ySVRDMXBfSldiNnFYalZYT2tqc3FZRnhPa2ZhVjdQbzM0N3U5X0U0NWlXTExhM0lWek1VSHpOVDdLbUlxMUdRd3pMS0xTMDMwVXVNWjh0QWhYRHBNeDZVZVV5SDVrQ1pnTXIwV1dkdzJpS0FxdUJvT0VoWWRmdFBCSHY0X3gzUnp3SXVBejgxc2vSAaQBQVVfeXFMTnZiR25IWlhTanBhYVdEY2ZRZG8xQmZOZklTVkZLS0M1X1FhU0toVmppeHNIZEI2REROekxGOFBiQU1FMTFtSmFGN3FrVFpiSW1sQ21Eak5KUmZjaHZINi1FRXdmdFBQS0drb1R5ckdOajZkY2NhSnplYzBIVzdCV2VBVUJGeE1VN1QyQzVpSjM0Sy1vU0FRWWFsaWVTRHZ6M1pYSVQ?oc=5",
       "date": "2026-04-02",
       "timestamp": "2026-04-02T07:00:00+00:00",
       "summary": "NALCO Achieves Record Production & Sales in FY26&nbsp;&nbsp;Rediff MoneyWiz"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO Announces Cessation of Shri Sanjay Lohiya as Part-time Official Director - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORjYxRXNxalZnQ01rdHVBcFJJSFZKTTl0M3JTZmNsSGFtTW1fQkRmdFpZMG1MUFZGcTlFNHdqZzhoYkdER3lwcVNMM3A2Z3VTQzc3T2JzOHQyU0NXaWM3SGF3MHowbVZoQktGNThKUXVDaHoyWkFNY0hPQldncWxjWDQyRWhTd0xOdUFzR0lJWEdMTElKNU41MVVaX0VmcFJJak9yQk9DdG5yM2dWcHRyWGJkWWgxUlEzN1hueFhOSTA0d0hQbnRxdlhZSEdNS2pi?oc=5",
+      "date": "2026-04-02",
+      "timestamp": "2026-04-02T07:00:00+00:00",
+      "summary": "NALCO Announces Cessation of Shri Sanjay Lohiya as Part-time Official Director&nbsp;&nbsp;scanx.trade"
     },
     {
       "source": "NALCO Press Release",
@@ -356,22 +412,6 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Promotes Nine Senior Executives to Executive Director Positions - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWnNlM1p5OXo3QjhrMGlKMl83R20zZC1nOFM2WWdjRFpJVDFEY2puUjhTb1JlbURCQkJ6UVkwNkgzaVJxSU1wOVdsMHhpQkZUMHk0N1FYU1VXRWhNaUk2YmlWNk8xMWpaa3VDX1N3ZVJLQk40bFZqVkVsTmhfSDE5WkkxV2xfTjVJTWZIb05Sd1FkTkhmamlJaHl5dHpoU1JLVExwV3phQ3gzU0VVTVFTSHQ3dGpxLXhPaDRLQXR2SmM?oc=5",
-      "date": "2026-03-06",
-      "timestamp": "2026-03-06T08:00:00+00:00",
-      "summary": "NALCO Promotes Nine Senior Executives to Executive Director Positions&nbsp;&nbsp;scanx.trade"
-    },
-    {
-      "source": "Google News",
-      "title": "Nalco shares up 18% in 8 days on West Asia tensions; buy or book profit? Target price - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNUJvdXRBb1RPVHBabHhEcWdLUjl1MFJmeE1rYndyd2hmRWdHeXl5cHlVS1RlSTdDNWpIaF9pYWhWZGdwYWVUY3BqcjM5eVBWNWVZTHdmQk9tRTZRVkhkZTJBRWJrbzJPbVBGVE5PODlJWDYwUUgtSFhVcVJyQl9aZEoyamh3Q05SUEZTVXR6LWQyd3Z4YjZoVm9kZVhFSWNGb2Uwd3FSQzBadFl0dlhjVU1DSDhFdFUwRnlEZzl4OUE4dDBERlZZRVVXYVNuMXltMW9XYUR3?oc=5",
-      "date": "2026-03-06",
-      "timestamp": "2026-03-06T07:10:43+00:00",
-      "summary": "Nalco shares up 18% in 8 days on West Asia tensions; buy or book profit? Target price&nbsp;&nbsp;MSN"
-    },
-    {
-      "source": "Google News",
       "title": "National Aluminium Company Ltd Valuation Shifts Amid Strong Market Performance - Markets Mojo",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWDlWcXJ0LTU5b3Y5VGhPNzJkZmxCLUwxdHRHOUd4WndwRmVhamVWU2JMQUNSV2dZNEpTNEdIRTBieEE3eER0RVJEWXhvTmZZRGo3eTNha016ZklicDRUNFVXX3dzS1dRNkFkVTVibW0zLXJyRVRRZ0lsRGtlZ2lOQ2JsNUhZTm0xb2hzZUlJcVZvNnFMbkNaMkpqUUVGcUNIeGM2dGh0QlhDd3FSeElVRDhvVER0S1h5dUtqVGsybnY3RklCQnNPS3Y3YWM1UExVZFE?oc=5",
       "date": "2026-03-06",
@@ -427,12 +467,28 @@
       "summary": "India’s Navratna CPSE NALCO Launches IA91 Grade Aluminium Alloy Ingot&nbsp;&nbsp;Deccan Chronicle"
     },
     {
+      "source": "Google News",
+      "title": "NALCO Launches IA91 Grade Aluminium Alloy Ingot for Advanced Industrial Applications - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ21yMFBoRUh2blFwRDFtMkZJYjVpSTBFS2R4Q291YjJNc2FZZnFCNFZabkxWLXVCd0ExOEdtRHVNY2pPVmdrN0VnUTFzaFZ1WmVhVTJXck9JbUNZM3Z1b3FnM3JZMks1QkxrTEtfbzgxRnZ0SG1lV3R4LTRac3YzWXF0cDF1Z1o3MmtlV1lfRmZHUDBjakg1ZFZjbGlJdzhQSmZRakM3a1VnWU02ZGlBRFlkcWJIMkwyQ3BibzZxQkVUQ3dmdElr?oc=5",
+      "date": "2026-02-25",
+      "timestamp": "2026-02-25T08:00:00+00:00",
+      "summary": "NALCO Launches IA91 Grade Aluminium Alloy Ingot for Advanced Industrial Applications&nbsp;&nbsp;scanx.trade"
+    },
+    {
       "source": "NALCO Press Release",
       "title": "NALCO Launches IA91 Grade Aluminium Alloy Ingot",
       "url": "https://nalcoindia.com/pre-rel/nalco-launches-ia91-grade-aluminium-alloy-ingot/",
       "date": "2026-02-25",
       "timestamp": "2026-02-25T00:00:00",
       "summary": "You are being redirected to the external website. Are you sure?"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO strengthens digital connectivity with BSNL 4G BTS launch at Koraput alumina refinery - AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX3h4SUNDMmZEVi1NdWxWSU9SMnhOVVNLLW1pTFZQbkFrMk9aQnJDMGxnRXE2MnpVRXpUYkZscDUtTnNRbVBoWHk0RXo1VWRLa0p6TjM3dmV5VUktdUlBUGFtTkxHeGktNEpNTnI5MWVLUWktaUNCTVZoSEl4ZVdyT1BIa0FBQk4zUmwyaHhzY3oyd1RoaDMxMWUxdDU0czJqdVpXbWtvR09EaE5mWnlCSWJISm4tQTNKaGE5RE9hQnA?oc=5",
+      "date": "2026-02-24",
+      "timestamp": "2026-02-24T08:00:00+00:00",
+      "summary": "NALCO strengthens digital connectivity with BSNL 4G BTS launch at Koraput alumina refinery&nbsp;&nbsp;AL Circle"
     },
     {
       "source": "Google News",
@@ -484,22 +540,6 @@
     },
     {
       "source": "Google News",
-      "title": "National Aluminium Company Ltd Reports Positive Quarterly Performance Amid Margin Pressure - Markets Mojo",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQemRXSXVDZUdwUFpyRzJCZzBJWkU3UHF4WXNCbHFKNS13ZnNEU2trSWdvcE9JdkI2NmdLdXpqdVU0bWRxSWJPdDZDZUFCUE5rczByUFVKZUNoYk81d25vYm5RUnpRa21oazVaYmxGSUJlLWdyOHB3bWEybkVlRzZnc2MtQzZPczJvbzBQN2RlVjNUNU1qNWtLampTbzBMV3ZHaFdicDMzVEdzWHVkS0lxSWVCbjRZLVBTRWktZkZtbHkxZ3MxV1Y2Z21vX2w0UHlnOWtMOWZNR1dSbDUzbW5NV0N3?oc=5",
-      "date": "2026-02-01",
-      "timestamp": "2026-02-01T08:00:00+00:00",
-      "summary": "National Aluminium Company Ltd Reports Positive Quarterly Performance Amid Margin Pressure&nbsp;&nbsp;Markets Mojo"
-    },
-    {
-      "source": "Google News",
-      "title": "National Aluminium Company Ltd: Valuation Shifts Signal Price Attractiveness Amid Strong Fundamentals - Markets Mojo",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQY1hBcU1iVGp4T0ZFR2Z4bjgteFdiUDh2aUhLUW4tcHdsbmlkTHJ5NU1sbnJkMEpSeXUtdmM1MThNMlNmUlJXTHdlNnRIRW8xQ3RoS09ZUWxQWlA1UzM1RkVuOGVHcmtzdzV1Qm9vdmt1S3VWVlBiLTRYakNtcTBTdkRfYUt0NnBPOFlSZ1RLWDRzWkpBb1RBenMxdjloLTl4MWk4TEdTN1pzanF5OF9GQTJKNWVhbXplVWtSazNDVXdXeHpBZUVXSzNncnlGT2NrSGpOZVFDZHUxT0R6M1l0Qnk1QWlWQlAwNW9WUDUzUQ?oc=5",
-      "date": "2026-02-01",
-      "timestamp": "2026-02-01T03:26:30+00:00",
-      "summary": "National Aluminium Company Ltd: Valuation Shifts Signal Price Attractiveness Amid Strong Fundamentals&nbsp;&nbsp;Markets Mojo"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO Q3 FY26 Net Profit Rises 1.8% to ₹1,595.15 Crore - India Infoline",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWThSSTB6b0ZUeWtIbkNzYUVGTmhCY3JtTnV3djJRa1dIb2xpd0RJVE0zX0kwMmJFeDhRZ2RqYjc4c0t2NkNBa3JnWkZnOE02RExHSmxnQ25sNmQ4WUV0cktNWkFUMjJaM2V5YkZ5RF83djFKNnNqRm02UmZxZWw4ODVpWVZkdEVMYTN6Zi0wM0RNUW9yLU9uNnB2N3c?oc=5",
       "date": "2026-01-31",
@@ -524,19 +564,19 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Q3 Results: Stock down 10% despite Aluminium business outperforming; Margins narrow - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbFk3b3AwSjNpNEZlRWdVcThNbTAwUE9Ua01UWG5MOFN5TVdXY3k2X2JkWFpNdTFYb2hzQUx4RU5KX1pjWWxxNlY4bV9hM3U2TnozV2NNeUt1Y0dLWUJYNG9tSU1ZTGlZVy1HYzhKOG9DanZ0ekVJTzdreWVRNHVzcXgxcDlheUY3ak14ZDdWTHk1RXFnQXVxSTZPZFFmZExkYWJqbTZtMFNWSWVLMUFsdXJZcGZXTDRQUkxwa9IBwgFBVV95cUxPNGk1eXp5emF4YVB0TjJpcF83YV9uMEE5U0ZvYlJ1RWstcHNYcHVlV3VxSFZUNEk2Yl90YmtnaTZlQW1EazJuWWdhUFNLRUxnZm9iTDZITE5TdnNqX0tkaHVkeEJQanNwYjFWVWZmX3B1dkJvcERGUlk5QVljSTVTNEpLdVM1V3VzZ2VrYk1vV3JaRXJlYkF0cHdKeWJhVVN0ZHdyQTlIbDdmVHk2TEZKVWRRdjU4dmtpZjNwWjJQMXRfdw?oc=5",
-      "date": "2026-01-30",
-      "timestamp": "2026-01-30T08:00:00+00:00",
-      "summary": "NALCO Q3 Results: Stock down 10% despite Aluminium business outperforming; Margins narrow&nbsp;&nbsp;CNBC TV18"
-    },
-    {
-      "source": "Google News",
       "title": "National Aluminium Company Q3 Net Profit Rises to ₹16.00 Billion, Exceeds Estimates - scanx.trade",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdlRtQk1EaEZkZkFSVUxCRjlJTEVtZk1KR1BmMXpYRzdsaFdlMk9sZWNLazgxMjVMRXdxV3hLMzZrVmk0SGZsdTFkZW9vMGxYNWhITjBEYlE2a2lhTi1fU1dLZzQzN2NzRUJuVFhyMlFla3RQMEFFRkV0aWozOEZublpyd1RpX2RKYURMQVNkWVhqMkgybkNlWUJLOWRoVnZxbEJFb202bTJIY09yU2JadWtGMlk4Uzd4YUF1djNwN0dKOVhyWDUwLUVkcWNNZEI1dUJj?oc=5",
       "date": "2026-01-30",
       "timestamp": "2026-01-30T08:00:00+00:00",
       "summary": "National Aluminium Company Q3 Net Profit Rises to ₹16.00 Billion, Exceeds Estimates&nbsp;&nbsp;scanx.trade"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO Q3 Results: Stock down 10% despite Aluminium business outperforming; Margins narrow - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbFk3b3AwSjNpNEZlRWdVcThNbTAwUE9Ua01UWG5MOFN5TVdXY3k2X2JkWFpNdTFYb2hzQUx4RU5KX1pjWWxxNlY4bV9hM3U2TnozV2NNeUt1Y0dLWUJYNG9tSU1ZTGlZVy1HYzhKOG9DanZ0ekVJTzdreWVRNHVzcXgxcDlheUY3ak14ZDdWTHk1RXFnQXVxSTZPZFFmZExkYWJqbTZtMFNWSWVLMUFsdXJZcGZXTDRQUkxwa9IBwgFBVV95cUxPNGk1eXp5emF4YVB0TjJpcF83YV9uMEE5U0ZvYlJ1RWstcHNYcHVlV3VxSFZUNEk2Yl90YmtnaTZlQW1EazJuWWdhUFNLRUxnZm9iTDZITE5TdnNqX0tkaHVkeEJQanNwYjFWVWZmX3B1dkJvcERGUlk5QVljSTVTNEpLdVM1V3VzZ2VrYk1vV3JaRXJlYkF0cHdKeWJhVVN0ZHdyQTlIbDdmVHk2TEZKVWRRdjU4dmtpZjNwWjJQMXRfdw?oc=5",
+      "date": "2026-01-30",
+      "timestamp": "2026-01-30T08:00:00+00:00",
+      "summary": "NALCO Q3 Results: Stock down 10% despite Aluminium business outperforming; Margins narrow&nbsp;&nbsp;CNBC TV18"
     },
     {
       "source": "Google News",
@@ -564,19 +604,19 @@
     },
     {
       "source": "Google News",
-      "title": "National Aluminium Company Ltd Delivers Exceptional Multibagger Returns Amid Strong Fundamentals - Markets Mojo",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcHpEQzdjOFdPZmpCSk1VRnFwbC02amQzaXdpdURPV3RUTzJjYkRhYl85MElVWmxRTVU2dzJPS0pnVFZ4ZnhMUTltX1lkUTZHQXNJWGFPd3BGdzRBcjR1dnBybDRDdXk3VnRwM2VndTFlX0tMbGZHTTBiaVJNOEh1SkQwNEtfcjhqdTNMVEsyem90OUlzZkpuYklPekc0X2RGSEZBWWRCd1lTV1QzWHlZZ2tlWkxrT0xmeDhJTlB6NFZQYVVOblIzR2szUEVyT2xDMWU5S1RRX0lNdml0Qkc2RU5OcUpmcXhCZXc?oc=5",
-      "date": "2026-01-28",
-      "timestamp": "2026-01-28T08:00:00+00:00",
-      "summary": "National Aluminium Company Ltd Delivers Exceptional Multibagger Returns Amid Strong Fundamentals&nbsp;&nbsp;Markets Mojo"
-    },
-    {
-      "source": "Google News",
       "title": "Why China’s 45 MTPA capacity cap is a turning point for NALCO investors - The Indian Express",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb0RZSjlMMnM3NG03dmpIOVdMMUsyQ1gydnhBeW9RQTlUeWRUd1BRRUVUOUQzVi1yWnlrQkxHbENvaDBydU9GdjBQUkRkQ1VBblotUkFjYUYtQ2JzNy1DOHBiNWdZaF9PS0xfUFR6TVN0cVVkaUJFaWFQcU5tUmZ2UXJOMFp5TmlJMllLMFA1ckhWaVktQzlsaFRnSUQ1T0VoUTBQMzdnZWtUQTF4Wm55VTdNSnlucHB3NktDamZpTnBaUWtyN2fSAcwBQVVfeXFMTmlCMjZGQ2RuV2VOaEtabjAzVG9pWFZxTzR5akNHOEk3b3lKNU1hUWpDTVNEdmJBOXkxZG53UlJXM0V5dHNHLUd2d0lna3hYZFRIUlI1cnhWYXdtaWs5SHdxNXF5S1dpdDl2VlBpMmo1TFItaVdZQjNKUHlYS2pzZ0Qzc2NQdEQteDZxN1pqVHFNZ2NJeGxoTlJZdWM2V3h1MUZxMGxCV1JmdGIxVVFPMS1MQ1pLZ3o4RWlSVTUwZWMtd01zaVdJLXZTTXNV?oc=5",
       "date": "2026-01-28",
       "timestamp": "2026-01-28T08:00:00+00:00",
       "summary": "Why China’s 45 MTPA capacity cap is a turning point for NALCO investors&nbsp;&nbsp;The Indian Express"
+    },
+    {
+      "source": "Google News",
+      "title": "National Aluminium Company Ltd Delivers Exceptional Multibagger Returns Amid Strong Fundamentals - Markets Mojo",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcHpEQzdjOFdPZmpCSk1VRnFwbC02amQzaXdpdURPV3RUTzJjYkRhYl85MElVWmxRTVU2dzJPS0pnVFZ4ZnhMUTltX1lkUTZHQXNJWGFPd3BGdzRBcjR1dnBybDRDdXk3VnRwM2VndTFlX0tMbGZHTTBiaVJNOEh1SkQwNEtfcjhqdTNMVEsyem90OUlzZkpuYklPekc0X2RGSEZBWWRCd1lTV1QzWHlZZ2tlWkxrT0xmeDhJTlB6NFZQYVVOblIzR2szUEVyT2xDMWU5S1RRX0lNdml0Qkc2RU5OcUpmcXhCZXc?oc=5",
+      "date": "2026-01-28",
+      "timestamp": "2026-01-28T08:00:00+00:00",
+      "summary": "National Aluminium Company Ltd Delivers Exceptional Multibagger Returns Amid Strong Fundamentals&nbsp;&nbsp;Markets Mojo"
     },
     {
       "source": "Google News",
@@ -593,6 +633,14 @@
       "date": "2026-01-19",
       "timestamp": "2026-01-19T08:00:00+00:00",
       "summary": "Aluminium sector is not yet ready for green transition: NALCO CMD&nbsp;&nbsp;The Indian Express"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO CMD concerned: Indian aluminium sector not prepared for a green shift - AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUZBeDcydVNWUVgzcE5xN0NMRDFjUHd3VlY0R3FUajM3b19vN3NKbjc0R3hqT1Z0Y1VDWjBwanhoWjlaZVpuLUYzX1FvdmFlckxxT0NCVU84RGNiQzVVSGFvWHA1ZGJBOTdCZjNtcm9OUGJYN3VMZ25GVWdFZHVCTWhSSm1RdmpfVThfNnVIV0hETFpmYXFyT3prZlp6dXRWanQ3STZkYXZZcVg1MnRoaw?oc=5",
+      "date": "2026-01-19",
+      "timestamp": "2026-01-19T08:00:00+00:00",
+      "summary": "NALCO CMD concerned: Indian aluminium sector not prepared for a green shift&nbsp;&nbsp;AL Circle"
     },
     {
       "source": "Google News",
@@ -676,14 +724,6 @@
     },
     {
       "source": "Google News",
-      "title": "National Aluminium Company Ltd Hits New 52-Week High at Rs.334.95 - Markets Mojo",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZGtmazZKeFh4MXQ3dTdSYlh3NUFMLWk0VEQycmtHME1VZm0wa241MEM0MTJGUm1ySlcwT0VUSl9rbzNVVkFLTGN5NC1YbHU5TTdFenl4Q3BrUTRuLXJlU25xQzNVZWd1R2l3T0YxTFlHbkdiUnZQZEtscEcwMjFReXM2WXBURlYxejlVZ0FHaFRHNXBEVVdNdTl5NXg5RkxhNkxQNTlyd3MzYlhLVXo3UEVtdlJ5cDZCNEVhRkNB?oc=5",
-      "date": "2026-01-05",
-      "timestamp": "2026-01-05T05:23:21+00:00",
-      "summary": "National Aluminium Company Ltd Hits New 52-Week High at Rs.334.95&nbsp;&nbsp;Markets Mojo"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO Board Formally Seeks Waiver for ₹10.86 Lakh Exchange Penalties - scanx.trade",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0F6VW5aVzZOUWFNeFJXTm5iQzZRaVNrTWw1RHhZbFE1SHRZRm90QUJXU0x5ZWNvcVliUC1mVko5bGFGUlcwbnIwYWw2WDVROHp1M2NmRF9RSjVKdVlKbWd4MDA3YXZTdUpwZGhpOW45TGN2Y2JLNTRpam1fOWpwSHh5amo5aURseURsYllEUC1GT3IyVHN1RG1obGhWV2hwRGRNY01rVlNuOV9veWtPWnVDeW01SW5say0yN2hlRHlXSUU?oc=5",
       "date": "2025-12-30",
@@ -756,6 +796,14 @@
     },
     {
       "source": "Google News",
+      "title": "NALCO’s breakout year: lower cost with high production signals dramatic growth - AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZjRiUVpFX1psRlFld1hEcTRqS2otZ1VNQVE3ZVM4M0RJMlJQQ19mdFRtdndxUEUxRjVDaDJhUkg1UXBKdzJ2SVUxTHl3aUJKNG1ycnQ0NElSY2VJSFFEM29sMURnUmdYQ2FBU0FmTlJYbGlPN0JUY1JnS2g0ZUNNSWpoMS1XQXM5c2ZXZ3RsNkFwenlFRHNZUDEtY1Mzd19vYWxyd2MwQ0RLbzhyUllJRWZiWQ?oc=5",
+      "date": "2025-12-07",
+      "timestamp": "2025-12-07T08:00:00+00:00",
+      "summary": "NALCO’s breakout year: lower cost with high production signals dramatic growth&nbsp;&nbsp;AL Circle"
+    },
+    {
+      "source": "Google News",
       "title": "Nalco plans to start Pottangi bauxite mines in Odisha by mid-2026 - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdnNKZGdid1pPa2w5azFJVXZRNXBCQ2xSOUJRNVhrS3BhTUNNT0Rxd29tQk9Bdnd2UG1CRldaSUlXbmd2UWlrakVUUW83ZnRqZ3hOZ0EzcFFWNzFoNk5UZGlrMUpVbFRFTWNZRWlXd0Q0SkpqT1BsOWRRQ1hRQkJ5Tk1hOTl4aXlDMUVSbzZidnMzT2Fwc0lDeHpQU2RiZzN3Nl9EMXFQaUR0cGo2RDVfR29vQUFIekpoQ0EydV90azU2M2x6NFZkMVgzQjFHVmvSAdQBQVVfeXFMUDlaWWhSWk93ZW04M3ZKbG9RTTNSWnp1NEdTVmdkXy1EMXZRcURQaU5uUzFJYkFJR2hNM0tNQmFoRHRxZ24wbUVyWC1ocnQybC1RMXA1RkNxd1FjVHhlYlhRUWc2OXFPQVB6ZjdISElha0tzTjdlXzhlNjRWZjJpbm9tUlg0eHhZeW1SaWNVVUxzbDd4UGl2ZW93UHJFX3ZIRHNOUzJGMlZEZVJBYVktWnNRR0tVV1h3Q1dWZVktSUZrblBWSVBvSXR3TDhDdVIzVjVTN3c?oc=5",
       "date": "2025-12-07",
@@ -777,14 +825,6 @@
       "date": "2025-11-24",
       "timestamp": "2025-11-24T08:00:00+00:00",
       "summary": "Dilip Buildcon leading bidder for NALCO’s Pottangi mines & IPCC system&nbsp;&nbsp;International Mining"
-    },
-    {
-      "source": "Google News",
-      "title": "Dilip Buildcon shares rise after receipt of ₹500 crore NALCO order - Mint",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMEZJb2pZUW5DNTFQTzN6UFdKZ0RmNTdFRXFFVndrNjk2TUg1ZjRZM0R5MnYwRzZmU2g3X0VuQWktVG44ZXRJeThQb3ZQTFE4QXVqQXpRN0M1b2oteHlIdGYybGVyUkhmblRwVlMycER1VkIxWjNaTDdoRWVtRGpQYm1xd3EtbDRFT2tpWUlCZS1rcDNGQ3QzZWpVbm95YW1UcFVhb3BUTW5hbklnQ1NFZkFBWk82aGF4TmN1YUhHbE9BaW40MFVtWG5iNlRmUzZm0gHWAUFVX3lxTFBYNE1pTnZfaWVrZ19pOWxkUy13VjAwTGhXTEQzUWVWR3lCMjBWVWZ5T1RPQlhBVDBDSUxONkFkb243UkFsUXdGclREeXdJdVRLenlhdjVuRi1jWEJGU3ZkLXRpSU82NjVIdVlZRllNSHUyN1pqVVJ6dTJaRDA4YzRDbkNnTkhMRTkzbjlFTFdCOGpBN0JsT2R4d0JBZG0tQjliZUFDNnFsS0FBSkk4OExieTZhX1ozTlRweFpueEltWk8yVUZ3ci1pMFMydEdJLTdMX0xfa0E?oc=5",
-      "date": "2025-11-24",
-      "timestamp": "2025-11-24T08:00:00+00:00",
-      "summary": "Dilip Buildcon shares rise after receipt of ₹500 crore NALCO order&nbsp;&nbsp;Mint"
     },
     {
       "source": "NALCO Press Release",
@@ -820,11 +860,11 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Unveils ₹7,000 Crore Investment Plan Amid Strong Q2 Performance - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzIxTExsLVVZQnRodlFfUW9oSzdPc0dzN2ZBeGZ0UEFMS3FCTzRFRlhvekp0MTh2a1pMbTZmNEdVa3BJY180QmtjUEljcFR2M1Fva0UzQ0NMZDY2VDc4NUEwS0N2MThSZjdQVi11Y0NFZFJGNDlzZ1Iyc2dEeHB0eGJ4eThSR0YxeDVXZGJnRGlHb1h6eXZMRjkxc3Y4TFpDMmE0UDBFLVJQTXkzQU1BNUFpZmRWN2FYalY4WnAxaGlJZw?oc=5",
-      "date": "2025-11-07",
-      "timestamp": "2025-11-07T08:00:00+00:00",
-      "summary": "NALCO Unveils ₹7,000 Crore Investment Plan Amid Strong Q2 Performance&nbsp;&nbsp;scanx.trade"
+      "title": "Nalco shares soar 9% after strong Q2 results, interim dividend cheer - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbExNdHFEVEhsN09SMjdEOHhyVkRpTWJtaFNxVUo4cDhuOXFDWDBWb2pZQXFsLWlIeWtwMnNHaGthY2JFSEdMRWJCN0U1NUVQQ05sX2k1THN6anBlV1dqVFlRNzllS0xxeExqVmxZR2E0ZWhGRjctUnh0NmVJbTU4bEdPSndBRFcyWENEMjBLTEpPVU1Qd2RFQVcyX3RQYi1LRFhPaDRrUnIzWUZpel8yVU5qVFdCQnhfRVRXdGhzMmZHWkpQR1JBZ3luMFlmdGhCNnBEd2ZPONIB3AFBVV95cUxNM0FfZjJiSnJfTk9GUHg5dkNaZWRQVUFDUW1hV01waG9aaVVWbUZjVlFlMWhMdkhpZVNURzA5cUo4RDA5SWJjeVlHNTdfVXlaVVk0WWw3cGFfNFE4dl9COVFueDZ1UmN0OFI5VFEzLUIyN2NvZFJ4UDFQNm5MRGQ2U0lRVWp6dnZGYlFmZXlyLUtXSHlNQndtR0tGV200S01yQWd0b2ZXZjRvMS11SFNGY19QRTVrU1RQZlNrOVlQLXY3Rl9IcXVTTDhtMGwzaUZLSV9JM2tPZzRQQVZ1?oc=5",
+      "date": "2025-11-10",
+      "timestamp": "2025-11-10T08:00:00+00:00",
+      "summary": "Nalco shares soar 9% after strong Q2 results, interim dividend cheer&nbsp;&nbsp;The Economic Times"
     },
     {
       "source": "Google News",
@@ -833,6 +873,14 @@
       "date": "2025-11-07",
       "timestamp": "2025-11-07T08:00:00+00:00",
       "summary": "Nalco Q2 results: Net profit soars 37% YoY to ₹1,430 crore, revenue rises 7%; board declares dividend&nbsp;&nbsp;Upstox"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO Unveils ₹7,000 Crore Investment Plan Amid Strong Q2 Performance - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzIxTExsLVVZQnRodlFfUW9oSzdPc0dzN2ZBeGZ0UEFMS3FCTzRFRlhvekp0MTh2a1pMbTZmNEdVa3BJY180QmtjUEljcFR2M1Fva0UzQ0NMZDY2VDc4NUEwS0N2MThSZjdQVi11Y0NFZFJGNDlzZ1Iyc2dEeHB0eGJ4eThSR0YxeDVXZGJnRGlHb1h6eXZMRjkxc3Y4TFpDMmE0UDBFLVJQTXkzQU1BNUFpZmRWN2FYalY4WnAxaGlJZw?oc=5",
+      "date": "2025-11-07",
+      "timestamp": "2025-11-07T08:00:00+00:00",
+      "summary": "NALCO Unveils ₹7,000 Crore Investment Plan Amid Strong Q2 Performance&nbsp;&nbsp;scanx.trade"
     },
     {
       "source": "Google News",
@@ -948,27 +996,11 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO to pump in ₹30,000 cr for expansion drive - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWU94SlN3S1l0Z3FhMXB6VW02R2hmMGlNYTJuMFNGV1dqa3V4TV9JRFdBaWRTWVU4SzdHNEE4QmlGT2FscTRPbUE5SzBXNjZ4RWVPWHZIRGhpeDdtdkc5aThwQm9GTG00Szc0OVFrR0ZjejlyWjZxVV9xVmtqSXpUNXlXUFUyVXdOTXItTE9tbVN6QVQyc1hidGFpVXFJNTdWT182cGlPdUZtRlo5azY1REZjazNIREdKNXZrX0VXZTRHMFNOWVZRMFVYSUV5SVhsdTBn0gHYAUFVX3lxTE9UdFlLUGNOejVGQ3NVOVpyNVpoQWVQMmFWSzdkT3VnRVJKOS1CWXJsMDBoaUFNVUQzV3R0U3ZsWUllV1JSbFZqdm00RWJ5N0lPWktlRldzc2hZWXFBZXFSMjM2TkFsMklEYnBIZjdZQjl2b1NlbWFNLS1QOFExS0hGNDRfalFBcGUzc050R2tJZm9fU2NjVjhsLTItSGNOR3hhY0FFaUdFS0lCckRTQXNSQjlNaWVQc1NlQXBjYW9tWE1GcVBDRDJDdmdaT3UxWldpa0VxNU4tQg?oc=5",
-      "date": "2025-08-29",
-      "timestamp": "2025-08-29T07:00:00+00:00",
-      "summary": "NALCO to pump in ₹30,000 cr for expansion drive&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO to invest Rs 35,600 cr in expansion, eyes Maharatna status by 2030 - PSU Watch",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcGMtbkozVGdlRHhVMFpOV3VqY3otRjZ6bFZTQWFoQmpPODRXUlFxajRVMEJVZHFmVjdEaEl2TVJiby00UU1wVXowUWE2b0tFS3dYcHlDbURXWDZBa2ZIOG9qekV6dF9PMG9XdDhDazNZUzROX0hPQmlKUlI2YVJZNFRta1NZeU0zeElGd29qMkpJdzVQbk9JbHNhWl9CLXdzaVdkeUhB0gGzAUFVX3lxTE02alRmYXg4WVNkcmx5Y2tEWUNnM1I3ZlZZQXZ3NTNKWmpxcjNxRUt1X1NiTWY0X1VuazJRaTBMWmhQRW1iWjFSaThmdDFKaEFBSHhrRkM5QXBFdTVWbnNnU2RJd0Z4bkR3UTYxc3BLaG1HMkc1TlFYM283U242OXJuak9aM1VMeUNwNlIzSG56S1QyZHlMMEdUWVFyTTJjbnBKOHk1V0x3cS1uWVFnVXViZnln?oc=5",
       "date": "2025-08-28",
       "timestamp": "2025-08-28T07:00:00+00:00",
       "summary": "NALCO to invest Rs 35,600 cr in expansion, eyes Maharatna status by 2030&nbsp;&nbsp;PSU Watch"
-    },
-    {
-      "source": "Google News",
-      "title": "Nalco To Invest Rs 30,000-Crore Capex By 2030: CMD Brijendra Pratap Singh - NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNXg5S2lReU5obmdhdEc4VHZlMUNFR0xJcjcxMFZNNGJ3U0hhQ0RyTnZDSVp3ajVPc05CTTdURWcyT1BnbVlFbzBtbEpuaDVOOW1FalNvYldQYTV0NFViQnc0RFNLb0VBcUNnT0Nad0xJMWFKN2NmVlpXbk5ZX3VyTG02R2Q5WjRGeTlMc19UaXVHak9ydWFUWk4xVF9VeE15LUlyU2I1SzNhWDE5TVJmU2RDcXJPbWw3UG1HQl9tZWhLRUc1UFA5UkYxcUZOQkk0UXkzVUZpdkhteEE4TFF30gHnAUFVX3lxTE5VRWd2UGNMNmJheDNnR0t2YnJSeGhEVmo5WVhlOC0zdkJRbnJQelY3RzdFZXlhOGM4SUd4V2RIUVJ0YmZVcGdPTUJTalhSRXBsYzhmaUtlSmhtZjRXTm9fYjNWdnRZVExHc1hGVGc3akhIQkEzUGYxWldXWVMxamZFRlBhODN1T3lSdkVRR0NLdXlQSW1sbW8wdWpCeVhqZU5BYXI3ckhiUDM1Q1hOb3pTdUN4UzRSeUhSZXBManhaVVY1b29yM2l0RkI0TzV1aVdzMGtRMm1Oei1jRU9ZbGJvQVdGN1Zwaw?oc=5",
-      "date": "2025-08-28",
-      "timestamp": "2025-08-28T07:00:00+00:00",
-      "summary": "Nalco To Invest Rs 30,000-Crore Capex By 2030: CMD Brijendra Pratap Singh&nbsp;&nbsp;NDTV Profit"
     },
     {
       "source": "Google News",
@@ -979,36 +1011,12 @@
       "summary": "NALCO eyeing at Maharatna tag by increasing production via expansions&nbsp;&nbsp;The Hindu"
     },
     {
-      "source": "Google News",
-      "title": "US tariff will have no impact on NALCO, company eyeing UK market: CMD - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcHQzU3FFREdFYnVkZGZKZG5xeWZqNm5kWm10eUo0QXNCYnI0aFlMOVdSWk1tdFZnSXNMYURXZllSQkpYeEVoeGJsV3l6V2JZNWwzNXZQYXplOW9kYWNadVdUeWI4Q0FCNHduYjRxbWJtMU9zUjNVWWRGWmZLT1VBcmkwWkdXSUdlNGp4MHFFeEYtX0xkVHgwWTF1X015ZXNRSmFqQlJVQlhHS2dWZ09pZGxXc2Qxa3ZjdXg4MEYyeGdWVG5BaXp5dXo2ZE81RXFkdVlrVE0yN05vNno0YzI3dUhIZno2MnlTb1pfSTRaUnrSAfYBQVVfeXFMTmdsRFdZMDRwTXhiMnpaemtuTHN3ZlVGRWFscGlmNzRMbkFXTmR5RUgwMXR2UXNLTXU2dkZHNVgtTmdxSXE2anNHN0JBZ1VZS1JheGhKOXhUaGd3a0M4WkJKSGZYNC1nVWtDTFRFSjBHTUY0YV9jMTBZWDFzWkhtNkdvRnhiTy1hZFpNMVExc29POG53Ulg3dm9CMVMzcERHel91RTZMSWFrZTB1emxyOGh0N3NzWGQ0MjRDTm9NQ280d3lIX19IOXJLR0JNWlJ6TzBNakNKdHJSZERYN1lDalctRGFpeW4tcXZVdjFQbXZ5dEtmYkVB?oc=5",
-      "date": "2025-08-19",
-      "timestamp": "2025-08-19T07:00:00+00:00",
-      "summary": "US tariff will have no impact on NALCO, company eyeing UK market: CMD&nbsp;&nbsp;The Economic Times"
-    },
-    {
       "source": "NALCO Press Release",
       "title": "NALCO organised “Media Connect 2025”",
       "url": "https://nalcoindia.com/pre-rel/nalco-organised-media-connect-2025/",
       "date": "2025-08-19",
       "timestamp": "2025-08-19T00:00:00",
       "summary": "You are being redirected to the external website. Are you sure?"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO profits soar 77% - Aluminium International Today",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uX3RlZjFRUEZ5bDFzWEFWWVc0RS1BOV9XOWNIUWUyWURUNTNIODZ4SDlOZ3o3M0tQMjJaUUNnWTFGS2cyZHdidnhlWFJ5dC1wdlk5LXh3bjVDUklwWDBFYWJCZw?oc=5",
-      "date": "2025-08-11",
-      "timestamp": "2025-08-11T07:00:00+00:00",
-      "summary": "NALCO profits soar 77%&nbsp;&nbsp;Aluminium International Today"
-    },
-    {
-      "source": "Google News",
-      "title": "National Aluminium Co Unveils Ambitious Expansion Plans, Including Foray into Aluminum Foil Segment - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMDVORXk5N0x0eEd0dHcxU0V2cGlOSEpYRnJocDI4MWVCTy1KalF4NUx3U2hpdXdMYWFfbmFvM3BJcjVYVUJQSWFCVm5rNGtFamZEYXA2S0FDcU1NQmU2VlZNRW1jQmJVYmo2V3poZ2dRX1VFYzlKT0hCNHQtTEFVNlByelQ5RW9nTHhXeDVVQjFhNTc5dTB3VTFqS3NPQ1ZYWWI5VEFsQ3NtdE5Xa3dXbDAxVzVmYVJLckxITU9zVF85bUF3bHVTU0JpTkhBdVd5NzRrVUNlS1Y2bk5MZjRTMm96eFBnSWw2a0N3UmN6aGFibGNYTEE?oc=5",
-      "date": "2025-08-10",
-      "timestamp": "2025-08-10T07:00:00+00:00",
-      "summary": "National Aluminium Co Unveils Ambitious Expansion Plans, Including Foray into Aluminum Foil Segment&nbsp;&nbsp;scanx.trade"
     },
     {
       "source": "NALCO Press Release",
@@ -1025,14 +1033,6 @@
       "date": "2025-07-25",
       "timestamp": "2025-07-25T00:00:00",
       "summary": "You are being redirected to the external website. Are you sure?"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO stock rises 2.07 per cent on day’s trade - AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFhlQUVJRVFKMmctUjNtYnUteTVVX015OFZVNER3NWZZcmRNTzM1dDhzSjVQT3pubk9WX3BaTGJZWWx2cnVsa3V2SzlGY3o0cmJ4dm5yQ3pCbG5lLUZxNWptWVRWZ3hpNE5Id2t2VVZENEdpX2FvcUlMQi1ScVNocWJnYWx4RUhsNEE?oc=5",
-      "date": "2025-07-22",
-      "timestamp": "2025-07-22T07:00:00+00:00",
-      "summary": "NALCO stock rises 2.07 per cent on day’s trade&nbsp;&nbsp;AL Circle"
     },
     {
       "source": "NALCO Press Release",
