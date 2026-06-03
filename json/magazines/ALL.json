@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Robotiq introduces IQ, AI-enabled platform for robotic work cell integration",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-03T16:47:32+00:00",
+      "url": "https://www.automationmag.com/robotiq-introduces-iq-ai-enabled-platform-for-robotic-work-cell-integration/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Fatal blast leads to call for better awareness of equipment limitations",
+      "category": "SAFETY",
+      "date": "2026-06-03T16:38:37+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fatal-blast-leads-to-call-for-better-awareness-of-equipment-limitations/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Kinaxis introduces Forward Deployed Engineering engagement model",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-03T16:35:37+00:00",
+      "url": "https://www.automationmag.com/kinaxis-introduces-forward-deployed-engineering-engagement-model/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Spaceflight study may offer insights for working in extreme conditions",
+      "category": "SAFETY",
+      "date": "2026-06-03T16:32:18+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/spaceflight-study-may-offer-insights-for-working-in-extreme-conditions/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hazard alert has safety tips for tow truck drivers",
+      "category": "SAFETY",
+      "date": "2026-06-03T16:28:01+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/hazard-alert-has-safety-tips-for-tow-truck-drivers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "IronCAD 2027 adds AI tools and design updates",
+      "category": "MECHANICAL",
+      "date": "2026-06-03T14:56:50+00:00",
+      "url": "https://www.engineering.com/ironcad-2027-adds-ai-tools-and-design-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Automation alone is not the advantage",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-03T14:24:34+00:00",
+      "url": "https://www.automationmag.com/automation-alone-is-not-the-advantage/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "TERAGO and Ericsson launch enterprise private 5G network at McMaster Manufacturing Research Institute",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-03T14:04:33+00:00",
+      "url": "https://www.automationmag.com/terago-and-ericsson-launch-enterprise-private-5g-network-at-mcmaster-manufacturing-research-institute/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "American Pacific begins testing MT anomaly at Madison project",
+      "category": "INDUSTRY",
+      "date": "2026-06-03T13:31:05+00:00",
+      "url": "https://www.mining-technology.com/news/american-pacific-testing-mt-anomaly-madison-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA unveils RTX Spark superchip for Windows PCs",
+      "category": "MECHANICAL",
+      "date": "2026-06-03T11:29:58+00:00",
+      "url": "https://www.engineering.com/nvidia-unveils-rtx-spark-superchip-for-windows-pcs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro introduces Arm-based rack-scale AI systems",
+      "category": "MECHANICAL",
+      "date": "2026-06-03T11:03:37+00:00",
+      "url": "https://www.engineering.com/supermicro-introduces-arm-based-rack-scale-ai-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Electric launches Uniflair XCA chillers",
+      "category": "MECHANICAL",
+      "date": "2026-06-03T10:58:00+00:00",
+      "url": "https://www.engineering.com/schneider-electric-launches-uniflair-xca-chillers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Ayar Labs joins NVIDIA NVLink Fusion ecosystem",
       "category": "MECHANICAL",
       "date": "2026-06-03T10:53:09+00:00",
@@ -15,6 +111,14 @@
       "date": "2026-06-03T10:20:56+00:00",
       "url": "https://www.engineering.com/causaly-microsoft-link-computation-and-scientific-reasoning/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Legacy Minerals signs agreement with Aurelia Metals for Cobar Project",
+      "category": "INDUSTRY",
+      "date": "2026-06-03T10:12:22+00:00",
+      "url": "https://www.mining-technology.com/news/legacy-minerals-agreement-aurelia-cobar-project/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -138,7 +242,7 @@
       "type": "magazine"
     },
     {
-      "title": "Most workers believe they have a ‘toxic boss’: survey",
+      "title": "Most workers believe they have a ‘toxic’ boss: survey",
       "category": "SAFETY",
       "date": "2026-06-02T17:21:28+00:00",
       "url": "https://www.safetyandhealthmagazine.com/most-workers-believe-they-have-a-toxic-boss-survey/",
@@ -29122,5 +29226,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-03T11:02:12.494110+00:00"
+  "last_updated_utc": "2026-06-03T16:52:05.332008+00:00"
 }

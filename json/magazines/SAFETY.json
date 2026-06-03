@@ -2,6 +2,30 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Fatal blast leads to call for better awareness of equipment limitations",
+      "category": "SAFETY",
+      "date": "2026-06-03T16:38:37+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fatal-blast-leads-to-call-for-better-awareness-of-equipment-limitations/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Spaceflight study may offer insights for working in extreme conditions",
+      "category": "SAFETY",
+      "date": "2026-06-03T16:32:18+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/spaceflight-study-may-offer-insights-for-working-in-extreme-conditions/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hazard alert has safety tips for tow truck drivers",
+      "category": "SAFETY",
+      "date": "2026-06-03T16:28:01+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/hazard-alert-has-safety-tips-for-tow-truck-drivers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "California moves toward ban on artificial stone countertop fabrication",
       "category": "SAFETY",
       "date": "2026-06-02T17:42:30+00:00",
@@ -10,7 +34,7 @@
       "type": "magazine"
     },
     {
-      "title": "Most workers believe they have a ‘toxic boss’: survey",
+      "title": "Most workers believe they have a ‘toxic’ boss: survey",
       "category": "SAFETY",
       "date": "2026-06-02T17:21:28+00:00",
       "url": "https://www.safetyandhealthmagazine.com/most-workers-believe-they-have-a-toxic-boss-survey/",
@@ -2578,5 +2602,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-03T11:02:12.494110+00:00"
+  "last_updated_utc": "2026-06-03T16:52:05.332008+00:00"
 }

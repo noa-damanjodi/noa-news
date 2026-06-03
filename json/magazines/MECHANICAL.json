@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "IronCAD 2027 adds AI tools and design updates",
+      "category": "MECHANICAL",
+      "date": "2026-06-03T14:56:50+00:00",
+      "url": "https://www.engineering.com/ironcad-2027-adds-ai-tools-and-design-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA unveils RTX Spark superchip for Windows PCs",
+      "category": "MECHANICAL",
+      "date": "2026-06-03T11:29:58+00:00",
+      "url": "https://www.engineering.com/nvidia-unveils-rtx-spark-superchip-for-windows-pcs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro introduces Arm-based rack-scale AI systems",
+      "category": "MECHANICAL",
+      "date": "2026-06-03T11:03:37+00:00",
+      "url": "https://www.engineering.com/supermicro-introduces-arm-based-rack-scale-ai-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Electric launches Uniflair XCA chillers",
+      "category": "MECHANICAL",
+      "date": "2026-06-03T10:58:00+00:00",
+      "url": "https://www.engineering.com/schneider-electric-launches-uniflair-xca-chillers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Ayar Labs joins NVIDIA NVLink Fusion ecosystem",
       "category": "MECHANICAL",
       "date": "2026-06-03T10:53:09+00:00",
@@ -8058,5 +8090,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-03T11:02:12.494110+00:00"
+  "last_updated_utc": "2026-06-03T16:52:05.332008+00:00"
 }

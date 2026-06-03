@@ -2,6 +2,38 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Robotiq introduces IQ, AI-enabled platform for robotic work cell integration",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-03T16:47:32+00:00",
+      "url": "https://www.automationmag.com/robotiq-introduces-iq-ai-enabled-platform-for-robotic-work-cell-integration/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Kinaxis introduces Forward Deployed Engineering engagement model",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-03T16:35:37+00:00",
+      "url": "https://www.automationmag.com/kinaxis-introduces-forward-deployed-engineering-engagement-model/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Automation alone is not the advantage",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-03T14:24:34+00:00",
+      "url": "https://www.automationmag.com/automation-alone-is-not-the-advantage/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "TERAGO and Ericsson launch enterprise private 5G network at McMaster Manufacturing Research Institute",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-03T14:04:33+00:00",
+      "url": "https://www.automationmag.com/terago-and-ericsson-launch-enterprise-private-5g-network-at-mcmaster-manufacturing-research-institute/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "May PMI paints uncertain picture, geopolitical uncertainty impacting market optimism",
       "category": "INSTRUMENTATION",
       "date": "2026-06-01T20:23:37+00:00",
@@ -1858,5 +1890,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-03T11:02:12.494110+00:00"
+  "last_updated_utc": "2026-06-03T16:52:05.332008+00:00"
 }
