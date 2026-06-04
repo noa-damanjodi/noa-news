@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Kalgoorlie Nickel wins lead agency status for KNP-Goongarrie Hub",
+      "category": "INDUSTRY",
+      "date": "2026-06-04T13:21:27+00:00",
+      "url": "https://www.mining-technology.com/news/kalgoorlie-nickel-lead-agency-status-knp-goongarrie/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "The future of mining intelligence starts above the pit",
+      "category": "INDUSTRY",
+      "date": "2026-06-04T10:47:19+00:00",
+      "url": "https://www.mining-technology.com/comment/the-future-of-mining-intelligence-starts-above-the-pit/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Solstice Gold finds high-grade gold and polymetallic deposits in Ontario",
+      "category": "INDUSTRY",
+      "date": "2026-06-04T10:05:24+00:00",
+      "url": "https://www.mining-technology.com/news/solstice-gold-finds-gold-and-polymetallic-deposits/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Latitude 66 releases final phase two drill results at Laverton Gold Project",
       "category": "INDUSTRY",
       "date": "2026-06-04T07:28:44+00:00",
@@ -5066,5 +5090,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-04T10:00:51.100796+00:00"
+  "last_updated_utc": "2026-06-04T15:18:55.079952+00:00"
 }

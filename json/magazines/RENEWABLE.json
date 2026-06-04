@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "A second life for EV batteries? New partnership promises grid services from California to Texas",
+      "category": "RENEWABLE",
+      "date": "2026-06-04T11:01:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/a-second-life-for-ev-batteries-new-partnership-promises-grid-services-from-california-to-texas/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Opinion: Let’s not sit back while the world swaps Middle Eastern oil for Chinese solar",
       "category": "RENEWABLE",
       "date": "2026-06-02T19:00:40+00:00",
@@ -2346,5 +2354,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-04T10:00:51.100796+00:00"
+  "last_updated_utc": "2026-06-04T15:18:55.079952+00:00"
 }
