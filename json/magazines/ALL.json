@@ -2,6 +2,30 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Murata Next Era of Humanoid Robotics",
+      "category": "MECHANICAL",
+      "date": "2026-06-04T18:30:47+00:00",
+      "url": "https://www.engineering.com/murata-next-era-of-humanoid-robotics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "When Upgrading Design and Manufacturing Software, Timing is Everything",
+      "category": "MECHANICAL",
+      "date": "2026-06-04T17:09:44+00:00",
+      "url": "https://www.engineering.com/when-upgrading-design-and-manufacturing-software-timing-is-everything/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens outlines 136 MW AI factory power architecture",
+      "category": "MECHANICAL",
+      "date": "2026-06-04T16:38:08+00:00",
+      "url": "https://www.engineering.com/siemens-outlines-136-mw-ai-factory-power-architecture/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Kalgoorlie Nickel wins lead agency status for KNP-Goongarrie Hub",
       "category": "INDUSTRY",
       "date": "2026-06-04T13:21:27+00:00",
@@ -29442,5 +29466,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-04T15:18:55.079952+00:00"
+  "last_updated_utc": "2026-06-04T20:07:05.640083+00:00"
 }
