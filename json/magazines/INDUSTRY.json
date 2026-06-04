@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Latitude 66 releases final phase two drill results at Laverton Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-06-04T07:28:44+00:00",
+      "url": "https://www.mining-technology.com/news/latitude-66-phase-2-drill-laverton-gold/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "A2Gold reports assay results from Blackrock target in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-06-04T07:19:13+00:00",
+      "url": "https://www.mining-technology.com/news/a2gold-assay-results-blackrock-target-nevada/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Great Western starts 3,000m drilling at Diorama copper-gold target",
       "category": "INDUSTRY",
       "date": "2026-06-03T13:40:22+00:00",
@@ -5050,5 +5066,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-04T04:12:44.923105+00:00"
+  "last_updated_utc": "2026-06-04T10:00:51.100796+00:00"
 }
