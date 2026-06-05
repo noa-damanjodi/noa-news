@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Worldwide Robotics Hub shines spotlight on physical AI during Toronto Tech Week",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-05T16:42:44+00:00",
+      "url": "https://www.automationmag.com/worldwide-robotics-hub-shines-spotlight-on-physical-ai-during-toronto-tech-week/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Festo expands VTOC valve terminal for high-density semiconductor applications",
       "category": "INSTRUMENTATION",
       "date": "2026-06-03T19:14:07+00:00",
@@ -1906,5 +1914,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-05T14:54:30.745664+00:00"
+  "last_updated_utc": "2026-06-05T19:56:43.425790+00:00"
 }

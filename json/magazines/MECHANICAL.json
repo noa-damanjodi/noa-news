@@ -18,6 +18,14 @@
       "type": "magazine"
     },
     {
+      "title": "Cadence, Samsung expand 2nm IP and design flows",
+      "category": "MECHANICAL",
+      "date": "2026-06-05T14:12:00+00:00",
+      "url": "https://www.engineering.com/cadence-samsung-expand-2nm-ip-and-design-flows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Plataine launches conversational AI Agents for factories",
       "category": "MECHANICAL",
       "date": "2026-06-05T13:13:29+00:00",
@@ -8234,5 +8242,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-05T14:54:30.745664+00:00"
+  "last_updated_utc": "2026-06-05T19:56:43.425790+00:00"
 }

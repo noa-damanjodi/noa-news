@@ -2,6 +2,38 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Take part in the Trench Safety Stand Down",
+      "category": "SAFETY",
+      "date": "2026-06-05T18:03:06+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/take-part-in-the-trench-safety-stand-down/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA schedules virtual hearings on proposed rules and deregulatory efforts",
+      "category": "SAFETY",
+      "date": "2026-06-05T17:50:28+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-schedules-virtual-hearings-on-proposed-rules-and-deregulatory-efforts/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Help eliminate on-the-job electrocutions – and maybe win $1 million",
+      "category": "SAFETY",
+      "date": "2026-06-05T16:45:02+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/help-eliminate-on-the-job-electrocutions-and-maybe-win-1-million/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Worldwide Robotics Hub shines spotlight on physical AI during Toronto Tech Week",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-05T16:42:44+00:00",
+      "url": "https://www.automationmag.com/worldwide-robotics-hub-shines-spotlight-on-physical-ai-during-toronto-tech-week/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Bambu Lab A2L adds large-format printing to A-Series",
       "category": "MECHANICAL",
       "date": "2026-06-05T14:44:39+00:00",
@@ -23,6 +55,14 @@
       "date": "2026-06-05T14:12:39+00:00",
       "url": "https://www.mining-technology.com/news/realloys-loi-us-rare-earth-supply-patriot/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence, Samsung expand 2nm IP and design flows",
+      "category": "MECHANICAL",
+      "date": "2026-06-05T14:12:00+00:00",
+      "url": "https://www.engineering.com/cadence-samsung-expand-2nm-ip-and-design-flows/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -29658,5 +29698,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-05T14:54:30.745664+00:00"
+  "last_updated_utc": "2026-06-05T19:56:43.425790+00:00"
 }
