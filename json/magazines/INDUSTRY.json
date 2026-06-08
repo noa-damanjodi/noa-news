@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Scorpio Gold drills 1.27g/t gold over 45.23m at Goldwedge target",
+      "category": "INDUSTRY",
+      "date": "2026-06-08T13:09:16+00:00",
+      "url": "https://www.mining-technology.com/news/scorpio-gold-drills-gold-goldwedge-target/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ABTC wins back $115m DoE grant for Tonopah Lithium refinery",
+      "category": "INDUSTRY",
+      "date": "2026-06-08T13:03:28+00:00",
+      "url": "https://www.mining-technology.com/news/abtc-wins-doe-grant-tonopah-lithium-refinery/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Sandvik to supply equipment for Khoemacau Copper Mine in Botswana",
+      "category": "INDUSTRY",
+      "date": "2026-06-08T10:14:16+00:00",
+      "url": "https://www.mining-technology.com/news/sandvik-supply-equipment-khoemacau-copper-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Viridian Metals finds copper zones of up to 4.15% at Labrador’s Kraken",
       "category": "INDUSTRY",
       "date": "2026-06-08T07:44:30+00:00",
@@ -5178,5 +5202,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-08T10:59:11.859582+00:00"
+  "last_updated_utc": "2026-06-08T15:55:19.094464+00:00"
 }

@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "NVIDIA ramps Vera Rubin for agentic AI infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-06-08T15:44:18+00:00",
+      "url": "https://www.engineering.com/nvidia-ramps-vera-rubin-for-agentic-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "The robotics renaissance: orchestrating the future",
+      "category": "MECHANICAL",
+      "date": "2026-06-08T15:24:05+00:00",
+      "url": "https://www.engineering.com/the-robotics-renaissance-orchestrating-the-future/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "LG and NVIDIA widen ties across AI, factories and mobility",
+      "category": "MECHANICAL",
+      "date": "2026-06-08T14:10:45+00:00",
+      "url": "https://www.engineering.com/lg-and-nvidia-widen-ties-across-ai-factories-and-mobility/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "GIGABYTE adds AI tuning features to motherboard lineup",
+      "category": "MECHANICAL",
+      "date": "2026-06-08T14:02:07+00:00",
+      "url": "https://www.engineering.com/gigabyte-adds-ai-tuning-features-to-motherboard-lineup/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Opsys launches real-time LiDAR wrong-way detection system",
+      "category": "MECHANICAL",
+      "date": "2026-06-08T13:58:03+00:00",
+      "url": "https://www.engineering.com/opsys-launches-real-time-lidar-wrong-way-detection-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Scorpio Gold drills 1.27g/t gold over 45.23m at Goldwedge target",
+      "category": "INDUSTRY",
+      "date": "2026-06-08T13:09:16+00:00",
+      "url": "https://www.mining-technology.com/news/scorpio-gold-drills-gold-goldwedge-target/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ABTC wins back $115m DoE grant for Tonopah Lithium refinery",
+      "category": "INDUSTRY",
+      "date": "2026-06-08T13:03:28+00:00",
+      "url": "https://www.mining-technology.com/news/abtc-wins-doe-grant-tonopah-lithium-refinery/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "New 3-level power module package targets inverter designs",
+      "category": "MECHANICAL",
+      "date": "2026-06-08T13:02:57+00:00",
+      "url": "https://www.engineering.com/new-3-level-power-module-package-targets-inverter-designs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hitachi and Intel target physical AI for industry",
+      "category": "MECHANICAL",
+      "date": "2026-06-08T12:54:54+00:00",
+      "url": "https://www.engineering.com/hitachi-and-intel-target-physical-ai-for-industry/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "A Growing Market: Key trends, demand drivers and outlook",
+      "category": "POWER",
+      "date": "2026-06-08T11:35:35+00:00",
+      "url": "https://powerline.net.in/2026/06/08/a-growing-market-key-trends-demand-drivers-and-outlook/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BPCL: Transitioning to a more diversified clean energy portfolio",
+      "category": "POWER",
+      "date": "2026-06-08T11:27:03+00:00",
+      "url": "https://powerline.net.in/2026/06/08/bpcl-transitioning-to-a-more-diversified-clean-energy-portfolio/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Beyond Landfills: Case studies of select WtE and bio-CNG projects across India",
       "category": "POWER",
       "date": "2026-06-08T10:56:01+00:00",
@@ -15,6 +103,22 @@
       "date": "2026-06-08T10:49:01+00:00",
       "url": "https://powerline.net.in/2026/06/08/rise-of-ai-unlocking-new-capabilities-in-grid-management-and-asset-performance/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Sandvik to supply equipment for Khoemacau Copper Mine in Botswana",
+      "category": "INDUSTRY",
+      "date": "2026-06-08T10:14:16+00:00",
+      "url": "https://www.mining-technology.com/news/sandvik-supply-equipment-khoemacau-copper-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "A generational Texas flood | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-06-08T09:55:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/a-generational-texas-flood-factor-this-brief/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -29810,5 +29914,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-08T10:59:11.859582+00:00"
+  "last_updated_utc": "2026-06-08T15:55:19.094464+00:00"
 }

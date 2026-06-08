@@ -2,6 +2,22 @@
   "category": "POWER",
   "items": [
     {
+      "title": "A Growing Market: Key trends, demand drivers and outlook",
+      "category": "POWER",
+      "date": "2026-06-08T11:35:35+00:00",
+      "url": "https://powerline.net.in/2026/06/08/a-growing-market-key-trends-demand-drivers-and-outlook/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BPCL: Transitioning to a more diversified clean energy portfolio",
+      "category": "POWER",
+      "date": "2026-06-08T11:27:03+00:00",
+      "url": "https://powerline.net.in/2026/06/08/bpcl-transitioning-to-a-more-diversified-clean-energy-portfolio/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Beyond Landfills: Case studies of select WtE and bio-CNG projects across India",
       "category": "POWER",
       "date": "2026-06-08T10:56:01+00:00",
@@ -7578,5 +7594,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-08T10:59:11.859582+00:00"
+  "last_updated_utc": "2026-06-08T15:55:19.094464+00:00"
 }
