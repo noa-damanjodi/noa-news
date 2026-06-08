@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Additive research update: recyclable resins, musical metasurfaces, secret spices, and more",
+      "category": "MECHANICAL",
+      "date": "2026-06-08T19:49:59+00:00",
+      "url": "https://www.engineering.com/additive-research-update-recyclable-resins-musical-metasurfaces-secret-spices-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence expands ChipStack for autonomous design workflows",
+      "category": "MECHANICAL",
+      "date": "2026-06-08T16:13:21+00:00",
+      "url": "https://www.engineering.com/cadence-expands-chipstack-for-autonomous-design-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Foxconn deploys AI systems across Taiwan hospitals",
+      "category": "MECHANICAL",
+      "date": "2026-06-08T16:06:51+00:00",
+      "url": "https://www.engineering.com/foxconn-deploys-ai-systems-across-taiwan-hospitals/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "NVIDIA ramps Vera Rubin for agentic AI infrastructure",
       "category": "MECHANICAL",
       "date": "2026-06-08T15:44:18+00:00",
@@ -8298,5 +8322,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-08T15:55:19.094464+00:00"
+  "last_updated_utc": "2026-06-08T20:23:26.295279+00:00"
 }

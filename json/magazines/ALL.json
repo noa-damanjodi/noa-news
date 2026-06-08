@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Additive research update: recyclable resins, musical metasurfaces, secret spices, and more",
+      "category": "MECHANICAL",
+      "date": "2026-06-08T19:49:59+00:00",
+      "url": "https://www.engineering.com/additive-research-update-recyclable-resins-musical-metasurfaces-secret-spices-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "EPA’s proposed chemical safety revisions would ‘hinder’ safe practices, CSB says",
+      "category": "SAFETY",
+      "date": "2026-06-08T17:18:31+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/epas-proposed-chemical-safety-revisions-would-hinder-safe-practices-csb-says/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Restroom access and paying for PPE: Colorado governor signs new law",
+      "category": "SAFETY",
+      "date": "2026-06-08T16:58:27+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/restroom-access-and-paying-for-ppe-colorado-governor-signs-new-law/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Unsafe trucks and buses taken off the road after brake inspection blitz",
+      "category": "SAFETY",
+      "date": "2026-06-08T16:45:04+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/unsafe-trucks-and-buses-taken-off-the-road-after-brake-inspection-blitz/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence expands ChipStack for autonomous design workflows",
+      "category": "MECHANICAL",
+      "date": "2026-06-08T16:13:21+00:00",
+      "url": "https://www.engineering.com/cadence-expands-chipstack-for-autonomous-design-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Foxconn deploys AI systems across Taiwan hospitals",
+      "category": "MECHANICAL",
+      "date": "2026-06-08T16:06:51+00:00",
+      "url": "https://www.engineering.com/foxconn-deploys-ai-systems-across-taiwan-hospitals/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "NVIDIA ramps Vera Rubin for agentic AI infrastructure",
       "category": "MECHANICAL",
       "date": "2026-06-08T15:44:18+00:00",
@@ -338,7 +386,7 @@
       "type": "magazine"
     },
     {
-      "title": "Why are some Democrat governors backing Trump’s gas pipelines? – This Week in Cleantech",
+      "title": "Why are some Democratic governors backing Trump’s gas pipelines? – This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-06-05T10:00:00+00:00",
       "url": "https://www.renewableenergyworld.com/podcasts/why-are-some-democrat-governors-backing-trumps-gas-pipelines-this-week-in-cleantech/",
@@ -29914,5 +29962,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-08T15:55:19.094464+00:00"
+  "last_updated_utc": "2026-06-08T20:23:26.295279+00:00"
 }
