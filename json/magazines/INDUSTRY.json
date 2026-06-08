@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Viridian Metals finds copper zones of up to 4.15% at Labrador’s Kraken",
+      "category": "INDUSTRY",
+      "date": "2026-06-08T07:44:30+00:00",
+      "url": "https://www.mining-technology.com/news/viridian-metals-copper-zones-up-at-kraken/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Orla Mining restarts operations at Camino Rojo Mine in Mexico",
+      "category": "INDUSTRY",
+      "date": "2026-06-08T07:36:18+00:00",
+      "url": "https://www.mining-technology.com/news/orla-mining-restarts-operations-camino-rojo/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "How DLE is turning oilfield wastewater into a valuable lithium source",
+      "category": "INDUSTRY",
+      "date": "2026-06-08T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/dle-lithium-oilfield-brine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Silver X secures full ownership of Ccasahuasi gold project in Peru",
+      "category": "INDUSTRY",
+      "date": "2026-06-05T14:28:03+00:00",
+      "url": "https://www.mining-technology.com/news/silver-x-full-ownership-ccasahuasi-project-peru/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "REalloys signs LoI with Patriot for US rare earth supply",
       "category": "INDUSTRY",
       "date": "2026-06-05T14:12:39+00:00",
@@ -5146,5 +5178,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-08T04:11:03.344911+00:00"
+  "last_updated_utc": "2026-06-08T10:59:11.859582+00:00"
 }
