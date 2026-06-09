@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Editor’s Note: The importance of history",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-09T16:31:43+00:00",
+      "url": "https://www.automationmag.com/editors-note-the-importance-of-history/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "CALS26 focuses on automotive, defence sectors, unites leadership from across Canadian manufacturing and automation",
       "category": "INSTRUMENTATION",
       "date": "2026-06-08T20:42:08+00:00",
@@ -1922,5 +1930,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-09T14:54:54.622849+00:00"
+  "last_updated_utc": "2026-06-09T20:08:21.210000+00:00"
 }

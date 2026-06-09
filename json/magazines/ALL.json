@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "How are utilities prepping for the 2026 hurricane season?",
+      "category": "RENEWABLE",
+      "date": "2026-06-09T18:25:43+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/how-are-utilities-prepping-for-this-years-hurricane-season/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "MSHA emergency preparedness ‘needs to improve’: DOL OIG report",
+      "category": "SAFETY",
+      "date": "2026-06-09T17:19:49+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/msha-emergency-preparedness-needs-to-improve-dol-oig-report/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Nevada OSHA publishes guidance on heat rule",
+      "category": "SAFETY",
+      "date": "2026-06-09T17:12:53+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nevada-osha-publishes-guidance-on-heat-rule/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NTSB retools search platform for safety recommendations",
+      "category": "SAFETY",
+      "date": "2026-06-09T16:52:50+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/ntsb-retools-search-platform-for-safety-recommendations/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Editor’s Note: The importance of history",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-09T16:31:43+00:00",
+      "url": "https://www.automationmag.com/editors-note-the-importance-of-history/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Why Duke Energy’s PowerPair pilot program should be expanded",
+      "category": "RENEWABLE",
+      "date": "2026-06-09T14:47:27+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/why-duke-energys-powerpair-pilot-program-should-be-expanded/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "NVIDIA introduces Isaac GR00T reference humanoid robot",
       "category": "MECHANICAL",
       "date": "2026-06-09T13:55:48+00:00",
@@ -30210,5 +30258,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-09T14:54:54.622849+00:00"
+  "last_updated_utc": "2026-06-09T20:08:21.210000+00:00"
 }
