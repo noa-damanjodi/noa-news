@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Red Mountain identifies outcropping garnet skarn at Montana site",
+      "category": "INDUSTRY",
+      "date": "2026-06-09T13:44:30+00:00",
+      "url": "https://www.mining-technology.com/news/red-mountain-outcropping-garnet-skarn-montana/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Larvotto signs seven-year Hillgrove gold offtake deal with Glencore",
+      "category": "INDUSTRY",
+      "date": "2026-06-09T13:34:42+00:00",
+      "url": "https://www.mining-technology.com/news/larvotto-seven-year-hillgrove-gold-offtake-glencore/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Epiroc and Ericsson team up to boost 5G connectivity in mining",
+      "category": "INDUSTRY",
+      "date": "2026-06-09T10:45:01+00:00",
+      "url": "https://www.mining-technology.com/news/epiroc-ericsson-boost-5g-connectivity-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Titiminas Silver begins drilling at Madre Sierra Mine in Peru",
+      "category": "INDUSTRY",
+      "date": "2026-06-09T08:55:02+00:00",
+      "url": "https://www.mining-technology.com/news/titiminas-silver-drilling-madre-sierra-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Anglo American’s coal exit reshapes Queensland’s metallurgical coal sector",
       "category": "INDUSTRY",
       "date": "2026-06-09T07:00:00+00:00",
@@ -5218,5 +5250,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-09T09:48:17.894543+00:00"
+  "last_updated_utc": "2026-06-09T14:54:54.622849+00:00"
 }
