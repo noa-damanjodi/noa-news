@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Cadence, Intel expand DTCO work for Intel 14A",
+      "category": "MECHANICAL",
+      "date": "2026-06-09T09:37:48+00:00",
+      "url": "https://www.engineering.com/cadence-intel-expand-dtco-work-for-intel-14a/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Advantech expands NVIDIA partnership for factory AI",
+      "category": "MECHANICAL",
+      "date": "2026-06-09T09:10:37+00:00",
+      "url": "https://www.engineering.com/advantech-expands-nvidia-partnership-for-factory-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sony readies X-ray CMOS sensor for high-speed imaging",
+      "category": "MECHANICAL",
+      "date": "2026-06-09T08:20:28+00:00",
+      "url": "https://www.engineering.com/sony-readies-x-ray-cmos-sensor-for-high-speed-imaging/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Anglo American’s coal exit reshapes Queensland’s metallurgical coal sector",
+      "category": "INDUSTRY",
+      "date": "2026-06-09T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/anglo-americans-coal-exit-reshapes-queenslands-metallurgical-coal-sector/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Eldorado produces first copper concentrate at Canada’s McIlvenna Bay",
+      "category": "INDUSTRY",
+      "date": "2026-06-09T06:44:59+00:00",
+      "url": "https://www.mining-technology.com/news/eldorado-first-copper-concentrate-mcilvenna-bay/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "MNRE constitutes expert committee for ALMM exemption requests",
+      "category": "POWER",
+      "date": "2026-06-09T05:19:35+00:00",
+      "url": "https://powerline.net.in/2026/06/09/mnre-constitutes-expert-committee-for-almm-exemption-requests/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "HCC secures Rs 1.27 billion contract for Bhutan hydropower project",
+      "category": "POWER",
+      "date": "2026-06-09T05:18:37+00:00",
+      "url": "https://powerline.net.in/2026/06/09/hcc-secures-rs-1-27-billion-contract-for-bhutan-hydropower-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BHEL secures EPC package for 3×800 MW Meja thermal power project Stage II",
+      "category": "POWER",
+      "date": "2026-06-09T05:17:45+00:00",
+      "url": "https://powerline.net.in/2026/06/09/bhel-secures-epc-package-for-3x800-mw-meja-thermal-power-project-stage-ii/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bluspring arm secures Rs 20.5 billion O&M contract from BALCO",
+      "category": "POWER",
+      "date": "2026-06-09T05:16:20+00:00",
+      "url": "https://powerline.net.in/2026/06/09/bluspring-arm-secures-rs-20-5-billion-om-contract-from-balco/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Evonith Steel acquires 85 MW Indrajit power plant for Rs 2.32 billion",
+      "category": "POWER",
+      "date": "2026-06-09T05:08:56+00:00",
+      "url": "https://powerline.net.in/2026/06/09/evonith-steel-acquires-85-mw-indrajit-power-plant-for-rs-2-32-billion/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ACME Solar raises Rs 28 billion through QIP",
+      "category": "POWER",
+      "date": "2026-06-09T05:05:55+00:00",
+      "url": "https://powerline.net.in/2026/06/09/acme-solar-raises-rs-28-billion-through-qip/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Acwa Power and BCDA advance 500 MW solar-plus-storage project in New Clark City",
+      "category": "POWER",
+      "date": "2026-06-09T05:04:11+00:00",
+      "url": "https://powerline.net.in/2026/06/09/acwa-power-and-bcda-advance-500-mw-solar-plus-storage-project-in-new-clark-city/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "DEME bags contract for offshore wind project in Japan",
+      "category": "POWER",
+      "date": "2026-06-09T05:02:55+00:00",
+      "url": "https://powerline.net.in/2026/06/09/deme-bags-contract-for-offshore-wind-project-in-japan/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "The key to grid-wide resilience: end-to-end layers of automation",
       "category": "RENEWABLE",
       "date": "2026-06-08T21:38:53+00:00",
@@ -30002,5 +30106,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-09T03:39:51.838986+00:00"
+  "last_updated_utc": "2026-06-09T09:48:17.894543+00:00"
 }

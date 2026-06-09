@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Anglo American’s coal exit reshapes Queensland’s metallurgical coal sector",
+      "category": "INDUSTRY",
+      "date": "2026-06-09T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/anglo-americans-coal-exit-reshapes-queenslands-metallurgical-coal-sector/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Eldorado produces first copper concentrate at Canada’s McIlvenna Bay",
+      "category": "INDUSTRY",
+      "date": "2026-06-09T06:44:59+00:00",
+      "url": "https://www.mining-technology.com/news/eldorado-first-copper-concentrate-mcilvenna-bay/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Scorpio Gold drills 1.27g/t gold over 45.23m at Goldwedge target",
       "category": "INDUSTRY",
       "date": "2026-06-08T13:09:16+00:00",
@@ -5202,5 +5218,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-09T03:39:51.838986+00:00"
+  "last_updated_utc": "2026-06-09T09:48:17.894543+00:00"
 }
