@@ -2,6 +2,38 @@
   "category": "ALL",
   "items": [
     {
+      "title": "The key to grid-wide resilience: end-to-end layers of automation",
+      "category": "RENEWABLE",
+      "date": "2026-06-08T21:38:53+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/the-key-to-grid-wide-resilience-end-to-end-layers-of-automation/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "CALS26 focuses on automotive, defence sectors, unites leadership from across Canadian manufacturing and automation",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-08T20:42:08+00:00",
+      "url": "https://www.automationmag.com/cals26-focuses-on-automotive-defence-sectors-unites-leadership-from-across-canadian-manufacturing-and-automation/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "How can wave energy tech support the AI race?",
+      "category": "RENEWABLE",
+      "date": "2026-06-08T20:37:10+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/how-can-wave-energy-tech-support-the-ai-race/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Feds will soon impose new framework on Colorado River if states can’t agree how to manage it",
+      "category": "RENEWABLE",
+      "date": "2026-06-08T19:58:25+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/feds-will-soon-impose-new-framework-on-colorado-river-if-states-cant-agree-how-to-manage-it/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Additive research update: recyclable resins, musical metasurfaces, secret spices, and more",
       "category": "MECHANICAL",
       "date": "2026-06-08T19:49:59+00:00",
@@ -10,7 +42,15 @@
       "type": "magazine"
     },
     {
-      "title": "EPA’s proposed chemical safety revisions would ‘hinder’ safe practices, CSB says",
+      "title": "Nevada signs water sharing agreement with Arizona, California",
+      "category": "RENEWABLE",
+      "date": "2026-06-08T19:17:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/nevada-signs-water-sharing-agreement-with-arizona-california/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "EPA’s proposed chemical safety revisions would ‘hinder’ good practices, safety board says",
       "category": "SAFETY",
       "date": "2026-06-08T17:18:31+00:00",
       "url": "https://www.safetyandhealthmagazine.com/epas-proposed-chemical-safety-revisions-would-hinder-safe-practices-csb-says/",
@@ -26,7 +66,7 @@
       "type": "magazine"
     },
     {
-      "title": "Unsafe trucks and buses taken off the road after brake inspection blitz",
+      "title": "Unsafe trucks and buses taken off the road during brake inspection blitz",
       "category": "SAFETY",
       "date": "2026-06-08T16:45:04+00:00",
       "url": "https://www.safetyandhealthmagazine.com/unsafe-trucks-and-buses-taken-off-the-road-after-brake-inspection-blitz/",
@@ -29962,5 +30002,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-08T20:23:26.295279+00:00"
+  "last_updated_utc": "2026-06-09T03:39:51.838986+00:00"
 }
