@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Aclara Resources gains EIA approval for Penco Module project",
+      "category": "INDUSTRY",
+      "date": "2026-06-10T07:08:23+00:00",
+      "url": "https://www.mining-technology.com/news/aclara-resources-eia-approval-penco-module/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Trilogy Metals launches 2026 Upper Kobuk fieldwork in Alaska",
+      "category": "INDUSTRY",
+      "date": "2026-06-10T06:54:23+00:00",
+      "url": "https://www.mining-technology.com/news/trilogy-metals-2026-upper-kobuk-fieldwork/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Red Mountain identifies outcropping garnet skarn at Montana site",
       "category": "INDUSTRY",
       "date": "2026-06-09T13:44:30+00:00",
@@ -5250,5 +5266,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-10T03:54:23.648637+00:00"
+  "last_updated_utc": "2026-06-10T10:03:38.406907+00:00"
 }
