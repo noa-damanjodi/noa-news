@@ -2,6 +2,70 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "MPIC 2027 adds kinematics tools to IronCAD FEA",
+      "category": "MECHANICAL",
+      "date": "2026-06-10T15:22:40+00:00",
+      "url": "https://www.engineering.com/mpic-2027-adds-kinematics-tools-to-ironcad-fea/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bluebeam updates Max with collaboration and AI tools",
+      "category": "MECHANICAL",
+      "date": "2026-06-10T14:55:47+00:00",
+      "url": "https://www.engineering.com/bluebeam-updates-max-with-collaboration-and-ai-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SK Telecom to build AI cloud in Korea with NVIDIA",
+      "category": "MECHANICAL",
+      "date": "2026-06-10T12:11:45+00:00",
+      "url": "https://www.engineering.com/sk-telecom-to-build-ai-cloud-in-korea-with-nvidia/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Formlabs launches Fuse X1 industrial SLS ecosystem",
+      "category": "MECHANICAL",
+      "date": "2026-06-10T12:00:32+00:00",
+      "url": "https://www.engineering.com/formlabs-launches-fuse-x1-industrial-sls-ecosystem/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rescale, DOE labs propose AI-HPC engineering initiative",
+      "category": "MECHANICAL",
+      "date": "2026-06-10T11:53:26+00:00",
+      "url": "https://www.engineering.com/rescale-doe-labs-propose-ai-hpc-engineering-initiative/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Velo3D, Aurelia partner on additively made turbines",
+      "category": "MECHANICAL",
+      "date": "2026-06-10T11:48:55+00:00",
+      "url": "https://www.engineering.com/velo3d-aurelia-partner-on-additively-made-turbines/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Celera Semiconductor acquires analog IC firm SiliconGate",
+      "category": "MECHANICAL",
+      "date": "2026-06-10T11:31:49+00:00",
+      "url": "https://www.engineering.com/celera-semiconductor-acquires-analog-ic-firm-silicongate/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rockwell adds cybersecurity services to SecureOT",
+      "category": "MECHANICAL",
+      "date": "2026-06-10T10:39:42+00:00",
+      "url": "https://www.engineering.com/rockwell-adds-cybersecurity-services-to-secureot/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "33DPQ Podcast – Rajeev Kulkarni",
       "category": "MECHANICAL",
       "date": "2026-06-09T21:24:35+00:00",
@@ -8410,5 +8474,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-10T10:03:38.406907+00:00"
+  "last_updated_utc": "2026-06-10T15:37:56.018017+00:00"
 }
