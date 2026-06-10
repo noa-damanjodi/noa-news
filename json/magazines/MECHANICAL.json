@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "33DPQ Podcast – Rajeev Kulkarni",
+      "category": "MECHANICAL",
+      "date": "2026-06-09T21:24:35+00:00",
+      "url": "https://www.engineering.com/33dpq-podcast-rajeev-kulkarni/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Formlabs announces Fuse X1 for industrial-scale SLS",
+      "category": "MECHANICAL",
+      "date": "2026-06-09T21:23:28+00:00",
+      "url": "https://www.engineering.com/formlabs-announces-fuse-x1-for-industrial-scale-sls/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "NVIDIA introduces Isaac GR00T reference humanoid robot",
       "category": "MECHANICAL",
       "date": "2026-06-09T13:55:48+00:00",
@@ -8394,5 +8410,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-09T20:08:21.210000+00:00"
+  "last_updated_utc": "2026-06-10T03:54:23.648637+00:00"
 }
