@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "US automaker implores utilities to explore V2G, makes big bet on the grid battery of the future",
+      "category": "RENEWABLE",
+      "date": "2026-06-11T19:12:16+00:00",
+      "url": "https://www.renewableenergyworld.com/electric-vehicle/vehicle-to-grid/us-automaker-implores-utilities-to-explore-v2g-makes-big-bet-on-the-grid-battery-of-the-future/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "PTC adds AI assistant in Creo 13 and Creo+ 13.3",
       "category": "MECHANICAL",
       "date": "2026-06-11T15:10:43+00:00",
@@ -30730,5 +30738,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-11T16:04:48.118831+00:00"
+  "last_updated_utc": "2026-06-11T20:23:54.659776+00:00"
 }
