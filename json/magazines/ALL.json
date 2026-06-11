@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Cornish Metals advances underground works at South Crofty tin project",
+      "category": "INDUSTRY",
+      "date": "2026-06-11T07:24:46+00:00",
+      "url": "https://www.mining-technology.com/news/cornish-metals-underground-works-south-crofty-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Austin Metals starts RC drilling at gold project in WA",
+      "category": "INDUSTRY",
+      "date": "2026-06-11T07:17:12+00:00",
+      "url": "https://www.mining-technology.com/news/austin-metals-rc-drilling-gold-project-wa/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Defence Ministry approves 250 MW solar-plus-storage project on defence land in Uttar Pradesh",
+      "category": "POWER",
+      "date": "2026-06-11T06:16:35+00:00",
+      "url": "https://powerline.net.in/2026/06/11/defence-ministry-approves-250-mw-solar-plus-storage-project-on-defence-land-in-uttar-pradesh/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Haryana amends building code to mandate EV charging infrastructure in new buildings",
+      "category": "POWER",
+      "date": "2026-06-11T06:15:35+00:00",
+      "url": "https://powerline.net.in/2026/06/11/haryana-amends-building-code-to-mandate-ev-charging-infrastructure-in-new-buildings/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Meta and CleanMax partner for over 900 MW of renewable energy capacity in India",
+      "category": "POWER",
+      "date": "2026-06-11T06:14:26+00:00",
+      "url": "https://powerline.net.in/2026/06/11/meta-and-cleanmax-partner-for-over-900-mw-of-renewable-energy-capacity-in-india/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Onward Solar Power signs BESPA with GRIDCO for 45 MW/180 MWh BESS projects in Odisha",
+      "category": "POWER",
+      "date": "2026-06-11T06:13:29+00:00",
+      "url": "https://powerline.net.in/2026/06/11/onward-solar-power-signs-bespa-with-gridco-for-45-mw-180-mwh-bess-projects-in-odisha/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Juniper Green Energy commissions 305 MW renewable energy capacity in Gujarat",
+      "category": "POWER",
+      "date": "2026-06-11T06:12:22+00:00",
+      "url": "https://powerline.net.in/2026/06/11/juniper-green-energy-commissions-305-mw-renewable-energy-capacity-in-gujarat/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Tata Power EV Charging Solutions signs MoU with Varanasi Smart City for EV infrastructure development",
+      "category": "POWER",
+      "date": "2026-06-11T06:11:25+00:00",
+      "url": "https://powerline.net.in/2026/06/11/tata-power-ev-charging-solutions-signs-mou-with-varanasi-smart-city-for-ev-infrastructure-development/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "China’s SGCC advances 1,000 kV Datong–Huailai Tianjin South UHVAC project",
+      "category": "POWER",
+      "date": "2026-06-11T06:10:26+00:00",
+      "url": "https://powerline.net.in/2026/06/11/chinas-sgcc-advances-1000-kv-datong-huailai-tianjin-south-uhvac-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ib vogt secures financing for 99 MWp solar-plus-storage project in the Philippines",
+      "category": "POWER",
+      "date": "2026-06-11T06:08:06+00:00",
+      "url": "https://powerline.net.in/2026/06/11/ib-vogt-secures-financing-for-99-mwp-solar-plus-storage-project-in-the-philippines/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Advantech expands NVIDIA partnership for factory AI",
+      "category": "MECHANICAL",
+      "date": "2026-06-11T05:33:15+00:00",
+      "url": "https://www.engineering.com/advantech-expands-nvidia-partnership-for-factory-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Modeling the Beautiful Game: From Ball Design to Power Trivelas",
       "category": "MECHANICAL",
       "date": "2026-06-10T20:33:49+00:00",
@@ -414,14 +502,6 @@
       "category": "MECHANICAL",
       "date": "2026-06-09T09:37:48+00:00",
       "url": "https://www.engineering.com/cadence-intel-expand-dtco-work-for-intel-14a/",
-      "source": "Engineering.com",
-      "type": "magazine"
-    },
-    {
-      "title": "Advantech expands NVIDIA partnership for factory AI",
-      "category": "MECHANICAL",
-      "date": "2026-06-09T09:10:37+00:00",
-      "url": "https://www.engineering.com/advantech-expands-nvidia-partnership-for-factory-ai/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -30522,5 +30602,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-11T04:07:44.037187+00:00"
+  "last_updated_utc": "2026-06-11T10:38:19.035856+00:00"
 }

@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Cornish Metals advances underground works at South Crofty tin project",
+      "category": "INDUSTRY",
+      "date": "2026-06-11T07:24:46+00:00",
+      "url": "https://www.mining-technology.com/news/cornish-metals-underground-works-south-crofty-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Austin Metals starts RC drilling at gold project in WA",
+      "category": "INDUSTRY",
+      "date": "2026-06-11T07:17:12+00:00",
+      "url": "https://www.mining-technology.com/news/austin-metals-rc-drilling-gold-project-wa/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Fulcrum EnviroTech, TDI sign deal on mine waste pilot plant",
       "category": "INDUSTRY",
       "date": "2026-06-10T13:29:15+00:00",
@@ -5298,5 +5314,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-11T04:07:44.037187+00:00"
+  "last_updated_utc": "2026-06-11T10:38:19.035856+00:00"
 }
