@@ -2,6 +2,134 @@
   "category": "ALL",
   "items": [
     {
+      "title": "PTC adds AI assistant in Creo 13 and Creo+ 13.3",
+      "category": "MECHANICAL",
+      "date": "2026-06-11T15:10:43+00:00",
+      "url": "https://www.engineering.com/ptc-adds-ai-assistant-in-creo-13-and-creo-13-3/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "CWB Group opens modernized welding training hub in Milton, Ont.",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-11T14:40:53+00:00",
+      "url": "https://www.automationmag.com/cwb-group-opens-modernized-welding-training-hub-in-milton-ont/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens Canada completes expansion project in Drummondville, Que.",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-11T14:36:45+00:00",
+      "url": "https://www.automationmag.com/siemens-canada-completes-expansion-project-in-drummondville-que/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Partnerships, perspectives and possibilities main focus of PTDA Canadian Conference",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-11T14:30:02+00:00",
+      "url": "https://www.automationmag.com/partnerships-perspectives-and-possibilities-main-focus-of-ptda-canadian-conference/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "HMS Networks introduces PEAK’s first Automotive Ethernet solution",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-11T14:12:54+00:00",
+      "url": "https://www.automationmag.com/hms-networks-introduces-peaks-first-automotive-ethernet-solution/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Study finds ‘alarming’ correlation between speeding and cellphone use",
+      "category": "SAFETY",
+      "date": "2026-06-11T13:52:24+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/study-finds-alarming-correlation-between-speeding-and-cellphone-use/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Boston Dynamics’ Spot robot dog outfitted with Blackline Safety gas detector",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-11T13:38:31+00:00",
+      "url": "https://www.automationmag.com/boston-dynamics-spot-robot-dog-outfitted-with-blackline-safety-gas-detector/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB expands non-invasive sensing portfolio to advance simpler and safer temperature measurement",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-11T13:28:49+00:00",
+      "url": "https://www.automationmag.com/abb-expands-non-invasive-sensing-portfolio-to-advance-simpler-and-safer-temperature-measurement/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Mining lubrication technology: The critical role it plays in autonomous mining safety",
+      "category": "INDUSTRY",
+      "date": "2026-06-11T13:01:20+00:00",
+      "url": "https://www.mining-technology.com/sponsored/mining-lubrication-technology-the-critical-role-it-plays-in-autonomous-mining-safety/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Document Crunch expands AI platform to project risk",
+      "category": "MECHANICAL",
+      "date": "2026-06-11T12:06:13+00:00",
+      "url": "https://www.engineering.com/document-crunch-expands-ai-platform-to-project-risk/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Dassault names Centric PLM preferred CPGR solution",
+      "category": "MECHANICAL",
+      "date": "2026-06-11T11:57:32+00:00",
+      "url": "https://www.engineering.com/dassault-names-centric-plm-preferred-cpgr-solution/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Reka adds Moonvalley team for physical AI work",
+      "category": "MECHANICAL",
+      "date": "2026-06-11T11:48:42+00:00",
+      "url": "https://www.engineering.com/reka-adds-moonvalley-team-for-physical-ai-work/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA adds DOCA security to Vera BlueField-4 STX",
+      "category": "MECHANICAL",
+      "date": "2026-06-11T11:43:59+00:00",
+      "url": "https://www.engineering.com/nvidia-adds-doca-security-to-vera-bluefield-4-stx/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble launches cloud-native TMS for North American shippers",
+      "category": "MECHANICAL",
+      "date": "2026-06-11T10:43:24+00:00",
+      "url": "https://www.engineering.com/trimble-launches-cloud-native-tms-for-north-american-shippers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mouser receives RECOM Americas service distributor award",
+      "category": "MECHANICAL",
+      "date": "2026-06-11T10:33:07+00:00",
+      "url": "https://www.engineering.com/mouser-receives-recom-americas-service-distributor-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rocky Shore expands Gold Anchor drilling",
+      "category": "INDUSTRY",
+      "date": "2026-06-11T10:26:26+00:00",
+      "url": "https://www.mining-technology.com/news/rocky-shore-expands-gold-anchor-drilling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Cornish Metals advances underground works at South Crofty tin project",
       "category": "INDUSTRY",
       "date": "2026-06-11T07:24:46+00:00",
@@ -30602,5 +30730,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-11T10:38:19.035856+00:00"
+  "last_updated_utc": "2026-06-11T16:04:48.118831+00:00"
 }

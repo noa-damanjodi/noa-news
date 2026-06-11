@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "PTC adds AI assistant in Creo 13 and Creo+ 13.3",
+      "category": "MECHANICAL",
+      "date": "2026-06-11T15:10:43+00:00",
+      "url": "https://www.engineering.com/ptc-adds-ai-assistant-in-creo-13-and-creo-13-3/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Document Crunch expands AI platform to project risk",
+      "category": "MECHANICAL",
+      "date": "2026-06-11T12:06:13+00:00",
+      "url": "https://www.engineering.com/document-crunch-expands-ai-platform-to-project-risk/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Dassault names Centric PLM preferred CPGR solution",
+      "category": "MECHANICAL",
+      "date": "2026-06-11T11:57:32+00:00",
+      "url": "https://www.engineering.com/dassault-names-centric-plm-preferred-cpgr-solution/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Reka adds Moonvalley team for physical AI work",
+      "category": "MECHANICAL",
+      "date": "2026-06-11T11:48:42+00:00",
+      "url": "https://www.engineering.com/reka-adds-moonvalley-team-for-physical-ai-work/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA adds DOCA security to Vera BlueField-4 STX",
+      "category": "MECHANICAL",
+      "date": "2026-06-11T11:43:59+00:00",
+      "url": "https://www.engineering.com/nvidia-adds-doca-security-to-vera-bluefield-4-stx/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble launches cloud-native TMS for North American shippers",
+      "category": "MECHANICAL",
+      "date": "2026-06-11T10:43:24+00:00",
+      "url": "https://www.engineering.com/trimble-launches-cloud-native-tms-for-north-american-shippers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mouser receives RECOM Americas service distributor award",
+      "category": "MECHANICAL",
+      "date": "2026-06-11T10:33:07+00:00",
+      "url": "https://www.engineering.com/mouser-receives-recom-americas-service-distributor-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Advantech expands NVIDIA partnership for factory AI",
       "category": "MECHANICAL",
       "date": "2026-06-11T05:33:15+00:00",
@@ -8490,5 +8546,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-11T10:38:19.035856+00:00"
+  "last_updated_utc": "2026-06-11T16:04:48.118831+00:00"
 }
