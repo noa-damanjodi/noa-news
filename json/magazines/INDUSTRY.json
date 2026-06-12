@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Queensland approval overhaul puts permitting in focus ahead of IMARC",
+      "category": "INDUSTRY",
+      "date": "2026-06-12T08:34:07+00:00",
+      "url": "https://www.mining-technology.com/sponsored/queensland-approval-overhaul-puts-permitting-in-focus-ahead-of-imarc/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Codelco, CEA-Liten sign deal to electrify mining equipment",
+      "category": "INDUSTRY",
+      "date": "2026-06-12T08:02:04+00:00",
+      "url": "https://www.mining-technology.com/news/codelco-cea-liten-deal-electrify-mining-equipment/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Drilling begins at Legacy Minerals’ Emu copper-gold site",
+      "category": "INDUSTRY",
+      "date": "2026-06-12T07:55:38+00:00",
+      "url": "https://www.mining-technology.com/news/drilling-begins-legacy-minerals-emu-site/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "NLCIL and CSIR-CECRI sign MoU for critical mineral extraction",
       "category": "INDUSTRY",
       "date": "2026-06-11T13:43:43+00:00",
@@ -5346,5 +5370,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-12T04:09:04.551203+00:00"
+  "last_updated_utc": "2026-06-12T10:16:09.007404+00:00"
 }
