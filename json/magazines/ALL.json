@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Green light for green energy: Cypress Creek secures $3.5B for Arkansas solar and battery storage megaproject",
+      "category": "RENEWABLE",
+      "date": "2026-06-11T19:31:54+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/energy-finance/green-light-for-green-energy-cypress-creek-secures-3-5b-for-arkansas-solar-and-battery-storage-megaproject/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "US automaker implores utilities to explore V2G, makes big bet on the grid battery of the future",
       "category": "RENEWABLE",
       "date": "2026-06-11T19:12:16+00:00",
@@ -58,11 +66,27 @@
       "type": "magazine"
     },
     {
+      "title": "NLCIL and CSIR-CECRI sign MoU for critical mineral extraction",
+      "category": "INDUSTRY",
+      "date": "2026-06-11T13:43:43+00:00",
+      "url": "https://www.mining-technology.com/news/nlcil-csir-cecri-mou-critical-mineral-extraction/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Boston Dynamics’ Spot robot dog outfitted with Blackline Safety gas detector",
       "category": "INSTRUMENTATION",
       "date": "2026-06-11T13:38:31+00:00",
       "url": "https://www.automationmag.com/boston-dynamics-spot-robot-dog-outfitted-with-blackline-safety-gas-detector/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "BHP, BOTON sign agreement for mining conveyor systems",
+      "category": "INDUSTRY",
+      "date": "2026-06-11T13:36:05+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-boton-agreement-mining-conveyor-systems/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -30738,5 +30762,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-11T20:23:54.659776+00:00"
+  "last_updated_utc": "2026-06-12T04:09:04.551203+00:00"
 }

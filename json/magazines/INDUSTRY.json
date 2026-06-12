@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "NLCIL and CSIR-CECRI sign MoU for critical mineral extraction",
+      "category": "INDUSTRY",
+      "date": "2026-06-11T13:43:43+00:00",
+      "url": "https://www.mining-technology.com/news/nlcil-csir-cecri-mou-critical-mineral-extraction/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "BHP, BOTON sign agreement for mining conveyor systems",
+      "category": "INDUSTRY",
+      "date": "2026-06-11T13:36:05+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-boton-agreement-mining-conveyor-systems/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Mining lubrication technology: The critical role it plays in autonomous mining safety",
       "category": "INDUSTRY",
       "date": "2026-06-11T13:01:20+00:00",
@@ -5330,5 +5346,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-11T20:23:54.659776+00:00"
+  "last_updated_utc": "2026-06-12T04:09:04.551203+00:00"
 }
