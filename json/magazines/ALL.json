@@ -2,6 +2,118 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Leica launches RTC series terrestrial laser scanners",
+      "category": "MECHANICAL",
+      "date": "2026-06-12T14:57:04+00:00",
+      "url": "https://www.engineering.com/leica-launches-rtc-series-terrestrial-laser-scanners/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC introduces Orbit asset intelligence platform",
+      "category": "MECHANICAL",
+      "date": "2026-06-12T14:49:28+00:00",
+      "url": "https://www.engineering.com/ptc-introduces-orbit-asset-intelligence-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Chalkline adds Wile specs to VisiSpecs program",
+      "category": "MECHANICAL",
+      "date": "2026-06-12T14:40:10+00:00",
+      "url": "https://www.engineering.com/chalkline-adds-wile-specs-to-visispecs-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "RLWRLD teams with NVIDIA on robot dexterity benchmarks",
+      "category": "MECHANICAL",
+      "date": "2026-06-12T14:07:19+00:00",
+      "url": "https://www.engineering.com/rlwrld-teams-with-nvidia-on-robot-dexterity-benchmarks/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NTT DATA expands collaboration with Google Cloud to accelerate enterprise AI",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-12T14:00:36+00:00",
+      "url": "https://www.automationmag.com/ntt-data-expands-collaboration-with-google-cloud-to-accelerate-enterprise-ai/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens named PLM leader in Gartner report",
+      "category": "MECHANICAL",
+      "date": "2026-06-12T14:00:19+00:00",
+      "url": "https://www.engineering.com/siemens-named-plm-leader-in-gartner-report/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Orion CMC considers acquiring stake in French miner Eramet",
+      "category": "INDUSTRY",
+      "date": "2026-06-12T13:27:50+00:00",
+      "url": "https://www.mining-technology.com/news/orion-cmc-considers-stake-acquisition-eramet/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "IronCAD updates mechanical design software for steel work",
+      "category": "MECHANICAL",
+      "date": "2026-06-12T13:21:23+00:00",
+      "url": "https://www.engineering.com/ironcad-updates-mechanical-design-software-for-steel-work/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IIHS publishes initial safety ratings for small commercial vehicles",
+      "category": "SAFETY",
+      "date": "2026-06-12T13:01:00+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/iihs-publishes-initial-safety-ratings-for-small-commercial-vehicles/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Metso invests in new mineralogy analysis equipment in Finland",
+      "category": "INDUSTRY",
+      "date": "2026-06-12T12:46:01+00:00",
+      "url": "https://www.mining-technology.com/news/metso-invests-new-mineralogy-analysis-equipment/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Gigabyte unveils thin Copilot+ laptop for AI workloads",
+      "category": "MECHANICAL",
+      "date": "2026-06-12T11:33:57+00:00",
+      "url": "https://www.engineering.com/gigabyte-unveils-thin-copilot-laptop-for-ai-workloads/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Dassault partners with PariSanté Campus on health AI",
+      "category": "MECHANICAL",
+      "date": "2026-06-12T10:59:12+00:00",
+      "url": "https://www.engineering.com/dassault-partners-with-parisante-campus-on-health-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Europe and Asia are feeling the pressure from Iran war energy crisis – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-06-12T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/europe-and-asia-are-feeling-the-pressure-from-iran-war-energy-crisis-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Larvotto signs deal to acquire 100% of Hammer Metals",
+      "category": "INDUSTRY",
+      "date": "2026-06-12T09:46:18+00:00",
+      "url": "https://www.mining-technology.com/news/larvotto-deal-to-acquire-hammer-metals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Queensland approval overhaul puts permitting in focus ahead of IMARC",
       "category": "INDUSTRY",
       "date": "2026-06-12T08:34:07+00:00",
@@ -30858,5 +30970,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-12T10:16:09.007404+00:00"
+  "last_updated_utc": "2026-06-12T15:18:24.732647+00:00"
 }
