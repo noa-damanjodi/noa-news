@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "How to make distributed storage work in your state",
+      "category": "RENEWABLE",
+      "date": "2026-06-12T16:13:30+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/how-to-make-distributed-storage-work-in-your-state/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Europe and Asia are feeling the pressure from Iran war energy crisis – This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-06-12T10:00:00+00:00",
@@ -2466,5 +2474,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-12T15:18:24.732647+00:00"
+  "last_updated_utc": "2026-06-12T20:12:09.581552+00:00"
 }
