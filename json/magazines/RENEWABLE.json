@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Unifying awareness, control, and settlements to solve grid instability",
+      "category": "RENEWABLE",
+      "date": "2026-06-15T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/unifying-awareness-control-and-settlements-to-solve-grid-instability/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Clean energy wins | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-06-15T09:55:00+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/clean-energy-wins-factor-this-brief-6-15/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "How to make distributed storage work in your state",
       "category": "RENEWABLE",
       "date": "2026-06-12T16:13:30+00:00",
@@ -2474,5 +2490,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-15T04:26:20.245853+00:00"
+  "last_updated_utc": "2026-06-15T12:17:47.240506+00:00"
 }

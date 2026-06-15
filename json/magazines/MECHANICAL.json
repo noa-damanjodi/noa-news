@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Hexagon acquires Planit Canada woodworking software reseller",
+      "category": "MECHANICAL",
+      "date": "2026-06-15T10:21:00+00:00",
+      "url": "https://www.engineering.com/hexagon-acquires-planit-canada-woodworking-software-reseller/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Infineon, Siemens partner on solid-state circuit protection",
+      "category": "MECHANICAL",
+      "date": "2026-06-15T10:20:21+00:00",
+      "url": "https://www.engineering.com/infineon-siemens-partner-on-solid-state-circuit-protection/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "TurboCAD Mac 17 adds AI tools and XREF updates",
+      "category": "MECHANICAL",
+      "date": "2026-06-15T10:05:58+00:00",
+      "url": "https://www.engineering.com/turbocad-mac-17-adds-ai-tools-and-xref-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nikon SLM, NB Additive partner on metal AM workflows",
+      "category": "MECHANICAL",
+      "date": "2026-06-15T09:59:11+00:00",
+      "url": "https://www.engineering.com/nikon-slm-nb-additive-partner-on-metal-am-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aras named PLM leader in Gartner report",
+      "category": "MECHANICAL",
+      "date": "2026-06-15T09:43:50+00:00",
+      "url": "https://www.engineering.com/aras-named-plm-leader-in-gartner-report/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rapidus signs UK semiconductor manufacturing MoU",
+      "category": "MECHANICAL",
+      "date": "2026-06-15T09:39:11+00:00",
+      "url": "https://www.engineering.com/rapidus-signs-uk-semiconductor-manufacturing-mou/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Leica launches RTC series terrestrial laser scanners",
       "category": "MECHANICAL",
       "date": "2026-06-12T14:57:04+00:00",
@@ -8610,5 +8658,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-15T04:26:20.245853+00:00"
+  "last_updated_utc": "2026-06-15T12:17:47.240506+00:00"
 }

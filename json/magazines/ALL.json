@@ -2,6 +2,190 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Transmission Losses: Small percentages, large realities",
+      "category": "POWER",
+      "date": "2026-06-15T11:40:45+00:00",
+      "url": "https://powerline.net.in/2026/06/15/transmission-losses-small-percentages-large-realities-2/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Predictive Strategies: Effective O&M practices for substations and switchgear",
+      "category": "POWER",
+      "date": "2026-06-15T11:40:29+00:00",
+      "url": "https://powerline.net.in/2026/06/15/predictive-strategies-effective-om-practices-for-substations-and-switchgear/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Power Generation: Total power generation in March 2026",
+      "category": "POWER",
+      "date": "2026-06-15T10:27:47+00:00",
+      "url": "https://powerline.net.in/2026/06/15/power-generation-total-power-generation-in-march-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon acquires Planit Canada woodworking software reseller",
+      "category": "MECHANICAL",
+      "date": "2026-06-15T10:21:00+00:00",
+      "url": "https://www.engineering.com/hexagon-acquires-planit-canada-woodworking-software-reseller/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Infineon, Siemens partner on solid-state circuit protection",
+      "category": "MECHANICAL",
+      "date": "2026-06-15T10:20:21+00:00",
+      "url": "https://www.engineering.com/infineon-siemens-partner-on-solid-state-circuit-protection/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PYBAR secures three new mine contracts in Australia",
+      "category": "INDUSTRY",
+      "date": "2026-06-15T10:18:27+00:00",
+      "url": "https://www.mining-technology.com/news/pybar-secures-contracts-australia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "TurboCAD Mac 17 adds AI tools and XREF updates",
+      "category": "MECHANICAL",
+      "date": "2026-06-15T10:05:58+00:00",
+      "url": "https://www.engineering.com/turbocad-mac-17-adds-ai-tools-and-xref-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Digital Upgrade: Growing role of automation in enhancing renewable power operations",
+      "category": "POWER",
+      "date": "2026-06-15T10:01:09+00:00",
+      "url": "https://powerline.net.in/2026/06/15/digital-upgrade-growing-role-of-automation-in-enhancing-renewable-power-operations/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Unifying awareness, control, and settlements to solve grid instability",
+      "category": "RENEWABLE",
+      "date": "2026-06-15T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/podcasts/unifying-awareness-control-and-settlements-to-solve-grid-instability/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Nikon SLM, NB Additive partner on metal AM workflows",
+      "category": "MECHANICAL",
+      "date": "2026-06-15T09:59:11+00:00",
+      "url": "https://www.engineering.com/nikon-slm-nb-additive-partner-on-metal-am-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Clean energy wins | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-06-15T09:55:00+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/clean-energy-wins-factor-this-brief-6-15/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Aras named PLM leader in Gartner report",
+      "category": "MECHANICAL",
+      "date": "2026-06-15T09:43:50+00:00",
+      "url": "https://www.engineering.com/aras-named-plm-leader-in-gartner-report/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rapidus signs UK semiconductor manufacturing MoU",
+      "category": "MECHANICAL",
+      "date": "2026-06-15T09:39:11+00:00",
+      "url": "https://www.engineering.com/rapidus-signs-uk-semiconductor-manufacturing-mou/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Q&A: ABB on power, automation and the future of mining",
+      "category": "INDUSTRY",
+      "date": "2026-06-15T09:31:44+00:00",
+      "url": "https://www.mining-technology.com/features/qa-abb-on-power-automation-and-the-future-of-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "The Moon is the next frontier in space mining",
+      "category": "INDUSTRY",
+      "date": "2026-06-15T08:56:32+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/moon-next-frontier-space-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Triple Flag to acquire Ravenswood gold stream for $440m",
+      "category": "INDUSTRY",
+      "date": "2026-06-15T07:29:41+00:00",
+      "url": "https://www.mining-technology.com/news/triple-flag-gold-stream-ravenswood/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rio Tinto, China Baowu conclude shaft furnace trials",
+      "category": "INDUSTRY",
+      "date": "2026-06-15T07:16:05+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-china-baowu-shaft-furnace-trials/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "RECPDCL transfers Jalna power transmission SPV to MSETCL",
+      "category": "POWER",
+      "date": "2026-06-15T05:58:23+00:00",
+      "url": "https://powerline.net.in/2026/06/15/recpdcl-transfers-jalna-power-transmission-spv-to-msetcl/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "POWERGRID to implement transmission reconductoring project in West Bengal under RTM",
+      "category": "POWER",
+      "date": "2026-06-15T05:57:15+00:00",
+      "url": "https://powerline.net.in/2026/06/15/powergrid-to-implement-transmission-reconductoring-project-in-west-bengal-under-rtm/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hitachi Energy to set up Rs 20 billion transformer factory in Gujarat",
+      "category": "POWER",
+      "date": "2026-06-15T05:56:18+00:00",
+      "url": "https://powerline.net.in/2026/06/15/hitachi-energy-to-set-up-rs-20-billion-transformer-factory-in-gujarat/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Prozeal Green Energy secures 250 MW captive wind project from ONGC",
+      "category": "POWER",
+      "date": "2026-06-15T05:54:52+00:00",
+      "url": "https://powerline.net.in/2026/06/15/prozeal-green-energy-secures-250-mw-captive-wind-project-from-ongc/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Quality Power to acquire Winwin Speciality Insulators for Rs 3.15 billion",
+      "category": "POWER",
+      "date": "2026-06-15T05:53:46+00:00",
+      "url": "https://powerline.net.in/2026/06/15/quality-power-to-acquire-winwin-speciality-insulators-for-rs-3-15-billion/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NLC India and CSIR-CECRI sign MoU on critical mineral beneficiation and extraction",
+      "category": "POWER",
+      "date": "2026-06-15T05:49:20+00:00",
+      "url": "https://powerline.net.in/2026/06/15/nlc-india-and-csir-cecri-sign-mou-on-critical-mineral-beneficiation-and-extraction/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "‘It only takes one bad storm’: CSB renews call for hurricane preparedness",
       "category": "SAFETY",
       "date": "2026-06-12T18:53:41+00:00",
@@ -31018,5 +31202,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-15T04:26:20.245853+00:00"
+  "last_updated_utc": "2026-06-15T12:17:47.240506+00:00"
 }

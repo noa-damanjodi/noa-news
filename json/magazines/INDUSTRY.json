@@ -2,6 +2,46 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "PYBAR secures three new mine contracts in Australia",
+      "category": "INDUSTRY",
+      "date": "2026-06-15T10:18:27+00:00",
+      "url": "https://www.mining-technology.com/news/pybar-secures-contracts-australia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Q&A: ABB on power, automation and the future of mining",
+      "category": "INDUSTRY",
+      "date": "2026-06-15T09:31:44+00:00",
+      "url": "https://www.mining-technology.com/features/qa-abb-on-power-automation-and-the-future-of-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "The Moon is the next frontier in space mining",
+      "category": "INDUSTRY",
+      "date": "2026-06-15T08:56:32+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/moon-next-frontier-space-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Triple Flag to acquire Ravenswood gold stream for $440m",
+      "category": "INDUSTRY",
+      "date": "2026-06-15T07:29:41+00:00",
+      "url": "https://www.mining-technology.com/news/triple-flag-gold-stream-ravenswood/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rio Tinto, China Baowu conclude shaft furnace trials",
+      "category": "INDUSTRY",
+      "date": "2026-06-15T07:16:05+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-china-baowu-shaft-furnace-trials/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Orion CMC considers acquiring stake in French miner Eramet",
       "category": "INDUSTRY",
       "date": "2026-06-12T13:27:50+00:00",
@@ -5394,5 +5434,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-15T04:26:20.245853+00:00"
+  "last_updated_utc": "2026-06-15T12:17:47.240506+00:00"
 }
