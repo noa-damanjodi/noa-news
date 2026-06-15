@@ -2,6 +2,14 @@
   "category": "POWER",
   "items": [
     {
+      "title": "Framework Reset: Revised rules for captive power plants",
+      "category": "POWER",
+      "date": "2026-06-15T12:30:30+00:00",
+      "url": "https://powerline.net.in/2026/06/15/framework-reset-revised-rules-for-captive-power-plants/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Transmission Losses: Small percentages, large realities",
       "category": "POWER",
       "date": "2026-06-15T11:40:45+00:00",
@@ -7970,5 +7978,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-15T12:17:47.240506+00:00"
+  "last_updated_utc": "2026-06-15T20:56:16.873996+00:00"
 }

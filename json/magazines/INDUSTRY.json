@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "From camera clarity to collision avoidance: What ‘AI in mining’ actually looks like in 2026",
+      "category": "INDUSTRY",
+      "date": "2026-06-15T13:33:14+00:00",
+      "url": "https://www.mining-technology.com/sponsored/from-camera-clarity-to-collision-avoidance-what-ai-in-mining-actually-looks-like-in-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rome Resources initiates tin mining programme at Kalayi",
+      "category": "INDUSTRY",
+      "date": "2026-06-15T13:25:48+00:00",
+      "url": "https://www.mining-technology.com/news/rome-resources-tin-mining-kalayi/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Barminco chooses Sandvik for Bellevue Gold mining fleet",
+      "category": "INDUSTRY",
+      "date": "2026-06-15T13:13:39+00:00",
+      "url": "https://www.mining-technology.com/news/barminco-sandvik-bellevue-gold-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "PYBAR secures three new mine contracts in Australia",
       "category": "INDUSTRY",
       "date": "2026-06-15T10:18:27+00:00",
@@ -5434,5 +5458,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-15T12:17:47.240506+00:00"
+  "last_updated_utc": "2026-06-15T20:56:16.873996+00:00"
 }

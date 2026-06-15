@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Two-week pause of Canadian hydropower exposes frailty of Mass. plan to wean off natural gas",
+      "category": "RENEWABLE",
+      "date": "2026-06-15T19:13:35+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/two-week-pause-of-canadian-hydropower-exposes-frailty-of-mass-plan-to-wean-off-natural-gas/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "‘WaveGPT?’ Inside the effort to bring AI to wave-powered infrastructure",
+      "category": "RENEWABLE",
+      "date": "2026-06-15T18:50:17+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/wavegpt-inside-the-effort-to-bring-ai-to-wave-powered-infrastructure/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Novarc and Yaskawa enter memorandum of understanding to advance AI-powered autonomous welding solutions",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-15T15:52:55+00:00",
+      "url": "https://www.automationmag.com/novarc-and-yaskawa-enter-memorandum-of-understanding-to-advance-ai-powered-autonomous-welding-solutions/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "EON Reality launches Genesis 3.1 for industrial training",
+      "category": "MECHANICAL",
+      "date": "2026-06-15T13:47:18+00:00",
+      "url": "https://www.engineering.com/eon-reality-launches-genesis-3-1-for-industrial-training/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "From camera clarity to collision avoidance: What ‘AI in mining’ actually looks like in 2026",
+      "category": "INDUSTRY",
+      "date": "2026-06-15T13:33:14+00:00",
+      "url": "https://www.mining-technology.com/sponsored/from-camera-clarity-to-collision-avoidance-what-ai-in-mining-actually-looks-like-in-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rome Resources initiates tin mining programme at Kalayi",
+      "category": "INDUSTRY",
+      "date": "2026-06-15T13:25:48+00:00",
+      "url": "https://www.mining-technology.com/news/rome-resources-tin-mining-kalayi/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "CADFEM APAC, SilTerra partner on semiconductor simulation",
+      "category": "MECHANICAL",
+      "date": "2026-06-15T13:14:10+00:00",
+      "url": "https://www.engineering.com/cadfem-apac-silterra-partner-on-semiconductor-simulation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Barminco chooses Sandvik for Bellevue Gold mining fleet",
+      "category": "INDUSTRY",
+      "date": "2026-06-15T13:13:39+00:00",
+      "url": "https://www.mining-technology.com/news/barminco-sandvik-bellevue-gold-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ZWSOFT repositions ZWCAD for professional CAD users",
+      "category": "MECHANICAL",
+      "date": "2026-06-15T12:47:39+00:00",
+      "url": "https://www.engineering.com/zwsoft-repositions-zwcad-for-professional-cad-users/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Framework Reset: Revised rules for captive power plants",
+      "category": "POWER",
+      "date": "2026-06-15T12:30:30+00:00",
+      "url": "https://powerline.net.in/2026/06/15/framework-reset-revised-rules-for-captive-power-plants/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Transmission Losses: Small percentages, large realities",
       "category": "POWER",
       "date": "2026-06-15T11:40:45+00:00",
@@ -183,6 +263,14 @@
       "date": "2026-06-15T05:49:20+00:00",
       "url": "https://powerline.net.in/2026/06/15/nlc-india-and-csir-cecri-sign-mou-on-critical-mineral-beneficiation-and-extraction/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Modernization project underway for two Columbia River dams",
+      "category": "RENEWABLE",
+      "date": "2026-06-12T19:47:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/dams-civil-structures/modernization-project-underway-for-two-columbia-river-dams/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -31202,5 +31290,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-15T12:17:47.240506+00:00"
+  "last_updated_utc": "2026-06-15T20:56:16.873996+00:00"
 }
