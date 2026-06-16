@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Ucore, SCOA sign deal for North American rare earth supply chain",
+      "category": "INDUSTRY",
+      "date": "2026-06-16T09:57:14+00:00",
+      "url": "https://www.mining-technology.com/news/ucore-scoa-north-american-rare-earth-supply/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "LKAB receives permit for expanded mining at Malmberget",
+      "category": "INDUSTRY",
+      "date": "2026-06-16T07:21:53+00:00",
+      "url": "https://www.mining-technology.com/news/lkab-permit-expanded-mining-malmberget/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Fortuna secures environmental approval for Diamba Sud mine",
+      "category": "INDUSTRY",
+      "date": "2026-06-16T06:48:27+00:00",
+      "url": "https://www.mining-technology.com/news/fortuna-environmental-approval-diamba-sud-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "From camera clarity to collision avoidance: What ‘AI in mining’ actually looks like in 2026",
       "category": "INDUSTRY",
       "date": "2026-06-15T13:33:14+00:00",
@@ -5458,5 +5482,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-16T04:22:27.641096+00:00"
+  "last_updated_utc": "2026-06-16T11:12:51.880696+00:00"
 }
