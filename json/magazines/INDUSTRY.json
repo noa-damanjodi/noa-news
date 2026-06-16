@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Westar receives government funding for Bunda Creek survey",
+      "category": "INDUSTRY",
+      "date": "2026-06-16T12:50:28+00:00",
+      "url": "https://www.mining-technology.com/news/westar-government-funding-bunda-creek-survey/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Great Southern Copper begins scout drilling at Artemisa South in Chile",
+      "category": "INDUSTRY",
+      "date": "2026-06-16T12:37:59+00:00",
+      "url": "https://www.mining-technology.com/news/great-southern-scout-drilling-artemisa-south/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Ucore, SCOA sign deal for North American rare earth supply chain",
       "category": "INDUSTRY",
       "date": "2026-06-16T09:57:14+00:00",
@@ -5482,5 +5498,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-16T11:12:51.880696+00:00"
+  "last_updated_utc": "2026-06-16T16:55:58.168898+00:00"
 }
