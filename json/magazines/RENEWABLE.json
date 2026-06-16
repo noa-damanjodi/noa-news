@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "The largest wind project in the U.S. is almost online",
+      "category": "RENEWABLE",
+      "date": "2026-06-16T18:27:06+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/the-largest-wind-project-in-the-u-s-is-almost-online/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Can this grid monitoring tool reduce outage times by up to 80%?",
       "category": "RENEWABLE",
       "date": "2026-06-15T20:46:57+00:00",
@@ -2530,5 +2538,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-16T16:55:58.168898+00:00"
+  "last_updated_utc": "2026-06-16T20:53:11.000728+00:00"
 }
