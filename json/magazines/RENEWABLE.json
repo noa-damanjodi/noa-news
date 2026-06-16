@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Can this grid monitoring tool reduce outage times by up to 80%?",
+      "category": "RENEWABLE",
+      "date": "2026-06-15T20:46:57+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/can-this-grid-monitoring-tool-reduce-outage-times-by-up-to-80/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "New Jersey state government facilities adopt demand response and flexibility programs from VPP platform",
+      "category": "RENEWABLE",
+      "date": "2026-06-15T19:52:12+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/new-jersey-state-government-facilities-adopt-demand-response-and-flexibility-programs-from-vpp-platform/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Two-week pause of Canadian hydropower exposes frailty of Mass. plan to wean off natural gas",
       "category": "RENEWABLE",
       "date": "2026-06-15T19:13:35+00:00",
@@ -2514,5 +2530,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-15T20:56:16.873996+00:00"
+  "last_updated_utc": "2026-06-16T04:22:27.641096+00:00"
 }
