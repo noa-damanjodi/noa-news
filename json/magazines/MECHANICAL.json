@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Autodesk’s neural CAD looks good on paper",
+      "category": "MECHANICAL",
+      "date": "2026-06-17T19:30:39+00:00",
+      "url": "https://www.engineering.com/autodesks-neural-cad-looks-good-on-paper/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HPE expands AI factory for agentic enterprise deployments",
+      "category": "MECHANICAL",
+      "date": "2026-06-17T16:05:49+00:00",
+      "url": "https://www.engineering.com/hpe-expands-ai-factory-for-agentic-enterprise-deployments/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight joins Siemens software partner program",
+      "category": "MECHANICAL",
+      "date": "2026-06-17T15:59:44+00:00",
+      "url": "https://www.engineering.com/keysight-joins-siemens-software-partner-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens links industrial edge data to Databricks AI",
+      "category": "MECHANICAL",
+      "date": "2026-06-17T15:46:27+00:00",
+      "url": "https://www.engineering.com/siemens-links-industrial-edge-data-to-databricks-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Renishaw appoints MTT as channel partner",
+      "category": "MECHANICAL",
+      "date": "2026-06-17T15:39:13+00:00",
+      "url": "https://www.engineering.com/renishaw-appoints-mtt-as-channel-partner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Dassault Systèmes partners with PariSanté Campus",
       "category": "MECHANICAL",
       "date": "2026-06-17T13:29:58+00:00",
@@ -8770,5 +8810,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-17T15:35:33.983245+00:00"
+  "last_updated_utc": "2026-06-17T20:13:37.440823+00:00"
 }

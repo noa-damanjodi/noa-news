@@ -2,6 +2,118 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Mitsubishi Electric Automation, Inc. releases CNC With advanced control functions",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-17T19:59:00+00:00",
+      "url": "https://www.automationmag.com/mitsubishi-electric-automation-inc-releases-cnc-with-advanced-control-functions/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "B&K Precision launches multi-channel modular DC load series for benchtop applications",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-17T19:43:35+00:00",
+      "url": "https://www.automationmag.com/bk-precision-launches-multi-channel-modular-dc-load-series-for-benchtop-applications/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Autodesk’s neural CAD looks good on paper",
+      "category": "MECHANICAL",
+      "date": "2026-06-17T19:30:39+00:00",
+      "url": "https://www.engineering.com/autodesks-neural-cad-looks-good-on-paper/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "WAGO Base series single-phase power supplies offered by AutomationDirect",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-17T18:01:55+00:00",
+      "url": "https://www.automationmag.com/wago-base-series-single-phase-power-supplies-offered-by-automationdirect/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Study finds dramatic increase in kids swallowing water bead toys",
+      "category": "SAFETY",
+      "date": "2026-06-17T17:25:38+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/study-finds-dramatic-increase-in-kids-swallowing-water-bead-toys/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Occupational safety community lacks shared definition of ‘control,’ study finds",
+      "category": "SAFETY",
+      "date": "2026-06-17T17:14:15+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/occupational-safety-community-lacks-shared-definition-of-control-study-finds/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Enhancing situational awareness: New website offers resources",
+      "category": "SAFETY",
+      "date": "2026-06-17T17:09:12+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/enhancing-situational-awareness-new-website-offers-resources/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Flight crews should be trained on smoke-in-cockpit emergencies, NTSB tells FAA",
+      "category": "SAFETY",
+      "date": "2026-06-17T17:08:25+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/flight-crews-should-be-trained-on-smoke-in-cockpit-emergencies-ntsb-tells-faa/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "MSHA cautions miners about ammonia exposure",
+      "category": "SAFETY",
+      "date": "2026-06-17T16:58:25+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/msha-cautions-miners-about-ammonia-exposure/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB launches first Extension Pack for flagship DCS with web-based operations",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-17T16:08:56+00:00",
+      "url": "https://www.automationmag.com/abb-launches-first-extension-pack-for-flagship-dcs-with-web-based-operations/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "HPE expands AI factory for agentic enterprise deployments",
+      "category": "MECHANICAL",
+      "date": "2026-06-17T16:05:49+00:00",
+      "url": "https://www.engineering.com/hpe-expands-ai-factory-for-agentic-enterprise-deployments/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight joins Siemens software partner program",
+      "category": "MECHANICAL",
+      "date": "2026-06-17T15:59:44+00:00",
+      "url": "https://www.engineering.com/keysight-joins-siemens-software-partner-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens links industrial edge data to Databricks AI",
+      "category": "MECHANICAL",
+      "date": "2026-06-17T15:46:27+00:00",
+      "url": "https://www.engineering.com/siemens-links-industrial-edge-data-to-databricks-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Renishaw appoints MTT as channel partner",
+      "category": "MECHANICAL",
+      "date": "2026-06-17T15:39:13+00:00",
+      "url": "https://www.engineering.com/renishaw-appoints-mtt-as-channel-partner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "The case for open PLC architecture",
       "category": "INSTRUMENTATION",
       "date": "2026-06-17T14:21:18+00:00",
@@ -31666,5 +31778,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-17T15:35:33.983245+00:00"
+  "last_updated_utc": "2026-06-17T20:13:37.440823+00:00"
 }
