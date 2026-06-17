@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "The case for open PLC architecture",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-17T14:21:18+00:00",
+      "url": "https://www.automationmag.com/the-case-for-open-plc-architecture/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Roshel and Daimler Truck sign MoU, mark new Canadian-German industrial defence partnership",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-17T14:08:25+00:00",
+      "url": "https://www.automationmag.com/roshel-and-daimler-truck-sign-mou-mark-new-canadian-german-industrial-defence-partnership/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Fortinet report finds OT security maturity improving as risks accelerate",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-17T13:56:42+00:00",
+      "url": "https://www.automationmag.com/fortinet-report-finds-ot-security-maturity-improving-as-risks-accelerate/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Novarc and Yaskawa enter memorandum of understanding to advance AI-powered autonomous welding solutions",
       "category": "INSTRUMENTATION",
       "date": "2026-06-15T15:52:55+00:00",
@@ -1994,5 +2018,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-17T10:59:22.038942+00:00"
+  "last_updated_utc": "2026-06-17T15:35:33.983245+00:00"
 }

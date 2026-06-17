@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Dassault Systèmes partners with PariSanté Campus",
+      "category": "MECHANICAL",
+      "date": "2026-06-17T13:29:58+00:00",
+      "url": "https://www.engineering.com/dassault-systemes-partners-with-parisante-campus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Ouster expands Rev8 sensor manufacturing with Benchmark",
       "category": "MECHANICAL",
       "date": "2026-06-17T10:30:15+00:00",
@@ -8762,5 +8770,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-17T10:59:22.038942+00:00"
+  "last_updated_utc": "2026-06-17T15:35:33.983245+00:00"
 }

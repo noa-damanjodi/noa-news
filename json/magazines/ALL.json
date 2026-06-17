@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "The case for open PLC architecture",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-17T14:21:18+00:00",
+      "url": "https://www.automationmag.com/the-case-for-open-plc-architecture/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Roshel and Daimler Truck sign MoU, mark new Canadian-German industrial defence partnership",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-17T14:08:25+00:00",
+      "url": "https://www.automationmag.com/roshel-and-daimler-truck-sign-mou-mark-new-canadian-german-industrial-defence-partnership/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Can PJM’s new ‘fast track’ process accelerate interconnection?",
+      "category": "RENEWABLE",
+      "date": "2026-06-17T14:01:15+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/can-pjms-new-fast-track-process-accelerate-interconnection/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Fortinet report finds OT security maturity improving as risks accelerate",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-17T13:56:42+00:00",
+      "url": "https://www.automationmag.com/fortinet-report-finds-ot-security-maturity-improving-as-risks-accelerate/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Dassault Systèmes partners with PariSanté Campus",
+      "category": "MECHANICAL",
+      "date": "2026-06-17T13:29:58+00:00",
+      "url": "https://www.engineering.com/dassault-systemes-partners-with-parisante-campus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "US DoW’s OSC announces $500m loan for Phoenix Tailings",
+      "category": "INDUSTRY",
+      "date": "2026-06-17T13:00:45+00:00",
+      "url": "https://www.mining-technology.com/news/us-dows-osc-500m-loan-phoenix-tailings/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Ouster expands Rev8 sensor manufacturing with Benchmark",
       "category": "MECHANICAL",
       "date": "2026-06-17T10:30:15+00:00",
@@ -15,6 +63,14 @@
       "date": "2026-06-17T10:11:21+00:00",
       "url": "https://www.engineering.com/allplan-brings-sds2-steel-detailing-software-to-germany/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aurelia Metals completes PFS for New Occidental Tailings in NSW",
+      "category": "INDUSTRY",
+      "date": "2026-06-17T10:08:57+00:00",
+      "url": "https://www.mining-technology.com/news/aurelia-metals-pfs-new-occidental-tailings/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -31610,5 +31666,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-17T10:59:22.038942+00:00"
+  "last_updated_utc": "2026-06-17T15:35:33.983245+00:00"
 }

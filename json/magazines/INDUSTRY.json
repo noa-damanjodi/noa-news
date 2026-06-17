@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "US DoW’s OSC announces $500m loan for Phoenix Tailings",
+      "category": "INDUSTRY",
+      "date": "2026-06-17T13:00:45+00:00",
+      "url": "https://www.mining-technology.com/news/us-dows-osc-500m-loan-phoenix-tailings/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Aurelia Metals completes PFS for New Occidental Tailings in NSW",
+      "category": "INDUSTRY",
+      "date": "2026-06-17T10:08:57+00:00",
+      "url": "https://www.mining-technology.com/news/aurelia-metals-pfs-new-occidental-tailings/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Vizsla Silver selects FLSmidth for Panuco project equipment deal",
       "category": "INDUSTRY",
       "date": "2026-06-17T08:22:46+00:00",
@@ -5514,5 +5530,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-17T10:59:22.038942+00:00"
+  "last_updated_utc": "2026-06-17T15:35:33.983245+00:00"
 }
