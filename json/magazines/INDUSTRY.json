@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Star Gold secures BLM approval for Longstreet drilling",
+      "category": "INDUSTRY",
+      "date": "2026-06-18T07:21:22+00:00",
+      "url": "https://www.mining-technology.com/news/star-gold-blm-approval-longstreet-drilling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "The future of bioleaching in mining",
+      "category": "INDUSTRY",
+      "date": "2026-06-18T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/analysis/the-future-of-bioleaching-in-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "International Graphite, Alkeemia to build graphite hub in Italy",
+      "category": "INDUSTRY",
+      "date": "2026-06-17T13:07:27+00:00",
+      "url": "https://www.mining-technology.com/news/international-graphite-alkeemia-graphite-hub-italy/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "US DoW’s OSC announces $500m loan for Phoenix Tailings",
       "category": "INDUSTRY",
       "date": "2026-06-17T13:00:45+00:00",
@@ -5530,5 +5554,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-18T04:08:58.213099+00:00"
+  "last_updated_utc": "2026-06-18T10:22:17.678761+00:00"
 }

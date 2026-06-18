@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Keysight completes VPIphotonics acquisition",
+      "category": "MECHANICAL",
+      "date": "2026-06-18T09:56:33+00:00",
+      "url": "https://www.engineering.com/keysight-completes-vpiphotonics-acquisition/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Star Gold secures BLM approval for Longstreet drilling",
+      "category": "INDUSTRY",
+      "date": "2026-06-18T07:21:22+00:00",
+      "url": "https://www.mining-technology.com/news/star-gold-blm-approval-longstreet-drilling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "The future of bioleaching in mining",
+      "category": "INDUSTRY",
+      "date": "2026-06-18T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/analysis/the-future-of-bioleaching-in-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "POWERGRID secures LoI for WR-ER inter-regional network expansion project under TBCB",
+      "category": "POWER",
+      "date": "2026-06-18T05:26:20+00:00",
+      "url": "https://powerline.net.in/2026/06/18/powergrid-secures-loi-for-wr-er-inter-regional-network-expansion-project-under-tbcb/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "MNRE launches WT-MARUT portal for wind turbine supply chain management",
+      "category": "POWER",
+      "date": "2026-06-18T05:25:08+00:00",
+      "url": "https://powerline.net.in/2026/06/18/mnre-launches-wt-marut-portal-for-wind-turbine-supply-chain-management/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bondada Engineering bags Rs 13.38 billion solar-plus-storage EPC order from NTPC Renewable Energy",
+      "category": "POWER",
+      "date": "2026-06-18T05:24:12+00:00",
+      "url": "https://powerline.net.in/2026/06/18/bondada-engineering-bags-rs-13-38-billion-solar-plus-storage-epc-order-from-ntpc-renewable-energy/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Oswal Pumps secures orders for 63 MW of rooftop solar projects in Bihar",
+      "category": "POWER",
+      "date": "2026-06-18T05:23:16+00:00",
+      "url": "https://powerline.net.in/2026/06/18/oswal-pumps-secures-orders-for-63-mw-of-rooftop-solar-projects-in-bihar/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Foxconn and Brookfield to develop 1 GW renewables in Vietnam",
+      "category": "POWER",
+      "date": "2026-06-18T05:22:14+00:00",
+      "url": "https://powerline.net.in/2026/06/18/foxconn-and-brookfield-to-develop-1-gw-renewables-in-vietnam/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "DEME bags contract for offshore wind project in Japan",
+      "category": "POWER",
+      "date": "2026-06-18T05:21:12+00:00",
+      "url": "https://powerline.net.in/2026/06/18/deme-bags-contract-for-offshore-wind-project-in-japan-2/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Mitsubishi Electric Automation, Inc. releases CNC With advanced control functions",
       "category": "INSTRUMENTATION",
       "date": "2026-06-17T19:59:00+00:00",
@@ -151,6 +223,14 @@
       "date": "2026-06-17T13:29:58+00:00",
       "url": "https://www.engineering.com/dassault-systemes-partners-with-parisante-campus/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "International Graphite, Alkeemia to build graphite hub in Italy",
+      "category": "INDUSTRY",
+      "date": "2026-06-17T13:07:27+00:00",
+      "url": "https://www.mining-technology.com/news/international-graphite-alkeemia-graphite-hub-italy/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -31778,5 +31858,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-18T04:08:58.213099+00:00"
+  "last_updated_utc": "2026-06-18T10:22:17.678761+00:00"
 }

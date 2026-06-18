@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Keysight completes VPIphotonics acquisition",
+      "category": "MECHANICAL",
+      "date": "2026-06-18T09:56:33+00:00",
+      "url": "https://www.engineering.com/keysight-completes-vpiphotonics-acquisition/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Autodesk’s neural CAD looks good on paper",
       "category": "MECHANICAL",
       "date": "2026-06-17T19:30:39+00:00",
@@ -8810,5 +8818,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-18T04:08:58.213099+00:00"
+  "last_updated_utc": "2026-06-18T10:22:17.678761+00:00"
 }
