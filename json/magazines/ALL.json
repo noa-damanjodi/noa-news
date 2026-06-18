@@ -2,11 +2,147 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Kestrel Labs launches Revit-based code compliance platform",
+      "category": "MECHANICAL",
+      "date": "2026-06-18T14:55:44+00:00",
+      "url": "https://www.engineering.com/kestrel-labs-launches-revit-based-code-compliance-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Stratasys launches flame-retardant rail printing material",
+      "category": "MECHANICAL",
+      "date": "2026-06-18T14:48:10+00:00",
+      "url": "https://www.engineering.com/stratasys-launches-flame-retardant-rail-printing-material/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Washington state updates Janitorial Workload Calculator",
+      "category": "SAFETY",
+      "date": "2026-06-18T13:47:06+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/washington-state-updates-janitorial-workload-calculator/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA will continue to target noise hazards in Chicago Region",
+      "category": "SAFETY",
+      "date": "2026-06-18T13:35:16+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-will-continue-to-target-noise-hazards-in-chicago-region/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Maxon brings Redshift rendering to Autodesk Revit",
+      "category": "MECHANICAL",
+      "date": "2026-06-18T13:10:32+00:00",
+      "url": "https://www.engineering.com/maxon-brings-redshift-rendering-to-autodesk-revit/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA updates VPP policy on safety and health management systems",
+      "category": "SAFETY",
+      "date": "2026-06-18T13:05:21+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-updates-vpp-policy-on-safety-and-health-management-systems/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Robo.ai agrees to acquire QC Capital for $60 million",
+      "category": "MECHANICAL",
+      "date": "2026-06-18T12:59:16+00:00",
+      "url": "https://www.engineering.com/robo-ai-agrees-to-acquire-qc-capital-for-60-million/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Soma Gold begins deliveries from Aurora and El Limon to El Bagre",
+      "category": "INDUSTRY",
+      "date": "2026-06-18T12:58:24+00:00",
+      "url": "https://www.mining-technology.com/news/soma-gold-deliveries-aurora-el-limon-to-el-bagre/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Drilling under way at Critical Metals’ Tanbreez project",
+      "category": "INDUSTRY",
+      "date": "2026-06-18T12:40:21+00:00",
+      "url": "https://www.mining-technology.com/news/drilling-underway-critical-metals-tanbreez-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Dassault launches 16th AAKRUTI competition",
+      "category": "MECHANICAL",
+      "date": "2026-06-18T12:31:01+00:00",
+      "url": "https://www.engineering.com/dassault-launches-16th-aakruti-competition/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nemetschek Group invests in data exchange company Dawex",
+      "category": "MECHANICAL",
+      "date": "2026-06-18T11:37:28+00:00",
+      "url": "https://www.engineering.com/nemetschek-group-invests-in-data-exchange-company-dawex/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Xvisio launches MR glasses and AI data HMDs",
+      "category": "MECHANICAL",
+      "date": "2026-06-18T11:31:33+00:00",
+      "url": "https://www.engineering.com/xvisio-launches-mr-glasses-and-ai-data-hmds/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "",
+      "category": "POWER",
+      "date": "2026-06-18T10:56:06+00:00",
+      "url": "https://powerline.net.in/2026/06/18/310187/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Paramount Gold reports initial assessment for Sleeper project restart",
+      "category": "INDUSTRY",
+      "date": "2026-06-18T10:24:28+00:00",
+      "url": "https://www.mining-technology.com/news/paramount-gold-initial-assessment-sleeper-restart/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "New clean energy policy podcast launched by Factor This and Advanced Energy United",
+      "category": "RENEWABLE",
+      "date": "2026-06-18T10:01:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/new-clean-energy-policy-podcast-launched-by-factor-this-and-advanced-energy-united/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "How we benefit from transmission competition | Factor This Policycast",
+      "category": "RENEWABLE",
+      "date": "2026-06-18T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/how-we-benefit-from-transmission-competition-factor-this-policycast/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Keysight completes VPIphotonics acquisition",
       "category": "MECHANICAL",
       "date": "2026-06-18T09:56:33+00:00",
       "url": "https://www.engineering.com/keysight-completes-vpiphotonics-acquisition/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Protest blocks copper shipments from Rio Tinto’s Oyu Tolgoi mine",
+      "category": "INDUSTRY",
+      "date": "2026-06-18T07:26:46+00:00",
+      "url": "https://www.mining-technology.com/news/protest-blocks-copper-shipments-oyu-tolgoi/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -31858,5 +31994,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-18T10:22:17.678761+00:00"
+  "last_updated_utc": "2026-06-18T15:28:16.966411+00:00"
 }

@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Kestrel Labs launches Revit-based code compliance platform",
+      "category": "MECHANICAL",
+      "date": "2026-06-18T14:55:44+00:00",
+      "url": "https://www.engineering.com/kestrel-labs-launches-revit-based-code-compliance-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Stratasys launches flame-retardant rail printing material",
+      "category": "MECHANICAL",
+      "date": "2026-06-18T14:48:10+00:00",
+      "url": "https://www.engineering.com/stratasys-launches-flame-retardant-rail-printing-material/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Maxon brings Redshift rendering to Autodesk Revit",
+      "category": "MECHANICAL",
+      "date": "2026-06-18T13:10:32+00:00",
+      "url": "https://www.engineering.com/maxon-brings-redshift-rendering-to-autodesk-revit/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Robo.ai agrees to acquire QC Capital for $60 million",
+      "category": "MECHANICAL",
+      "date": "2026-06-18T12:59:16+00:00",
+      "url": "https://www.engineering.com/robo-ai-agrees-to-acquire-qc-capital-for-60-million/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Dassault launches 16th AAKRUTI competition",
+      "category": "MECHANICAL",
+      "date": "2026-06-18T12:31:01+00:00",
+      "url": "https://www.engineering.com/dassault-launches-16th-aakruti-competition/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nemetschek Group invests in data exchange company Dawex",
+      "category": "MECHANICAL",
+      "date": "2026-06-18T11:37:28+00:00",
+      "url": "https://www.engineering.com/nemetschek-group-invests-in-data-exchange-company-dawex/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Xvisio launches MR glasses and AI data HMDs",
+      "category": "MECHANICAL",
+      "date": "2026-06-18T11:31:33+00:00",
+      "url": "https://www.engineering.com/xvisio-launches-mr-glasses-and-ai-data-hmds/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Keysight completes VPIphotonics acquisition",
       "category": "MECHANICAL",
       "date": "2026-06-18T09:56:33+00:00",
@@ -8818,5 +8874,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-18T10:22:17.678761+00:00"
+  "last_updated_utc": "2026-06-18T15:28:16.966411+00:00"
 }

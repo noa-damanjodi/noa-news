@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "New clean energy policy podcast launched by Factor This and Advanced Energy United",
+      "category": "RENEWABLE",
+      "date": "2026-06-18T10:01:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/new-clean-energy-policy-podcast-launched-by-factor-this-and-advanced-energy-united/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "How we benefit from transmission competition | Factor This Policycast",
+      "category": "RENEWABLE",
+      "date": "2026-06-18T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/how-we-benefit-from-transmission-competition-factor-this-policycast/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Can PJM’s new ‘fast track’ process accelerate interconnection?",
       "category": "RENEWABLE",
       "date": "2026-06-17T14:01:15+00:00",
@@ -2546,5 +2562,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-18T10:22:17.678761+00:00"
+  "last_updated_utc": "2026-06-18T15:28:16.966411+00:00"
 }
