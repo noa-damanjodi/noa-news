@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Silver Storm secures permits for La Parrilla mine drilling",
+      "category": "INDUSTRY",
+      "date": "2026-06-19T10:28:10+00:00",
+      "url": "https://www.mining-technology.com/news/silver-storm-approval-drilling-la-parrilla/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "What does global energy trade look like after US-Iran deal? – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-06-19T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/what-does-global-energy-trade-look-like-after-us-iran-deal-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "enCore Energy gets BLM approval for Dewey Burdock infrastructure",
+      "category": "INDUSTRY",
+      "date": "2026-06-19T07:14:19+00:00",
+      "url": "https://www.mining-technology.com/news/encore-energy-blm-dewey-burdock-infrastructure/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "KEFI awards $400m mining contract to BCM for Tulu Kapi project",
+      "category": "INDUSTRY",
+      "date": "2026-06-19T07:08:03+00:00",
+      "url": "https://www.mining-technology.com/news/kefi-mining-contract-bcm-tulu-kapi/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NPCIL installs reactor pressure vessel at Kudankulam Unit-5",
+      "category": "POWER",
+      "date": "2026-06-19T06:07:18+00:00",
+      "url": "https://powerline.net.in/2026/06/19/npcil-installs-reactor-pressure-vessel-at-kudankulam-unit-5/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Rajesh Power Services bags Rs 2.12 billion transmission order from OPTCL",
+      "category": "POWER",
+      "date": "2026-06-19T06:05:16+00:00",
+      "url": "https://powerline.net.in/2026/06/19/rajesh-power-services-bags-rs-2-12-billion-transmission-order-from-optcl/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "GEON commissions 2.88 GWh BESS in Gujarat",
+      "category": "POWER",
+      "date": "2026-06-19T06:03:27+00:00",
+      "url": "https://powerline.net.in/2026/06/19/geon-commissions-2-88-gwh-bess-in-gujarat/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "K2 Infragen bags Rs 1.58 billion railway electrification order from Konkan Railway",
+      "category": "POWER",
+      "date": "2026-06-19T06:01:51+00:00",
+      "url": "https://powerline.net.in/2026/06/19/k2-infragen-bags-rs-1-58-billion-railway-electrification-order-from-konkan-railway/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "China’s SGCC and Jiangsu province sign cooperation agreement for UHVDC project",
+      "category": "POWER",
+      "date": "2026-06-19T06:00:45+00:00",
+      "url": "https://powerline.net.in/2026/06/19/chinas-sgcc-and-jiangsu-province-sign-cooperation-agreement-for-uhvdc-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Singapore’s SP PowerAssets awards cable contract to Taihan Cable",
+      "category": "POWER",
+      "date": "2026-06-19T05:51:28+00:00",
+      "url": "https://powerline.net.in/2026/06/19/singapores-sp-powerassets-awards-cable-contract-to-taihan-cable/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "How to Size a UPS for a Server Rack with NAS and Network Switches: A Practical Guide",
+      "category": "ELECTRICAL",
+      "date": "2026-06-19T05:39:10+00:00",
+      "url": "https://www.electricalindia.in/how-to-size-a-ups-for-a-server-rack-with-nas-and-network-switches-a-practical-guide/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Gujarat Inject Kerala bags Rs 144.9 million solar module order from Deon Energy",
+      "category": "POWER",
+      "date": "2026-06-19T05:13:08+00:00",
+      "url": "https://powerline.net.in/2026/06/19/gujarat-inject-kerala-bags-rs-144-9-million-solar-module-order-from-deon-energy/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Trump administration to buy back another energy company’s offshore wind leases for 4 more projects",
       "category": "RENEWABLE",
       "date": "2026-06-18T19:10:40+00:00",
@@ -32026,5 +32122,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-19T04:27:18.509762+00:00"
+  "last_updated_utc": "2026-06-19T10:39:13.513276+00:00"
 }
