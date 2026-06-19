@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Aaron Prather joins A3 as director of market intelligence",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-19T16:41:22+00:00",
+      "url": "https://www.automationmag.com/aaron-prather-joins-a3-as-director-of-market-intelligence/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "TeleCANesis releases version 1.1 of connectivity middleware platform",
       "category": "INSTRUMENTATION",
       "date": "2026-06-18T18:18:36+00:00",
@@ -2058,5 +2066,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-19T15:21:40.541398+00:00"
+  "last_updated_utc": "2026-06-19T19:50:49.725220+00:00"
 }

@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Aaron Prather joins A3 as director of market intelligence",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-19T16:41:22+00:00",
+      "url": "https://www.automationmag.com/aaron-prather-joins-a3-as-director-of-market-intelligence/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "New UBBA members showcase why communication networks are foundational to grid modernization efforts",
       "category": "RENEWABLE",
       "date": "2026-06-19T14:00:00+00:00",
@@ -10,10 +18,26 @@
       "type": "magazine"
     },
     {
+      "title": "Goldgroup begins 24,000m of drilling at San Francisco project",
+      "category": "INDUSTRY",
+      "date": "2026-06-19T13:10:37+00:00",
+      "url": "https://www.mining-technology.com/news/goldgroup-mining-24000m-drilling-san-francisco/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "BHP raises Jansen stage two cost estimate to $6.9bn after review",
       "category": "INDUSTRY",
       "date": "2026-06-19T12:56:02+00:00",
       "url": "https://www.mining-technology.com/news/bhp-jansen-stage-2-cost-estimate-6-9bn/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Nuclear energy hiring is slowing in North America – but leaders can see where capacity and risk are shifting",
+      "category": "INDUSTRY",
+      "date": "2026-06-19T11:40:39+00:00",
+      "url": "https://www.mining-technology.com/sponsored/nuclear-energy-hiring-is-slowing-in-north-america-but-leaders-can-see-where-capacity-and-risk-are-shifting/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -239,6 +263,14 @@
       "date": "2026-06-18T11:31:33+00:00",
       "url": "https://www.engineering.com/xvisio-launches-mr-glasses-and-ai-data-hmds/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Global semiconductors hiring slows after Q1 surge: What this means for your sector",
+      "category": "INDUSTRY",
+      "date": "2026-06-18T10:57:40+00:00",
+      "url": "https://www.mining-technology.com/sponsored/global-semiconductors-hiring-slows-after-q1-surge-what-this-means-for-your-sector/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -32138,5 +32170,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-19T15:21:40.541398+00:00"
+  "last_updated_utc": "2026-06-19T19:50:49.725220+00:00"
 }
