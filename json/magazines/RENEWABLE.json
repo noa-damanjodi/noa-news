@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "You can just do things | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-06-22T09:58:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/you-can-just-do-things-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "New UBBA members showcase why communication networks are foundational to grid modernization efforts",
       "category": "RENEWABLE",
       "date": "2026-06-19T14:00:00+00:00",
@@ -2594,5 +2602,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-22T04:25:02.241926+00:00"
+  "last_updated_utc": "2026-06-22T11:57:36.947304+00:00"
 }
