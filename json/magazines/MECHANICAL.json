@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Bentley Systems expands operations in Lithuania",
+      "category": "MECHANICAL",
+      "date": "2026-06-22T16:49:47+00:00",
+      "url": "https://www.engineering.com/bentley-systems-expands-operations-in-lithuania/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Synopsys releases Multiphysics Fusion design solutions",
+      "category": "MECHANICAL",
+      "date": "2026-06-22T16:42:42+00:00",
+      "url": "https://www.engineering.com/synopsys-releases-multiphysics-fusion-design-solutions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Questions manufacturers should ask AI vendors but rarely do",
+      "category": "MECHANICAL",
+      "date": "2026-06-22T16:32:25+00:00",
+      "url": "https://www.engineering.com/questions-manufacturers-should-ask-ai-vendors-but-rarely-do/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lockheed Martin and GM Defense form manufacturing pact",
+      "category": "MECHANICAL",
+      "date": "2026-06-22T12:33:30+00:00",
+      "url": "https://www.engineering.com/lockheed-martin-and-gm-defense-form-manufacturing-pact/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Divergent expands Long Beach factory and printer capacity",
+      "category": "MECHANICAL",
+      "date": "2026-06-22T12:27:56+00:00",
+      "url": "https://www.engineering.com/divergent-expands-long-beach-factory-and-printer-capacity/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Visteon launches D6Sigma edge AI product line",
       "category": "MECHANICAL",
       "date": "2026-06-22T10:20:58+00:00",
@@ -8906,5 +8946,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-22T11:57:36.947304+00:00"
+  "last_updated_utc": "2026-06-22T17:08:25.052244+00:00"
 }
