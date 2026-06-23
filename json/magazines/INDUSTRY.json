@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "How AR can help address mining’s workforce skills gap",
+      "category": "INDUSTRY",
+      "date": "2026-06-23T13:01:41+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/ar-address-mining-workforce-skills/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Spartan Metals confirms two tungsten skarn zones at Eagle Project",
+      "category": "INDUSTRY",
+      "date": "2026-06-23T12:52:02+00:00",
+      "url": "https://www.mining-technology.com/news/spartan-metals-two-tungsten-skarn-eagle-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "BHP and partners test electric haul trucks at Pilbara mining site",
+      "category": "INDUSTRY",
+      "date": "2026-06-23T12:40:05+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-partners-test-electric-haul-trucks-pilbara/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Sandvik agrees to acquire Italy’s Diemme Filtration",
+      "category": "INDUSTRY",
+      "date": "2026-06-23T09:47:48+00:00",
+      "url": "https://www.mining-technology.com/news/sandvik-acquire-diemme-filtration/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Greenland Mines contracts Nordisk Fundering for Skaergaard drilling",
       "category": "INDUSTRY",
       "date": "2026-06-23T07:58:12+00:00",
@@ -5698,5 +5730,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-23T09:41:40.767938+00:00"
+  "last_updated_utc": "2026-06-23T14:52:07.378101+00:00"
 }

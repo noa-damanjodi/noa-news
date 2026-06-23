@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Vention and FANUC expand collaboration on robot deployment",
+      "category": "MECHANICAL",
+      "date": "2026-06-23T10:19:27+00:00",
+      "url": "https://www.engineering.com/vention-and-fanuc-expand-collaboration-on-robot-deployment/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA launches Halos safety system for robotics",
+      "category": "MECHANICAL",
+      "date": "2026-06-23T10:12:25+00:00",
+      "url": "https://www.engineering.com/nvidia-launches-halos-safety-system-for-robotics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Doosan Robotics to debut AI palletizing system",
+      "category": "MECHANICAL",
+      "date": "2026-06-23T09:59:46+00:00",
+      "url": "https://www.engineering.com/doosan-robotics-to-debut-ai-palletizing-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro introduces HPC blueprint for Vera Rubin NVL4",
+      "category": "MECHANICAL",
+      "date": "2026-06-23T09:52:59+00:00",
+      "url": "https://www.engineering.com/supermicro-introduces-hpc-blueprint-for-vera-rubin-nvl4/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nemetschek Group invests in data exchange firm Dawex",
+      "category": "MECHANICAL",
+      "date": "2026-06-23T09:41:54+00:00",
+      "url": "https://www.engineering.com/nemetschek-group-invests-in-data-exchange-firm-dawex/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Gravity Sketch adds AR updates for in-context design",
       "category": "MECHANICAL",
       "date": "2026-06-23T08:50:16+00:00",
@@ -8978,5 +9018,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-23T09:41:40.767938+00:00"
+  "last_updated_utc": "2026-06-23T14:52:07.378101+00:00"
 }
