@@ -2,6 +2,30 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "NYC mayor signs Executive Order aimed at protecting workers from heat",
+      "category": "SAFETY",
+      "date": "2026-06-23T17:49:20+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nyc-mayor-signs-executive-order-aimed-at-protecting-workers-from-heat/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EPA moves forward on effort to end animal testing for chemical assessments",
+      "category": "SAFETY",
+      "date": "2026-06-23T17:44:39+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/epa-moves-forward-on-effort-to-end-animal-testing-for-chemical-assessments/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Surveys seek trucker and motor carrier feedback about onboard safety tech",
+      "category": "SAFETY",
+      "date": "2026-06-23T17:31:02+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/surveys-seek-trucker-and-motor-carrier-feedback-about-onboard-safety-tech/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "FACE Report: Laborer falls through guardrail",
       "category": "SAFETY",
       "date": "2026-06-23T05:31:11+00:00",
@@ -2906,5 +2930,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-23T14:52:07.378101+00:00"
+  "last_updated_utc": "2026-06-23T20:07:29.768874+00:00"
 }

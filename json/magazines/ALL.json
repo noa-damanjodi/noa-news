@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Additive aerospace and defense update: Divergent, EOS, Meltio, and more",
+      "category": "MECHANICAL",
+      "date": "2026-06-23T19:40:52+00:00",
+      "url": "https://www.engineering.com/additive-aerospace-and-defense-update-divergent-eos-meltio-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Utah has a new largest solar + storage facility with 400 MW/1,600 MWh project online",
+      "category": "RENEWABLE",
+      "date": "2026-06-23T18:21:59+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/utah-has-a-new-largest-solar-storage-facility-with-400-mw-1600-mwh-project-online/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "NYC mayor signs Executive Order aimed at protecting workers from heat",
+      "category": "SAFETY",
+      "date": "2026-06-23T17:49:20+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nyc-mayor-signs-executive-order-aimed-at-protecting-workers-from-heat/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EPA moves forward on effort to end animal testing for chemical assessments",
+      "category": "SAFETY",
+      "date": "2026-06-23T17:44:39+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/epa-moves-forward-on-effort-to-end-animal-testing-for-chemical-assessments/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Surveys seek trucker and motor carrier feedback about onboard safety tech",
+      "category": "SAFETY",
+      "date": "2026-06-23T17:31:02+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/surveys-seek-trucker-and-motor-carrier-feedback-about-onboard-safety-tech/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Robot.com launches R-noid, enters the humanoid market",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-23T17:06:10+00:00",
+      "url": "https://www.automationmag.com/robot-com-launches-r-noid-enters-the-humanoid-market/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Government of Canada investment $5.2 million to strengthen resilience, advance AI adoption in Brampton",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-23T16:32:02+00:00",
+      "url": "https://www.automationmag.com/government-of-canada-investment-5-2-million-to-strengthen-resilience-advance-ai-adoption-in-brampton/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Venezuela post-Maduro: will oil majors invest again?",
+      "category": "INDUSTRY",
+      "date": "2026-06-23T13:59:39+00:00",
+      "url": "https://www.mining-technology.com/news/venezuela-post-maduro-oil-majors-invest/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "How AR can help address mining’s workforce skills gap",
       "category": "INDUSTRY",
       "date": "2026-06-23T13:01:41+00:00",
@@ -32634,5 +32698,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-23T14:52:07.378101+00:00"
+  "last_updated_utc": "2026-06-23T20:07:29.768874+00:00"
 }

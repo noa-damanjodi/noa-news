@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Venezuela post-Maduro: will oil majors invest again?",
+      "category": "INDUSTRY",
+      "date": "2026-06-23T13:59:39+00:00",
+      "url": "https://www.mining-technology.com/news/venezuela-post-maduro-oil-majors-invest/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "How AR can help address mining’s workforce skills gap",
       "category": "INDUSTRY",
       "date": "2026-06-23T13:01:41+00:00",
@@ -5730,5 +5738,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-23T14:52:07.378101+00:00"
+  "last_updated_utc": "2026-06-23T20:07:29.768874+00:00"
 }

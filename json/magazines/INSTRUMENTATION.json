@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Robot.com launches R-noid, enters the humanoid market",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-23T17:06:10+00:00",
+      "url": "https://www.automationmag.com/robot-com-launches-r-noid-enters-the-humanoid-market/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Government of Canada investment $5.2 million to strengthen resilience, advance AI adoption in Brampton",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-23T16:32:02+00:00",
+      "url": "https://www.automationmag.com/government-of-canada-investment-5-2-million-to-strengthen-resilience-advance-ai-adoption-in-brampton/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Aaron Prather joins A3 as director of market intelligence",
       "category": "INSTRUMENTATION",
       "date": "2026-06-19T16:41:22+00:00",
@@ -2066,5 +2082,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-23T14:52:07.378101+00:00"
+  "last_updated_utc": "2026-06-23T20:07:29.768874+00:00"
 }

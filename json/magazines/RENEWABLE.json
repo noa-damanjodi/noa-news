@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Utah has a new largest solar + storage facility with 400 MW/1,600 MWh project online",
+      "category": "RENEWABLE",
+      "date": "2026-06-23T18:21:59+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/utah-has-a-new-largest-solar-storage-facility-with-400-mw-1600-mwh-project-online/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Meet the new HVDC line now delivering hydropower from Canada to New York",
       "category": "RENEWABLE",
       "date": "2026-06-22T20:42:50+00:00",
@@ -2634,5 +2642,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-23T14:52:07.378101+00:00"
+  "last_updated_utc": "2026-06-23T20:07:29.768874+00:00"
 }
