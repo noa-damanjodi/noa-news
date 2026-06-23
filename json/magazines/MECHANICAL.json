@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Gravity Sketch adds AR updates for in-context design",
+      "category": "MECHANICAL",
+      "date": "2026-06-23T08:50:16+00:00",
+      "url": "https://www.engineering.com/gravity-sketch-adds-ar-updates-for-in-context-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Kawasaki Robotics to show new automation systems",
+      "category": "MECHANICAL",
+      "date": "2026-06-23T07:50:23+00:00",
+      "url": "https://www.engineering.com/kawasaki-robotics-to-show-new-automation-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA introduces Vera Rubin for scientific computing",
+      "category": "MECHANICAL",
+      "date": "2026-06-23T07:41:44+00:00",
+      "url": "https://www.engineering.com/nvidia-introduces-vera-rubin-for-scientific-computing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens adds ladder programming to Simatic AX LCE",
+      "category": "MECHANICAL",
+      "date": "2026-06-23T06:54:00+00:00",
+      "url": "https://www.engineering.com/siemens-adds-ladder-programming-to-simatic-ax-lce/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Bentley Systems expands operations in Lithuania",
       "category": "MECHANICAL",
       "date": "2026-06-22T16:49:47+00:00",
@@ -8946,5 +8978,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-23T03:41:58.932948+00:00"
+  "last_updated_utc": "2026-06-23T09:41:40.767938+00:00"
 }

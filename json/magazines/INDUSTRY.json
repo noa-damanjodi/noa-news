@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Greenland Mines contracts Nordisk Fundering for Skaergaard drilling",
+      "category": "INDUSTRY",
+      "date": "2026-06-23T07:58:12+00:00",
+      "url": "https://www.mining-technology.com/news/greenland-mines-nordisk-fundering-drilling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Graphite One awards engineering contract for Ohio facility",
+      "category": "INDUSTRY",
+      "date": "2026-06-23T07:52:12+00:00",
+      "url": "https://www.mining-technology.com/news/graphite-one-engineering-contract-ohio-facility/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Anglo Asian Mining appoints Worley for Azerbaijan feasibility studies",
       "category": "INDUSTRY",
       "date": "2026-06-22T14:07:58+00:00",
@@ -5682,5 +5698,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-23T03:41:58.932948+00:00"
+  "last_updated_utc": "2026-06-23T09:41:40.767938+00:00"
 }

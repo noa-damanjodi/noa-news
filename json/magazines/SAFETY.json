@@ -2,6 +2,38 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "FACE Report: Laborer falls through guardrail",
+      "category": "SAFETY",
+      "date": "2026-06-23T05:31:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/face-report-laborer-falls-through-guardrail/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Exposed to the sun at work?",
+      "category": "SAFETY",
+      "date": "2026-06-23T05:30:56+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/exposed-to-the-sun-at-work/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Secure cargo safely",
+      "category": "SAFETY",
+      "date": "2026-06-23T05:30:19+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/secure-cargo-safely/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Give your body the fuel it needs",
+      "category": "SAFETY",
+      "date": "2026-06-23T05:30:02+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/give-your-body-the-fuel-it-needs/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Work zone contractors report rising crash risk, annual survey shows",
       "category": "SAFETY",
       "date": "2026-06-22T18:57:29+00:00",
@@ -2874,5 +2906,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-23T03:41:58.932948+00:00"
+  "last_updated_utc": "2026-06-23T09:41:40.767938+00:00"
 }
