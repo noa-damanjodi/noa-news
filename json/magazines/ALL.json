@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Meet the new HVDC line now delivering hydropower from Canada to New York",
+      "category": "RENEWABLE",
+      "date": "2026-06-22T20:42:50+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/meet-the-new-hvdc-line-now-delivering-hydropower-from-canada-to-new-york/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Hoover Dam approaches a hydropower cliff",
+      "category": "RENEWABLE",
+      "date": "2026-06-22T20:13:42+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/hoover-dam-approaches-a-hydropower-cliff/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Work zone contractors report rising crash risk, annual survey shows",
       "category": "SAFETY",
       "date": "2026-06-22T18:57:29+00:00",
@@ -55,6 +71,14 @@
       "date": "2026-06-22T16:32:25+00:00",
       "url": "https://www.engineering.com/questions-manufacturers-should-ask-ai-vendors-but-rarely-do/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Colorado River faces ‘devastating consequences’ if another dry winter lands, experts warn",
+      "category": "RENEWABLE",
+      "date": "2026-06-22T15:49:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/colorado-river-faces-devastating-consequences-if-another-dry-winter-lands-experts-warn/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -32402,5 +32426,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-22T20:50:00.457463+00:00"
+  "last_updated_utc": "2026-06-23T03:41:58.932948+00:00"
 }
