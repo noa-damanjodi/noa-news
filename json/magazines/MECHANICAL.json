@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "ASUS launches deskside AI supercomputer for enterprises",
+      "category": "MECHANICAL",
+      "date": "2026-06-24T12:58:48+00:00",
+      "url": "https://www.engineering.com/asus-launches-deskside-ai-supercomputer-for-enterprises/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Kawasaki Robotics expands Dexterity warehouse robot work",
+      "category": "MECHANICAL",
+      "date": "2026-06-24T12:52:38+00:00",
+      "url": "https://www.engineering.com/kawasaki-robotics-expands-dexterity-warehouse-robot-work/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Electric launches industrial automation as a service",
+      "category": "MECHANICAL",
+      "date": "2026-06-24T12:01:19+00:00",
+      "url": "https://www.engineering.com/schneider-electric-launches-industrial-automation-as-a-service/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Apexon signs AWS deal for agentic AI in healthcare",
+      "category": "MECHANICAL",
+      "date": "2026-06-24T11:36:24+00:00",
+      "url": "https://www.engineering.com/apexon-signs-aws-deal-for-agentic-ai-in-healthcare/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Penguin Solutions joins NVIDIA AI Factory partner program",
+      "category": "MECHANICAL",
+      "date": "2026-06-24T11:28:51+00:00",
+      "url": "https://www.engineering.com/penguin-solutions-joins-nvidia-ai-factory-partner-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "33DPQ Podcast – Brigitte de Vet-Veithen",
       "category": "MECHANICAL",
       "date": "2026-06-23T21:09:53+00:00",
@@ -9034,5 +9074,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-24T09:32:58.742545+00:00"
+  "last_updated_utc": "2026-06-24T14:34:02.481159+00:00"
 }
