@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Deaths and fatality rate rise in building construction: CPWR",
+      "category": "SAFETY",
+      "date": "2026-06-24T19:46:29+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/deaths-and-fatality-rate-rise-in-building-construction-cpwr/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The 3 AI features in Designcenter Solid Edge",
+      "category": "MECHANICAL",
+      "date": "2026-06-24T18:29:38+00:00",
+      "url": "https://www.engineering.com/the-3-ai-features-in-designcenter-solid-edge/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "FRA issues final rule on railroad worker safety training; considers revoking dispatcher certification mandate",
+      "category": "SAFETY",
+      "date": "2026-06-24T17:58:15+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fra-issues-final-rule-on-railroad-worker-safety-training-considers-revoking-dispatcher-certification-mandate/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Four-day workweek trial earns high marks from Aussie employers",
+      "category": "SAFETY",
+      "date": "2026-06-24T17:12:43+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/four-day-workweek-trial-earns-high-marks-from-aussie-employers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens adds ECAD and project generation to engineering AI",
+      "category": "MECHANICAL",
+      "date": "2026-06-24T15:26:06+00:00",
+      "url": "https://www.engineering.com/siemens-adds-ecad-and-project-generation-to-engineering-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Vectorworks Architect 2026 wins design tools award",
+      "category": "MECHANICAL",
+      "date": "2026-06-24T15:16:18+00:00",
+      "url": "https://www.engineering.com/vectorworks-architect-2026-wins-design-tools-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Anglo American, Codelco agree joint plan for Chile copper mines",
+      "category": "INDUSTRY",
+      "date": "2026-06-24T13:08:50+00:00",
+      "url": "https://www.mining-technology.com/news/anglo-american-codelco-chile-copper-mines/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Fulcrum Metals reports pre-tax loss for FY25",
       "category": "INDUSTRY",
       "date": "2026-06-24T13:03:12+00:00",
@@ -32834,5 +32890,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-24T14:34:02.481159+00:00"
+  "last_updated_utc": "2026-06-24T19:48:06.946285+00:00"
 }

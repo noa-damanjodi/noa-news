@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Anglo American, Codelco agree joint plan for Chile copper mines",
+      "category": "INDUSTRY",
+      "date": "2026-06-24T13:08:50+00:00",
+      "url": "https://www.mining-technology.com/news/anglo-american-codelco-chile-copper-mines/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Fulcrum Metals reports pre-tax loss for FY25",
       "category": "INDUSTRY",
       "date": "2026-06-24T13:03:12+00:00",
@@ -5770,5 +5778,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-24T14:34:02.481159+00:00"
+  "last_updated_utc": "2026-06-24T19:48:06.946285+00:00"
 }
