@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "TomaGold begins AMT survey at Berrigan project in Québec",
+      "category": "INDUSTRY",
+      "date": "2026-06-24T08:01:10+00:00",
+      "url": "https://www.mining-technology.com/news/tomagold-amt-survey-berrigan-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Venezuela post-Maduro: will oil majors invest again?",
       "category": "INDUSTRY",
       "date": "2026-06-23T13:59:39+00:00",
@@ -5738,5 +5746,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-24T03:43:00.887768+00:00"
+  "last_updated_utc": "2026-06-24T09:32:58.742545+00:00"
 }
