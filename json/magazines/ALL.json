@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Lexington Gold agrees to sell GAR unit to GoldOz",
+      "category": "INDUSTRY",
+      "date": "2026-06-25T08:08:08+00:00",
+      "url": "https://www.mining-technology.com/news/lexington-gold-to-sell-gar-unit-goldoz/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Brimstone, Century sign MoU for US aluminium supply chain",
+      "category": "INDUSTRY",
+      "date": "2026-06-25T07:53:34+00:00",
+      "url": "https://www.mining-technology.com/news/brimstone-century-mou-us-aluminium-supply/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Q&A: Inside PLS’ Pilgangoora, how lithium ore sorting became a core process",
+      "category": "INDUSTRY",
+      "date": "2026-06-25T07:30:00+00:00",
+      "url": "https://www.mining-technology.com/features/qa-gavin-rech-of-tomra-mining-on-how-ore-sorting-became-core-infrastructure/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "From Cornwall to Tees Valley: can the UK build a domestic lithium industry?",
+      "category": "INDUSTRY",
+      "date": "2026-06-25T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/from-cornwall-to-tees-valley-can-the-uk-build-a-domestic-lithium-industry/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "PFC raises $300 million through five-year bond issue",
+      "category": "POWER",
+      "date": "2026-06-25T06:07:43+00:00",
+      "url": "https://powerline.net.in/2026/06/25/pfc-raises-300-million-through-five-year-bond-issue/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "IRCON-Badri Rai JV secures Rs 7.63 billion Agartala Smart Grid contract from TSECL",
+      "category": "POWER",
+      "date": "2026-06-25T06:06:14+00:00",
+      "url": "https://powerline.net.in/2026/06/25/ircon-badri-rai-jv-secures-rs-7-63-billion-agartala-smart-grid-contract-from-tsecl/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Asian Energy bags Rs 1.87 billion EPC contract for Ukai thermal power station",
+      "category": "POWER",
+      "date": "2026-06-25T06:05:13+00:00",
+      "url": "https://powerline.net.in/2026/06/25/asian-energy-bags-rs-1-87-billion-epc-contract-for-ukai-thermal-power-station/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Juniper Green commissions India’s largest wind turbine by rotor diameter",
+      "category": "POWER",
+      "date": "2026-06-25T06:04:13+00:00",
+      "url": "https://powerline.net.in/2026/06/25/juniper-green-commissions-indias-largest-wind-turbine-by-rotor-diameter/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NLC India and IOCL sign MoU to form JV for renewable energy projects in Tamil Nadu",
+      "category": "POWER",
+      "date": "2026-06-25T06:03:12+00:00",
+      "url": "https://powerline.net.in/2026/06/25/nlc-india-and-iocl-sign-mou-to-form-jv-for-renewable-energy-projects-in-tamil-nadu/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New Zealand’s Transpower secures approval for $631 million HVDC inter-island upgrade",
+      "category": "POWER",
+      "date": "2026-06-25T06:02:10+00:00",
+      "url": "https://powerline.net.in/2026/06/25/new-zealands-transpower-secures-approval-for-631-million-hvdc-inter-island-upgrade/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Power signs services agreement with LNGPH in the Philippines",
+      "category": "POWER",
+      "date": "2026-06-25T05:55:32+00:00",
+      "url": "https://powerline.net.in/2026/06/25/mitsubishi-power-signs-services-agreement-with-lngph-in-the-philippines/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Can ERCOT’s new ‘Batch Zero’ process alleviate the burden of 438,000 MW of large load requests?",
       "category": "RENEWABLE",
       "date": "2026-06-25T01:55:11+00:00",
@@ -32898,5 +32986,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-25T03:42:48.617957+00:00"
+  "last_updated_utc": "2026-06-25T09:24:45.524888+00:00"
 }

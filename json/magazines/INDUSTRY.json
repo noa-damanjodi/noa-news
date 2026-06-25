@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Lexington Gold agrees to sell GAR unit to GoldOz",
+      "category": "INDUSTRY",
+      "date": "2026-06-25T08:08:08+00:00",
+      "url": "https://www.mining-technology.com/news/lexington-gold-to-sell-gar-unit-goldoz/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Brimstone, Century sign MoU for US aluminium supply chain",
+      "category": "INDUSTRY",
+      "date": "2026-06-25T07:53:34+00:00",
+      "url": "https://www.mining-technology.com/news/brimstone-century-mou-us-aluminium-supply/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Q&A: Inside PLS’ Pilgangoora, how lithium ore sorting became a core process",
+      "category": "INDUSTRY",
+      "date": "2026-06-25T07:30:00+00:00",
+      "url": "https://www.mining-technology.com/features/qa-gavin-rech-of-tomra-mining-on-how-ore-sorting-became-core-infrastructure/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "From Cornwall to Tees Valley: can the UK build a domestic lithium industry?",
+      "category": "INDUSTRY",
+      "date": "2026-06-25T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/from-cornwall-to-tees-valley-can-the-uk-build-a-domestic-lithium-industry/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Anglo American, Codelco agree joint plan for Chile copper mines",
       "category": "INDUSTRY",
       "date": "2026-06-24T13:08:50+00:00",
@@ -5778,5 +5810,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-25T03:42:48.617957+00:00"
+  "last_updated_utc": "2026-06-25T09:24:45.524888+00:00"
 }
