@@ -2,6 +2,30 @@
   "category": "ALL",
   "items": [
     {
+      "title": "AI drives discussions at FABTECH Canada",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-25T16:28:03+00:00",
+      "url": "https://www.automationmag.com/ai-drives-discussions-at-fabtech-canada/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Volatus Aerospace opens manufacturing facility in Mirabel, Que.",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-25T14:45:09+00:00",
+      "url": "https://www.automationmag.com/volatus-aerospace-opens-manufacturing-facility-in-mirabel-que/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Ontario Shipyards advances strategic partnership with Hanwha Ocean",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-25T14:41:06+00:00",
+      "url": "https://www.automationmag.com/ontario-shipyards-advances-strategic-partnership-with-hanwha-ocean/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "AutomationDirect adds additional I/O modules for the Productivity2000 PLC Series",
       "category": "INSTRUMENTATION",
       "date": "2026-06-25T14:30:49+00:00",
@@ -418,7 +442,7 @@
       "type": "magazine"
     },
     {
-      "title": "NYC mayor signs Executive Order aimed at protecting workers from heat",
+      "title": "NYC mayor signs Executive Order on protecting workers from heat",
       "category": "SAFETY",
       "date": "2026-06-23T17:49:20+00:00",
       "url": "https://www.safetyandhealthmagazine.com/nyc-mayor-signs-executive-order-aimed-at-protecting-workers-from-heat/",
@@ -426,7 +450,7 @@
       "type": "magazine"
     },
     {
-      "title": "EPA moves forward on effort to end animal testing for chemical assessments",
+      "title": "EPA moves closer to ending animal testing for chemical assessments",
       "category": "SAFETY",
       "date": "2026-06-23T17:44:39+00:00",
       "url": "https://www.safetyandhealthmagazine.com/epa-moves-forward-on-effort-to-end-animal-testing-for-chemical-assessments/",
@@ -33098,5 +33122,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-25T14:35:44.037811+00:00"
+  "last_updated_utc": "2026-06-25T20:02:32.099928+00:00"
 }

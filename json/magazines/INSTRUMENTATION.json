@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "AI drives discussions at FABTECH Canada",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-25T16:28:03+00:00",
+      "url": "https://www.automationmag.com/ai-drives-discussions-at-fabtech-canada/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Volatus Aerospace opens manufacturing facility in Mirabel, Que.",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-25T14:45:09+00:00",
+      "url": "https://www.automationmag.com/volatus-aerospace-opens-manufacturing-facility-in-mirabel-que/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Ontario Shipyards advances strategic partnership with Hanwha Ocean",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-25T14:41:06+00:00",
+      "url": "https://www.automationmag.com/ontario-shipyards-advances-strategic-partnership-with-hanwha-ocean/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "AutomationDirect adds additional I/O modules for the Productivity2000 PLC Series",
       "category": "INSTRUMENTATION",
       "date": "2026-06-25T14:30:49+00:00",
@@ -2098,5 +2122,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-25T14:35:44.037811+00:00"
+  "last_updated_utc": "2026-06-25T20:02:32.099928+00:00"
 }
