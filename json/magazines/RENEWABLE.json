@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Can ERCOT’s new ‘Batch Zero’ process alleviate the burden of 438,000 MW of large load requests?",
+      "category": "RENEWABLE",
+      "date": "2026-06-25T01:55:11+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/can-ercots-new-batch-zero-process-alleviate-the-burden-of-438000-mw-of-large-load-requests/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Utah has a new largest solar + storage facility with 400 MW/1,600 MWh project online",
       "category": "RENEWABLE",
       "date": "2026-06-23T18:21:59+00:00",
@@ -2642,5 +2650,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-24T19:48:06.946285+00:00"
+  "last_updated_utc": "2026-06-25T03:42:48.617957+00:00"
 }
