@@ -2,6 +2,118 @@
   "category": "ALL",
   "items": [
     {
+      "title": "AutomationDirect adds additional I/O modules for the Productivity2000 PLC Series",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-25T14:30:49+00:00",
+      "url": "https://www.automationmag.com/automationdirect-adds-additional-i-o-modules-for-the-productivity2000-plc-series/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "WAGO releases new 852 Series Ethernet Switches",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-25T14:20:58+00:00",
+      "url": "https://www.automationmag.com/wago-releases-new-852-series-ethernet-switches/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Prevent grill fires: Safety group offers tips",
+      "category": "SAFETY",
+      "date": "2026-06-25T13:19:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/prevent-grill-fires-safety-group-offers-tips/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Legacy Minerals begins geophysical surveys at Mt Carrington in NSW",
+      "category": "INDUSTRY",
+      "date": "2026-06-25T13:15:08+00:00",
+      "url": "https://www.mining-technology.com/news/legacy-minerals-geophysical-surveys-mt-carrington/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Second gold doré bar poured at Pacgold’s White Dam project",
+      "category": "INDUSTRY",
+      "date": "2026-06-25T13:02:26+00:00",
+      "url": "https://www.mining-technology.com/news/second-gold-bar-pacgolds-white-dam-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Vention and Teradyne Robotics expand modular automation",
+      "category": "MECHANICAL",
+      "date": "2026-06-25T11:46:46+00:00",
+      "url": "https://www.engineering.com/vention-and-teradyne-robotics-expand-modular-automation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "BAE Systems to build imaging satellite buses for Vantor",
+      "category": "MECHANICAL",
+      "date": "2026-06-25T11:40:38+00:00",
+      "url": "https://www.engineering.com/bae-systems-to-build-imaging-satellite-buses-for-vantor/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sieyuan Electric unveils utility-scale esGrid 3.0 BESS",
+      "category": "MECHANICAL",
+      "date": "2026-06-25T11:35:13+00:00",
+      "url": "https://www.engineering.com/sieyuan-electric-unveils-utility-scale-esgrid-3-0-bess/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ExOne launches compact S-Print Pro sand 3D printer",
+      "category": "MECHANICAL",
+      "date": "2026-06-25T11:34:36+00:00",
+      "url": "https://www.engineering.com/exone-launches-compact-s-print-pro-sand-3d-printer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rockwell Automation Singapore plant joins WEF network",
+      "category": "MECHANICAL",
+      "date": "2026-06-25T11:29:41+00:00",
+      "url": "https://www.engineering.com/rockwell-automation-singapore-plant-joins-wef-network/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ELEGOO launches Centauri 2 Series 3D printers",
+      "category": "MECHANICAL",
+      "date": "2026-06-25T11:27:09+00:00",
+      "url": "https://www.engineering.com/elegoo-launches-centauri-2-series-3d-printers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens names PROLIM small business supplier of the year",
+      "category": "MECHANICAL",
+      "date": "2026-06-25T11:18:28+00:00",
+      "url": "https://www.engineering.com/siemens-names-prolim-small-business-supplier-of-the-year/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Meta selects Qualcomm data center CPU for future servers",
+      "category": "MECHANICAL",
+      "date": "2026-06-25T10:36:03+00:00",
+      "url": "https://www.engineering.com/meta-selects-qualcomm-data-center-cpu-for-future-servers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "District Metals starts diamond drilling at Österkälen in Sweden",
+      "category": "INDUSTRY",
+      "date": "2026-06-25T10:11:55+00:00",
+      "url": "https://www.mining-technology.com/news/district-metals-drilling-osterkalen-sweden/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Lexington Gold agrees to sell GAR unit to GoldOz",
       "category": "INDUSTRY",
       "date": "2026-06-25T08:08:08+00:00",
@@ -32986,5 +33098,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-25T09:24:45.524888+00:00"
+  "last_updated_utc": "2026-06-25T14:35:44.037811+00:00"
 }

@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Legacy Minerals begins geophysical surveys at Mt Carrington in NSW",
+      "category": "INDUSTRY",
+      "date": "2026-06-25T13:15:08+00:00",
+      "url": "https://www.mining-technology.com/news/legacy-minerals-geophysical-surveys-mt-carrington/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Second gold doré bar poured at Pacgold’s White Dam project",
+      "category": "INDUSTRY",
+      "date": "2026-06-25T13:02:26+00:00",
+      "url": "https://www.mining-technology.com/news/second-gold-bar-pacgolds-white-dam-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "District Metals starts diamond drilling at Österkälen in Sweden",
+      "category": "INDUSTRY",
+      "date": "2026-06-25T10:11:55+00:00",
+      "url": "https://www.mining-technology.com/news/district-metals-drilling-osterkalen-sweden/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Lexington Gold agrees to sell GAR unit to GoldOz",
       "category": "INDUSTRY",
       "date": "2026-06-25T08:08:08+00:00",
@@ -5810,5 +5834,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-25T09:24:45.524888+00:00"
+  "last_updated_utc": "2026-06-25T14:35:44.037811+00:00"
 }
