@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Are concerns about solar development on prime farmland overblown?",
+      "category": "RENEWABLE",
+      "date": "2026-06-25T20:40:10+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/utility-scale/are-concerns-about-solar-development-on-prime-farmland-overblown/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "AI drives discussions at FABTECH Canada",
       "category": "INSTRUMENTATION",
       "date": "2026-06-25T16:28:03+00:00",
@@ -33122,5 +33130,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-25T20:02:32.099928+00:00"
+  "last_updated_utc": "2026-06-26T03:53:19.942744+00:00"
 }
