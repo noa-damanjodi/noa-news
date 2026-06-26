@@ -2,10 +2,42 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Alliance Nickel starts vat leach test-work at NiWest project",
+      "category": "INDUSTRY",
+      "date": "2026-06-26T12:40:26+00:00",
+      "url": "https://www.mining-technology.com/news/alliance-nickel-vat-leach-testwork-niwest/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Titan Mining unit wins EUL notices for two US Army sites",
+      "category": "INDUSTRY",
+      "date": "2026-06-26T10:19:01+00:00",
+      "url": "https://www.mining-technology.com/news/titan-mining-unit-wins-eul-two-us-army-sites/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "K2 Gold begins drilling campaign at Mojave Project in California",
+      "category": "INDUSTRY",
+      "date": "2026-06-26T08:25:04+00:00",
+      "url": "https://www.mining-technology.com/news/k2-gold-2026-drilling-mojave-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Silverco Mining mobilises contractors at Cusi site in Mexico",
       "category": "INDUSTRY",
       "date": "2026-06-26T08:09:13+00:00",
       "url": "https://www.mining-technology.com/news/silverco-mining-contractors-cusi-site-mexico/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Mining equipment hiring in APAC: Who’s building, and will the order books catch up?",
+      "category": "INDUSTRY",
+      "date": "2026-06-25T16:09:46+00:00",
+      "url": "https://www.mining-technology.com/sponsored/mining-equipment-hiring-in-apac-whos-building-and-will-the-order-books-catch-up/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -5842,5 +5874,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-26T09:29:49.310905+00:00"
+  "last_updated_utc": "2026-06-26T14:27:20.040920+00:00"
 }

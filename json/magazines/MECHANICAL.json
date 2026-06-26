@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Advantech MIC-735 moves toward AI safety validation",
+      "category": "MECHANICAL",
+      "date": "2026-06-26T13:38:19+00:00",
+      "url": "https://www.engineering.com/advantech-mic-735-moves-toward-ai-safety-validation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bluebeam expands Poland investment with localized tools",
+      "category": "MECHANICAL",
+      "date": "2026-06-26T13:30:55+00:00",
+      "url": "https://www.engineering.com/bluebeam-expands-poland-investment-with-localized-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "BNP Paribas expands Aras Innovator across operations",
+      "category": "MECHANICAL",
+      "date": "2026-06-26T13:21:20+00:00",
+      "url": "https://www.engineering.com/bnp-paribas-expands-aras-innovator-across-operations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Qblox collaborates with HPE on hybrid quantum computing",
+      "category": "MECHANICAL",
+      "date": "2026-06-26T13:16:59+00:00",
+      "url": "https://www.engineering.com/qblox-collaborates-with-hpe-on-hybrid-quantum-computing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Quanten introduces QJL and QJR actuator motor series",
+      "category": "MECHANICAL",
+      "date": "2026-06-26T13:12:02+00:00",
+      "url": "https://www.engineering.com/quanten-introduces-qjl-and-qjr-actuator-motor-series/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Vention and Teradyne Robotics expand modular automation",
       "category": "MECHANICAL",
       "date": "2026-06-25T11:46:46+00:00",
@@ -9162,5 +9202,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-26T09:29:49.310905+00:00"
+  "last_updated_utc": "2026-06-26T14:27:20.040920+00:00"
 }
