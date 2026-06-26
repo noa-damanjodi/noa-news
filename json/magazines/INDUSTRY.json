@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Star Minerals acquires gold project in Merredin, Western Australia",
+      "category": "INDUSTRY",
+      "date": "2026-06-26T12:57:32+00:00",
+      "url": "https://www.mining-technology.com/news/star-minerals-acquires-gold-project-merredin/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Alliance Nickel starts vat leach test-work at NiWest project",
       "category": "INDUSTRY",
       "date": "2026-06-26T12:40:26+00:00",
@@ -5874,5 +5882,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-26T14:27:20.040920+00:00"
+  "last_updated_utc": "2026-06-26T19:49:56.912726+00:00"
 }

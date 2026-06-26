@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Gstarsoft updates design portfolio across CAD and BIM",
+      "category": "MECHANICAL",
+      "date": "2026-06-26T15:02:53+00:00",
+      "url": "https://www.engineering.com/gstarsoft-updates-design-portfolio-across-cad-and-bim/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Beam AI launches BIM CoPilot for contractor workflows",
+      "category": "MECHANICAL",
+      "date": "2026-06-26T14:43:28+00:00",
+      "url": "https://www.engineering.com/beam-ai-launches-bim-copilot-for-contractor-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Advantech MIC-735 moves toward AI safety validation",
       "category": "MECHANICAL",
       "date": "2026-06-26T13:38:19+00:00",
@@ -9202,5 +9218,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-26T14:27:20.040920+00:00"
+  "last_updated_utc": "2026-06-26T19:49:56.912726+00:00"
 }
