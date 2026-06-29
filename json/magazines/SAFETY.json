@@ -2,18 +2,34 @@
   "category": "SAFETY",
   "items": [
     {
-      "title": "Heat protections for workers: a regulatory update",
+      "title": "‘What does improve safety is people,’ Chemical Safety Board member says",
       "category": "SAFETY",
-      "date": "2026-06-29T07:00:43+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/heat-protections-for-workers-a-regulatory-update/",
+      "date": "2026-06-29T14:06:58+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/what-does-improve-safety-is-people-chemical-safety-board-member-says/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
     {
-      "title": "Have a safety fair",
+      "title": "DOL workers’ comp office asks for information on latest hearing test methods",
       "category": "SAFETY",
-      "date": "2026-06-29T07:00:28+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/have-a-safety-fair/",
+      "date": "2026-06-29T13:57:33+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/dol-workers-comp-office-asks-for-information-on-latest-hearing-test-methods/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NIOSH partners with manufacturer to develop silica dust filtration tool",
+      "category": "SAFETY",
+      "date": "2026-06-29T13:44:48+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/niosh-partners-with-manufacturer-to-develop-silica-dust-filtration-tool/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Heat protections for workers: a regulatory update",
+      "category": "SAFETY",
+      "date": "2026-06-29T07:01:43+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/heat-protections-for-workers-a-regulatory-update/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -22,6 +38,14 @@
       "category": "SAFETY",
       "date": "2026-06-29T07:00:17+00:00",
       "url": "https://www.safetyandhealthmagazine.com/the-dos-and-donts-of-workplace-housekeeping/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Have a safety fair",
+      "category": "SAFETY",
+      "date": "2026-06-29T06:59:28+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/have-a-safety-fair/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -3066,5 +3090,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-29T11:02:37.534237+00:00"
+  "last_updated_utc": "2026-06-29T15:49:39.063949+00:00"
 }

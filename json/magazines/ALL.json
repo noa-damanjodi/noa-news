@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Is AI in PLM moving the needle or just making noise?",
+      "category": "MECHANICAL",
+      "date": "2026-06-29T15:14:00+00:00",
+      "url": "https://www.engineering.com/is-ai-in-plm-moving-the-needle-or-just-making-noise/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "OFA Group launches QikBIM platform for BIM automation",
+      "category": "MECHANICAL",
+      "date": "2026-06-29T14:19:27+00:00",
+      "url": "https://www.engineering.com/ofa-group-launches-qikbim-platform-for-bim-automation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA adds BioNeMo toolkit for life sciences AI agents",
+      "category": "MECHANICAL",
+      "date": "2026-06-29T14:10:20+00:00",
+      "url": "https://www.engineering.com/nvidia-adds-bionemo-toolkit-for-life-sciences-ai-agents/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "‘What does improve safety is people,’ Chemical Safety Board member says",
+      "category": "SAFETY",
+      "date": "2026-06-29T14:06:58+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/what-does-improve-safety-is-people-chemical-safety-board-member-says/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "DOL workers’ comp office asks for information on latest hearing test methods",
+      "category": "SAFETY",
+      "date": "2026-06-29T13:57:33+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/dol-workers-comp-office-asks-for-information-on-latest-hearing-test-methods/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NIOSH partners with manufacturer to develop silica dust filtration tool",
+      "category": "SAFETY",
+      "date": "2026-06-29T13:44:48+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/niosh-partners-with-manufacturer-to-develop-silica-dust-filtration-tool/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Honeywell Technologies spins-off Honeywell Aerospace, aims to advance automation across multiple market verticals",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-29T13:17:26+00:00",
+      "url": "https://www.automationmag.com/honeywell-technologies-spins-off-honeywell-aerospace-aims-to-advance-automation-across-multiple-market-verticals/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Hancock starts production at $579m McPhee Creek mine",
+      "category": "INDUSTRY",
+      "date": "2026-06-29T12:58:01+00:00",
+      "url": "https://www.mining-technology.com/news/hancock-production-mcphee-creek-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "From Cornwall to Tees Valley: can the UK build a domestic lithium industry?",
+      "category": "INDUSTRY",
+      "date": "2026-06-29T12:52:03+00:00",
+      "url": "https://www.mining-technology.com/features/from-cornwall-to-tees-valley-can-the-uk-build-a-domestic-lithium-industry/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Miramar doubles Gidji JV gold exploration target in WA",
+      "category": "INDUSTRY",
+      "date": "2026-06-29T12:50:30+00:00",
+      "url": "https://www.mining-technology.com/news/miramar-doubles-gidji-jv-gold-exploration-target/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Proof-of-concept case study: Corridor-scale BVLOS utility inspection using lidar and RGB intelligence",
+      "category": "RENEWABLE",
+      "date": "2026-06-29T12:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/proof-of-concept-case-study-corridor-scale-bvlos-utility-inspection-using-lidar-and-rgb-intelligence/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "From Faults to Forecasting: AI’s role in strengthening distribution reliability and safety",
+      "category": "POWER",
+      "date": "2026-06-29T11:40:52+00:00",
+      "url": "https://powerline.net.in/2026/06/29/from-faults-to-forecasting-ais-role-in-strengthening-distribution-reliability-and-safety/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Hi3D adds AI workflow for custom mecha 3D printing",
       "category": "MECHANICAL",
       "date": "2026-06-29T10:48:01+00:00",
@@ -76,16 +172,8 @@
     {
       "title": "Heat protections for workers: a regulatory update",
       "category": "SAFETY",
-      "date": "2026-06-29T07:00:43+00:00",
+      "date": "2026-06-29T07:01:43+00:00",
       "url": "https://www.safetyandhealthmagazine.com/heat-protections-for-workers-a-regulatory-update/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "Have a safety fair",
-      "category": "SAFETY",
-      "date": "2026-06-29T07:00:28+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/have-a-safety-fair/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -94,6 +182,14 @@
       "category": "SAFETY",
       "date": "2026-06-29T07:00:17+00:00",
       "url": "https://www.safetyandhealthmagazine.com/the-dos-and-donts-of-workplace-housekeeping/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Have a safety fair",
+      "category": "SAFETY",
+      "date": "2026-06-29T06:59:28+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/have-a-safety-fair/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -574,14 +670,6 @@
       "category": "INDUSTRY",
       "date": "2026-06-25T07:30:00+00:00",
       "url": "https://www.mining-technology.com/features/qa-gavin-rech-of-tomra-mining-on-how-ore-sorting-became-core-infrastructure/",
-      "source": "Mining Technology",
-      "type": "magazine"
-    },
-    {
-      "title": "From Cornwall to Tees Valley: can the UK build a domestic lithium industry?",
-      "category": "INDUSTRY",
-      "date": "2026-06-25T07:00:00+00:00",
-      "url": "https://www.mining-technology.com/features/from-cornwall-to-tees-valley-can-the-uk-build-a-domestic-lithium-industry/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -33538,5 +33626,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-29T11:02:37.534237+00:00"
+  "last_updated_utc": "2026-06-29T15:49:39.063949+00:00"
 }

@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Hancock starts production at $579m McPhee Creek mine",
+      "category": "INDUSTRY",
+      "date": "2026-06-29T12:58:01+00:00",
+      "url": "https://www.mining-technology.com/news/hancock-production-mcphee-creek-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "From Cornwall to Tees Valley: can the UK build a domestic lithium industry?",
+      "category": "INDUSTRY",
+      "date": "2026-06-29T12:52:03+00:00",
+      "url": "https://www.mining-technology.com/features/from-cornwall-to-tees-valley-can-the-uk-build-a-domestic-lithium-industry/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Miramar doubles Gidji JV gold exploration target in WA",
+      "category": "INDUSTRY",
+      "date": "2026-06-29T12:50:30+00:00",
+      "url": "https://www.mining-technology.com/news/miramar-doubles-gidji-jv-gold-exploration-target/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Solstice Minerals reports copper-gold intercepts at Nanadie project",
       "category": "INDUSTRY",
       "date": "2026-06-29T09:53:42+00:00",
@@ -118,14 +142,6 @@
       "category": "INDUSTRY",
       "date": "2026-06-25T07:30:00+00:00",
       "url": "https://www.mining-technology.com/features/qa-gavin-rech-of-tomra-mining-on-how-ore-sorting-became-core-infrastructure/",
-      "source": "Mining Technology",
-      "type": "magazine"
-    },
-    {
-      "title": "From Cornwall to Tees Valley: can the UK build a domestic lithium industry?",
-      "category": "INDUSTRY",
-      "date": "2026-06-25T07:00:00+00:00",
-      "url": "https://www.mining-technology.com/features/from-cornwall-to-tees-valley-can-the-uk-build-a-domestic-lithium-industry/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -5906,5 +5922,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-29T11:02:37.534237+00:00"
+  "last_updated_utc": "2026-06-29T15:49:39.063949+00:00"
 }
