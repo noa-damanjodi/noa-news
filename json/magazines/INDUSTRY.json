@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Solstice Minerals reports copper-gold intercepts at Nanadie project",
+      "category": "INDUSTRY",
+      "date": "2026-06-29T09:53:42+00:00",
+      "url": "https://www.mining-technology.com/news/solstice-minerals-copper-gold-intercepts-nanadie/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Copper One begins AI-designed drilling at Majuba Hill in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-06-29T07:52:29+00:00",
+      "url": "https://www.mining-technology.com/news/copper-one-ai-designed-drilling-majuba-hill/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "i-80 Gold to terminate gold offtake deal with Vox Royalty",
+      "category": "INDUSTRY",
+      "date": "2026-06-29T07:46:33+00:00",
+      "url": "https://www.mining-technology.com/news/i-80-gold-terminate-gold-offtake-vox-royalty/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Star Minerals acquires gold project in Merredin, Western Australia",
       "category": "INDUSTRY",
       "date": "2026-06-26T12:57:32+00:00",
@@ -5882,5 +5906,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-29T04:05:40.259582+00:00"
+  "last_updated_utc": "2026-06-29T11:02:37.534237+00:00"
 }

@@ -2,6 +2,214 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Hi3D adds AI workflow for custom mecha 3D printing",
+      "category": "MECHANICAL",
+      "date": "2026-06-29T10:48:01+00:00",
+      "url": "https://www.engineering.com/hi3d-adds-ai-workflow-for-custom-mecha-3d-printing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Eagle Point partners with MarkedUp AI on training",
+      "category": "MECHANICAL",
+      "date": "2026-06-29T10:33:53+00:00",
+      "url": "https://www.engineering.com/eagle-point-partners-with-markedup-ai-on-training/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Laser scanner wins 2026 design award for usability",
+      "category": "MECHANICAL",
+      "date": "2026-06-29T10:30:10+00:00",
+      "url": "https://www.engineering.com/laser-scanner-wins-2026-design-award-for-usability/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Managing Energy Costs: Measures to enhance industrial competitiveness",
+      "category": "POWER",
+      "date": "2026-06-29T10:01:17+00:00",
+      "url": "https://powerline.net.in/2026/06/29/managing-energy-costs-measures-to-enhance-industrial-competitiveness/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Solstice Minerals reports copper-gold intercepts at Nanadie project",
+      "category": "INDUSTRY",
+      "date": "2026-06-29T09:53:42+00:00",
+      "url": "https://www.mining-technology.com/news/solstice-minerals-copper-gold-intercepts-nanadie/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "HP partners with OpenAI on AI for work operations",
+      "category": "MECHANICAL",
+      "date": "2026-06-29T09:03:20+00:00",
+      "url": "https://www.engineering.com/hp-partners-with-openai-on-ai-for-work-operations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMC Bridge expands access through Bentley ecosystem listing",
+      "category": "MECHANICAL",
+      "date": "2026-06-29T08:53:18+00:00",
+      "url": "https://www.engineering.com/amc-bridge-expands-access-through-bentley-ecosystem-listing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Copper One begins AI-designed drilling at Majuba Hill in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-06-29T07:52:29+00:00",
+      "url": "https://www.mining-technology.com/news/copper-one-ai-designed-drilling-majuba-hill/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "i-80 Gold to terminate gold offtake deal with Vox Royalty",
+      "category": "INDUSTRY",
+      "date": "2026-06-29T07:46:33+00:00",
+      "url": "https://www.mining-technology.com/news/i-80-gold-terminate-gold-offtake-vox-royalty/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Heat protections for workers: a regulatory update",
+      "category": "SAFETY",
+      "date": "2026-06-29T07:00:43+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/heat-protections-for-workers-a-regulatory-update/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Have a safety fair",
+      "category": "SAFETY",
+      "date": "2026-06-29T07:00:28+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/have-a-safety-fair/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The do’s and don’ts of workplace housekeeping",
+      "category": "SAFETY",
+      "date": "2026-06-29T07:00:17+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/the-dos-and-donts-of-workplace-housekeeping/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The role of leadership in creating risk and resilience",
+      "category": "SAFETY",
+      "date": "2026-06-29T06:01:25+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/the-role-of-leadership-in-creating-risk-and-resilience/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Safety in the summer",
+      "category": "SAFETY",
+      "date": "2026-06-29T06:00:39+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safety-in-the-summer/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "My Story: Shanda Judge",
+      "category": "SAFETY",
+      "date": "2026-06-29T05:59:53+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/my-story-shanda-judge/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "My Story: Justin Dugas",
+      "category": "SAFETY",
+      "date": "2026-06-29T05:58:00+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/my-story-justin-dugas/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Confined space rescues",
+      "category": "SAFETY",
+      "date": "2026-06-29T05:15:54+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/confined-space-rescues/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Multi-contractor worksites",
+      "category": "SAFETY",
+      "date": "2026-06-29T05:15:52+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/multi-contractor-worksites/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Restructuring safety",
+      "category": "SAFETY",
+      "date": "2026-06-29T05:15:27+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/when-the-org-chart-changes-overnight-what-happens-to-the-health-and-safety-system-underpinning-it-all/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NHPC and UPPCL sign PPA for 260 MW Dulhasti Stage-II hydro project",
+      "category": "POWER",
+      "date": "2026-06-29T05:14:12+00:00",
+      "url": "https://powerline.net.in/2026/06/29/nhpc-and-uppcl-sign-ppa-for-260-mw-dulhasti-stage-ii-hydro-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "MNRE amends guidelines for installation of prototype wind turbine models",
+      "category": "POWER",
+      "date": "2026-06-29T05:13:06+00:00",
+      "url": "https://powerline.net.in/2026/06/29/mnre-amends-guidelines-for-installation-of-prototype-wind-turbine-models/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Solarium Green secures LoA for solar EPC works under MAHAGENCO project",
+      "category": "POWER",
+      "date": "2026-06-29T05:11:22+00:00",
+      "url": "https://powerline.net.in/2026/06/29/solarium-green-secures-loa-for-solar-epc-works-under-mahagenco-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Kalpataru Projects completes divestment of stake in Kohima-Mariani Transmission to Apraava Energy",
+      "category": "POWER",
+      "date": "2026-06-29T05:09:26+00:00",
+      "url": "https://powerline.net.in/2026/06/29/kalpataru-projects-completes-divestment-of-stake-in-kohima-mariani-transmission-to-apraava-energy/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Tata Power-DDL and ACPET sign MoU for power sector research and technology collaboration",
+      "category": "POWER",
+      "date": "2026-06-29T05:08:12+00:00",
+      "url": "https://powerline.net.in/2026/06/29/tata-power-ddl-and-acpet-sign-mou-for-power-sector-research-and-technology-collaboration/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "MCA-Nepal begins construction of key infrastructure under MCC Compact",
+      "category": "POWER",
+      "date": "2026-06-29T05:06:58+00:00",
+      "url": "https://powerline.net.in/2026/06/29/mca-nepal-begins-construction-of-key-infrastructure-under-mcc-compact/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "South Korea’s LS Cable and Iljin Electric secure UHV cable contracts",
+      "category": "POWER",
+      "date": "2026-06-29T05:05:55+00:00",
+      "url": "https://powerline.net.in/2026/06/29/south-koreas-ls-cable-and-iljin-electric-secure-uhv-cable-contracts/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Many power-line injuries involve workers in nonelectrical jobs: study",
       "category": "SAFETY",
       "date": "2026-06-26T19:09:22+00:00",
@@ -33330,5 +33538,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-29T04:05:40.259582+00:00"
+  "last_updated_utc": "2026-06-29T11:02:37.534237+00:00"
 }

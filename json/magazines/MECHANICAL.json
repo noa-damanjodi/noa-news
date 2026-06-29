@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Hi3D adds AI workflow for custom mecha 3D printing",
+      "category": "MECHANICAL",
+      "date": "2026-06-29T10:48:01+00:00",
+      "url": "https://www.engineering.com/hi3d-adds-ai-workflow-for-custom-mecha-3d-printing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Eagle Point partners with MarkedUp AI on training",
+      "category": "MECHANICAL",
+      "date": "2026-06-29T10:33:53+00:00",
+      "url": "https://www.engineering.com/eagle-point-partners-with-markedup-ai-on-training/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Laser scanner wins 2026 design award for usability",
+      "category": "MECHANICAL",
+      "date": "2026-06-29T10:30:10+00:00",
+      "url": "https://www.engineering.com/laser-scanner-wins-2026-design-award-for-usability/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HP partners with OpenAI on AI for work operations",
+      "category": "MECHANICAL",
+      "date": "2026-06-29T09:03:20+00:00",
+      "url": "https://www.engineering.com/hp-partners-with-openai-on-ai-for-work-operations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMC Bridge expands access through Bentley ecosystem listing",
+      "category": "MECHANICAL",
+      "date": "2026-06-29T08:53:18+00:00",
+      "url": "https://www.engineering.com/amc-bridge-expands-access-through-bentley-ecosystem-listing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Gstarsoft updates design portfolio across CAD and BIM",
       "category": "MECHANICAL",
       "date": "2026-06-26T15:02:53+00:00",
@@ -9218,5 +9258,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-29T04:05:40.259582+00:00"
+  "last_updated_utc": "2026-06-29T11:02:37.534237+00:00"
 }
