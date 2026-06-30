@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Q&A: Inside PLS’ Pilgangoora, how lithium ore sorting became a core process",
+      "category": "INDUSTRY",
+      "date": "2026-06-30T07:30:00+00:00",
+      "url": "https://www.mining-technology.com/features/qa-gavin-rech-of-tomra-mining-on-how-ore-sorting-became-core-infrastructure/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Orvana secures Evelina claims to expand Taguas Project footprint",
+      "category": "INDUSTRY",
+      "date": "2026-06-30T06:58:35+00:00",
+      "url": "https://www.mining-technology.com/news/orvana-evelina-claims-expand-taguas-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rethinking slurry pump sealing: design, integration, and total cost of ownership",
+      "category": "INDUSTRY",
+      "date": "2026-06-29T15:38:26+00:00",
+      "url": "https://www.mining-technology.com/sponsored/rethinking-slurry-pump-sealing-design-integration-and-total-cost-of-ownership/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Hancock starts production at $579m McPhee Creek mine",
       "category": "INDUSTRY",
       "date": "2026-06-29T12:58:01+00:00",
@@ -134,14 +158,6 @@
       "category": "INDUSTRY",
       "date": "2026-06-25T07:53:34+00:00",
       "url": "https://www.mining-technology.com/news/brimstone-century-mou-us-aluminium-supply/",
-      "source": "Mining Technology",
-      "type": "magazine"
-    },
-    {
-      "title": "Q&A: Inside PLS’ Pilgangoora, how lithium ore sorting became a core process",
-      "category": "INDUSTRY",
-      "date": "2026-06-25T07:30:00+00:00",
-      "url": "https://www.mining-technology.com/features/qa-gavin-rech-of-tomra-mining-on-how-ore-sorting-became-core-infrastructure/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -5922,5 +5938,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-30T03:49:49.104760+00:00"
+  "last_updated_utc": "2026-06-30T09:38:38.447458+00:00"
 }
