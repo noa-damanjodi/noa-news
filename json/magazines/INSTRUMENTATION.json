@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Sonair unveils safety-certified 3D ultrasonic sensor for human-robot collaboration",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-30T19:03:12+00:00",
+      "url": "https://www.automationmag.com/sonair-unveils-safety-certified-3d-ultrasonic-sensor-for-human-robot-collaboration/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "INKAS announces North American manufacturing expansion across Canada, U.S.",
+      "category": "INSTRUMENTATION",
+      "date": "2026-06-30T17:21:41+00:00",
+      "url": "https://www.automationmag.com/inkas-announces-north-american-manufacturing-expansion-across-canada-u-s/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Honeywell Technologies spins-off Honeywell Aerospace, aims to advance automation across multiple market verticals",
       "category": "INSTRUMENTATION",
       "date": "2026-06-29T13:17:26+00:00",
@@ -2138,5 +2154,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-30T14:21:58.941211+00:00"
+  "last_updated_utc": "2026-06-30T20:00:26.293513+00:00"
 }
