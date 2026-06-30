@@ -2,6 +2,142 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Do these PPE ‘pain points’ sound familiar?",
+      "category": "SAFETY",
+      "date": "2026-06-30T13:44:51+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/do-these-ppe-pain-points-sound-familiar/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Roland DGA opens dental support facility in Bogotá",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T13:38:54+00:00",
+      "url": "https://www.engineering.com/roland-dga-opens-dental-support-facility-in-bogota/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA to conduct safety training for federal agency staff",
+      "category": "SAFETY",
+      "date": "2026-06-30T13:36:38+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-to-conduct-safety-training-for-federal-agency-staff/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "KYOCERA AVX launches web-based antenna design tool",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T13:33:42+00:00",
+      "url": "https://www.engineering.com/kyocera-avx-launches-web-based-antenna-design-tool/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Beware the ‘shiny object’ when choosing safety tech, NSC experts say",
+      "category": "SAFETY",
+      "date": "2026-06-30T13:30:05+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/beware-the-shiny-object-when-choosing-safety-tech-nsc-experts-say/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Xometry launches foundation for STEM and workforce training",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T13:27:56+00:00",
+      "url": "https://www.engineering.com/xometry-launches-foundation-for-stem-and-workforce-training/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Toshiba launches 80V MOSFET for lower-loss power supplies",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T13:21:25+00:00",
+      "url": "https://www.engineering.com/toshiba-launches-80v-mosfet-for-lower-loss-power-supplies/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Chinalco Mining to acquire 95% stake in Opuwo Project",
+      "category": "INDUSTRY",
+      "date": "2026-06-30T12:53:40+00:00",
+      "url": "https://www.mining-technology.com/news/chinalco-mining-to-acquire-95-stake-opuwo-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "JetCool launches liquid-cooled Dell PowerEdge XE7745",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T12:01:22+00:00",
+      "url": "https://www.engineering.com/jetcool-launches-liquid-cooled-dell-poweredge-xe7745/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bull and Alice & Bob expand quantum computing partnership",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T11:46:15+00:00",
+      "url": "https://www.engineering.com/bull-and-alice-bob-expand-quantum-computing-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB to acquire marine automation company Høglund",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T11:25:52+00:00",
+      "url": "https://www.engineering.com/abb-to-acquire-marine-automation-company-hoglund/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and IFS partner on industrial AI for factories",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T11:20:00+00:00",
+      "url": "https://www.engineering.com/siemens-and-ifs-partner-on-industrial-ai-for-factories/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Custom Beverage Concepts selects Plex MES and ERP",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T11:15:00+00:00",
+      "url": "https://www.engineering.com/custom-beverage-concepts-selects-plex-mes-and-erp/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Policy reform is key for states to unlock the potential of renewable energy",
+      "category": "RENEWABLE",
+      "date": "2026-06-30T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/policy-reform-is-key-for-states-to-unlock-the-potential-of-renewable-energy/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Amaroq starts drilling at Ilua REE prospect",
+      "category": "INDUSTRY",
+      "date": "2026-06-30T10:58:35+00:00",
+      "url": "https://www.mining-technology.com/news/amaroq-drilling-ilua-ree-prospect/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "An energy transition in mining: striving to balance productivity with transformation",
+      "category": "INDUSTRY",
+      "date": "2026-06-30T10:16:11+00:00",
+      "url": "https://www.mining-technology.com/sponsored/an-energy-transition-in-mining-striving-to-balance-productivity-with-transformation/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Bunker Hill produces first concentrate at Idaho site",
+      "category": "INDUSTRY",
+      "date": "2026-06-30T08:16:42+00:00",
+      "url": "https://www.mining-technology.com/news/bunker-hill-produces-first-concentrate-idaho/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Q&A: Inside PLS’ Pilgangoora, how lithium ore sorting became a core process",
       "category": "INDUSTRY",
       "date": "2026-06-30T07:30:00+00:00",
@@ -33706,5 +33842,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-30T09:38:38.447458+00:00"
+  "last_updated_utc": "2026-06-30T14:21:58.941211+00:00"
 }

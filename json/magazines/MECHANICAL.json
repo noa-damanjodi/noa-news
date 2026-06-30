@@ -2,6 +2,78 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Roland DGA opens dental support facility in Bogotá",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T13:38:54+00:00",
+      "url": "https://www.engineering.com/roland-dga-opens-dental-support-facility-in-bogota/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "KYOCERA AVX launches web-based antenna design tool",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T13:33:42+00:00",
+      "url": "https://www.engineering.com/kyocera-avx-launches-web-based-antenna-design-tool/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Xometry launches foundation for STEM and workforce training",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T13:27:56+00:00",
+      "url": "https://www.engineering.com/xometry-launches-foundation-for-stem-and-workforce-training/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Toshiba launches 80V MOSFET for lower-loss power supplies",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T13:21:25+00:00",
+      "url": "https://www.engineering.com/toshiba-launches-80v-mosfet-for-lower-loss-power-supplies/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "JetCool launches liquid-cooled Dell PowerEdge XE7745",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T12:01:22+00:00",
+      "url": "https://www.engineering.com/jetcool-launches-liquid-cooled-dell-poweredge-xe7745/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bull and Alice & Bob expand quantum computing partnership",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T11:46:15+00:00",
+      "url": "https://www.engineering.com/bull-and-alice-bob-expand-quantum-computing-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB to acquire marine automation company Høglund",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T11:25:52+00:00",
+      "url": "https://www.engineering.com/abb-to-acquire-marine-automation-company-hoglund/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and IFS partner on industrial AI for factories",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T11:20:00+00:00",
+      "url": "https://www.engineering.com/siemens-and-ifs-partner-on-industrial-ai-for-factories/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Custom Beverage Concepts selects Plex MES and ERP",
+      "category": "MECHANICAL",
+      "date": "2026-06-30T11:15:00+00:00",
+      "url": "https://www.engineering.com/custom-beverage-concepts-selects-plex-mes-and-erp/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Is AI in PLM moving the needle or just making noise?",
       "category": "MECHANICAL",
       "date": "2026-06-29T15:14:00+00:00",
@@ -9282,5 +9354,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-30T09:38:38.447458+00:00"
+  "last_updated_utc": "2026-06-30T14:21:58.941211+00:00"
 }
