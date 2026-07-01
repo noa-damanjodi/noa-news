@@ -2,6 +2,70 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "ENGYS partners with RBF Morph on simulation workflows",
+      "category": "MECHANICAL",
+      "date": "2026-07-01T14:24:31+00:00",
+      "url": "https://www.engineering.com/engys-partners-with-rbf-morph-on-simulation-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble adds AI features to MEP estimating tools",
+      "category": "MECHANICAL",
+      "date": "2026-07-01T14:10:23+00:00",
+      "url": "https://www.engineering.com/trimble-adds-ai-features-to-mep-estimating-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Roland DG introduces VersaStudio BY2-20 DTF printer",
+      "category": "MECHANICAL",
+      "date": "2026-07-01T13:54:48+00:00",
+      "url": "https://www.engineering.com/roland-dg-introduces-versastudio-by2-20-dtf-printer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nemetschek Arabia, KEO partner on digital facilities",
+      "category": "MECHANICAL",
+      "date": "2026-07-01T11:56:49+00:00",
+      "url": "https://www.engineering.com/nemetschek-arabia-keo-partner-on-digital-facilities/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens grants UniSC access to industrial AI software",
+      "category": "MECHANICAL",
+      "date": "2026-07-01T11:51:22+00:00",
+      "url": "https://www.engineering.com/siemens-grants-unisc-access-to-industrial-ai-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens named a Visionary in Gartner AI report",
+      "category": "MECHANICAL",
+      "date": "2026-07-01T10:43:22+00:00",
+      "url": "https://www.engineering.com/siemens-named-a-visionary-in-gartner-ai-report/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Molex expands HSAutoLink for 25 Gbps automotive Ethernet",
+      "category": "MECHANICAL",
+      "date": "2026-07-01T10:35:43+00:00",
+      "url": "https://www.engineering.com/molex-expands-hsautolink-for-25-gbps-automotive-ethernet/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MDT launches magnetic scale sensor for encoder designs",
+      "category": "MECHANICAL",
+      "date": "2026-07-01T10:23:16+00:00",
+      "url": "https://www.engineering.com/mdt-launches-magnetic-scale-sensor-for-encoder-designs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Why Engineering Firms That Delay AI Adoption Are Creating Technical Debt",
       "category": "MECHANICAL",
       "date": "2026-07-01T08:00:00+00:00",
@@ -9426,5 +9490,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-01T09:50:14.852055+00:00"
+  "last_updated_utc": "2026-07-01T14:39:21.202674+00:00"
 }
