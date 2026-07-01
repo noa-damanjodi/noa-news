@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Heat stress protections",
+      "category": "SAFETY",
+      "date": "2026-06-30T20:14:22+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/heat-stress-protections/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "33DPQ Podcast – Sarah Hoyos",
       "category": "MECHANICAL",
       "date": "2026-06-30T19:17:36+00:00",
@@ -33922,5 +33930,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-06-30T20:00:26.293513+00:00"
+  "last_updated_utc": "2026-07-01T04:03:17.018216+00:00"
 }
