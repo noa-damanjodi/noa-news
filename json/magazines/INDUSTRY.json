@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "pH7 Technologies secures funding for copper cathode production",
+      "category": "INDUSTRY",
+      "date": "2026-07-01T07:37:50+00:00",
+      "url": "https://www.mining-technology.com/news/ph7-technologies-funding-copper-cathode-production/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "South32 agrees conditional $5.6bn aluminium asset sale to Alcoa",
+      "category": "INDUSTRY",
+      "date": "2026-07-01T07:13:49+00:00",
+      "url": "https://www.mining-technology.com/news/south32-conditional-5-6bn-aluminium-alcoa/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "The UK’s lithium moment: new issue of MINE out now!",
+      "category": "INDUSTRY",
+      "date": "2026-06-30T16:21:57+00:00",
+      "url": "https://www.mining-technology.com/news/the-uks-lithium-moment-new-issue-of-mine-out-now/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "MLG wins $40m contract at Pioneer Dome Lithium Project",
       "category": "INDUSTRY",
       "date": "2026-06-30T13:03:53+00:00",
@@ -5978,5 +6002,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-01T04:03:17.018216+00:00"
+  "last_updated_utc": "2026-07-01T09:50:14.852055+00:00"
 }

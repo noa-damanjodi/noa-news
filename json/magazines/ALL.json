@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Why Engineering Firms That Delay AI Adoption Are Creating Technical Debt",
+      "category": "MECHANICAL",
+      "date": "2026-07-01T08:00:00+00:00",
+      "url": "https://www.engineering.com/why-engineering-firms-that-delay-ai-adoption-are-creating-technical-debt/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Venture capital pumps industrial automation and Honeywell spins off major units",
+      "category": "MECHANICAL",
+      "date": "2026-07-01T08:00:00+00:00",
+      "url": "https://www.engineering.com/venture-capital-pumps-industrial-automation-and-honeywell-spins-off-major-units/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "pH7 Technologies secures funding for copper cathode production",
+      "category": "INDUSTRY",
+      "date": "2026-07-01T07:37:50+00:00",
+      "url": "https://www.mining-technology.com/news/ph7-technologies-funding-copper-cathode-production/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "South32 agrees conditional $5.6bn aluminium asset sale to Alcoa",
+      "category": "INDUSTRY",
+      "date": "2026-07-01T07:13:49+00:00",
+      "url": "https://www.mining-technology.com/news/south32-conditional-5-6bn-aluminium-alcoa/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "CEA issues guidelines on advanced methodologies for minimising geological uncertainties in hydropower projects",
+      "category": "POWER",
+      "date": "2026-07-01T05:22:16+00:00",
+      "url": "https://powerline.net.in/2026/07/01/cea-issues-guidelines-on-advanced-methodologies-for-minimising-geological-uncertainties-in-hydropower-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Ministry of Power notifies Draft National Electricity Data Sharing Framework, 2026",
+      "category": "POWER",
+      "date": "2026-07-01T05:20:56+00:00",
+      "url": "https://powerline.net.in/2026/07/01/ministry-of-power-notifies-draft-national-electricity-data-sharing-framework-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "POWERGRID commissions transmission scheme for solar energy zones in Andhra Pradesh",
+      "category": "POWER",
+      "date": "2026-07-01T05:19:25+00:00",
+      "url": "https://powerline.net.in/2026/07/01/powergrid-commissions-transmission-scheme-for-solar-energy-zones-in-andhra-pradesh/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Adani Green Energy commissions 150 MW solar project at Khavda",
+      "category": "POWER",
+      "date": "2026-07-01T05:17:36+00:00",
+      "url": "https://powerline.net.in/2026/07/01/adani-green-energy-commissions-150-mw-solar-project-at-khavda-2/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Suzlon secures first 105 MW order for S175 wind turbines from Sunsure Energy",
+      "category": "POWER",
+      "date": "2026-07-01T05:16:13+00:00",
+      "url": "https://powerline.net.in/2026/07/01/suzlon-secures-first-105-mw-order-for-s175-wind-turbines-from-sunsure-energy/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "China’s SGCC and CSG complete 500 kV grid projects in Jiangsu and Guizhou",
+      "category": "POWER",
+      "date": "2026-07-01T05:14:54+00:00",
+      "url": "https://powerline.net.in/2026/07/01/chinas-sgcc-and-csg-complete-500-kv-grid-projects-in-jiangsu-and-guizhou/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ERC receives 17 BESS applications across Visayas and Mindanao in Philippines",
+      "category": "POWER",
+      "date": "2026-07-01T05:12:54+00:00",
+      "url": "https://powerline.net.in/2026/07/01/erc-receives-17-bess-applications-across-visayas-and-mindanao-in-philippines/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Heat stress protections",
       "category": "SAFETY",
       "date": "2026-06-30T20:14:22+00:00",
@@ -71,6 +159,14 @@
       "date": "2026-06-30T17:21:41+00:00",
       "url": "https://www.automationmag.com/inkas-announces-north-american-manufacturing-expansion-across-canada-u-s/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "The UK’s lithium moment: new issue of MINE out now!",
+      "category": "INDUSTRY",
+      "date": "2026-06-30T16:21:57+00:00",
+      "url": "https://www.mining-technology.com/news/the-uks-lithium-moment-new-issue-of-mine-out-now/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -4455,6 +4551,14 @@
       "date": "2026-06-05T05:15:44+00:00",
       "url": "https://powerline.net.in/2026/06/05/solarafrica-to-acquire-315-mw-solar-plus-storage-project-in-south-africa/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Maximum Cleanliness Over Long Distances with Innovative Cleanroom Energy Supply Solution from igus",
+      "category": "ELECTRICAL",
+      "date": "2026-06-05T04:27:06+00:00",
+      "url": "https://www.electricalindia.in/maximum-cleanliness-over-long-distances-with-innovative-cleanroom-energy-supply-solution-from-igus/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -33930,5 +34034,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-01T04:03:17.018216+00:00"
+  "last_updated_utc": "2026-07-01T09:50:14.852055+00:00"
 }
