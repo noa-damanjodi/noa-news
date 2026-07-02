@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "OMRON names Sager Electronics distributor of the year",
+      "category": "MECHANICAL",
+      "date": "2026-07-02T05:07:40+00:00",
+      "url": "https://www.engineering.com/omron-names-sager-electronics-distributor-of-the-year/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "ENGYS partners with RBF Morph on simulation workflows",
       "category": "MECHANICAL",
       "date": "2026-07-01T14:24:31+00:00",
@@ -9490,5 +9498,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-02T03:42:49.278600+00:00"
+  "last_updated_utc": "2026-07-02T09:14:47.458162+00:00"
 }

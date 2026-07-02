@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Cameco temporarily suspends Cigar Lake mine operations",
+      "category": "INDUSTRY",
+      "date": "2026-07-02T08:56:00+00:00",
+      "url": "https://www.mining-technology.com/news/cameco-temporarily-suspends-cigar-lake-operations/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Can Brazil become a key rare earth supplier for the West?",
       "category": "INDUSTRY",
       "date": "2026-07-01T13:43:08+00:00",
@@ -6042,5 +6050,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-02T03:42:49.278600+00:00"
+  "last_updated_utc": "2026-07-02T09:14:47.458162+00:00"
 }
