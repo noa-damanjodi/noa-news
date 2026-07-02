@@ -2,6 +2,14 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Noise monitoring",
+      "category": "SAFETY",
+      "date": "2026-07-02T13:37:07+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/noise-monitoring/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "EPA delays proposed rule on asbestos, says it needs more information",
       "category": "SAFETY",
       "date": "2026-07-01T20:24:22+00:00",
@@ -3154,5 +3162,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-02T09:14:47.458162+00:00"
+  "last_updated_utc": "2026-07-02T14:04:29.104841+00:00"
 }

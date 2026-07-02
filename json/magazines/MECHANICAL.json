@@ -2,6 +2,70 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Velo3D expands with new Livermore production facility",
+      "category": "MECHANICAL",
+      "date": "2026-07-02T13:18:06+00:00",
+      "url": "https://www.engineering.com/velo3d-expands-with-new-livermore-production-facility/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Vertiv opens manufacturing facility in Malaysia",
+      "category": "MECHANICAL",
+      "date": "2026-07-02T13:08:09+00:00",
+      "url": "https://www.engineering.com/vertiv-opens-manufacturing-facility-in-malaysia/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mastercam 2027 adds automation and setup updates",
+      "category": "MECHANICAL",
+      "date": "2026-07-02T11:50:59+00:00",
+      "url": "https://www.engineering.com/mastercam-2027-adds-automation-and-setup-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ScanSource expands HPE networking partnership",
+      "category": "MECHANICAL",
+      "date": "2026-07-02T11:46:24+00:00",
+      "url": "https://www.engineering.com/scansource-expands-hpe-networking-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sirin Software joins Alif partner ecosystem",
+      "category": "MECHANICAL",
+      "date": "2026-07-02T11:41:27+00:00",
+      "url": "https://www.engineering.com/sirin-software-joins-alif-partner-ecosystem/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric acquires Infostellar for ground services",
+      "category": "MECHANICAL",
+      "date": "2026-07-02T11:15:00+00:00",
+      "url": "https://www.engineering.com/mitsubishi-electric-acquires-infostellar-for-ground-services/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Roland DG introduces EUV-H UV hard ink",
+      "category": "MECHANICAL",
+      "date": "2026-07-02T10:53:24+00:00",
+      "url": "https://www.engineering.com/roland-dg-introduces-euv-h-uv-hard-ink/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Oasys PRIMER 23 adds broader CAD import support",
+      "category": "MECHANICAL",
+      "date": "2026-07-02T10:34:00+00:00",
+      "url": "https://www.engineering.com/oasys-primer-23-adds-broader-cad-import-support/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "OMRON names Sager Electronics distributor of the year",
       "category": "MECHANICAL",
       "date": "2026-07-02T05:07:40+00:00",
@@ -9498,5 +9562,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-02T09:14:47.458162+00:00"
+  "last_updated_utc": "2026-07-02T14:04:29.104841+00:00"
 }

@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "IHC, Adani announce $11.5bn aluminium project in Odisha, India",
+      "category": "INDUSTRY",
+      "date": "2026-07-02T13:45:45+00:00",
+      "url": "https://www.mining-technology.com/news/ihc-adani-11-5bn-aluminium-project-odisha/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Almonty begins processing operations at South Korea’s Sangdong Mine",
+      "category": "INDUSTRY",
+      "date": "2026-07-02T12:37:27+00:00",
+      "url": "https://www.mining-technology.com/news/almonty-processing-operations-sangdong-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Magnitude 7 Metals to restart Marston aluminium smelter in Missouri",
+      "category": "INDUSTRY",
+      "date": "2026-07-02T10:15:44+00:00",
+      "url": "https://www.mining-technology.com/news/magnitude-7-metals-restart-marston-aluminium-smelter/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "GreenMet plans critical minerals processing hub in West Virginia",
+      "category": "INDUSTRY",
+      "date": "2026-07-02T09:01:31+00:00",
+      "url": "https://www.mining-technology.com/news/greenmet-critical-minerals-processing-hub-rupert/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Cameco temporarily suspends Cigar Lake mine operations",
       "category": "INDUSTRY",
       "date": "2026-07-02T08:56:00+00:00",
@@ -6050,5 +6082,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-02T09:14:47.458162+00:00"
+  "last_updated_utc": "2026-07-02T14:04:29.104841+00:00"
 }

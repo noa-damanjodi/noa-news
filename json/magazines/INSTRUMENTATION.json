@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Little change in S&P Global’s manufacturing PMI, outputs and new orders both rise in June",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-02T13:59:07+00:00",
+      "url": "https://www.automationmag.com/little-change-in-sp-globals-manufacturing-pmi-outputs-and-new-orders-both-rise-in-june/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Baumer high-performance cameras now with RF mount",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-02T13:42:27+00:00",
+      "url": "https://www.automationmag.com/baumer-high-performance-cameras-now-with-rf-mount/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Murrelektronik M8 and M12 A-coded sensor, signal and drag chain cables added by AutomationDirect",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-02T13:31:14+00:00",
+      "url": "https://www.automationmag.com/murrelektronik-m8-and-m12-a-coded-sensor-signal-and-drag-chain-cables-added-by-automationdirect/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Sonair unveils safety-certified 3D ultrasonic sensor for human-robot collaboration",
       "category": "INSTRUMENTATION",
       "date": "2026-06-30T19:03:12+00:00",
@@ -2154,5 +2178,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-02T09:14:47.458162+00:00"
+  "last_updated_utc": "2026-07-02T14:04:29.104841+00:00"
 }

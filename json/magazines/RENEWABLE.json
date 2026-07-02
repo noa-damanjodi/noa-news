@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Fixing generator interconnection | Factor This Policycast",
+      "category": "RENEWABLE",
+      "date": "2026-07-02T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/fixing-generator-interconnection-factor-this-policycast/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Smarter, safer, and more prepared: A wildfire technology framework for U.S. utilities",
       "category": "RENEWABLE",
       "date": "2026-07-01T11:00:00+00:00",
@@ -2698,5 +2706,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-02T09:14:47.458162+00:00"
+  "last_updated_utc": "2026-07-02T14:04:29.104841+00:00"
 }
