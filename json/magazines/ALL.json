@@ -2,6 +2,38 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Many construction companies taking SIFs seriously, survey finds",
+      "category": "SAFETY",
+      "date": "2026-07-02T17:23:56+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/many-construction-companies-taking-sifs-seriously-survey-finds/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "House committee approves bill aimed at expanding health care options for DOE workers",
+      "category": "SAFETY",
+      "date": "2026-07-02T17:03:54+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/house-committee-approves-bill-aimed-at-expanding-health-care-options-for-doe-workers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New chemical-exposure model bridges ‘gap between research labs and reality’: study",
+      "category": "SAFETY",
+      "date": "2026-07-02T16:57:13+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-chemical-exposure-model-bridges-gap-between-research-labs-and-reality-study/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Top 10 Under 40 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-02T16:17:13+00:00",
+      "url": "https://www.automationmag.com/top-10-under-40-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Little change in S&P Global’s manufacturing PMI, outputs and new orders both rise in June",
       "category": "INSTRUMENTATION",
       "date": "2026-07-02T13:59:07+00:00",
@@ -34402,5 +34434,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-02T14:04:29.104841+00:00"
+  "last_updated_utc": "2026-07-02T19:26:06.918548+00:00"
 }
