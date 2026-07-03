@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "IHA: Global pumped storage tops 200 GW after record year for new capacity",
+      "category": "RENEWABLE",
+      "date": "2026-07-02T20:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/pumped-storage/iha-global-pumped-storage-tops-200-gw-after-record-year-for-new-capacity/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Fixing generator interconnection | Factor This Policycast",
       "category": "RENEWABLE",
       "date": "2026-07-02T10:00:00+00:00",
@@ -2706,5 +2714,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-02T19:26:06.918548+00:00"
+  "last_updated_utc": "2026-07-03T03:24:57.497955+00:00"
 }
