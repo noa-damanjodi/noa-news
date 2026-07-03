@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Case study: Navigating challenging terrain with ground screw solutions for a 6.1 MW solar site",
+      "category": "RENEWABLE",
+      "date": "2026-07-03T13:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/case-study-navigating-challenging-terrain-with-ground-screw-solutions-for-a-6-1-mw-solar-site/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "IHA: Global pumped storage tops 200 GW after record year for new capacity",
       "category": "RENEWABLE",
       "date": "2026-07-02T20:00:00+00:00",
@@ -2714,5 +2722,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-03T09:19:59.351056+00:00"
+  "last_updated_utc": "2026-07-03T14:08:14.587659+00:00"
 }
