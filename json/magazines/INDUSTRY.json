@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Sandvik receives underground equipment order from CoMinVi",
+      "category": "INDUSTRY",
+      "date": "2026-07-06T07:52:03+00:00",
+      "url": "https://www.mining-technology.com/news/sandvik-order-underground-equipment-cominvi/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Germanium Mining advances exploration at Lac du Km 35 property",
+      "category": "INDUSTRY",
+      "date": "2026-07-06T07:44:20+00:00",
+      "url": "https://www.mining-technology.com/news/germanium-mining-exploration-lac-du-km-35/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Government of Canada to provide $352m for Red Chris project",
       "category": "INDUSTRY",
       "date": "2026-07-03T12:35:30+00:00",
@@ -6122,5 +6138,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-06T03:41:32.510628+00:00"
+  "last_updated_utc": "2026-07-06T10:25:14.805768+00:00"
 }
