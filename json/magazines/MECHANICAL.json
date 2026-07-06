@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Mouser receives HARTING distributor award for 2026",
+      "category": "MECHANICAL",
+      "date": "2026-07-06T12:23:40+00:00",
+      "url": "https://www.engineering.com/mouser-receives-harting-distributor-award-for-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Pomini Tenova and Siemens expand roll grinder partnership",
+      "category": "MECHANICAL",
+      "date": "2026-07-06T11:53:46+00:00",
+      "url": "https://www.engineering.com/pomini-tenova-and-siemens-expand-roll-grinder-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nemetschek completes acquisition of HCSS",
+      "category": "MECHANICAL",
+      "date": "2026-07-06T11:40:00+00:00",
+      "url": "https://www.engineering.com/nemetschek-completes-acquisition-of-hcss/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Verkada collaborates with NVIDIA on physical AI",
+      "category": "MECHANICAL",
+      "date": "2026-07-06T11:18:37+00:00",
+      "url": "https://www.engineering.com/verkada-collaborates-with-nvidia-on-physical-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Infineon opens Dresden semiconductor fab ahead of schedule",
+      "category": "MECHANICAL",
+      "date": "2026-07-06T09:37:00+00:00",
+      "url": "https://www.engineering.com/infineon-opens-dresden-semiconductor-fab-ahead-of-schedule/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SiTime completes acquisition of Renesas timing assets",
+      "category": "MECHANICAL",
+      "date": "2026-07-06T08:47:00+00:00",
+      "url": "https://www.engineering.com/sitime-completes-acquisition-of-renesas-timing-assets/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight and WIN link design tools for GaN MMIC workflow",
+      "category": "MECHANICAL",
+      "date": "2026-07-06T08:42:00+00:00",
+      "url": "https://www.engineering.com/keysight-and-win-link-design-tools-for-gan-mmic-workflow/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Velo3D expands with new Livermore production facility",
       "category": "MECHANICAL",
       "date": "2026-07-02T13:18:06+00:00",
@@ -9562,5 +9618,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-06T10:25:14.805768+00:00"
+  "last_updated_utc": "2026-07-06T15:36:06.221321+00:00"
 }
