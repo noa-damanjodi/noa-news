@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Energy Transition: An imperative for the Maldives",
+      "category": "POWER",
+      "date": "2026-07-07T09:24:37+00:00",
+      "url": "https://powerline.net.in/2026/07/07/energy-transition-an-imperative-for-the-maldives/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Drilling starts at A2Gold’s Taylor project in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-07-07T07:22:32+00:00",
+      "url": "https://www.mining-technology.com/news/drilling-starts-a2golds-taylor-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Union Star Metals signs option deal to sell Kalgoorlie Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-07-07T07:10:25+00:00",
+      "url": "https://www.mining-technology.com/news/union-star-option-deal-sell-kalgoorlie-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Ministry of Power proposes credit trading framework under CAFE norms",
+      "category": "POWER",
+      "date": "2026-07-07T06:35:07+00:00",
+      "url": "https://powerline.net.in/2026/07/07/ministry-of-power-proposes-credit-trading-framework-under-cafe-norms/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "CEA issues advisory on minimising summer load shedding by discoms",
+      "category": "POWER",
+      "date": "2026-07-07T06:33:30+00:00",
+      "url": "https://powerline.net.in/2026/07/07/cea-issues-advisory-on-minimising-summer-load-shedding-by-discoms/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Coal India and UPRVUNL sign JV agreement for renewable energy projects in Uttar Pradesh",
+      "category": "POWER",
+      "date": "2026-07-07T06:32:17+00:00",
+      "url": "https://powerline.net.in/2026/07/07/coal-india-and-uprvunl-sign-jv-agreement-for-renewable-energy-projects-in-uttar-pradesh/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Prime Minister inaugurates SJVN’s 1000 MW Bikaner solar power project",
+      "category": "POWER",
+      "date": "2026-07-07T06:30:27+00:00",
+      "url": "https://powerline.net.in/2026/07/07/prime-minister-inaugurates-sjvns-1000-mw-bikaner-solar-power-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Prime Minister inaugurates NHPC’s 300 MW Karnisar solar power plant",
+      "category": "POWER",
+      "date": "2026-07-07T06:28:47+00:00",
+      "url": "https://powerline.net.in/2026/07/07/prime-minister-inaugurates-nhpcs-300-mw-karnisar-solar-power-plant/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NHPC signs PPAs with NDMC and GUVNL for hydropower supply",
+      "category": "POWER",
+      "date": "2026-07-07T06:27:10+00:00",
+      "url": "https://powerline.net.in/2026/07/07/nhpc-signs-ppas-with-ndmc-and-guvnl-for-hydropower-supply/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NTPC REL signs 1,200 MW solar PPA with PTC India",
+      "category": "POWER",
+      "date": "2026-07-07T06:26:10+00:00",
+      "url": "https://powerline.net.in/2026/07/07/ntpc-rel-signs-1200-mw-solar-ppa-with-ptc-india/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Sungrow commissions Malaysia’s first grid-forming 100 MW/400 MWh BESS",
+      "category": "POWER",
+      "date": "2026-07-07T06:24:53+00:00",
+      "url": "https://powerline.net.in/2026/07/07/sungrow-commissions-malaysias-first-grid-forming-100-mw-400-mwh-bess/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Indonesia targets completion of new National Energy Plan by September 2026",
+      "category": "POWER",
+      "date": "2026-07-07T06:22:54+00:00",
+      "url": "https://powerline.net.in/2026/07/07/indonesia-targets-completion-of-new-national-energy-plan-by-september-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Rooftop solar is making a difference in electricity demand curves in New York",
       "category": "RENEWABLE",
       "date": "2026-07-06T20:09:20+00:00",
@@ -55,6 +151,22 @@
       "date": "2026-07-06T17:17:45+00:00",
       "url": "https://www.safetyandhealthmagazine.com/north-carolina-updates-process-for-whistleblower-retaliation-complaints/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "District Metals begins airborne survey at Alum Shale Properties",
+      "category": "INDUSTRY",
+      "date": "2026-07-06T13:07:37+00:00",
+      "url": "https://www.mining-technology.com/news/district-metals-airborne-survey-alum-shale/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Accent Resources signs Norseman sale agreement with Boomerang",
+      "category": "INDUSTRY",
+      "date": "2026-07-06T12:55:28+00:00",
+      "url": "https://www.mining-technology.com/news/accent-resources-norseman-sale-agreement-boomerang/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -35322,5 +35434,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-07T03:33:15.505454+00:00"
+  "last_updated_utc": "2026-07-07T09:44:12.655159+00:00"
 }

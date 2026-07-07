@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Drilling starts at A2Gold’s Taylor project in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-07-07T07:22:32+00:00",
+      "url": "https://www.mining-technology.com/news/drilling-starts-a2golds-taylor-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Union Star Metals signs option deal to sell Kalgoorlie Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-07-07T07:10:25+00:00",
+      "url": "https://www.mining-technology.com/news/union-star-option-deal-sell-kalgoorlie-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "District Metals begins airborne survey at Alum Shale Properties",
+      "category": "INDUSTRY",
+      "date": "2026-07-06T13:07:37+00:00",
+      "url": "https://www.mining-technology.com/news/district-metals-airborne-survey-alum-shale/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Accent Resources signs Norseman sale agreement with Boomerang",
+      "category": "INDUSTRY",
+      "date": "2026-07-06T12:55:28+00:00",
+      "url": "https://www.mining-technology.com/news/accent-resources-norseman-sale-agreement-boomerang/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Metso extends supply contract for crusher parts in South America",
       "category": "INDUSTRY",
       "date": "2026-07-06T09:40:43+00:00",
@@ -6154,5 +6186,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-07T03:33:15.505454+00:00"
+  "last_updated_utc": "2026-07-07T09:44:12.655159+00:00"
 }
