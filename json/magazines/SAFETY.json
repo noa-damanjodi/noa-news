@@ -2,6 +2,46 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Gas detection in confined spaces",
+      "category": "SAFETY",
+      "date": "2026-07-07T14:21:34+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/gas-detection-in-confined-spaces/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Confined space entry",
+      "category": "SAFETY",
+      "date": "2026-07-07T14:18:46+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/confined-space-entry/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Elements of a heat stress program",
+      "category": "SAFETY",
+      "date": "2026-07-07T14:16:07+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/elements-of-a-heat-stress-program/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Working in the heat",
+      "category": "SAFETY",
+      "date": "2026-07-07T14:13:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/working-in-the-heat/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Connected safety technology",
+      "category": "SAFETY",
+      "date": "2026-07-07T14:10:47+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/connected-safety-technology/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "MSHA to end ‘outdated’ regulations on equipment and procedures",
       "category": "SAFETY",
       "date": "2026-07-06T17:25:13+00:00",
@@ -3210,5 +3250,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-07T09:44:12.655159+00:00"
+  "last_updated_utc": "2026-07-07T14:37:21.425283+00:00"
 }

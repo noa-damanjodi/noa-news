@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Lynas partners with JS Link for Malaysian rare earth magnet factory",
+      "category": "INDUSTRY",
+      "date": "2026-07-07T13:50:28+00:00",
+      "url": "https://www.mining-technology.com/news/lynas-partners-js-link-rare-earth-magnet/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Dryden Gold to acquire Lost Lake claims from Orebot",
+      "category": "INDUSTRY",
+      "date": "2026-07-07T09:52:48+00:00",
+      "url": "https://www.mining-technology.com/news/dryden-gold-to-acquire-lost-lake-orebot/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Drilling starts at A2Gold’s Taylor project in Nevada",
       "category": "INDUSTRY",
       "date": "2026-07-07T07:22:32+00:00",
@@ -6186,5 +6202,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-07T09:44:12.655159+00:00"
+  "last_updated_utc": "2026-07-07T14:37:21.425283+00:00"
 }
