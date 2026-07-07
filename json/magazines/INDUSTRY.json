@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Africa’s mining sector poised for sustained growth driven by critical minerals and policy reforms",
+      "category": "INDUSTRY",
+      "date": "2026-07-07T14:53:03+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/africa-mining-sector-sustained-growth/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "BHP secures environmental clearance for Escondida expansion",
+      "category": "INDUSTRY",
+      "date": "2026-07-07T14:00:33+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-environmental-clearance-escondida-expansion/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Lynas partners with JS Link for Malaysian rare earth magnet factory",
       "category": "INDUSTRY",
       "date": "2026-07-07T13:50:28+00:00",
@@ -6202,5 +6218,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-07T14:37:21.425283+00:00"
+  "last_updated_utc": "2026-07-07T19:56:40.852625+00:00"
 }

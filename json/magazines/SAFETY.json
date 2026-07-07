@@ -2,6 +2,30 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Trump administration issues latest regulatory agenda",
+      "category": "SAFETY",
+      "date": "2026-07-07T18:11:46+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/trump-administration-issues-latest-regulatory-agenda/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Pesticide manufacturers and bilingual labeling: EPA issues new guidance",
+      "category": "SAFETY",
+      "date": "2026-07-07T17:49:06+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/pesticide-manufacturers-and-bilingual-labeling-epa-issues-new-guidance/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Safe-in-Sound Awards: nomination period underway",
+      "category": "SAFETY",
+      "date": "2026-07-07T17:38:22+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safe-in-sound-awards-nomination-period-underway/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Gas detection in confined spaces",
       "category": "SAFETY",
       "date": "2026-07-07T14:21:34+00:00",
@@ -3250,5 +3274,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-07T14:37:21.425283+00:00"
+  "last_updated_utc": "2026-07-07T19:56:40.852625+00:00"
 }

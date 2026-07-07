@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Optimism at Automate 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-07T17:54:55+00:00",
+      "url": "https://www.automationmag.com/optimism-at-automate-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Vendor Preference Survey 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-07T13:20:04+00:00",
+      "url": "https://www.automationmag.com/vendor-preference-survey-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Carney expected to announce Germany’s TKMS as winner of sub contract: reports",
       "category": "INSTRUMENTATION",
       "date": "2026-07-06T17:38:00+00:00",
@@ -2194,5 +2210,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-07T14:37:21.425283+00:00"
+  "last_updated_utc": "2026-07-07T19:56:40.852625+00:00"
 }

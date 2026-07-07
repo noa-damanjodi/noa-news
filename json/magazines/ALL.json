@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Trump administration issues latest regulatory agenda",
+      "category": "SAFETY",
+      "date": "2026-07-07T18:11:46+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/trump-administration-issues-latest-regulatory-agenda/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Optimism at Automate 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-07T17:54:55+00:00",
+      "url": "https://www.automationmag.com/optimism-at-automate-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Pesticide manufacturers and bilingual labeling: EPA issues new guidance",
+      "category": "SAFETY",
+      "date": "2026-07-07T17:49:06+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/pesticide-manufacturers-and-bilingual-labeling-epa-issues-new-guidance/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Safe-in-Sound Awards: nomination period underway",
+      "category": "SAFETY",
+      "date": "2026-07-07T17:38:22+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safe-in-sound-awards-nomination-period-underway/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Africa’s mining sector poised for sustained growth driven by critical minerals and policy reforms",
+      "category": "INDUSTRY",
+      "date": "2026-07-07T14:53:03+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/africa-mining-sector-sustained-growth/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Gas detection in confined spaces",
       "category": "SAFETY",
       "date": "2026-07-07T14:21:34+00:00",
@@ -50,6 +90,14 @@
       "type": "magazine"
     },
     {
+      "title": "BHP secures environmental clearance for Escondida expansion",
+      "category": "INDUSTRY",
+      "date": "2026-07-07T14:00:33+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-environmental-clearance-escondida-expansion/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Lynas partners with JS Link for Malaysian rare earth magnet factory",
       "category": "INDUSTRY",
       "date": "2026-07-07T13:50:28+00:00",
@@ -63,6 +111,14 @@
       "date": "2026-07-07T13:43:35+00:00",
       "url": "https://www.engineering.com/oreca-selects-siemens-software-for-racing-simulation/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Vendor Preference Survey 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-07T13:20:04+00:00",
+      "url": "https://www.automationmag.com/vendor-preference-survey-2026/",
+      "source": "Manufacturing AUTOMATION",
       "type": "magazine"
     },
     {
@@ -35554,5 +35610,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-07T14:37:21.425283+00:00"
+  "last_updated_utc": "2026-07-07T19:56:40.852625+00:00"
 }
