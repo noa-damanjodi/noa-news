@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Weir to supply crushing circuit for Brightstar’s Goldfield project",
+      "category": "INDUSTRY",
+      "date": "2026-07-08T07:56:25+00:00",
+      "url": "https://www.mining-technology.com/news/weir-supply-crushing-circuit-brightstars-goldfield/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Copper and lithium boom reinforces Latin America’s role in the future of mining",
+      "category": "INDUSTRY",
+      "date": "2026-07-07T16:23:12+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/copper-lithium-boom-latin-america-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Africa’s mining sector poised for sustained growth driven by critical minerals and policy reforms",
       "category": "INDUSTRY",
       "date": "2026-07-07T14:53:03+00:00",
@@ -6218,5 +6234,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-08T02:49:04.729916+00:00"
+  "last_updated_utc": "2026-07-08T08:30:20.899762+00:00"
 }

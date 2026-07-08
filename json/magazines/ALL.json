@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Weir to supply crushing circuit for Brightstar’s Goldfield project",
+      "category": "INDUSTRY",
+      "date": "2026-07-08T07:56:25+00:00",
+      "url": "https://www.mining-technology.com/news/weir-supply-crushing-circuit-brightstars-goldfield/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "POWERGRID secures JPY 80 billion green loan facility from JBIC",
+      "category": "POWER",
+      "date": "2026-07-08T05:44:34+00:00",
+      "url": "https://powerline.net.in/2026/07/08/powergrid-secures-jpy-80-billion-green-loan-facility-from-jbic/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Jupiter International secures order worth Rs 1.08 billion for solar pumps from MSEDCL",
+      "category": "POWER",
+      "date": "2026-07-08T05:42:57+00:00",
+      "url": "https://powerline.net.in/2026/07/08/jupiter-international-secures-order-worth-rs-1-08-billion-for-solar-pumps-from-msedcl/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Serentica Renewables signs PPA with SECI for 600 MW FDRE project",
+      "category": "POWER",
+      "date": "2026-07-08T05:41:51+00:00",
+      "url": "https://powerline.net.in/2026/07/08/serentica-renewables-signs-ppa-with-seci-for-600-mw-fdre-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hartek Power wins 400 MW solar EPC project in Rajasthan",
+      "category": "POWER",
+      "date": "2026-07-08T05:40:52+00:00",
+      "url": "https://powerline.net.in/2026/07/08/hartek-power-wins-400-mw-solar-epc-project-in-rajasthan/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Adani Green Energy commissions 156 MW renewable capacity and 185 MWh BESS at Khavda",
+      "category": "POWER",
+      "date": "2026-07-08T05:39:55+00:00",
+      "url": "https://powerline.net.in/2026/07/08/adani-green-energy-commissions-156-mw-renewable-capacity-and-185-mwh-bess-at-khavda/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Malawi’s Escom launches USD6.3 million transmission line upgrade",
+      "category": "POWER",
+      "date": "2026-07-08T05:38:50+00:00",
+      "url": "https://powerline.net.in/2026/07/08/malawis-escom-launches-usd6-3-million-transmission-line-upgrade/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Thailand secures USD4.1 billion in EV supply chain investments",
+      "category": "POWER",
+      "date": "2026-07-08T05:36:42+00:00",
+      "url": "https://powerline.net.in/2026/07/08/thailand-secures-usd4-1-billion-in-ev-supply-chain-investments/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "National Grid Ventures doles out $1.75bn for a stake in energy infrastructure company focused on large load demand",
       "category": "RENEWABLE",
       "date": "2026-07-08T00:52:25+00:00",
@@ -39,6 +103,14 @@
       "date": "2026-07-07T17:38:22+00:00",
       "url": "https://www.safetyandhealthmagazine.com/safe-in-sound-awards-nomination-period-underway/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Copper and lithium boom reinforces Latin America’s role in the future of mining",
+      "category": "INDUSTRY",
+      "date": "2026-07-07T16:23:12+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/copper-lithium-boom-latin-america-mining/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -35618,5 +35690,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-08T02:49:04.729916+00:00"
+  "last_updated_utc": "2026-07-08T08:30:20.899762+00:00"
 }
