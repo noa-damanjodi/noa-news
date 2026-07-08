@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "ABB Robotics completes AI-powered Visual SLAM AMR portfolio with new autonomous forklift",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-08T15:52:11+00:00",
+      "url": "https://www.automationmag.com/abb-robotics-completes-ai-powered-visual-slam-amr-portfolio-with-new-autonomous-forklift/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric introduces MX Controller",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-08T15:38:58+00:00",
+      "url": "https://www.automationmag.com/mitsubishi-electric-introduces-mx-controller/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Comau extends intralogistics platform by acquiring Invent Smart Intralogistics Solutions",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-08T14:34:37+00:00",
+      "url": "https://www.automationmag.com/comau-extends-intralogistics-platform-by-acquiring-invent-smart-intralogistics-solutions/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Cyber Resilience Act readiness guide for machine builders released by ei3",
       "category": "INSTRUMENTATION",
       "date": "2026-07-08T14:12:15+00:00",
@@ -2218,5 +2242,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-08T14:12:20.592620+00:00"
+  "last_updated_utc": "2026-07-08T19:26:46.097353+00:00"
 }
