@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Critical One Energy reports high-grade antimony at Howells Lake",
+      "category": "INDUSTRY",
+      "date": "2026-07-08T10:11:36+00:00",
+      "url": "https://www.mining-technology.com/news/critical-one-energy-antimony-howells-lake/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Energy transition investment trends: where’s the money flowing?",
+      "category": "INDUSTRY",
+      "date": "2026-07-08T09:57:52+00:00",
+      "url": "https://www.mining-technology.com/news/energy-transition-investment-trends-wheres-the-money-flowing/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Caterpillar acquires Skycatch to expand mining technology portfolio",
+      "category": "INDUSTRY",
+      "date": "2026-07-08T08:21:10+00:00",
+      "url": "https://www.mining-technology.com/news/caterpillar-acquires-skycatch-expand-mining-portfolio/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Weir to supply crushing circuit for Brightstar’s Goldfield project",
       "category": "INDUSTRY",
       "date": "2026-07-08T07:56:25+00:00",
@@ -6234,5 +6258,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-08T08:30:20.899762+00:00"
+  "last_updated_utc": "2026-07-08T14:12:20.592620+00:00"
 }

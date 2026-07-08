@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Cyber Resilience Act readiness guide for machine builders released by ei3",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-08T14:12:15+00:00",
+      "url": "https://www.automationmag.com/cyber-resilience-act-readiness-guide-for-machine-builders-released-by-ei3/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Graitec launches steel design and detailing platform",
+      "category": "MECHANICAL",
+      "date": "2026-07-08T12:41:40+00:00",
+      "url": "https://www.engineering.com/graitec-launches-steel-design-and-detailing-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NSC marks 5 years of its MSD Solutions Lab during annual summit",
+      "category": "SAFETY",
+      "date": "2026-07-08T12:39:13+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-marks-5-years-of-its-msd-solutions-lab-during-annual-summit/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens names Europe Techcellence Awards 2026 winners",
+      "category": "MECHANICAL",
+      "date": "2026-07-08T12:29:13+00:00",
+      "url": "https://www.engineering.com/siemens-names-europe-techcellence-awards-2026-winners/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Blink imaging laser scanner receives iF Design Award 2026",
+      "category": "MECHANICAL",
+      "date": "2026-07-08T12:22:19+00:00",
+      "url": "https://www.engineering.com/blink-imaging-laser-scanner-receives-if-design-award-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SimX adds AI Assistant to healthcare VR training",
+      "category": "MECHANICAL",
+      "date": "2026-07-08T11:18:15+00:00",
+      "url": "https://www.engineering.com/simx-adds-ai-assistant-to-healthcare-vr-training/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Teadit expands gasket focus for data center infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-07-08T11:13:32+00:00",
+      "url": "https://www.engineering.com/teadit-expands-gasket-focus-for-data-center-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Parasail deploys d-Matrix accelerators for AI inference",
+      "category": "MECHANICAL",
+      "date": "2026-07-08T11:07:09+00:00",
+      "url": "https://www.engineering.com/parasail-deploys-d-matrix-accelerators-for-ai-inference/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mastercam completes acquisition of channel partner in India",
+      "category": "MECHANICAL",
+      "date": "2026-07-08T10:58:39+00:00",
+      "url": "https://www.engineering.com/mastercam-completes-acquisition-of-channel-partner-in-india/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Whatfix partners with PTC on PLM software adoption",
+      "category": "MECHANICAL",
+      "date": "2026-07-08T10:54:19+00:00",
+      "url": "https://www.engineering.com/whatfix-partners-with-ptc-on-plm-software-adoption/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Critical One Energy reports high-grade antimony at Howells Lake",
+      "category": "INDUSTRY",
+      "date": "2026-07-08T10:11:36+00:00",
+      "url": "https://www.mining-technology.com/news/critical-one-energy-antimony-howells-lake/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Energy transition investment trends: where’s the money flowing?",
+      "category": "INDUSTRY",
+      "date": "2026-07-08T09:57:52+00:00",
+      "url": "https://www.mining-technology.com/news/energy-transition-investment-trends-wheres-the-money-flowing/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Caterpillar acquires Skycatch to expand mining technology portfolio",
+      "category": "INDUSTRY",
+      "date": "2026-07-08T08:21:10+00:00",
+      "url": "https://www.mining-technology.com/news/caterpillar-acquires-skycatch-expand-mining-portfolio/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Weir to supply crushing circuit for Brightstar’s Goldfield project",
       "category": "INDUSTRY",
       "date": "2026-07-08T07:56:25+00:00",
@@ -35690,5 +35794,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-08T08:30:20.899762+00:00"
+  "last_updated_utc": "2026-07-08T14:12:20.592620+00:00"
 }
