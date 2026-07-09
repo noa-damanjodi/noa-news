@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Supermicro launches Kubernetes edge AI appliances",
+      "category": "MECHANICAL",
+      "date": "2026-07-09T09:34:20+00:00",
+      "url": "https://www.engineering.com/supermicro-launches-kubernetes-edge-ai-appliances/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Partron, Syntiant to develop on-sensor AI systems",
+      "category": "MECHANICAL",
+      "date": "2026-07-09T09:23:48+00:00",
+      "url": "https://www.engineering.com/partron-syntiant-to-develop-on-sensor-ai-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "BHP awards contract to Nerin for South Australia smelter project",
+      "category": "INDUSTRY",
+      "date": "2026-07-09T07:40:25+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-contract-nerin-south-australia-smelter-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Guardian Metal forms partnership for US tungsten mining pilot",
+      "category": "INDUSTRY",
+      "date": "2026-07-09T07:32:35+00:00",
+      "url": "https://www.mining-technology.com/news/guardian-metal-partnership-us-tungsten-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NTPC Green commissions 50.4 MW Vanki wind energy project in Gujarat",
+      "category": "POWER",
+      "date": "2026-07-09T06:11:36+00:00",
+      "url": "https://powerline.net.in/2026/07/09/ntpc-green-commissions-50-4-mw-vanki-wind-energy-project-in-gujarat/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "HCC and Konstelec Engineers form JV for nuclear infrastructure projects",
+      "category": "POWER",
+      "date": "2026-07-09T06:10:02+00:00",
+      "url": "https://powerline.net.in/2026/07/09/hcc-and-konstelec-engineers-form-jv-for-nuclear-infrastructure-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexa Climate signs 100 MW wind-solar hybrid PPA with CESC",
+      "category": "POWER",
+      "date": "2026-07-09T06:05:02+00:00",
+      "url": "https://powerline.net.in/2026/07/09/hexa-climate-signs-100-mw-wind-solar-hybrid-ppa-with-cesc/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Sunsure Energy secures Rs 2.62 billion financing for 75 MWp solar project in Tamil Nadu",
+      "category": "POWER",
+      "date": "2026-07-09T06:03:46+00:00",
+      "url": "https://powerline.net.in/2026/07/09/sunsure-energy-secures-rs-2-62-billion-financing-for-75-mwp-solar-project-in-tamil-nadu/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "China’s SGCC advances 1,000 kV UHVAC and ±800 kV UHVDC projects",
+      "category": "POWER",
+      "date": "2026-07-09T06:00:33+00:00",
+      "url": "https://powerline.net.in/2026/07/09/chinas-sgcc-advances-1000-kv-uhvac-and-%c2%b1800-kv-uhvdc-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EVNNPT energises Nho Quan–Phu Ly line section in Vietnam",
+      "category": "POWER",
+      "date": "2026-07-09T05:58:36+00:00",
+      "url": "https://powerline.net.in/2026/07/09/310879/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "New public tool grants customers access to utility reliability data",
       "category": "RENEWABLE",
       "date": "2026-07-08T20:23:23+00:00",
@@ -55,6 +135,22 @@
       "date": "2026-07-08T14:12:15+00:00",
       "url": "https://www.automationmag.com/cyber-resilience-act-readiness-guide-for-machine-builders-released-by-ei3/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Great Southern completes first RC drilling at Especularita project",
+      "category": "INDUSTRY",
+      "date": "2026-07-08T13:37:29+00:00",
+      "url": "https://www.mining-technology.com/news/great-southern-completes-first-drilling-especularita/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Teck and partners agree to boost output at Trail Operations",
+      "category": "INDUSTRY",
+      "date": "2026-07-08T13:13:33+00:00",
+      "url": "https://www.mining-technology.com/news/teck-partners-to-boost-output-trail-operations/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -35842,5 +35938,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-09T03:26:36.530313+00:00"
+  "last_updated_utc": "2026-07-09T09:41:24.256680+00:00"
 }

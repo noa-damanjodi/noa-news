@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "BHP awards contract to Nerin for South Australia smelter project",
+      "category": "INDUSTRY",
+      "date": "2026-07-09T07:40:25+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-contract-nerin-south-australia-smelter-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Guardian Metal forms partnership for US tungsten mining pilot",
+      "category": "INDUSTRY",
+      "date": "2026-07-09T07:32:35+00:00",
+      "url": "https://www.mining-technology.com/news/guardian-metal-partnership-us-tungsten-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Great Southern completes first RC drilling at Especularita project",
+      "category": "INDUSTRY",
+      "date": "2026-07-08T13:37:29+00:00",
+      "url": "https://www.mining-technology.com/news/great-southern-completes-first-drilling-especularita/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Teck and partners agree to boost output at Trail Operations",
+      "category": "INDUSTRY",
+      "date": "2026-07-08T13:13:33+00:00",
+      "url": "https://www.mining-technology.com/news/teck-partners-to-boost-output-trail-operations/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Critical One Energy reports high-grade antimony at Howells Lake",
       "category": "INDUSTRY",
       "date": "2026-07-08T10:11:36+00:00",
@@ -6258,5 +6290,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-09T03:26:36.530313+00:00"
+  "last_updated_utc": "2026-07-09T09:41:24.256680+00:00"
 }
