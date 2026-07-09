@@ -2,6 +2,14 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Are you using sunscreen properly?",
+      "category": "SAFETY",
+      "date": "2026-07-09T13:06:26+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/are-you-using-sunscreen-properly/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Deadline approaching: Apply for a Susan Harwood Training Grant",
       "category": "SAFETY",
       "date": "2026-07-08T16:46:37+00:00",
@@ -3290,5 +3298,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-09T09:41:24.256680+00:00"
+  "last_updated_utc": "2026-07-09T15:12:25.677750+00:00"
 }

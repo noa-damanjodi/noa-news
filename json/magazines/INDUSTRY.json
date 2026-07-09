@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Riverside, Questcorp complete geophysical surveys at La Union Project",
+      "category": "INDUSTRY",
+      "date": "2026-07-09T13:49:19+00:00",
+      "url": "https://www.mining-technology.com/news/riverside-questcorp-geophysical-surveys-la-union/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Arika commences mobilisation for drilling at WA gold projects",
+      "category": "INDUSTRY",
+      "date": "2026-07-09T12:25:08+00:00",
+      "url": "https://www.mining-technology.com/news/arika-mobilisation-drilling-wa-gold-projects/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Phase two drilling concludes at Fathom’s Gochager Lake project",
+      "category": "INDUSTRY",
+      "date": "2026-07-09T09:56:58+00:00",
+      "url": "https://www.mining-technology.com/news/phase-2-drilling-concludes-at-fathoms-gochager/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "BHP awards contract to Nerin for South Australia smelter project",
       "category": "INDUSTRY",
       "date": "2026-07-09T07:40:25+00:00",
@@ -6290,5 +6314,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-09T09:41:24.256680+00:00"
+  "last_updated_utc": "2026-07-09T15:12:25.677750+00:00"
 }
