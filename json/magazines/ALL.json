@@ -2,11 +2,131 @@
   "category": "ALL",
   "items": [
     {
+      "title": "FMCSA to study non-CDL drivers’ drug and alcohol violations",
+      "category": "SAFETY",
+      "date": "2026-07-10T13:11:07+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fmcsa-to-study-non-cdl-drivers-drug-and-alcohol-violations/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Qivurn expands global AI data center network",
+      "category": "MECHANICAL",
+      "date": "2026-07-10T13:07:05+00:00",
+      "url": "https://www.engineering.com/qivurn-expands-global-ai-data-center-network/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Prairie Lithium receives DLE unit in Saskatchewan",
+      "category": "INDUSTRY",
+      "date": "2026-07-10T12:44:29+00:00",
+      "url": "https://www.mining-technology.com/news/prairie-lithium-receives-dle-unit-saskatchewan/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB completes acquisition of Specialtrasfo",
+      "category": "MECHANICAL",
+      "date": "2026-07-10T12:42:25+00:00",
+      "url": "https://www.engineering.com/abb-completes-acquisition-of-specialtrasfo/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and FuelCell Energy plan fuel cell collaboration",
+      "category": "MECHANICAL",
+      "date": "2026-07-10T12:26:03+00:00",
+      "url": "https://www.engineering.com/siemens-and-fuelcell-energy-plan-fuel-cell-collaboration/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Flex and Cerebras expand CS-3 manufacturing in California",
+      "category": "MECHANICAL",
+      "date": "2026-07-10T12:03:58+00:00",
+      "url": "https://www.engineering.com/flex-and-cerebras-expand-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "EGA resumes alumina output at Al Taweelah refinery in Abu Dhabi",
+      "category": "INDUSTRY",
+      "date": "2026-07-10T11:44:00+00:00",
+      "url": "https://www.mining-technology.com/news/ega-resumes-alumina-output-al-taweelah/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight launches APS-ONE-400 cybersecurity test platform",
+      "category": "MECHANICAL",
+      "date": "2026-07-10T11:41:09+00:00",
+      "url": "https://www.engineering.com/keysight-launches-aps-one-400-cybersecurity-test-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Roland DG products win three 2026 Pinnacle Awards",
+      "category": "MECHANICAL",
+      "date": "2026-07-10T11:37:48+00:00",
+      "url": "https://www.engineering.com/roland-dg-products-win-three-2026-pinnacle-awards/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Protecting Critical Assets: Role of transformer testing and measurement in improving asset performance",
+      "category": "POWER",
+      "date": "2026-07-10T11:20:01+00:00",
+      "url": "https://powerline.net.in/2026/07/10/protecting-critical-assets-role-of-transformer-testing-and-measurement-in-improving-asset-performance/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hindustan Power: Meeting India’s rising power demand with integrated solutions",
+      "category": "POWER",
+      "date": "2026-07-10T11:19:53+00:00",
+      "url": "https://powerline.net.in/2026/07/10/hindustan-power-meeting-indias-rising-power-demand-with-integrated-solutions/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Kenorland completes initial drill programme at Western Wabigoon",
+      "category": "INDUSTRY",
+      "date": "2026-07-10T10:30:05+00:00",
+      "url": "https://www.mining-technology.com/news/kenorland-completes-initial-drill-western-wabigoon/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Smart Metering Progress: Growing role in managing the complex electricity system",
+      "category": "POWER",
+      "date": "2026-07-10T10:13:08+00:00",
+      "url": "https://powerline.net.in/2026/07/10/smart-metering-progress-growing-role-in-managing-the-complex-electricity-system/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Velo3D and Mears strengthen advanced manufacturing ties",
+      "category": "MECHANICAL",
+      "date": "2026-07-10T09:51:00+00:00",
+      "url": "https://www.engineering.com/velo3d-and-mears-strengthen-advanced-manufacturing-ties/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Digitalising Operations: AI’s potential to transform project execution and management",
       "category": "POWER",
       "date": "2026-07-10T09:08:14+00:00",
       "url": "https://powerline.net.in/2026/07/10/digitalising-operations-ais-potential-to-transform-project-execution-and-management/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Lattice named among America’s Best Companies 2026",
+      "category": "MECHANICAL",
+      "date": "2026-07-10T08:29:00+00:00",
+      "url": "https://www.engineering.com/lattice-named-among-americas-best-companies-2026/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
@@ -23,6 +143,14 @@
       "date": "2026-07-10T08:00:09+00:00",
       "url": "https://powerline.net.in/2026/07/10/sudhir-kumar-srivastav-director-commercial-and-director-technical-additional-charge-mpmkvvcl/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Cove Kaz Capital to start site work at Kazakhstan’s Severniy Katpar",
+      "category": "INDUSTRY",
+      "date": "2026-07-10T07:45:53+00:00",
+      "url": "https://www.mining-technology.com/news/cove-kaz-start-site-work-severniy-katpar/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -36114,5 +36242,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-10T09:37:22.922431+00:00"
+  "last_updated_utc": "2026-07-10T14:29:15.380064+00:00"
 }

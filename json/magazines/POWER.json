@@ -2,6 +2,30 @@
   "category": "POWER",
   "items": [
     {
+      "title": "Protecting Critical Assets: Role of transformer testing and measurement in improving asset performance",
+      "category": "POWER",
+      "date": "2026-07-10T11:20:01+00:00",
+      "url": "https://powerline.net.in/2026/07/10/protecting-critical-assets-role-of-transformer-testing-and-measurement-in-improving-asset-performance/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hindustan Power: Meeting India’s rising power demand with integrated solutions",
+      "category": "POWER",
+      "date": "2026-07-10T11:19:53+00:00",
+      "url": "https://powerline.net.in/2026/07/10/hindustan-power-meeting-indias-rising-power-demand-with-integrated-solutions/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Smart Metering Progress: Growing role in managing the complex electricity system",
+      "category": "POWER",
+      "date": "2026-07-10T10:13:08+00:00",
+      "url": "https://powerline.net.in/2026/07/10/smart-metering-progress-growing-role-in-managing-the-complex-electricity-system/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Digitalising Operations: AI’s potential to transform project execution and management",
       "category": "POWER",
       "date": "2026-07-10T09:08:14+00:00",
@@ -9250,5 +9274,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-10T09:37:22.922431+00:00"
+  "last_updated_utc": "2026-07-10T14:29:15.380064+00:00"
 }
