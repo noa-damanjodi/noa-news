@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Sunrun makes first leap into distributed edge computing with AI compute pilot program",
+      "category": "RENEWABLE",
+      "date": "2026-07-09T20:28:18+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/sunrun-makes-first-leap-into-distributed-edge-computing-with-ai-compute-pilot-program/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "POWERGEN 2027 announces keynote lineup spanning supply chain strategy, grid security and reliability",
+      "category": "RENEWABLE",
+      "date": "2026-07-09T18:46:46+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/powergen-2027-announces-keynote-lineup-spanning-supply-chain-strategy-grid-security-and-reliability/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "New public tool grants customers access to utility reliability data",
       "category": "RENEWABLE",
       "date": "2026-07-08T20:23:23+00:00",
@@ -2762,5 +2778,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-09T19:47:58.701010+00:00"
+  "last_updated_utc": "2026-07-10T03:28:59.240106+00:00"
 }
