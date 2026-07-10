@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Tocvan to acquire 49% stake in Pilar mining concessions",
+      "category": "INDUSTRY",
+      "date": "2026-07-10T07:25:48+00:00",
+      "url": "https://www.mining-technology.com/news/tocvan-to-acquire-49-pilar-concessions/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Riverside, Questcorp complete geophysical surveys at La Union Project",
       "category": "INDUSTRY",
       "date": "2026-07-09T13:49:19+00:00",
@@ -6314,5 +6322,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-10T03:28:59.240106+00:00"
+  "last_updated_utc": "2026-07-10T09:37:22.922431+00:00"
 }
