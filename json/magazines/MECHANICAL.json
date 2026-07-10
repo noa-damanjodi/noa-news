@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Majors Launch New Products and Platforms at Automate 2026",
+      "category": "MECHANICAL",
+      "date": "2026-07-10T15:37:01+00:00",
+      "url": "https://www.engineering.com/majors-launch-new-products-and-platforms-at-automate-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Qivurn expands global AI data center network",
       "category": "MECHANICAL",
       "date": "2026-07-10T13:07:05+00:00",
@@ -9874,5 +9882,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-10T14:29:15.380064+00:00"
+  "last_updated_utc": "2026-07-10T19:34:40.493254+00:00"
 }

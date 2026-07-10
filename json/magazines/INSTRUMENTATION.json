@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Meta to build $13B data centre north of Edmonton, its first in Canada",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-10T14:57:07+00:00",
+      "url": "https://www.automationmag.com/meta-to-build-13b-data-centre-north-of-edmonton-its-first-in-canada/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Yaskawa America, Inc. achieves ISO 27001 certification",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-10T14:48:42+00:00",
+      "url": "https://www.automationmag.com/yaskawa-america-inc-achieves-iso-27001-certification/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "ABB Robotics completes AI-powered Visual SLAM AMR portfolio with new autonomous forklift",
       "category": "INSTRUMENTATION",
       "date": "2026-07-08T15:52:11+00:00",
@@ -2242,5 +2258,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-10T14:29:15.380064+00:00"
+  "last_updated_utc": "2026-07-10T19:34:40.493254+00:00"
 }

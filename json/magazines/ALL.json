@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "In development: guidelines for recognizing, treating brain injuries among first responders",
+      "category": "SAFETY",
+      "date": "2026-07-10T19:10:44+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/in-development-guidelines-for-recognizing-treating-brain-injuries-among-first-responders/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Safety group offers strategy for managing worker fatigue",
+      "category": "SAFETY",
+      "date": "2026-07-10T18:46:59+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safety-group-offers-strategy-for-managing-worker-fatigue/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Majors Launch New Products and Platforms at Automate 2026",
+      "category": "MECHANICAL",
+      "date": "2026-07-10T15:37:01+00:00",
+      "url": "https://www.engineering.com/majors-launch-new-products-and-platforms-at-automate-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "As IRA subsidies wind down, clean energy PPA prices ‘soar’  – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-07-10T15:06:45+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/as-ira-subsidies-wind-down-clean-energy-ppa-prices-soar-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Meta to build $13B data centre north of Edmonton, its first in Canada",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-10T14:57:07+00:00",
+      "url": "https://www.automationmag.com/meta-to-build-13b-data-centre-north-of-edmonton-its-first-in-canada/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Yaskawa America, Inc. achieves ISO 27001 certification",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-10T14:48:42+00:00",
+      "url": "https://www.automationmag.com/yaskawa-america-inc-achieves-iso-27001-certification/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "FMCSA to study non-CDL drivers’ drug and alcohol violations",
       "category": "SAFETY",
       "date": "2026-07-10T13:11:07+00:00",
@@ -36242,5 +36290,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-10T14:29:15.380064+00:00"
+  "last_updated_utc": "2026-07-10T19:34:40.493254+00:00"
 }
