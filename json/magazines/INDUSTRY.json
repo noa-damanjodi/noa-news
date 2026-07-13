@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Vault Strategic plans UAV magnetic survey at Nevada tungsten site",
+      "category": "INDUSTRY",
+      "date": "2026-07-13T07:23:14+00:00",
+      "url": "https://www.mining-technology.com/news/vault-strategic-uav-magnetic-survey-nevada-tungsten/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ReElement withdraws from $80m Pentagon loan process",
+      "category": "INDUSTRY",
+      "date": "2026-07-13T07:14:14+00:00",
+      "url": "https://www.mining-technology.com/news/reelement-withdraws-80m-pentagon-loan/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Prairie Lithium receives DLE unit in Saskatchewan",
       "category": "INDUSTRY",
       "date": "2026-07-10T12:44:29+00:00",
@@ -6354,5 +6370,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-13T02:54:59.810407+00:00"
+  "last_updated_utc": "2026-07-13T09:29:28.152951+00:00"
 }
