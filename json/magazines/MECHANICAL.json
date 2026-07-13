@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "CoreTech announces DesignSim for DFM validation in Siemens NX",
+      "category": "MECHANICAL",
+      "date": "2026-07-13T14:35:54+00:00",
+      "url": "https://www.engineering.com/coretech-announces-designsim-for-dfm-validation-in-siemens-nx/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Engineering.com’s parent company, WTWH Media, rebrands as Arrowfly",
       "category": "MECHANICAL",
       "date": "2026-07-13T14:09:56+00:00",
@@ -9922,5 +9930,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-13T14:36:35.973418+00:00"
+  "last_updated_utc": "2026-07-13T19:24:19.403735+00:00"
 }
