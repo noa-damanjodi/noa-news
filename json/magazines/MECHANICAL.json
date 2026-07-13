@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Engineering.com’s parent company, WTWH Media, rebrands as Arrowfly",
+      "category": "MECHANICAL",
+      "date": "2026-07-13T14:09:56+00:00",
+      "url": "https://www.engineering.com/engineering-coms-parent-company-wtwh-media-rebrands-as-arrowfly/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MDT TMR1228D magnetic switch supports always-on sensing",
+      "category": "MECHANICAL",
+      "date": "2026-07-13T12:51:38+00:00",
+      "url": "https://www.engineering.com/mdt-tmr1228d-magnetic-switch-supports-always-on-sensing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "OptiTrack equips CMU robotics labs with motion capture",
+      "category": "MECHANICAL",
+      "date": "2026-07-13T10:11:33+00:00",
+      "url": "https://www.engineering.com/optitrack-equips-cmu-robotics-labs-with-motion-capture/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "CoLab 4.0 adds AI tools for engineering reviews",
+      "category": "MECHANICAL",
+      "date": "2026-07-13T10:02:49+00:00",
+      "url": "https://www.engineering.com/colab-4-0-adds-ai-tools-for-engineering-reviews/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Yaskawa earns 2025 customer experience award",
+      "category": "MECHANICAL",
+      "date": "2026-07-13T09:53:53+00:00",
+      "url": "https://www.engineering.com/yaskawa-earns-2025-customer-experience-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Majors Launch New Products and Platforms at Automate 2026",
       "category": "MECHANICAL",
       "date": "2026-07-10T15:37:01+00:00",
@@ -9882,5 +9922,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-13T09:29:28.152951+00:00"
+  "last_updated_utc": "2026-07-13T14:36:35.973418+00:00"
 }

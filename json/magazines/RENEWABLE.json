@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "You take it for granted | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-07-13T09:58:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/you-take-it-for-granted-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "As IRA subsidies wind down, clean energy PPA prices ‘soar’ – This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-07-10T15:06:45+00:00",
@@ -2786,5 +2794,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-13T09:29:28.152951+00:00"
+  "last_updated_utc": "2026-07-13T14:36:35.973418+00:00"
 }

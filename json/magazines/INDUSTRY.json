@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Toubani secures $208m in funding for Kobada Gold Mine development",
+      "category": "INDUSTRY",
+      "date": "2026-07-13T12:37:43+00:00",
+      "url": "https://www.mining-technology.com/news/toubani-208m-kobada-gold-mine-development/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Copper One announces high-grade copper from Majuba Hill project",
+      "category": "INDUSTRY",
+      "date": "2026-07-13T10:07:50+00:00",
+      "url": "https://www.mining-technology.com/news/copper-one-high-grade-copper-majuba-hill/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Vault Strategic plans UAV magnetic survey at Nevada tungsten site",
       "category": "INDUSTRY",
       "date": "2026-07-13T07:23:14+00:00",
@@ -6370,5 +6386,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-13T09:29:28.152951+00:00"
+  "last_updated_utc": "2026-07-13T14:36:35.973418+00:00"
 }
