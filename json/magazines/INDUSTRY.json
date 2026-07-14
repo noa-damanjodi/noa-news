@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Canadian Manganese and partners sign agreement for NACMA",
+      "category": "INDUSTRY",
+      "date": "2026-07-14T10:13:02+00:00",
+      "url": "https://www.mining-technology.com/news/canadian-manganese-partners-sign-agreement-nacma/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "De Beers to pause Venetia mine production for two years",
+      "category": "INDUSTRY",
+      "date": "2026-07-14T07:28:01+00:00",
+      "url": "https://www.mining-technology.com/news/de-beers-to-pause-venetia-mine-two-years/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "American Pacific Mining adds second rig at Madison site",
       "category": "INDUSTRY",
       "date": "2026-07-14T07:06:54+00:00",
@@ -6402,5 +6418,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-14T08:07:21.623178+00:00"
+  "last_updated_utc": "2026-07-14T13:46:27.363268+00:00"
 }

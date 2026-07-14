@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "TENADO launches metal-focused 3D CAD software in U.S.",
+      "category": "MECHANICAL",
+      "date": "2026-07-14T12:40:39+00:00",
+      "url": "https://www.engineering.com/tenado-launches-metal-focused-3d-cad-software-in-u-s/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ENGYS partners with RBF Morph on simulation workflows",
+      "category": "MECHANICAL",
+      "date": "2026-07-14T12:18:53+00:00",
+      "url": "https://www.engineering.com/engys-partners-with-rbf-morph-on-simulation-workflows-2/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aras adds PLM accelerator for semiconductor workflows",
+      "category": "MECHANICAL",
+      "date": "2026-07-14T11:38:45+00:00",
+      "url": "https://www.engineering.com/aras-adds-plm-accelerator-for-semiconductor-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Infortrend expands edge computing portfolio for AI workloads",
+      "category": "MECHANICAL",
+      "date": "2026-07-14T11:35:00+00:00",
+      "url": "https://www.engineering.com/infortrend-expands-edge-computing-portfolio-for-ai-workloads/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Partners explore quantum computing for turbine design",
+      "category": "MECHANICAL",
+      "date": "2026-07-14T10:53:00+00:00",
+      "url": "https://www.engineering.com/partners-explore-quantum-computing-for-turbine-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Collins opens U.K. center for electric actuation systems",
+      "category": "MECHANICAL",
+      "date": "2026-07-14T10:47:00+00:00",
+      "url": "https://www.engineering.com/collins-opens-u-k-center-for-electric-actuation-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Honeywell and Enigma sign MoU for Phoenix UAS",
+      "category": "MECHANICAL",
+      "date": "2026-07-14T10:39:00+00:00",
+      "url": "https://www.engineering.com/honeywell-and-enigma-sign-mou-for-phoenix-uas/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Key to Humanoid Progress: Managing the Power Behind the Robots",
       "category": "MECHANICAL",
       "date": "2026-07-13T19:43:49+00:00",
@@ -9938,5 +9994,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-14T08:07:21.623178+00:00"
+  "last_updated_utc": "2026-07-14T13:46:27.363268+00:00"
 }
