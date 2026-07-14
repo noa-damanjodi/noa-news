@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Pennsylvania lawmakers lead push for heat illness protection bill",
+      "category": "SAFETY",
+      "date": "2026-07-14T18:51:01+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/pennsylvania-lawmakers-lead-push-for-heat-illness-protection-bill/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Most Canadian manufacturers remain in early stages of digital transformation: ICTC report",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-14T18:34:19+00:00",
+      "url": "https://www.automationmag.com/most-canadian-manufacturers-remain-in-early-stages-of-digital-transformation-ictc-report/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Four decades of insight",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-14T18:23:04+00:00",
+      "url": "https://www.automationmag.com/four-decades-of-insight/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Würth Additive Group shutters operations",
+      "category": "MECHANICAL",
+      "date": "2026-07-14T18:17:40+00:00",
+      "url": "https://www.engineering.com/wurth-additive-group-shutters-operations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Genesis and Vault Minerals sign $8.7bn merger agreement",
+      "category": "INDUSTRY",
+      "date": "2026-07-14T13:59:55+00:00",
+      "url": "https://www.mining-technology.com/news/genesis-vault-minerals-8-7bn-merger-agreement/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Nova Minerals completes engineering for Estelle antimony pilot plant",
+      "category": "INDUSTRY",
+      "date": "2026-07-14T13:30:33+00:00",
+      "url": "https://www.mining-technology.com/news/nova-minerals-engineering-estelle-antimony-plant/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "TENADO launches metal-focused 3D CAD software in U.S.",
       "category": "MECHANICAL",
       "date": "2026-07-14T12:40:39+00:00",
@@ -36658,5 +36706,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-14T13:46:27.363268+00:00"
+  "last_updated_utc": "2026-07-14T19:21:25.157456+00:00"
 }

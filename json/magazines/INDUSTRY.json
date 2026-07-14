@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Genesis and Vault Minerals sign $8.7bn merger agreement",
+      "category": "INDUSTRY",
+      "date": "2026-07-14T13:59:55+00:00",
+      "url": "https://www.mining-technology.com/news/genesis-vault-minerals-8-7bn-merger-agreement/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Nova Minerals completes engineering for Estelle antimony pilot plant",
+      "category": "INDUSTRY",
+      "date": "2026-07-14T13:30:33+00:00",
+      "url": "https://www.mining-technology.com/news/nova-minerals-engineering-estelle-antimony-plant/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Canadian Manganese and partners sign agreement for NACMA",
       "category": "INDUSTRY",
       "date": "2026-07-14T10:13:02+00:00",
@@ -6418,5 +6434,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-14T13:46:27.363268+00:00"
+  "last_updated_utc": "2026-07-14T19:21:25.157456+00:00"
 }
