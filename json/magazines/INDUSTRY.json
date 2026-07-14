@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "American Pacific Mining adds second rig at Madison site",
+      "category": "INDUSTRY",
+      "date": "2026-07-14T07:06:54+00:00",
+      "url": "https://www.mining-technology.com/news/american-pacific-second-rig-madison/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Arrow Minerals completes gravity survey at Yarraloola copper site",
+      "category": "INDUSTRY",
+      "date": "2026-07-13T13:22:00+00:00",
+      "url": "https://www.mining-technology.com/news/arrow-minerals-gravity-survey-yarraloola-site/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Toubani secures $208m in funding for Kobada Gold Mine development",
       "category": "INDUSTRY",
       "date": "2026-07-13T12:37:43+00:00",
@@ -6386,5 +6402,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-14T02:35:50.328387+00:00"
+  "last_updated_utc": "2026-07-14T08:07:21.623178+00:00"
 }

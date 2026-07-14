@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "American Pacific Mining adds second rig at Madison site",
+      "category": "INDUSTRY",
+      "date": "2026-07-14T07:06:54+00:00",
+      "url": "https://www.mining-technology.com/news/american-pacific-second-rig-madison/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "CEA issues Draft CEA (Technical Standards for Connectivity to the Grid) Regulations, 2026",
+      "category": "POWER",
+      "date": "2026-07-14T05:53:41+00:00",
+      "url": "https://powerline.net.in/2026/07/14/cea-issues-draft-cea-technical-standards-for-connectivity-to-the-grid-regulations-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "POWERGRID secures LoI for Krishnagiri REZ transmission system under TBCB",
+      "category": "POWER",
+      "date": "2026-07-14T05:51:24+00:00",
+      "url": "https://powerline.net.in/2026/07/14/powergrid-secures-loi-for-krishnagiri-rez-transmission-system-under-tbcb/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NTPC board clears Rs 204.57 billion investment for Lara STPP Stage III",
+      "category": "POWER",
+      "date": "2026-07-14T05:50:15+00:00",
+      "url": "https://powerline.net.in/2026/07/14/ntpc-board-clears-rs-204-57-billion-investment-for-lara-stpp-stage-iii/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "GUVNL announces winners of 250 MW wind auction",
+      "category": "POWER",
+      "date": "2026-07-14T05:49:03+00:00",
+      "url": "https://powerline.net.in/2026/07/14/guvnl-announces-winners-of-250-mw-wind-auction/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "REC signs Rs 150 billion agreements for power and renewable projects in Tripura",
+      "category": "POWER",
+      "date": "2026-07-14T05:47:59+00:00",
+      "url": "https://powerline.net.in/2026/07/14/rec-signs-rs-150-billion-agreements-for-power-and-renewable-projects-in-tripura/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Rajasthan signs clean energy framework with International Solar Alliance",
+      "category": "POWER",
+      "date": "2026-07-14T05:46:06+00:00",
+      "url": "https://powerline.net.in/2026/07/14/rajasthan-signs-clean-energy-framework-with-international-solar-alliance/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "JSW Energy arm bags Rs 4.4 billion BESS order from Bondada Engineering",
+      "category": "POWER",
+      "date": "2026-07-14T05:44:46+00:00",
+      "url": "https://powerline.net.in/2026/07/14/jsw-energy-arm-bags-rs-4-4-billion-bess-order-from-bondada-engineering/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Indonesia and Singapore advance cross-border electricity project",
+      "category": "POWER",
+      "date": "2026-07-14T05:42:35+00:00",
+      "url": "https://powerline.net.in/2026/07/14/indonesia-and-singapore-advance-cross-border-electricity-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Thailand approves USD1.99 billion in AI, data centre and clean energy investments",
+      "category": "POWER",
+      "date": "2026-07-14T05:41:27+00:00",
+      "url": "https://powerline.net.in/2026/07/14/thailand-approves-usd1-99-billion-in-ai-data-centre-and-clean-energy-investments/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Could hydropower credits undermine New York City’s climate law?",
       "category": "RENEWABLE",
       "date": "2026-07-13T19:52:31+00:00",
@@ -79,6 +159,14 @@
       "date": "2026-07-13T14:09:56+00:00",
       "url": "https://www.engineering.com/engineering-coms-parent-company-wtwh-media-rebrands-as-arrowfly/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Arrow Minerals completes gravity survey at Yarraloola copper site",
+      "category": "INDUSTRY",
+      "date": "2026-07-13T13:22:00+00:00",
+      "url": "https://www.mining-technology.com/news/arrow-minerals-gravity-survey-yarraloola-site/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -36498,5 +36586,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-14T02:35:50.328387+00:00"
+  "last_updated_utc": "2026-07-14T08:07:21.623178+00:00"
 }
