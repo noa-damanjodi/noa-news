@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Could hydropower credits undermine New York City’s climate law?",
+      "category": "RENEWABLE",
+      "date": "2026-07-13T19:52:31+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/could-hydropower-credits-undermine-new-york-citys-climate-law/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Key to Humanoid Progress: Managing the Power Behind the Robots",
+      "category": "MECHANICAL",
+      "date": "2026-07-13T19:43:49+00:00",
+      "url": "https://www.engineering.com/key-to-humanoid-progress-managing-the-power-behind-the-robots/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Watchdog group to California governor: Don’t cut Cal/OSHA’s budget",
       "category": "SAFETY",
       "date": "2026-07-13T19:08:14+00:00",
@@ -10,7 +26,15 @@
       "type": "magazine"
     },
     {
-      "title": "Employee well-being declines as financial stress rises, survey finds",
+      "title": "Aker Solutions wins contract for Norwegian hydropower plant",
+      "category": "RENEWABLE",
+      "date": "2026-07-13T19:07:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/aker-solutions-wins-contract-for-norwegian-hydropower-plant/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Worker well-being declines as financial stress rises, survey finds",
       "category": "SAFETY",
       "date": "2026-07-13T19:00:09+00:00",
       "url": "https://www.safetyandhealthmagazine.com/employee-well-being-declines-as-financial-stress-rises-survey-finds/",
@@ -31,6 +55,14 @@
       "date": "2026-07-13T17:49:05+00:00",
       "url": "https://www.automationmag.com/copley-controls-introduces-compact-module-drives-and-custom-integrated-motor-drive-assemblies/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Drax invests £2m to preserve iconic Tongland hydro plant",
+      "category": "RENEWABLE",
+      "date": "2026-07-13T16:27:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/dams-civil-structures/drax-invests-2m-to-preserve-iconic-tongland-hydro-plant/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -36466,5 +36498,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-13T19:24:19.403735+00:00"
+  "last_updated_utc": "2026-07-14T02:35:50.328387+00:00"
 }
