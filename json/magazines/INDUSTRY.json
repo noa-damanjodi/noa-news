@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "RPX Gold advances Wawa project with additional drilling",
+      "category": "INDUSTRY",
+      "date": "2026-07-15T10:06:42+00:00",
+      "url": "https://www.mining-technology.com/news/rpx-gold-wawa-project-drilling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Phase two drilling concludes at Mink Ventures’ Warren property",
+      "category": "INDUSTRY",
+      "date": "2026-07-15T07:34:06+00:00",
+      "url": "https://www.mining-technology.com/news/drilling-mink-ventures-warren-property/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Macmahon secures $247m contract for Mt Marion lithium project",
       "category": "INDUSTRY",
       "date": "2026-07-15T07:00:41+00:00",
@@ -6442,5 +6458,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-15T08:12:20.936845+00:00"
+  "last_updated_utc": "2026-07-15T13:45:35.557587+00:00"
 }

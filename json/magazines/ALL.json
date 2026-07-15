@@ -2,11 +2,75 @@
   "category": "ALL",
   "items": [
     {
+      "title": "PTC adds early-access AI program to Onshape",
+      "category": "MECHANICAL",
+      "date": "2026-07-15T10:34:05+00:00",
+      "url": "https://www.engineering.com/ptc-adds-early-access-ai-program-to-onshape/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB invests in Gridcog for energy modeling software",
+      "category": "MECHANICAL",
+      "date": "2026-07-15T10:26:59+00:00",
+      "url": "https://www.engineering.com/abb-invests-in-gridcog-for-energy-modeling-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Renishaw to introduce RUP60 ultrasonic probe",
+      "category": "MECHANICAL",
+      "date": "2026-07-15T10:13:16+00:00",
+      "url": "https://www.engineering.com/renishaw-to-introduce-rup60-ultrasonic-probe/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "RPX Gold advances Wawa project with additional drilling",
+      "category": "INDUSTRY",
+      "date": "2026-07-15T10:06:42+00:00",
+      "url": "https://www.mining-technology.com/news/rpx-gold-wawa-project-drilling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon expands TORO HP CMM availability",
+      "category": "MECHANICAL",
+      "date": "2026-07-15T09:35:47+00:00",
+      "url": "https://www.engineering.com/hexagon-expands-toro-hp-cmm-availability/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Arteris and Arm expand processor security partnership",
+      "category": "MECHANICAL",
+      "date": "2026-07-15T09:19:09+00:00",
+      "url": "https://www.engineering.com/arteris-and-arm-expand-processor-security-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ETCO adds vibration-resistant connectors and terminals",
+      "category": "MECHANICAL",
+      "date": "2026-07-15T08:40:56+00:00",
+      "url": "https://www.engineering.com/etco-adds-vibration-resistant-connectors-and-terminals/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "VisualLogix acquires refyne Group for software portfolio",
       "category": "MECHANICAL",
       "date": "2026-07-15T07:41:21+00:00",
       "url": "https://www.engineering.com/visuallogix-acquires-refyne-group-for-software-portfolio/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Phase two drilling concludes at Mink Ventures’ Warren property",
+      "category": "INDUSTRY",
+      "date": "2026-07-15T07:34:06+00:00",
+      "url": "https://www.mining-technology.com/news/drilling-mink-ventures-warren-property/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -36818,5 +36882,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-15T08:12:20.936845+00:00"
+  "last_updated_utc": "2026-07-15T13:45:35.557587+00:00"
 }
