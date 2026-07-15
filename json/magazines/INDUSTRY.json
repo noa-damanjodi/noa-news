@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Macmahon secures $247m contract for Mt Marion lithium project",
+      "category": "INDUSTRY",
+      "date": "2026-07-15T07:00:41+00:00",
+      "url": "https://www.mining-technology.com/news/macmahon-mt-marion-lithium-site/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Genesis and Vault Minerals sign $8.7bn merger agreement",
       "category": "INDUSTRY",
       "date": "2026-07-14T13:59:55+00:00",
@@ -6434,5 +6442,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-15T02:34:14.908910+00:00"
+  "last_updated_utc": "2026-07-15T08:12:20.936845+00:00"
 }

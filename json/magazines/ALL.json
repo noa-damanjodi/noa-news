@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "VisualLogix acquires refyne Group for software portfolio",
+      "category": "MECHANICAL",
+      "date": "2026-07-15T07:41:21+00:00",
+      "url": "https://www.engineering.com/visuallogix-acquires-refyne-group-for-software-portfolio/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Toshiba expands quad-channel digital isolator series",
+      "category": "MECHANICAL",
+      "date": "2026-07-15T07:32:06+00:00",
+      "url": "https://www.engineering.com/toshiba-expands-quad-channel-digital-isolator-series/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MDT introduces high-frequency magnetic field probe",
+      "category": "MECHANICAL",
+      "date": "2026-07-15T07:22:03+00:00",
+      "url": "https://www.engineering.com/mdt-introduces-high-frequency-magnetic-field-probe/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Esri releases ArcGIS Velocity for self-hosted use",
+      "category": "MECHANICAL",
+      "date": "2026-07-15T07:17:51+00:00",
+      "url": "https://www.engineering.com/esri-releases-arcgis-velocity-for-self-hosted-use/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Macmahon secures $247m contract for Mt Marion lithium project",
+      "category": "INDUSTRY",
+      "date": "2026-07-15T07:00:41+00:00",
+      "url": "https://www.mining-technology.com/news/macmahon-mt-marion-lithium-site/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NHPC and TSECL sign PPA for 1,720 MW Kamala hydro project",
+      "category": "POWER",
+      "date": "2026-07-15T05:58:47+00:00",
+      "url": "https://powerline.net.in/2026/07/15/nhpc-and-tsecl-sign-ppa-for-1720-mw-kamala-hydro-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Assam earmarks Rs 773.53 billion for power sector in draft Budget 2026-27",
+      "category": "POWER",
+      "date": "2026-07-15T05:57:47+00:00",
+      "url": "https://powerline.net.in/2026/07/15/assam-earmarks-rs-773-53-billion-for-power-sector-in-draft-budget-2026-27/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ReNew and Mitsui secure US$730 million green loan to refinance 320 MW RTC hybrid project",
+      "category": "POWER",
+      "date": "2026-07-15T05:56:44+00:00",
+      "url": "https://powerline.net.in/2026/07/15/renew-and-mitsui-secure-us730-million-green-loan-to-refinance-320-mw-rtc-hybrid-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Aditya Birla acquires Sprng Energy for Rs 172 billion",
+      "category": "POWER",
+      "date": "2026-07-15T05:55:51+00:00",
+      "url": "https://powerline.net.in/2026/07/15/aditya-birla-acquires-sprng-energy-for-rs-172-billion/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Pace Digitek arm signs three MoUs for BESS supply",
+      "category": "POWER",
+      "date": "2026-07-15T05:54:47+00:00",
+      "url": "https://powerline.net.in/2026/07/15/pace-digitek-arm-signs-three-mous-for-bess-supply/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Sungrow commissions 100 MW/400 MWh Santong BESS in Malaysia",
+      "category": "POWER",
+      "date": "2026-07-15T05:53:33+00:00",
+      "url": "https://powerline.net.in/2026/07/15/sungrow-commissions-100-mw-400-mwh-santong-bess-in-malaysia/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Berde Renewables to deploy 200 MW solar and 500 MWh battery storage across the Philippines and Thailand",
+      "category": "POWER",
+      "date": "2026-07-15T05:52:37+00:00",
+      "url": "https://powerline.net.in/2026/07/15/berde-renewables-to-deploy-200-mw-solar-and-500-mwh-battery-storage-across-the-philippines-and-thailand/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Presence of impairing drugs among fatally injured pilots on the rise, NTSB finds",
       "category": "SAFETY",
       "date": "2026-07-14T19:30:20+00:00",
@@ -36722,5 +36818,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-15T02:34:14.908910+00:00"
+  "last_updated_utc": "2026-07-15T08:12:20.936845+00:00"
 }
