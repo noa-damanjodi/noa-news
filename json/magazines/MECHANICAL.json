@@ -2,6 +2,70 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Siemens expands Saskatoon R&D hub for EDA work",
+      "category": "MECHANICAL",
+      "date": "2026-07-16T12:48:52+00:00",
+      "url": "https://www.engineering.com/siemens-expands-saskatoon-rd-hub-for-eda-work/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rambam, EOS and PTC plan digital implant center",
+      "category": "MECHANICAL",
+      "date": "2026-07-16T12:25:18+00:00",
+      "url": "https://www.engineering.com/rambam-eos-and-ptc-plan-digital-implant-center/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA supports AI development in Japan with Nemotron",
+      "category": "MECHANICAL",
+      "date": "2026-07-16T12:17:57+00:00",
+      "url": "https://www.engineering.com/nvidia-supports-ai-development-in-japan-with-nemotron/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence introduces AuraStack AI Super Agent",
+      "category": "MECHANICAL",
+      "date": "2026-07-16T11:12:00+00:00",
+      "url": "https://www.engineering.com/cadence-introduces-aurastack-ai-super-agent/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "FEATool Multiphysics update improves CFD workflows",
+      "category": "MECHANICAL",
+      "date": "2026-07-16T11:09:10+00:00",
+      "url": "https://www.engineering.com/featool-multiphysics-update-improves-cfd-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro expands rear door heat exchanger portfolio",
+      "category": "MECHANICAL",
+      "date": "2026-07-16T10:50:29+00:00",
+      "url": "https://www.engineering.com/supermicro-expands-rear-door-heat-exchanger-portfolio/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "3M and Microsoft partner on AI data center infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-07-16T10:41:32+00:00",
+      "url": "https://www.engineering.com/3m-and-microsoft-partner-on-ai-data-center-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MathWorks adds tools for agent-driven MATLAB workflows",
+      "category": "MECHANICAL",
+      "date": "2026-07-16T10:34:47+00:00",
+      "url": "https://www.engineering.com/mathworks-adds-tools-for-agent-driven-matlab-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Industrial Automation Accelerates with Increased Capital Spending",
       "category": "MECHANICAL",
       "date": "2026-07-15T16:00:00+00:00",
@@ -10090,5 +10154,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-16T08:15:46.476371+00:00"
+  "last_updated_utc": "2026-07-16T13:54:23.185942+00:00"
 }
