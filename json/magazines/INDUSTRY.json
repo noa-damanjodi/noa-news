@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "BHP approves $900m for Pilbara’s Ministers North iron ore site",
+      "category": "INDUSTRY",
+      "date": "2026-07-16T13:45:32+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-900m-ministers-north-iron-ore/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Hi-View begins exploration campaign in BC’s Toodoggone area",
+      "category": "INDUSTRY",
+      "date": "2026-07-16T13:37:36+00:00",
+      "url": "https://www.mining-technology.com/news/hi-view-begins-2026-exploration-toodoggone/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "First Quantum considers sale of stake in Argentina’s Taca Taca project",
       "category": "INDUSTRY",
       "date": "2026-07-16T09:47:44+00:00",
@@ -6514,5 +6530,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-16T13:54:23.185942+00:00"
+  "last_updated_utc": "2026-07-16T19:12:58.005231+00:00"
 }

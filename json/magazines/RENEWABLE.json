@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Relief from energy bills unlikely as utilities request billions in rate hikes",
+      "category": "RENEWABLE",
+      "date": "2026-07-16T17:45:59+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/relief-from-energy-bills-unlikely-as-utilities-request-billions-in-rate-hikes/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "New coalitions building regional energy workforce pipelines",
+      "category": "RENEWABLE",
+      "date": "2026-07-16T15:42:06+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-coalitions-building-regional-energy-workforce-pipelines/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Case study: Field data collection to real-time scorecard | How utilities can manage billion-dollar capital programs at scale",
+      "category": "RENEWABLE",
+      "date": "2026-07-16T13:32:23+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/case-study-field-data-collection-to-real-time-scorecard-how-utilities-can-manage-billion-dollar-capital-programs-at-scale/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Beyond the Big Beautiful Bill: Building and financing clean energy after a critical tax credit deadline | Factor This Policycast",
       "category": "RENEWABLE",
       "date": "2026-07-16T10:00:00+00:00",
@@ -2842,5 +2866,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-16T13:54:23.185942+00:00"
+  "last_updated_utc": "2026-07-16T19:12:58.005231+00:00"
 }

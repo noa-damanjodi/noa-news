@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "In conversation with AMUG’s new president",
+      "category": "MECHANICAL",
+      "date": "2026-07-16T18:59:43+00:00",
+      "url": "https://www.engineering.com/in-conversation-with-amugs-new-president/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Relief from energy bills unlikely as utilities request billions in rate hikes",
+      "category": "RENEWABLE",
+      "date": "2026-07-16T17:45:59+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/relief-from-energy-bills-unlikely-as-utilities-request-billions-in-rate-hikes/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Walk toward a better mood (and less fatigue)",
+      "category": "SAFETY",
+      "date": "2026-07-16T17:30:29+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/walk-toward-a-better-mood-and-less-fatigue/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New coalitions building regional energy workforce pipelines",
+      "category": "RENEWABLE",
+      "date": "2026-07-16T15:42:06+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-coalitions-building-regional-energy-workforce-pipelines/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "BHP approves $900m for Pilbara’s Ministers North iron ore site",
+      "category": "INDUSTRY",
+      "date": "2026-07-16T13:45:32+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-900m-ministers-north-iron-ore/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Hi-View begins exploration campaign in BC’s Toodoggone area",
+      "category": "INDUSTRY",
+      "date": "2026-07-16T13:37:36+00:00",
+      "url": "https://www.mining-technology.com/news/hi-view-begins-2026-exploration-toodoggone/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Case study: Field data collection to real-time scorecard | How utilities can manage billion-dollar capital programs at scale",
+      "category": "RENEWABLE",
+      "date": "2026-07-16T13:32:23+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/case-study-field-data-collection-to-real-time-scorecard-how-utilities-can-manage-billion-dollar-capital-programs-at-scale/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Siemens expands Saskatoon R&D hub for EDA work",
       "category": "MECHANICAL",
       "date": "2026-07-16T12:48:52+00:00",
@@ -37130,5 +37186,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-16T13:54:23.185942+00:00"
+  "last_updated_utc": "2026-07-16T19:12:58.005231+00:00"
 }
