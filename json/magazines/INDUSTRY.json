@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Skyharbour, Purecore sign LoI for Yurchison uranium option",
+      "category": "INDUSTRY",
+      "date": "2026-07-17T09:59:49+00:00",
+      "url": "https://www.mining-technology.com/news/skyharbour-purecore-loi-yurchison-uranium-option/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Nevada King secures BLM approval for Atlanta gold project",
+      "category": "INDUSTRY",
+      "date": "2026-07-17T08:34:58+00:00",
+      "url": "https://www.mining-technology.com/news/nevada-king-blm-approval-atlanta-gold/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Liberty Bell Bay smelter closure confirmed as sale collapses",
+      "category": "INDUSTRY",
+      "date": "2026-07-17T08:28:44+00:00",
+      "url": "https://www.mining-technology.com/news/liberty-bell-bay-smelter-closure-confirmed/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "BHP approves $900m for Pilbara’s Ministers North iron ore site",
       "category": "INDUSTRY",
       "date": "2026-07-16T13:45:32+00:00",
@@ -6530,5 +6554,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-17T08:11:09.506685+00:00"
+  "last_updated_utc": "2026-07-17T13:40:32.202849+00:00"
 }
