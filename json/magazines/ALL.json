@@ -2,6 +2,30 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Report explores the hazards of airport ramps",
+      "category": "SAFETY",
+      "date": "2026-07-17T18:06:25+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/report-explores-the-hazards-of-airport-ramps/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA ‘replenishing’ inspector corps, Keith Sonderling says during confirmation hearing",
+      "category": "SAFETY",
+      "date": "2026-07-17T18:05:34+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-replenishing-inspector-corps-keith-sonderling-says-during-confirmation-hearing/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Michigan delays enforcement of its amended concrete construction rule",
+      "category": "SAFETY",
+      "date": "2026-07-17T15:55:52+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/michigan-delays-enforcement-of-its-amended-concrete-construction-rule/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Tech Chat: Damantha Boteju, Chief Product and Technology Officer, Configit",
       "category": "INSTRUMENTATION",
       "date": "2026-07-17T13:38:41+00:00",
@@ -37514,5 +37538,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-17T13:40:32.202849+00:00"
+  "last_updated_utc": "2026-07-17T19:11:46.105723+00:00"
 }
