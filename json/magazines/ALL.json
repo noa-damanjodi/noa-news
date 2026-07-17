@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Power Generation: Total power generation in April 2026",
+      "category": "POWER",
+      "date": "2026-07-17T08:00:19+00:00",
+      "url": "https://powerline.net.in/2026/07/17/power-generation-total-power-generation-in-april-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Prasad Kanakamedala  Managing Director, VITAL Infraa Private Limited",
+      "category": "POWER",
+      "date": "2026-07-17T08:00:11+00:00",
+      "url": "https://powerline.net.in/2026/07/17/prasad-kanakamedala-managing-director-vital-infraa-private-limited/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Minimising Risks: Testing techniques for power cables and conductors",
+      "category": "POWER",
+      "date": "2026-07-17T07:59:58+00:00",
+      "url": "https://powerline.net.in/2026/07/17/minimising-risks-testing-techniques-for-power-cables-and-conductors/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Ministry of Power notifies draft CAFE-III 2027 norms for passenger vehicles",
+      "category": "POWER",
+      "date": "2026-07-17T06:15:07+00:00",
+      "url": "https://powerline.net.in/2026/07/17/ministry-of-power-notifies-draft-cafe-iii-2027-norms-for-passenger-vehicles/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Ministry of Coal launches portal for registration of coal exchanges",
+      "category": "POWER",
+      "date": "2026-07-17T06:13:31+00:00",
+      "url": "https://powerline.net.in/2026/07/17/ministry-of-coal-launches-portal-for-registration-of-coal-exchanges/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Adani Power signs 1,600 MW thermal PSA with MSEDCL",
+      "category": "POWER",
+      "date": "2026-07-17T06:11:59+00:00",
+      "url": "https://powerline.net.in/2026/07/17/adani-power-signs-1600-mw-thermal-psa-with-msedcl/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "SECI announces results of 2 GW wind power auction",
+      "category": "POWER",
+      "date": "2026-07-17T06:09:35+00:00",
+      "url": "https://powerline.net.in/2026/07/17/seci-announces-results-of-2-gw-wind-power-auction-2/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "SECI announces results of 2 GW wind power auction",
+      "category": "POWER",
+      "date": "2026-07-17T06:08:19+00:00",
+      "url": "https://powerline.net.in/2026/07/17/seci-announces-results-of-2-gw-wind-power-auction/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Tata Power raises Rs 15 billion through private placement of NCDs",
+      "category": "POWER",
+      "date": "2026-07-17T06:07:17+00:00",
+      "url": "https://powerline.net.in/2026/07/17/tata-power-raises-rs-15-billion-through-private-placement-of-ncds/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "KEC International bags Rs 11.8 billion worth of orders across various businesses",
+      "category": "POWER",
+      "date": "2026-07-17T06:06:02+00:00",
+      "url": "https://powerline.net.in/2026/07/17/kec-international-bags-rs-11-8-billion-worth-of-orders-across-various-businesses/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "PJM capacity auction easily hits price cap… Again",
       "category": "RENEWABLE",
       "date": "2026-07-16T19:27:06+00:00",
@@ -6114,6 +6194,38 @@
       "type": "magazine"
     },
     {
+      "title": "IAEA to Support Development of Advanced Nuclear Fuels",
+      "category": "ELECTRICAL",
+      "date": "2026-06-15T06:34:27+00:00",
+      "url": "https://www.electricalindia.in/iaea-to-support-development-of-advanced-nuclear-fuels/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Longi Demonstrates LONGi ONE at SNEC 2026",
+      "category": "ELECTRICAL",
+      "date": "2026-06-15T06:32:35+00:00",
+      "url": "https://www.electricalindia.in/longi-demonstrates-longi-one-at-snec-2026/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Kyivstar Takes over Six Solar Power Plants",
+      "category": "ELECTRICAL",
+      "date": "2026-06-15T06:31:07+00:00",
+      "url": "https://www.electricalindia.in/kyivstar-takes-over-six-solar-power-plants/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Delta Electronics Americas’ Smart Energy Solutions Enable Microgrid in Detroit for Commercial Facilities",
+      "category": "ELECTRICAL",
+      "date": "2026-06-15T06:25:15+00:00",
+      "url": "https://www.electricalindia.in/delta-electronics-americas-smart-energy-solutions-enable-microgrid-in-detroit-for-commercial-facilities/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "RECPDCL transfers Jalna power transmission SPV to MSETCL",
       "category": "POWER",
       "date": "2026-06-15T05:58:23+00:00",
@@ -6351,6 +6463,38 @@
       "date": "2026-06-12T07:55:38+00:00",
       "url": "https://www.mining-technology.com/news/drilling-begins-legacy-minerals-emu-site/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens Energy to Support Mai-Liao Power Project in Taiwan",
+      "category": "ELECTRICAL",
+      "date": "2026-06-12T06:24:04+00:00",
+      "url": "https://www.electricalindia.in/siemens-energy-to-support-mai-liao-power-project-in-taiwan/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Nextpower Enters BESS and AI Data Center Markets",
+      "category": "ELECTRICAL",
+      "date": "2026-06-12T06:22:21+00:00",
+      "url": "https://www.electricalindia.in/nextpower-enters-bess-and-ai-data-center-markets/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ISO Board of Governors Nods for 2025-2026 Transmission Plan",
+      "category": "ELECTRICAL",
+      "date": "2026-06-12T06:20:48+00:00",
+      "url": "https://www.electricalindia.in/iso-board-of-governors-nods-for-2025-2026-transmission-plan/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Terrestrial Energy, Riot Platforms Collaborate to Develop Nuclear-Powered Large-Scale Data Centers",
+      "category": "ELECTRICAL",
+      "date": "2026-06-12T06:13:40+00:00",
+      "url": "https://www.electricalindia.in/terrestrial-energy-riot-platforms-collaborate-to-develop-nuclear-powered-large-scale-data-centers/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -6847,6 +6991,38 @@
       "date": "2026-06-10T06:54:23+00:00",
       "url": "https://www.mining-technology.com/news/trilogy-metals-2026-upper-kobuk-fieldwork/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Tata Power, DGPC Sign a Memorandum of Understanding",
+      "category": "ELECTRICAL",
+      "date": "2026-06-10T06:12:51+00:00",
+      "url": "https://www.electricalindia.in/tata-power-dgpc-sign-a-memorandum-of-understanding/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Suzlon 3 MW Platform Sales Reach Nearly 9 GW",
+      "category": "ELECTRICAL",
+      "date": "2026-06-10T06:10:41+00:00",
+      "url": "https://www.electricalindia.in/suzlon-3-mw-platform-sales-reach-nearly-9-gw/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "REC Limited Inks MoU with ERDA",
+      "category": "ELECTRICAL",
+      "date": "2026-06-10T06:09:05+00:00",
+      "url": "https://www.electricalindia.in/rec-limited-inks-mou-with-erda/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "AGEL Commissions the World’s Largest Single-Location Battery Energy Storage System",
+      "category": "ELECTRICAL",
+      "date": "2026-06-10T06:06:24+00:00",
+      "url": "https://www.electricalindia.in/agel-commissions-the-worlds-largest-single-location-battery-energy-storage-system/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -7450,6 +7626,38 @@
       "type": "magazine"
     },
     {
+      "title": "India Needs to Ensure Sufficient Nighttime Power Capacity: IEA",
+      "category": "ELECTRICAL",
+      "date": "2026-06-08T06:05:10+00:00",
+      "url": "https://www.electricalindia.in/india-needs-to-ensure-sufficient-nighttime-power-capacity-iea/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "CERC Invites Suggestions on the Deviation Settlement Mechanism Draft",
+      "category": "ELECTRICAL",
+      "date": "2026-06-08T06:03:43+00:00",
+      "url": "https://www.electricalindia.in/cerc-invites-suggestions-on-the-deviation-settlement-mechanism-draft/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "CEA Issues Advisory on Use of Ester Oil",
+      "category": "ELECTRICAL",
+      "date": "2026-06-08T06:02:20+00:00",
+      "url": "https://www.electricalindia.in/cea-issues-advisory-on-use-of-ester-oil/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Mizoram’s Chief Minister Reviews 132 MW Tuivai Hydroelectric Power Project",
+      "category": "ELECTRICAL",
+      "date": "2026-06-08T05:59:56+00:00",
+      "url": "https://www.electricalindia.in/mizorams-chief-minister-reviews-132-mw-tuivai-hydroelectric-power-project/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "BCCL approves interim measures to offset diesel price increase",
       "category": "POWER",
       "date": "2026-06-08T05:55:08+00:00",
@@ -7647,6 +7855,14 @@
       "date": "2026-06-05T07:19:03+00:00",
       "url": "https://powerline.net.in/2026/06/05/building-energy-security-why-india-must-move-beyond-temporary-stabilisation-measures/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "A. Luthra Takes over as POWERGRID’s Company Secretary & Compliance Officer",
+      "category": "ELECTRICAL",
+      "date": "2026-06-05T05:58:28+00:00",
+      "url": "https://www.electricalindia.in/a-luthra-takes-over-as-powergrids-company-secretary-compliance-officer/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -37194,5 +37410,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-17T02:44:45.476920+00:00"
+  "last_updated_utc": "2026-07-17T08:11:09.506685+00:00"
 }
