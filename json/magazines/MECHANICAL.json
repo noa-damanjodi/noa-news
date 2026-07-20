@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "DTI introduces hybrid MVDC circuit breaker",
+      "category": "MECHANICAL",
+      "date": "2026-07-20T13:41:32+00:00",
+      "url": "https://www.engineering.com/dti-introduces-hybrid-mvdc-circuit-breaker/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB to acquire silicon carbide power conversion firm",
+      "category": "MECHANICAL",
+      "date": "2026-07-20T12:52:39+00:00",
+      "url": "https://www.engineering.com/abb-to-acquire-silicon-carbide-power-conversion-firm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MDT introduces magnetic switch IC for CGM devices",
+      "category": "MECHANICAL",
+      "date": "2026-07-20T12:18:02+00:00",
+      "url": "https://www.engineering.com/mdt-introduces-magnetic-switch-ic-for-cgm-devices/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SIS launches Construct 365 Copilot for project data",
+      "category": "MECHANICAL",
+      "date": "2026-07-20T11:22:49+00:00",
+      "url": "https://www.engineering.com/sis-launches-construct-365-copilot-for-project-data/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "PTC recognized in Gartner PLM software report",
       "category": "MECHANICAL",
       "date": "2026-07-17T11:38:53+00:00",
@@ -10218,5 +10250,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-20T09:16:03.348807+00:00"
+  "last_updated_utc": "2026-07-20T14:08:04.405631+00:00"
 }

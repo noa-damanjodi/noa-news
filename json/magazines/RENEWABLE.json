@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Price of the brick going up | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-07-20T09:58:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/price-of-the-brick-going-up-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "The grid has the devices. Now utilities need the infrastructure to dispatch DERs",
       "category": "RENEWABLE",
       "date": "2026-07-17T12:00:00+00:00",
@@ -2890,5 +2898,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-20T09:16:03.348807+00:00"
+  "last_updated_utc": "2026-07-20T14:08:04.405631+00:00"
 }

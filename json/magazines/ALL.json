@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "DTI introduces hybrid MVDC circuit breaker",
+      "category": "MECHANICAL",
+      "date": "2026-07-20T13:41:32+00:00",
+      "url": "https://www.engineering.com/dti-introduces-hybrid-mvdc-circuit-breaker/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB to acquire silicon carbide power conversion firm",
+      "category": "MECHANICAL",
+      "date": "2026-07-20T12:52:39+00:00",
+      "url": "https://www.engineering.com/abb-to-acquire-silicon-carbide-power-conversion-firm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Perenti’s AMS to sell mining fleet to AngloGold Ashanti",
+      "category": "INDUSTRY",
+      "date": "2026-07-20T12:39:39+00:00",
+      "url": "https://www.mining-technology.com/news/perentis-ams-sell-mining-fleet-anglogold-ashanti/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "MDT introduces magnetic switch IC for CGM devices",
+      "category": "MECHANICAL",
+      "date": "2026-07-20T12:18:02+00:00",
+      "url": "https://www.engineering.com/mdt-introduces-magnetic-switch-ic-for-cgm-devices/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SIS launches Construct 365 Copilot for project data",
+      "category": "MECHANICAL",
+      "date": "2026-07-20T11:22:49+00:00",
+      "url": "https://www.engineering.com/sis-launches-construct-365-copilot-for-project-data/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Fenix Resources gets approval for Beebyn-W10 iron ore mine in WA",
+      "category": "INDUSTRY",
+      "date": "2026-07-20T09:58:14+00:00",
+      "url": "https://www.mining-technology.com/news/fenix-resources-approval-beebyn-w10-iron-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Price of the brick going up | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-07-20T09:58:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/price-of-the-brick-going-up-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "IEA highlights supply risks for France in critical minerals sector",
       "category": "INDUSTRY",
       "date": "2026-07-20T07:17:20+00:00",
@@ -214,6 +270,14 @@
       "category": "INDUSTRY",
       "date": "2026-07-17T08:28:44+00:00",
       "url": "https://www.mining-technology.com/news/liberty-bell-bay-smelter-closure-confirmed/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Thailand’s largest lignite mine installs two MMD mineral sizer stations",
+      "category": "INDUSTRY",
+      "date": "2026-07-17T08:13:01+00:00",
+      "url": "https://www.mining-technology.com/news/thailands-largest-lignite-mine-installs-two-mmd-mineral-sizer-stations/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -37626,5 +37690,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-20T09:16:03.348807+00:00"
+  "last_updated_utc": "2026-07-20T14:08:04.405631+00:00"
 }
