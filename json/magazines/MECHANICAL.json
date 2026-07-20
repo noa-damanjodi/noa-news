@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Rapidus and Cadence integrate agentic AI for SoC design",
+      "category": "MECHANICAL",
+      "date": "2026-07-20T14:48:10+00:00",
+      "url": "https://www.engineering.com/rapidus-and-cadence-integrate-agentic-ai-for-soc-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lockheed Martin releases MORFIUS X-Rotor system",
+      "category": "MECHANICAL",
+      "date": "2026-07-20T14:24:05+00:00",
+      "url": "https://www.engineering.com/lockheed-martin-releases-morfius-x-rotor-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "DTI introduces hybrid MVDC circuit breaker",
       "category": "MECHANICAL",
       "date": "2026-07-20T13:41:32+00:00",
@@ -10250,5 +10266,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-20T14:08:04.405631+00:00"
+  "last_updated_utc": "2026-07-20T19:44:29.655067+00:00"
 }

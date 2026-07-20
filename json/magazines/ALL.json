@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "As Colorado River and tributaries shrink, a public power system frays",
+      "category": "RENEWABLE",
+      "date": "2026-07-20T16:36:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/as-colorado-river-and-tributaries-shrink-a-public-power-system-frays/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "New requirements for automatic braking and electronic logging are on DOT’s to-do list",
+      "category": "SAFETY",
+      "date": "2026-07-20T16:34:16+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-requirements-for-automatic-braking-and-electronic-logging-are-on-dots-to-do-list/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Unmanaged ‘emotional labor’ may lead to worker stress and turnover",
+      "category": "SAFETY",
+      "date": "2026-07-20T16:11:05+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/unmanaged-emotional-labor-may-lead-to-worker-stress-and-turnover/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Federal government investing over $20 million in nine GTA businesses and organizations",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-20T15:24:36+00:00",
+      "url": "https://www.automationmag.com/federal-government-investing-over-20-million-in-nine-gta-businesses-and-organizations/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Rapidus and Cadence integrate agentic AI for SoC design",
+      "category": "MECHANICAL",
+      "date": "2026-07-20T14:48:10+00:00",
+      "url": "https://www.engineering.com/rapidus-and-cadence-integrate-agentic-ai-for-soc-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "New Kansas law targets distracted drivers in construction work zones",
+      "category": "SAFETY",
+      "date": "2026-07-20T14:47:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-kansas-law-targets-distracted-drivers-in-construction-work-zones/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Björn Twiehaus appointed new CEO of the WAGO Group",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-20T14:31:15+00:00",
+      "url": "https://www.automationmag.com/bjorn-twiehaus-appointed-new-ceo-of-the-wago-group/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Lockheed Martin releases MORFIUS X-Rotor system",
+      "category": "MECHANICAL",
+      "date": "2026-07-20T14:24:05+00:00",
+      "url": "https://www.engineering.com/lockheed-martin-releases-morfius-x-rotor-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "DTI introduces hybrid MVDC circuit breaker",
       "category": "MECHANICAL",
       "date": "2026-07-20T13:41:32+00:00",
@@ -127,6 +191,38 @@
       "date": "2026-07-20T06:46:20+00:00",
       "url": "https://powerline.net.in/2026/07/20/nigerias-tcn-completes-live-line-maintenance-on-132-kv-zaria-funtua-line/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "FACE Report: Technician killed when natural gas vapor cloud ignites",
+      "category": "SAFETY",
+      "date": "2026-07-20T06:31:05+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/face-report-technician-killed-when-natural-gas-vapor-cloud-ignites/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Keep smoke detectors damage-free during construction work",
+      "category": "SAFETY",
+      "date": "2026-07-20T06:30:25+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/keep-smoke-detectors-damage-free-during-construction-work/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Reduce the risk: COPD",
+      "category": "SAFETY",
+      "date": "2026-07-20T06:30:19+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/reduce-the-risk-copd/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Protect lone workers",
+      "category": "SAFETY",
+      "date": "2026-07-20T06:30:02+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/protect-lone-workers/",
+      "source": "Safety+Health Magazine",
       "type": "magazine"
     },
     {
@@ -37690,5 +37786,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-20T14:08:04.405631+00:00"
+  "last_updated_utc": "2026-07-20T19:44:29.655067+00:00"
 }

@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Federal government investing over $20 million in nine GTA businesses and organizations",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-20T15:24:36+00:00",
+      "url": "https://www.automationmag.com/federal-government-investing-over-20-million-in-nine-gta-businesses-and-organizations/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Björn Twiehaus appointed new CEO of the WAGO Group",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-20T14:31:15+00:00",
+      "url": "https://www.automationmag.com/bjorn-twiehaus-appointed-new-ceo-of-the-wago-group/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Tech Chat: Damantha Boteju, Chief Product and Technology Officer, Configit",
       "category": "INSTRUMENTATION",
       "date": "2026-07-17T13:38:41+00:00",
@@ -2306,5 +2322,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-20T14:08:04.405631+00:00"
+  "last_updated_utc": "2026-07-20T19:44:29.655067+00:00"
 }
