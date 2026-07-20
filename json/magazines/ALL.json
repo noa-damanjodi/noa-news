@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "IEA highlights supply risks for France in critical minerals sector",
+      "category": "INDUSTRY",
+      "date": "2026-07-20T07:17:20+00:00",
+      "url": "https://www.mining-technology.com/news/iea-supply-risks-france-critical-minerals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Vizsla Copper reports phase one drill results at Thira Discovery",
+      "category": "INDUSTRY",
+      "date": "2026-07-20T07:08:49+00:00",
+      "url": "https://www.mining-technology.com/news/vizsla-copper-reports-phase-one-drill-results-at-thira-discovery/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Ministry of Power proposes mandatory star rating for large buildings",
+      "category": "POWER",
+      "date": "2026-07-20T06:53:08+00:00",
+      "url": "https://powerline.net.in/2026/07/20/ministry-of-power-proposes-mandatory-star-rating-for-large-buildings/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Coal India commissions 200 MW of Khavda solar project in Gujarat",
+      "category": "POWER",
+      "date": "2026-07-20T06:51:52+00:00",
+      "url": "https://powerline.net.in/2026/07/20/coal-india-commissions-200-mw-of-khavda-solar-project-in-gujarat/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Diamond Power bags Rs 1.85 billion conductor supply order from AESL",
+      "category": "POWER",
+      "date": "2026-07-20T06:50:41+00:00",
+      "url": "https://powerline.net.in/2026/07/20/diamond-power-bags-rs-1-85-billion-conductor-supply-order-from-aesl/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BII and EAAIF to support Blueleaf Energy’s 850 MW renewables expansion in India",
+      "category": "POWER",
+      "date": "2026-07-20T06:49:38+00:00",
+      "url": "https://powerline.net.in/2026/07/20/bii-and-eaaif-to-support-blueleaf-energys-850-mw-renewables-expansion-in-india/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ACME Solar secures Rs 26.47 billion funding from REC for 450 MW assured peak power project",
+      "category": "POWER",
+      "date": "2026-07-20T06:48:28+00:00",
+      "url": "https://powerline.net.in/2026/07/20/acme-solar-secures-rs-26-47-billion-funding-from-rec-for-450-mw-assured-peak-power-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Philippines’ Alternergy energises 500 kV facilities for Tanay wind project",
+      "category": "POWER",
+      "date": "2026-07-20T06:47:28+00:00",
+      "url": "https://powerline.net.in/2026/07/20/philippines-alternergy-energises-500-kv-facilities-for-tanay-wind-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Nigeria’s TCN completes live-line maintenance on 132 kV Zaria–Funtua line",
+      "category": "POWER",
+      "date": "2026-07-20T06:46:20+00:00",
+      "url": "https://powerline.net.in/2026/07/20/nigerias-tcn-completes-live-line-maintenance-on-132-kv-zaria-funtua-line/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Report explores the hazards of airport ramps",
       "category": "SAFETY",
       "date": "2026-07-17T18:06:25+00:00",
@@ -23,6 +95,22 @@
       "date": "2026-07-17T15:55:52+00:00",
       "url": "https://www.safetyandhealthmagazine.com/michigan-delays-enforcement-of-its-amended-concrete-construction-rule/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hillgrove’s Emily Star development at Kanmantoo gets approval",
+      "category": "INDUSTRY",
+      "date": "2026-07-17T13:52:10+00:00",
+      "url": "https://www.mining-technology.com/news/hillgroves-emily-star-development-gets-approval/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "First Canadian concludes initial exploration at Zone 13 in Quebec",
+      "category": "INDUSTRY",
+      "date": "2026-07-17T13:42:33+00:00",
+      "url": "https://www.mining-technology.com/news/first-canadian-initial-exploration-zone-13/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -37538,5 +37626,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-20T03:19:16.667724+00:00"
+  "last_updated_utc": "2026-07-20T09:16:03.348807+00:00"
 }
