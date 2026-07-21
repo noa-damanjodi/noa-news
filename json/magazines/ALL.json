@@ -2,6 +2,118 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Skipping soda now may help kids avoid high blood pressure later",
+      "category": "SAFETY",
+      "date": "2026-07-21T13:52:35+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/skipping-soda-now-may-help-kids-avoid-high-blood-pressure-later/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Ontario investing nearly $2.6 million to protect aerospace workers, enhance defence readiness",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-21T13:47:49+00:00",
+      "url": "https://www.automationmag.com/ontario-investing-nearly-2-6-million-to-protect-aerospace-workers-enhance-defence-readiness/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Taking steps to stay positive may do your heart good",
+      "category": "SAFETY",
+      "date": "2026-07-21T13:45:59+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/taking-steps-to-stay-positive-may-do-your-heart-good/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Eagle Mountain and Nittetsu Mining to assess new mineral projects",
+      "category": "INDUSTRY",
+      "date": "2026-07-21T13:09:57+00:00",
+      "url": "https://www.mining-technology.com/news/eagle-mountain-nittetsu-mining-assess-mineral-projects/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Eramet and Gabon sign MoU to boost local manganese ore processing",
+      "category": "INDUSTRY",
+      "date": "2026-07-21T13:06:00+00:00",
+      "url": "https://www.mining-technology.com/news/eramet-gabon-mou-manganese-ore-processing/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble launches contractor financial software",
+      "category": "MECHANICAL",
+      "date": "2026-07-21T12:21:54+00:00",
+      "url": "https://www.engineering.com/trimble-launches-contractor-financial-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cirrascale adds AMD Helios to AI cloud",
+      "category": "MECHANICAL",
+      "date": "2026-07-21T12:13:16+00:00",
+      "url": "https://www.engineering.com/cirrascale-adds-amd-helios-to-ai-cloud/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Synera adds CAD shape intelligence to workflows",
+      "category": "MECHANICAL",
+      "date": "2026-07-21T12:08:03+00:00",
+      "url": "https://www.engineering.com/synera-adds-cad-shape-intelligence-to-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Case study: Biodiversity monitoring at agrivoltaic sites",
+      "category": "RENEWABLE",
+      "date": "2026-07-21T12:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/case-study-biodiversity-monitoring-at-agrivoltaic-sites/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Molex signs fiber optic cable supply deal",
+      "category": "MECHANICAL",
+      "date": "2026-07-21T11:02:49+00:00",
+      "url": "https://www.engineering.com/molex-signs-fiber-optic-cable-supply-deal/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Why is a layered defense for utility wildfire mitigation so critical?",
+      "category": "RENEWABLE",
+      "date": "2026-07-21T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/why-is-a-layered-defense-for-utility-wildfire-mitigation-so-critical/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD expands Azure AI infrastructure partnership",
+      "category": "MECHANICAL",
+      "date": "2026-07-21T10:56:04+00:00",
+      "url": "https://www.engineering.com/amd-expands-azure-ai-infrastructure-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Eldorado Gold starts commissioning at Skouries project",
+      "category": "INDUSTRY",
+      "date": "2026-07-21T10:15:12+00:00",
+      "url": "https://www.mining-technology.com/news/eldorado-gold-commissioning-skouries-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Grid Metals, Avenir sign JVA for Falcon West Cesium in Manitoba",
+      "category": "INDUSTRY",
+      "date": "2026-07-21T07:57:09+00:00",
+      "url": "https://www.mining-technology.com/news/grid-metals-avenir-jva-falcon-west-cesium/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "EDM Resources secures amended approval for Scotia Mine",
       "category": "INDUSTRY",
       "date": "2026-07-21T07:17:41+00:00",
@@ -37898,5 +38010,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-21T08:30:53.253116+00:00"
+  "last_updated_utc": "2026-07-21T13:53:17.501795+00:00"
 }

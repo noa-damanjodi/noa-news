@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Case study: Biodiversity monitoring at agrivoltaic sites",
+      "category": "RENEWABLE",
+      "date": "2026-07-21T12:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/case-study-biodiversity-monitoring-at-agrivoltaic-sites/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Why is a layered defense for utility wildfire mitigation so critical?",
+      "category": "RENEWABLE",
+      "date": "2026-07-21T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/why-is-a-layered-defense-for-utility-wildfire-mitigation-so-critical/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "$1.8bn pumped hydro project to give new life to former Australian coal mine site",
       "category": "RENEWABLE",
       "date": "2026-07-20T20:00:29+00:00",
@@ -2922,5 +2938,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-21T08:30:53.253116+00:00"
+  "last_updated_utc": "2026-07-21T13:53:17.501795+00:00"
 }
