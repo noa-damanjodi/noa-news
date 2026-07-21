@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Humanoid robots aren’t coming for your automation; they’re coming for everything else",
+      "category": "MECHANICAL",
+      "date": "2026-07-21T18:53:21+00:00",
+      "url": "https://www.engineering.com/humanoid-robots-arent-coming-for-your-automation-theyre-coming-for-everything-else/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Investigation of fatal explosion focuses on gas monitoring and detection",
+      "category": "SAFETY",
+      "date": "2026-07-21T16:56:19+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/investigation-of-fatal-explosion-focuses-on-gas-monitoring-and-detection/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Coming in August: annual truck and bus brake inspection blitz",
+      "category": "SAFETY",
+      "date": "2026-07-21T16:04:39+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/coming-in-august-annual-truck-and-bus-brake-inspection-blitz/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Michigan bill would give people the right to disconnect after work",
+      "category": "SAFETY",
+      "date": "2026-07-21T16:00:24+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/michigan-bill-would-give-people-the-right-to-disconnect-after-work/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Nextpower closes Prevalon acquisition, inches closer to world domination",
+      "category": "RENEWABLE",
+      "date": "2026-07-21T14:47:14+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/nextpower-closes-prevalon-acquisition-inches-closer-to-world-domination/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens to acquire Precision Innovations",
+      "category": "MECHANICAL",
+      "date": "2026-07-21T14:42:57+00:00",
+      "url": "https://www.engineering.com/siemens-to-acquire-precision-innovations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Industry Watch: The work is easy — It’s everything else that’s hard!",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-21T14:37:41+00:00",
+      "url": "https://www.automationmag.com/industry-watch-the-work-is-easy-its-everything-else-thats-hard/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon adds OPC UA support to SpatialAnalyzer",
+      "category": "MECHANICAL",
+      "date": "2026-07-21T14:36:20+00:00",
+      "url": "https://www.engineering.com/hexagon-adds-opc-ua-support-to-spatialanalyzer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA adds Omniverse libraries to Agent Toolkit",
+      "category": "MECHANICAL",
+      "date": "2026-07-21T14:15:00+00:00",
+      "url": "https://www.engineering.com/nvidia-adds-omniverse-libraries-to-agent-toolkit/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Skipping soda now may help kids avoid high blood pressure later",
       "category": "SAFETY",
       "date": "2026-07-21T13:52:35+00:00",
@@ -38010,5 +38082,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-21T13:53:17.501795+00:00"
+  "last_updated_utc": "2026-07-21T19:24:29.047890+00:00"
 }

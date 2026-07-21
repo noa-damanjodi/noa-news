@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Humanoid robots aren’t coming for your automation; they’re coming for everything else",
+      "category": "MECHANICAL",
+      "date": "2026-07-21T18:53:21+00:00",
+      "url": "https://www.engineering.com/humanoid-robots-arent-coming-for-your-automation-theyre-coming-for-everything-else/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens to acquire Precision Innovations",
+      "category": "MECHANICAL",
+      "date": "2026-07-21T14:42:57+00:00",
+      "url": "https://www.engineering.com/siemens-to-acquire-precision-innovations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon adds OPC UA support to SpatialAnalyzer",
+      "category": "MECHANICAL",
+      "date": "2026-07-21T14:36:20+00:00",
+      "url": "https://www.engineering.com/hexagon-adds-opc-ua-support-to-spatialanalyzer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA adds Omniverse libraries to Agent Toolkit",
+      "category": "MECHANICAL",
+      "date": "2026-07-21T14:15:00+00:00",
+      "url": "https://www.engineering.com/nvidia-adds-omniverse-libraries-to-agent-toolkit/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Trimble launches contractor financial software",
       "category": "MECHANICAL",
       "date": "2026-07-21T12:21:54+00:00",
@@ -10306,5 +10338,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-21T13:53:17.501795+00:00"
+  "last_updated_utc": "2026-07-21T19:24:29.047890+00:00"
 }

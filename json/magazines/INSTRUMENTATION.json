@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Industry Watch: The work is easy — It’s everything else that’s hard!",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-21T14:37:41+00:00",
+      "url": "https://www.automationmag.com/industry-watch-the-work-is-easy-its-everything-else-thats-hard/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Ontario investing nearly $2.6 million to protect aerospace workers, enhance defence readiness",
       "category": "INSTRUMENTATION",
       "date": "2026-07-21T13:47:49+00:00",
@@ -2330,5 +2338,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-21T13:53:17.501795+00:00"
+  "last_updated_utc": "2026-07-21T19:24:29.047890+00:00"
 }
