@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "$1.8bn pumped hydro project to give new life to former Australian coal mine site",
+      "category": "RENEWABLE",
+      "date": "2026-07-20T20:00:29+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/pumped-storage/1-8bn-pumped-hydro-project-to-give-new-life-to-former-australian-coal-mine-site/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Snake River water trust users won’t face water curtailment in Idaho this summer",
+      "category": "RENEWABLE",
+      "date": "2026-07-20T19:08:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/snake-river-water-trust-users-wont-face-water-curtailment-in-idaho-this-summer/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "As Colorado River and tributaries shrink, a public power system frays",
       "category": "RENEWABLE",
       "date": "2026-07-20T16:36:00+00:00",
@@ -2906,5 +2922,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-20T19:44:29.655067+00:00"
+  "last_updated_utc": "2026-07-21T02:47:38.482246+00:00"
 }
