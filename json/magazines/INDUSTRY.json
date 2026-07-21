@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "EDM Resources secures amended approval for Scotia Mine",
+      "category": "INDUSTRY",
+      "date": "2026-07-21T07:17:41+00:00",
+      "url": "https://www.mining-technology.com/news/edm-resources-amended-approval-scotia-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Culpeo Minerals expands Chile landholding by 45% with new licences",
       "category": "INDUSTRY",
       "date": "2026-07-20T12:45:05+00:00",
@@ -6618,5 +6626,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-21T02:47:38.482246+00:00"
+  "last_updated_utc": "2026-07-21T08:30:53.253116+00:00"
 }

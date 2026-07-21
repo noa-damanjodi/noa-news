@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "EDM Resources secures amended approval for Scotia Mine",
+      "category": "INDUSTRY",
+      "date": "2026-07-21T07:17:41+00:00",
+      "url": "https://www.mining-technology.com/news/edm-resources-amended-approval-scotia-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "MNRE extends ALMM List-II exemption for net-metering and open access solar projects till December 31, 2026",
+      "category": "POWER",
+      "date": "2026-07-21T05:53:03+00:00",
+      "url": "https://powerline.net.in/2026/07/21/mnre-extends-almm-list-ii-exemption-for-net-metering-and-open-access-solar-projects-till-december-31-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "POWERGRID wins India’s first ISTS SynCon project under TBCB",
+      "category": "POWER",
+      "date": "2026-07-21T05:51:34+00:00",
+      "url": "https://powerline.net.in/2026/07/21/powergrid-wins-indias-first-ists-syncon-project-under-tbcb/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NHPC and CSPDCL ink PPA for 1.72 GW Kamala hydro project in Arunachal Pradesh",
+      "category": "POWER",
+      "date": "2026-07-21T05:50:42+00:00",
+      "url": "https://powerline.net.in/2026/07/21/nhpc-and-cspdcl-ink-ppa-for-1-72-gw-kamala-hydro-project-in-arunachal-pradesh/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Tata Power secures LoA from SECI for 324 MW pumped storage project",
+      "category": "POWER",
+      "date": "2026-07-21T05:49:39+00:00",
+      "url": "https://powerline.net.in/2026/07/21/tata-power-secures-loa-from-seci-for-324-mw-pumped-storage-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Rajesh Power Services bags Rs 343.7 million orders from PGVCL and RVPNL",
+      "category": "POWER",
+      "date": "2026-07-21T05:48:26+00:00",
+      "url": "https://powerline.net.in/2026/07/21/rajesh-power-services-bags-rs-343-7-million-orders-from-pgvcl-and-rvpnl/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Barito Renewables submits more than USD5 billion takeover offer for Energy Development Corporation",
+      "category": "POWER",
+      "date": "2026-07-21T05:46:53+00:00",
+      "url": "https://powerline.net.in/2026/07/21/barito-renewables-submits-more-than-usd5-billion-takeover-offer-for-energy-development-corporation/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Malaysia launches 2.65 GW solar tender with 1.25 GW battery energy storage under LSS6 programme",
+      "category": "POWER",
+      "date": "2026-07-21T05:42:43+00:00",
+      "url": "https://powerline.net.in/2026/07/21/malaysia-launches-2-65-gw-solar-tender-with-1-25-gw-battery-energy-storage-under-lss6-programme/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "$1.8bn pumped hydro project to give new life to former Australian coal mine site",
       "category": "RENEWABLE",
       "date": "2026-07-20T20:00:29+00:00",
@@ -5495,6 +5559,30 @@
       "date": "2026-06-22T02:59:00+00:00",
       "url": "https://www.constructionweekonline.in/news/tata-motors-secures-electric-vehicle-orders",
       "source": "Construction Week India",
+      "type": "magazine"
+    },
+    {
+      "title": "A JOURNEY WITH A PROGRESSIVE OUTLOOK",
+      "category": "ELECTRICAL",
+      "date": "2026-06-20T05:01:05+00:00",
+      "url": "https://www.electricalindia.in/a-journey-with-a-progressive-outlook/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Next-Generation of Solar Power Plants",
+      "category": "ELECTRICAL",
+      "date": "2026-06-20T04:20:04+00:00",
+      "url": "https://www.electricalindia.in/next-generation-of-solar-power-plants/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Powering the Future for Thousands of Years",
+      "category": "ELECTRICAL",
+      "date": "2026-06-20T02:32:24+00:00",
+      "url": "https://www.electricalindia.in/powering-the-future-for-thousands-of-years/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -37810,5 +37898,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-21T02:47:38.482246+00:00"
+  "last_updated_utc": "2026-07-21T08:30:53.253116+00:00"
 }
