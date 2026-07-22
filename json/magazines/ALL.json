@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Canada Nickel’s Crawford project reaches final federal assessment stage",
+      "category": "INDUSTRY",
+      "date": "2026-07-22T07:48:34+00:00",
+      "url": "https://www.mining-technology.com/news/canada-nickels-crawford-final-federal-assessment/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Xometry updates AI models for custom manufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-07-22T06:16:47+00:00",
+      "url": "https://www.engineering.com/xometry-updates-ai-models-for-custom-manufacturing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "TotalEnergies inaugurates 216 MW solar PV and 500 MWh BESS project in South Africa",
+      "category": "POWER",
+      "date": "2026-07-22T05:30:43+00:00",
+      "url": "https://powerline.net.in/2026/07/22/totalenergies-inaugurates-216-mw-solar-pv-and-500-mwh-bess-project-in-south-africa/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Vietnam’s EVNNPT advances 500 kV Son La substation and line projects with ADB support",
+      "category": "POWER",
+      "date": "2026-07-22T05:30:17+00:00",
+      "url": "https://powerline.net.in/2026/07/22/vietnams-evnnpt-advances-500-kv-son-la-substation-and-line-projects-with-adb-support/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NPCIL and ECIL sign MoU for indigenous nuclear technology development",
+      "category": "POWER",
+      "date": "2026-07-22T05:29:49+00:00",
+      "url": "https://powerline.net.in/2026/07/22/npcil-and-ecil-sign-mou-for-indigenous-nuclear-technology-development/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Laser Power and Infra secures Rs 41.5 million HTLS reconductoring order from HPSEBL",
+      "category": "POWER",
+      "date": "2026-07-22T05:29:14+00:00",
+      "url": "https://powerline.net.in/2026/07/22/laser-power-and-infra-secures-rs-41-5-million-htls-reconductoring-order-from-hpsebl/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ACME Solar signs PPA with SECI for 300 MW wind-solar hybrid project",
+      "category": "POWER",
+      "date": "2026-07-22T05:28:45+00:00",
+      "url": "https://powerline.net.in/2026/07/22/acme-solar-signs-ppa-with-seci-for-300-mw-wind-solar-hybrid-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ONGC completes two deep geothermal wells at Puga project",
+      "category": "POWER",
+      "date": "2026-07-22T05:27:59+00:00",
+      "url": "https://powerline.net.in/2026/07/22/ongc-completes-two-deep-geothermal-wells-at-puga-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "MNRE approves Rs 4.37 billion renewable research programme for 2026-31",
+      "category": "POWER",
+      "date": "2026-07-22T05:27:26+00:00",
+      "url": "https://powerline.net.in/2026/07/22/mnre-approves-rs-4-37-billion-renewable-research-programme-for-2026-31/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Humanoid robots aren’t coming for your automation; they’re coming for everything else",
       "category": "MECHANICAL",
       "date": "2026-07-21T18:53:21+00:00",
@@ -5730,6 +5802,22 @@
       "type": "magazine"
     },
     {
+      "title": "PDTD68 – Advanced Cable Diagnostics Made Easy",
+      "category": "ELECTRICAL",
+      "date": "2026-06-22T04:22:35+00:00",
+      "url": "https://www.electricalindia.in/pdtd68-advanced-cable-diagnostics-made-easy/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Kusam-Meco BTU Solar Power Meter Model KM-SPM-11A",
+      "category": "ELECTRICAL",
+      "date": "2026-06-22T04:14:12+00:00",
+      "url": "https://www.electricalindia.in/kusam-meco-btu-solar-power-meter-model-km-spm-11a/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Prateek Group clocks ₹1,200 cr sales in one project in FY26",
       "category": "CIVIL",
       "date": "2026-06-22T03:36:00+00:00",
@@ -5766,6 +5854,14 @@
       "category": "ELECTRICAL",
       "date": "2026-06-20T02:32:24+00:00",
       "url": "https://www.electricalindia.in/powering-the-future-for-thousands-of-years/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Beckoning of the Wireless Era",
+      "category": "ELECTRICAL",
+      "date": "2026-06-20T00:31:55+00:00",
+      "url": "https://www.electricalindia.in/beckoning-of-the-wireless-era/",
       "source": "Electrical India Magazine",
       "type": "magazine"
     },
@@ -38082,5 +38178,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-22T02:45:17.648746+00:00"
+  "last_updated_utc": "2026-07-22T08:30:37.329835+00:00"
 }
