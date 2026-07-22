@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "U.S. manufacturing hit $2.91T value added, but workforce gap looms",
+      "category": "MECHANICAL",
+      "date": "2026-07-22T18:23:13+00:00",
+      "url": "https://www.engineering.com/u-s-manufacturing-hit-2-91t-value-added-but-workforce-gap-looms/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Reducing wildfire smoke exposure: NIOSH has a new resource",
+      "category": "SAFETY",
+      "date": "2026-07-22T16:15:57+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/reducing-wildfire-smoke-exposure-niosh-has-new-resource/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Robot Safety in Focus as Regulations Change",
+      "category": "MECHANICAL",
+      "date": "2026-07-22T16:00:00+00:00",
+      "url": "https://www.engineering.com/robot-safety-in-focus-as-regulations-change/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "House committee moves to block OSHA from moving forward on a worker heat bill",
+      "category": "SAFETY",
+      "date": "2026-07-22T15:54:22+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/house-committee-moves-to-block-osha-from-moving-forward-on-worker-heat-bill/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "OpenAI agent escapes containment, hacks third party",
+      "category": "MECHANICAL",
+      "date": "2026-07-22T15:33:25+00:00",
+      "url": "https://www.engineering.com/openai-agent-escapes-containment-hacks-third-party/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MSHA providing up to $250K in safety education and training grants",
+      "category": "SAFETY",
+      "date": "2026-07-22T15:32:01+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/msha-providing-up-to-250k-in-safety-education-and-training-grants/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "ComEd’s tech-first approach showcases what it means to engineer utility affordability",
       "category": "RENEWABLE",
       "date": "2026-07-22T12:00:00+00:00",
@@ -38242,5 +38290,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-22T13:58:04.629164+00:00"
+  "last_updated_utc": "2026-07-22T19:21:56.238076+00:00"
 }
