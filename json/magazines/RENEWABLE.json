@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "ComEd’s tech-first approach showcases what it means to engineer utility affordability",
+      "category": "RENEWABLE",
+      "date": "2026-07-22T12:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/comeds-tech-first-approach-showcases-what-it-means-to-engineer-utility-affordability/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Nextpower closes Prevalon acquisition, inches closer to world domination",
       "category": "RENEWABLE",
       "date": "2026-07-21T14:47:14+00:00",
@@ -2946,5 +2954,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-22T08:30:37.329835+00:00"
+  "last_updated_utc": "2026-07-22T13:58:04.629164+00:00"
 }

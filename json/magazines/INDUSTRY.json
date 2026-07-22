@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "US DoE and DoL sign MoU to advance mining sector",
+      "category": "INDUSTRY",
+      "date": "2026-07-22T10:23:43+00:00",
+      "url": "https://www.mining-technology.com/news/us-doe-dol-mou-advance-mining-sector/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Critical minerals didn’t disappear from the West, structural forces pushed them away",
+      "category": "INDUSTRY",
+      "date": "2026-07-22T09:47:46+00:00",
+      "url": "https://www.mining-technology.com/opinion/critical-minerals-didnt-disappear-from-the-west-structural-forces-pushed-them-away/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Four Nines Gold starts first drilling campaign at Hayden Hill project",
+      "category": "INDUSTRY",
+      "date": "2026-07-22T07:54:23+00:00",
+      "url": "https://www.mining-technology.com/news/four-nines-gold-first-drilling-hayden-hill/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Canada Nickel’s Crawford project reaches final federal assessment stage",
       "category": "INDUSTRY",
       "date": "2026-07-22T07:48:34+00:00",
@@ -6666,5 +6690,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-22T08:30:37.329835+00:00"
+  "last_updated_utc": "2026-07-22T13:58:04.629164+00:00"
 }
