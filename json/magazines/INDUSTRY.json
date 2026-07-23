@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "MaxMine introduces AI-powered tools to boost mine operator productivity",
+      "category": "INDUSTRY",
+      "date": "2026-07-23T12:57:10+00:00",
+      "url": "https://www.mining-technology.com/news/maxmine-ai-powered-tools-mine-productivity/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NOVAGOLD to buy remaining 40% of Donlin Gold",
+      "category": "INDUSTRY",
+      "date": "2026-07-23T09:26:18+00:00",
+      "url": "https://www.mining-technology.com/news/novagold-to-buy-remaining-40-donlin-gold/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Cleghorn Minerals acquires 73 claims in Quebec’s Gaspé peninsula",
+      "category": "INDUSTRY",
+      "date": "2026-07-23T09:10:51+00:00",
+      "url": "https://www.mining-technology.com/news/cleghorn-minerals-73-claims-gaspe-peninsula/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Battery Age stakes 46 new claims at Falcon Lake Lithium site",
       "category": "INDUSTRY",
       "date": "2026-07-23T07:57:16+00:00",
@@ -6714,5 +6738,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-23T08:32:15.834777+00:00"
+  "last_updated_utc": "2026-07-23T14:03:02.498340+00:00"
 }

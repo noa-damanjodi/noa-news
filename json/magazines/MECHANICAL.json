@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Siemens to acquire RTL design automation software company",
+      "category": "MECHANICAL",
+      "date": "2026-07-23T11:59:26+00:00",
+      "url": "https://www.engineering.com/siemens-to-acquire-rtl-design-automation-software-company/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mixx adds India design and OSAT support for AI optics",
+      "category": "MECHANICAL",
+      "date": "2026-07-23T11:53:16+00:00",
+      "url": "https://www.engineering.com/mixx-adds-india-design-and-osat-support-for-ai-optics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Luminus deploys Rockwell Automation OT cybersecurity platform",
+      "category": "MECHANICAL",
+      "date": "2026-07-23T11:28:57+00:00",
+      "url": "https://www.engineering.com/luminus-deploys-rockwell-automation-ot-cybersecurity-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric and Sony form vision sensor JV",
+      "category": "MECHANICAL",
+      "date": "2026-07-23T11:25:23+00:00",
+      "url": "https://www.engineering.com/mitsubishi-electric-and-sony-form-vision-sensor-jv/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Velo3D opens metal additive manufacturing campus",
+      "category": "MECHANICAL",
+      "date": "2026-07-23T11:00:46+00:00",
+      "url": "https://www.engineering.com/velo3d-opens-metal-additive-manufacturing-campus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "U.S. manufacturing hit $2.91T value added, but workforce gap looms",
       "category": "MECHANICAL",
       "date": "2026-07-22T18:23:13+00:00",
@@ -10402,5 +10442,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-23T08:32:15.834777+00:00"
+  "last_updated_utc": "2026-07-23T14:03:02.498340+00:00"
 }
