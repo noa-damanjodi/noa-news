@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Amphenol RF releasing high-flex RG-58 FAKRA cable assemblies",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-22T16:11:30+00:00",
+      "url": "https://www.automationmag.com/amphenol-rf-releasing-high-flex-rg-58-fakra-cable-assemblies/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Festo cuts EOAT air use with VTUX Eco functions",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-22T15:59:00+00:00",
+      "url": "https://www.automationmag.com/festo-cuts-eoat-air-use-with-vtux-eco-functions/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric Iconics Digital Solutions announces enhanced global system integrator program",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-22T15:46:42+00:00",
+      "url": "https://www.automationmag.com/mitsubishi-electric-iconics-digital-solutions-announces-enhanced-global-system-integrator-program/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Industry Watch: The work is easy — It’s everything else that’s hard!",
       "category": "INSTRUMENTATION",
       "date": "2026-07-21T14:37:41+00:00",
@@ -2338,5 +2362,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-22T19:21:56.238076+00:00"
+  "last_updated_utc": "2026-07-23T02:51:12.326586+00:00"
 }

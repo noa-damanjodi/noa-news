@@ -18,6 +18,14 @@
       "type": "magazine"
     },
     {
+      "title": "Amphenol RF releasing high-flex RG-58 FAKRA cable assemblies",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-22T16:11:30+00:00",
+      "url": "https://www.automationmag.com/amphenol-rf-releasing-high-flex-rg-58-fakra-cable-assemblies/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Robot Safety in Focus as Regulations Change",
       "category": "MECHANICAL",
       "date": "2026-07-22T16:00:00+00:00",
@@ -26,11 +34,27 @@
       "type": "magazine"
     },
     {
+      "title": "Festo cuts EOAT air use with VTUX Eco functions",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-22T15:59:00+00:00",
+      "url": "https://www.automationmag.com/festo-cuts-eoat-air-use-with-vtux-eco-functions/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "House committee moves to block OSHA from moving forward on a worker heat bill",
       "category": "SAFETY",
       "date": "2026-07-22T15:54:22+00:00",
       "url": "https://www.safetyandhealthmagazine.com/house-committee-moves-to-block-osha-from-moving-forward-on-worker-heat-bill/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric Iconics Digital Solutions announces enhanced global system integrator program",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-22T15:46:42+00:00",
+      "url": "https://www.automationmag.com/mitsubishi-electric-iconics-digital-solutions-announces-enhanced-global-system-integrator-program/",
+      "source": "Manufacturing AUTOMATION",
       "type": "magazine"
     },
     {
@@ -38290,5 +38314,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-22T19:21:56.238076+00:00"
+  "last_updated_utc": "2026-07-23T02:51:12.326586+00:00"
 }
