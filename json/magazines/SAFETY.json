@@ -2,6 +2,30 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Heat safety in the workplace: New recommendations from athletic trainers’ group",
+      "category": "SAFETY",
+      "date": "2026-07-23T18:58:01+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/heat-safety-in-the-workplace-new-recommendations-from-athletic-trainers-group/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Flame retardant is among chemicals for which EPA seeks feedback",
+      "category": "SAFETY",
+      "date": "2026-07-23T18:22:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/flame-retardant-is-among-chemicals-for-which-epa-seeks-feedback/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Skills gaps can challenge worker safety, UK report shows",
+      "category": "SAFETY",
+      "date": "2026-07-23T18:05:00+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/skills-gaps-can-challenge-worker-safety-uk-report-shows/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Reducing wildfire smoke exposure: NIOSH has a new resource",
       "category": "SAFETY",
       "date": "2026-07-22T16:15:57+00:00",
@@ -10,7 +34,7 @@
       "type": "magazine"
     },
     {
-      "title": "House committee moves to block OSHA from moving forward on a worker heat bill",
+      "title": "House committee moves to block OSHA from moving forward on a workplace heat bill",
       "category": "SAFETY",
       "date": "2026-07-22T15:54:22+00:00",
       "url": "https://www.safetyandhealthmagazine.com/house-committee-moves-to-block-osha-from-moving-forward-on-worker-heat-bill/",
@@ -3546,5 +3570,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-23T14:03:02.498340+00:00"
+  "last_updated_utc": "2026-07-23T19:19:26.651870+00:00"
 }

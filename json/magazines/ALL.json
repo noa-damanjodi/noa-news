@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Heat safety in the workplace: New recommendations from athletic trainers’ group",
+      "category": "SAFETY",
+      "date": "2026-07-23T18:58:01+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/heat-safety-in-the-workplace-new-recommendations-from-athletic-trainers-group/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Flame retardant is among chemicals for which EPA seeks feedback",
+      "category": "SAFETY",
+      "date": "2026-07-23T18:22:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/flame-retardant-is-among-chemicals-for-which-epa-seeks-feedback/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Skills gaps can challenge worker safety, UK report shows",
+      "category": "SAFETY",
+      "date": "2026-07-23T18:05:00+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/skills-gaps-can-challenge-worker-safety-uk-report-shows/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Federal government investing over $40 million in 23 Waterloo and Brant region organizations",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-23T17:50:26+00:00",
+      "url": "https://www.automationmag.com/federal-government-investing-over-40-million-in-23-waterloo-and-brant-region-organizations/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Blake Cassels & Graydon leads H1 2026 M&A legal advice in mining by value",
+      "category": "INDUSTRY",
+      "date": "2026-07-23T13:28:50+00:00",
+      "url": "https://www.mining-technology.com/news/ma-legal-advice-mining-h1-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "MaxMine introduces AI-powered tools to boost mine operator productivity",
       "category": "INDUSTRY",
       "date": "2026-07-23T12:57:10+00:00",
@@ -178,7 +218,7 @@
       "type": "magazine"
     },
     {
-      "title": "House committee moves to block OSHA from moving forward on a worker heat bill",
+      "title": "House committee moves to block OSHA from moving forward on a workplace heat bill",
       "category": "SAFETY",
       "date": "2026-07-22T15:54:22+00:00",
       "url": "https://www.safetyandhealthmagazine.com/house-committee-moves-to-block-osha-from-moving-forward-on-worker-heat-bill/",
@@ -38466,5 +38506,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-23T14:03:02.498340+00:00"
+  "last_updated_utc": "2026-07-23T19:19:26.651870+00:00"
 }
