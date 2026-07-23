@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Battery Age stakes 46 new claims at Falcon Lake Lithium site",
+      "category": "INDUSTRY",
+      "date": "2026-07-23T07:57:16+00:00",
+      "url": "https://www.mining-technology.com/news/battery-age-46-claims-falcon-lake-lithium/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rio Tinto signs bio pellet supply deal with SCL for refineries in Queensland",
+      "category": "INDUSTRY",
+      "date": "2026-07-22T14:02:41+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-bio-pellet-supply-scl-refineries-gladstone/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "BMO Capital Markets leads M&A financial advice in mining for H1 2026",
+      "category": "INDUSTRY",
+      "date": "2026-07-22T13:46:54+00:00",
+      "url": "https://www.mining-technology.com/news/ma-financial-advice-mining-h1-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "US DoE and DoL sign MoU to advance mining sector",
       "category": "INDUSTRY",
       "date": "2026-07-22T10:23:43+00:00",
@@ -6690,5 +6714,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-23T02:51:12.326586+00:00"
+  "last_updated_utc": "2026-07-23T08:32:15.834777+00:00"
 }
