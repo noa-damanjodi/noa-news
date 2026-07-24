@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Chile’s copper output set to recover by 1.0% in 2026",
+      "category": "INDUSTRY",
+      "date": "2026-07-24T13:55:25+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/chile-copper-output-recover-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Global silver output is expected to remain broadly stable in 2026",
+      "category": "INDUSTRY",
+      "date": "2026-07-24T13:42:19+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/global-silver-output-stable-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Enervoxa eyes rare earth processing project in India",
       "category": "INDUSTRY",
       "date": "2026-07-24T13:00:53+00:00",
@@ -6786,5 +6802,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-24T13:47:02.615308+00:00"
+  "last_updated_utc": "2026-07-24T19:26:02.297246+00:00"
 }
