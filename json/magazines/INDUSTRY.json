@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "EPC Groupe wins contract at Senegal’s Boto gold mine",
+      "category": "INDUSTRY",
+      "date": "2026-07-24T08:09:45+00:00",
+      "url": "https://www.mining-technology.com/news/epc-groupe-contract-senegals-boto-gold-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Sun Silver to acquire Bayan Springs North Project in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-07-24T07:54:29+00:00",
+      "url": "https://www.mining-technology.com/news/sun-silver-acquire-bayan-springs-north/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Blake Cassels & Graydon leads H1 2026 M&A legal advice in mining by value",
       "category": "INDUSTRY",
       "date": "2026-07-23T13:28:50+00:00",
@@ -6746,5 +6762,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-24T02:46:12.468522+00:00"
+  "last_updated_utc": "2026-07-24T08:28:45.543866+00:00"
 }
