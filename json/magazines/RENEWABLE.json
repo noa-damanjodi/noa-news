@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "As Texas temperatures soar, ERCOT crushes demand and generation records without incident",
+      "category": "RENEWABLE",
+      "date": "2026-07-23T18:35:19+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/as-texas-temperatures-soar-ercot-crushes-demand-and-generation-records-without-incident/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "ComEd’s tech-first approach showcases what it means to engineer utility affordability",
       "category": "RENEWABLE",
       "date": "2026-07-22T12:00:00+00:00",
@@ -2954,5 +2962,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-23T19:19:26.651870+00:00"
+  "last_updated_utc": "2026-07-24T02:46:12.468522+00:00"
 }
