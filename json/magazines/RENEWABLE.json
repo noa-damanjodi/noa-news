@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Floridians are investing in reliability long before named storms show up",
+      "category": "RENEWABLE",
+      "date": "2026-07-24T12:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/floridians-are-investing-in-reliability-long-before-named-storms-show-up/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Understanding how utilities can drive affordability while cultivating customer engagement",
+      "category": "RENEWABLE",
+      "date": "2026-07-24T11:25:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/understanding-how-utilities-can-drive-affordability-while-cultivating-customer-engagement/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "As Texas temperatures soar, ERCOT crushes demand and generation records without incident",
       "category": "RENEWABLE",
       "date": "2026-07-23T18:35:19+00:00",
@@ -2962,5 +2978,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-24T08:28:45.543866+00:00"
+  "last_updated_utc": "2026-07-24T13:47:02.615308+00:00"
 }
