@@ -2,6 +2,86 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "NVIDIA expands Agent Toolkit for engineering workflows",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T09:24:00+00:00",
+      "url": "https://www.engineering.com/nvidia-expands-agent-toolkit-for-engineering-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro adds H15 servers with AMD EPYC 9006 CPUs",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T08:44:41+00:00",
+      "url": "https://www.engineering.com/supermicro-adds-h15-servers-with-amd-epyc-9006-cpus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA and KAIST open agentic AI research lab in Seoul",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T08:35:00+00:00",
+      "url": "https://www.engineering.com/nvidia-and-kaist-open-agentic-ai-research-lab-in-seoul/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "BOSGAME mini PC adds Intel Core 3 processor 304",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T08:30:08+00:00",
+      "url": "https://www.engineering.com/bosgame-mini-pc-adds-intel-core-3-processor-304/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MulticoreWare advances physical AI on AMD platforms",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T08:14:10+00:00",
+      "url": "https://www.engineering.com/multicoreware-advances-physical-ai-on-amd-platforms/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nemetschek India and Novatr partner on BIM training",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T07:32:46+00:00",
+      "url": "https://www.engineering.com/nemetschek-india-and-novatr-partner-on-bim-training/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and HD Hyundai plan digital shipyard model",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T07:10:30+00:00",
+      "url": "https://www.engineering.com/siemens-and-hd-hyundai-plan-digital-shipyard-model/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ARBOR launches COM-HPC module with AMD Ryzen AI Embedded",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T07:01:28+00:00",
+      "url": "https://www.engineering.com/arbor-launches-com-hpc-module-with-amd-ryzen-ai-embedded/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ASUS adds AMD EPYC 9006 servers for enterprise workloads",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T06:40:47+00:00",
+      "url": "https://www.engineering.com/asus-adds-amd-epyc-9006-servers-for-enterprise-workloads/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nota AI joins AMD robotics network for on-device AI",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T06:16:00+00:00",
+      "url": "https://www.engineering.com/nota-ai-joins-amd-robotics-network-for-on-device-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "congatec adds COM-HPC module for physical AI systems",
       "category": "MECHANICAL",
       "date": "2026-07-24T16:09:12+00:00",
@@ -10514,5 +10594,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-27T03:19:01.041533+00:00"
+  "last_updated_utc": "2026-07-27T09:53:58.320094+00:00"
 }

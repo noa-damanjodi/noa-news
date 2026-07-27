@@ -2,6 +2,262 @@
   "category": "ALL",
   "items": [
     {
+      "title": "NVIDIA expands Agent Toolkit for engineering workflows",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T09:24:00+00:00",
+      "url": "https://www.engineering.com/nvidia-expands-agent-toolkit-for-engineering-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro adds H15 servers with AMD EPYC 9006 CPUs",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T08:44:41+00:00",
+      "url": "https://www.engineering.com/supermicro-adds-h15-servers-with-amd-epyc-9006-cpus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA and KAIST open agentic AI research lab in Seoul",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T08:35:00+00:00",
+      "url": "https://www.engineering.com/nvidia-and-kaist-open-agentic-ai-research-lab-in-seoul/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "BOSGAME mini PC adds Intel Core 3 processor 304",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T08:30:08+00:00",
+      "url": "https://www.engineering.com/bosgame-mini-pc-adds-intel-core-3-processor-304/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Soma Gold wins approval to triple Aurora Mine output in Colombia",
+      "category": "INDUSTRY",
+      "date": "2026-07-27T08:14:17+00:00",
+      "url": "https://www.mining-technology.com/news/soma-gold-colombias-anm-approval-aurora-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "MulticoreWare advances physical AI on AMD platforms",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T08:14:10+00:00",
+      "url": "https://www.engineering.com/multicoreware-advances-physical-ai-on-amd-platforms/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Make the most of your NSC Safety Congress & Expo experience",
+      "category": "SAFETY",
+      "date": "2026-07-27T08:03:15+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/make-the-most-of-your-nsc-safety-congress-expo-experience/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Opportunities",
+      "category": "SAFETY",
+      "date": "2026-07-27T08:02:53+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/opportunities/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "VBX signs bauxite offtake agreement with Chinese group",
+      "category": "INDUSTRY",
+      "date": "2026-07-27T08:02:09+00:00",
+      "url": "https://www.mining-technology.com/news/vbx-bauxite-offtake-agreement-chinese-group/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "My Story: Beth Blair",
+      "category": "SAFETY",
+      "date": "2026-07-27T08:01:31+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/my-story-beth-blair/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "My Story: Chris Snyder",
+      "category": "SAFETY",
+      "date": "2026-07-27T08:00:56+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/56668-2/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The 2026 NSC Safety Congress & Expo is almost here",
+      "category": "SAFETY",
+      "date": "2026-07-27T08:00:55+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/the-2026-nsc-safety-congress-expo-is-almost-here/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Job Hazard Analysis",
+      "category": "SAFETY",
+      "date": "2026-07-27T08:00:54+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/job-hazard-analysis/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Nemetschek India and Novatr partner on BIM training",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T07:32:46+00:00",
+      "url": "https://www.engineering.com/nemetschek-india-and-novatr-partner-on-bim-training/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and HD Hyundai plan digital shipyard model",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T07:10:30+00:00",
+      "url": "https://www.engineering.com/siemens-and-hd-hyundai-plan-digital-shipyard-model/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ARBOR launches COM-HPC module with AMD Ryzen AI Embedded",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T07:01:28+00:00",
+      "url": "https://www.engineering.com/arbor-launches-com-hpc-module-with-amd-ryzen-ai-embedded/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Consolidated combustible dust standard",
+      "category": "SAFETY",
+      "date": "2026-07-27T07:00:29+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/consolidated-combustible-dust-standard/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Fleet and workplace safety",
+      "category": "SAFETY",
+      "date": "2026-07-27T07:00:23+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fleet-and-workplace-safety/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "AI use in gas detection",
+      "category": "SAFETY",
+      "date": "2026-07-27T07:00:14+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/ai-use-in-gas-detection/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Indonesia’s nickel challenge shifts from mining to processing",
+      "category": "INDUSTRY",
+      "date": "2026-07-27T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/indonesias-nickel-challenge-shifts-from-mining-to-processing/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ASUS adds AMD EPYC 9006 servers for enterprise workloads",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T06:40:47+00:00",
+      "url": "https://www.engineering.com/asus-adds-amd-epyc-9006-servers-for-enterprise-workloads/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nota AI joins AMD robotics network for on-device AI",
+      "category": "MECHANICAL",
+      "date": "2026-07-27T06:16:00+00:00",
+      "url": "https://www.engineering.com/nota-ai-joins-amd-robotics-network-for-on-device-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MNRE issues model service agreement for electrolyser-as-a-service projects",
+      "category": "POWER",
+      "date": "2026-07-27T05:42:36+00:00",
+      "url": "https://powerline.net.in/2026/07/27/mnre-issues-model-service-agreement-for-electrolyser-as-a-service-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "POWERGRID board approves Rs 350 billion borrowing plan for FY 2027-28",
+      "category": "POWER",
+      "date": "2026-07-27T05:41:15+00:00",
+      "url": "https://powerline.net.in/2026/07/27/powergrid-board-approves-rs-350-billion-borrowing-plan-for-fy-2027-28/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "AESL wins Rs 85 billion transmission project in Andhra Pradesh under TBCB",
+      "category": "POWER",
+      "date": "2026-07-27T05:39:21+00:00",
+      "url": "https://powerline.net.in/2026/07/27/aesl-wins-rs-85-billion-transmission-project-in-andhra-pradesh-under-tbcb/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Adani Power board approves Rs 150 billion QIP",
+      "category": "POWER",
+      "date": "2026-07-27T05:38:15+00:00",
+      "url": "https://powerline.net.in/2026/07/27/adani-power-board-approves-rs-150-billion-qip/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NTPC Green commissions 64.76 MW solar capacity in Gujarat",
+      "category": "POWER",
+      "date": "2026-07-27T05:37:03+00:00",
+      "url": "https://powerline.net.in/2026/07/27/ntpc-green-commissions-64-76-mw-solar-capacity-in-gujarat/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "IEX reports Rs 1.35 billion net profit in the first quarter of 2026-27",
+      "category": "POWER",
+      "date": "2026-07-27T05:36:01+00:00",
+      "url": "https://powerline.net.in/2026/07/27/iex-reports-rs-1-35-billion-net-profit-in-the-first-quarter-of-2026-27/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "JSW Energy reports Rs 5.33 billion net profit in the first quarter of 2026-27",
+      "category": "POWER",
+      "date": "2026-07-27T05:34:45+00:00",
+      "url": "https://powerline.net.in/2026/07/27/jsw-energy-reports-rs-5-33-billion-net-profit-in-the-first-quarter-of-2026-27/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Egypt’s EETC awards transmission contracts for wind integration",
+      "category": "POWER",
+      "date": "2026-07-27T05:33:39+00:00",
+      "url": "https://powerline.net.in/2026/07/27/egypts-eetc-awards-transmission-contracts-for-wind-integration/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "TotalEnergies inaugurates solar PV and BESS project in South Africa",
+      "category": "POWER",
+      "date": "2026-07-27T05:32:40+00:00",
+      "url": "https://powerline.net.in/2026/07/27/totalenergies-inaugurates-solar-pv-and-bess-project-in-south-africa/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Fleet safety",
+      "category": "SAFETY",
+      "date": "2026-07-27T05:15:41+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fleet-safety/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "As EV sales flatten, automakers make the case for backup power – This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-07-24T16:50:48+00:00",
@@ -38746,5 +39002,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-27T03:19:01.041533+00:00"
+  "last_updated_utc": "2026-07-27T09:53:58.320094+00:00"
 }

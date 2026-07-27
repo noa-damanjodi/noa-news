@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Soma Gold wins approval to triple Aurora Mine output in Colombia",
+      "category": "INDUSTRY",
+      "date": "2026-07-27T08:14:17+00:00",
+      "url": "https://www.mining-technology.com/news/soma-gold-colombias-anm-approval-aurora-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "VBX signs bauxite offtake agreement with Chinese group",
+      "category": "INDUSTRY",
+      "date": "2026-07-27T08:02:09+00:00",
+      "url": "https://www.mining-technology.com/news/vbx-bauxite-offtake-agreement-chinese-group/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Indonesia’s nickel challenge shifts from mining to processing",
+      "category": "INDUSTRY",
+      "date": "2026-07-27T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/indonesias-nickel-challenge-shifts-from-mining-to-processing/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Chile’s copper output set to recover by 1.0% in 2026",
       "category": "INDUSTRY",
       "date": "2026-07-24T13:55:25+00:00",
@@ -6802,5 +6826,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-27T03:19:01.041533+00:00"
+  "last_updated_utc": "2026-07-27T09:53:58.320094+00:00"
 }
