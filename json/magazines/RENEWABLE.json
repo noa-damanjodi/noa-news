@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Di-Hydro research project tackles digitalization of hydropower plants through sensor development",
+      "category": "RENEWABLE",
+      "date": "2026-07-27T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/di-hydro-research-project-tackles-digitization-of-hydropower-plants-through-sensor-development/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Change is gonna come | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-07-27T09:55:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/change-is-gonna-come-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "As EV sales flatten, automakers make the case for backup power – This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-07-24T16:50:48+00:00",
@@ -2986,5 +3002,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-27T09:53:58.320094+00:00"
+  "last_updated_utc": "2026-07-27T14:37:22.736355+00:00"
 }
