@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "TE Connectivity introduces 3D printing process to streamline catheter manufacturing",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-28T13:44:57+00:00",
+      "url": "https://www.automationmag.com/te-connectivity-introduces-3d-printing-process-to-streamline-catheter-manufacturing/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Austral Resources ends Anthill agreement with Glencore and Secover",
+      "category": "INDUSTRY",
+      "date": "2026-07-28T13:23:28+00:00",
+      "url": "https://www.mining-technology.com/news/austral-resources-ends-anthill-agreement/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Synopsys and NVIDIA advance agentic AI for chip design",
+      "category": "MECHANICAL",
+      "date": "2026-07-28T12:37:34+00:00",
+      "url": "https://www.engineering.com/synopsys-and-nvidia-advance-agentic-ai-for-chip-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Revizto adds AI access to live project data",
+      "category": "MECHANICAL",
+      "date": "2026-07-28T10:52:03+00:00",
+      "url": "https://www.engineering.com/revizto-adds-ai-access-to-live-project-data/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight RFPro gains Intel 14A and 18A-P certification",
+      "category": "MECHANICAL",
+      "date": "2026-07-28T10:45:09+00:00",
+      "url": "https://www.engineering.com/keysight-rfpro-gains-intel-14a-and-18a-p-certification/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lattice completes acquisition of AMI firmware business",
+      "category": "MECHANICAL",
+      "date": "2026-07-28T10:37:24+00:00",
+      "url": "https://www.engineering.com/lattice-completes-acquisition-of-ami-firmware-business/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens expands NVIDIA partnership for EDA AI workflows",
+      "category": "MECHANICAL",
+      "date": "2026-07-28T10:30:40+00:00",
+      "url": "https://www.engineering.com/siemens-expands-nvidia-partnership-for-eda-ai-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Synopsys adds agentic AI workflows for chip design",
+      "category": "MECHANICAL",
+      "date": "2026-07-28T10:23:59+00:00",
+      "url": "https://www.engineering.com/synopsys-adds-agentic-ai-workflows-for-chip-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rock Tech signs spodumene supply deal with Transamine",
+      "category": "INDUSTRY",
+      "date": "2026-07-28T10:12:07+00:00",
+      "url": "https://www.mining-technology.com/news/rock-tech-spodumene-supply-deal-transamine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Amkor and NVIDIA expand advanced packaging capacity",
+      "category": "MECHANICAL",
+      "date": "2026-07-28T10:11:23+00:00",
+      "url": "https://www.engineering.com/amkor-and-nvidia-expand-advanced-packaging-capacity/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Infobell and AMD collaborate on enterprise AI systems",
+      "category": "MECHANICAL",
+      "date": "2026-07-28T10:06:53+00:00",
+      "url": "https://www.engineering.com/infobell-and-amd-collaborate-on-enterprise-ai-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Silver Storm ships first concentrates from Mexico’s La Parrilla mine",
+      "category": "INDUSTRY",
+      "date": "2026-07-28T08:37:43+00:00",
+      "url": "https://www.mining-technology.com/news/silver-storm-ships-first-concentrates-la-parrilla/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Critical One reports positive metallurgical results at Howells Lake",
+      "category": "INDUSTRY",
+      "date": "2026-07-28T08:30:55+00:00",
+      "url": "https://www.mining-technology.com/news/critical-one-metallurgical-results-howells-lake/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "NTPC to raise up to Rs 120 billion through NCDs",
       "category": "POWER",
       "date": "2026-07-28T05:51:03+00:00",
@@ -39202,5 +39306,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-28T08:35:29.353693+00:00"
+  "last_updated_utc": "2026-07-28T14:09:01.432812+00:00"
 }

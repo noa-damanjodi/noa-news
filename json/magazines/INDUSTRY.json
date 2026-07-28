@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Austral Resources ends Anthill agreement with Glencore and Secover",
+      "category": "INDUSTRY",
+      "date": "2026-07-28T13:23:28+00:00",
+      "url": "https://www.mining-technology.com/news/austral-resources-ends-anthill-agreement/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rock Tech signs spodumene supply deal with Transamine",
+      "category": "INDUSTRY",
+      "date": "2026-07-28T10:12:07+00:00",
+      "url": "https://www.mining-technology.com/news/rock-tech-spodumene-supply-deal-transamine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Silver Storm ships first concentrates from Mexico’s La Parrilla mine",
+      "category": "INDUSTRY",
+      "date": "2026-07-28T08:37:43+00:00",
+      "url": "https://www.mining-technology.com/news/silver-storm-ships-first-concentrates-la-parrilla/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Critical One reports positive metallurgical results at Howells Lake",
+      "category": "INDUSTRY",
+      "date": "2026-07-28T08:30:55+00:00",
+      "url": "https://www.mining-technology.com/news/critical-one-metallurgical-results-howells-lake/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Enova Mining starts resource drilling at Brazil’s Naked Hill project",
       "category": "INDUSTRY",
       "date": "2026-07-27T13:58:30+00:00",
@@ -6858,5 +6890,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-28T08:35:29.353693+00:00"
+  "last_updated_utc": "2026-07-28T14:09:01.432812+00:00"
 }
