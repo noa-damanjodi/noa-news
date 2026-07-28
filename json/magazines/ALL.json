@@ -2,11 +2,67 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Three Burlington companies receive combined $7.5 million investment from federal government",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-28T18:31:38+00:00",
+      "url": "https://www.automationmag.com/three-burlington-companies-receive-combined-7-5-million-investment-from-federal-government/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Deep Dive: AI for All strategy",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-28T16:59:06+00:00",
+      "url": "https://www.automationmag.com/deep-dive-ai-for-all-strategy/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Aura, Leo, and Marie now available on 3DExperience",
+      "category": "MECHANICAL",
+      "date": "2026-07-28T16:14:05+00:00",
+      "url": "https://www.engineering.com/aura-leo-and-marie-now-available-on-3dexperience/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bill would increase miners’ black lung compensation to account for inflation",
+      "category": "SAFETY",
+      "date": "2026-07-28T16:07:01+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/bill-would-increase-miners-black-lung-compensation-to-account-for-inflation/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Lawmakers want Dr. John Howard to continue as head of World Trade Center Health Program",
+      "category": "SAFETY",
+      "date": "2026-07-28T15:57:29+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/lawmakers-push-for-dr-john-howard-to-continue-as-head-of-world-trade-center-health-program/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Canadian safety group encourages tire shops to use JHAs",
+      "category": "SAFETY",
+      "date": "2026-07-28T15:47:41+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/canadian-safety-group-encourages-tire-shops-to-use-jhas/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "TE Connectivity introduces 3D printing process to streamline catheter manufacturing",
       "category": "INSTRUMENTATION",
       "date": "2026-07-28T13:44:57+00:00",
       "url": "https://www.automationmag.com/te-connectivity-introduces-3d-printing-process-to-streamline-catheter-manufacturing/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Winshear Metals reveals Rodburn Target metallurgical test outcomes",
+      "category": "INDUSTRY",
+      "date": "2026-07-28T13:30:31+00:00",
+      "url": "https://www.mining-technology.com/news/winshear-metals-rodburn-metallurgical-test-outcomes/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -39306,5 +39362,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-28T14:09:01.432812+00:00"
+  "last_updated_utc": "2026-07-28T19:25:53.329146+00:00"
 }

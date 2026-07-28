@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Three Burlington companies receive combined $7.5 million investment from federal government",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-28T18:31:38+00:00",
+      "url": "https://www.automationmag.com/three-burlington-companies-receive-combined-7-5-million-investment-from-federal-government/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Deep Dive: AI for All strategy",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-28T16:59:06+00:00",
+      "url": "https://www.automationmag.com/deep-dive-ai-for-all-strategy/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "TE Connectivity introduces 3D printing process to streamline catheter manufacturing",
       "category": "INSTRUMENTATION",
       "date": "2026-07-28T13:44:57+00:00",
@@ -2378,5 +2394,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-28T14:09:01.432812+00:00"
+  "last_updated_utc": "2026-07-28T19:25:53.329146+00:00"
 }

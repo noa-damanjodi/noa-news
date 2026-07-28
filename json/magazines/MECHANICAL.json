@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Aura, Leo, and Marie now available on 3DExperience",
+      "category": "MECHANICAL",
+      "date": "2026-07-28T16:14:05+00:00",
+      "url": "https://www.engineering.com/aura-leo-and-marie-now-available-on-3dexperience/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Synopsys and NVIDIA advance agentic AI for chip design",
       "category": "MECHANICAL",
       "date": "2026-07-28T12:37:34+00:00",
@@ -10666,5 +10674,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-28T14:09:01.432812+00:00"
+  "last_updated_utc": "2026-07-28T19:25:53.329146+00:00"
 }
