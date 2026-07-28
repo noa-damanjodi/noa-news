@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Can this senate bill make hydropower projects more affordable?",
+      "category": "RENEWABLE",
+      "date": "2026-07-27T20:17:56+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/can-this-senate-bill-make-hydropower-projects-more-affordable/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "FERC takes action to streamline reviews for hydropower projects with ‘minimal’ environmental impact",
+      "category": "RENEWABLE",
+      "date": "2026-07-27T18:26:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/ferc-takes-action-to-streamline-reviews-for-hydropower-projects-with-minimal-environmental-impact/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Deadline to comment on 13 proposed rules extended to Aug. 21",
       "category": "SAFETY",
       "date": "2026-07-27T16:37:26+00:00",
@@ -39074,5 +39090,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-27T19:34:23.573522+00:00"
+  "last_updated_utc": "2026-07-28T02:37:33.348387+00:00"
 }
