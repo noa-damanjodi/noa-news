@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Enova Mining starts resource drilling at Brazil’s Naked Hill project",
+      "category": "INDUSTRY",
+      "date": "2026-07-27T13:58:30+00:00",
+      "url": "https://www.mining-technology.com/news/enova-mining-resource-drilling-naked-hill/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Makenita expands Sisson West Tungsten Project to 22,665 acres",
       "category": "INDUSTRY",
       "date": "2026-07-27T13:31:06+00:00",
@@ -6850,5 +6858,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-28T02:37:33.348387+00:00"
+  "last_updated_utc": "2026-07-28T08:35:29.353693+00:00"
 }
