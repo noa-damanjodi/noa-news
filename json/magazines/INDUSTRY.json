@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Phase one earthworks begin at Lake Victoria Gold’s Imwelo project",
+      "category": "INDUSTRY",
+      "date": "2026-07-29T08:12:14+00:00",
+      "url": "https://www.mining-technology.com/news/phase-1-earthworks-lake-victorias-imwelo/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Winshear Metals reveals Rodburn Target metallurgical test outcomes",
       "category": "INDUSTRY",
       "date": "2026-07-28T13:30:31+00:00",
@@ -6898,5 +6906,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-29T02:44:36.858584+00:00"
+  "last_updated_utc": "2026-07-29T08:42:19.885802+00:00"
 }
