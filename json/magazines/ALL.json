@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Coalition asks EPA and OSHA to streamline worker chemical safety protections",
+      "category": "SAFETY",
+      "date": "2026-07-29T18:20:56+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/coalition-asks-epa-and-osha-to-streamline-worker-chemical-safety-protections/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "More screen time leading to eyestrain for desk workers: survey",
+      "category": "SAFETY",
+      "date": "2026-07-29T17:07:26+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/more-screen-time-leading-to-eyestrain-for-desk-workers-survey/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Rhode Island law creates worker-to-self-checkout ratio at grocery stores",
+      "category": "SAFETY",
+      "date": "2026-07-29T16:14:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/rhode-island-law-creates-worker-to-self-checkout-ratio-at-grocery-stores/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "STMicroelectronics’ new galvanically isolated gate drivers aim to simplify power design with advanced isolation",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-29T16:10:11+00:00",
+      "url": "https://www.automationmag.com/stmicroelectronics-new-galvanically-isolated-gate-drivers-aim-to-simplify-power-design-with-advanced-isolation/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Robot Blowback in Korea and China Growth Slows",
+      "category": "MECHANICAL",
+      "date": "2026-07-29T16:00:00+00:00",
+      "url": "https://www.engineering.com/robot-blowback-in-korea-and-china-growth-slows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PCB Design Software in 2026: What Beginners Should Compare",
+      "category": "MECHANICAL",
+      "date": "2026-07-29T15:06:18+00:00",
+      "url": "https://www.engineering.com/pcb-design-software-in-2026-what-beginners-should-compare/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Why material selection is critical to withstand some of the harshest operating conditions in mining",
+      "category": "INDUSTRY",
+      "date": "2026-07-29T13:29:58+00:00",
+      "url": "https://www.mining-technology.com/sponsored/why-material-selection-is-critical-to-withstand-some-of-the-harshest-operating-conditions-in-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Meteoric and POSCO sign partnership on Brazil rare earths project",
       "category": "INDUSTRY",
       "date": "2026-07-29T13:19:15+00:00",
@@ -39618,5 +39674,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-29T14:11:49.025159+00:00"
+  "last_updated_utc": "2026-07-29T19:17:39.012886+00:00"
 }
