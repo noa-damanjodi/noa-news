@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-28T21:03:06.446725Z",
+  "updated_at": "2026-07-29T02:00:28.618427Z",
   "count": 145,
   "items": [
+    {
+      "source": "Google News",
+      "title": "National Aluminium Co Announces Q1 Earnings Conference Call Scheduled For August 3 At 10:30 AM - Sahi",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaXBvSDl1MndaekdjSlBlejUza1VnVDNUZEE2UERfUzB5YzhzNDJtVjhhcTlSZjdtZ1oyX3gxQmIxanpsdGh4YWo5U1FNZWtBaHVZYWNhN1d3QmJVWlctQ1Z0cHU4MGgzN3hBa1JzcXpGNUllMXlRaU1fci1RNkFIcWdLUzBWQ1lVblZaQW41dlpEM3IyUEFZQlNQMUluWWN4ZllFcWxSM25iZ29RcWN4dWl4NVF4Wm1mVk1tN0RrQ1JBNlNPbmEtVElUUW55dw?oc=5",
+      "date": "2026-07-28",
+      "timestamp": "2026-07-28T18:25:59+00:00",
+      "summary": "National Aluminium Co Announces Q1 Earnings Conference Call Scheduled For August 3 At 10:30 AM&nbsp;&nbsp;Sahi"
+    },
     {
       "source": "Google News",
       "title": "NALCO Q1 Results: Earnings call scheduled for 3rd August 2026 - scanx.trade",
@@ -57,14 +65,6 @@
       "date": "2026-07-16",
       "timestamp": "2026-07-16T07:00:00+00:00",
       "summary": "NALCO Non-Executive Admit Card 2026 Released at nalcoindia.com; CBT on July 27&nbsp;&nbsp;Telegraph India"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO Non-Executive admit card 2026 out at nalcoindia.com; hall tickets available via direct link - India Today",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUnQ2ZjljSzRyWnZObFcwSFY1aUtHeGYzSTUxQTdHT2dWZzliYVJDeTAtT09XTlpnV0ljSFZ5VTNPR3d2UHZkWmRMb1ZvZWNSSDNYSy1FUlpQaGpyaFIyQmhQcmZHRl9SbUpJbEw0RF85UEhrWENMajRkMnBZV3R3QjFWTGJLazE2N01nNndlR0V2YW1KVWFGcDgzTUpSdHdaaUVRZVhfdGtzUGdnTnZRal8tWDFkcHRkN2dxUnhmYzIwdlVickFWX2xUZTVfTmJpYmpKZXlHTXpaYTBsWElESHFR?oc=5",
-      "date": "2026-07-16",
-      "timestamp": "2026-07-16T06:24:52+00:00",
-      "summary": "NALCO Non-Executive admit card 2026 out at nalcoindia.com; hall tickets available via direct link&nbsp;&nbsp;India Today"
     },
     {
       "source": "Google News",
@@ -172,19 +172,19 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Unveils Rs. 30,000 Crore Expansion to Boost India's Aluminium Capacity - ChemAnalyst",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEJ5eXN6LU5OazJEaFdDUVg2UTk0Q1k0YXFFZ3lKbTF2QjRxdnc1c2NOZmlmNDNmbVA0VHVHSFE3ZWhjSm5uYk13d2hfS2RHLXhNV2oza25fTmtRU2ROUHFhQmY2NGkyMDY0R3J1VzhVbzJHMGFjcUEtbzc2YUxrTDNZQVl6MGlFcHczUHA0WWd5SG9LSHRfM2hEdS1RbXhhdFM3M3dFV0E0WFVaX1VrQzExYw?oc=5",
-      "date": "2026-06-30",
-      "timestamp": "2026-06-30T07:00:00+00:00",
-      "summary": "NALCO Unveils Rs. 30,000 Crore Expansion to Boost India's Aluminium Capacity&nbsp;&nbsp;ChemAnalyst"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO to invest around ₹30,000 cr over next 3-4 years for new smelter, captive power plant: CMD - BusinessLine",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYXFoX3o0R0Vvb09ZX1oxVU9BN204SEpWR2dzRWdlOGtOeGxfUEpwbU01Qm1YUW5tc2VzY2RXWE5WdXdzb2pvbG85NUpkVEtpV2VPdUU1ZE1PYnpMVjFKdDhCbTZLV19IWm9nbHhDQ0NFMTd3ejVldHkyYm9vUE8ybzJ2TE1uMW5qMkJ3X3k0NElCUGxDNm9RVjFnaV9OUjhUQVVqaVZnYnBlX05IRmo1eTlLZkhNME5qRWlXaDBPeGpDelZreG1rcC1iWHdFR3ExS2RSN09rc1djWDdrM0RmV21rc25ITmUwdVk3dmxpVdIB9gFBVV95cUxQUFJLYThyZEFnRXVWRWhSZHZuUTBYTmpIenZOZ0ZCdWJyblJfekwtemUyTHFmb3FZSjM1cXVvaEx0bVZyZ1M1YzF6eUZ1eHd0QWljZXlVa1RBdFV2YWpxdjk2VU5rYjIzdFQ3RjB2T2RCMk1MZjkxMHhZaVJaNElmT0lBOS1pZ2dLd2MtRTFELUlYSjJsTUhWQU9yMjFiNDBTeFJwUmtfSHUxelh6Y210QzdQNE1OVGZDdDhlaTVwUnppanp0SE5Tci0tblBUQ0pFdEktVnZ3UHppWWhyRVllbHZjQ0RVbG5FdUlTWVloM2MyN1JBbXc?oc=5",
       "date": "2026-06-30",
       "timestamp": "2026-06-30T07:00:00+00:00",
       "summary": "NALCO to invest around ₹30,000 cr over next 3-4 years for new smelter, captive power plant: CMD&nbsp;&nbsp;BusinessLine"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO Unveils Rs. 30,000 Crore Expansion to Boost India's Aluminium Capacity - ChemAnalyst",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZEJ5eXN6LU5OazJEaFdDUVg2UTk0Q1k0YXFFZ3lKbTF2QjRxdnc1c2NOZmlmNDNmbVA0VHVHSFE3ZWhjSm5uYk13d2hfS2RHLXhNV2oza25fTmtRU2ROUHFhQmY2NGkyMDY0R3J1VzhVbzJHMGFjcUEtbzc2YUxrTDNZQVl6MGlFcHczUHA0WWd5SG9LSHRfM2hEdS1RbXhhdFM3M3dFV0E0WFVaX1VrQzExYw?oc=5",
+      "date": "2026-06-30",
+      "timestamp": "2026-06-30T07:00:00+00:00",
+      "summary": "NALCO Unveils Rs. 30,000 Crore Expansion to Boost India's Aluminium Capacity&nbsp;&nbsp;ChemAnalyst"
     },
     {
       "source": "Google News",
