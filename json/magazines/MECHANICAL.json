@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "ELEGOO launches H1 HT filament dryer",
+      "category": "MECHANICAL",
+      "date": "2026-07-29T11:18:29+00:00",
+      "url": "https://www.engineering.com/elegoo-launches-h1-ht-filament-dryer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Roland DG launches EU2-1000MF UV flatbed printer",
+      "category": "MECHANICAL",
+      "date": "2026-07-29T10:42:51+00:00",
+      "url": "https://www.engineering.com/roland-dg-launches-eu2-1000mf-uv-flatbed-printer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MULTIVAC selects Teamcenter as PLM backbone",
+      "category": "MECHANICAL",
+      "date": "2026-07-29T10:31:32+00:00",
+      "url": "https://www.engineering.com/multivac-selects-teamcenter-as-plm-backbone/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AEWIN adds servers for AMD EPYC 9006 processors",
+      "category": "MECHANICAL",
+      "date": "2026-07-29T08:58:03+00:00",
+      "url": "https://www.engineering.com/aewin-adds-servers-for-amd-epyc-9006-processors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ScaleFlux introduces PCIe Gen6 storage and memory controllers",
+      "category": "MECHANICAL",
+      "date": "2026-07-29T08:43:08+00:00",
+      "url": "https://www.engineering.com/scaleflux-introduces-pcie-gen6-storage-and-memory-controllers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "ABB agrees to acquire Rotork for automation portfolio",
       "category": "MECHANICAL",
       "date": "2026-07-29T08:33:55+00:00",
@@ -10698,5 +10738,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-29T08:42:19.885802+00:00"
+  "last_updated_utc": "2026-07-29T14:11:49.025159+00:00"
 }

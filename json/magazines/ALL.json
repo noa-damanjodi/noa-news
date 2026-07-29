@@ -2,11 +2,91 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Meteoric and POSCO sign partnership on Brazil rare earths project",
+      "category": "INDUSTRY",
+      "date": "2026-07-29T13:19:15+00:00",
+      "url": "https://www.mining-technology.com/news/meteoric-posco-partnership-brazil-rare-earths/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Patriot Resources to acquire 90% stake in Zambia Copperbelt licence",
+      "category": "INDUSTRY",
+      "date": "2026-07-29T13:00:59+00:00",
+      "url": "https://www.mining-technology.com/news/patriot-resources-stake-zambia-copperbelt-licence/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ELEGOO launches H1 HT filament dryer",
+      "category": "MECHANICAL",
+      "date": "2026-07-29T11:18:29+00:00",
+      "url": "https://www.engineering.com/elegoo-launches-h1-ht-filament-dryer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cyber espionage in mining: how big is the threat?",
+      "category": "INDUSTRY",
+      "date": "2026-07-29T10:55:48+00:00",
+      "url": "https://www.mining-technology.com/analysis/cyber-espionage-in-mining-podcast/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Roland DG launches EU2-1000MF UV flatbed printer",
+      "category": "MECHANICAL",
+      "date": "2026-07-29T10:42:51+00:00",
+      "url": "https://www.engineering.com/roland-dg-launches-eu2-1000mf-uv-flatbed-printer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "METLEN to supply 25% of Greek gallium output to US tech company",
+      "category": "INDUSTRY",
+      "date": "2026-07-29T10:31:32+00:00",
+      "url": "https://www.mining-technology.com/news/metlen-supply-greek-gallium-output-us-company/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "MULTIVAC selects Teamcenter as PLM backbone",
+      "category": "MECHANICAL",
+      "date": "2026-07-29T10:31:32+00:00",
+      "url": "https://www.engineering.com/multivac-selects-teamcenter-as-plm-backbone/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AEWIN adds servers for AMD EPYC 9006 processors",
+      "category": "MECHANICAL",
+      "date": "2026-07-29T08:58:03+00:00",
+      "url": "https://www.engineering.com/aewin-adds-servers-for-amd-epyc-9006-processors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ScaleFlux introduces PCIe Gen6 storage and memory controllers",
+      "category": "MECHANICAL",
+      "date": "2026-07-29T08:43:08+00:00",
+      "url": "https://www.engineering.com/scaleflux-introduces-pcie-gen6-storage-and-memory-controllers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "ABB agrees to acquire Rotork for automation portfolio",
       "category": "MECHANICAL",
       "date": "2026-07-29T08:33:55+00:00",
       "url": "https://www.engineering.com/abb-agrees-to-acquire-rotork-for-automation-portfolio/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "BN Strategic Metals to build APT processing plant in California",
+      "category": "INDUSTRY",
+      "date": "2026-07-29T08:27:30+00:00",
+      "url": "https://www.mining-technology.com/news/bn-strategic-metals-apt-processing-plant-california/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -39538,5 +39618,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-29T08:42:19.885802+00:00"
+  "last_updated_utc": "2026-07-29T14:11:49.025159+00:00"
 }
