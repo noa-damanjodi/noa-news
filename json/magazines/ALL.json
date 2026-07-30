@@ -2,6 +2,38 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Drowning deaths among kids on the rise, safety agency says",
+      "category": "SAFETY",
+      "date": "2026-07-30T17:15:06+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/drowning-deaths-among-kids-on-the-rise-safety-agency-says/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Senate committee approves Keith Sonderling’s nomination for labor secretary",
+      "category": "SAFETY",
+      "date": "2026-07-30T17:09:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/senate-committee-approves-keith-sonderlings-nomination-for-labor-secretary/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens adds code-based HMI engineering tool",
+      "category": "MECHANICAL",
+      "date": "2026-07-30T14:15:41+00:00",
+      "url": "https://www.engineering.com/siemens-adds-code-based-hmi-engineering-tool/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sovol launches M1D 3D printer with DualX system",
+      "category": "MECHANICAL",
+      "date": "2026-07-30T14:03:46+00:00",
+      "url": "https://www.engineering.com/sovol-launches-m1d-3d-printer-with-dualx-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Aligning wildfire mitigation with utility operations and planning",
       "category": "RENEWABLE",
       "date": "2026-07-30T13:24:33+00:00",
@@ -39818,5 +39850,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-30T14:04:44.402683+00:00"
+  "last_updated_utc": "2026-07-30T19:26:39.622084+00:00"
 }
