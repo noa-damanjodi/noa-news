@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Energy Fuels starts construction on White Mesa Mill expansion",
+      "category": "INDUSTRY",
+      "date": "2026-07-30T10:38:17+00:00",
+      "url": "https://www.mining-technology.com/news/energy-fuels-construction-white-mesa-expansion/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Allied Gold and Zijin Gold end arrangement agreement",
+      "category": "INDUSTRY",
+      "date": "2026-07-30T07:58:59+00:00",
+      "url": "https://www.mining-technology.com/news/allied-gold-zijin-gold-end-arrangement-agreement/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "FAST Metals secures $4.3m to boost red mud mineral recovery",
       "category": "INDUSTRY",
       "date": "2026-07-30T07:28:48+00:00",
@@ -6962,5 +6978,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-30T08:28:07.197640+00:00"
+  "last_updated_utc": "2026-07-30T14:04:44.402683+00:00"
 }

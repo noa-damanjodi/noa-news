@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Lunar Outpost uses NVIDIA computing for Moon missions",
+      "category": "MECHANICAL",
+      "date": "2026-07-30T11:36:13+00:00",
+      "url": "https://www.engineering.com/lunar-outpost-uses-nvidia-computing-for-moon-missions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Silvaco and NVIDIA advance semiconductor digital twins",
+      "category": "MECHANICAL",
+      "date": "2026-07-30T11:27:35+00:00",
+      "url": "https://www.engineering.com/silvaco-and-nvidia-advance-semiconductor-digital-twins/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Teledyne LeCroy adds PAM3 exerciser for USB4 testing",
+      "category": "MECHANICAL",
+      "date": "2026-07-30T11:14:26+00:00",
+      "url": "https://www.engineering.com/teledyne-lecroy-adds-pam3-exerciser-for-usb4-testing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Muse and TCI expand university access to PLL IP",
+      "category": "MECHANICAL",
+      "date": "2026-07-30T11:05:50+00:00",
+      "url": "https://www.engineering.com/muse-and-tci-expand-university-access-to-pll-ip/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Procore to acquire DroneDeploy for visual intelligence",
+      "category": "MECHANICAL",
+      "date": "2026-07-30T09:57:22+00:00",
+      "url": "https://www.engineering.com/procore-to-acquire-dronedeploy-for-visual-intelligence/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Robot Blowback in Korea and China Growth Slows",
       "category": "MECHANICAL",
       "date": "2026-07-29T16:00:00+00:00",
@@ -10754,5 +10794,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-30T08:28:07.197640+00:00"
+  "last_updated_utc": "2026-07-30T14:04:44.402683+00:00"
 }

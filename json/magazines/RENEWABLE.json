@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Aligning wildfire mitigation with utility operations and planning",
+      "category": "RENEWABLE",
+      "date": "2026-07-30T13:24:33+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/aligning-wildfire-mitigation-with-utility-operations-and-planning/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Scaling and optimizing modern battery production: The role of advanced automation and digitalization",
+      "category": "RENEWABLE",
+      "date": "2026-07-30T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/scaling-and-optimizing-modern-battery-production-the-role-of-advanced-automation-and-digitalization/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Relieving grid congestion with advanced transmission technologies | Factor This Policycast",
+      "category": "RENEWABLE",
+      "date": "2026-07-30T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/relieving-grid-congestion-with-advanced-transmission-technologies-factor-this-policycast/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Dozens of utilities join pledge pledge to protect consumers from high bills from AI data centers",
       "category": "RENEWABLE",
       "date": "2026-07-28T18:58:09+00:00",
@@ -3034,5 +3058,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-30T08:28:07.197640+00:00"
+  "last_updated_utc": "2026-07-30T14:04:44.402683+00:00"
 }
