@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "FAST Metals secures $4.3m to boost red mud mineral recovery",
+      "category": "INDUSTRY",
+      "date": "2026-07-30T07:28:48+00:00",
+      "url": "https://www.mining-technology.com/news/fast-metals-red-mud-mineral-recovery/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Why material selection is critical to withstand some of the harshest operating conditions in mining",
       "category": "INDUSTRY",
       "date": "2026-07-29T13:29:58+00:00",
@@ -6954,5 +6962,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-30T02:29:47.020749+00:00"
+  "last_updated_utc": "2026-07-30T08:28:07.197640+00:00"
 }
