@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Is beer brewing getting greener? – This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-07-31T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/is-beer-brewing-getting-greener-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Aligning wildfire mitigation with utility operations and planning",
       "category": "RENEWABLE",
       "date": "2026-07-30T13:24:33+00:00",
@@ -3066,5 +3074,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-31T08:50:33.896935+00:00"
+  "last_updated_utc": "2026-07-31T14:09:06.031936+00:00"
 }
