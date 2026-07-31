@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Additive medical device update: Point-of-care 3D printing, custom blood vessels, and 20-minute contact lenses",
+      "category": "MECHANICAL",
+      "date": "2026-07-31T15:38:24+00:00",
+      "url": "https://www.engineering.com/additive-medical-device-update-point-of-care-3d-printing-custom-blood-vessels-and-20-minute-contact-lenses/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IMSI Design launches FloorPlan 2026",
+      "category": "MECHANICAL",
+      "date": "2026-07-31T14:37:04+00:00",
+      "url": "https://www.engineering.com/imsi-design-launches-floorplan-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ZWSOFT previews ZW3D WuKong 2027 CAD platform",
+      "category": "MECHANICAL",
+      "date": "2026-07-31T14:19:51+00:00",
+      "url": "https://www.engineering.com/zwsoft-previews-zw3d-wukong-2027-cad-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens updates Simcenter simulation software",
+      "category": "MECHANICAL",
+      "date": "2026-07-31T14:06:03+00:00",
+      "url": "https://www.engineering.com/siemens-updates-simcenter-simulation-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Siemens opens energy technology factory in Egypt",
       "category": "MECHANICAL",
       "date": "2026-07-31T11:50:55+00:00",
@@ -10858,5 +10890,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-31T14:09:06.031936+00:00"
+  "last_updated_utc": "2026-07-31T19:26:44.707455+00:00"
 }

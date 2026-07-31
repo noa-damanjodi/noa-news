@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Economy grew 0.3% in May, on track for solid Q2 rebound: StatCan",
+      "category": "INSTRUMENTATION",
+      "date": "2026-07-31T15:30:17+00:00",
+      "url": "https://www.automationmag.com/economy-grew-0-3-in-may-on-track-for-solid-q2-rebound-statcan/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "STMicroelectronics’ new galvanically isolated gate drivers aim to simplify power design with advanced isolation",
       "category": "INSTRUMENTATION",
       "date": "2026-07-29T16:10:11+00:00",
@@ -2410,5 +2418,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-07-31T14:09:06.031936+00:00"
+  "last_updated_utc": "2026-07-31T19:26:44.707455+00:00"
 }
