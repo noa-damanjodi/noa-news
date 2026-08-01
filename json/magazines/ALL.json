@@ -10,6 +10,14 @@
       "type": "magazine"
     },
     {
+      "title": "PCB Design Software in 2026: What Beginners Should Compare",
+      "category": "MECHANICAL",
+      "date": "2026-08-01T08:00:00+00:00",
+      "url": "https://www.engineering.com/pcb-design-software-in-2026-what-beginners-should-compare/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Renewable generation is growing faster than ever",
       "category": "RENEWABLE",
       "date": "2026-07-31T17:28:04+00:00",
@@ -494,14 +502,6 @@
       "category": "MECHANICAL",
       "date": "2026-07-29T16:00:00+00:00",
       "url": "https://www.engineering.com/robot-blowback-in-korea-and-china-growth-slows/",
-      "source": "Engineering.com",
-      "type": "magazine"
-    },
-    {
-      "title": "PCB Design Software in 2026: What Beginners Should Compare",
-      "category": "MECHANICAL",
-      "date": "2026-07-29T15:06:18+00:00",
-      "url": "https://www.engineering.com/pcb-design-software-in-2026-what-beginners-should-compare/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -40130,5 +40130,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-01T13:23:12.777814+00:00"
+  "last_updated_utc": "2026-08-01T19:09:15.149857+00:00"
 }
