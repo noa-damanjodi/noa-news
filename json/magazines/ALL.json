@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "MaxMine launches AI assistant for mining industry",
+      "category": "INDUSTRY",
+      "date": "2026-08-03T13:26:11+00:00",
+      "url": "https://www.mining-technology.com/news/maxmine-ai-assistant-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Vertex Minerals announces first production firing at Reward Gold Mine",
+      "category": "INDUSTRY",
+      "date": "2026-08-03T13:19:16+00:00",
+      "url": "https://www.mining-technology.com/news/vertex-minerals-production-firing-reward-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "The end is nigh for G-code",
+      "category": "MECHANICAL",
+      "date": "2026-08-03T13:00:00+00:00",
+      "url": "https://www.engineering.com/the-end-is-nigh-for-g-code/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Redefining the utility playbook with PG&E’s Sumeet Singh",
+      "category": "RENEWABLE",
+      "date": "2026-08-03T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/redefining-the-utility-playbook-with-pges-sumeet-singh/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "AngloGold reports 58% rise in Q2 2026 headline earnings",
+      "category": "INDUSTRY",
+      "date": "2026-08-03T10:35:53+00:00",
+      "url": "https://www.mining-technology.com/news/anglogold-rise-q2-headline-earnings/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "They’re choosin’ Texas | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-08-03T09:55:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/theyre-choosin-texas-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Synopsys expands Intel Foundry EDA collaboration",
       "category": "MECHANICAL",
       "date": "2026-08-03T09:38:44+00:00",
@@ -10,10 +58,34 @@
       "type": "magazine"
     },
     {
+      "title": "Siemens and ASU launch PCB design credential",
+      "category": "MECHANICAL",
+      "date": "2026-08-03T09:31:00+00:00",
+      "url": "https://www.engineering.com/siemens-and-asu-launch-pcb-design-credential/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Sift adds local telemetry platform for test sites",
       "category": "MECHANICAL",
       "date": "2026-08-03T09:24:38+00:00",
       "url": "https://www.engineering.com/sift-adds-local-telemetry-platform-for-test-sites/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "UD info adds industrial SD and microSD cards",
+      "category": "MECHANICAL",
+      "date": "2026-08-03T09:08:00+00:00",
+      "url": "https://www.engineering.com/ud-info-adds-industrial-sd-and-microsd-cards/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens tools certified for Intel process nodes",
+      "category": "MECHANICAL",
+      "date": "2026-08-03T09:02:00+00:00",
+      "url": "https://www.engineering.com/siemens-tools-certified-for-intel-process-nodes/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -31,6 +103,14 @@
       "date": "2026-08-03T08:41:48+00:00",
       "url": "https://www.engineering.com/synteq-launches-cloud-infrastructure-platform/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Pakistan coal mine explosion kills 34 miners",
+      "category": "INDUSTRY",
+      "date": "2026-08-03T07:37:23+00:00",
+      "url": "https://www.mining-technology.com/news/pakistan-coal-mine-explosion/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -40242,5 +40322,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-03T09:47:45.409664+00:00"
+  "last_updated_utc": "2026-08-03T14:40:56.180602+00:00"
 }

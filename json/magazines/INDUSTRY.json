@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "MaxMine launches AI assistant for mining industry",
+      "category": "INDUSTRY",
+      "date": "2026-08-03T13:26:11+00:00",
+      "url": "https://www.mining-technology.com/news/maxmine-ai-assistant-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Vertex Minerals announces first production firing at Reward Gold Mine",
+      "category": "INDUSTRY",
+      "date": "2026-08-03T13:19:16+00:00",
+      "url": "https://www.mining-technology.com/news/vertex-minerals-production-firing-reward-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "AngloGold reports 58% rise in Q2 2026 headline earnings",
+      "category": "INDUSTRY",
+      "date": "2026-08-03T10:35:53+00:00",
+      "url": "https://www.mining-technology.com/news/anglogold-rise-q2-headline-earnings/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Pakistan coal mine explosion kills 34 miners",
+      "category": "INDUSTRY",
+      "date": "2026-08-03T07:37:23+00:00",
+      "url": "https://www.mining-technology.com/news/pakistan-coal-mine-explosion/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Canada Nickel’s Crawford project gains federal approval",
       "category": "INDUSTRY",
       "date": "2026-08-03T07:27:59+00:00",
@@ -7042,5 +7074,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-03T09:47:45.409664+00:00"
+  "last_updated_utc": "2026-08-03T14:40:56.180602+00:00"
 }
