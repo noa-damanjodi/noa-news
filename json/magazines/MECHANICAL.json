@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Synopsys expands Intel Foundry EDA collaboration",
+      "category": "MECHANICAL",
+      "date": "2026-08-03T09:38:44+00:00",
+      "url": "https://www.engineering.com/synopsys-expands-intel-foundry-eda-collaboration/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sift adds local telemetry platform for test sites",
+      "category": "MECHANICAL",
+      "date": "2026-08-03T09:24:38+00:00",
+      "url": "https://www.engineering.com/sift-adds-local-telemetry-platform-for-test-sites/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Arriyadh Roaster selects Plex manufacturing platform",
+      "category": "MECHANICAL",
+      "date": "2026-08-03T08:46:10+00:00",
+      "url": "https://www.engineering.com/arriyadh-roaster-selects-plex-manufacturing-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Synteq launches cloud infrastructure platform",
+      "category": "MECHANICAL",
+      "date": "2026-08-03T08:41:48+00:00",
+      "url": "https://www.engineering.com/synteq-launches-cloud-infrastructure-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Murata Enabling the Future of Autonomous Driving",
       "category": "MECHANICAL",
       "date": "2026-08-01T08:00:00+00:00",
@@ -10898,5 +10930,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-03T02:54:14.347355+00:00"
+  "last_updated_utc": "2026-08-03T09:47:45.409664+00:00"
 }
