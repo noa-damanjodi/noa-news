@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Backflip’s back. Is the mesh-to-CAD AI real this time?",
+      "category": "MECHANICAL",
+      "date": "2026-08-04T17:38:12+00:00",
+      "url": "https://www.engineering.com/backflips-back-is-the-mesh-to-cad-ai-real-this-time/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "SMT deploys Siemens Teamcenter for medical device PLM",
       "category": "MECHANICAL",
       "date": "2026-08-04T12:21:38+00:00",
@@ -11018,5 +11026,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-04T14:15:43.715276+00:00"
+  "last_updated_utc": "2026-08-04T19:38:10.801000+00:00"
 }
