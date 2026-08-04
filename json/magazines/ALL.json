@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Hybridizing hydro could ease grid constraints says Ember",
+      "category": "RENEWABLE",
+      "date": "2026-08-03T19:52:31+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/hybridizing-hydro-could-ease-grid-constraints-says-ember/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Arizona, California and Nevada would share cuts under federal proposal to manage the Colorado River",
+      "category": "RENEWABLE",
+      "date": "2026-08-03T19:37:27+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/arizona-california-and-nevada-would-share-cuts-under-federal-proposal-to-manage-the-colorado-river/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "OSHA extends comment deadline for proposed changes to Benzene rule",
       "category": "SAFETY",
       "date": "2026-08-03T17:25:02+00:00",
@@ -239,6 +255,14 @@
       "date": "2026-08-01T08:00:00+00:00",
       "url": "https://www.engineering.com/pcb-design-software-in-2026-what-beginners-should-compare/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mocean Energy targets wave-powered offshore data centers",
+      "category": "RENEWABLE",
+      "date": "2026-07-31T19:48:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/mocean-energy-targets-wave-powered-offshore-data-centers/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -40354,5 +40378,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-03T19:38:27.972163+00:00"
+  "last_updated_utc": "2026-08-04T02:38:53.485395+00:00"
 }
