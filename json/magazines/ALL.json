@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "AuKing Mining agrees to purchase Malawi’s Machinga HREE project",
+      "category": "INDUSTRY",
+      "date": "2026-08-04T13:17:50+00:00",
+      "url": "https://www.mining-technology.com/news/auking-mining-to-purchase-machinga-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "SMT deploys Siemens Teamcenter for medical device PLM",
+      "category": "MECHANICAL",
+      "date": "2026-08-04T12:21:38+00:00",
+      "url": "https://www.engineering.com/smt-deploys-siemens-teamcenter-for-medical-device-plm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Inspire update adds point cloud and ATS800 support",
+      "category": "MECHANICAL",
+      "date": "2026-08-04T12:03:24+00:00",
+      "url": "https://www.engineering.com/inspire-update-adds-point-cloud-and-ats800-support/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Simple Energy expands use of Siemens Xcelerator software",
+      "category": "MECHANICAL",
+      "date": "2026-08-04T12:00:25+00:00",
+      "url": "https://www.engineering.com/simple-energy-expands-use-of-siemens-xcelerator-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Kioxia SSDs reach 10 million random read IOPS",
+      "category": "MECHANICAL",
+      "date": "2026-08-04T11:29:25+00:00",
+      "url": "https://www.engineering.com/kioxia-ssds-reach-10-million-random-read-iops/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "d-Matrix acquires Wallaroo.ai to expand AI inference platform",
+      "category": "MECHANICAL",
+      "date": "2026-08-04T10:49:57+00:00",
+      "url": "https://www.engineering.com/d-matrix-acquires-wallaroo-ai-to-expand-ai-inference-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Superblocks brings enterprise AI app platform to AWS",
+      "category": "MECHANICAL",
+      "date": "2026-08-04T10:41:14+00:00",
+      "url": "https://www.engineering.com/superblocks-brings-enterprise-ai-app-platform-to-aws/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Kioxia unveils XL1 CXL-compatible memory expansion module",
+      "category": "MECHANICAL",
+      "date": "2026-08-04T10:32:09+00:00",
+      "url": "https://www.engineering.com/kioxia-unveils-xl1-cxl-compatible-memory-expansion-module/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Yari Resources signs SPA for Arcadia Coal Project acquisition",
+      "category": "INDUSTRY",
+      "date": "2026-08-04T10:11:20+00:00",
+      "url": "https://www.mining-technology.com/news/yari-resources-arcadia-coal-project-acquisition/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Element 25 and OM Materials agree binding manganese supply contract",
       "category": "INDUSTRY",
       "date": "2026-08-04T08:05:32+00:00",
@@ -40458,5 +40530,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-04T08:38:04.221733+00:00"
+  "last_updated_utc": "2026-08-04T14:15:43.715276+00:00"
 }

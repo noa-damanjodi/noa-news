@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "AuKing Mining agrees to purchase Malawi’s Machinga HREE project",
+      "category": "INDUSTRY",
+      "date": "2026-08-04T13:17:50+00:00",
+      "url": "https://www.mining-technology.com/news/auking-mining-to-purchase-machinga-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Yari Resources signs SPA for Arcadia Coal Project acquisition",
+      "category": "INDUSTRY",
+      "date": "2026-08-04T10:11:20+00:00",
+      "url": "https://www.mining-technology.com/news/yari-resources-arcadia-coal-project-acquisition/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Element 25 and OM Materials agree binding manganese supply contract",
       "category": "INDUSTRY",
       "date": "2026-08-04T08:05:32+00:00",
@@ -7090,5 +7106,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-04T08:38:04.221733+00:00"
+  "last_updated_utc": "2026-08-04T14:15:43.715276+00:00"
 }
