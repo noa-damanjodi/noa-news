@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Element 25 and OM Materials agree binding manganese supply contract",
+      "category": "INDUSTRY",
+      "date": "2026-08-04T08:05:32+00:00",
+      "url": "https://www.mining-technology.com/news/element-25-om-materials-manganese-supply-contract/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Cove Kaz Capital Group engages operators for Kazakhstan tungsten DFS",
+      "category": "INDUSTRY",
+      "date": "2026-08-04T07:58:06+00:00",
+      "url": "https://www.mining-technology.com/news/cove-kaz-capital-kazakhstan-tungsten-dfs/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "MaxMine launches AI assistant for mining industry",
       "category": "INDUSTRY",
       "date": "2026-08-03T13:26:11+00:00",
@@ -7074,5 +7090,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-04T02:38:53.485395+00:00"
+  "last_updated_utc": "2026-08-04T08:38:04.221733+00:00"
 }
