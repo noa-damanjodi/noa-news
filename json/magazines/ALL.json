@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "How Volkert Cut Fleet Risk Without Losing Driver Trust",
+      "category": "SAFETY",
+      "date": "2026-08-05T19:29:48+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/how-volkert-cut-fleet-risk-without-losing-driver-trust/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Developing the Most Mechanically Accurate Skin in Medicine",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T19:21:26+00:00",
+      "url": "https://www.engineering.com/developing-the-most-mechanically-accurate-skin-in-medicine/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Allient Inc. introduces Vyxalon Apex Drone Drive for professional drone propulsion systems",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-05T18:49:27+00:00",
+      "url": "https://www.automationmag.com/allient-inc-introduces-vyxalon-apex-drone-drive-for-professional-drone-propulsion-systems/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Genesis-Vault deal reflects Australia’s changing gold growth story",
+      "category": "INDUSTRY",
+      "date": "2026-08-05T18:23:25+00:00",
+      "url": "https://www.mining-technology.com/analyst-comment/genesis-vault-deal-reflects-australias-changing-gold-growth-story/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "igus launches self-supporting energy chain with 600-degree rotation for industrial robots",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-05T18:20:32+00:00",
+      "url": "https://www.automationmag.com/igus-launches-self-supporting-energy-chain-with-600-degree-rotation-for-industrial-robots/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Two Senate Democrats question FMCSA data on truck and bus crashes",
+      "category": "SAFETY",
+      "date": "2026-08-05T17:35:47+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/reported-data-gaps-suggest-fmcsa-may-be-jeopardizing-its-mission-lawmakers-contend/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Backflip AI launches AI copilot for CAD",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-05T17:19:33+00:00",
+      "url": "https://www.automationmag.com/backflip-ai-launches-ai-copilot-for-cad/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Bipartisan bills on workplace violence prevention move forward in Pennsylvania",
+      "category": "SAFETY",
+      "date": "2026-08-05T17:17:07+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/bipartisan-bills-on-workplace-violence-prevention-move-forward-in-pennsylvania/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NIOSH firefighter cancer registry video wins a Telly award",
+      "category": "SAFETY",
+      "date": "2026-08-05T17:04:23+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/niosh-firefighter-cancer-registry-video-wins-a-telly-award/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ISA awards scholarships to 31 students from seven countries",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-05T16:58:26+00:00",
+      "url": "https://www.automationmag.com/isa-awards-scholarships-to-31-students-from-seven-countries/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Fujitsu, NVIDIA make moves on physical AI",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T16:00:00+00:00",
+      "url": "https://www.engineering.com/fujitsu-nvidia-make-moves-on-physical-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "From predictive maintenance to autonomous operations: the roadmap to scaling AI in mining",
+      "category": "INDUSTRY",
+      "date": "2026-08-05T14:53:15+00:00",
+      "url": "https://www.mining-technology.com/sponsored/from-predictive-maintenance-to-autonomous-operations-the-roadmap-to-scaling-ai-in-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Baumer opens Innovation Lab for sensor testing",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-05T14:21:44+00:00",
+      "url": "https://www.automationmag.com/baumer-opens-innovation-lab-for-sensor-testing/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Tempel Canada expanding manufacturing footprint in Burlington, Ont.",
       "category": "INSTRUMENTATION",
       "date": "2026-08-05T14:06:16+00:00",
@@ -15,6 +119,22 @@
       "date": "2026-08-05T13:52:54+00:00",
       "url": "https://www.automationmag.com/manufacturing-pmi-strengthens-to-highest-level-in-over-four-years-sp-global/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "SAGA Metals agrees to sell North Wind property",
+      "category": "INDUSTRY",
+      "date": "2026-08-05T13:02:20+00:00",
+      "url": "https://www.mining-technology.com/news/saga-metals-to-sell-north-wind-property/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Codelco suspends Andes Norte development amid seismic risk concerns",
+      "category": "INDUSTRY",
+      "date": "2026-08-05T12:47:50+00:00",
+      "url": "https://www.mining-technology.com/news/codelco-suspends-andes-norte-development/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -40730,5 +40850,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-05T14:10:55.051295+00:00"
+  "last_updated_utc": "2026-08-05T19:36:00.593365+00:00"
 }
