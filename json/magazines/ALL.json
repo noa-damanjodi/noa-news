@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Tempel Canada expanding manufacturing footprint in Burlington, Ont.",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-05T14:06:16+00:00",
+      "url": "https://www.automationmag.com/tempel-canada-expanding-manufacturing-footprint-in-burlington-ont/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Manufacturing PMI strengthens to highest level in over four years: S&P Global",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-05T13:52:54+00:00",
+      "url": "https://www.automationmag.com/manufacturing-pmi-strengthens-to-highest-level-in-over-four-years-sp-global/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Sarla Aviation adopts Siemens software for eVTOL development",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T12:19:21+00:00",
+      "url": "https://www.engineering.com/sarla-aviation-adopts-siemens-software-for-evtol-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC adds Arena Connect to PLM and QMS release",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T12:10:35+00:00",
+      "url": "https://www.engineering.com/ptc-adds-arena-connect-to-plm-and-qms-release/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "FARO enhances Blink imaging laser scanner capabilities",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T12:01:18+00:00",
+      "url": "https://www.engineering.com/faro-enhances-blink-imaging-laser-scanner-capabilities/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Teledyne LeCroy readies Summit M616 for PCIe 7.0",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T11:54:19+00:00",
+      "url": "https://www.engineering.com/teledyne-lecroy-readies-summit-m616-for-pcie-7-0/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Corvex signs multi-year NVIDIA Blackwell GPU infrastructure deal",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T11:50:00+00:00",
+      "url": "https://www.engineering.com/corvex-signs-multi-year-nvidia-blackwell-gpu-infrastructure-deal/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Kioxia GP Series SSD wins FMS Best of Show award",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T11:46:49+00:00",
+      "url": "https://www.engineering.com/kioxia-gp-series-ssd-wins-fms-best-of-show-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric launches S-EIV-X rail energy inverter",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T11:21:39+00:00",
+      "url": "https://www.engineering.com/mitsubishi-electric-launches-s-eiv-x-rail-energy-inverter/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Digitalisation Roadmap: Key practices and emerging trends in data management and governance",
+      "category": "POWER",
+      "date": "2026-08-05T10:56:32+00:00",
+      "url": "https://powerline.net.in/2026/08/05/digitalisation-roadmap-key-practices-and-emerging-trends-in-data-management-and-governance/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Mastermyne wins Dendrobium mining services contract in NSW",
+      "category": "INDUSTRY",
+      "date": "2026-08-05T09:56:37+00:00",
+      "url": "https://www.mining-technology.com/news/mastermyne-dendrobium-mining-services-contract/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "DryFlow prepares first commercial mining technology for US export",
+      "category": "INDUSTRY",
+      "date": "2026-08-05T07:35:19+00:00",
+      "url": "https://www.mining-technology.com/news/dryflow-commercial-mining-technology-us-export/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "FPX Nickel begins 4,000m of diamond drilling at Advocate Property",
       "category": "INDUSTRY",
       "date": "2026-08-05T07:26:09+00:00",
@@ -40634,5 +40730,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-05T08:37:14.924272+00:00"
+  "last_updated_utc": "2026-08-05T14:10:55.051295+00:00"
 }

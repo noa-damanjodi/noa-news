@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Sarla Aviation adopts Siemens software for eVTOL development",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T12:19:21+00:00",
+      "url": "https://www.engineering.com/sarla-aviation-adopts-siemens-software-for-evtol-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC adds Arena Connect to PLM and QMS release",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T12:10:35+00:00",
+      "url": "https://www.engineering.com/ptc-adds-arena-connect-to-plm-and-qms-release/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "FARO enhances Blink imaging laser scanner capabilities",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T12:01:18+00:00",
+      "url": "https://www.engineering.com/faro-enhances-blink-imaging-laser-scanner-capabilities/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Teledyne LeCroy readies Summit M616 for PCIe 7.0",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T11:54:19+00:00",
+      "url": "https://www.engineering.com/teledyne-lecroy-readies-summit-m616-for-pcie-7-0/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Corvex signs multi-year NVIDIA Blackwell GPU infrastructure deal",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T11:50:00+00:00",
+      "url": "https://www.engineering.com/corvex-signs-multi-year-nvidia-blackwell-gpu-infrastructure-deal/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Kioxia GP Series SSD wins FMS Best of Show award",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T11:46:49+00:00",
+      "url": "https://www.engineering.com/kioxia-gp-series-ssd-wins-fms-best-of-show-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric launches S-EIV-X rail energy inverter",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T11:21:39+00:00",
+      "url": "https://www.engineering.com/mitsubishi-electric-launches-s-eiv-x-rail-energy-inverter/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Backflip’s back. Is the mesh-to-CAD AI real this time?",
       "category": "MECHANICAL",
       "date": "2026-08-04T17:38:12+00:00",
@@ -11026,5 +11082,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-05T08:37:14.924272+00:00"
+  "last_updated_utc": "2026-08-05T14:10:55.051295+00:00"
 }

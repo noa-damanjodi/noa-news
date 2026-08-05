@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Tempel Canada expanding manufacturing footprint in Burlington, Ont.",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-05T14:06:16+00:00",
+      "url": "https://www.automationmag.com/tempel-canada-expanding-manufacturing-footprint-in-burlington-ont/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Manufacturing PMI strengthens to highest level in over four years: S&P Global",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-05T13:52:54+00:00",
+      "url": "https://www.automationmag.com/manufacturing-pmi-strengthens-to-highest-level-in-over-four-years-sp-global/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Economy grew 0.3% in May, on track for solid Q2 rebound: StatCan",
       "category": "INSTRUMENTATION",
       "date": "2026-07-31T15:30:17+00:00",
@@ -2418,5 +2434,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-05T08:37:14.924272+00:00"
+  "last_updated_utc": "2026-08-05T14:10:55.051295+00:00"
 }
