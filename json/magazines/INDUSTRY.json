@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "FPX Nickel begins 4,000m of diamond drilling at Advocate Property",
+      "category": "INDUSTRY",
+      "date": "2026-08-05T07:26:09+00:00",
+      "url": "https://www.mining-technology.com/news/fpx-nickel-4000m-diamond-drilling-advocate-property/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "SAGA Metals begins mobilisation for Wolverine rare earth project",
+      "category": "INDUSTRY",
+      "date": "2026-08-04T13:29:07+00:00",
+      "url": "https://www.mining-technology.com/news/saga-metals-mobilisation-wolverine-rare-earth/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "AuKing Mining agrees to purchase Malawi’s Machinga HREE project",
       "category": "INDUSTRY",
       "date": "2026-08-04T13:17:50+00:00",
@@ -7106,5 +7122,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-05T02:37:02.836089+00:00"
+  "last_updated_utc": "2026-08-05T08:37:14.924272+00:00"
 }
