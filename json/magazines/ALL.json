@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Para Light launches ThermaFlat SiC MOSFET family",
+      "category": "MECHANICAL",
+      "date": "2026-08-05T23:57:00+00:00",
+      "url": "https://www.engineering.com/para-light-launches-thermaflat-sic-mosfet-family/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HBK announces acquisition of Sentech",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-05T20:15:19+00:00",
+      "url": "https://www.automationmag.com/hbk-announces-acquisition-of-sentech/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "How Volkert Cut Fleet Risk Without Losing Driver Trust",
       "category": "SAFETY",
       "date": "2026-08-05T19:29:48+00:00",
@@ -15,6 +31,14 @@
       "date": "2026-08-05T19:21:26+00:00",
       "url": "https://www.engineering.com/developing-the-most-mechanically-accurate-skin-in-medicine/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PJM accepts over 700 generation projects in new ‘first-ready, first-served’ queue",
+      "category": "RENEWABLE",
+      "date": "2026-08-05T19:15:09+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/pjm-accepts-over-700-generation-projects-in-new-first-ready-first-served-queue/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -40850,5 +40874,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-05T19:36:00.593365+00:00"
+  "last_updated_utc": "2026-08-06T02:39:43.355664+00:00"
 }

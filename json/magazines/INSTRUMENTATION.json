@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "HBK announces acquisition of Sentech",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-05T20:15:19+00:00",
+      "url": "https://www.automationmag.com/hbk-announces-acquisition-of-sentech/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Allient Inc. introduces Vyxalon Apex Drone Drive for professional drone propulsion systems",
       "category": "INSTRUMENTATION",
       "date": "2026-08-05T18:49:27+00:00",
@@ -2474,5 +2482,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-05T19:36:00.593365+00:00"
+  "last_updated_utc": "2026-08-06T02:39:43.355664+00:00"
 }
