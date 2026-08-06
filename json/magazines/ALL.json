@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Kobrea and BHP form exploration alliance in Argentina",
+      "category": "INDUSTRY",
+      "date": "2026-08-06T07:24:26+00:00",
+      "url": "https://www.mining-technology.com/news/kobrea-bhp-exploration-alliance-argentina/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "July Issue 2026",
+      "category": "POWER",
+      "date": "2026-08-06T06:36:04+00:00",
+      "url": "https://powerline.net.in/2026/08/06/july-issue-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "PFCCL transfers two inter-state transmission SPVs to POWERGRID and Apraava Energy",
+      "category": "POWER",
+      "date": "2026-08-06T06:30:34+00:00",
+      "url": "https://powerline.net.in/2026/08/06/pfccl-transfers-two-inter-state-transmission-spvs-to-powergrid-and-apraava-energy/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "POWEGRID commissions 20 GW renewable energy evacuation transmission system in Rajasthan",
+      "category": "POWER",
+      "date": "2026-08-06T06:26:44+00:00",
+      "url": "https://powerline.net.in/2026/08/06/powegrid-commissions-20-gw-renewable-energy-evacuation-transmission-system-in-rajasthan/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Serentica Renewables commissions first phase of 1 GWh BESS in Bikaner",
+      "category": "POWER",
+      "date": "2026-08-06T06:25:49+00:00",
+      "url": "https://powerline.net.in/2026/08/06/serentica-renewables-commissions-first-phase-of-1-gwh-bess-in-bikaner/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Electric partners with BRPL to deploy India’s first SF6-free smart RMU pilot",
+      "category": "POWER",
+      "date": "2026-08-06T06:24:44+00:00",
+      "url": "https://powerline.net.in/2026/08/06/schneider-electric-partners-with-brpl-to-deploy-indias-first-sf6-free-smart-rmu-pilot/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Ola Electric signs MoU with Axis Energy for deployment of 20 GWh of BESS projects",
+      "category": "POWER",
+      "date": "2026-08-06T06:23:47+00:00",
+      "url": "https://powerline.net.in/2026/08/06/ola-electric-signs-mou-with-axis-energy-for-deployment-of-20-gwh-of-bess-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "IREDA reports Rs 3.39 billion net profit in the first quarter of 2026-27",
+      "category": "POWER",
+      "date": "2026-08-06T06:21:06+00:00",
+      "url": "https://powerline.net.in/2026/08/06/ireda-reports-rs-3-39-billion-net-profit-in-the-first-quarter-of-2026-27/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Ghana’s GRIDCo accelerates 161 kV Anwomaso Kumasi line upgrade",
+      "category": "POWER",
+      "date": "2026-08-06T06:20:12+00:00",
+      "url": "https://powerline.net.in/2026/08/06/ghanas-gridco-accelerates-161-kv-anwomaso-kumasi-line-upgrade-3/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "An Giang proposes VND7 trillion transmission link to Tho Chau SEZ in Vietnam",
+      "category": "POWER",
+      "date": "2026-08-06T06:13:07+00:00",
+      "url": "https://powerline.net.in/2026/08/06/an-giang-proposes-vnd7-trillion-transmission-link-to-tho-chau-sez-in-vietnam/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "GAM acquires Schaeffler precision drive assets",
+      "category": "MECHANICAL",
+      "date": "2026-08-06T05:36:21+00:00",
+      "url": "https://www.engineering.com/gam-acquires-schaeffler-precision-drive-assets/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Para Light launches ThermaFlat SiC MOSFET family",
       "category": "MECHANICAL",
       "date": "2026-08-05T23:57:00+00:00",
@@ -40874,5 +40962,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-06T02:39:43.355664+00:00"
+  "last_updated_utc": "2026-08-06T08:37:13.652768+00:00"
 }

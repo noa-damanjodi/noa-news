@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Kobrea and BHP form exploration alliance in Argentina",
+      "category": "INDUSTRY",
+      "date": "2026-08-06T07:24:26+00:00",
+      "url": "https://www.mining-technology.com/news/kobrea-bhp-exploration-alliance-argentina/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Genesis-Vault deal reflects Australia’s changing gold growth story",
       "category": "INDUSTRY",
       "date": "2026-08-05T18:23:25+00:00",
@@ -7170,5 +7178,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-06T02:39:43.355664+00:00"
+  "last_updated_utc": "2026-08-06T08:37:13.652768+00:00"
 }
