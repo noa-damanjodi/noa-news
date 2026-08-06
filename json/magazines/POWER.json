@@ -2,6 +2,62 @@
   "category": "POWER",
   "items": [
     {
+      "title": "Integrated Grid Intelligence: Need to build a unified, real-time operational data infrastructure",
+      "category": "POWER",
+      "date": "2026-08-06T10:47:22+00:00",
+      "url": "https://powerline.net.in/2026/08/06/integrated-grid-intelligence-need-to-build-a-unified-real-time-operational-data-infrastructure/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Loops Within Loops: India’s meshed power grid",
+      "category": "POWER",
+      "date": "2026-08-06T10:36:21+00:00",
+      "url": "https://powerline.net.in/2026/08/06/loops-within-loops-indias-meshed-power-grid/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Views of Manohar Lal: “India’s power sector has made significant progress”",
+      "category": "POWER",
+      "date": "2026-08-06T10:28:36+00:00",
+      "url": "https://powerline.net.in/2026/08/06/views-of-manohar-lal-indias-power-sector-has-made-significant-progress/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Picking up Pace: Leveraging the balancing, storage and ramping benefits of hydropower",
+      "category": "POWER",
+      "date": "2026-08-06T09:48:25+00:00",
+      "url": "https://powerline.net.in/2026/08/06/picking-up-pace-leveraging-the-balancing-storage-and-ramping-benefits-of-hydropower/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "PPGCL: Modernising thermal plant operations with digital technologies",
+      "category": "POWER",
+      "date": "2026-08-06T09:20:14+00:00",
+      "url": "https://powerline.net.in/2026/08/06/ppgcl-modernising-thermal-plant-operations-with-digital-technologies/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Power Strategy: USA’s DOE focuses on grid modernisation and expansion",
+      "category": "POWER",
+      "date": "2026-08-06T09:11:12+00:00",
+      "url": "https://powerline.net.in/2026/08/06/power-strategy-usas-doe-focuses-on-grid-modernisation-and-expansion/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Breaking Data Silos: MoP’s draft framework standardises information sharing across the electricity value chain",
+      "category": "POWER",
+      "date": "2026-08-06T08:58:53+00:00",
+      "url": "https://powerline.net.in/2026/08/06/breaking-data-silos-mops-draft-framework-standardises-information-sharing-across-the-electricity-value-chain/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "July Issue 2026",
       "category": "POWER",
       "date": "2026-08-06T06:36:04+00:00",
@@ -10538,5 +10594,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-06T08:37:13.652768+00:00"
+  "last_updated_utc": "2026-08-06T14:11:49.028458+00:00"
 }

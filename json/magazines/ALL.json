@@ -2,6 +2,142 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Glencore reports 49% revenue rise in H1 2026",
+      "category": "INDUSTRY",
+      "date": "2026-08-06T13:14:59+00:00",
+      "url": "https://www.mining-technology.com/news/glencore-revenue-rise-h1-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC updates Codebeamer, AI and Pure Variants ALM software",
+      "category": "MECHANICAL",
+      "date": "2026-08-06T12:27:29+00:00",
+      "url": "https://www.engineering.com/ptc-updates-codebeamer-ai-and-pure-variants-alm-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Victaulic acquires Arumani to expand modular construction",
+      "category": "MECHANICAL",
+      "date": "2026-08-06T10:54:33+00:00",
+      "url": "https://www.engineering.com/victaulic-acquires-arumani-to-expand-modular-construction/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Integrated Grid Intelligence: Need to build a unified, real-time operational data infrastructure",
+      "category": "POWER",
+      "date": "2026-08-06T10:47:22+00:00",
+      "url": "https://powerline.net.in/2026/08/06/integrated-grid-intelligence-need-to-build-a-unified-real-time-operational-data-infrastructure/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Loops Within Loops: India’s meshed power grid",
+      "category": "POWER",
+      "date": "2026-08-06T10:36:21+00:00",
+      "url": "https://powerline.net.in/2026/08/06/loops-within-loops-indias-meshed-power-grid/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Views of Manohar Lal: “India’s power sector has made significant progress”",
+      "category": "POWER",
+      "date": "2026-08-06T10:28:36+00:00",
+      "url": "https://powerline.net.in/2026/08/06/views-of-manohar-lal-indias-power-sector-has-made-significant-progress/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Kinetic Technologies launches 5A eFuse for power protection",
+      "category": "MECHANICAL",
+      "date": "2026-08-06T10:11:19+00:00",
+      "url": "https://www.engineering.com/kinetic-technologies-launches-5a-efuse-for-power-protection/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Windings acquires MTE to expand precision machining",
+      "category": "MECHANICAL",
+      "date": "2026-08-06T10:06:25+00:00",
+      "url": "https://www.engineering.com/windings-acquires-mte-to-expand-precision-machining/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Portal blasting concludes at Amex Gold’s Perron Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-08-06T10:00:44+00:00",
+      "url": "https://www.mining-technology.com/news/portal-blasting-amex-golds-perron-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Picking up Pace: Leveraging the balancing, storage and ramping benefits of hydropower",
+      "category": "POWER",
+      "date": "2026-08-06T09:48:25+00:00",
+      "url": "https://powerline.net.in/2026/08/06/picking-up-pace-leveraging-the-balancing-storage-and-ramping-benefits-of-hydropower/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "3D Systems begins CEO succession as Jeffrey Graves retires",
+      "category": "MECHANICAL",
+      "date": "2026-08-06T09:30:44+00:00",
+      "url": "https://www.engineering.com/3d-systems-begins-ceo-succession-as-jeffrey-graves-retires/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HKS adopts VisiSpecs for specification management",
+      "category": "MECHANICAL",
+      "date": "2026-08-06T09:22:03+00:00",
+      "url": "https://www.engineering.com/hks-adopts-visispecs-for-specification-management/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nautilus cooling unit earns NVIDIA AI factory validation",
+      "category": "MECHANICAL",
+      "date": "2026-08-06T09:20:24+00:00",
+      "url": "https://www.engineering.com/nautilus-cooling-unit-earns-nvidia-ai-factory-validation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PPGCL: Modernising thermal plant operations with digital technologies",
+      "category": "POWER",
+      "date": "2026-08-06T09:20:14+00:00",
+      "url": "https://powerline.net.in/2026/08/06/ppgcl-modernising-thermal-plant-operations-with-digital-technologies/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Power Strategy: USA’s DOE focuses on grid modernisation and expansion",
+      "category": "POWER",
+      "date": "2026-08-06T09:11:12+00:00",
+      "url": "https://powerline.net.in/2026/08/06/power-strategy-usas-doe-focuses-on-grid-modernisation-and-expansion/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Breaking Data Silos: MoP’s draft framework standardises information sharing across the electricity value chain",
+      "category": "POWER",
+      "date": "2026-08-06T08:58:53+00:00",
+      "url": "https://powerline.net.in/2026/08/06/breaking-data-silos-mops-draft-framework-standardises-information-sharing-across-the-electricity-value-chain/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Sandvik to provide automated fleet for Viscaria copper mine restart",
+      "category": "INDUSTRY",
+      "date": "2026-08-06T07:40:22+00:00",
+      "url": "https://www.mining-technology.com/news/sandvik-fleet-viscaria-copper-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Kobrea and BHP form exploration alliance in Argentina",
       "category": "INDUSTRY",
       "date": "2026-08-06T07:24:26+00:00",
@@ -40962,5 +41098,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-06T08:37:13.652768+00:00"
+  "last_updated_utc": "2026-08-06T14:11:49.028458+00:00"
 }

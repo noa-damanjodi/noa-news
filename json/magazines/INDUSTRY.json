@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Glencore reports 49% revenue rise in H1 2026",
+      "category": "INDUSTRY",
+      "date": "2026-08-06T13:14:59+00:00",
+      "url": "https://www.mining-technology.com/news/glencore-revenue-rise-h1-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Portal blasting concludes at Amex Gold’s Perron Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-08-06T10:00:44+00:00",
+      "url": "https://www.mining-technology.com/news/portal-blasting-amex-golds-perron-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Sandvik to provide automated fleet for Viscaria copper mine restart",
+      "category": "INDUSTRY",
+      "date": "2026-08-06T07:40:22+00:00",
+      "url": "https://www.mining-technology.com/news/sandvik-fleet-viscaria-copper-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Kobrea and BHP form exploration alliance in Argentina",
       "category": "INDUSTRY",
       "date": "2026-08-06T07:24:26+00:00",
@@ -7178,5 +7202,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-06T08:37:13.652768+00:00"
+  "last_updated_utc": "2026-08-06T14:11:49.028458+00:00"
 }
