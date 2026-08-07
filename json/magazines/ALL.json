@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Guinea selects Glencore as bauxite offtaker for Nimba",
+      "category": "INDUSTRY",
+      "date": "2026-08-07T12:35:10+00:00",
+      "url": "https://www.mining-technology.com/news/guinea-glencore-bauxite-offtaker-nimba/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Makera links CNC software, mobile control and project sharing",
+      "category": "MECHANICAL",
+      "date": "2026-08-07T11:12:58+00:00",
+      "url": "https://www.engineering.com/makera-links-cnc-software-mobile-control-and-project-sharing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Case study: How mining’s toughest environments demand a tailor-made protection strategy",
+      "category": "INDUSTRY",
+      "date": "2026-08-07T10:49:29+00:00",
+      "url": "https://www.mining-technology.com/sponsored/case-study-how-minings-toughest-environments-demand-a-tailor-made-protection-strategy/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NEOTech acquires Virtex to expand defense manufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-08-07T10:39:43+00:00",
+      "url": "https://www.engineering.com/neotech-acquires-virtex-to-expand-defense-manufacturing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Toshiba introduces M4V microcontrollers for secure IoT devices",
+      "category": "MECHANICAL",
+      "date": "2026-08-07T10:20:26+00:00",
+      "url": "https://www.engineering.com/toshiba-introduces-m4v-microcontrollers-for-secure-iot-devices/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Phase one drilling begins at Decade’s Bonaparte copper-gold project",
+      "category": "INDUSTRY",
+      "date": "2026-08-07T10:10:01+00:00",
+      "url": "https://www.mining-technology.com/news/phase-i-drilling-decades-bonaparte-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD to acquire Taalas for AI inference technology",
+      "category": "MECHANICAL",
+      "date": "2026-08-07T10:08:58+00:00",
+      "url": "https://www.engineering.com/amd-to-acquire-taalas-for-ai-inference-technology/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "EOS joins MAT-H2 consortium to advance hydrogen materials",
+      "category": "MECHANICAL",
+      "date": "2026-08-07T10:01:47+00:00",
+      "url": "https://www.engineering.com/eos-joins-mat-h2-consortium-to-advance-hydrogen-materials/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Norsemont expands land position at Choquelimpie",
+      "category": "INDUSTRY",
+      "date": "2026-08-07T07:45:15+00:00",
+      "url": "https://www.mining-technology.com/news/norsemont-expands-land-position-choquelimpie/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Metalsource Mining starts new drilling phase at Silver Hill Project",
       "category": "INDUSTRY",
       "date": "2026-08-07T07:05:42+00:00",
@@ -41186,5 +41258,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-07T07:17:08.211032+00:00"
+  "last_updated_utc": "2026-08-07T13:05:32.514240+00:00"
 }
