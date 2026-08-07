@@ -2,10 +2,34 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Metalsource Mining starts new drilling phase at Silver Hill Project",
+      "category": "INDUSTRY",
+      "date": "2026-08-07T07:05:42+00:00",
+      "url": "https://www.mining-technology.com/news/metalsource-mining-new-drilling-silver-hill/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Aya Gold & Silver expands exploration in Morocco",
+      "category": "INDUSTRY",
+      "date": "2026-08-06T13:46:38+00:00",
+      "url": "https://www.mining-technology.com/news/aya-gold-silver-exploration-morocco/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Glencore reports 49% revenue rise in H1 2026",
       "category": "INDUSTRY",
       "date": "2026-08-06T13:14:59+00:00",
       "url": "https://www.mining-technology.com/news/glencore-revenue-rise-h1-2026/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Lessons from the Iran war: China’s oil buffer and energy resilience, tested",
+      "category": "INDUSTRY",
+      "date": "2026-08-06T11:06:14+00:00",
+      "url": "https://www.mining-technology.com/news/lessons-from-the-iran-war-chinas-oil-buffer-and-energy-resilience-tested-2/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -7202,5 +7226,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-07T00:02:06.954035+00:00"
+  "last_updated_utc": "2026-08-07T07:17:08.211032+00:00"
 }
