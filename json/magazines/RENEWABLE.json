@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Relief from energy bills unlikely as utilities request billions in rate hikes",
+      "category": "RENEWABLE",
+      "date": "2026-08-06T16:18:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/relief-from-energy-bills-unlikely-as-utilities-request-billions-in-rate-hikes-2/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "PJM accepts over 700 generation projects in new ‘first-ready, first-served’ queue",
       "category": "RENEWABLE",
       "date": "2026-08-05T19:15:09+00:00",
@@ -3138,5 +3146,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-06T14:11:49.028458+00:00"
+  "last_updated_utc": "2026-08-07T00:02:06.954035+00:00"
 }
