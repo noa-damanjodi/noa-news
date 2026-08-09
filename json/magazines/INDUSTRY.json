@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Lycopodium wins $65.5m contract for Blackwater EP2 project",
+      "category": "INDUSTRY",
+      "date": "2026-08-07T12:44:27+00:00",
+      "url": "https://www.mining-technology.com/news/lycopodium-contract-blackwater-ep2-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Guinea selects Glencore as bauxite offtaker for Nimba",
       "category": "INDUSTRY",
       "date": "2026-08-07T12:35:10+00:00",
@@ -7258,5 +7266,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-08T18:38:27.234908+00:00"
+  "last_updated_utc": "2026-08-09T01:49:18.783945+00:00"
 }
