@@ -2,6 +2,70 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "VCollab adds simulation review tools for engineers",
+      "category": "MECHANICAL",
+      "date": "2026-08-10T11:53:59+00:00",
+      "url": "https://www.engineering.com/vcollab-adds-simulation-review-tools-for-engineers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "BQP and Modovolo apply simulation to UAV design",
+      "category": "MECHANICAL",
+      "date": "2026-08-10T11:23:18+00:00",
+      "url": "https://www.engineering.com/bqp-and-modovolo-apply-simulation-to-uav-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens to add two U.S. manufacturing facilities",
+      "category": "MECHANICAL",
+      "date": "2026-08-10T11:15:00+00:00",
+      "url": "https://www.engineering.com/siemens-to-add-two-u-s-manufacturing-facilities/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Firebird launches regional NVIDIA DSX AI factory",
+      "category": "MECHANICAL",
+      "date": "2026-08-10T11:13:00+00:00",
+      "url": "https://www.engineering.com/firebird-launches-regional-nvidia-dsx-ai-factory/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nautilus cooling unit earns NVIDIA validation",
+      "category": "MECHANICAL",
+      "date": "2026-08-10T11:09:12+00:00",
+      "url": "https://www.engineering.com/nautilus-cooling-unit-earns-nvidia-validation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Insyde firmware qualified on Arm AGI CPU platforms",
+      "category": "MECHANICAL",
+      "date": "2026-08-10T11:04:00+00:00",
+      "url": "https://www.engineering.com/insyde-firmware-qualified-on-arm-agi-cpu-platforms/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Smart IOPS and H3 unveil billion-IOPS AI storage",
+      "category": "MECHANICAL",
+      "date": "2026-08-10T11:00:22+00:00",
+      "url": "https://www.engineering.com/smart-iops-and-h3-unveil-billion-iops-ai-storage/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NAMI secures Saudi military manufacturing license",
+      "category": "MECHANICAL",
+      "date": "2026-08-10T10:51:48+00:00",
+      "url": "https://www.engineering.com/nami-secures-saudi-military-manufacturing-license/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Makera links CNC software, mobile control and project sharing",
       "category": "MECHANICAL",
       "date": "2026-08-07T11:12:58+00:00",
@@ -11210,5 +11274,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-10T07:43:07.409476+00:00"
+  "last_updated_utc": "2026-08-10T13:10:05.987331+00:00"
 }

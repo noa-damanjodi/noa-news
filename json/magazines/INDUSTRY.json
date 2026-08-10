@@ -2,6 +2,54 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "US unveils $2bn boost for domestic mining initiatives",
+      "category": "INDUSTRY",
+      "date": "2026-08-10T11:39:15+00:00",
+      "url": "https://www.mining-technology.com/news/us-2bn-for-domestic-mining-initiatives/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "US DFC to fund Harena Rare Earths’ Madagascar mine",
+      "category": "INDUSTRY",
+      "date": "2026-08-10T11:38:56+00:00",
+      "url": "https://www.mining-technology.com/news/us-dfc-to-fund-harena-rare-earths/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Golden Rapture agrees deal for land south of Canada’s Goliath project",
+      "category": "INDUSTRY",
+      "date": "2026-08-10T09:58:40+00:00",
+      "url": "https://www.mining-technology.com/news/golden-rapture-land-south-canadas-goliath/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Resolution Copper awards $110m contracts for Arizona mine",
+      "category": "INDUSTRY",
+      "date": "2026-08-10T08:43:50+00:00",
+      "url": "https://www.mining-technology.com/news/resolution-copper-110m-contracts-arizona-mine-2/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "B2Gold secures exploitation permit for Fekola Regional in Mali",
+      "category": "INDUSTRY",
+      "date": "2026-08-10T07:49:53+00:00",
+      "url": "https://www.mining-technology.com/news/b2gold-exploitation-permit-fekola-regional-mali/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Resolution Copper awards $110m contracts for Arizona mine",
+      "category": "INDUSTRY",
+      "date": "2026-08-10T07:49:47+00:00",
+      "url": "https://www.mining-technology.com/news/resolution-copper-110m-contracts-arizona-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Lycopodium wins $65.5m contract for Blackwater EP2 project",
       "category": "INDUSTRY",
       "date": "2026-08-07T12:44:27+00:00",
@@ -7266,5 +7314,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-10T07:43:07.409476+00:00"
+  "last_updated_utc": "2026-08-10T13:10:05.987331+00:00"
 }
