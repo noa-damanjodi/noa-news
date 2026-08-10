@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Climate change and workplace safety and health: New policy brief from EU-OSHA",
+      "category": "SAFETY",
+      "date": "2026-08-10T18:17:19+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/climate-change-and-workplace-safety-and-health-new-policy-brief-from-eu-osha/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Ottawa to rebate $100M in freight costs for shipping steel across Canada",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-10T17:46:59+00:00",
+      "url": "https://www.automationmag.com/ottawa-to-rebate-100m-in-freight-costs-for-shipping-steel-across-canada/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "House approves workers’ comp bill targeting fraudulent medical provider claims",
+      "category": "SAFETY",
+      "date": "2026-08-10T17:24:45+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/house-approves-workers-comp-bill-targeting-fraudulent-medical-provider-claims/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Trucker awareness campaign aimed at preventing bridge and tunnel strikes",
+      "category": "SAFETY",
+      "date": "2026-08-10T17:02:07+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/trucker-awareness-campaign-aimed-at-preventing-bridge-and-tunnel-strikes/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Case study: Solar on the reservoir? Engineering tank-mounted PV for municipal water systems",
+      "category": "RENEWABLE",
+      "date": "2026-08-10T16:39:51+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/case-study-solar-on-the-reservoir-engineering-tank-mounted-pv-for-municipal-water-systems/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "VCollab adds simulation review tools for engineers",
       "category": "MECHANICAL",
       "date": "2026-08-10T11:53:59+00:00",
@@ -41498,5 +41538,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-10T13:10:05.987331+00:00"
+  "last_updated_utc": "2026-08-10T18:58:15.412658+00:00"
 }
