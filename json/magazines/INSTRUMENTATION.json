@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "German Technology Day 2026 taking place September 29",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-11T16:23:03+00:00",
+      "url": "https://www.automationmag.com/german-technology-day-2026-taking-place-september-29/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Robot orders increase in Q2: A3",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-11T15:35:35+00:00",
+      "url": "https://www.automationmag.com/robot-orders-increase-in-q2-a3/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Emerson announces latest version of PACEdge IIoT enablement software platform",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-11T15:07:40+00:00",
+      "url": "https://www.automationmag.com/emerson-announces-latest-version-of-pacedge-iiot-enablement-software-platform/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Ottawa to rebate $100M in freight costs for shipping steel across Canada",
       "category": "INSTRUMENTATION",
       "date": "2026-08-10T17:46:59+00:00",
@@ -2490,5 +2514,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-11T13:07:33.760035+00:00"
+  "last_updated_utc": "2026-08-11T19:02:44.927717+00:00"
 }
