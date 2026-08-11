@@ -2,6 +2,70 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Archer to acquire Boeing autonomy subsidiaries",
+      "category": "MECHANICAL",
+      "date": "2026-08-11T11:32:24+00:00",
+      "url": "https://www.engineering.com/archer-to-acquire-boeing-autonomy-subsidiaries/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Electric debuts multi-chemistry UPS",
+      "category": "MECHANICAL",
+      "date": "2026-08-11T10:06:18+00:00",
+      "url": "https://www.engineering.com/schneider-electric-debuts-multi-chemistry-ups/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Gigabyte releases AORUS RTX 50 Infinity cards",
+      "category": "MECHANICAL",
+      "date": "2026-08-11T09:59:46+00:00",
+      "url": "https://www.engineering.com/gigabyte-releases-aorus-rtx-50-infinity-cards/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MiTAC expands Newark operations facility",
+      "category": "MECHANICAL",
+      "date": "2026-08-11T09:54:43+00:00",
+      "url": "https://www.engineering.com/mitac-expands-newark-operations-facility/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SOLIZE partners with Dassault Systèmes in Japan",
+      "category": "MECHANICAL",
+      "date": "2026-08-11T08:59:05+00:00",
+      "url": "https://www.engineering.com/solize-partners-with-dassault-systemes-in-japan/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA partners on AI compute financing platforms",
+      "category": "MECHANICAL",
+      "date": "2026-08-11T08:51:53+00:00",
+      "url": "https://www.engineering.com/nvidia-partners-on-ai-compute-financing-platforms/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "3D Systems receives $9 million Air Force award",
+      "category": "MECHANICAL",
+      "date": "2026-08-11T08:44:00+00:00",
+      "url": "https://www.engineering.com/3d-systems-receives-9-million-air-force-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Silicon Motion unveils MonTitan SSD RDK",
+      "category": "MECHANICAL",
+      "date": "2026-08-11T08:16:00+00:00",
+      "url": "https://www.engineering.com/silicon-motion-unveils-montitan-ssd-rdk/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "VCollab adds simulation review tools for engineers",
       "category": "MECHANICAL",
       "date": "2026-08-10T11:53:59+00:00",
@@ -11274,5 +11338,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-11T07:08:48.064665+00:00"
+  "last_updated_utc": "2026-08-11T13:07:33.760035+00:00"
 }
