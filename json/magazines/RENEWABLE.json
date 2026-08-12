@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Case study: Preparing to power data-driven demand with solar and storage at the Appledale Energy Center",
+      "category": "RENEWABLE",
+      "date": "2026-08-12T18:02:03+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/case-study-preparing-to-power-data-driven-demand-with-solar-and-storage-at-the-appledale-energy-center/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Mark it eight, dude: Another Western utility joins the EDAM",
+      "category": "RENEWABLE",
+      "date": "2026-08-12T17:35:49+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/mark-it-eight-dude-another-western-utility-joins-the-edam/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Hydropower faces unique challenges in a worldwide race to acquire transformers",
       "category": "RENEWABLE",
       "date": "2026-08-10T21:13:12+00:00",
@@ -3202,5 +3218,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-12T13:11:19.009882+00:00"
+  "last_updated_utc": "2026-08-12T19:02:24.793533+00:00"
 }
