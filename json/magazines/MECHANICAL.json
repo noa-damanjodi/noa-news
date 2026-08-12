@@ -2,6 +2,70 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "eSUN introduces PLA-HF high-speed 3D printing filament",
+      "category": "MECHANICAL",
+      "date": "2026-08-12T12:03:59+00:00",
+      "url": "https://www.engineering.com/esun-introduces-pla-hf-high-speed-3d-printing-filament/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Artec 3D launches Artec Point II metrology-grade laser scanner",
+      "category": "MECHANICAL",
+      "date": "2026-08-12T11:54:23+00:00",
+      "url": "https://www.engineering.com/artec-3d-launches-artec-point-ii-metrology-grade-laser-scanner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble Arc Agent adds AI to logistics office workflows",
+      "category": "MECHANICAL",
+      "date": "2026-08-12T11:47:27+00:00",
+      "url": "https://www.engineering.com/trimble-arc-agent-adds-ai-to-logistics-office-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Remcom updates XFdtd electromagnetic simulation software",
+      "category": "MECHANICAL",
+      "date": "2026-08-12T11:32:00+00:00",
+      "url": "https://www.engineering.com/remcom-updates-xfdtd-electromagnetic-simulation-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Quantinuum and Oracle bring Helios to OCI",
+      "category": "MECHANICAL",
+      "date": "2026-08-12T11:05:10+00:00",
+      "url": "https://www.engineering.com/quantinuum-and-oracle-bring-helios-to-oci/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rockwell links Plex QMS with VisionAI integration",
+      "category": "MECHANICAL",
+      "date": "2026-08-12T10:59:56+00:00",
+      "url": "https://www.engineering.com/rockwell-links-plex-qms-with-visionai-integration/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Stratasys receives funding for additive quality assurance",
+      "category": "MECHANICAL",
+      "date": "2026-08-12T10:55:17+00:00",
+      "url": "https://www.engineering.com/stratasys-receives-funding-for-additive-quality-assurance/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Formlabs names Dan Riccio strategic advisor",
+      "category": "MECHANICAL",
+      "date": "2026-08-12T10:50:07+00:00",
+      "url": "https://www.engineering.com/formlabs-names-dan-riccio-strategic-advisor/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Archer to acquire Boeing autonomy subsidiaries",
       "category": "MECHANICAL",
       "date": "2026-08-11T11:32:24+00:00",
@@ -11338,5 +11402,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-12T07:25:36.769756+00:00"
+  "last_updated_utc": "2026-08-12T13:11:19.009882+00:00"
 }

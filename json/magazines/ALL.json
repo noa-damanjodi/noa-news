@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "eSUN introduces PLA-HF high-speed 3D printing filament",
+      "category": "MECHANICAL",
+      "date": "2026-08-12T12:03:59+00:00",
+      "url": "https://www.engineering.com/esun-introduces-pla-hf-high-speed-3d-printing-filament/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Artec 3D launches Artec Point II metrology-grade laser scanner",
+      "category": "MECHANICAL",
+      "date": "2026-08-12T11:54:23+00:00",
+      "url": "https://www.engineering.com/artec-3d-launches-artec-point-ii-metrology-grade-laser-scanner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble Arc Agent adds AI to logistics office workflows",
+      "category": "MECHANICAL",
+      "date": "2026-08-12T11:47:27+00:00",
+      "url": "https://www.engineering.com/trimble-arc-agent-adds-ai-to-logistics-office-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Remcom updates XFdtd electromagnetic simulation software",
+      "category": "MECHANICAL",
+      "date": "2026-08-12T11:32:00+00:00",
+      "url": "https://www.engineering.com/remcom-updates-xfdtd-electromagnetic-simulation-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Quantinuum and Oracle bring Helios to OCI",
+      "category": "MECHANICAL",
+      "date": "2026-08-12T11:05:10+00:00",
+      "url": "https://www.engineering.com/quantinuum-and-oracle-bring-helios-to-oci/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rockwell links Plex QMS with VisionAI integration",
+      "category": "MECHANICAL",
+      "date": "2026-08-12T10:59:56+00:00",
+      "url": "https://www.engineering.com/rockwell-links-plex-qms-with-visionai-integration/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Stratasys receives funding for additive quality assurance",
+      "category": "MECHANICAL",
+      "date": "2026-08-12T10:55:17+00:00",
+      "url": "https://www.engineering.com/stratasys-receives-funding-for-additive-quality-assurance/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Formlabs names Dan Riccio strategic advisor",
+      "category": "MECHANICAL",
+      "date": "2026-08-12T10:50:07+00:00",
+      "url": "https://www.engineering.com/formlabs-names-dan-riccio-strategic-advisor/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "US targets $2bn-plus for domestic mining and critical minerals",
+      "category": "INDUSTRY",
+      "date": "2026-08-12T10:10:14+00:00",
+      "url": "https://www.mining-technology.com/news/us-2bn-for-domestic-mining-initiatives/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Lake Victoria outlines first resource at Tanzania Tembo project",
+      "category": "INDUSTRY",
+      "date": "2026-08-12T10:09:20+00:00",
+      "url": "https://www.mining-technology.com/news/lake-victoria-first-resource-tembo/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "GSP Resource concludes 2026 Phase 1 drilling at Alwin and Mer",
+      "category": "INDUSTRY",
+      "date": "2026-08-12T07:29:35+00:00",
+      "url": "https://www.mining-technology.com/news/gsp-resource-concludes-2026-phase-1-drilling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Blue Moon purchases 33 US tungsten, antimony projects",
+      "category": "INDUSTRY",
+      "date": "2026-08-12T07:29:25+00:00",
+      "url": "https://www.mining-technology.com/news/blue-moon-33-us-tungsten-antimony-projects/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "NIRL secures LoA from SECI for 200 MW wind project in Karnataka",
       "category": "POWER",
       "date": "2026-08-12T05:56:10+00:00",
@@ -79,6 +175,14 @@
       "date": "2026-08-12T04:19:29+00:00",
       "url": "https://powerline.net.in/2026/08/12/electricity-mid-year-update-2026-iea-report/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Why mining’s decarbonisation challenge starts with reliable connectivity",
+      "category": "INDUSTRY",
+      "date": "2026-08-12T03:38:00+00:00",
+      "url": "https://www.mining-technology.com/sponsored/why-minings-decarbonisation-challenge-starts-with-reliable-connectivity/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -375,14 +479,6 @@
       "date": "2026-08-10T11:53:59+00:00",
       "url": "https://www.engineering.com/vcollab-adds-simulation-review-tools-for-engineers/",
       "source": "Engineering.com",
-      "type": "magazine"
-    },
-    {
-      "title": "US unveils $2bn boost for domestic mining initiatives",
-      "category": "INDUSTRY",
-      "date": "2026-08-10T11:39:15+00:00",
-      "url": "https://www.mining-technology.com/news/us-2bn-for-domestic-mining-initiatives/",
-      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -42026,5 +42122,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-12T07:25:36.769756+00:00"
+  "last_updated_utc": "2026-08-12T13:11:19.009882+00:00"
 }
