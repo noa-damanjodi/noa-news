@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Delta Motion adds Trapezoid Waveform Command to its RMC Motion Controllers",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-12T19:12:48+00:00",
+      "url": "https://www.automationmag.com/delta-motion-adds-trapezoid-waveform-command-to-its-rmc-motion-controllers/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "B&K Precision introduces 4088 Series 2-in-1 RF Signal and Arbitrary Waveform Generators",
       "category": "INSTRUMENTATION",
       "date": "2026-08-12T15:44:10+00:00",
@@ -2530,5 +2538,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-12T19:02:24.793533+00:00"
+  "last_updated_utc": "2026-08-13T02:03:52.868990+00:00"
 }

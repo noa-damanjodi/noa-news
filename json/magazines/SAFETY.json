@@ -2,6 +2,22 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "‘Maxxing’ for better health might not be your best bet, experts warn",
+      "category": "SAFETY",
+      "date": "2026-08-12T20:37:39+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/maxxing-for-better-health-might-not-be-your-best-bet-experts-warn/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA’s ‘illness’ recording requirement doesn’t apply to mental illnesses, appeals court rules",
+      "category": "SAFETY",
+      "date": "2026-08-12T19:06:05+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/appeals-court-ruling-oshas-illness-recording-requirement-doesnt-apply-to-mental-illnesses/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Black lung rates in coal-country states at a 50-year high, NIOSH says",
       "category": "SAFETY",
       "date": "2026-08-12T18:16:32+00:00",
@@ -10,7 +26,7 @@
       "type": "magazine"
     },
     {
-      "title": "New Hampshire law secures restroom access for truckers",
+      "title": "New Hampshire law secures restroom access for truckers delivering cargo",
       "category": "SAFETY",
       "date": "2026-08-12T17:23:11+00:00",
       "url": "https://www.safetyandhealthmagazine.com/new-hampshire-law-secures-restroom-access-for-truckers/",
@@ -3922,5 +3938,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-12T19:02:24.793533+00:00"
+  "last_updated_utc": "2026-08-13T02:03:52.868990+00:00"
 }
