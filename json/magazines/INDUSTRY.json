@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Western Star launches exploration at Eagle Point project in US",
+      "category": "INDUSTRY",
+      "date": "2026-08-13T10:10:03+00:00",
+      "url": "https://www.mining-technology.com/news/western-star-exploration-eagle-point/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Critical Elements updates on Rose West assay results in Québec",
+      "category": "INDUSTRY",
+      "date": "2026-08-13T07:37:25+00:00",
+      "url": "https://www.mining-technology.com/news/critical-elements-rose-west-assay-results/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Australia, NSW governments commit $1.76bn to Tomago Aluminium",
+      "category": "INDUSTRY",
+      "date": "2026-08-13T07:37:14+00:00",
+      "url": "https://www.mining-technology.com/news/australia-nsw-governments-1-76bn-tomago-aluminium/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "How drones, LiDAR and AI are changing mine rehabilitation in Brazil",
       "category": "INDUSTRY",
       "date": "2026-08-13T07:00:00+00:00",
@@ -7418,5 +7442,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-13T07:35:25.511108+00:00"
+  "last_updated_utc": "2026-08-13T13:12:55.727494+00:00"
 }

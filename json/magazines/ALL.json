@@ -2,6 +2,166 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Procore launches Asset Register for digital handover",
+      "category": "MECHANICAL",
+      "date": "2026-08-13T12:56:13+00:00",
+      "url": "https://www.engineering.com/procore-launches-asset-register-for-digital-handover/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Gamma Technologies adds AI.modeler to GT-SUITE",
+      "category": "MECHANICAL",
+      "date": "2026-08-13T11:48:27+00:00",
+      "url": "https://www.engineering.com/gamma-technologies-adds-ai-modeler-to-gt-suite/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Vectorworks Landmark 2026 wins Green Industry Pros award",
+      "category": "MECHANICAL",
+      "date": "2026-08-13T11:34:54+00:00",
+      "url": "https://www.engineering.com/vectorworks-landmark-2026-wins-green-industry-pros-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Buildots adds laser scans through NavVis integration",
+      "category": "MECHANICAL",
+      "date": "2026-08-13T11:28:07+00:00",
+      "url": "https://www.engineering.com/buildots-adds-laser-scans-through-navvis-integration/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Zettabyte launches Model-as-a-Service on zCLOUD",
+      "category": "MECHANICAL",
+      "date": "2026-08-13T11:05:51+00:00",
+      "url": "https://www.engineering.com/zettabyte-launches-model-as-a-service-on-zcloud/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Saturn Cloud integrates NVIDIA DSX OS for AI inference",
+      "category": "MECHANICAL",
+      "date": "2026-08-13T10:56:43+00:00",
+      "url": "https://www.engineering.com/saturn-cloud-integrates-nvidia-dsx-os-for-ai-inference/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Value for Consumers: Financially settled contracts can help realise India’s storage vision",
+      "category": "POWER",
+      "date": "2026-08-13T10:47:23+00:00",
+      "url": "https://powerline.net.in/2026/08/13/value-for-consumers-financially-settled-contracts-can-help-realise-indias-storage-vision/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Sivers and SemiNex develop InP light sources",
+      "category": "MECHANICAL",
+      "date": "2026-08-13T10:35:09+00:00",
+      "url": "https://www.engineering.com/sivers-and-seminex-develop-inp-light-sources/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Western Star launches exploration at Eagle Point project in US",
+      "category": "INDUSTRY",
+      "date": "2026-08-13T10:10:03+00:00",
+      "url": "https://www.mining-technology.com/news/western-star-exploration-eagle-point/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Trading Data: Day-ahead market and real-time market",
+      "category": "POWER",
+      "date": "2026-08-13T10:08:00+00:00",
+      "url": "https://powerline.net.in/2026/08/13/trading-data-day-ahead-market-and-real-time-market-14/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Surviving summer with demand-side solutions | Factor This Policycast",
+      "category": "RENEWABLE",
+      "date": "2026-08-13T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/surviving-summer-with-demand-side-solutions-factor-this-policycast/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "PSP Progress: Key developments, industry trends and deployment across states",
+      "category": "POWER",
+      "date": "2026-08-13T09:48:26+00:00",
+      "url": "https://powerline.net.in/2026/08/13/psp-progress-key-developments-industry-trends-and-deployment-across-states/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Anil Kumar Bohara, VP and Head of System Operation, SCADA and Distribution Automation, BRPL",
+      "category": "POWER",
+      "date": "2026-08-13T09:42:44+00:00",
+      "url": "https://powerline.net.in/2026/08/13/anil-kumar-bohara-vp-and-head-of-system-operation-scada-and-distribution-automation-brpl/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Decarbonising Industries: Government mandates accelerate the implementation of energy efficiency initiatives",
+      "category": "POWER",
+      "date": "2026-08-13T09:12:56+00:00",
+      "url": "https://powerline.net.in/2026/08/13/decarbonising-industries-government-mandates-accelerate-the-implementation-of-energy-efficiency-initiatives/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Pricing Update: CERC proposes generic tariffs for select renewable technologies",
+      "category": "POWER",
+      "date": "2026-08-13T09:06:16+00:00",
+      "url": "https://powerline.net.in/2026/08/13/pricing-update-cerc-proposes-generic-tariffs-for-select-renewable-technologies/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "AEGCL: Strengthening the grid to meet Assam’s rising power demand",
+      "category": "POWER",
+      "date": "2026-08-13T08:54:34+00:00",
+      "url": "https://powerline.net.in/2026/08/13/aegcl-strengthening-the-grid-to-meet-assams-rising-power-demand/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Meeting RPO Targets: Focus on ensuring compliance by obligated entities",
+      "category": "POWER",
+      "date": "2026-08-13T08:54:17+00:00",
+      "url": "https://powerline.net.in/2026/08/13/meeting-rpo-targets-focus-on-ensuring-compliance-by-obligated-entities/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Better Economics: Rental power solutions, applications and cost benefits",
+      "category": "POWER",
+      "date": "2026-08-13T08:50:40+00:00",
+      "url": "https://powerline.net.in/2026/08/13/better-economics-rental-power-solutions-applications-and-cost-benefits/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Critical Elements updates on Rose West assay results in Québec",
+      "category": "INDUSTRY",
+      "date": "2026-08-13T07:37:25+00:00",
+      "url": "https://www.mining-technology.com/news/critical-elements-rose-west-assay-results/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Australia, NSW governments commit $1.76bn to Tomago Aluminium",
+      "category": "INDUSTRY",
+      "date": "2026-08-13T07:37:14+00:00",
+      "url": "https://www.mining-technology.com/news/australia-nsw-governments-1-76bn-tomago-aluminium/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "How drones, LiDAR and AI are changing mine rehabilitation in Brazil",
       "category": "INDUSTRY",
       "date": "2026-08-13T07:00:00+00:00",
@@ -42306,5 +42466,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-13T07:35:25.511108+00:00"
+  "last_updated_utc": "2026-08-13T13:12:55.727494+00:00"
 }
