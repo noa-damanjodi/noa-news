@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Maximizing electric vehicle incentives: A state-by-state guide",
+      "category": "RENEWABLE",
+      "date": "2026-08-13T16:36:35+00:00",
+      "url": "https://www.renewableenergyworld.com/electric-vehicle/maximizing-electric-vehicle-incentives-a-state-by-state-guide/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Enabling utility-grade AI and future grid resilience with Joe Matamoros from S&C Electric Company",
+      "category": "RENEWABLE",
+      "date": "2026-08-13T14:06:15+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/enabling-utility-grade-ai-and-future-grid-resilience-with-joe-matamoros-from-sc-electric-company/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Surviving summer with demand-side solutions | Factor This Policycast",
       "category": "RENEWABLE",
       "date": "2026-08-13T10:00:00+00:00",
@@ -3234,5 +3250,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-13T13:12:55.727494+00:00"
+  "last_updated_utc": "2026-08-13T19:03:06.097225+00:00"
 }

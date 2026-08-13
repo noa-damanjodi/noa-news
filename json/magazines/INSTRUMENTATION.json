@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Ontario launches Data Centre Playbook",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-13T17:20:30+00:00",
+      "url": "https://www.automationmag.com/ontario-launches-data-centre-playbook/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Delta Motion adds Trapezoid Waveform Command to its RMC Motion Controllers",
       "category": "INSTRUMENTATION",
       "date": "2026-08-12T19:12:48+00:00",
@@ -2538,5 +2546,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-13T13:12:55.727494+00:00"
+  "last_updated_utc": "2026-08-13T19:03:06.097225+00:00"
 }

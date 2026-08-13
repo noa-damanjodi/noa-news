@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Fixing CNC Part Size Drift with Real-Time AI Temperature Offset",
+      "category": "MECHANICAL",
+      "date": "2026-08-13T17:53:04+00:00",
+      "url": "https://www.engineering.com/fixing-cnc-part-size-drift-with-real-time-ai-temperature-offset/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Procore launches Asset Register for digital handover",
       "category": "MECHANICAL",
       "date": "2026-08-13T12:56:13+00:00",
@@ -11474,5 +11482,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-13T13:12:55.727494+00:00"
+  "last_updated_utc": "2026-08-13T19:03:06.097225+00:00"
 }
