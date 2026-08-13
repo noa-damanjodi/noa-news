@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "How drones, LiDAR and AI are changing mine rehabilitation in Brazil",
+      "category": "INDUSTRY",
+      "date": "2026-08-13T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/how-drones-lidar-and-ai-are-changing-mine-rehabilitation-in-brazil/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Savannah signs new land deals for Barroso Lithium Project in Portugal",
       "category": "INDUSTRY",
       "date": "2026-08-12T12:03:06+00:00",
@@ -7410,5 +7418,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-13T02:03:52.868990+00:00"
+  "last_updated_utc": "2026-08-13T07:35:25.511108+00:00"
 }
