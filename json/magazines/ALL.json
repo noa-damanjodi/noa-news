@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Senate bill targets construction industry’s ‘tragically high’ suicide rate",
+      "category": "SAFETY",
+      "date": "2026-08-14T16:05:56+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/senate-bill-targets-tragically-high-suicide-rate-in-the-construction-industry/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "MSHA wants more feedback on its mine roof control and ventilation proposals",
+      "category": "SAFETY",
+      "date": "2026-08-14T16:00:53+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/msha-wants-more-feedback-on-its-mine-roof-control-and-ventilation-proposals/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New National Safety Council survey: contractors and SIF risk",
+      "category": "SAFETY",
+      "date": "2026-08-14T15:54:50+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-nsc-survey-contractors-and-sif-risk/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "FCC adds foreign-produced advanced robotic devices and power inverters to Covered List",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-14T15:32:52+00:00",
+      "url": "https://www.automationmag.com/fcc-adds-foreign-produced-advanced-robotic-devices-and-power-inverters-to-covered-list/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Advanced Autonomics expands into Canada",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-14T15:11:29+00:00",
+      "url": "https://www.automationmag.com/advanced-autonomics-expands-into-canada/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Realtime Robotics names Kevin Carlin CEO",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-14T14:06:18+00:00",
+      "url": "https://www.automationmag.com/realtime-robotics-names-kevin-carlin-ceo/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Agentic AI: The Next Step for Hardware Engineering",
+      "category": "MECHANICAL",
+      "date": "2026-08-14T13:37:20+00:00",
+      "url": "https://www.engineering.com/agentic-ai-the-next-step-for-hardware-engineering/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Dynatrace to acquire Arize for AI observability",
       "category": "MECHANICAL",
       "date": "2026-08-14T12:34:04+00:00",
@@ -30,6 +86,14 @@
       "category": "INDUSTRY",
       "date": "2026-08-14T11:53:56+00:00",
       "url": "https://www.mining-technology.com/news/sandvik-receives-orders-underground-fleet-karowe/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "CiDi reports 1,900 autonomous mining trucks shipped as deployment scales",
+      "category": "INDUSTRY",
+      "date": "2026-08-14T10:40:00+00:00",
+      "url": "https://www.mining-technology.com/news/cidi-reports-1900-autonomous-mining-trucks-shipped-as-deployment-scales/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -42866,5 +42930,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-14T13:08:01.125469+00:00"
+  "last_updated_utc": "2026-08-14T18:55:07.401646+00:00"
 }

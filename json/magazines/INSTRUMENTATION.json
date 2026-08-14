@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "FCC adds foreign-produced advanced robotic devices and power inverters to Covered List",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-14T15:32:52+00:00",
+      "url": "https://www.automationmag.com/fcc-adds-foreign-produced-advanced-robotic-devices-and-power-inverters-to-covered-list/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Advanced Autonomics expands into Canada",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-14T15:11:29+00:00",
+      "url": "https://www.automationmag.com/advanced-autonomics-expands-into-canada/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Realtime Robotics names Kevin Carlin CEO",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-14T14:06:18+00:00",
+      "url": "https://www.automationmag.com/realtime-robotics-names-kevin-carlin-ceo/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Ontario launches Data Centre Playbook",
       "category": "INSTRUMENTATION",
       "date": "2026-08-13T17:20:30+00:00",
@@ -2546,5 +2570,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-14T13:08:01.125469+00:00"
+  "last_updated_utc": "2026-08-14T18:55:07.401646+00:00"
 }
