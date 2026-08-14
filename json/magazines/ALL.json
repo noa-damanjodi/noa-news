@@ -2,6 +2,22 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Midwestern US utilities focus on restoration after severe storms and near-100 MPH winds leave hundreds of thousands in the dark",
+      "category": "RENEWABLE",
+      "date": "2026-08-13T18:35:08+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/midwestern-us-utilities-focus-on-restoration-after-severe-storms-and-near-100-mph-winds-leave-hundreds-of-thousands-in-the-dark/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "DOE says we need more transmission, decides building less is fine",
+      "category": "RENEWABLE",
+      "date": "2026-08-13T18:07:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/doe-says-we-need-more-transmission-decides-building-less-is-fine/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Fixing CNC Part Size Drift with Real-Time AI Temperature Offset",
       "category": "MECHANICAL",
       "date": "2026-08-13T17:53:04+00:00",
@@ -834,7 +850,7 @@
       "type": "magazine"
     },
     {
-      "title": "Trucker awareness campaign aimed at preventing bridge and tunnel strikes",
+      "title": "Awareness campaign aimed at preventing bridge and tunnel strikes",
       "category": "SAFETY",
       "date": "2026-08-10T17:02:07+00:00",
       "url": "https://www.safetyandhealthmagazine.com/trucker-awareness-campaign-aimed-at-preventing-bridge-and-tunnel-strikes/",
@@ -42498,5 +42514,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-13T19:03:06.097225+00:00"
+  "last_updated_utc": "2026-08-14T02:01:55.533002+00:00"
 }
