@@ -2,6 +2,118 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Dynatrace to acquire Arize for AI observability",
+      "category": "MECHANICAL",
+      "date": "2026-08-14T12:34:04+00:00",
+      "url": "https://www.engineering.com/dynatrace-to-acquire-arize-for-ai-observability/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "LG and NVIDIA develop humanoid robot platform",
+      "category": "MECHANICAL",
+      "date": "2026-08-14T12:23:42+00:00",
+      "url": "https://www.engineering.com/lg-and-nvidia-develop-humanoid-robot-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Anglo American signs iron ore supply agreement with CMRG",
+      "category": "INDUSTRY",
+      "date": "2026-08-14T11:54:08+00:00",
+      "url": "https://www.mining-technology.com/news/anglo-american-iron-supply-agreement-cmrg/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Sandvik receives orders for underground fleet at Karowe mine",
+      "category": "INDUSTRY",
+      "date": "2026-08-14T11:53:56+00:00",
+      "url": "https://www.mining-technology.com/news/sandvik-receives-orders-underground-fleet-karowe/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Quanta and Quantinuum develop quantum hardware",
+      "category": "MECHANICAL",
+      "date": "2026-08-14T10:35:41+00:00",
+      "url": "https://www.engineering.com/quanta-and-quantinuum-develop-quantum-hardware/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DuPont DLE team earns sustainability award",
+      "category": "MECHANICAL",
+      "date": "2026-08-14T10:16:12+00:00",
+      "url": "https://www.engineering.com/dupont-dle-team-earns-sustainability-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Flip Electronics adds Vishay EOL discrete components",
+      "category": "MECHANICAL",
+      "date": "2026-08-14T10:12:24+00:00",
+      "url": "https://www.engineering.com/flip-electronics-adds-vishay-eol-discrete-components/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC adds natural language tools for Onshape CAD automation",
+      "category": "MECHANICAL",
+      "date": "2026-08-14T10:07:17+00:00",
+      "url": "https://www.engineering.com/ptc-adds-natural-language-tools-for-onshape-cad-automation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Underground LDES: turning mines and caverns into energy storage",
+      "category": "INDUSTRY",
+      "date": "2026-08-14T10:04:22+00:00",
+      "url": "https://www.mining-technology.com/news/underground-ldes-turning-mines-and-caverns-into-energy-storage-2/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and Reinhausen partner on solid-state transformer",
+      "category": "MECHANICAL",
+      "date": "2026-08-14T10:00:41+00:00",
+      "url": "https://www.engineering.com/siemens-and-reinhausen-partner-on-solid-state-transformer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Can Trump’s new solar tariffs help the domestic supply problem? — This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-08-14T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/can-trumps-new-solar-tariffs-help-the-domestic-supply-problem-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "West Red Lake Gold completes phase one of Madsen Mine shaft upgrade",
+      "category": "INDUSTRY",
+      "date": "2026-08-14T09:55:30+00:00",
+      "url": "https://www.mining-technology.com/news/west-red-lake-gold-phase-one-madsen-mine-upgrade/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Headwater Gold and Newmont sign earn-in agreement for Jupiter project",
+      "category": "INDUSTRY",
+      "date": "2026-08-14T07:59:43+00:00",
+      "url": "https://www.mining-technology.com/news/headwater-gold-newmont-sign-earn-in-agreement/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Great Pacific Gold expands mineralisation zones at Wild Dog Project",
+      "category": "INDUSTRY",
+      "date": "2026-08-14T07:59:34+00:00",
+      "url": "https://www.mining-technology.com/news/great-pacific-expands-mineralisation-wild-dog/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "BNC Power Projects secures Rs 7.23 billion STATCOM contracts from MSETCL",
       "category": "POWER",
       "date": "2026-08-14T05:43:03+00:00",
@@ -167,6 +279,22 @@
       "date": "2026-08-13T12:56:13+00:00",
       "url": "https://www.engineering.com/procore-launches-asset-register-for-digital-handover/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lithium Ionic to sell Salinas lithium assets to PLS Brasil Mineração",
+      "category": "INDUSTRY",
+      "date": "2026-08-13T12:15:40+00:00",
+      "url": "https://www.mining-technology.com/news/lithium-ionic-to-sell-salinas-lithium-assets/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Vale, ABB sign deal to expand automation at Brazil iron ore plants",
+      "category": "INDUSTRY",
+      "date": "2026-08-13T12:15:38+00:00",
+      "url": "https://www.mining-technology.com/news/vale-abb-deal-automation-brazil-iron-ore/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -42738,5 +42866,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-14T07:25:07.967976+00:00"
+  "last_updated_utc": "2026-08-14T13:08:01.125469+00:00"
 }
