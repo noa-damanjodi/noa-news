@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Opinion: AI has passed the mechanical Turing test",
+      "category": "MECHANICAL",
+      "date": "2026-08-17T16:23:55+00:00",
+      "url": "https://www.engineering.com/opinion-ai-has-passed-the-mechanical-turing-test/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "WAGO releases new DER controller",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-17T16:08:05+00:00",
+      "url": "https://www.automationmag.com/wago-releases-new-der-controller/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Senators trying again on bill aimed at banning asbestos",
+      "category": "SAFETY",
+      "date": "2026-08-17T14:33:04+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/senators-trying-again-on-bill-aimed-at-banning-asbestos/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Spate of worker deaths prompts Michigan OSHA to call for heightened safety focus",
+      "category": "SAFETY",
+      "date": "2026-08-17T14:22:33+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/spate-of-worker-deaths-prompts-michigan-osha-to-call-for-heightened-safety-focus/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "FMCSA names Steve Dowling chief safety officer",
+      "category": "SAFETY",
+      "date": "2026-08-17T14:18:20+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fmcsa-names-steve-dowling-chief-safety-officer/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "US boron: from critical minerals policy to domestic production",
+      "category": "INDUSTRY",
+      "date": "2026-08-17T12:55:10+00:00",
+      "url": "https://www.mining-technology.com/sponsored/us-boron-from-critical-minerals-policy-to-domestic-production/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "American Rare Earths, Novex sign MoU for rare earth oxides",
+      "category": "INDUSTRY",
+      "date": "2026-08-17T12:52:33+00:00",
+      "url": "https://www.mining-technology.com/news/american-rare-earths-novex-mou-rare-earth-oxides/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "OceanaGold to acquire Ausgold for $549m",
+      "category": "INDUSTRY",
+      "date": "2026-08-17T12:37:57+00:00",
+      "url": "https://www.mining-technology.com/news/oceanagold-to-acquire-ausgold-549m/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Trimble launches SketchUp Pro Civil Contractor",
       "category": "MECHANICAL",
       "date": "2026-08-17T12:03:00+00:00",
@@ -43114,5 +43178,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-17T12:45:13.526223+00:00"
+  "last_updated_utc": "2026-08-17T18:40:02.525118+00:00"
 }

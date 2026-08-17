@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Opinion: AI has passed the mechanical Turing test",
+      "category": "MECHANICAL",
+      "date": "2026-08-17T16:23:55+00:00",
+      "url": "https://www.engineering.com/opinion-ai-has-passed-the-mechanical-turing-test/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Trimble launches SketchUp Pro Civil Contractor",
       "category": "MECHANICAL",
       "date": "2026-08-17T12:03:00+00:00",
@@ -11618,5 +11626,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-17T12:45:13.526223+00:00"
+  "last_updated_utc": "2026-08-17T18:40:02.525118+00:00"
 }
