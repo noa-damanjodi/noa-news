@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Trimble launches SketchUp Pro Civil Contractor",
+      "category": "MECHANICAL",
+      "date": "2026-08-17T12:03:00+00:00",
+      "url": "https://www.engineering.com/trimble-launches-sketchup-pro-civil-contractor/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Creality adds SPARKX i7 Nano desktop 3D printer",
+      "category": "MECHANICAL",
+      "date": "2026-08-17T11:56:00+00:00",
+      "url": "https://www.engineering.com/creality-adds-sparkx-i7-nano-desktop-3d-printer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bentley MCP servers win Gold Stevie Award",
+      "category": "MECHANICAL",
+      "date": "2026-08-17T11:11:00+00:00",
+      "url": "https://www.engineering.com/bentley-mcp-servers-win-gold-stevie-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Charlie Trimble to receive AGS cartographic medal",
+      "category": "MECHANICAL",
+      "date": "2026-08-17T11:09:00+00:00",
+      "url": "https://www.engineering.com/charlie-trimble-to-receive-ags-cartographic-medal/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hi3D to launch V3.0 with 48-hour free access",
+      "category": "MECHANICAL",
+      "date": "2026-08-17T11:02:00+00:00",
+      "url": "https://www.engineering.com/hi3d-to-launch-v3-0-with-48-hour-free-access/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IntelliCAD 15.0 adds AI and drawing compare previews",
+      "category": "MECHANICAL",
+      "date": "2026-08-17T06:47:18+00:00",
+      "url": "https://www.engineering.com/intellicad-15-0-adds-ai-and-drawing-compare-previews/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Redwire and Kanematsu team up for Japan space market",
       "category": "MECHANICAL",
       "date": "2026-08-17T06:33:10+00:00",
@@ -11570,5 +11618,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-17T06:56:38.732322+00:00"
+  "last_updated_utc": "2026-08-17T12:45:13.526223+00:00"
 }

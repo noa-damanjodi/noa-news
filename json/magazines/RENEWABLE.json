@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "How can utilities build continuous improvement into wildfire mitigation and resiliency efforts?",
+      "category": "RENEWABLE",
+      "date": "2026-08-17T10:30:00+00:00",
+      "url": "https://www.renewableenergyworld.com/news/how-can-utilities-build-continuous-improvement-into-wildfire-mitigation-and-resiliency-efforts/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Solar, storage, and staying ahead: OCI Energy’s growth story",
+      "category": "RENEWABLE",
+      "date": "2026-08-17T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/utility-scale/solar-storage-and-staying-ahead-oci-energys-growth-story/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "The large load Irish goodbye | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-08-17T09:55:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/the-large-load-irish-goodbye-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Can Trump’s new solar tariffs help the domestic supply problem? — This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-08-14T10:00:00+00:00",
@@ -3274,5 +3298,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-17T06:56:38.732322+00:00"
+  "last_updated_utc": "2026-08-17T12:45:13.526223+00:00"
 }

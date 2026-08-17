@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Forrestania appoints MEGA for Tycho open-pit operations",
+      "category": "INDUSTRY",
+      "date": "2026-08-17T10:12:53+00:00",
+      "url": "https://www.mining-technology.com/news/forrestania-appoints-mega-tycho-open-pit/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Laramide Resources secures Swedish uranium exploration licences",
+      "category": "INDUSTRY",
+      "date": "2026-08-17T08:35:23+00:00",
+      "url": "https://www.mining-technology.com/news/laramide-swedish-uranium-exploration-licences/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Endeavour suspends Terronera mine operations after Ejido blockade",
+      "category": "INDUSTRY",
+      "date": "2026-08-17T08:24:36+00:00",
+      "url": "https://www.mining-technology.com/news/endeavour-suspends-terronera-mine-operations/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Anglo American signs iron ore supply agreement with CMRG",
       "category": "INDUSTRY",
       "date": "2026-08-14T11:54:08+00:00",
@@ -7514,5 +7538,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-17T06:56:38.732322+00:00"
+  "last_updated_utc": "2026-08-17T12:45:13.526223+00:00"
 }
