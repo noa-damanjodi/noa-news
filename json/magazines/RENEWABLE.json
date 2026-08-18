@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Lake Powell and Lake Mead hit record lows, threatening hydropower production",
+      "category": "RENEWABLE",
+      "date": "2026-08-17T18:17:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/lake-powell-and-lake-mead-hit-record-lows-threatening-hydropower-production/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Storm damage causes setback on Eco Wave Power’s Portugal wave energy project",
+      "category": "RENEWABLE",
+      "date": "2026-08-17T17:26:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/storm-damage-causes-setback-on-eco-wave-powers-portugal-wave-energy-project/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "How can utilities build continuous improvement into wildfire mitigation and resiliency efforts?",
       "category": "RENEWABLE",
       "date": "2026-08-17T10:30:00+00:00",
@@ -22,6 +38,14 @@
       "category": "RENEWABLE",
       "date": "2026-08-17T09:55:00+00:00",
       "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/the-large-load-irish-goodbye-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Colorado River negotiations continue as states await fed decision",
+      "category": "RENEWABLE",
+      "date": "2026-08-14T19:28:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/colorado-river-negotiations-continue-as-states-await-fed-decision/",
       "source": "Factor This™",
       "type": "magazine"
     },
@@ -3298,5 +3322,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-17T18:40:02.525118+00:00"
+  "last_updated_utc": "2026-08-18T01:16:20.378167+00:00"
 }

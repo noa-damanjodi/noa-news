@@ -2,6 +2,30 @@
   "category": "ALL",
   "items": [
     {
+      "title": "PcVue 17 introduced to address critical systems challenges",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-17T19:21:22+00:00",
+      "url": "https://www.automationmag.com/pcvue-17-introduced-to-address-critical-systems-challenges/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Lake Powell and Lake Mead hit record lows, threatening hydropower production",
+      "category": "RENEWABLE",
+      "date": "2026-08-17T18:17:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/lake-powell-and-lake-mead-hit-record-lows-threatening-hydropower-production/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Storm damage causes setback on Eco Wave Power’s Portugal wave energy project",
+      "category": "RENEWABLE",
+      "date": "2026-08-17T17:26:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/storm-damage-causes-setback-on-eco-wave-powers-portugal-wave-energy-project/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Opinion: AI has passed the mechanical Turing test",
       "category": "MECHANICAL",
       "date": "2026-08-17T16:23:55+00:00",
@@ -247,6 +271,14 @@
       "date": "2026-08-17T05:26:12+00:00",
       "url": "https://powerline.net.in/2026/08/17/evnnpt-secures-approval-for-vnd1-68-trillion-grid-upgrade-in-vietnam/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Colorado River negotiations continue as states await fed decision",
+      "category": "RENEWABLE",
+      "date": "2026-08-14T19:28:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/colorado-river-negotiations-continue-as-states-await-fed-decision/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -43178,5 +43210,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-17T18:40:02.525118+00:00"
+  "last_updated_utc": "2026-08-18T01:16:20.378167+00:00"
 }
