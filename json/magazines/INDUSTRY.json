@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Talisman Metals begins drill mobilisation at Morocco’s Tirzzit project",
+      "category": "INDUSTRY",
+      "date": "2026-08-18T13:47:46+00:00",
+      "url": "https://www.mining-technology.com/news/talisman-metals-drill-mobilisation-tirzzit-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "First stope blast completed at Bunker Hill Mine in Idaho, US",
+      "category": "INDUSTRY",
+      "date": "2026-08-18T13:37:08+00:00",
+      "url": "https://www.mining-technology.com/news/first-stope-blast-bunker-hill-mine-idaho/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "AuKing Mining signs agreement to acquire Green Exploration",
       "category": "INDUSTRY",
       "date": "2026-08-18T10:12:52+00:00",
@@ -7602,5 +7618,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-18T12:48:03.213431+00:00"
+  "last_updated_utc": "2026-08-18T18:38:43.611435+00:00"
 }

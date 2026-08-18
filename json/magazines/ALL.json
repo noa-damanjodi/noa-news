@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Scaling AI agents is where things get complicated",
+      "category": "MECHANICAL",
+      "date": "2026-08-18T18:01:41+00:00",
+      "url": "https://www.engineering.com/scaling-ai-agents-is-where-things-get-complicated/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "One in five construction workers report chronic pain, new data shows",
+      "category": "SAFETY",
+      "date": "2026-08-18T15:55:49+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/one-in-five-construction-workers-report-chronic-pain-new-data-shows/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Justice Department alleges Illinois mine operators covered up fire and tampered with federal investigation",
+      "category": "SAFETY",
+      "date": "2026-08-18T15:54:59+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/justice-department-alleges-illinois-mine-operators-covered-up-fire-and-tampered-with-federal-investigation/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Put it to bed: Decade-old sleep recommendations still sound, experts say",
+      "category": "SAFETY",
+      "date": "2026-08-18T15:14:36+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/put-it-to-bed-decade-old-sleep-recommendations-still-sound-experts-say/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Food manufacturing technology has attracted $26 million in investment so far this year: CFIN",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-18T14:50:02+00:00",
+      "url": "https://www.automationmag.com/food-manufacturing-technology-has-attracted-26-million-in-investment-so-far-this-year-cfin/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Act early: New video shows how managers can help reduce workplace stress",
+      "category": "SAFETY",
+      "date": "2026-08-18T14:25:06+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/act-early-new-video-shows-how-managers-can-help-reduce-workplace-stress/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Industrial Transformation ASIA-PACIFIC to return in October 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-18T14:20:21+00:00",
+      "url": "https://www.automationmag.com/industrial-transformation-asia-pacific-to-return-in-october-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Talisman Metals begins drill mobilisation at Morocco’s Tirzzit project",
+      "category": "INDUSTRY",
+      "date": "2026-08-18T13:47:46+00:00",
+      "url": "https://www.mining-technology.com/news/talisman-metals-drill-mobilisation-tirzzit-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "First stope blast completed at Bunker Hill Mine in Idaho, US",
+      "category": "INDUSTRY",
+      "date": "2026-08-18T13:37:08+00:00",
+      "url": "https://www.mining-technology.com/news/first-stope-blast-bunker-hill-mine-idaho/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Humans-in-the-loop is likely the fastest way to AI value",
+      "category": "MECHANICAL",
+      "date": "2026-08-18T13:00:00+00:00",
+      "url": "https://www.engineering.com/humans-in-the-loop-is-likely-the-fastest-way-to-ai-value/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Dexory deploys Engineering AI for warehouse robot design",
       "category": "MECHANICAL",
       "date": "2026-08-18T10:46:40+00:00",
@@ -43378,5 +43458,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-18T12:48:03.213431+00:00"
+  "last_updated_utc": "2026-08-18T18:38:43.611435+00:00"
 }
