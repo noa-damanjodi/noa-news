@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Dexory deploys Engineering AI for warehouse robot design",
+      "category": "MECHANICAL",
+      "date": "2026-08-18T10:46:40+00:00",
+      "url": "https://www.engineering.com/dexory-deploys-engineering-ai-for-warehouse-robot-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ATLANT 3D launches AI materials discovery platform",
+      "category": "MECHANICAL",
+      "date": "2026-08-18T10:38:05+00:00",
+      "url": "https://www.engineering.com/atlant-3d-launches-ai-materials-discovery-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AuKing Mining signs agreement to acquire Green Exploration",
+      "category": "INDUSTRY",
+      "date": "2026-08-18T10:12:52+00:00",
+      "url": "https://www.mining-technology.com/news/auking-mining-agreement-acquire-green-exploration/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Carbon launches DB 4000 denture base resin",
+      "category": "MECHANICAL",
+      "date": "2026-08-18T09:54:11+00:00",
+      "url": "https://www.engineering.com/carbon-launches-db-4000-denture-base-resin/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "LG expands NVIDIA robotics collaboration at data factory",
+      "category": "MECHANICAL",
+      "date": "2026-08-18T09:46:00+00:00",
+      "url": "https://www.engineering.com/lg-expands-nvidia-robotics-collaboration-at-data-factory/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hybrid propulsion systems for efficient and sustainable mining",
+      "category": "INDUSTRY",
+      "date": "2026-08-18T09:45:24+00:00",
+      "url": "https://www.mining-technology.com/sponsored/hybrid-propulsion-systems-for-efficient-and-sustainable-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Pinnacle Series adds Alias and VRED training content",
+      "category": "MECHANICAL",
+      "date": "2026-08-18T08:59:00+00:00",
+      "url": "https://www.engineering.com/pinnacle-series-adds-alias-and-vred-training-content/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SCI installs plasma system for spherical metal powders",
+      "category": "MECHANICAL",
+      "date": "2026-08-18T08:54:00+00:00",
+      "url": "https://www.engineering.com/sci-installs-plasma-system-for-spherical-metal-powders/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ScitiX launches production inference platform for enterprises",
+      "category": "MECHANICAL",
+      "date": "2026-08-18T08:35:00+00:00",
+      "url": "https://www.engineering.com/scitix-launches-production-inference-platform-for-enterprises/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Viasat selects Rocket Lab for USSF satellite bus",
+      "category": "MECHANICAL",
+      "date": "2026-08-18T08:20:00+00:00",
+      "url": "https://www.engineering.com/viasat-selects-rocket-lab-for-ussf-satellite-bus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Autonomous mining’s next challenge: making the whole fleet think",
+      "category": "INDUSTRY",
+      "date": "2026-08-18T08:04:57+00:00",
+      "url": "https://www.mining-technology.com/features/autonomous-minings-next-challenge-making-the-whole-fleet-think/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Arc Minerals selects contractor for drilling at Virgo project",
+      "category": "INDUSTRY",
+      "date": "2026-08-18T07:50:05+00:00",
+      "url": "https://www.mining-technology.com/news/arc-minerals-contractor-drilling-virgo-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Dalaroo completes stage one soil sampling at Watheroo prospect",
+      "category": "INDUSTRY",
+      "date": "2026-08-18T07:44:23+00:00",
+      "url": "https://www.mining-technology.com/news/dalaroo-stage1-soil-sampling-watheroo/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "High-Voltage Switch Innovation for Electric Power Systems",
       "category": "POWER",
       "date": "2026-08-18T06:14:58+00:00",
@@ -43274,5 +43378,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-18T06:43:45.880036+00:00"
+  "last_updated_utc": "2026-08-18T12:48:03.213431+00:00"
 }
