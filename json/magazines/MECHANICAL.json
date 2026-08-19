@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "PaleBlueDot AI gains NVIDIA Exemplar Cloud status",
+      "category": "MECHANICAL",
+      "date": "2026-08-19T12:12:24+00:00",
+      "url": "https://www.engineering.com/palebluedot-ai-gains-nvidia-exemplar-cloud-status/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AEON enters Schaeffler humanoid training facility",
+      "category": "MECHANICAL",
+      "date": "2026-08-19T12:03:27+00:00",
+      "url": "https://www.engineering.com/aeon-enters-schaeffler-humanoid-training-facility/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Stratasys expands prosthetics partnership with Limbitless",
+      "category": "MECHANICAL",
+      "date": "2026-08-19T11:58:25+00:00",
+      "url": "https://www.engineering.com/stratasys-expands-prosthetics-partnership-with-limbitless/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Pace Wireless joins Morse Micro design partner program",
+      "category": "MECHANICAL",
+      "date": "2026-08-19T11:43:35+00:00",
+      "url": "https://www.engineering.com/pace-wireless-joins-morse-micro-design-partner-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Foxglove adds AI tools for robotics data workflows",
+      "category": "MECHANICAL",
+      "date": "2026-08-19T11:23:56+00:00",
+      "url": "https://www.engineering.com/foxglove-adds-ai-tools-for-robotics-data-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Scaling AI agents is where things get complicated",
       "category": "MECHANICAL",
       "date": "2026-08-18T18:01:41+00:00",
@@ -11706,5 +11746,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-19T06:44:23.024998+00:00"
+  "last_updated_utc": "2026-08-19T12:48:59.415494+00:00"
 }

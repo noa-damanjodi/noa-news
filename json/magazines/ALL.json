@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Expert insights: Mining more with less",
+      "category": "INDUSTRY",
+      "date": "2026-08-19T12:42:06+00:00",
+      "url": "https://www.mining-technology.com/sponsored/expert-insights-mining-more-with-less/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "PaleBlueDot AI gains NVIDIA Exemplar Cloud status",
+      "category": "MECHANICAL",
+      "date": "2026-08-19T12:12:24+00:00",
+      "url": "https://www.engineering.com/palebluedot-ai-gains-nvidia-exemplar-cloud-status/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AEON enters Schaeffler humanoid training facility",
+      "category": "MECHANICAL",
+      "date": "2026-08-19T12:03:27+00:00",
+      "url": "https://www.engineering.com/aeon-enters-schaeffler-humanoid-training-facility/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Stratasys expands prosthetics partnership with Limbitless",
+      "category": "MECHANICAL",
+      "date": "2026-08-19T11:58:25+00:00",
+      "url": "https://www.engineering.com/stratasys-expands-prosthetics-partnership-with-limbitless/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Pace Wireless joins Morse Micro design partner program",
+      "category": "MECHANICAL",
+      "date": "2026-08-19T11:43:35+00:00",
+      "url": "https://www.engineering.com/pace-wireless-joins-morse-micro-design-partner-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Foxglove adds AI tools for robotics data workflows",
+      "category": "MECHANICAL",
+      "date": "2026-08-19T11:23:56+00:00",
+      "url": "https://www.engineering.com/foxglove-adds-ai-tools-for-robotics-data-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "European clean energy developers show a renewed appetite for risk",
+      "category": "RENEWABLE",
+      "date": "2026-08-19T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/european-clean-energy-developers-show-a-renewed-appetite-for-risk/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Skull Ridge Gold acquires 689 claims in central Newfoundland",
+      "category": "INDUSTRY",
+      "date": "2026-08-19T10:01:39+00:00",
+      "url": "https://www.mining-technology.com/news/skull-ridge-acquire-689-claims-central-newfoundland/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "AI in smart grids: how grid tech is navigating challenges and opportunities",
+      "category": "INDUSTRY",
+      "date": "2026-08-19T09:45:46+00:00",
+      "url": "https://www.mining-technology.com/news/ai-in-smart-grids-how-grid-tech-is-navigating-challenges-and-opportunities/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "PPX Mining secures approval for drilling at Peru’s Igor Project",
+      "category": "INDUSTRY",
+      "date": "2026-08-19T08:06:27+00:00",
+      "url": "https://www.mining-technology.com/news/ppx-mining-approval-drilling-perus-igor-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "US DoE allocates $162m to mining projects targeting critical minerals",
+      "category": "INDUSTRY",
+      "date": "2026-08-19T07:41:20+00:00",
+      "url": "https://www.mining-technology.com/news/us-doe-162m-targeting-critical-minerals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Inox Clean Energy completes Rs 60 billion acquisition of Vena Energy India",
       "category": "POWER",
       "date": "2026-08-19T05:41:24+00:00",
@@ -43522,5 +43610,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-19T06:44:23.024998+00:00"
+  "last_updated_utc": "2026-08-19T12:48:59.415494+00:00"
 }

@@ -2,6 +2,46 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Expert insights: Mining more with less",
+      "category": "INDUSTRY",
+      "date": "2026-08-19T12:42:06+00:00",
+      "url": "https://www.mining-technology.com/sponsored/expert-insights-mining-more-with-less/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Skull Ridge Gold acquires 689 claims in central Newfoundland",
+      "category": "INDUSTRY",
+      "date": "2026-08-19T10:01:39+00:00",
+      "url": "https://www.mining-technology.com/news/skull-ridge-acquire-689-claims-central-newfoundland/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "AI in smart grids: how grid tech is navigating challenges and opportunities",
+      "category": "INDUSTRY",
+      "date": "2026-08-19T09:45:46+00:00",
+      "url": "https://www.mining-technology.com/news/ai-in-smart-grids-how-grid-tech-is-navigating-challenges-and-opportunities/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "PPX Mining secures approval for drilling at Peru’s Igor Project",
+      "category": "INDUSTRY",
+      "date": "2026-08-19T08:06:27+00:00",
+      "url": "https://www.mining-technology.com/news/ppx-mining-approval-drilling-perus-igor-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "US DoE allocates $162m to mining projects targeting critical minerals",
+      "category": "INDUSTRY",
+      "date": "2026-08-19T07:41:20+00:00",
+      "url": "https://www.mining-technology.com/news/us-doe-162m-targeting-critical-minerals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Talisman Metals begins drill mobilisation at Morocco’s Tirzzit project",
       "category": "INDUSTRY",
       "date": "2026-08-18T13:47:46+00:00",
@@ -7618,5 +7658,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-19T06:44:23.024998+00:00"
+  "last_updated_utc": "2026-08-19T12:48:59.415494+00:00"
 }

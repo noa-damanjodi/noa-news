@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "European clean energy developers show a renewed appetite for risk",
+      "category": "RENEWABLE",
+      "date": "2026-08-19T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/european-clean-energy-developers-show-a-renewed-appetite-for-risk/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Lake Powell and Lake Mead hit record lows, threatening hydropower production",
       "category": "RENEWABLE",
       "date": "2026-08-17T18:17:00+00:00",
@@ -3322,5 +3330,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-19T06:44:23.024998+00:00"
+  "last_updated_utc": "2026-08-19T12:48:59.415494+00:00"
 }
