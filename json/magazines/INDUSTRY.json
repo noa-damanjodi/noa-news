@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Viridis obtains $120m equity backing for Colossus rare earth project",
+      "category": "INDUSTRY",
+      "date": "2026-08-20T12:52:03+00:00",
+      "url": "https://www.mining-technology.com/news/viridis-120m-equity-colossus-rare-earth/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "BHP, SiTration to trial copper recovery technology at Arizona mine site",
+      "category": "INDUSTRY",
+      "date": "2026-08-20T12:42:29+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-sitration-to-trial-copper-recovery-technology-at-arizona-mine-site/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Fortescue settles Queensland dispute over Gladstone electrolyser facility",
       "category": "INDUSTRY",
       "date": "2026-08-20T11:10:52+00:00",
@@ -7706,5 +7722,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-20T12:51:01.234088+00:00"
+  "last_updated_utc": "2026-08-20T18:39:27.006680+00:00"
 }

@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Ontario invests $9.8 million to build new millwright training centre in Port Hope",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-20T16:25:22+00:00",
+      "url": "https://www.automationmag.com/ontario-invests-9-8-million-to-build-new-millwright-training-centre-in-port-hope/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "DIEFFENBACHER names Brian Goodchild NA head of sales",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-20T15:54:39+00:00",
+      "url": "https://www.automationmag.com/dieffenbacher-names-brian-goodchild-na-head-of-sales/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Manufacturing sales rise to $78.8 billion, fifth consecutive month of growth",
       "category": "INSTRUMENTATION",
       "date": "2026-08-19T14:24:18+00:00",
@@ -2610,5 +2626,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-20T12:51:01.234088+00:00"
+  "last_updated_utc": "2026-08-20T18:39:27.006680+00:00"
 }

@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "The mobile technology undermining utility workflows, efficiency, and data quality",
+      "category": "RENEWABLE",
+      "date": "2026-08-20T12:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/the-mobile-technology-undermining-utility-workflows-efficiency-and-data-quality/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "European clean energy developers show a renewed appetite for risk",
       "category": "RENEWABLE",
       "date": "2026-08-19T11:00:00+00:00",
@@ -3330,5 +3338,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-20T12:51:01.234088+00:00"
+  "last_updated_utc": "2026-08-20T18:39:27.006680+00:00"
 }
