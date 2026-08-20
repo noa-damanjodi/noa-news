@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "ARM Institute Calls for Accelerated use of AI, Automation in Defense Production",
+      "category": "MECHANICAL",
+      "date": "2026-08-19T20:00:00+00:00",
+      "url": "https://www.engineering.com/arm-institute-calls-for-accelerated-use-of-ai-automation-in-defense-production/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Safety board urges chemical facilities to make sure buildings protect workers",
       "category": "SAFETY",
       "date": "2026-08-19T18:24:21+00:00",
@@ -39,6 +47,22 @@
       "date": "2026-08-19T14:24:18+00:00",
       "url": "https://www.automationmag.com/manufacturing-sales-rise-to-78-8-billion-fifth-consecutive-month-of-growth/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Rox formalises Badimia Barna agreement for Youanmi operations",
+      "category": "INDUSTRY",
+      "date": "2026-08-19T13:57:02+00:00",
+      "url": "https://www.mining-technology.com/news/rox-badimia-barna-agreement-youanmi-operations/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Fortescue’s Green Metal Project produces first hot metal",
+      "category": "INDUSTRY",
+      "date": "2026-08-19T13:46:16+00:00",
+      "url": "https://www.mining-technology.com/news/fortescues-green-metal-project-first-hot-metal/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -43658,5 +43682,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-19T18:36:16.748426+00:00"
+  "last_updated_utc": "2026-08-20T01:17:18.815692+00:00"
 }
