@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Vishay adds 650 W thick film power resistor series",
+      "category": "MECHANICAL",
+      "date": "2026-08-21T11:07:46+00:00",
+      "url": "https://www.engineering.com/vishay-adds-650-w-thick-film-power-resistor-series/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "EinScan Trak supports wireless 3D scanning workflows",
+      "category": "MECHANICAL",
+      "date": "2026-08-21T09:45:42+00:00",
+      "url": "https://www.engineering.com/einscan-trak-supports-wireless-3d-scanning-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bentley and Tata Projects support infrastructure skills development",
+      "category": "MECHANICAL",
+      "date": "2026-08-21T09:38:00+00:00",
+      "url": "https://www.engineering.com/bentley-and-tata-projects-support-infrastructure-skills-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ZenaTech expands drone services with Canadian engineering acquisition",
+      "category": "MECHANICAL",
+      "date": "2026-08-21T09:36:50+00:00",
+      "url": "https://www.engineering.com/zenatech-expands-drone-services-with-canadian-engineering-acquisition/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nuclearn and GSE Solutions bring AI to nuclear simulation",
+      "category": "MECHANICAL",
+      "date": "2026-08-21T09:30:58+00:00",
+      "url": "https://www.engineering.com/nuclearn-and-gse-solutions-bring-ai-to-nuclear-simulation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Shield AI’s X-BAT named official aircraft of Army-Navy Game",
+      "category": "MECHANICAL",
+      "date": "2026-08-21T09:24:50+00:00",
+      "url": "https://www.engineering.com/shield-ais-x-bat-named-official-aircraft-of-army-navy-game/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Stop measuring product development progress in dollars",
       "category": "MECHANICAL",
       "date": "2026-08-20T18:59:08+00:00",
@@ -11858,5 +11906,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-21T06:48:56.646237+00:00"
+  "last_updated_utc": "2026-08-21T12:49:22.976551+00:00"
 }
