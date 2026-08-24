@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "The price of ‘all-of-the-above’ | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-08-24T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/the-price-of-all-of-the-above-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Data center backlash is cross-partisan — This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-08-21T15:57:33+00:00",
@@ -3362,5 +3370,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-24T06:59:46.214982+00:00"
+  "last_updated_utc": "2026-08-24T12:51:57.285941+00:00"
 }

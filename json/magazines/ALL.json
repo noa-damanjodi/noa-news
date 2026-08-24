@@ -2,6 +2,158 @@
   "category": "ALL",
   "items": [
     {
+      "title": "MetraSCAN BLACK2 adds stand-alone scanning and probing",
+      "category": "MECHANICAL",
+      "date": "2026-08-24T12:20:57+00:00",
+      "url": "https://www.engineering.com/metrascan-black2-adds-stand-alone-scanning-and-probing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "51WORLD unveils two embodied AI products",
+      "category": "MECHANICAL",
+      "date": "2026-08-24T12:12:40+00:00",
+      "url": "https://www.engineering.com/51world-unveils-two-embodied-ai-products/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cloverleaf and NVIDIA partner to develop AI infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-08-24T11:30:49+00:00",
+      "url": "https://www.engineering.com/cloverleaf-and-nvidia-partner-to-develop-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Unisys and Refroid partner on AI infrastructure deployment",
+      "category": "MECHANICAL",
+      "date": "2026-08-24T11:26:10+00:00",
+      "url": "https://www.engineering.com/unisys-and-refroid-partner-on-ai-infrastructure-deployment/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mouser launches consumer technology resource center",
+      "category": "MECHANICAL",
+      "date": "2026-08-24T11:20:23+00:00",
+      "url": "https://www.engineering.com/mouser-launches-consumer-technology-resource-center/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Urban mining: how battery recycling is creating a new source of domestic cobalt",
+      "category": "INDUSTRY",
+      "date": "2026-08-24T10:35:00+00:00",
+      "url": "https://www.mining-technology.com/features/battery-recycling-lithium-cobalt-black-mass/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "US awards $500m to seven critical minerals and battery projects",
+      "category": "INDUSTRY",
+      "date": "2026-08-24T10:34:08+00:00",
+      "url": "https://www.mining-technology.com/news/us-awards-500m-to-seven-critical-minerals-and-battery-projects/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Greenland Mines announces approval for Sarfartoq complex transfer",
+      "category": "INDUSTRY",
+      "date": "2026-08-24T10:23:56+00:00",
+      "url": "https://www.mining-technology.com/news/greenland-mines-approval-sarfartoq-complex-transfer/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "The price of ‘all-of-the-above’ | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-08-24T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/the-price-of-all-of-the-above-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Rising Stars of Safety, Class of 2026",
+      "category": "SAFETY",
+      "date": "2026-08-24T09:02:08+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/rising-stars-of-safety-2026/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Lay the foundation for Prevention through Design",
+      "category": "SAFETY",
+      "date": "2026-08-24T09:01:26+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/lay-the-foundation-for-prevention-through-design/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "You said it: Advice for new safety professionals",
+      "category": "SAFETY",
+      "date": "2026-08-24T09:01:18+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/you-said-it-advice-for-new-safety-professionals/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Highlights of the 2026 NSC Safety Congress & Expo",
+      "category": "SAFETY",
+      "date": "2026-08-24T09:00:46+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/highlights-of-the-2026-nsc-safety-congress-expo/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Things to see and do in Indianapolis",
+      "category": "SAFETY",
+      "date": "2026-08-24T09:00:42+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/things-to-see-and-do-in-indianapolis/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Avoid ‘the great fleet mistake’",
+      "category": "SAFETY",
+      "date": "2026-08-24T08:31:09+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fleet-vehicle-selection-avoid-the-great-fleet-mistake/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Discovery (and rediscovery)",
+      "category": "SAFETY",
+      "date": "2026-08-24T08:30:48+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/discovery-and-rediscovery/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "My Story: Ben Wood",
+      "category": "SAFETY",
+      "date": "2026-08-24T08:30:44+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/my-story-ben-wood/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bunker Hill signs agreement to acquire all shares of Silver47",
+      "category": "INDUSTRY",
+      "date": "2026-08-24T08:07:49+00:00",
+      "url": "https://www.mining-technology.com/news/bunker-hill-agreement-acquire-all-shares-silver47/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metals Exploration targets December 2026 gold output at La India project",
+      "category": "INDUSTRY",
+      "date": "2026-08-24T07:54:17+00:00",
+      "url": "https://www.mining-technology.com/news/metals-exploration-december-2026-gold-la-india/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "FACE Report: Orchard laborer falls from boom lift",
       "category": "SAFETY",
       "date": "2026-08-24T06:31:45+00:00",
@@ -44354,5 +44506,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-24T06:59:46.214982+00:00"
+  "last_updated_utc": "2026-08-24T12:51:57.285941+00:00"
 }

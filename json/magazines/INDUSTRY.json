@@ -2,6 +2,46 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Urban mining: how battery recycling is creating a new source of domestic cobalt",
+      "category": "INDUSTRY",
+      "date": "2026-08-24T10:35:00+00:00",
+      "url": "https://www.mining-technology.com/features/battery-recycling-lithium-cobalt-black-mass/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "US awards $500m to seven critical minerals and battery projects",
+      "category": "INDUSTRY",
+      "date": "2026-08-24T10:34:08+00:00",
+      "url": "https://www.mining-technology.com/news/us-awards-500m-to-seven-critical-minerals-and-battery-projects/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Greenland Mines announces approval for Sarfartoq complex transfer",
+      "category": "INDUSTRY",
+      "date": "2026-08-24T10:23:56+00:00",
+      "url": "https://www.mining-technology.com/news/greenland-mines-approval-sarfartoq-complex-transfer/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Bunker Hill signs agreement to acquire all shares of Silver47",
+      "category": "INDUSTRY",
+      "date": "2026-08-24T08:07:49+00:00",
+      "url": "https://www.mining-technology.com/news/bunker-hill-agreement-acquire-all-shares-silver47/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metals Exploration targets December 2026 gold output at La India project",
+      "category": "INDUSTRY",
+      "date": "2026-08-24T07:54:17+00:00",
+      "url": "https://www.mining-technology.com/news/metals-exploration-december-2026-gold-la-india/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Perenti to sell mining equipment business to Beetle for $71m",
       "category": "INDUSTRY",
       "date": "2026-08-21T14:19:44+00:00",
@@ -7762,5 +7802,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-24T06:59:46.214982+00:00"
+  "last_updated_utc": "2026-08-24T12:51:57.285941+00:00"
 }
