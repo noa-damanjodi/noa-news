@@ -26,18 +26,18 @@
       "type": "magazine"
     },
     {
-      "title": "Highlights of the 2026 NSC Safety Congress & Expo",
-      "category": "SAFETY",
-      "date": "2026-08-24T09:00:46+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/highlights-of-the-2026-nsc-safety-congress-expo/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
       "title": "Things to see and do in Indianapolis",
       "category": "SAFETY",
       "date": "2026-08-24T09:00:42+00:00",
       "url": "https://www.safetyandhealthmagazine.com/things-to-see-and-do-in-indianapolis/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Highlights of the 2026 NSC Safety Congress & Expo",
+      "category": "SAFETY",
+      "date": "2026-08-24T08:59:46+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/highlights-of-the-2026-nsc-safety-congress-expo/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -4314,5 +4314,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-24T12:51:57.285941+00:00"
+  "last_updated_utc": "2026-08-24T18:40:31.170167+00:00"
 }

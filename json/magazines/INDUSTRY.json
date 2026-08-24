@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Peako to launch UAV magnetic surveys across five Saudi projects",
+      "category": "INDUSTRY",
+      "date": "2026-08-24T13:24:44+00:00",
+      "url": "https://www.mining-technology.com/news/peako-uav-magnetic-surveys-five-saudi-projects/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metso to acquire hose and cavity pumps business from Valmet",
+      "category": "INDUSTRY",
+      "date": "2026-08-24T13:04:42+00:00",
+      "url": "https://www.mining-technology.com/news/metso-acquire-hose-cavity-pumps-valmet/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Urban mining: how battery recycling is creating a new source of domestic cobalt",
       "category": "INDUSTRY",
       "date": "2026-08-24T10:35:00+00:00",
@@ -7802,5 +7818,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-24T12:51:57.285941+00:00"
+  "last_updated_utc": "2026-08-24T18:40:31.170167+00:00"
 }
