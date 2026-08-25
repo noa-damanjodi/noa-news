@@ -2,10 +2,34 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Riding the AI wave: Can data centers unlock ocean energy?",
+      "category": "RENEWABLE",
+      "date": "2026-08-24T20:14:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/riding-the-ai-wave-can-data-centers-unlock-ocean-energy/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Hydropower plants in western Norway to be modernized",
+      "category": "RENEWABLE",
+      "date": "2026-08-24T15:27:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/technology-equipment/hydropower-plants-in-western-norway-to-be-modernized/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "The price of ‘all-of-the-above’ | Factor This Brief",
       "category": "RENEWABLE",
       "date": "2026-08-24T10:00:00+00:00",
       "url": "https://www.renewableenergyworld.com/energy-business/the-price-of-all-of-the-above-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Stronger waves generate higher output at wave energy site",
+      "category": "RENEWABLE",
+      "date": "2026-08-21T19:28:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/stronger-waves-generate-higher-output-at-wave-energy-site/",
       "source": "Factor This™",
       "type": "magazine"
     },
@@ -3370,5 +3394,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-24T18:40:31.170167+00:00"
+  "last_updated_utc": "2026-08-25T01:18:31.190818+00:00"
 }

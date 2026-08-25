@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Riding the AI wave: Can data centers unlock ocean energy?",
+      "category": "RENEWABLE",
+      "date": "2026-08-24T20:14:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/riding-the-ai-wave-can-data-centers-unlock-ocean-energy/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA updates emphasis program on warehouses and distribution centers",
+      "category": "SAFETY",
+      "date": "2026-08-24T19:36:15+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-updates-emphasis-program-on-warehouses-and-distribution-centers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "FMCSA proposes to park truckers for English language proficiency violations",
+      "category": "SAFETY",
+      "date": "2026-08-24T18:55:04+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fmcsa-proposes-to-park-truckers-for-english-proficiency-violations/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Workplace violence in health care: Oregon OSHA wants input on proposed rule",
+      "category": "SAFETY",
+      "date": "2026-08-24T18:48:59+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/workplace-violence-in-health-care-oregon-osha-wants-input-on-proposed-rule/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hydropower plants in western Norway to be modernized",
+      "category": "RENEWABLE",
+      "date": "2026-08-24T15:27:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/technology-equipment/hydropower-plants-in-western-norway-to-be-modernized/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Peako to launch UAV magnetic surveys across five Saudi projects",
       "category": "INDUSTRY",
       "date": "2026-08-24T13:24:44+00:00",
@@ -303,6 +343,14 @@
       "date": "2026-08-24T05:45:41+00:00",
       "url": "https://www.safetyandhealthmagazine.com/hi-vis-apparel-needs/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Stronger waves generate higher output at wave energy site",
+      "category": "RENEWABLE",
+      "date": "2026-08-21T19:28:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/stronger-waves-generate-higher-output-at-wave-energy-site/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -44522,5 +44570,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-24T18:40:31.170167+00:00"
+  "last_updated_utc": "2026-08-25T01:18:31.190818+00:00"
 }
