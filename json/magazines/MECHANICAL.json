@@ -2,6 +2,78 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "IBM unveils dual-architecture processor for Z and LinuxONE",
+      "category": "MECHANICAL",
+      "date": "2026-08-25T12:23:08+00:00",
+      "url": "https://www.engineering.com/ibm-unveils-dual-architecture-processor-for-z-and-linuxone/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lancium and NVIDIA collaborate on gigawatt-scale AI campuses",
+      "category": "MECHANICAL",
+      "date": "2026-08-25T12:15:28+00:00",
+      "url": "https://www.engineering.com/lancium-and-nvidia-collaborate-on-gigawatt-scale-ai-campuses/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nordson introduces Vantage XL for panel-level packaging",
+      "category": "MECHANICAL",
+      "date": "2026-08-25T12:10:25+00:00",
+      "url": "https://www.engineering.com/nordson-introduces-vantage-xl-for-panel-level-packaging/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Advantech launches Dragonwing-based edge AI solutions",
+      "category": "MECHANICAL",
+      "date": "2026-08-25T12:03:47+00:00",
+      "url": "https://www.engineering.com/advantech-launches-dragonwing-based-edge-ai-solutions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MillworkSuite launches AI platform for estimating and drafting",
+      "category": "MECHANICAL",
+      "date": "2026-08-25T11:57:54+00:00",
+      "url": "https://www.engineering.com/millworksuite-launches-ai-platform-for-estimating-and-drafting/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "FANUC launches 5-axis technology initiative",
+      "category": "MECHANICAL",
+      "date": "2026-08-25T11:14:46+00:00",
+      "url": "https://www.engineering.com/fanuc-launches-5-axis-technology-initiative/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA announces Groq 3 LPX production for inference workloads",
+      "category": "MECHANICAL",
+      "date": "2026-08-25T11:04:01+00:00",
+      "url": "https://www.engineering.com/nvidia-announces-groq-3-lpx-production-for-inference-workloads/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA and SpaceXAI collaboration on agentic AI infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-08-25T10:54:22+00:00",
+      "url": "https://www.engineering.com/nvidia-and-spacexai-collaboration-on-agentic-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HPE named a Leader in 2026 Gartner enterprise storage report",
+      "category": "MECHANICAL",
+      "date": "2026-08-25T10:45:37+00:00",
+      "url": "https://www.engineering.com/hpe-named-a-leader-in-2026-gartner-enterprise-storage-report/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "MetraSCAN BLACK2 adds stand-alone scanning and probing",
       "category": "MECHANICAL",
       "date": "2026-08-24T12:20:57+00:00",
@@ -11954,5 +12026,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-25T06:49:53.174685+00:00"
+  "last_updated_utc": "2026-08-25T12:48:56.411677+00:00"
 }
