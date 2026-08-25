@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "I heart transmission: Stop defending transmission projects and start championing them",
+      "category": "RENEWABLE",
+      "date": "2026-08-25T14:11:21+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/i-heart-transmission-stop-defending-transmission-projects-and-start-championing-them/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Riding the AI wave: Can data centers unlock ocean energy?",
       "category": "RENEWABLE",
       "date": "2026-08-24T20:14:00+00:00",
@@ -3394,5 +3402,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-25T12:48:56.411677+00:00"
+  "last_updated_utc": "2026-08-25T18:39:54.389565+00:00"
 }

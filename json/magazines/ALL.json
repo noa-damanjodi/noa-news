@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Ottawa to hike tariffs on U.S., steel, aluminum to 50% in retaliation",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-25T16:52:53+00:00",
+      "url": "https://www.automationmag.com/ottawa-to-hike-tariffs-on-u-s-steel-aluminum-to-50-in-retaliation/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Ontario expanding protections for tariff-impacted workers",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-25T16:45:09+00:00",
+      "url": "https://www.automationmag.com/ontario-expanding-protections-for-tariff-impacted-workers/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "DOL floating changes to black lung benefits rule",
+      "category": "SAFETY",
+      "date": "2026-08-25T15:43:36+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/dol-floating-changes-to-black-lung-benefits-rule/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NSC, NCCCO Foundation report highlights safety benefits of crane industry certification",
+      "category": "SAFETY",
+      "date": "2026-08-25T15:25:50+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-nccco-foundation-report-highlights-safety-benefits-of-crane-industry-certification/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "FAA proposes ‘performance-based’ approach to aircraft medical kits",
+      "category": "SAFETY",
+      "date": "2026-08-25T15:19:12+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/faa-proposes-performance-based-approach-to-aircraft-medical-kits/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Porsche, TCS $1.5B deal puts AI at the center of digital transformation",
+      "category": "MECHANICAL",
+      "date": "2026-08-25T15:08:32+00:00",
+      "url": "https://www.engineering.com/porsche-tcs-1-5b-deal-puts-ai-at-the-center-of-digital-transformation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "I heart transmission: Stop defending transmission projects and start championing them",
+      "category": "RENEWABLE",
+      "date": "2026-08-25T14:11:21+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/i-heart-transmission-stop-defending-transmission-projects-and-start-championing-them/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "UK National Wealth Fund to invest up to $96.8m in Tungsten West",
+      "category": "INDUSTRY",
+      "date": "2026-08-25T13:08:33+00:00",
+      "url": "https://www.mining-technology.com/news/national-wealth-fund-invest-96-8m-tungsten-west/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Lithium Argentina, Ganfeng sign agreements to finalise PPG JV",
+      "category": "INDUSTRY",
+      "date": "2026-08-25T13:02:03+00:00",
+      "url": "https://www.mining-technology.com/news/lithium-argentina-ganfeng-agreements-finalise-ppg-jv/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "IBM unveils dual-architecture processor for Z and LinuxONE",
       "category": "MECHANICAL",
       "date": "2026-08-25T12:23:08+00:00",
@@ -44754,5 +44826,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-25T12:48:56.411677+00:00"
+  "last_updated_utc": "2026-08-25T18:39:54.389565+00:00"
 }

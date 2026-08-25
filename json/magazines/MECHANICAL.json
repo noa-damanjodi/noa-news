@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Porsche, TCS $1.5B deal puts AI at the center of digital transformation",
+      "category": "MECHANICAL",
+      "date": "2026-08-25T15:08:32+00:00",
+      "url": "https://www.engineering.com/porsche-tcs-1-5b-deal-puts-ai-at-the-center-of-digital-transformation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "IBM unveils dual-architecture processor for Z and LinuxONE",
       "category": "MECHANICAL",
       "date": "2026-08-25T12:23:08+00:00",
@@ -12026,5 +12034,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-25T12:48:56.411677+00:00"
+  "last_updated_utc": "2026-08-25T18:39:54.389565+00:00"
 }
