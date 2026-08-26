@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Hexagon to acquire marine positioning company Guidance Marine",
+      "category": "MECHANICAL",
+      "date": "2026-08-26T11:09:51+00:00",
+      "url": "https://www.engineering.com/hexagon-to-acquire-marine-positioning-company-guidance-marine/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Talon Precision acquires aerospace manufacturer Baron Machine",
+      "category": "MECHANICAL",
+      "date": "2026-08-26T11:04:54+00:00",
+      "url": "https://www.engineering.com/talon-precision-acquires-aerospace-manufacturer-baron-machine/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Eagle Point adds Trimble Learn content to Pinnacle Series",
+      "category": "MECHANICAL",
+      "date": "2026-08-26T09:44:48+00:00",
+      "url": "https://www.engineering.com/eagle-point-adds-trimble-learn-content-to-pinnacle-series/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cisco adds Supermicro systems to Secure AI Factory with NVIDIA",
+      "category": "MECHANICAL",
+      "date": "2026-08-26T09:37:07+00:00",
+      "url": "https://www.engineering.com/cisco-adds-supermicro-systems-to-secure-ai-factory-with-nvidia/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Genesis recognized in Gartner report for agentic data engineering",
+      "category": "MECHANICAL",
+      "date": "2026-08-26T09:26:06+00:00",
+      "url": "https://www.engineering.com/genesis-recognized-in-gartner-report-for-agentic-data-engineering/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Porsche, TCS $1.5B deal puts AI at the center of digital transformation",
       "category": "MECHANICAL",
       "date": "2026-08-25T15:08:32+00:00",
@@ -12034,5 +12074,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-26T06:50:59.605818+00:00"
+  "last_updated_utc": "2026-08-26T12:53:25.950460+00:00"
 }
