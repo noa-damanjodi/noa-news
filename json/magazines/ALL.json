@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Drawing-to-CAD AI with a human twist",
+      "category": "MECHANICAL",
+      "date": "2026-08-26T18:52:18+00:00",
+      "url": "https://www.engineering.com/drawing-to-cad-ai-with-a-human-twist/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "This is how you do AM for defense",
+      "category": "MECHANICAL",
+      "date": "2026-08-26T17:59:21+00:00",
+      "url": "https://www.engineering.com/this-is-how-you-do-am-for-defense/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "‘Incidents are rarely random’: Webinar looks at electrical hazards in construction",
+      "category": "SAFETY",
+      "date": "2026-08-26T17:16:16+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/incidents-are-rarely-random-webinar-looks-at-electrical-hazards-in-construction/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NIOSH has tips for protecting cannabis workers from lung and skin irritation",
+      "category": "SAFETY",
+      "date": "2026-08-26T17:04:10+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/niosh-has-tips-for-protecting-cannabis-workers-from-lung-and-skin-irritation/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA is testing alternative to mandatory whistleblower closing conferences",
+      "category": "SAFETY",
+      "date": "2026-08-26T16:49:30+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-is-testing-alternative-to-mandatory-whistleblower-closing-conferences/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Is coffee part of your workday? Researchers explore safe caffeine limits",
+      "category": "SAFETY",
+      "date": "2026-08-26T16:43:59+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/is-coffee-part-of-your-workday-researchers-explore-safe-caffeine-limits/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "IDS releases industry ToF camera Nion",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-26T16:23:46+00:00",
+      "url": "https://www.automationmag.com/ids-releases-industry-tof-camera-nion/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Endress+Hauser extends iTHERM TrustSens with low-temperature self-calibration point",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-26T15:47:41+00:00",
+      "url": "https://www.automationmag.com/endresshauser-extends-itherm-trustsens-with-low-temperature-self-calibration-point/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA introduces Jetson Orin Nano 2 for edge AI development",
+      "category": "MECHANICAL",
+      "date": "2026-08-26T13:38:19+00:00",
+      "url": "https://www.engineering.com/nvidia-introduces-jetson-orin-nano-2-for-edge-ai-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SSH named preferred contractor for Cavalier’s Crawford stage one",
+      "category": "INDUSTRY",
+      "date": "2026-08-26T13:34:32+00:00",
+      "url": "https://www.mining-technology.com/news/ssh-preferred-contractor-cavaliers-crawford-stage-1/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Michigan approves $50m grant for Highland’s Copperwood project",
+      "category": "INDUSTRY",
+      "date": "2026-08-26T13:28:33+00:00",
+      "url": "https://www.mining-technology.com/news/michigan-50m-grant-highlands-copperwood-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Hexagon to acquire marine positioning company Guidance Marine",
       "category": "MECHANICAL",
       "date": "2026-08-26T11:09:51+00:00",
@@ -135,6 +223,14 @@
       "date": "2026-08-26T06:05:10+00:00",
       "url": "https://powerline.net.in/2026/08/26/singapore-china-sign-mou-on-peaceful-nuclear-cooperation/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "How Fleet Teams Are Moving From More Footage to More Focus",
+      "category": "SAFETY",
+      "date": "2026-08-26T05:30:45+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/how-fleet-teams-are-moving-from-more-footage-to-more-focus/",
+      "source": "Safety+Health Magazine",
       "type": "magazine"
     },
     {
@@ -44970,5 +45066,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-26T12:53:25.950460+00:00"
+  "last_updated_utc": "2026-08-26T19:48:19.211924+00:00"
 }

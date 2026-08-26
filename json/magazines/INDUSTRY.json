@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "SSH named preferred contractor for Cavalier’s Crawford stage one",
+      "category": "INDUSTRY",
+      "date": "2026-08-26T13:34:32+00:00",
+      "url": "https://www.mining-technology.com/news/ssh-preferred-contractor-cavaliers-crawford-stage-1/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Michigan approves $50m grant for Highland’s Copperwood project",
+      "category": "INDUSTRY",
+      "date": "2026-08-26T13:28:33+00:00",
+      "url": "https://www.mining-technology.com/news/michigan-50m-grant-highlands-copperwood-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Electrifying offshore: what is slowing rig electrification?",
       "category": "INDUSTRY",
       "date": "2026-08-26T10:44:54+00:00",
@@ -7922,5 +7938,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-26T12:53:25.950460+00:00"
+  "last_updated_utc": "2026-08-26T19:48:19.211924+00:00"
 }
