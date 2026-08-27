@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Maglut unveils chromatography platform for rare earth processing in US",
+      "category": "INDUSTRY",
+      "date": "2026-08-27T07:59:57+00:00",
+      "url": "https://www.mining-technology.com/news/maglut-chromatography-rare-earth-processing-us/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "SSH named preferred contractor for Cavalier’s Crawford stage one",
       "category": "INDUSTRY",
       "date": "2026-08-26T13:34:32+00:00",
@@ -7938,5 +7946,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-26T19:48:19.211924+00:00"
+  "last_updated_utc": "2026-08-27T08:02:25.202891+00:00"
 }
