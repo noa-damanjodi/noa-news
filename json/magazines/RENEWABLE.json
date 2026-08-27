@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Newsom returns to a defining California fight: Who pays for wildfire damage?",
+      "category": "RENEWABLE",
+      "date": "2026-08-27T18:05:46+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/newsom-returns-to-a-defining-california-fight-who-pays-for-wildfire-damage/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Supporting the grid with managed EV charging and V2G technology | Factor This Policycast",
+      "category": "RENEWABLE",
+      "date": "2026-08-27T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/electric-vehicle/ev-charging/supporting-the-grid-with-managed-ev-charging-and-v2g-technology-factor-this-policycast/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Wave energy testing site opens off Oregon, a green energy milestone in the Trump administration",
       "category": "RENEWABLE",
       "date": "2026-08-26T19:26:00+00:00",
@@ -3410,5 +3426,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-27T08:02:25.202891+00:00"
+  "last_updated_utc": "2026-08-27T21:54:35.039945+00:00"
 }

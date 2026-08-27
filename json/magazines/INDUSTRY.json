@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Boliden to acquire 64.7% stake in Nexa Resources from Votorantim",
+      "category": "INDUSTRY",
+      "date": "2026-08-27T14:04:43+00:00",
+      "url": "https://www.mining-technology.com/news/boliden-to-acquire-stake-in-nexa-resources/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "WA Government and YNAC appeal Fortescue compensation ruling",
+      "category": "INDUSTRY",
+      "date": "2026-08-27T13:39:47+00:00",
+      "url": "https://www.mining-technology.com/news/wa-government-ynac-appeal-fortescue-compensation-ruling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Weir targets mill circuit wear as miners push for higher throughput",
+      "category": "INDUSTRY",
+      "date": "2026-08-27T09:56:09+00:00",
+      "url": "https://www.mining-technology.com/news/weir-warman-mcr2-pump-mining-operations/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "EGA achieves 25% restoration of reduction cells at Al Taweelah smelter",
+      "category": "INDUSTRY",
+      "date": "2026-08-27T08:05:09+00:00",
+      "url": "https://www.mining-technology.com/news/ega-25-restoration-al-taweelah-smelter/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Maglut unveils chromatography platform for rare earth processing in US",
       "category": "INDUSTRY",
       "date": "2026-08-27T07:59:57+00:00",
@@ -7946,5 +7978,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-27T08:02:25.202891+00:00"
+  "last_updated_utc": "2026-08-27T21:54:35.039945+00:00"
 }
