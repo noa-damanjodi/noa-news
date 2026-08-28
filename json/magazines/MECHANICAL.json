@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Epson introduces SureColor S7170 Print Cut Edition",
+      "category": "MECHANICAL",
+      "date": "2026-08-28T14:42:40+00:00",
+      "url": "https://www.engineering.com/epson-introduces-surecolor-s7170-print-cut-edition/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Five Star Equipment joins Trimble Technology Outlet network",
+      "category": "MECHANICAL",
+      "date": "2026-08-28T14:32:07+00:00",
+      "url": "https://www.engineering.com/five-star-equipment-joins-trimble-technology-outlet-network/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Atomica introduces AI Thermal Microstructures Platform",
+      "category": "MECHANICAL",
+      "date": "2026-08-28T14:02:44+00:00",
+      "url": "https://www.engineering.com/atomica-introduces-ai-thermal-microstructures-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AIA Contract Documents launches AI Assistant and names CTO",
+      "category": "MECHANICAL",
+      "date": "2026-08-28T10:36:30+00:00",
+      "url": "https://www.engineering.com/aia-contract-documents-launches-ai-assistant-and-names-cto/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "3D Systems and SRNL partner on additive manufacturing research",
+      "category": "MECHANICAL",
+      "date": "2026-08-28T10:24:45+00:00",
+      "url": "https://www.engineering.com/3d-systems-and-srnl-partner-on-additive-manufacturing-research/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Woolpert appoints Jen Sorenson as EVP of infrastructure",
       "category": "MECHANICAL",
       "date": "2026-08-28T09:56:06+00:00",
@@ -14,6 +54,14 @@
       "category": "MECHANICAL",
       "date": "2026-08-28T09:45:19+00:00",
       "url": "https://www.engineering.com/centric-plm-expands-sustainability-and-compliance-capabilities/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Atomica launches AI Photonic Integration Platform",
+      "category": "MECHANICAL",
+      "date": "2026-08-27T14:04:00+00:00",
+      "url": "https://www.engineering.com/atomica-launches-ai-photonic-integration-platform/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -12146,5 +12194,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-28T10:05:21.662410+00:00"
+  "last_updated_utc": "2026-08-28T21:46:50.669556+00:00"
 }

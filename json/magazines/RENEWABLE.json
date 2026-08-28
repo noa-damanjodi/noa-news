@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Rooftop solar takes a huge hit — This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-08-28T19:19:29+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/residential/rooftop-solar-takes-a-huge-hit-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Banking on a connection: Europe’s 1,700 GW grid backlog",
+      "category": "RENEWABLE",
+      "date": "2026-08-28T13:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/banking-on-a-connection-europes-1700-gw-grid-backlog/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Newsom returns to a defining California fight: Who pays for wildfire damage?",
       "category": "RENEWABLE",
       "date": "2026-08-27T18:05:46+00:00",
@@ -3426,5 +3442,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-28T10:05:21.662410+00:00"
+  "last_updated_utc": "2026-08-28T21:46:50.669556+00:00"
 }
