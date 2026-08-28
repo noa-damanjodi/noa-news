@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Cyclic Materials raises $75m to expand rare earth production in US",
+      "category": "INDUSTRY",
+      "date": "2026-08-28T08:41:25+00:00",
+      "url": "https://www.mining-technology.com/news/cyclic-materials-expand-rare-earth-production-us/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Forrestania awards $104m Johnson Range mining contract to MEGA",
+      "category": "INDUSTRY",
+      "date": "2026-08-28T08:26:13+00:00",
+      "url": "https://www.mining-technology.com/news/forrestania-johnson-range-mining-contract-mega/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Boliden to acquire 64.7% stake in Nexa Resources from Votorantim",
       "category": "INDUSTRY",
       "date": "2026-08-27T14:04:43+00:00",
@@ -7978,5 +7994,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-27T21:54:35.039945+00:00"
+  "last_updated_utc": "2026-08-28T10:05:21.662410+00:00"
 }
