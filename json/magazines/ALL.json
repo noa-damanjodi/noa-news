@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Additive research update: sensors, sustainability, and single-shot shapes",
+      "category": "MECHANICAL",
+      "date": "2026-08-31T20:45:53+00:00",
+      "url": "https://www.engineering.com/additive-research-update-sensors-sustainability-and-single-shot-shapes/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "If you spot any new islands in its reservoirs, please let BC Hydro know",
+      "category": "RENEWABLE",
+      "date": "2026-08-31T20:45:47+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/if-you-spot-any-new-islands-in-its-reservoirs-please-let-bc-hydro-know/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Nepal floods expose risks to hydropower in a warming Himalayas",
+      "category": "RENEWABLE",
+      "date": "2026-08-31T20:13:46+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/nepal-floods-expose-risks-to-hydropower-in-a-warming-himalayas/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "DOE takes a swing at expediting ‘rigorous and expensive’ US hydro licensing",
+      "category": "RENEWABLE",
+      "date": "2026-08-31T19:58:39+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/doe-takes-a-swing-at-expediting-rigorous-and-expensive-us-hydro-licensing/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Working near overhead power lines: New toolbox talk available",
+      "category": "SAFETY",
+      "date": "2026-08-31T19:44:22+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/working-near-overhead-power-lines-new-toolbox-talk-available/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Judge delays federal efforts to access state commercial driver’s license information",
+      "category": "SAFETY",
+      "date": "2026-08-31T18:30:05+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/judge-delays-federal-efforts-to-access-state-commercial-driver-license-information/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Government of Canada announces support for businesses and workers in Hamilton",
+      "category": "INSTRUMENTATION",
+      "date": "2026-08-31T17:45:12+00:00",
+      "url": "https://www.automationmag.com/government-of-canada-announces-support-for-businesses-and-workers-in-hamilton/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Respiratory Protection Day is Sept. 1",
+      "category": "SAFETY",
+      "date": "2026-08-31T17:38:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/respiratory-protection-day-is-sept-1/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Solar pulled South Africa out of an energy crisis. Data centers now want preferential access to that grid",
+      "category": "RENEWABLE",
+      "date": "2026-08-31T17:13:10+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/solar-pulled-south-africa-out-of-an-energy-crisis-data-centers-now-want-preferential-access-to-that-grid/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA and MediaTek expand collaboration across AI and autos",
+      "category": "MECHANICAL",
+      "date": "2026-08-31T13:38:40+00:00",
+      "url": "https://www.engineering.com/nvidia-and-mediatek-expand-collaboration-across-ai-and-autos/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Siemens launches Eigen Engineering Agent in Thailand",
       "category": "MECHANICAL",
       "date": "2026-08-31T12:15:27+00:00",
@@ -45658,5 +45738,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-31T12:57:45.913389+00:00"
+  "last_updated_utc": "2026-08-31T22:35:15.761127+00:00"
 }

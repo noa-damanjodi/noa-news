@@ -2,6 +2,38 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "If you spot any new islands in its reservoirs, please let BC Hydro know",
+      "category": "RENEWABLE",
+      "date": "2026-08-31T20:45:47+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/if-you-spot-any-new-islands-in-its-reservoirs-please-let-bc-hydro-know/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Nepal floods expose risks to hydropower in a warming Himalayas",
+      "category": "RENEWABLE",
+      "date": "2026-08-31T20:13:46+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/nepal-floods-expose-risks-to-hydropower-in-a-warming-himalayas/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "DOE takes a swing at expediting ‘rigorous and expensive’ US hydro licensing",
+      "category": "RENEWABLE",
+      "date": "2026-08-31T19:58:39+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/doe-takes-a-swing-at-expediting-rigorous-and-expensive-us-hydro-licensing/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Solar pulled South Africa out of an energy crisis. Data centers now want preferential access to that grid",
+      "category": "RENEWABLE",
+      "date": "2026-08-31T17:13:10+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/solar-pulled-south-africa-out-of-an-energy-crisis-data-centers-now-want-preferential-access-to-that-grid/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Securing the bulk-power system | Factor This Brief",
       "category": "RENEWABLE",
       "date": "2026-08-31T10:01:00+00:00",
@@ -3458,5 +3490,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-31T12:57:45.913389+00:00"
+  "last_updated_utc": "2026-08-31T22:35:15.761127+00:00"
 }
