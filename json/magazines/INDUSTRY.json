@@ -2,6 +2,46 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Javelin Minerals gains final approval for Eureka Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-08-31T09:32:46+00:00",
+      "url": "https://www.mining-technology.com/news/javelin-minerals-final-approval-eureka-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Breaking down silos: improving coordination in autonomous mining",
+      "category": "INDUSTRY",
+      "date": "2026-08-31T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/breaking-down-silos-improving-coordination-in-autonomous-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "McEwen Copper secures $240m loan for Los Azules project",
+      "category": "INDUSTRY",
+      "date": "2026-08-28T17:59:00+00:00",
+      "url": "https://www.mining-technology.com/news/mcewen-copper-240m-loan-los-azules/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Alurion Resources begins PFS at Amargosa project in Brazil",
+      "category": "INDUSTRY",
+      "date": "2026-08-28T17:37:00+00:00",
+      "url": "https://www.mining-technology.com/news/alurion-resources-pfs-amargosa-project-brazil/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metso to supply technology packages for Simberi Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-08-28T17:35:00+00:00",
+      "url": "https://www.mining-technology.com/news/metso-supply-technology-simberi-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "The science behind slurry pump wear: How materials selection drives performance and reliability",
       "category": "INDUSTRY",
       "date": "2026-08-28T15:53:17+00:00",
@@ -8002,5 +8042,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-31T04:16:29.312489+00:00"
+  "last_updated_utc": "2026-08-31T12:57:45.913389+00:00"
 }

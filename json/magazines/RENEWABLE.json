@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Securing the bulk-power system | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-08-31T10:01:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/energy-finance/securing-the-bulk-power-system-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "How autonomous BVLOS drones and physical AI are transforming grid reliability with Trevor Perrott",
+      "category": "RENEWABLE",
+      "date": "2026-08-31T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/how-autonomous-bvlos-drones-and-physical-ai-are-transforming-grid-reliability-with-trevor-perrott/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Rooftop solar takes a huge hit — This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-08-28T19:19:29+00:00",
@@ -3442,5 +3458,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-31T04:16:29.312489+00:00"
+  "last_updated_utc": "2026-08-31T12:57:45.913389+00:00"
 }

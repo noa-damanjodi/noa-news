@@ -2,11 +2,171 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Siemens launches Eigen Engineering Agent in Thailand",
+      "category": "MECHANICAL",
+      "date": "2026-08-31T12:15:27+00:00",
+      "url": "https://www.engineering.com/siemens-launches-eigen-engineering-agent-in-thailand/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Movandi introduces MV3564 and MV3514 frequency synthesizers",
+      "category": "MECHANICAL",
+      "date": "2026-08-31T11:34:42+00:00",
+      "url": "https://www.engineering.com/movandi-introduces-mv3564-and-mv3514-frequency-synthesizers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ChronoScale plans 50 MW AI compute deployment with Microsoft",
+      "category": "MECHANICAL",
+      "date": "2026-08-31T10:39:02+00:00",
+      "url": "https://www.engineering.com/chronoscale-plans-50-mw-ai-compute-deployment-with-microsoft/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bosch Power Tools launches two professional metalworking tools",
+      "category": "MECHANICAL",
+      "date": "2026-08-31T10:20:06+00:00",
+      "url": "https://www.engineering.com/bosch-power-tools-launches-two-professional-metalworking-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AXISCADES to acquire majority stake in Cloud Wave",
+      "category": "MECHANICAL",
+      "date": "2026-08-31T10:10:43+00:00",
+      "url": "https://www.engineering.com/axiscades-to-acquire-majority-stake-in-cloud-wave/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Securing the bulk-power system | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-08-31T10:01:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/energy-finance/securing-the-bulk-power-system-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "How autonomous BVLOS drones and physical AI are transforming grid reliability with Trevor Perrott",
+      "category": "RENEWABLE",
+      "date": "2026-08-31T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/how-autonomous-bvlos-drones-and-physical-ai-are-transforming-grid-reliability-with-trevor-perrott/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "SWI Group joins NVIDIA Cloud Partner program",
+      "category": "MECHANICAL",
+      "date": "2026-08-31T09:45:11+00:00",
+      "url": "https://www.engineering.com/swi-group-joins-nvidia-cloud-partner-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Javelin Minerals gains final approval for Eureka Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-08-31T09:32:46+00:00",
+      "url": "https://www.mining-technology.com/news/javelin-minerals-final-approval-eureka-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Breaking down silos: improving coordination in autonomous mining",
+      "category": "INDUSTRY",
+      "date": "2026-08-31T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/breaking-down-silos-improving-coordination-in-autonomous-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "PFCCL transfers Fatehgarh II Transmission SPV to POWERGRID",
+      "category": "POWER",
+      "date": "2026-08-31T06:01:12+00:00",
+      "url": "https://powerline.net.in/2026/08/31/pfccl-transfers-fatehgarh-ii-transmission-spv-to-powergrid/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "TARIL enters nuclear sector with transformer order for NPCIL’s Kaiga project",
+      "category": "POWER",
+      "date": "2026-08-31T06:00:13+00:00",
+      "url": "https://powerline.net.in/2026/08/31/taril-enters-nuclear-sector-with-transformer-order-for-npcils-kaiga-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Sembcorp Green Infra files DRHP for IPO",
+      "category": "POWER",
+      "date": "2026-08-31T05:59:13+00:00",
+      "url": "https://powerline.net.in/2026/08/31/sembcorp-green-infra-files-drhp-for-ipo/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "JSW Energy achieves financial closure for 210 MW hybrid renewable project",
+      "category": "POWER",
+      "date": "2026-08-31T05:58:18+00:00",
+      "url": "https://powerline.net.in/2026/08/31/jsw-energy-achieves-financial-closure-for-210-mw-hybrid-renewable-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ArMee Infotech secures solar EPC orders for 600 MW project",
+      "category": "POWER",
+      "date": "2026-08-31T05:56:14+00:00",
+      "url": "https://powerline.net.in/2026/08/31/armee-infotech-secures-solar-epc-orders-for-600-mw-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Vietnam’s EVNNPT advances 500 kV Hiep Hoa–Thai Nguyen line",
+      "category": "POWER",
+      "date": "2026-08-31T05:55:08+00:00",
+      "url": "https://powerline.net.in/2026/08/31/vietnams-evnnpt-advances-500-kv-hiep-hoa-thai-nguyen-line/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Tanzania’s 400 kV Chalinze–Dodoma line links JNHPP to capital",
+      "category": "POWER",
+      "date": "2026-08-31T05:54:03+00:00",
+      "url": "https://powerline.net.in/2026/08/31/tanzanias-400-kv-chalinze-dodoma-line-links-jnhpp-to-capital/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Rooftop solar takes a huge hit — This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-08-28T19:19:29+00:00",
       "url": "https://www.renewableenergyworld.com/solar/residential/rooftop-solar-takes-a-huge-hit-this-week-in-cleantech/",
       "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "McEwen Copper secures $240m loan for Los Azules project",
+      "category": "INDUSTRY",
+      "date": "2026-08-28T17:59:00+00:00",
+      "url": "https://www.mining-technology.com/news/mcewen-copper-240m-loan-los-azules/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Alurion Resources begins PFS at Amargosa project in Brazil",
+      "category": "INDUSTRY",
+      "date": "2026-08-28T17:37:00+00:00",
+      "url": "https://www.mining-technology.com/news/alurion-resources-pfs-amargosa-project-brazil/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metso to supply technology packages for Simberi Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-08-28T17:35:00+00:00",
+      "url": "https://www.mining-technology.com/news/metso-supply-technology-simberi-gold-project/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -45498,5 +45658,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-31T04:16:29.312489+00:00"
+  "last_updated_utc": "2026-08-31T12:57:45.913389+00:00"
 }

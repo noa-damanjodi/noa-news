@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Siemens launches Eigen Engineering Agent in Thailand",
+      "category": "MECHANICAL",
+      "date": "2026-08-31T12:15:27+00:00",
+      "url": "https://www.engineering.com/siemens-launches-eigen-engineering-agent-in-thailand/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Movandi introduces MV3564 and MV3514 frequency synthesizers",
+      "category": "MECHANICAL",
+      "date": "2026-08-31T11:34:42+00:00",
+      "url": "https://www.engineering.com/movandi-introduces-mv3564-and-mv3514-frequency-synthesizers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ChronoScale plans 50 MW AI compute deployment with Microsoft",
+      "category": "MECHANICAL",
+      "date": "2026-08-31T10:39:02+00:00",
+      "url": "https://www.engineering.com/chronoscale-plans-50-mw-ai-compute-deployment-with-microsoft/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bosch Power Tools launches two professional metalworking tools",
+      "category": "MECHANICAL",
+      "date": "2026-08-31T10:20:06+00:00",
+      "url": "https://www.engineering.com/bosch-power-tools-launches-two-professional-metalworking-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AXISCADES to acquire majority stake in Cloud Wave",
+      "category": "MECHANICAL",
+      "date": "2026-08-31T10:10:43+00:00",
+      "url": "https://www.engineering.com/axiscades-to-acquire-majority-stake-in-cloud-wave/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SWI Group joins NVIDIA Cloud Partner program",
+      "category": "MECHANICAL",
+      "date": "2026-08-31T09:45:11+00:00",
+      "url": "https://www.engineering.com/swi-group-joins-nvidia-cloud-partner-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Epson introduces SureColor S7170 Print Cut Edition",
       "category": "MECHANICAL",
       "date": "2026-08-28T14:42:40+00:00",
@@ -12194,5 +12242,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-08-31T04:16:29.312489+00:00"
+  "last_updated_utc": "2026-08-31T12:57:45.913389+00:00"
 }
