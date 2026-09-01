@@ -2,6 +2,14 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "How Fleet Teams Are Moving From More Footage to More Focus",
+      "category": "SAFETY",
+      "date": "2026-09-01T05:00:45+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/how-fleet-teams-are-moving-from-more-footage-to-more-focus/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Working near overhead power lines: New toolbox talk available",
       "category": "SAFETY",
       "date": "2026-08-31T19:44:22+00:00",
@@ -86,14 +94,6 @@
       "category": "SAFETY",
       "date": "2026-08-26T16:43:59+00:00",
       "url": "https://www.safetyandhealthmagazine.com/is-coffee-part-of-your-workday-researchers-explore-safe-caffeine-limits/",
-      "source": "Safety+Health Magazine",
-      "type": "magazine"
-    },
-    {
-      "title": "How Fleet Teams Are Moving From More Footage to More Focus",
-      "category": "SAFETY",
-      "date": "2026-08-26T05:30:45+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/how-fleet-teams-are-moving-from-more-footage-to-more-focus/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -4458,5 +4458,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-01T04:01:58.072664+00:00"
+  "last_updated_utc": "2026-09-01T11:15:26.801586+00:00"
 }

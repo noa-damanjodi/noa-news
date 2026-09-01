@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "LG Energy signs lithium carbonate deal with Smackover",
+      "category": "INDUSTRY",
+      "date": "2026-09-01T09:48:59+00:00",
+      "url": "https://www.mining-technology.com/news/lg-energy-lithium-carbonate-deal-smackover/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "GrafTech plans shutdown of Monterrey graphite facility in Mexico",
+      "category": "INDUSTRY",
+      "date": "2026-09-01T07:42:53+00:00",
+      "url": "https://www.mining-technology.com/news/graftech-plans-shutdown-monterrey-graphite-facility/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Altris Engineering to spearhead Ema Project FEED phase for BCM",
+      "category": "INDUSTRY",
+      "date": "2026-09-01T07:36:41+00:00",
+      "url": "https://www.mining-technology.com/news/altris-engineering-spearhead-ema-project-feed/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Javelin Minerals gains final approval for Eureka Gold Project",
       "category": "INDUSTRY",
       "date": "2026-08-31T09:32:46+00:00",
@@ -8042,5 +8066,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-01T04:01:58.072664+00:00"
+  "last_updated_utc": "2026-09-01T11:15:26.801586+00:00"
 }
