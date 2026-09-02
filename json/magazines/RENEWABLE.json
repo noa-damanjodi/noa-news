@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "How much could new transmission save customers? About $15.3 billion, study finds",
+      "category": "RENEWABLE",
+      "date": "2026-09-02T13:42:08+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/how-much-could-new-transmission-save-customers-about-15-3-billion-study-finds/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Illinois took a step toward solar rights. Now it’s time to finish the job",
+      "category": "RENEWABLE",
+      "date": "2026-09-02T12:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/residential/illinois-took-a-step-toward-solar-rights-now-its-time-to-finish-the-job/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Clean energy’s growth boom is creating new IP risks",
       "category": "RENEWABLE",
       "date": "2026-09-01T18:50:24+00:00",
@@ -3514,5 +3530,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-02T10:49:18.344944+00:00"
+  "last_updated_utc": "2026-09-02T16:07:47.672941+00:00"
 }

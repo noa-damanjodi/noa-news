@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Can digitised colonial records unlock the DRC’s mineral exploration potential?",
+      "category": "INDUSTRY",
+      "date": "2026-09-02T10:14:54+00:00",
+      "url": "https://www.mining-technology.com/news/can-digitised-colonial-records-unlock-the-drcs-mineral-exploration-potential/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Liontown to acquire up to 100% of Centenario lithium project",
+      "category": "INDUSTRY",
+      "date": "2026-09-02T10:08:27+00:00",
+      "url": "https://www.mining-technology.com/news/liontown-to-acquire-centenario-lithium-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Talisman Metals renews Fougnar Project licences in Morocco",
       "category": "INDUSTRY",
       "date": "2026-09-02T08:16:15+00:00",
@@ -8122,5 +8138,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-02T10:49:18.344944+00:00"
+  "last_updated_utc": "2026-09-02T16:07:47.672941+00:00"
 }

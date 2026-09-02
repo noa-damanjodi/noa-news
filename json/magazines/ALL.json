@@ -2,11 +2,91 @@
   "category": "ALL",
   "items": [
     {
+      "title": "How much could new transmission save customers? About $15.3 billion, study finds",
+      "category": "RENEWABLE",
+      "date": "2026-09-02T13:42:08+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/how-much-could-new-transmission-save-customers-about-15-3-billion-study-finds/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "SunCubes uses AI simulation to develop UAV charging systems",
+      "category": "MECHANICAL",
+      "date": "2026-09-02T13:09:41+00:00",
+      "url": "https://www.engineering.com/suncubes-uses-ai-simulation-to-develop-uav-charging-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SprintRay launches ceramic-filled resin for definitive restorations",
+      "category": "MECHANICAL",
+      "date": "2026-09-02T12:51:00+00:00",
+      "url": "https://www.engineering.com/sprintray-launches-ceramic-filled-resin-for-definitive-restorations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "OneRail launches AI-powered delivery decisioning platform",
+      "category": "MECHANICAL",
+      "date": "2026-09-02T12:12:00+00:00",
+      "url": "https://www.engineering.com/onerail-launches-ai-powered-delivery-decisioning-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Addionics develops battery architecture for low-temperature use",
+      "category": "MECHANICAL",
+      "date": "2026-09-02T12:06:04+00:00",
+      "url": "https://www.engineering.com/addionics-develops-battery-architecture-for-low-temperature-use/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Illinois took a step toward solar rights. Now it’s time to finish the job",
+      "category": "RENEWABLE",
+      "date": "2026-09-02T12:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/residential/illinois-took-a-step-toward-solar-rights-now-its-time-to-finish-the-job/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Electro Switch acquires PowerComm Solutions",
+      "category": "MECHANICAL",
+      "date": "2026-09-02T10:58:31+00:00",
+      "url": "https://www.engineering.com/electro-switch-acquires-powercomm-solutions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Teradyne launches three instruments for UltraFLEXplus",
+      "category": "MECHANICAL",
+      "date": "2026-09-02T10:52:48+00:00",
+      "url": "https://www.engineering.com/teradyne-launches-three-instruments-for-ultraflexplus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Pudu Robotics launches GT Series commercial robotic mowers",
       "category": "MECHANICAL",
       "date": "2026-09-02T10:42:44+00:00",
       "url": "https://www.engineering.com/pudu-robotics-launches-gt-series-commercial-robotic-mowers/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Can digitised colonial records unlock the DRC’s mineral exploration potential?",
+      "category": "INDUSTRY",
+      "date": "2026-09-02T10:14:54+00:00",
+      "url": "https://www.mining-technology.com/news/can-digitised-colonial-records-unlock-the-drcs-mineral-exploration-potential/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Liontown to acquire up to 100% of Centenario lithium project",
+      "category": "INDUSTRY",
+      "date": "2026-09-02T10:08:27+00:00",
+      "url": "https://www.mining-technology.com/news/liontown-to-acquire-centenario-lithium-project/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -46058,5 +46138,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-02T10:49:18.344944+00:00"
+  "last_updated_utc": "2026-09-02T16:07:47.672941+00:00"
 }
