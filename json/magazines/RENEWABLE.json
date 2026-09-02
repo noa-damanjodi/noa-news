@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "BC Hydro relocates mystery island of Williston Reservoir",
+      "category": "RENEWABLE",
+      "date": "2026-09-02T19:14:51+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/bc-hydro-relocates-mystery-island-of-williston-reservoir/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "How much could new transmission save customers? About $15.3 billion, study finds",
       "category": "RENEWABLE",
       "date": "2026-09-02T13:42:08+00:00",
@@ -3530,5 +3538,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-02T16:07:47.672941+00:00"
+  "last_updated_utc": "2026-09-02T20:39:13.869397+00:00"
 }

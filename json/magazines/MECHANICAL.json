@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Solidworks users spend “blue tokens” on AI drawings, insights and more",
+      "category": "MECHANICAL",
+      "date": "2026-09-02T19:39:24+00:00",
+      "url": "https://www.engineering.com/solidworks-users-spend-blue-tokens-on-ai-drawings-insights-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "SunCubes uses AI simulation to develop UAV charging systems",
       "category": "MECHANICAL",
       "date": "2026-09-02T13:09:41+00:00",
@@ -12370,5 +12378,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-02T16:07:47.672941+00:00"
+  "last_updated_utc": "2026-09-02T20:39:13.869397+00:00"
 }

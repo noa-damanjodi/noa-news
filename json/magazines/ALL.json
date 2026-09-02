@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Solidworks users spend “blue tokens” on AI drawings, insights and more",
+      "category": "MECHANICAL",
+      "date": "2026-09-02T19:39:24+00:00",
+      "url": "https://www.engineering.com/solidworks-users-spend-blue-tokens-on-ai-drawings-insights-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "KUKA achieves Security Level 2 certification",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-02T19:16:08+00:00",
+      "url": "https://www.automationmag.com/kuka-achieves-security-level-2-certification/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "BC Hydro relocates mystery island of Williston Reservoir",
+      "category": "RENEWABLE",
+      "date": "2026-09-02T19:14:51+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/bc-hydro-relocates-mystery-island-of-williston-reservoir/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Worker heat protections front and center during House subcommittee hearing",
+      "category": "SAFETY",
+      "date": "2026-09-02T18:31:30+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/worker-heat-protections-front-and-center-during-house-subcommittee-hearing/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Drive safely this Labor Day weekend",
+      "category": "SAFETY",
+      "date": "2026-09-02T18:04:03+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/drive-safely-this-labor-day-weekend/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "FMCSA will test two hours-of-service changes for truckers next year",
+      "category": "SAFETY",
+      "date": "2026-09-02T17:53:58+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fmcsa-will-test-two-hours-of-service-programs-for-drivers-next-year/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Workers over age 50 may be facing a ‘sleep crisis’",
+      "category": "SAFETY",
+      "date": "2026-09-02T16:31:27+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/workers-over-age-50-may-be-facing-a-sleep-crisis/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Electromate makes the case for hands-on robotics education with Dobot",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-02T15:12:10+00:00",
+      "url": "https://www.automationmag.com/electromate-makes-the-case-for-hands-on-robotics-education-with-dobot/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "senswork releases the Neuralyze vision AI software",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-02T14:35:30+00:00",
+      "url": "https://www.automationmag.com/senswork-releases-the-neuralyze-vision-ai-software/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB’s machine automation division (B&R) appoints Christian Strahberger as division president",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-02T14:20:33+00:00",
+      "url": "https://www.automationmag.com/abbs-machine-automation-division-br-appoints-christian-strahberger-as-division-president/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "How much could new transmission save customers? About $15.3 billion, study finds",
       "category": "RENEWABLE",
       "date": "2026-09-02T13:42:08+00:00",
@@ -46138,5 +46218,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-02T16:07:47.672941+00:00"
+  "last_updated_utc": "2026-09-02T20:39:13.869397+00:00"
 }
