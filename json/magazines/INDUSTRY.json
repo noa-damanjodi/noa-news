@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Talisman Metals renews Fougnar Project licences in Morocco",
+      "category": "INDUSTRY",
+      "date": "2026-09-02T08:16:15+00:00",
+      "url": "https://www.mining-technology.com/news/talisman-metals-renews-fougnar-project-licences/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metso to supply process technology for GTK Mintec plant in Finland",
+      "category": "INDUSTRY",
+      "date": "2026-09-02T08:11:05+00:00",
+      "url": "https://www.mining-technology.com/news/metso-process-technology-gtk-mintec-finland/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "How robotics and automation are building the mine of the future",
+      "category": "INDUSTRY",
+      "date": "2026-09-02T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/opinion/how-robotics-and-automation-are-building-the-mine-of-the-future/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "RareX starts first RC drilling at Khaleesi complex in WA",
       "category": "INDUSTRY",
       "date": "2026-09-01T13:16:51+00:00",
@@ -8098,5 +8122,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-02T03:23:32.810083+00:00"
+  "last_updated_utc": "2026-09-02T10:49:18.344944+00:00"
 }
