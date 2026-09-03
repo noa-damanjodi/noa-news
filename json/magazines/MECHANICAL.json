@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Equinix expands NVIDIA collaboration for AI inference",
+      "category": "MECHANICAL",
+      "date": "2026-09-03T10:34:54+00:00",
+      "url": "https://www.engineering.com/equinix-expands-nvidia-collaboration-for-ai-inference/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SEMI and Silicon Catalyst form global startup partnership",
+      "category": "MECHANICAL",
+      "date": "2026-09-03T10:19:02+00:00",
+      "url": "https://www.engineering.com/semi-and-silicon-catalyst-form-global-startup-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MulticoreWare acquires semiconductor design specialist Simulus",
+      "category": "MECHANICAL",
+      "date": "2026-09-03T10:13:13+00:00",
+      "url": "https://www.engineering.com/multicoreware-acquires-semiconductor-design-specialist-simulus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Solidworks users spend “blue tokens” on AI drawings, insights and more",
       "category": "MECHANICAL",
       "date": "2026-09-02T19:39:24+00:00",
@@ -12378,5 +12402,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-03T03:25:21.394941+00:00"
+  "last_updated_utc": "2026-09-03T10:49:27.891535+00:00"
 }

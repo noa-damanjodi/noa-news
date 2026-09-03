@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Park Village Auctions to handle Finsch Diamond Mine asset sale",
+      "category": "INDUSTRY",
+      "date": "2026-09-03T08:54:44+00:00",
+      "url": "https://www.mining-technology.com/news/park-village-auctions-finsch-diamond-mine-asset-sale/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "How autonomous vehicle fleets are reshaping Australia’s mining workforce",
+      "category": "INDUSTRY",
+      "date": "2026-09-03T07:35:00+00:00",
+      "url": "https://www.mining-technology.com/sectors/extractive-industries/how-autonomous-vehicle-fleets-are-reshaping-australias-mining-workforce/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ZCCM targets $1.8bn from formalised small-scale gold sector",
+      "category": "INDUSTRY",
+      "date": "2026-09-02T13:50:17+00:00",
+      "url": "https://www.mining-technology.com/news/zccm-targets-1-8bn-small-scale-gold-sector/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Kazera secures mining right for Sea Concession 2A in Northern Cape",
+      "category": "INDUSTRY",
+      "date": "2026-09-02T13:19:13+00:00",
+      "url": "https://www.mining-technology.com/news/kazera-mining-right-sea-concession-2a/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Can digitised colonial records unlock the DRC’s mineral exploration potential?",
       "category": "INDUSTRY",
       "date": "2026-09-02T10:14:54+00:00",
@@ -8138,5 +8170,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-03T03:25:21.394941+00:00"
+  "last_updated_utc": "2026-09-03T10:49:27.891535+00:00"
 }

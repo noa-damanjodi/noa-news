@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Equinix expands NVIDIA collaboration for AI inference",
+      "category": "MECHANICAL",
+      "date": "2026-09-03T10:34:54+00:00",
+      "url": "https://www.engineering.com/equinix-expands-nvidia-collaboration-for-ai-inference/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SEMI and Silicon Catalyst form global startup partnership",
+      "category": "MECHANICAL",
+      "date": "2026-09-03T10:19:02+00:00",
+      "url": "https://www.engineering.com/semi-and-silicon-catalyst-form-global-startup-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MulticoreWare acquires semiconductor design specialist Simulus",
+      "category": "MECHANICAL",
+      "date": "2026-09-03T10:13:13+00:00",
+      "url": "https://www.engineering.com/multicoreware-acquires-semiconductor-design-specialist-simulus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Park Village Auctions to handle Finsch Diamond Mine asset sale",
+      "category": "INDUSTRY",
+      "date": "2026-09-03T08:54:44+00:00",
+      "url": "https://www.mining-technology.com/news/park-village-auctions-finsch-diamond-mine-asset-sale/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "How autonomous vehicle fleets are reshaping Australia’s mining workforce",
+      "category": "INDUSTRY",
+      "date": "2026-09-03T07:35:00+00:00",
+      "url": "https://www.mining-technology.com/sectors/extractive-industries/how-autonomous-vehicle-fleets-are-reshaping-australias-mining-workforce/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Adani Green Energy commissions 139 MW solar project at Khavda",
+      "category": "POWER",
+      "date": "2026-09-03T06:15:30+00:00",
+      "url": "https://powerline.net.in/2026/09/03/adani-green-energy-commissions-139-mw-solar-project-at-khavda/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BEST signs PPA with SECI for 220 MW solar power and BESS",
+      "category": "POWER",
+      "date": "2026-09-03T06:14:21+00:00",
+      "url": "https://powerline.net.in/2026/09/03/best-signs-ppa-with-seci-for-220-mw-solar-power-and-bess/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Coal India subsidiary files DRHP for IPO",
+      "category": "POWER",
+      "date": "2026-09-03T06:13:13+00:00",
+      "url": "https://powerline.net.in/2026/09/03/coal-india-subsidiary-files-drhp-for-ipo/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bondada Engineering incorporates subsidiary for 225 MW/450 MWh BESS project",
+      "category": "POWER",
+      "date": "2026-09-03T06:11:44+00:00",
+      "url": "https://powerline.net.in/2026/09/03/bondada-engineering-incorporates-subsidiary-for-225-mw-450-mwh-bess-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "AlTeons Energy secures investment from Sanmar Group",
+      "category": "POWER",
+      "date": "2026-09-03T06:10:42+00:00",
+      "url": "https://powerline.net.in/2026/09/03/alteons-energy-secures-investment-from-sanmar-group/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "China’s SGCC completes 1,000 kV Aba–Chengdu East UHVAC line",
+      "category": "POWER",
+      "date": "2026-09-03T06:07:17+00:00",
+      "url": "https://powerline.net.in/2026/09/03/chinas-sgcc-completes-1000-kv-aba-chengdu-east-uhvac-line/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Philippines’ NGCP receives ERC extensions for PHP8.24 billion projects",
+      "category": "POWER",
+      "date": "2026-09-03T06:06:11+00:00",
+      "url": "https://powerline.net.in/2026/09/03/philippines-ngcp-receives-erc-extensions-for-php8-24-billion-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Fervo Energy and Google ink largest-ever geothermal PPA to power data centers",
       "category": "RENEWABLE",
       "date": "2026-09-02T19:57:19+00:00",
@@ -90,11 +186,27 @@
       "type": "magazine"
     },
     {
+      "title": "ZCCM targets $1.8bn from formalised small-scale gold sector",
+      "category": "INDUSTRY",
+      "date": "2026-09-02T13:50:17+00:00",
+      "url": "https://www.mining-technology.com/news/zccm-targets-1-8bn-small-scale-gold-sector/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "How much could new transmission save customers? About $15.3 billion, study finds",
       "category": "RENEWABLE",
       "date": "2026-09-02T13:42:08+00:00",
       "url": "https://www.renewableenergyworld.com/power-grid/transmission/how-much-could-new-transmission-save-customers-about-15-3-billion-study-finds/",
       "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Kazera secures mining right for Sea Concession 2A in Northern Cape",
+      "category": "INDUSTRY",
+      "date": "2026-09-02T13:19:13+00:00",
+      "url": "https://www.mining-technology.com/news/kazera-mining-right-sea-concession-2a/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -46226,5 +46338,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-03T03:25:21.394941+00:00"
+  "last_updated_utc": "2026-09-03T10:49:27.891535+00:00"
 }
