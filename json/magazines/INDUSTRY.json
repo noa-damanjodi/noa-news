@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Red Metal announces first ore shipping from Chilean project",
+      "category": "INDUSTRY",
+      "date": "2026-09-04T08:09:03+00:00",
+      "url": "https://www.mining-technology.com/news/red-metal-ore-chilean-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NT1 and Plutonian II agree on $500m merger deal",
+      "category": "INDUSTRY",
+      "date": "2026-09-04T08:01:20+00:00",
+      "url": "https://www.mining-technology.com/news/nt1-plutonian-ii-merger-deal/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Lindian, Carester plan rare earths separation plant in Kazakhstan",
+      "category": "INDUSTRY",
+      "date": "2026-09-03T13:15:07+00:00",
+      "url": "https://www.mining-technology.com/news/lindian-carester-rare-earths-separation-plant-kazakhstan/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Vox Royalty Australia to acquire 2% NSR royalty on White Dam gold mine",
       "category": "INDUSTRY",
       "date": "2026-09-03T12:48:51+00:00",
@@ -8194,5 +8218,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-04T03:22:54.742598+00:00"
+  "last_updated_utc": "2026-09-04T10:48:30.080066+00:00"
 }
