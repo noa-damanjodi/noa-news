@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Viridis awards first equipment contract for Colossus in Brazil",
+      "category": "INDUSTRY",
+      "date": "2026-09-07T10:17:48+00:00",
+      "url": "https://www.mining-technology.com/news/viridis-first-equipment-contract-colossus-brazil/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "A strategic retreat | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-09-07T09:55:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/a-strategic-retreat-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "AI could improve in-situ recovery of critical minerals",
+      "category": "INDUSTRY",
+      "date": "2026-09-07T09:46:00+00:00",
+      "url": "https://www.mining-technology.com/analysis/ai-could-improve-in-situ-recovery-of-critical-minerals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Anson Resources secures $194m Utah incentive for lithium project",
+      "category": "INDUSTRY",
+      "date": "2026-09-07T07:53:21+00:00",
+      "url": "https://www.mining-technology.com/news/anson-194m-utah-incentive-lithium-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Bighorn Metals signs deal for Marietta Project in Nevada, US",
+      "category": "INDUSTRY",
+      "date": "2026-09-07T07:45:33+00:00",
+      "url": "https://www.mining-technology.com/news/bighorn-metals-deal-marietta-project-nevada/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "POWERGRID wins Lakadia REZ Phase-II project in Gujarat under TBCB",
+      "category": "POWER",
+      "date": "2026-09-07T06:02:59+00:00",
+      "url": "https://powerline.net.in/2026/09/07/powergrid-wins-lakadia-rez-phase-ii-project-in-gujarat-under-tbcb/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "CTUIL revises benchmark project costs and land requirements for renewable projects",
+      "category": "POWER",
+      "date": "2026-09-07T06:01:34+00:00",
+      "url": "https://powerline.net.in/2026/09/07/ctuil-revises-benchmark-project-costs-and-land-requirements-for-renewable-projects/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NLC India to hive off 708.96 MW renewable energy assets to NIRL",
+      "category": "POWER",
+      "date": "2026-09-07T06:00:32+00:00",
+      "url": "https://powerline.net.in/2026/09/07/nlc-india-to-hive-off-708-96-mw-renewable-energy-assets-to-nirl/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Diamond Power secures Rs 760.6 million order for 66 kV underground cables",
+      "category": "POWER",
+      "date": "2026-09-07T05:59:19+00:00",
+      "url": "https://powerline.net.in/2026/09/07/diamond-power-secures-rs-760-6-million-order-for-66-kv-underground-cables/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Axis Energy secures EPC contract for 552 MWp solar project in Andhra Pradesh",
+      "category": "POWER",
+      "date": "2026-09-07T05:57:33+00:00",
+      "url": "https://powerline.net.in/2026/09/07/axis-energy-secures-epc-contract-for-552-mwp-solar-project-in-andhra-pradesh/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "South Korea’s KEPCO enters final talks over stalled Dongseoul substation",
+      "category": "POWER",
+      "date": "2026-09-07T05:56:07+00:00",
+      "url": "https://powerline.net.in/2026/09/07/south-koreas-kepco-enters-final-talks-over-stalled-dongseoul-substation/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Niger signs PPP agreement to develop 200 MW solar with BESS project",
+      "category": "POWER",
+      "date": "2026-09-07T05:54:41+00:00",
+      "url": "https://powerline.net.in/2026/09/07/niger-signs-ppp-agreement-to-develop-200-mw-solar-with-bess-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Rescuers pull 2 trapped workers from a hydropower tunnel 9 days after Nepal floods",
       "category": "RENEWABLE",
       "date": "2026-09-04T16:33:06+00:00",
@@ -5058,6 +5154,22 @@
       "type": "magazine"
     },
     {
+      "title": "MNRE Extends Limited Exemption from ALMM List-II",
+      "category": "ELECTRICAL",
+      "date": "2026-08-08T10:35:35+00:00",
+      "url": "https://www.electricalindia.in/mnre-extends-limited-exemption-from-almm-list-ii/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Consultative Committee of MoP Discusses Consumer-Centric Framework for Parallel Distribution Licensing",
+      "category": "ELECTRICAL",
+      "date": "2026-08-08T10:33:06+00:00",
+      "url": "https://www.electricalindia.in/consultative-committee-of-mop-discusses-consumer-centric-framework-for-parallel-distribution-licensing/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Small business study: Focusing on safety right away can help limit injuries",
       "category": "SAFETY",
       "date": "2026-08-07T19:06:25+00:00",
@@ -5711,6 +5823,46 @@
       "date": "2026-08-05T10:56:32+00:00",
       "url": "https://powerline.net.in/2026/08/05/digitalisation-roadmap-key-practices-and-emerging-trends-in-data-management-and-governance/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Government Plans to Provide Adequate Transmission Facility",
+      "category": "ELECTRICAL",
+      "date": "2026-08-05T10:31:53+00:00",
+      "url": "https://www.electricalindia.in/government-plans-to-provide-adequate-transmission-facility/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Huge Investment Required to Ensure Grid Stability",
+      "category": "ELECTRICAL",
+      "date": "2026-08-05T10:30:44+00:00",
+      "url": "https://www.electricalindia.in/huge-investment-required-to-ensure-grid-stability/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Role & Management of Coal to Supply Uninterrupted Power",
+      "category": "ELECTRICAL",
+      "date": "2026-08-05T10:29:19+00:00",
+      "url": "https://www.electricalindia.in/role-management-of-coal-to-supply-uninterrupted-power/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BRE Summit & Expo 2026 Be Held from November 2–5 in New Delhi",
+      "category": "ELECTRICAL",
+      "date": "2026-08-05T10:21:46+00:00",
+      "url": "https://www.electricalindia.in/bre-summit-expo-2026-be-held-from-november-2-5-in-new-delhi/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Challenges that We Need to Address Urgently",
+      "category": "ELECTRICAL",
+      "date": "2026-08-05T10:20:11+00:00",
+      "url": "https://www.electricalindia.in/challenges-that-we-need-to-address-urgently/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -46650,5 +46802,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-07T03:25:03.700800+00:00"
+  "last_updated_utc": "2026-09-07T11:49:30.226227+00:00"
 }
