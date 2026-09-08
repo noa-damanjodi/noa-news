@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "FirstAu signs agreement to acquire Sandstone Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-09-08T09:58:08+00:00",
+      "url": "https://www.mining-technology.com/news/firstau-to-acquire-sandstone-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Weir to supply grinding technology for Zijin’s Akyem Gold Mine",
+      "category": "INDUSTRY",
+      "date": "2026-09-08T07:37:39+00:00",
+      "url": "https://www.mining-technology.com/news/weir-grinding-technology-zijins-akyem-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "BHP appoints Worley for SA copper project expansion services",
+      "category": "INDUSTRY",
+      "date": "2026-09-08T07:29:44+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-appoints-worley-sa-copper-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Brazilian judge suspends Sigma Lithium mine licences and operations",
+      "category": "INDUSTRY",
+      "date": "2026-09-07T13:46:17+00:00",
+      "url": "https://www.mining-technology.com/news/brazilian-judge-suspends-sigma-lithium-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Kavango appoints Jasper Musadaidzwa as CEO and executive director",
       "category": "INDUSTRY",
       "date": "2026-09-07T13:11:14+00:00",
@@ -8290,5 +8322,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-08T03:31:08.000721+00:00"
+  "last_updated_utc": "2026-09-08T10:47:00.079290+00:00"
 }
