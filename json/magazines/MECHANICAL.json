@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "InfinitForm brings determinism back to generative design",
+      "category": "MECHANICAL",
+      "date": "2026-09-09T19:21:06+00:00",
+      "url": "https://www.engineering.com/infinitform-brings-determinism-back-to-generative-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Naviam to acquire Cohesive from Bentley Systems",
       "category": "MECHANICAL",
       "date": "2026-09-09T14:07:48+00:00",
@@ -12610,5 +12618,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-09T16:04:53.152750+00:00"
+  "last_updated_utc": "2026-09-09T20:35:56.901467+00:00"
 }

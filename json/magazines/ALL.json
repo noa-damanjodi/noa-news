@@ -2,6 +2,38 @@
   "category": "ALL",
   "items": [
     {
+      "title": "InfinitForm brings determinism back to generative design",
+      "category": "MECHANICAL",
+      "date": "2026-09-09T19:21:06+00:00",
+      "url": "https://www.engineering.com/infinitform-brings-determinism-back-to-generative-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "What safety challenges are tradeswomen in construction facing?",
+      "category": "SAFETY",
+      "date": "2026-09-09T19:19:16+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/what-are-the-safety-challenges-facing-tradeswomen-in-construction/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "3D printing: Guide offers strategies for limiting exposure to emissions",
+      "category": "SAFETY",
+      "date": "2026-09-09T17:45:34+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/3d-printing-guide-offers-strategies-for-limiting-exposure-to-emissions/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New alert urges mine operators to monitor impoundments",
+      "category": "SAFETY",
+      "date": "2026-09-09T17:32:54+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-alert-urges-mine-operators-to-monitor-impoundments/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "OGP introduces SmartScope E18 benchtop video measurement system",
       "category": "INSTRUMENTATION",
       "date": "2026-09-09T16:01:17+00:00",
@@ -47402,5 +47434,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-09T16:04:53.152750+00:00"
+  "last_updated_utc": "2026-09-09T20:35:56.901467+00:00"
 }
