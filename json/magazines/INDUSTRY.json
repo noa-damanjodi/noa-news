@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "First copper-gold concentrate produced at Eldorado’s Skouries site",
+      "category": "INDUSTRY",
+      "date": "2026-09-09T10:18:19+00:00",
+      "url": "https://www.mining-technology.com/news/first-copper-gold-concentrate-eldorados-skouries-site/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Platinum surplus masks persistent supply challenge for PGM miners",
       "category": "INDUSTRY",
       "date": "2026-09-09T08:00:00+00:00",
@@ -8362,5 +8370,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-09T10:53:48.040320+00:00"
+  "last_updated_utc": "2026-09-09T16:04:53.152750+00:00"
 }

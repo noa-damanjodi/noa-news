@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "OGP introduces SmartScope E18 benchtop video measurement system",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-09T16:01:17+00:00",
+      "url": "https://www.automationmag.com/ogp-introduces-smartscope-e18-benchtop-video-measurement-system/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Vention opens physical AI lab",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-09T15:34:46+00:00",
+      "url": "https://www.automationmag.com/vention-opens-physical-ai-lab/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Naviam to acquire Cohesive from Bentley Systems",
+      "category": "MECHANICAL",
+      "date": "2026-09-09T14:07:48+00:00",
+      "url": "https://www.engineering.com/naviam-to-acquire-cohesive-from-bentley-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Are AI-powered robots the future of solar construction?",
+      "category": "RENEWABLE",
+      "date": "2026-09-09T14:01:40+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/utility-scale/are-ai-powered-robots-the-future-of-solar-construction/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon launches redesigned OPTIV S optical CMM",
+      "category": "MECHANICAL",
+      "date": "2026-09-09T13:19:41+00:00",
+      "url": "https://www.engineering.com/hexagon-launches-redesigned-optiv-s-optical-cmm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SRC announces 2026 award winners across semiconductor research",
+      "category": "MECHANICAL",
+      "date": "2026-09-09T12:14:56+00:00",
+      "url": "https://www.engineering.com/src-announces-2026-award-winners-across-semiconductor-research/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble acquires Terasat Japan to expand VRS services",
+      "category": "MECHANICAL",
+      "date": "2026-09-09T11:30:05+00:00",
+      "url": "https://www.engineering.com/trimble-acquires-terasat-japan-to-expand-vrs-services/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "CAE and WB Electronics sign MoU on unmanned systems",
+      "category": "MECHANICAL",
+      "date": "2026-09-09T11:18:54+00:00",
+      "url": "https://www.engineering.com/cae-and-wb-electronics-sign-mou-on-unmanned-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Qualcomm and Amazon expand collaboration on AI infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-09-09T11:12:39+00:00",
+      "url": "https://www.engineering.com/qualcomm-and-amazon-expand-collaboration-on-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "First copper-gold concentrate produced at Eldorado’s Skouries site",
+      "category": "INDUSTRY",
+      "date": "2026-09-09T10:18:19+00:00",
+      "url": "https://www.mining-technology.com/news/first-copper-gold-concentrate-eldorados-skouries-site/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Hexagon takes full ownership of 3D scanning specialist ZG Technology",
       "category": "MECHANICAL",
       "date": "2026-09-09T09:36:55+00:00",
@@ -47322,5 +47402,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-09T10:53:48.040320+00:00"
+  "last_updated_utc": "2026-09-09T16:04:53.152750+00:00"
 }
