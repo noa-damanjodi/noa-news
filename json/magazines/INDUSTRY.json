@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "US explores access to Venezuela’s mineral sector",
+      "category": "INDUSTRY",
+      "date": "2026-09-10T13:42:10+00:00",
+      "url": "https://www.mining-technology.com/news/us-explores-access-venezuelas-mineral-sector/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Nokia introduces AI-driven platform for mining and fieldwork",
+      "category": "INDUSTRY",
+      "date": "2026-09-10T10:18:13+00:00",
+      "url": "https://www.mining-technology.com/news/nokia-ai-driven-platform-mining-field-work/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Total Graphite appoints Lycopodium for Montepuez project study update",
       "category": "INDUSTRY",
       "date": "2026-09-10T07:58:19+00:00",
@@ -30,6 +46,14 @@
       "category": "INDUSTRY",
       "date": "2026-09-09T13:42:00+00:00",
       "url": "https://www.mining-technology.com/news/bme-blasting-system-address-barriers-mining-industry/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Drones in solar: where can automation deliver the most value?",
+      "category": "INDUSTRY",
+      "date": "2026-09-09T10:55:11+00:00",
+      "url": "https://www.mining-technology.com/news/drones-in-solar-where-can-automation-deliver-the-most-value/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -8402,5 +8426,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-10T10:50:05.045243+00:00"
+  "last_updated_utc": "2026-09-10T15:58:31.852206+00:00"
 }

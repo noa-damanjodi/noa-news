@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Are utility-scale wind and solar decreasing property values? It probably depends on where you live",
+      "category": "RENEWABLE",
+      "date": "2026-09-10T14:02:06+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/utility-scale/are-utility-scale-wind-and-solar-decreasing-property-values-it-probably-depends-on-where-you-live/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "ComEd drives utility affordability with flexible DER interconnections",
+      "category": "RENEWABLE",
+      "date": "2026-09-10T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/comed-drives-utility-affordability-with-flexible-der-interconnections/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "This is CITAP: Accelerating transmission permitting | Factor This Policycast",
+      "category": "RENEWABLE",
+      "date": "2026-09-10T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/this-is-citap-accelerating-transmission-permitting-factor-this-policycast/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Are AI-powered robots the future of solar construction?",
       "category": "RENEWABLE",
       "date": "2026-09-09T14:01:40+00:00",
@@ -3594,5 +3618,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-10T10:50:05.045243+00:00"
+  "last_updated_utc": "2026-09-10T15:58:31.852206+00:00"
 }

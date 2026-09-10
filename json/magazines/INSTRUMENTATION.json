@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Altech expands industrial enclosure range to nearly 1,000 parts",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-10T15:16:06+00:00",
+      "url": "https://www.automationmag.com/altech-expands-industrial-enclosure-range-to-nearly-1000-parts-2/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Annex Business Media launches new defence manufacturing platform",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-10T13:30:48+00:00",
+      "url": "https://www.automationmag.com/annex-business-media-launches-new-defence-manufacturing-platform/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "OGP introduces SmartScope E18 benchtop video measurement system",
       "category": "INSTRUMENTATION",
       "date": "2026-09-09T16:01:17+00:00",
@@ -2802,5 +2818,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-10T10:50:05.045243+00:00"
+  "last_updated_utc": "2026-09-10T15:58:31.852206+00:00"
 }
