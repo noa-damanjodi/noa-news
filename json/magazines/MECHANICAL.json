@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Nemetschek partners with ITE and Singapore Polytechnic",
+      "category": "MECHANICAL",
+      "date": "2026-09-10T10:29:32+00:00",
+      "url": "https://www.engineering.com/nemetschek-partners-with-ite-and-singapore-polytechnic/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Eagle Point partners with COMGRAP in Latin America",
+      "category": "MECHANICAL",
+      "date": "2026-09-10T10:20:57+00:00",
+      "url": "https://www.engineering.com/eagle-point-partners-with-comgrap-in-latin-america/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mindgard expands AI security technology ecosystem",
+      "category": "MECHANICAL",
+      "date": "2026-09-10T10:17:10+00:00",
+      "url": "https://www.engineering.com/mindgard-expands-ai-security-technology-ecosystem/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IBM, Lockheed Martin establish Swiss quantum innovation hub",
+      "category": "MECHANICAL",
+      "date": "2026-09-10T10:12:42+00:00",
+      "url": "https://www.engineering.com/ibm-lockheed-martin-establish-swiss-quantum-innovation-hub/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA expands Australia AI infrastructure with local partners",
+      "category": "MECHANICAL",
+      "date": "2026-09-10T10:07:03+00:00",
+      "url": "https://www.engineering.com/nvidia-expands-australia-ai-infrastructure-with-local-partners/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "InfinitForm brings determinism back to generative design",
       "category": "MECHANICAL",
       "date": "2026-09-09T19:21:06+00:00",
@@ -12618,5 +12658,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-10T03:33:00.507562+00:00"
+  "last_updated_utc": "2026-09-10T10:50:05.045243+00:00"
 }

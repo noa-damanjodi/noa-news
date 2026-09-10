@@ -2,6 +2,142 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Nemetschek partners with ITE and Singapore Polytechnic",
+      "category": "MECHANICAL",
+      "date": "2026-09-10T10:29:32+00:00",
+      "url": "https://www.engineering.com/nemetschek-partners-with-ite-and-singapore-polytechnic/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Eagle Point partners with COMGRAP in Latin America",
+      "category": "MECHANICAL",
+      "date": "2026-09-10T10:20:57+00:00",
+      "url": "https://www.engineering.com/eagle-point-partners-with-comgrap-in-latin-america/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mindgard expands AI security technology ecosystem",
+      "category": "MECHANICAL",
+      "date": "2026-09-10T10:17:10+00:00",
+      "url": "https://www.engineering.com/mindgard-expands-ai-security-technology-ecosystem/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IBM, Lockheed Martin establish Swiss quantum innovation hub",
+      "category": "MECHANICAL",
+      "date": "2026-09-10T10:12:42+00:00",
+      "url": "https://www.engineering.com/ibm-lockheed-martin-establish-swiss-quantum-innovation-hub/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA expands Australia AI infrastructure with local partners",
+      "category": "MECHANICAL",
+      "date": "2026-09-10T10:07:03+00:00",
+      "url": "https://www.engineering.com/nvidia-expands-australia-ai-infrastructure-with-local-partners/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Total Graphite appoints Lycopodium for Montepuez project study update",
+      "category": "INDUSTRY",
+      "date": "2026-09-10T07:58:19+00:00",
+      "url": "https://www.mining-technology.com/news/total-graphite-appoints-lycopodium-montepuez-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Galantas Gold divests final 20% Omagh stake to Ocean Partners UK",
+      "category": "INDUSTRY",
+      "date": "2026-09-10T07:11:11+00:00",
+      "url": "https://www.mining-technology.com/news/galantas-divests-omagh-stake-ocean-partners-uk/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "MNRE invites proposals to promote concentrating solar thermal technology",
+      "category": "POWER",
+      "date": "2026-09-10T06:24:00+00:00",
+      "url": "https://powerline.net.in/2026/09/10/mnre-invites-proposals-to-promote-concentrating-solar-thermal-technology/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NLC India subsidiary secures LoA from SJVN for 200 MW wind project",
+      "category": "POWER",
+      "date": "2026-09-10T06:22:58+00:00",
+      "url": "https://powerline.net.in/2026/09/10/nlc-india-subsidiary-secures-loa-from-sjvn-for-200-mw-wind-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "MSEDCL and PTSL sign PPA for 2,500 MW RTC power supply",
+      "category": "POWER",
+      "date": "2026-09-10T06:22:00+00:00",
+      "url": "https://powerline.net.in/2026/09/10/msedcl-and-ptsl-sign-ppa-for-2500-mw-rtc-power-supply/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "BNC Power Projects secures Rs 2.8 billion LoAs from MSETCL for AIS-to-GIS conversion",
+      "category": "POWER",
+      "date": "2026-09-10T06:20:59+00:00",
+      "url": "https://powerline.net.in/2026/09/10/bnc-power-projects-secures-rs-2-8-billion-loas-from-msetcl-for-ais-to-gis-conversion/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Power Mech Projects bags Rs 9.7 billion O&M order from Vedanta Power",
+      "category": "POWER",
+      "date": "2026-09-10T06:19:40+00:00",
+      "url": "https://powerline.net.in/2026/09/10/power-mech-projects-bags-rs-9-7-billion-om-order-from-vedanta-power/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "KPI Green Energy to develop 110 MW floating solar project for GSECL",
+      "category": "POWER",
+      "date": "2026-09-10T06:17:55+00:00",
+      "url": "https://powerline.net.in/2026/09/10/kpi-green-energy-to-develop-110-mw-floating-solar-project-for-gsecl/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Odisha Cabinet approves Rs 159.49 billion transmission expansion plan",
+      "category": "POWER",
+      "date": "2026-09-10T06:14:34+00:00",
+      "url": "https://powerline.net.in/2026/09/10/odisha-cabinet-approves-rs-159-49-billion-transmission-expansion-plan/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Adani Power receives LoI to acquire GVK Energy under IBC",
+      "category": "POWER",
+      "date": "2026-09-10T06:13:29+00:00",
+      "url": "https://powerline.net.in/2026/09/10/adani-power-receives-loi-to-acquire-gvk-energy-under-ibc/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hitachi Energy invests USD300 million to expand transformer manufacturing in China",
+      "category": "POWER",
+      "date": "2026-09-10T06:11:49+00:00",
+      "url": "https://powerline.net.in/2026/09/10/hitachi-energy-invests-usd300-million-to-expand-transformer-manufacturing-in-china/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "South Korea’s LS Electric and GE Vernova establish VSC-HVDC JV",
+      "category": "POWER",
+      "date": "2026-09-10T06:09:30+00:00",
+      "url": "https://powerline.net.in/2026/09/10/south-koreas-ls-electric-and-ge-vernova-establish-vsc-hvdc-jv/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "InfinitForm brings determinism back to generative design",
       "category": "MECHANICAL",
       "date": "2026-09-09T19:21:06+00:00",
@@ -63,6 +199,22 @@
       "date": "2026-09-09T14:01:40+00:00",
       "url": "https://www.renewableenergyworld.com/solar/utility-scale/are-ai-powered-robots-the-future-of-solar-construction/",
       "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "HMM secures $3.5bn iron ore shipping deal with Brazil’s Vale",
+      "category": "INDUSTRY",
+      "date": "2026-09-09T13:53:49+00:00",
+      "url": "https://www.mining-technology.com/news/hmm-iron-ore-shipping-deal-with-vale/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "BME unveils new blasting system to address barriers in mining industry",
+      "category": "INDUSTRY",
+      "date": "2026-09-09T13:42:00+00:00",
+      "url": "https://www.mining-technology.com/news/bme-blasting-system-address-barriers-mining-industry/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -47434,5 +47586,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-10T03:33:00.507562+00:00"
+  "last_updated_utc": "2026-09-10T10:50:05.045243+00:00"
 }
