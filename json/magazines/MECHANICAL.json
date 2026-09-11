@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "ToolDance unveils X1 desktop CNC mill at IFA 2026",
+      "category": "MECHANICAL",
+      "date": "2026-09-11T10:13:28+00:00",
+      "url": "https://www.engineering.com/tooldance-unveils-x1-desktop-cnc-mill-at-ifa-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SUNLU and INSLOGIC launch i10 filament storage cabinet",
+      "category": "MECHANICAL",
+      "date": "2026-09-11T10:04:46+00:00",
+      "url": "https://www.engineering.com/sunlu-and-inslogic-launch-i10-filament-storage-cabinet/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SeQent acquires Open Automation Software",
+      "category": "MECHANICAL",
+      "date": "2026-09-11T09:52:02+00:00",
+      "url": "https://www.engineering.com/seqent-acquires-open-automation-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Morgan State partners with Google on AI research campus",
+      "category": "MECHANICAL",
+      "date": "2026-09-11T09:12:01+00:00",
+      "url": "https://www.engineering.com/morgan-state-partners-with-google-on-ai-research-campus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Researchers pair digital twin, cobot for remote AM finishing",
       "category": "MECHANICAL",
       "date": "2026-09-10T21:07:33+00:00",
@@ -12682,5 +12714,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-11T03:30:50.637282+00:00"
+  "last_updated_utc": "2026-09-11T10:46:12.360379+00:00"
 }

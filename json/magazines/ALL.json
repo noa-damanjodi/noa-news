@@ -2,11 +2,147 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Trading Data: Day-ahead market and real-time market",
+      "category": "POWER",
+      "date": "2026-09-11T10:40:05+00:00",
+      "url": "https://powerline.net.in/2026/09/11/trading-data-day-ahead-market-and-real-time-market-15/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Rajneesh Shrotriya Chief Technology Officer, Renewable Business, Sterling & Wilson Renewables Limited",
+      "category": "POWER",
+      "date": "2026-09-11T10:29:22+00:00",
+      "url": "https://powerline.net.in/2026/09/11/rajneesh-shrotriya-chief-technology-officer-renewable-business-sterling-wilson-renewables-limited/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Catalysing Demand: Suggestions to scale up green hydrogen in India",
+      "category": "POWER",
+      "date": "2026-09-11T10:18:08+00:00",
+      "url": "https://powerline.net.in/2026/09/11/catalysing-demand-suggestions-to-scale-up-green-hydrogen-in-india/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ToolDance unveils X1 desktop CNC mill at IFA 2026",
+      "category": "MECHANICAL",
+      "date": "2026-09-11T10:13:28+00:00",
+      "url": "https://www.engineering.com/tooldance-unveils-x1-desktop-cnc-mill-at-ifa-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Tapping Water Bodies: PM-Surya Sarovar Yojana gives a fresh impetus to the segment",
+      "category": "POWER",
+      "date": "2026-09-11T10:09:29+00:00",
+      "url": "https://powerline.net.in/2026/09/11/tapping-water-bodies-pm-surya-sarovar-yojana-gives-a-fresh-impetus-to-the-segment/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "SUNLU and INSLOGIC launch i10 filament storage cabinet",
+      "category": "MECHANICAL",
+      "date": "2026-09-11T10:04:46+00:00",
+      "url": "https://www.engineering.com/sunlu-and-inslogic-launch-i10-filament-storage-cabinet/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SeQent acquires Open Automation Software",
+      "category": "MECHANICAL",
+      "date": "2026-09-11T09:52:02+00:00",
+      "url": "https://www.engineering.com/seqent-acquires-open-automation-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NHPC: Growing role in the clean energy transition",
+      "category": "POWER",
+      "date": "2026-09-11T09:48:59+00:00",
+      "url": "https://powerline.net.in/2026/09/11/nhpc-growing-role-in-the-clean-energy-transition/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The SHANTI Act: From legislation to implementation",
+      "category": "POWER",
+      "date": "2026-09-11T09:40:49+00:00",
+      "url": "https://powerline.net.in/2026/09/11/the-shanti-act-from-legislation-to-implementation/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Morgan State partners with Google on AI research campus",
+      "category": "MECHANICAL",
+      "date": "2026-09-11T09:12:01+00:00",
+      "url": "https://www.engineering.com/morgan-state-partners-with-google-on-ai-research-campus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Driving Efficiency: How CESC is digitalising thermal power generation",
+      "category": "POWER",
+      "date": "2026-09-11T08:44:15+00:00",
+      "url": "https://powerline.net.in/2026/09/11/driving-efficiency-how-cesc-is-digitalising-thermal-power-generation/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Nuclear Framework: Key provisions of the draft SHANTI Rules and Regulations, 2026",
+      "category": "POWER",
+      "date": "2026-09-11T08:44:01+00:00",
+      "url": "https://powerline.net.in/2026/09/11/nuclear-framework-key-provisions-of-the-draft-shanti-rules-and-regulations-2026/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "St Barbara to divest New Simberi Gold Project stake for $295m",
+      "category": "INDUSTRY",
+      "date": "2026-09-11T07:27:49+00:00",
+      "url": "https://www.mining-technology.com/news/st-barbara-divest-new-simberi-gold-project-stake/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metso introduces digital tools for mining operations and safety",
+      "category": "INDUSTRY",
+      "date": "2026-09-11T07:14:51+00:00",
+      "url": "https://www.mining-technology.com/news/metso-digital-tools-mining-operations-safety/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Key Statistics: Status of under-construction thermal power projects in India",
+      "category": "POWER",
+      "date": "2026-09-11T06:13:57+00:00",
+      "url": "https://powerline.net.in/2026/09/11/key-statistics-status-of-under-construction-thermal-power-projects-in-india/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Juniper Green Energy commissions 75 MW hybrid project in Maharashtra",
+      "category": "POWER",
+      "date": "2026-09-11T06:07:40+00:00",
+      "url": "https://powerline.net.in/2026/09/11/juniper-green-energy-commissions-75-mw-hybrid-project-in-maharashtra/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Researchers pair digital twin, cobot for remote AM finishing",
       "category": "MECHANICAL",
       "date": "2026-09-10T21:07:33+00:00",
       "url": "https://www.engineering.com/researchers-pair-digital-twin-cobot-for-remote-am-finishing/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Premier Ford unveils changes to Ontario cabinet",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-10T16:08:28+00:00",
+      "url": "https://www.automationmag.com/premier-ford-unveils-changes-to-ontario-cabinet/",
+      "source": "Manufacturing AUTOMATION",
       "type": "magazine"
     },
     {
@@ -47,6 +183,14 @@
       "date": "2026-09-10T13:59:50+00:00",
       "url": "https://www.engineering.com/morpholio-launches-trace-for-business-for-enterprise-users/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DoE awards $73m to four US mining technology testbed projects",
+      "category": "INDUSTRY",
+      "date": "2026-09-10T13:56:41+00:00",
+      "url": "https://www.mining-technology.com/news/doe-73m-four-mining-technology-testbed-projects/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -127,6 +271,14 @@
       "date": "2026-09-10T10:00:00+00:00",
       "url": "https://www.renewableenergyworld.com/power-grid/transmission/this-is-citap-accelerating-transmission-permitting-factor-this-policycast/",
       "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "OECD: Critical-mineral traceability adoption grows but remains fragmented",
+      "category": "INDUSTRY",
+      "date": "2026-09-10T09:00:16+00:00",
+      "url": "https://www.mining-technology.com/news/oecd-critical-mineral-traceability-adoption-grows-but-remains-fragmented/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -2898,6 +3050,14 @@
       "type": "magazine"
     },
     {
+      "title": "Moving Towards COP31",
+      "category": "ELECTRICAL",
+      "date": "2026-08-25T05:00:52+00:00",
+      "url": "https://www.electricalindia.in/moving-towards-cop31/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "PLS awards TOMRA contract for 22 ore sorters at Pilgangoora, WA",
       "category": "INDUSTRY",
       "date": "2026-08-25T05:00:00+00:00",
@@ -2910,6 +3070,22 @@
       "category": "ELECTRICAL",
       "date": "2026-08-25T04:27:35+00:00",
       "url": "https://www.electricalindia.in/surya-roshni-expands-into-corporate-gifting-targets-%e2%82%b9300-crore-revenue-by-2030/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The Rise of Intelligent Power Systems",
+      "category": "ELECTRICAL",
+      "date": "2026-08-25T04:26:37+00:00",
+      "url": "https://www.electricalindia.in/the-rise-of-intelligent-power-systems/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "An Excellent Geothermal Source to Generate Power Part 1",
+      "category": "ELECTRICAL",
+      "date": "2026-08-25T02:51:38+00:00",
+      "url": "https://www.electricalindia.in/an-excellent-geothermal-source-to-generate-power-part-1/",
       "source": "Electrical India Magazine",
       "type": "magazine"
     },
@@ -47682,5 +47858,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-11T03:30:50.637282+00:00"
+  "last_updated_utc": "2026-09-11T10:46:12.360379+00:00"
 }

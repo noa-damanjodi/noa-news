@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "St Barbara to divest New Simberi Gold Project stake for $295m",
+      "category": "INDUSTRY",
+      "date": "2026-09-11T07:27:49+00:00",
+      "url": "https://www.mining-technology.com/news/st-barbara-divest-new-simberi-gold-project-stake/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metso introduces digital tools for mining operations and safety",
+      "category": "INDUSTRY",
+      "date": "2026-09-11T07:14:51+00:00",
+      "url": "https://www.mining-technology.com/news/metso-digital-tools-mining-operations-safety/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "DoE awards $73m to four US mining technology testbed projects",
+      "category": "INDUSTRY",
+      "date": "2026-09-10T13:56:41+00:00",
+      "url": "https://www.mining-technology.com/news/doe-73m-four-mining-technology-testbed-projects/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "US explores access to Venezuela’s mineral sector",
       "category": "INDUSTRY",
       "date": "2026-09-10T13:42:10+00:00",
@@ -14,6 +38,14 @@
       "category": "INDUSTRY",
       "date": "2026-09-10T10:18:13+00:00",
       "url": "https://www.mining-technology.com/news/nokia-ai-driven-platform-mining-field-work/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "OECD: Critical-mineral traceability adoption grows but remains fragmented",
+      "category": "INDUSTRY",
+      "date": "2026-09-10T09:00:16+00:00",
+      "url": "https://www.mining-technology.com/news/oecd-critical-mineral-traceability-adoption-grows-but-remains-fragmented/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -8426,5 +8458,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-11T03:30:50.637282+00:00"
+  "last_updated_utc": "2026-09-11T10:46:12.360379+00:00"
 }
