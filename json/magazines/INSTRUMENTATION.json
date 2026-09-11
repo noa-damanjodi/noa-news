@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Super Q Quantum development Super Nova quantum processor at University of Waterloo lab",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-11T14:15:18+00:00",
+      "url": "https://www.automationmag.com/super-q-quantum-development-super-nova-quantum-processor-at-university-of-waterloo-lab/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Premier Ford unveils changes to Ontario cabinet",
       "category": "INSTRUMENTATION",
       "date": "2026-09-10T16:08:28+00:00",
@@ -2826,5 +2834,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-11T10:46:12.360379+00:00"
+  "last_updated_utc": "2026-09-11T16:01:50.582300+00:00"
 }

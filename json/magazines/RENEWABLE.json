@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "China’s solar gambit pays off — This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-09-11T14:15:18+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/chinas-solar-gambit-pays-off-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Beyond cannibalization: Structuring hybrid renewables for bankable returns",
+      "category": "RENEWABLE",
+      "date": "2026-09-11T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/energy-finance/beyond-cannibalization-structuring-hybrid-renewables-for-bankable-returns/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "How dank are your weeds? Inside a Portland utility’s novel wildfire prevention plan",
+      "category": "RENEWABLE",
+      "date": "2026-09-11T09:03:56+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/pge-has-a-high-tech-suite-of-wildfire-monitoring-tools-but-one-key-piece-is-missing/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Are utility-scale wind and solar decreasing property values? It probably depends on where you live",
       "category": "RENEWABLE",
       "date": "2026-09-10T14:02:06+00:00",
@@ -3618,5 +3642,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-11T10:46:12.360379+00:00"
+  "last_updated_utc": "2026-09-11T16:01:50.582300+00:00"
 }
