@@ -2,6 +2,78 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Manufacturers still struggling to move AI from data to the factory floor",
+      "category": "MECHANICAL",
+      "date": "2026-09-14T20:19:44+00:00",
+      "url": "https://www.engineering.com/manufacturers-still-struggling-to-move-ai-from-data-to-the-factory-floor/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aitech launches rugged 6U VME board for defense systems",
+      "category": "MECHANICAL",
+      "date": "2026-09-14T15:18:54+00:00",
+      "url": "https://www.engineering.com/aitech-launches-rugged-6u-vme-board-for-defense-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Navigating the Software-Defined Era: Why a Holistic Systems Engineering Approach is More Critical Than Ever",
+      "category": "MECHANICAL",
+      "date": "2026-09-14T15:17:26+00:00",
+      "url": "https://www.engineering.com/navigating-the-software-defined-era-why-a-holistic-systems-engineering-approach-is-more-critical-than-ever/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric develops high-performance plate heat exchanger",
+      "category": "MECHANICAL",
+      "date": "2026-09-14T15:09:30+00:00",
+      "url": "https://www.engineering.com/mitsubishi-electric-develops-high-performance-plate-heat-exchanger/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Impossible Objects raises $40M to scale CBAM production",
+      "category": "MECHANICAL",
+      "date": "2026-09-14T15:00:56+00:00",
+      "url": "https://www.engineering.com/impossible-objects-raises-40m-to-scale-cbam-production/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "JOYX and Hitch Interactive partner on embodied AI systems",
+      "category": "MECHANICAL",
+      "date": "2026-09-14T14:53:56+00:00",
+      "url": "https://www.engineering.com/joyx-and-hitch-interactive-partner-on-embodied-ai-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA expands CUDA-Q platform with CUDA-Q Logical",
+      "category": "MECHANICAL",
+      "date": "2026-09-14T13:51:53+00:00",
+      "url": "https://www.engineering.com/nvidia-expands-cuda-q-platform-with-cuda-q-logical/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble introduces Maxwell 8 GNSS receiver modules",
+      "category": "MECHANICAL",
+      "date": "2026-09-14T13:24:30+00:00",
+      "url": "https://www.engineering.com/trimble-introduces-maxwell-8-gnss-receiver-modules/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Roland DG launches TrueVis MG2 Series UV printer/cutters",
+      "category": "MECHANICAL",
+      "date": "2026-09-14T13:13:10+00:00",
+      "url": "https://www.engineering.com/roland-dg-launches-truevis-mg2-series-uv-printer-cutters/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Stratasys launches large-format F870 FDM system",
       "category": "MECHANICAL",
       "date": "2026-09-11T12:30:13+00:00",
@@ -12730,5 +12802,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-14T12:04:30.501831+00:00"
+  "last_updated_utc": "2026-09-14T21:35:38.027077+00:00"
 }

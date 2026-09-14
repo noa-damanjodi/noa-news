@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "The U.S. is sitting on a gold mine of untapped hydropower potential",
+      "category": "RENEWABLE",
+      "date": "2026-09-14T19:36:06+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/the-u-s-is-sitting-on-a-gold-mine-of-untapped-hydropower-potential/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Meet the editor: Bethany Bashioum joins Factor This Power Engineering",
+      "category": "RENEWABLE",
+      "date": "2026-09-14T13:28:11+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/meet-the-editor-bethany-bashioum-joins-factor-this-power-engineering/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "A fantasy flight of fancy | Factor This Brief",
       "category": "RENEWABLE",
       "date": "2026-09-14T09:55:00+00:00",
@@ -3650,5 +3666,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-14T12:04:30.501831+00:00"
+  "last_updated_utc": "2026-09-14T21:35:38.027077+00:00"
 }

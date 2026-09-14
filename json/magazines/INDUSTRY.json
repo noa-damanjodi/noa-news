@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "PC-12: What the next generation engine oil standard could mean for mining",
+      "category": "INDUSTRY",
+      "date": "2026-09-14T12:45:47+00:00",
+      "url": "https://www.mining-technology.com/sponsored/the-next-genera/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Anson receives Utah tax credit of $212m for Green River project",
       "category": "INDUSTRY",
       "date": "2026-09-11T13:23:16+00:00",
@@ -8498,5 +8506,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-14T12:04:30.501831+00:00"
+  "last_updated_utc": "2026-09-14T21:35:38.027077+00:00"
 }

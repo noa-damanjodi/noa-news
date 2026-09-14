@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Universal Robots introduces seventh-generation robotics platform",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-14T16:43:45+00:00",
+      "url": "https://www.automationmag.com/universal-robots-introduces-seventh-generation-robotics-platform/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Vision Components unveiling new MIPI camera series at Vision 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-14T16:00:02+00:00",
+      "url": "https://www.automationmag.com/vision-components-unveiling-new-mipi-camera-series-at-vision-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Stellantis signs MOU on Brampton, Ont., plant as talks with union break down",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-14T13:20:21+00:00",
+      "url": "https://www.automationmag.com/stellantis-signs-mou-on-brampton-ont-plant-as-talks-with-union-break-down/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Super Q Quantum development Super Nova quantum processor at University of Waterloo lab",
       "category": "INSTRUMENTATION",
       "date": "2026-09-11T14:15:18+00:00",
@@ -2834,5 +2858,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-14T12:04:30.501831+00:00"
+  "last_updated_utc": "2026-09-14T21:35:38.027077+00:00"
 }
