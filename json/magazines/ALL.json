@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "A fantasy flight of fancy | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-09-14T09:55:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/a-fantasy-flight-of-fancy-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Bondada Engineering bags Rs 410.1 million smart metering project from TGNPDCL",
+      "category": "POWER",
+      "date": "2026-09-14T05:52:57+00:00",
+      "url": "https://powerline.net.in/2026/09/14/bondada-engineering-bags-rs-410-1-million-smart-metering-project-from-tgnpdcl/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "India approves around 654 MW power exports to Nepal",
+      "category": "POWER",
+      "date": "2026-09-14T05:51:57+00:00",
+      "url": "https://powerline.net.in/2026/09/14/india-approves-around-654-mw-advance-power-imports-for-nepal/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hyosung T&D secures order for Kakinada STATCOM project",
+      "category": "POWER",
+      "date": "2026-09-14T05:50:25+00:00",
+      "url": "https://powerline.net.in/2026/09/14/hyosung-td-secures-order-for-kakinada-statcom-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Premier Energies and RCT India to build 12 GWh BESS facility in Telangana",
+      "category": "POWER",
+      "date": "2026-09-14T05:49:30+00:00",
+      "url": "https://powerline.net.in/2026/09/14/premier-energies-and-rct-india-to-build-12-gwh-bess-facility-in-telangana/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Vikram Solar bags 124 MW solar module supply order in Andhra Pradesh",
+      "category": "POWER",
+      "date": "2026-09-14T05:47:27+00:00",
+      "url": "https://powerline.net.in/2026/09/14/vikram-solar-bags-124-mw-solar-module-supply-order-in-andhra-pradesh/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Malaysia plans 9 GW of gas-fired power capacity by 2032",
+      "category": "POWER",
+      "date": "2026-09-14T05:46:22+00:00",
+      "url": "https://powerline.net.in/2026/09/14/malaysia-plans-9-gw-of-gas-fired-power-capacity-by-2032/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Shell Energy Philippines contracts output of 240-MWp San Isidro solar project",
+      "category": "POWER",
+      "date": "2026-09-14T05:45:19+00:00",
+      "url": "https://powerline.net.in/2026/09/14/shell-energy-philippines-contracts-output-of-240-mwp-san-isidro-solar-project/",
+      "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Super Q Quantum development Super Nova quantum processor at University of Waterloo lab",
       "category": "INSTRUMENTATION",
       "date": "2026-09-11T14:15:18+00:00",
@@ -47946,5 +48010,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-14T03:51:21.148127+00:00"
+  "last_updated_utc": "2026-09-14T12:04:30.501831+00:00"
 }
