@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Siemens launches Meet at the Machine initiative to enhance CNC productivity",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-15T15:29:22+00:00",
+      "url": "https://www.automationmag.com/siemens-launches-meet-at-the-machine-initiative-to-enhance-cnc-productivity/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "CoLab announces multi-year contract expansion with Schaeffler",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-15T15:24:06+00:00",
+      "url": "https://www.automationmag.com/colab-announces-multi-year-contract-expansion-with-schaeffler/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Flexxbotics unveils latest platform for manufacturing autonomy",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-15T14:05:38+00:00",
+      "url": "https://www.automationmag.com/flexxbotics-unveils-latest-platform-for-manufacturing-autonomy/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Universal Robots introduces seventh-generation robotics platform",
       "category": "INSTRUMENTATION",
       "date": "2026-09-14T16:43:45+00:00",
@@ -2858,5 +2882,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-15T11:17:33.184199+00:00"
+  "last_updated_utc": "2026-09-15T16:28:24.539176+00:00"
 }

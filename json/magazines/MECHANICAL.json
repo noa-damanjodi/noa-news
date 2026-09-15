@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Trimble launches ST30 smart target for surveying",
+      "category": "MECHANICAL",
+      "date": "2026-09-15T14:16:17+00:00",
+      "url": "https://www.engineering.com/trimble-launches-st30-smart-target-for-surveying/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Artec 3D launches wireless scanner for dimensional control",
+      "category": "MECHANICAL",
+      "date": "2026-09-15T11:17:13+00:00",
+      "url": "https://www.engineering.com/artec-3d-launches-wireless-scanner-for-dimensional-control/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "CoreWeave launches Physical AI Field Engineering",
       "category": "MECHANICAL",
       "date": "2026-09-15T11:02:58+00:00",
@@ -12842,5 +12858,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-15T11:17:33.184199+00:00"
+  "last_updated_utc": "2026-09-15T16:28:24.539176+00:00"
 }
