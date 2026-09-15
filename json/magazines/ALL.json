@@ -2,18 +2,98 @@
   "category": "ALL",
   "items": [
     {
-      "title": "Preventing silica exposure: New website from NIOSH",
-      "category": "SAFETY",
-      "date": "2026-09-15T16:27:49+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/preventing-silica-exposure-new-website-from-niosh/",
-      "source": "Safety+Health Magazine",
+      "title": "AU 2026: Autodesk’s AI Assistant is evolving",
+      "category": "MECHANICAL",
+      "date": "2026-09-15T20:49:36+00:00",
+      "url": "https://www.engineering.com/au-2026-autodesks-ai-assistant-is-evolving/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Additive IMTS update: Hidden gems from the show floor",
+      "category": "MECHANICAL",
+      "date": "2026-09-15T20:41:57+00:00",
+      "url": "https://www.engineering.com/additive-imts-update-hidden-gems-from-the-show-floor/",
+      "source": "Engineering.com",
       "type": "magazine"
     },
     {
       "title": "Fall Protection remains atop OSHA’s annual ‘Top 10’ list of most frequently cited standards",
       "category": "SAFETY",
-      "date": "2026-09-15T15:52:12+00:00",
+      "date": "2026-09-15T19:35:12+00:00",
       "url": "https://www.safetyandhealthmagazine.com/fall-protection-remains-atop-oshas-annual-top-10-list-of-most-frequently-cited-standards/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "David Keeling lays out his vision for OSHA’s future in Occupational Keynote",
+      "category": "SAFETY",
+      "date": "2026-09-15T19:34:51+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/david-keeling-lays-out-his-vision-for-oshas-future-in-occupational-keynote/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NSC awards Wyatt Bradbury with Dotson Safety Leadership Award",
+      "category": "SAFETY",
+      "date": "2026-09-15T19:33:20+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-awards-wyatt-bradbury-with-dotson-safety-leadership-award/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NSC expert examines the differences between OSHA citations and workplace injuries",
+      "category": "SAFETY",
+      "date": "2026-09-15T19:25:08+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-expert-examines-the-differences-between-osha-citations-and-workplace-injuries/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "U.S. pedestrian deaths fall for 3rd straight year, data shows",
+      "category": "SAFETY",
+      "date": "2026-09-15T18:26:48+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/u-s-pedestrian-deaths-fall-for-3rd-straight-year-data-shows/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Universal Robots unveils Gen 7 platform for AI-ready automation",
+      "category": "MECHANICAL",
+      "date": "2026-09-15T17:24:13+00:00",
+      "url": "https://www.engineering.com/universal-robots-unveils-gen-7-platform-for-ai-ready-automation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NSC recognizes outstanding contributions to safety",
+      "category": "SAFETY",
+      "date": "2026-09-15T17:04:13+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-recognizes-outstanding-contributions-to-safety/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Square Robot Inc. wins Prevention through Design Award",
+      "category": "SAFETY",
+      "date": "2026-09-15T16:57:14+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/square-robot-inc-wins-prevention-through-design-award/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Flexible interconnection promises speed to power for utilities, data center developers | Q&A with Camus Energy",
+      "category": "RENEWABLE",
+      "date": "2026-09-15T16:52:03+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/flexible-interconnection-promises-speed-to-power-for-utilities-data-center-developers-qa-with-camus-energy/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Preventing silica exposure: New website from NIOSH",
+      "category": "SAFETY",
+      "date": "2026-09-15T16:27:49+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/preventing-silica-exposure-new-website-from-niosh/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -31,14 +111,6 @@
       "date": "2026-09-15T15:24:06+00:00",
       "url": "https://www.automationmag.com/colab-announces-multi-year-contract-expansion-with-schaeffler/",
       "source": "Manufacturing AUTOMATION",
-      "type": "magazine"
-    },
-    {
-      "title": "David Keeling lays out his vision for OSHA’s future in Occupational Keynote",
-      "category": "SAFETY",
-      "date": "2026-09-15T15:06:51+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/david-keeling-lays-out-his-vision-for-oshas-future-in-occupational-keynote/",
-      "source": "Safety+Health Magazine",
       "type": "magazine"
     },
     {
@@ -48450,5 +48522,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-15T16:28:24.539176+00:00"
+  "last_updated_utc": "2026-09-15T20:57:03.453477+00:00"
 }
