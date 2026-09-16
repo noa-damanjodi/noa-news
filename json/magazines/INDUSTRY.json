@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Unicorn Mineral Resources to acquire 75% stake in QGC Namibia",
+      "category": "INDUSTRY",
+      "date": "2026-09-16T07:57:31+00:00",
+      "url": "https://www.mining-technology.com/news/unicorn-mineral-to-acquire-stake-qgc-namibia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Ongwe Minerals begins drilling at Nguni gold prospect in Namibia",
+      "category": "INDUSTRY",
+      "date": "2026-09-16T07:49:11+00:00",
+      "url": "https://www.mining-technology.com/news/ongwe-minerals-drilling-nguni-gold-prospect/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Tungsten West to relaunch Hemerdon mine by early 2027",
+      "category": "INDUSTRY",
+      "date": "2026-09-15T13:22:16+00:00",
+      "url": "https://www.mining-technology.com/news/tungsten-west-relaunch-hemerdon-mine-early-2027/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Generation Mining obtains $245m to fund Marathon Project in Ontario",
       "category": "INDUSTRY",
       "date": "2026-09-15T13:11:54+00:00",
@@ -8538,5 +8562,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-16T03:48:13.587105+00:00"
+  "last_updated_utc": "2026-09-16T10:59:40.642482+00:00"
 }
