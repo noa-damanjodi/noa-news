@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "ISO releases first update to ISO 9001 quality standard since 2015",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-16T15:59:46+00:00",
+      "url": "https://www.automationmag.com/iso-releases-first-update-to-iso-9001-quality-standard-since-2015/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Federal government expands Productivity Super-Deduction",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-16T15:30:20+00:00",
+      "url": "https://www.automationmag.com/federal-government-expands-productivity-super-deduction/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Siemens launches Meet at the Machine initiative to enhance CNC productivity",
       "category": "INSTRUMENTATION",
       "date": "2026-09-15T15:29:22+00:00",
@@ -2882,5 +2898,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-16T10:59:40.642482+00:00"
+  "last_updated_utc": "2026-09-16T16:19:35.662302+00:00"
 }

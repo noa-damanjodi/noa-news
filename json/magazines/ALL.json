@@ -2,11 +2,171 @@
   "category": "ALL",
   "items": [
     {
+      "title": "ISO releases first update to ISO 9001 quality standard since 2015",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-16T15:59:46+00:00",
+      "url": "https://www.automationmag.com/iso-releases-first-update-to-iso-9001-quality-standard-since-2015/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Federal government expands Productivity Super-Deduction",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-16T15:30:20+00:00",
+      "url": "https://www.automationmag.com/federal-government-expands-productivity-super-deduction/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Fusion news and more from AU 2026",
+      "category": "MECHANICAL",
+      "date": "2026-09-16T15:09:13+00:00",
+      "url": "https://www.engineering.com/fusion-news-and-more-from-au-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SimScale launches Engineering AI Agent within Onshape",
+      "category": "MECHANICAL",
+      "date": "2026-09-16T15:05:47+00:00",
+      "url": "https://www.engineering.com/simscale-launches-engineering-ai-agent-within-onshape/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "‘We’re protecting a tomorrow,’ Closing Keynote speaker says",
+      "category": "SAFETY",
+      "date": "2026-09-16T15:00:40+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/were-protecting-a-tomorrow-closing-keynote-speaker-says/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "IMSI Design releases TurboCAD 2026.1 with 200 updates",
+      "category": "MECHANICAL",
+      "date": "2026-09-16T15:00:00+00:00",
+      "url": "https://www.engineering.com/imsi-design-releases-turbocad-2026-1-with-200-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "FARO CREAFORM adds casting inspection tools to CAM2",
+      "category": "MECHANICAL",
+      "date": "2026-09-16T14:59:12+00:00",
+      "url": "https://www.engineering.com/faro-creaform-adds-casting-inspection-tools-to-cam2/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Chemical Safety Board video supports hazard awareness and process safety management",
+      "category": "SAFETY",
+      "date": "2026-09-16T14:26:08+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/chemical-safety-board-video-supports-hazard-awareness-and-process-safety-management/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Why Texas builds, and everyone else waits",
+      "category": "RENEWABLE",
+      "date": "2026-09-16T14:11:17+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/why-texas-builds-and-everyone-else-waits/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "NSC announces the 2026 Green Cross for Safety Award winners",
+      "category": "SAFETY",
+      "date": "2026-09-16T14:10:10+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-announces-the-2026-green-cross-for-safety-award-winners/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "‘Bringing lifesaving knowledge to the public’: NSC honors trainers",
+      "category": "SAFETY",
+      "date": "2026-09-16T13:33:06+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/bringing-lifesaving-knowledge-to-the-public-nsc-honors-trainers/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NSC honors Karen LaRue with 2026 Marion Martin Award",
+      "category": "SAFETY",
+      "date": "2026-09-16T13:11:55+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-honors-karen-larue-with-2026-marion-martin-award/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "First Au proposes all-scrip takeover of Javelin Minerals",
+      "category": "INDUSTRY",
+      "date": "2026-09-16T13:04:20+00:00",
+      "url": "https://www.mining-technology.com/news/first-au-proposes-takeover-javelin-minerals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Minerals 260 to raise $178m for Bullabulling Gold Project in WA",
+      "category": "INDUSTRY",
+      "date": "2026-09-16T12:55:25+00:00",
+      "url": "https://www.mining-technology.com/news/minerals-260-to-raise-178m-bullabulling-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "PC-12: What the next generation engine oil standard could mean for mining",
+      "category": "INDUSTRY",
+      "date": "2026-09-16T11:42:59+00:00",
+      "url": "https://www.mining-technology.com/sponsored/pc-12-what-the-next-generation-engine-oil-standard-could-mean-for-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "XGRIDS introduces Lixel L3 spatial scanner with 5 mm accuracy",
+      "category": "MECHANICAL",
+      "date": "2026-09-16T11:33:57+00:00",
+      "url": "https://www.engineering.com/xgrids-introduces-lixel-l3-spatial-scanner-with-5-mm-accuracy/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Autodesk previews agentic AI for connected project workflows",
+      "category": "MECHANICAL",
+      "date": "2026-09-16T11:26:17+00:00",
+      "url": "https://www.engineering.com/autodesk-previews-agentic-ai-for-connected-project-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Fisica selects PTC Creo and Windchill for engineering",
+      "category": "MECHANICAL",
+      "date": "2026-09-16T11:11:28+00:00",
+      "url": "https://www.engineering.com/fisica-selects-ptc-creo-and-windchill-for-engineering/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "BOOX introduces Note Air6 C, Note Mini C and Palma 3",
+      "category": "MECHANICAL",
+      "date": "2026-09-16T10:59:14+00:00",
+      "url": "https://www.engineering.com/boox-introduces-note-air6-c-note-mini-c-and-palma-3/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "SHINING 3D launches FreeScan Trak ProW+ 3D scanner",
       "category": "MECHANICAL",
       "date": "2026-09-16T10:40:03+00:00",
       "url": "https://www.engineering.com/shining-3d-launches-freescan-trak-prow-3d-scanner/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Soma Gold reports discovery of new quartz vein at Cordero Mine",
+      "category": "INDUSTRY",
+      "date": "2026-09-16T09:58:51+00:00",
+      "url": "https://www.mining-technology.com/news/soma-gold-reports-discovery-of-new-quartz-vein-at-cordero-mine/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -2962,6 +3122,22 @@
       "type": "magazine"
     },
     {
+      "title": "Power Without Pause Part 2",
+      "category": "ELECTRICAL",
+      "date": "2026-08-28T12:45:21+00:00",
+      "url": "https://www.electricalindia.in/power-without-pause-part-2/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Keeping the Lights on and Preventing Failures with the FLIR Si124",
+      "category": "ELECTRICAL",
+      "date": "2026-08-28T12:35:32+00:00",
+      "url": "https://www.electricalindia.in/keeping-the-lights-on-and-preventing-failures-with-the-flir-si124/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "AIA Contract Documents launches AI Assistant and names CTO",
       "category": "MECHANICAL",
       "date": "2026-08-28T10:36:30+00:00",
@@ -3007,6 +3183,14 @@
       "date": "2026-08-28T08:26:13+00:00",
       "url": "https://www.mining-technology.com/news/forrestania-johnson-range-mining-contract-mega/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Regulating Voltage at the HT Side: The Case for the HT Transformer with Built-in AVR",
+      "category": "ELECTRICAL",
+      "date": "2026-08-28T07:58:21+00:00",
+      "url": "https://www.electricalindia.in/regulating-voltage-at-the-ht-side-the-case-for-the-ht-transformer-with-built-in-avr/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -48634,5 +48818,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-16T10:59:40.642482+00:00"
+  "last_updated_utc": "2026-09-16T16:19:35.662302+00:00"
 }
