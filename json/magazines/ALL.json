@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Solving the quality problem workers couldn’t see",
+      "category": "MECHANICAL",
+      "date": "2026-09-16T20:39:37+00:00",
+      "url": "https://www.engineering.com/solving-the-quality-problem-workers-couldnt-see/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Finally, Hard Data on Humanoid Robot Cost in the Factory",
+      "category": "MECHANICAL",
+      "date": "2026-09-16T20:00:00+00:00",
+      "url": "https://www.engineering.com/finally-hard-data-on-humanoid-robot-cost-in-the-factory/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "US solar advocacy closes ranks; SEIA and CCSA to consolidate",
+      "category": "RENEWABLE",
+      "date": "2026-09-16T18:54:57+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/us-solar-advocacy-closes-ranks-seia-and-ccsa-to-consolidate/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Supplemental proposed rule on heat could appear soon, OSHA staffer says",
+      "category": "SAFETY",
+      "date": "2026-09-16T18:13:02+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/oshas-supplemental-proposed-rule-on-heat-could-appear-soon-agency-staffer-says/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NSC Work to Zero Safety Innovation Challenge: NanoSieve Inc. takes top prize",
+      "category": "SAFETY",
+      "date": "2026-09-16T17:57:40+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-work-to-zero-safety-innovation-challenge-nanosieve-inc-takes-top-prize/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Save the date: 2027 NSC Safety Conference & Expo",
+      "category": "SAFETY",
+      "date": "2026-09-16T17:02:47+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/save-the-date-2027-nsc-safety-conference-expo/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "ISO releases first update to ISO 9001 quality standard since 2015",
       "category": "INSTRUMENTATION",
       "date": "2026-09-16T15:59:46+00:00",
@@ -48818,5 +48866,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-16T16:19:35.662302+00:00"
+  "last_updated_utc": "2026-09-16T20:58:39.443627+00:00"
 }

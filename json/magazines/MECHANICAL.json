@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Solving the quality problem workers couldn’t see",
+      "category": "MECHANICAL",
+      "date": "2026-09-16T20:39:37+00:00",
+      "url": "https://www.engineering.com/solving-the-quality-problem-workers-couldnt-see/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Finally, Hard Data on Humanoid Robot Cost in the Factory",
+      "category": "MECHANICAL",
+      "date": "2026-09-16T20:00:00+00:00",
+      "url": "https://www.engineering.com/finally-hard-data-on-humanoid-robot-cost-in-the-factory/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Fusion news and more from AU 2026",
       "category": "MECHANICAL",
       "date": "2026-09-16T15:09:13+00:00",
@@ -12954,5 +12970,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-16T16:19:35.662302+00:00"
+  "last_updated_utc": "2026-09-16T20:58:39.443627+00:00"
 }
