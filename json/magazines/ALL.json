@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "The largest US solar manufacturer is changing fronts in its patent war",
+      "category": "RENEWABLE",
+      "date": "2026-09-17T19:24:52+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/the-largest-us-solar-manufacturer-is-changing-fronts-in-its-patent-war/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "ATRI survey asks truckers: What are your top concerns?",
+      "category": "SAFETY",
+      "date": "2026-09-17T18:51:43+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/atri-survey-asks-truckers-what-are-your-top-concerns/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Report calls for FAA action on flight crew radiation exposure",
+      "category": "SAFETY",
+      "date": "2026-09-17T18:27:27+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/report-calls-for-faa-action-on-flight-crew-radiation-exposure/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Winter storms Fern, Gianna tested the US power grid. 2027 could bring a bigger reliability challenge.",
+      "category": "RENEWABLE",
+      "date": "2026-09-17T17:03:47+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/winter-storms-fern-gianna-tested-the-us-power-grid-2027-could-bring-a-bigger-reliability-challenge/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Preventing workplace harassment and violence in construction: new guide",
+      "category": "SAFETY",
+      "date": "2026-09-17T16:28:01+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/preventing-workplace-harassment-and-violence-in-construction-new-guide/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The tricky engineering of orbital data centers",
+      "category": "MECHANICAL",
+      "date": "2026-09-17T16:21:05+00:00",
+      "url": "https://www.engineering.com/the-tricky-engineering-of-orbital-data-centers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "COMSOL Multiphysics v2027 released for systems modeling",
       "category": "MECHANICAL",
       "date": "2026-09-17T13:28:34+00:00",
@@ -49042,5 +49090,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-17T16:26:47.644447+00:00"
+  "last_updated_utc": "2026-09-17T21:01:51.973484+00:00"
 }
