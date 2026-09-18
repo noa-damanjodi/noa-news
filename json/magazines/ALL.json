@@ -2,6 +2,30 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Insights from the Wildfire & Weather Emergency Response Summit at DTECH Reliability & Resilience",
+      "category": "RENEWABLE",
+      "date": "2026-09-18T17:31:50+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/insights-from-the-wildfire-weather-emergency-response-summit-at-dtech-reliability-resilience/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "AI in safety management programs",
+      "category": "SAFETY",
+      "date": "2026-09-18T17:14:01+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/ai-in-safety-management-programs/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Is Trump’s EPA going too far? — This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-09-18T16:17:13+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/is-trumps-epa-going-too-far-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Investigating the Acoustic Performance of a Chamber Music Hall with Simulation",
       "category": "MECHANICAL",
       "date": "2026-09-18T15:14:22+00:00",
@@ -49306,5 +49330,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-18T15:59:16.470444+00:00"
+  "last_updated_utc": "2026-09-18T20:33:02.864085+00:00"
 }
