@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Coppercore signs lease for copper facility in Colombia",
+      "category": "INDUSTRY",
+      "date": "2026-09-18T07:29:08+00:00",
+      "url": "https://www.mining-technology.com/news/coppercore-signs-lease-copper-facility-colombia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Almonty and Sandvik’s WBH sign Spanish tungsten supply deal",
+      "category": "INDUSTRY",
+      "date": "2026-09-18T07:21:15+00:00",
+      "url": "https://www.mining-technology.com/news/almonty-sandviks-wbh-tungsten-supply-deal/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Lahontan Gold signs agreement to acquire Emergent Metals",
+      "category": "INDUSTRY",
+      "date": "2026-09-17T13:55:11+00:00",
+      "url": "https://www.mining-technology.com/news/lahontan-gold-to-acquire-emergent-metals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "American Lithium starts operations at Falchani pilot plant in Peru",
+      "category": "INDUSTRY",
+      "date": "2026-09-17T13:48:21+00:00",
+      "url": "https://www.mining-technology.com/news/american-lithium-starts-operations-falchani-plant/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Can hydrogen become platinum’s next big market?",
       "category": "INDUSTRY",
       "date": "2026-09-17T10:14:44+00:00",
@@ -8626,5 +8658,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-18T03:40:30.047831+00:00"
+  "last_updated_utc": "2026-09-18T10:43:45.657198+00:00"
 }

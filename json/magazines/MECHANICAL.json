@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "ASUS and Poesis test autonomous AI trading on local system",
+      "category": "MECHANICAL",
+      "date": "2026-09-18T10:20:49+00:00",
+      "url": "https://www.engineering.com/asus-and-poesis-test-autonomous-ai-trading-on-local-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Velo3D joins GIDEP to support defense manufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-09-18T10:02:39+00:00",
+      "url": "https://www.engineering.com/velo3d-joins-gidep-to-support-defense-manufacturing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lawrence Semiconductor names Don Garrison as COO",
+      "category": "MECHANICAL",
+      "date": "2026-09-18T09:54:26+00:00",
+      "url": "https://www.engineering.com/lawrence-semiconductor-names-don-garrison-as-coo/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "The tricky engineering of orbital data centers",
       "category": "MECHANICAL",
       "date": "2026-09-17T16:21:05+00:00",
@@ -13050,5 +13074,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-18T03:40:30.047831+00:00"
+  "last_updated_utc": "2026-09-18T10:43:45.657198+00:00"
 }
