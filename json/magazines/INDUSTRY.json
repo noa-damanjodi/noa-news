@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "KCM awards $498m copper recovery plant contract to China’s NERIN",
+      "category": "INDUSTRY",
+      "date": "2026-09-18T13:58:08+00:00",
+      "url": "https://www.mining-technology.com/news/kcm-498m-copper-recovery-plant-contract-nerin/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Empress Royalty signs $62m Tongon gold stream deal",
+      "category": "INDUSTRY",
+      "date": "2026-09-18T10:02:48+00:00",
+      "url": "https://www.mining-technology.com/news/empress-royalty-tongon-gold-stream-deal/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Coppercore signs lease for copper facility in Colombia",
       "category": "INDUSTRY",
       "date": "2026-09-18T07:29:08+00:00",
@@ -8658,5 +8674,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-18T10:43:45.657198+00:00"
+  "last_updated_utc": "2026-09-18T15:59:16.470444+00:00"
 }

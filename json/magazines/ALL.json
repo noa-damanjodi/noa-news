@@ -2,11 +2,59 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Investigating the Acoustic Performance of a Chamber Music Hall with Simulation",
+      "category": "MECHANICAL",
+      "date": "2026-09-18T15:14:22+00:00",
+      "url": "https://www.engineering.com/investigating-the-acoustic-performance-of-a-chamber-music-hall-with-simulation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "KCM awards $498m copper recovery plant contract to China’s NERIN",
+      "category": "INDUSTRY",
+      "date": "2026-09-18T13:58:08+00:00",
+      "url": "https://www.mining-technology.com/news/kcm-498m-copper-recovery-plant-contract-nerin/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Bambu Lab opens 3D printing challenge for assistive designs",
+      "category": "MECHANICAL",
+      "date": "2026-09-18T13:55:06+00:00",
+      "url": "https://www.engineering.com/bambu-lab-opens-3d-printing-challenge-for-assistive-designs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NovoLINC launches MaxLINC thermal interface material",
+      "category": "MECHANICAL",
+      "date": "2026-09-18T11:21:58+00:00",
+      "url": "https://www.engineering.com/novolinc-launches-maxlinc-thermal-interface-material/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Saturn Cloud integrates NVIDIA Run:ai for AI inference",
+      "category": "MECHANICAL",
+      "date": "2026-09-18T11:12:18+00:00",
+      "url": "https://www.engineering.com/saturn-cloud-integrates-nvidia-runai-for-ai-inference/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "ASUS and Poesis test autonomous AI trading on local system",
       "category": "MECHANICAL",
       "date": "2026-09-18T10:20:49+00:00",
       "url": "https://www.engineering.com/asus-and-poesis-test-autonomous-ai-trading-on-local-system/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Empress Royalty signs $62m Tongon gold stream deal",
+      "category": "INDUSTRY",
+      "date": "2026-09-18T10:02:48+00:00",
+      "url": "https://www.mining-technology.com/news/empress-royalty-tongon-gold-stream-deal/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -49258,5 +49306,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-18T10:43:45.657198+00:00"
+  "last_updated_utc": "2026-09-18T15:59:16.470444+00:00"
 }
