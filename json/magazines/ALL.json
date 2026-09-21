@@ -2,6 +2,118 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Renishaw’s Equator-X wins 2026 AMB Award",
+      "category": "MECHANICAL",
+      "date": "2026-09-21T10:50:31+00:00",
+      "url": "https://www.engineering.com/renishaws-equator-x-wins-2026-amb-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Teradyne launches Iris 100 for microLED optical testing",
+      "category": "MECHANICAL",
+      "date": "2026-09-21T10:41:55+00:00",
+      "url": "https://www.engineering.com/teradyne-launches-iris-100-for-microled-optical-testing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "How academic research and utility partnerships can enable grid modernization and decarbonization",
+      "category": "RENEWABLE",
+      "date": "2026-09-21T10:02:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/how-academic-research-and-utility-partnerships-can-enable-grid-modernization-and-decarbonization/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "TRUMPF introduces compact robotic laser welding cell",
+      "category": "MECHANICAL",
+      "date": "2026-09-21T09:58:33+00:00",
+      "url": "https://www.engineering.com/trumpf-introduces-compact-robotic-laser-welding-cell/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Not the worst time for an AI data center to spill 5,500 gallons of backup fuel into a tributary | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-09-21T09:55:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/not-the-worst-time-for-an-ai-data-center-to-spill-5500-gallons-of-backup-fuel-into-a-tributary-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Koryx Copper plans 80% stake in Zambia Copperbelt licences",
+      "category": "INDUSTRY",
+      "date": "2026-09-21T09:50:05+00:00",
+      "url": "https://www.mining-technology.com/news/koryx-copper-stake-zambia-copperbelt-licences/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "EPB launches IonQ Forte Enterprise quantum computer",
+      "category": "MECHANICAL",
+      "date": "2026-09-21T09:41:37+00:00",
+      "url": "https://www.engineering.com/epb-launches-ionq-forte-enterprise-quantum-computer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "iPronics and BSC collaborate on programmable AI networking",
+      "category": "MECHANICAL",
+      "date": "2026-09-21T09:14:19+00:00",
+      "url": "https://www.engineering.com/ipronics-and-bsc-collaborate-on-programmable-ai-networking/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Semtech enables 50G fronthaul for 5G-Advanced",
+      "category": "MECHANICAL",
+      "date": "2026-09-21T08:54:49+00:00",
+      "url": "https://www.engineering.com/semtech-enables-50g-fronthaul-for-5g-advanced/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Beyond the purchase price – the true cost of mining engines",
+      "category": "INDUSTRY",
+      "date": "2026-09-21T08:09:07+00:00",
+      "url": "https://www.mining-technology.com/sponsored/beyond-the-purchase-price-the-true-cost-of-mining-engines/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Tertiary Minerals reports high-grade mineralisation at Mushima North",
+      "category": "INDUSTRY",
+      "date": "2026-09-21T07:21:38+00:00",
+      "url": "https://www.mining-technology.com/news/tertiary-minerals-reports-high-grade-mineralisation-at-mushima-north/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Generation Mining signs Ontario term sheet for Marathon Project",
+      "category": "INDUSTRY",
+      "date": "2026-09-21T07:16:01+00:00",
+      "url": "https://www.mining-technology.com/news/generation-mining-term-sheet-marathon-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Critical minerals supply starts with getting more from existing mines: ABB",
+      "category": "INDUSTRY",
+      "date": "2026-09-21T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/opinion/critical-minerals-supply-starts-with-getting-more-from-existing-mines/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Delta outlines infrastructure for NVIDIA DSX AI factories",
+      "category": "MECHANICAL",
+      "date": "2026-09-21T04:39:43+00:00",
+      "url": "https://www.engineering.com/delta-outlines-infrastructure-for-nvidia-dsx-ai-factories/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Insights from the Wildfire & Weather Emergency Response Summit at DTECH Reliability & Resilience",
       "category": "RENEWABLE",
       "date": "2026-09-18T17:31:50+00:00",
@@ -49338,5 +49450,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-21T03:50:09.825779+00:00"
+  "last_updated_utc": "2026-09-21T12:13:57.702013+00:00"
 }

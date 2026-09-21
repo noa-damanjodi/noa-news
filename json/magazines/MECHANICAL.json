@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Renishaw’s Equator-X wins 2026 AMB Award",
+      "category": "MECHANICAL",
+      "date": "2026-09-21T10:50:31+00:00",
+      "url": "https://www.engineering.com/renishaws-equator-x-wins-2026-amb-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Teradyne launches Iris 100 for microLED optical testing",
+      "category": "MECHANICAL",
+      "date": "2026-09-21T10:41:55+00:00",
+      "url": "https://www.engineering.com/teradyne-launches-iris-100-for-microled-optical-testing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "TRUMPF introduces compact robotic laser welding cell",
+      "category": "MECHANICAL",
+      "date": "2026-09-21T09:58:33+00:00",
+      "url": "https://www.engineering.com/trumpf-introduces-compact-robotic-laser-welding-cell/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "EPB launches IonQ Forte Enterprise quantum computer",
+      "category": "MECHANICAL",
+      "date": "2026-09-21T09:41:37+00:00",
+      "url": "https://www.engineering.com/epb-launches-ionq-forte-enterprise-quantum-computer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "iPronics and BSC collaborate on programmable AI networking",
+      "category": "MECHANICAL",
+      "date": "2026-09-21T09:14:19+00:00",
+      "url": "https://www.engineering.com/ipronics-and-bsc-collaborate-on-programmable-ai-networking/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Semtech enables 50G fronthaul for 5G-Advanced",
+      "category": "MECHANICAL",
+      "date": "2026-09-21T08:54:49+00:00",
+      "url": "https://www.engineering.com/semtech-enables-50g-fronthaul-for-5g-advanced/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Delta outlines infrastructure for NVIDIA DSX AI factories",
+      "category": "MECHANICAL",
+      "date": "2026-09-21T04:39:43+00:00",
+      "url": "https://www.engineering.com/delta-outlines-infrastructure-for-nvidia-dsx-ai-factories/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Investigating the Acoustic Performance of a Chamber Music Hall with Simulation",
       "category": "MECHANICAL",
       "date": "2026-09-18T15:14:22+00:00",
@@ -13106,5 +13162,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-21T03:50:09.825779+00:00"
+  "last_updated_utc": "2026-09-21T12:13:57.702013+00:00"
 }

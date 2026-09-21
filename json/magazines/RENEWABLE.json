@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "How academic research and utility partnerships can enable grid modernization and decarbonization",
+      "category": "RENEWABLE",
+      "date": "2026-09-21T10:02:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/how-academic-research-and-utility-partnerships-can-enable-grid-modernization-and-decarbonization/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Not the worst time for an AI data center to spill 5,500 gallons of backup fuel into a tributary | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-09-21T09:55:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/not-the-worst-time-for-an-ai-data-center-to-spill-5500-gallons-of-backup-fuel-into-a-tributary-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Insights from the Wildfire & Weather Emergency Response Summit at DTECH Reliability & Resilience",
       "category": "RENEWABLE",
       "date": "2026-09-18T17:31:50+00:00",
@@ -3730,5 +3746,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-21T03:50:09.825779+00:00"
+  "last_updated_utc": "2026-09-21T12:13:57.702013+00:00"
 }
