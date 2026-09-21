@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Vulcan starts commercial production of VULSORB adsorbent in Germany",
+      "category": "INDUSTRY",
+      "date": "2026-09-21T13:28:12+00:00",
+      "url": "https://www.mining-technology.com/news/vulcan-commercial-production-vulsorb-adsorbent/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Koryx Copper plans 80% stake in Zambia Copperbelt licences",
       "category": "INDUSTRY",
       "date": "2026-09-21T09:50:05+00:00",
@@ -8722,5 +8730,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-21T12:13:57.702013+00:00"
+  "last_updated_utc": "2026-09-21T21:46:41.816576+00:00"
 }

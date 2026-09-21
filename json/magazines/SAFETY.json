@@ -2,6 +2,30 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "EPA wants feedback on flammable, colorless liquid",
+      "category": "SAFETY",
+      "date": "2026-09-21T15:45:19+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/epa-wants-feedback-on-flammable-colorless-liquid/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Pennsylvania expands use of blue lights for roadside assistance vehicles",
+      "category": "SAFETY",
+      "date": "2026-09-21T15:27:38+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/pennsylvania-expands-use-of-blue-lights-for-roadside-assistance-vehicles/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Prevent falls from scaffolds: New toolbox talk available",
+      "category": "SAFETY",
+      "date": "2026-09-21T15:01:02+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/prevent-falls-from-scaffolds-new-toolbox-talk-available/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "AI in safety management programs",
       "category": "SAFETY",
       "date": "2026-09-18T17:14:01+00:00",
@@ -4874,5 +4898,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-21T12:13:57.702013+00:00"
+  "last_updated_utc": "2026-09-21T21:46:41.816576+00:00"
 }

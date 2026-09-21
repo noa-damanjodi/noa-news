@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Hydropower licensing needs a refresh – could this new bill do the job?",
+      "category": "RENEWABLE",
+      "date": "2026-09-21T19:09:03+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/hydropower-licensing-needs-a-refresh-could-this-new-bill-do-the-job/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "EPA wants feedback on flammable, colorless liquid",
+      "category": "SAFETY",
+      "date": "2026-09-21T15:45:19+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/epa-wants-feedback-on-flammable-colorless-liquid/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Look what DERs can do: 580 MW sent to the grid in largest-ever VPP dispatch",
+      "category": "RENEWABLE",
+      "date": "2026-09-21T15:34:51+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/look-what-ders-can-do-580-mw-sent-to-the-grid-in-largest-ever-vpp-dispatch/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Pennsylvania expands use of blue lights for roadside assistance vehicles",
+      "category": "SAFETY",
+      "date": "2026-09-21T15:27:38+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/pennsylvania-expands-use-of-blue-lights-for-roadside-assistance-vehicles/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Prevent falls from scaffolds: New toolbox talk available",
+      "category": "SAFETY",
+      "date": "2026-09-21T15:01:02+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/prevent-falls-from-scaffolds-new-toolbox-talk-available/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "AMI-enabled grid edge intelligence improves affordability for utilities",
+      "category": "RENEWABLE",
+      "date": "2026-09-21T14:15:37+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/ami-enabled-grid-edge-intelligence-improves-affordability-for-utilities/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Vulcan starts commercial production of VULSORB adsorbent in Germany",
+      "category": "INDUSTRY",
+      "date": "2026-09-21T13:28:12+00:00",
+      "url": "https://www.mining-technology.com/news/vulcan-commercial-production-vulsorb-adsorbent/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "How real engineers are using AI surrogate models for simulation",
+      "category": "MECHANICAL",
+      "date": "2026-09-21T13:00:00+00:00",
+      "url": "https://www.engineering.com/how-real-engineers-are-using-ai-surrogate-models-for-simulation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Renishaw’s Equator-X wins 2026 AMB Award",
       "category": "MECHANICAL",
       "date": "2026-09-21T10:50:31+00:00",
@@ -111,6 +175,14 @@
       "date": "2026-09-21T04:39:43+00:00",
       "url": "https://www.engineering.com/delta-outlines-infrastructure-for-nvidia-dsx-ai-factories/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hydropower licensing requirements have exploded. The industry says the grid could pay.",
+      "category": "RENEWABLE",
+      "date": "2026-09-18T20:26:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/hydropower-licensing-requirements-have-exploded-the-industry-says-the-grid-could-pay/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -370,7 +442,7 @@
       "type": "magazine"
     },
     {
-      "title": "Winter storms Fern, Gianna tested the US power grid. 2027 could bring a bigger reliability challenge.",
+      "title": "Winter storms Fern and Gianna tested the US power grid; 2027 could bring a bigger reliability challenge",
       "category": "RENEWABLE",
       "date": "2026-09-17T17:03:47+00:00",
       "url": "https://www.renewableenergyworld.com/power-grid/outage-management/winter-storms-fern-gianna-tested-the-us-power-grid-2027-could-bring-a-bigger-reliability-challenge/",
@@ -49450,5 +49522,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-21T12:13:57.702013+00:00"
+  "last_updated_utc": "2026-09-21T21:46:41.816576+00:00"
 }

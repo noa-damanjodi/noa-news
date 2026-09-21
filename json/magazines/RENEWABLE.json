@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Hydropower licensing needs a refresh – could this new bill do the job?",
+      "category": "RENEWABLE",
+      "date": "2026-09-21T19:09:03+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/hydropower-licensing-needs-a-refresh-could-this-new-bill-do-the-job/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Look what DERs can do: 580 MW sent to the grid in largest-ever VPP dispatch",
+      "category": "RENEWABLE",
+      "date": "2026-09-21T15:34:51+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/look-what-ders-can-do-580-mw-sent-to-the-grid-in-largest-ever-vpp-dispatch/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "AMI-enabled grid edge intelligence improves affordability for utilities",
+      "category": "RENEWABLE",
+      "date": "2026-09-21T14:15:37+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/ami-enabled-grid-edge-intelligence-improves-affordability-for-utilities/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "How academic research and utility partnerships can enable grid modernization and decarbonization",
       "category": "RENEWABLE",
       "date": "2026-09-21T10:02:00+00:00",
@@ -14,6 +38,14 @@
       "category": "RENEWABLE",
       "date": "2026-09-21T09:55:00+00:00",
       "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/not-the-worst-time-for-an-ai-data-center-to-spill-5500-gallons-of-backup-fuel-into-a-tributary-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Hydropower licensing requirements have exploded. The industry says the grid could pay.",
+      "category": "RENEWABLE",
+      "date": "2026-09-18T20:26:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/hydropower-licensing-requirements-have-exploded-the-industry-says-the-grid-could-pay/",
       "source": "Factor This™",
       "type": "magazine"
     },
@@ -42,7 +74,7 @@
       "type": "magazine"
     },
     {
-      "title": "Winter storms Fern, Gianna tested the US power grid. 2027 could bring a bigger reliability challenge.",
+      "title": "Winter storms Fern and Gianna tested the US power grid; 2027 could bring a bigger reliability challenge",
       "category": "RENEWABLE",
       "date": "2026-09-17T17:03:47+00:00",
       "url": "https://www.renewableenergyworld.com/power-grid/outage-management/winter-storms-fern-gianna-tested-the-us-power-grid-2027-could-bring-a-bigger-reliability-challenge/",
@@ -3746,5 +3778,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-21T12:13:57.702013+00:00"
+  "last_updated_utc": "2026-09-21T21:46:41.816576+00:00"
 }
