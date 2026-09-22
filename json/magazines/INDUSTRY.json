@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Sunshine Silver increases Idaho holdings by 14,100 acres",
+      "category": "INDUSTRY",
+      "date": "2026-09-22T09:57:02+00:00",
+      "url": "https://www.mining-technology.com/news/sunshine-silver-idaho-holdings-14100-acres/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Artemis Gold to acquire Vista Gold for $427m",
+      "category": "INDUSTRY",
+      "date": "2026-09-22T07:28:43+00:00",
+      "url": "https://www.mining-technology.com/news/artemis-to-acquire-vista-gold-427m/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Capstone Copper to sell Cozamin mine for up to $385m",
+      "category": "INDUSTRY",
+      "date": "2026-09-22T07:20:06+00:00",
+      "url": "https://www.mining-technology.com/news/capstone-copper-to-sell-cozamin-385m/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Q&A: RadiXplore on unlocking mining’s ‘dark data’ with AI",
+      "category": "INDUSTRY",
+      "date": "2026-09-22T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/analysis/qa-radixplore-on-unlocking-minings-dark-data-with-ai/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Q&A: Sandvik Australia’s Craig Johnston on the technologies reshaping mining",
       "category": "INDUSTRY",
       "date": "2026-09-21T23:05:09+00:00",
@@ -8746,5 +8778,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-22T03:47:22.703482+00:00"
+  "last_updated_utc": "2026-09-22T11:07:20.638856+00:00"
 }
