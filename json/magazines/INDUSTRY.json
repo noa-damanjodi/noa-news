@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Q&A: Sandvik Australia’s Craig Johnston on the technologies reshaping mining",
+      "category": "INDUSTRY",
+      "date": "2026-09-21T23:05:09+00:00",
+      "url": "https://www.mining-technology.com/sponsored/qa-sandvik-australias-craig-johnston-on-the-technologies-reshaping-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Larvotto begins gold and antimony concentrate output at Hillgrove",
+      "category": "INDUSTRY",
+      "date": "2026-09-21T13:35:42+00:00",
+      "url": "https://www.mining-technology.com/news/larvotto-gold-antimony-concentrate-output-hillgrove/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Vulcan starts commercial production of VULSORB adsorbent in Germany",
       "category": "INDUSTRY",
       "date": "2026-09-21T13:28:12+00:00",
@@ -8730,5 +8746,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-21T21:46:41.816576+00:00"
+  "last_updated_utc": "2026-09-22T03:47:22.703482+00:00"
 }
