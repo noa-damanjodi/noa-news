@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Bridge Green, Hartree sign eight-year lithium agreement",
+      "category": "INDUSTRY",
+      "date": "2026-09-22T12:33:50+00:00",
+      "url": "https://www.mining-technology.com/news/bridge-green-hartree-eight-year-lithium-agreement/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Kali Metals, JX Advanced Metals sign MoU for Southern Lachlan",
+      "category": "INDUSTRY",
+      "date": "2026-09-22T12:25:42+00:00",
+      "url": "https://www.mining-technology.com/news/kali-metals-jx-advanced-mou-southern-lachlan/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Sunshine Silver increases Idaho holdings by 14,100 acres",
       "category": "INDUSTRY",
       "date": "2026-09-22T09:57:02+00:00",
@@ -8778,5 +8794,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-22T11:07:20.638856+00:00"
+  "last_updated_utc": "2026-09-22T16:28:31.486161+00:00"
 }

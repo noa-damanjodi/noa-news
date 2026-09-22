@@ -2,6 +2,30 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "MSHA issues alert on seasonal ground falls",
+      "category": "SAFETY",
+      "date": "2026-09-22T15:54:28+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/msha-issues-alert-on-seasonal-ground-falls/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "UK report looks at the impact of heat on workplaces",
+      "category": "SAFETY",
+      "date": "2026-09-22T15:19:29+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/uk-report-looks-at-the-impact-of-heat-on-workplaces/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Does exposure to industrial pollutants raise the risk of breast cancer?",
+      "category": "SAFETY",
+      "date": "2026-09-22T14:05:30+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/does-exposure-to-industrial-pollutants-raise-the-risk-of-breast-cancer/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "EPA wants feedback on flammable, colorless liquid",
       "category": "SAFETY",
       "date": "2026-09-21T15:45:19+00:00",
@@ -4898,5 +4922,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-22T11:07:20.638856+00:00"
+  "last_updated_utc": "2026-09-22T16:28:31.486161+00:00"
 }
