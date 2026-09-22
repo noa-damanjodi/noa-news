@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Motorsports lead the way in connecting physical and virtual data with the Digital Twin and industrial AI",
+      "category": "MECHANICAL",
+      "date": "2026-09-22T19:18:21+00:00",
+      "url": "https://www.engineering.com/motorsports-lead-the-way-in-connecting-physical-and-virtual-data-with-the-digital-twin-and-industrial-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DOE targets next-gen geothermal development with $99M for field-scale tests, exploration drilling",
+      "category": "RENEWABLE",
+      "date": "2026-09-22T19:16:37+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/doe-targets-next-gen-geothermal-development-with-99m-for-field-scale-tests-exploration-drilling/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "maxon introduces EC i 70 800W brushless motor",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-22T19:12:25+00:00",
+      "url": "https://www.automationmag.com/maxon-introduces-ec-i-70-800w-brushless-motor/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Epson completes robotics portfolio tool with first collaborative robot",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-22T18:45:05+00:00",
+      "url": "https://www.automationmag.com/epson-completes-robotics-portfolio-tool-with-first-collaborative-robot/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Autodesk’s AI push is actually a pull",
+      "category": "MECHANICAL",
+      "date": "2026-09-22T18:22:12+00:00",
+      "url": "https://www.engineering.com/autodesks-ai-push-is-actually-a-pull/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "THG Automation develops CMT twin-wire cobot welding system",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-22T15:56:42+00:00",
+      "url": "https://www.automationmag.com/thg-automation-develops-cmt-twin-wire-cobot-welding-system/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "MSHA issues alert on seasonal ground falls",
       "category": "SAFETY",
       "date": "2026-09-22T15:54:28+00:00",
@@ -15,6 +63,14 @@
       "date": "2026-09-22T15:19:29+00:00",
       "url": "https://www.safetyandhealthmagazine.com/uk-report-looks-at-the-impact-of-heat-on-workplaces/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Shelley Automation partnering with Eureka Robotics",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-22T14:38:31+00:00",
+      "url": "https://www.automationmag.com/shelley-automation-partnering-with-eureka-robotics/",
+      "source": "Manufacturing AUTOMATION",
       "type": "magazine"
     },
     {
@@ -49674,5 +49730,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-22T16:28:31.486161+00:00"
+  "last_updated_utc": "2026-09-22T20:59:13.866034+00:00"
 }

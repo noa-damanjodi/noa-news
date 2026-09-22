@@ -2,6 +2,38 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "maxon introduces EC i 70 800W brushless motor",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-22T19:12:25+00:00",
+      "url": "https://www.automationmag.com/maxon-introduces-ec-i-70-800w-brushless-motor/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Epson completes robotics portfolio tool with first collaborative robot",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-22T18:45:05+00:00",
+      "url": "https://www.automationmag.com/epson-completes-robotics-portfolio-tool-with-first-collaborative-robot/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "THG Automation develops CMT twin-wire cobot welding system",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-22T15:56:42+00:00",
+      "url": "https://www.automationmag.com/thg-automation-develops-cmt-twin-wire-cobot-welding-system/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Shelley Automation partnering with Eureka Robotics",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-22T14:38:31+00:00",
+      "url": "https://www.automationmag.com/shelley-automation-partnering-with-eureka-robotics/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Mississauga, Ont., approves one-year data centre moratorium",
       "category": "INSTRUMENTATION",
       "date": "2026-09-16T16:46:06+00:00",
@@ -2906,5 +2938,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-22T16:28:31.486161+00:00"
+  "last_updated_utc": "2026-09-22T20:59:13.866034+00:00"
 }
