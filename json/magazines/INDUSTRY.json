@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Silver Bow Mining announces $88m term sheet with Ocean Partners",
+      "category": "INDUSTRY",
+      "date": "2026-09-23T07:27:46+00:00",
+      "url": "https://www.mining-technology.com/news/silver-bow-88m-term-sheet-ocean-partners/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "First Canadian Graphite completes Lac Guéret South phase two survey",
+      "category": "INDUSTRY",
+      "date": "2026-09-23T07:19:38+00:00",
+      "url": "https://www.mining-technology.com/news/first-canadian-lac-gueret-south-phase-ii-survey/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Bridge Green, Hartree sign eight-year lithium agreement",
       "category": "INDUSTRY",
       "date": "2026-09-22T12:33:50+00:00",
@@ -8794,5 +8810,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-23T03:46:00.513459+00:00"
+  "last_updated_utc": "2026-09-23T10:57:35.490150+00:00"
 }

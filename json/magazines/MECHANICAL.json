@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "GSME and Teradyne to establish semiconductor test center",
+      "category": "MECHANICAL",
+      "date": "2026-09-23T10:43:46+00:00",
+      "url": "https://www.engineering.com/gsme-and-teradyne-to-establish-semiconductor-test-center/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Echola launches dual LC switches for AI network testing",
+      "category": "MECHANICAL",
+      "date": "2026-09-23T10:35:36+00:00",
+      "url": "https://www.engineering.com/echola-launches-dual-lc-switches-for-ai-network-testing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PATEO and Arm explore physical AI for automotive applications",
+      "category": "MECHANICAL",
+      "date": "2026-09-23T10:30:07+00:00",
+      "url": "https://www.engineering.com/pateo-and-arm-explore-physical-ai-for-automotive-applications/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Quectel launches QSM603FCP smart PCBA for AIoT devices",
+      "category": "MECHANICAL",
+      "date": "2026-09-23T08:59:23+00:00",
+      "url": "https://www.engineering.com/quectel-launches-qsm603fcp-smart-pcba-for-aiot-devices/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Motorsports lead the way in connecting physical and virtual data with the Digital Twin and industrial AI",
       "category": "MECHANICAL",
       "date": "2026-09-22T19:18:21+00:00",
@@ -13250,5 +13282,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-23T03:46:00.513459+00:00"
+  "last_updated_utc": "2026-09-23T10:57:35.490150+00:00"
 }
