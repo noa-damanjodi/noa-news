@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Tungsten West signs supply deal with Elmet Technologies",
+      "category": "INDUSTRY",
+      "date": "2026-09-23T13:59:20+00:00",
+      "url": "https://www.mining-technology.com/news/tungsten-west-supply-deal-elmet-technologies/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Nth Cycle signs $1bn recycled minerals supply deal with Glencore",
+      "category": "INDUSTRY",
+      "date": "2026-09-23T13:52:46+00:00",
+      "url": "https://www.mining-technology.com/news/nth-cycle-1bn-recycled-minerals-supply-glencore/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Gastech 2026: from LNG’s long-term outlook to future fuels and AI",
+      "category": "INDUSTRY",
+      "date": "2026-09-23T11:04:44+00:00",
+      "url": "https://www.mining-technology.com/news/gastech-2026-from-lngs-long-term-outlook-to-future-fuels-and-ai/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Global Lithium signs $237m SID with Titan Australia Mining",
+      "category": "INDUSTRY",
+      "date": "2026-09-23T09:58:49+00:00",
+      "url": "https://www.mining-technology.com/news/global-lithium-237m-sid-titan-australia-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Silver Bow Mining announces $88m term sheet with Ocean Partners",
       "category": "INDUSTRY",
       "date": "2026-09-23T07:27:46+00:00",
@@ -8810,5 +8842,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-23T10:57:35.490150+00:00"
+  "last_updated_utc": "2026-09-23T16:18:05.314022+00:00"
 }

@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Harnessing the electricity supercycle to build US energy stability",
+      "category": "RENEWABLE",
+      "date": "2026-09-23T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/harnessing-the-electricity-supercycle-to-build-us-energy-stability/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "DOE targets next-gen geothermal development with $99M for field-scale tests, exploration drilling",
       "category": "RENEWABLE",
       "date": "2026-09-22T19:16:37+00:00",
@@ -3786,5 +3794,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-23T10:57:35.490150+00:00"
+  "last_updated_utc": "2026-09-23T16:18:05.314022+00:00"
 }

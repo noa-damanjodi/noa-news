@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Epson expands six-axis lineup with AX6 collaborative robot",
+      "category": "MECHANICAL",
+      "date": "2026-09-23T15:14:33+00:00",
+      "url": "https://www.engineering.com/epson-expands-six-axis-lineup-with-ax6-collaborative-robot/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence adds RTL generation to ChipStack AI Super Agent",
+      "category": "MECHANICAL",
+      "date": "2026-09-23T14:44:06+00:00",
+      "url": "https://www.engineering.com/cadence-adds-rtl-generation-to-chipstack-ai-super-agent/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Epson launches SureColor F370 dye-sublimation printer",
+      "category": "MECHANICAL",
+      "date": "2026-09-23T12:25:37+00:00",
+      "url": "https://www.engineering.com/epson-launches-surecolor-f370-dye-sublimation-printer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "GSME and Teradyne to establish semiconductor test center",
       "category": "MECHANICAL",
       "date": "2026-09-23T10:43:46+00:00",
@@ -13282,5 +13306,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-23T10:57:35.490150+00:00"
+  "last_updated_utc": "2026-09-23T16:18:05.314022+00:00"
 }
