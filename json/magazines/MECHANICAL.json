@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Cognex launches In-Sight 1750 wafer identification system",
+      "category": "MECHANICAL",
+      "date": "2026-09-24T11:07:02+00:00",
+      "url": "https://www.engineering.com/cognex-launches-in-sight-1750-wafer-identification-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "M31 and Ambiq develop low-power IP for TSMC N12e",
+      "category": "MECHANICAL",
+      "date": "2026-09-24T10:48:39+00:00",
+      "url": "https://www.engineering.com/m31-and-ambiq-develop-low-power-ip-for-tsmc-n12e/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "EOS names Axiomatek as Mexico distribution partner",
+      "category": "MECHANICAL",
+      "date": "2026-09-24T10:23:36+00:00",
+      "url": "https://www.engineering.com/eos-names-axiomatek-as-mexico-distribution-partner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SHINING 3D launches FreeScan Trak Nova+ 3D scanner",
+      "category": "MECHANICAL",
+      "date": "2026-09-24T10:13:16+00:00",
+      "url": "https://www.engineering.com/shining-3d-launches-freescan-trak-nova-3d-scanner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SHINING 3D renews WorldSkills partnership through 2028",
+      "category": "MECHANICAL",
+      "date": "2026-09-24T09:56:59+00:00",
+      "url": "https://www.engineering.com/shining-3d-renews-worldskills-partnership-through-2028/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Synopsys and TSMC expand design and IP support for AI systems",
+      "category": "MECHANICAL",
+      "date": "2026-09-24T04:48:35+00:00",
+      "url": "https://www.engineering.com/synopsys-and-tsmc-expand-design-and-ip-support-for-ai-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Mobile Robotics Moves to the Textile Industry",
       "category": "MECHANICAL",
       "date": "2026-09-23T20:00:00+00:00",
@@ -13322,5 +13370,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-24T03:37:40.440296+00:00"
+  "last_updated_utc": "2026-09-24T11:16:33.928286+00:00"
 }
