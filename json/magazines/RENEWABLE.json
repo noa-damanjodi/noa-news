@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Scaling DERs for reliability and resilience | Factor This Policycast",
+      "category": "RENEWABLE",
+      "date": "2026-09-24T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/distribution/scaling-ders-for-reliability-and-resilience-factor-this-policycast/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Harnessing the electricity supercycle to build US energy stability",
       "category": "RENEWABLE",
       "date": "2026-09-23T10:00:00+00:00",
@@ -3794,5 +3802,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-24T11:16:33.928286+00:00"
+  "last_updated_utc": "2026-09-24T16:40:27.944612+00:00"
 }

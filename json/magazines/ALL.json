@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "A little strength training every day brings big benefits for older adults, study finds",
+      "category": "SAFETY",
+      "date": "2026-09-24T14:03:43+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/a-little-strength-training-every-day-brings-big-benefits-for-older-adults-study-finds/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Talisman Metals acquires three new licences at Tirzzit Copper Project",
+      "category": "INDUSTRY",
+      "date": "2026-09-24T13:05:24+00:00",
+      "url": "https://www.mining-technology.com/news/talisman-acquires-licences-tirzzit-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "BLM approves seven new drill pads for Spartan Metals in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-09-24T12:35:59+00:00",
+      "url": "https://www.mining-technology.com/news/blm-seven-drill-pads-spartan-metals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and TSMC expand AI and 3D IC design enablement",
+      "category": "MECHANICAL",
+      "date": "2026-09-24T11:56:58+00:00",
+      "url": "https://www.engineering.com/siemens-and-tsmc-expand-ai-and-3d-ic-design-enablement/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Chalkline expands manufacturer participation in VisiSpecs",
+      "category": "MECHANICAL",
+      "date": "2026-09-24T11:42:51+00:00",
+      "url": "https://www.engineering.com/chalkline-expands-manufacturer-participation-in-visispecs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Cognex launches In-Sight 1750 wafer identification system",
       "category": "MECHANICAL",
       "date": "2026-09-24T11:07:02+00:00",
@@ -31,6 +71,14 @@
       "date": "2026-09-24T10:13:16+00:00",
       "url": "https://www.engineering.com/shining-3d-launches-freescan-trak-nova-3d-scanner/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Scaling DERs for reliability and resilience | Factor This Policycast",
+      "category": "RENEWABLE",
+      "date": "2026-09-24T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/distribution/scaling-ders-for-reliability-and-resilience-factor-this-policycast/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -49954,5 +50002,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-24T11:16:33.928286+00:00"
+  "last_updated_utc": "2026-09-24T16:40:27.944612+00:00"
 }

@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Siemens and TSMC expand AI and 3D IC design enablement",
+      "category": "MECHANICAL",
+      "date": "2026-09-24T11:56:58+00:00",
+      "url": "https://www.engineering.com/siemens-and-tsmc-expand-ai-and-3d-ic-design-enablement/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Chalkline expands manufacturer participation in VisiSpecs",
+      "category": "MECHANICAL",
+      "date": "2026-09-24T11:42:51+00:00",
+      "url": "https://www.engineering.com/chalkline-expands-manufacturer-participation-in-visispecs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Cognex launches In-Sight 1750 wafer identification system",
       "category": "MECHANICAL",
       "date": "2026-09-24T11:07:02+00:00",
@@ -13370,5 +13386,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-24T11:16:33.928286+00:00"
+  "last_updated_utc": "2026-09-24T16:40:27.944612+00:00"
 }
