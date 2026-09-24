@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Submit your nomination for Top Workplaces for Engineers 2027",
+      "category": "MECHANICAL",
+      "date": "2026-09-24T16:46:25+00:00",
+      "url": "https://www.engineering.com/submit-your-nomination-for-top-workplaces-for-engineers-2027/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Siemens and TSMC expand AI and 3D IC design enablement",
       "category": "MECHANICAL",
       "date": "2026-09-24T11:56:58+00:00",
@@ -13386,5 +13394,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-24T16:40:27.944612+00:00"
+  "last_updated_utc": "2026-09-24T21:15:35.983809+00:00"
 }

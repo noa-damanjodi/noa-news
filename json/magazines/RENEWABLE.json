@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Energy Department will spend $2 billion to squeeze more electricity from the aging power grid",
+      "category": "RENEWABLE",
+      "date": "2026-09-24T17:34:34+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/energy-department-will-spend-2-billion-to-squeeze-more-electricity-from-the-aging-power-grid/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "How can utilities best approach wildfire risk in the Northeast?",
+      "category": "RENEWABLE",
+      "date": "2026-09-24T17:20:51+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/how-can-utilities-best-approach-wildfire-risk-in-the-northeast/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Scaling DERs for reliability and resilience | Factor This Policycast",
       "category": "RENEWABLE",
       "date": "2026-09-24T10:00:00+00:00",
@@ -3802,5 +3818,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-24T16:40:27.944612+00:00"
+  "last_updated_utc": "2026-09-24T21:15:35.983809+00:00"
 }
