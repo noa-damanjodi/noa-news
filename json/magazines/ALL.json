@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Flux adds AI tools for 3D-printable PCB enclosures",
+      "category": "MECHANICAL",
+      "date": "2026-09-25T15:14:47+00:00",
+      "url": "https://www.engineering.com/flux-adds-ai-tools-for-3d-printable-pcb-enclosures/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bluebeam expands academic access to AI-assisted AEC tools",
+      "category": "MECHANICAL",
+      "date": "2026-09-25T14:47:56+00:00",
+      "url": "https://www.engineering.com/bluebeam-expands-academic-access-to-ai-assisted-aec-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Court vacates EPA ban on most uses of methylene chloride",
+      "category": "SAFETY",
+      "date": "2026-09-25T14:47:31+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/court-vacates-epa-ban-on-most-uses-of-methylene-chloride/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Lawmakers push for air quality and ventilation fixes in federal buildings",
+      "category": "SAFETY",
+      "date": "2026-09-25T13:05:26+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/lawmakers-push-for-air-quality-and-ventilation-fixes-in-federal-buildings/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "MathWorks introduces MATLAB and Simulink Release 2026b",
+      "category": "MECHANICAL",
+      "date": "2026-09-25T12:20:55+00:00",
+      "url": "https://www.engineering.com/mathworks-introduces-matlab-and-simulink-release-2026b/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Velo3D appoints technology and operations leaders",
+      "category": "MECHANICAL",
+      "date": "2026-09-25T11:33:21+00:00",
+      "url": "https://www.engineering.com/velo3d-appoints-technology-and-operations-leaders/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Teledyne and NASA advance hydrogen fuel cell technology",
+      "category": "MECHANICAL",
+      "date": "2026-09-25T11:20:34+00:00",
+      "url": "https://www.engineering.com/teledyne-and-nasa-advance-hydrogen-fuel-cell-technology/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "SYSTRA and Dassault Systèmes collaborate on rail virtual twins",
       "category": "MECHANICAL",
       "date": "2026-09-25T10:54:22+00:00",
@@ -15,6 +71,14 @@
       "date": "2026-09-25T10:00:19+00:00",
       "url": "https://www.engineering.com/leopard-imaging-and-lumotive-launch-sirius-max-3d-lidar/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "OceanaGold reveals assay results from Wharekirauponga drilling",
+      "category": "INDUSTRY",
+      "date": "2026-09-25T09:58:49+00:00",
+      "url": "https://www.mining-technology.com/news/oceanagold-assay-results-wharekirauponga-drilling/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -50082,5 +50146,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-25T11:21:53.829419+00:00"
+  "last_updated_utc": "2026-09-25T16:45:39.115080+00:00"
 }
