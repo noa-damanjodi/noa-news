@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "The speed paradox in 3D printing",
+      "category": "MECHANICAL",
+      "date": "2026-09-28T21:54:53+00:00",
+      "url": "https://www.engineering.com/the-speed-paradox-in-3d-printing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Modernizing grid strategy across New England with Damir Novosel and Chris Root",
+      "category": "RENEWABLE",
+      "date": "2026-09-28T20:13:54+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/modernizing-grid-strategy-across-new-england-with-damir-novosel-and-chris-root/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Turning industrial data into competitive results",
+      "category": "MECHANICAL",
+      "date": "2026-09-28T20:07:41+00:00",
+      "url": "https://www.engineering.com/turning-industrial-data-into-competitive-results/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Fleet safety software",
+      "category": "SAFETY",
+      "date": "2026-09-28T20:03:09+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fleet-safety-software/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Moldova to impose 60-day energy and water emergency due to drought and rising costs",
+      "category": "RENEWABLE",
+      "date": "2026-09-28T20:00:38+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/moldova-to-impose-60-day-energy-and-water-emergency-due-to-drought-and-rising-costs/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Injuries and illnesses cost U.S. employers $58.7 billion in 2023, insurer’s index shows",
+      "category": "SAFETY",
+      "date": "2026-09-28T17:53:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/injuries-and-illnesses-cost-u-s-employers-58-7-billion-in-2023-insurers-index-shows/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Retrofits, relicensing, and more: new report shows ‘steady growth’ in US hydro sector",
+      "category": "RENEWABLE",
+      "date": "2026-09-28T17:25:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/retrofits-relicensing-and-more-new-report-shows-steady-growth-in-us-hydro-sector/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "California moves closer to banning work involving countertops containing silica",
+      "category": "SAFETY",
+      "date": "2026-09-28T17:00:10+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/california-moves-closer-to-banning-work-involving-countertops-containing-silica/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ISEA to outline latest revisions to head protection standard during Sept. 30 webinar",
+      "category": "SAFETY",
+      "date": "2026-09-28T16:31:24+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/isea-to-outline-latest-revisions-to-head-protection-standard-during-sept-30-webinar/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Synopsys introduces AgentEngineer solutions for engineering",
+      "category": "MECHANICAL",
+      "date": "2026-09-28T14:37:39+00:00",
+      "url": "https://www.engineering.com/synopsys-introduces-agentengineer-solutions-for-engineering/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "NVIDIA introduces platform for managing AI agent security",
       "category": "MECHANICAL",
       "date": "2026-09-28T12:04:16+00:00",
@@ -50370,5 +50450,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-28T13:09:50.436968+00:00"
+  "last_updated_utc": "2026-09-28T23:00:20.046301+00:00"
 }
