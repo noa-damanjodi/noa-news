@@ -2,6 +2,190 @@
   "category": "ALL",
   "items": [
     {
+      "title": "NVIDIA introduces platform for managing AI agent security",
+      "category": "MECHANICAL",
+      "date": "2026-09-28T12:04:16+00:00",
+      "url": "https://www.engineering.com/nvidia-introduces-platform-for-managing-ai-agent-security/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Creality launches standalone Sermoon P1S 3D scanner",
+      "category": "MECHANICAL",
+      "date": "2026-09-28T11:50:30+00:00",
+      "url": "https://www.engineering.com/creality-launches-standalone-sermoon-p1s-3d-scanner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ABB introduces Infinitus DC portfolio for AI data centers",
+      "category": "MECHANICAL",
+      "date": "2026-09-28T11:20:33+00:00",
+      "url": "https://www.engineering.com/abb-introduces-infinitus-dc-portfolio-for-ai-data-centers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SHINING 3D introduces wireless scanner for industrial inspection",
+      "category": "MECHANICAL",
+      "date": "2026-09-28T11:14:40+00:00",
+      "url": "https://www.engineering.com/shining-3d-introduces-wireless-scanner-for-industrial-inspection/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Boxlight expands STEM partnership with Louisiana school district",
+      "category": "MECHANICAL",
+      "date": "2026-09-28T10:34:54+00:00",
+      "url": "https://www.engineering.com/boxlight-expands-stem-partnership-with-louisiana-school-district/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Drill programme begins at Sirios’ Aquilon gold project",
+      "category": "INDUSTRY",
+      "date": "2026-09-28T10:25:38+00:00",
+      "url": "https://www.mining-technology.com/news/drill-begins-sirios-aquilon-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ACCM expands US capacity for Celeritas dielectric materials",
+      "category": "MECHANICAL",
+      "date": "2026-09-28T10:25:17+00:00",
+      "url": "https://www.engineering.com/accm-expands-us-capacity-for-celeritas-dielectric-materials/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Semtech LoRa Plus LR2021 wins 2026 EDGE Award",
+      "category": "MECHANICAL",
+      "date": "2026-09-28T10:16:58+00:00",
+      "url": "https://www.engineering.com/semtech-lora-plus-lr2021-wins-2026-edge-award/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "GeoComm and SCENA partner to expand indoor mapping",
+      "category": "MECHANICAL",
+      "date": "2026-09-28T10:04:12+00:00",
+      "url": "https://www.engineering.com/geocomm-and-scena-partner-to-expand-indoor-mapping/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ACL Digital receives TSMC award for design services",
+      "category": "MECHANICAL",
+      "date": "2026-09-28T09:57:30+00:00",
+      "url": "https://www.engineering.com/acl-digital-receives-tsmc-award-for-design-services/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "A bipartisan SPARK for the grid | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-09-28T09:55:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/a-bipartisan-spark-for-the-grid-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Montage Gold delivers first gold pour at Koné mine",
+      "category": "INDUSTRY",
+      "date": "2026-09-28T08:21:13+00:00",
+      "url": "https://www.mining-technology.com/news/montage-gold-first-gold-pour-kone/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Barrick signs new agreement with unions at Mali gold complex",
+      "category": "INDUSTRY",
+      "date": "2026-09-28T08:15:00+00:00",
+      "url": "https://www.mining-technology.com/news/barrick-agreement-unions-mali-gold-complex/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Myths and misconceptions about proper PPE use",
+      "category": "SAFETY",
+      "date": "2026-09-28T08:01:10+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/myths-and-misconceptions-about-proper-ppe-use/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Take-home toxins",
+      "category": "SAFETY",
+      "date": "2026-09-28T08:00:55+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/take-home-toxins/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Help prevent workplace bullying",
+      "category": "SAFETY",
+      "date": "2026-09-28T08:00:16+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/help-prevent-workplace-bullying/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Effective automated alerts",
+      "category": "SAFETY",
+      "date": "2026-09-28T07:00:45+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/effective-automated-alerts/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Managing hazard communication",
+      "category": "SAFETY",
+      "date": "2026-09-28T07:00:18+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/managing-hazard-communication/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Debunking a dangerous myth",
+      "category": "SAFETY",
+      "date": "2026-09-28T07:00:00+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/debunking-a-dangerous-myth/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hazard Communication compliance",
+      "category": "SAFETY",
+      "date": "2026-09-28T06:59:59+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/hazard-communication-compliance/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Hi-vis arc-rated protection clothing",
+      "category": "SAFETY",
+      "date": "2026-09-28T06:59:55+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/hi-vis-arc-rated-protection-clothing/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Safety in high-risk environments",
+      "category": "SAFETY",
+      "date": "2026-09-28T06:59:55+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safety-in-high-risk-environments/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Closing the contractor readiness gap",
+      "category": "SAFETY",
+      "date": "2026-09-28T06:59:25+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/closing-the-contractor-readiness-gap/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Wildfire detection from space? XPRIZE competition awards promising emerging resilience tech",
       "category": "RENEWABLE",
       "date": "2026-09-25T19:56:14+00:00",
@@ -50186,5 +50370,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-28T04:12:28.814912+00:00"
+  "last_updated_utc": "2026-09-28T13:09:50.436968+00:00"
 }

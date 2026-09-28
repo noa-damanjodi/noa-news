@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Drill programme begins at Sirios’ Aquilon gold project",
+      "category": "INDUSTRY",
+      "date": "2026-09-28T10:25:38+00:00",
+      "url": "https://www.mining-technology.com/news/drill-begins-sirios-aquilon-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Montage Gold delivers first gold pour at Koné mine",
+      "category": "INDUSTRY",
+      "date": "2026-09-28T08:21:13+00:00",
+      "url": "https://www.mining-technology.com/news/montage-gold-first-gold-pour-kone/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Barrick signs new agreement with unions at Mali gold complex",
+      "category": "INDUSTRY",
+      "date": "2026-09-28T08:15:00+00:00",
+      "url": "https://www.mining-technology.com/news/barrick-agreement-unions-mali-gold-complex/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Americas Uranium finalises 100% acquisition of Treeline project in US",
       "category": "INDUSTRY",
       "date": "2026-09-25T14:28:51+00:00",
@@ -8922,5 +8946,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-28T04:12:28.814912+00:00"
+  "last_updated_utc": "2026-09-28T13:09:50.436968+00:00"
 }
