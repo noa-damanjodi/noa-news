@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Fortescue produces first hot metal at Christmas Creek project",
+      "category": "INDUSTRY",
+      "date": "2026-09-29T12:18:36+00:00",
+      "url": "https://www.mining-technology.com/news/fortescue-first-hot-metal-christmas-creek/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "SHINING 3D launches platform for managing 3D assets",
+      "category": "MECHANICAL",
+      "date": "2026-09-29T12:07:01+00:00",
+      "url": "https://www.engineering.com/shining-3d-launches-platform-for-managing-3d-assets/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Troilus secures $850m credit-approved debt commitments",
+      "category": "INDUSTRY",
+      "date": "2026-09-29T12:06:34+00:00",
+      "url": "https://www.mining-technology.com/news/troilus-850m-credit-approved-debt-commitments/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD to acquire World Labs in $8.2 billion deal",
+      "category": "MECHANICAL",
+      "date": "2026-09-29T11:25:07+00:00",
+      "url": "https://www.engineering.com/amd-to-acquire-world-labs-in-8-2-billion-deal/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Makera Carvera Air brings CNC machining to small businesses",
+      "category": "MECHANICAL",
+      "date": "2026-09-29T11:19:59+00:00",
+      "url": "https://www.engineering.com/makera-carvera-air-brings-cnc-machining-to-small-businesses/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MagPro launches 1.85 MW air-cooled chiller for AI data centers",
+      "category": "MECHANICAL",
+      "date": "2026-09-29T10:44:27+00:00",
+      "url": "https://www.engineering.com/magpro-launches-1-85-mw-air-cooled-chiller-for-ai-data-centers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Submer Group launches modular AI data center company Corenix",
+      "category": "MECHANICAL",
+      "date": "2026-09-29T10:33:24+00:00",
+      "url": "https://www.engineering.com/submer-group-launches-modular-ai-data-center-company-corenix/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mesabi plans $18bn investment to combine iron ore mine and steel complex",
+      "category": "INDUSTRY",
+      "date": "2026-09-29T10:30:16+00:00",
+      "url": "https://www.mining-technology.com/news/mesabi-18bn-investment-iron-mine-steel-complex/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Electric unveils power solutions for AI data centers",
+      "category": "MECHANICAL",
+      "date": "2026-09-29T10:22:02+00:00",
+      "url": "https://www.engineering.com/schneider-electric-unveils-power-solutions-for-ai-data-centers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Metals Exploration completes $27m La India loan withdrawal",
+      "category": "INDUSTRY",
+      "date": "2026-09-29T07:20:56+00:00",
+      "url": "https://www.mining-technology.com/news/metals-exploration-la-india-loan-withdraw/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "GEL to build $57m lithium extraction facility in Cornwall",
+      "category": "INDUSTRY",
+      "date": "2026-09-29T07:11:01+00:00",
+      "url": "https://www.mining-technology.com/news/gel-lithium-extraction-facility-cornwall/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "The speed paradox in 3D printing",
       "category": "MECHANICAL",
       "date": "2026-09-28T21:54:53+00:00",
@@ -103,6 +191,22 @@
       "date": "2026-09-28T14:37:39+00:00",
       "url": "https://www.engineering.com/synopsys-introduces-agentengineer-solutions-for-engineering/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "LBMA grants full membership to the Pure Gold Company",
+      "category": "INDUSTRY",
+      "date": "2026-09-28T13:00:04+00:00",
+      "url": "https://www.mining-technology.com/news/lbma-full-membership-pure-gold-company/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Northern Star turns down Gold Fields’ $27.2bn takeover proposal",
+      "category": "INDUSTRY",
+      "date": "2026-09-28T12:54:47+00:00",
+      "url": "https://www.mining-technology.com/news/northern-star-gold-fields-27-2bn-takeover/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -50474,5 +50578,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-29T04:44:27.633352+00:00"
+  "last_updated_utc": "2026-09-29T12:18:50.769329+00:00"
 }
