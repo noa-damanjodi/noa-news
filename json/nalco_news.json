@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-28T19:04:45.225202Z",
+  "updated_at": "2026-09-29T00:06:03.179669Z",
   "count": 100,
   "items": [
+    {
+      "source": "Google News",
+      "title": "NALCO Pays Record Rs 1,083 Cr Dividend to Govt - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaEpRZ3k4bVBCUHBFanlRT1BiMG1UUzQwTW5wNGpicm5jaDA2ZWdCQVBzZ0lRMmNDMXk4c3RQbzRhUldtNjAyUTdTY2dHeGF6N05IRUc0cjk1RlpRQ3RlbDlncUV4RjRFRlhVc3JSbWtuUzhvdEM2cFMtZFpybmQ1VDVDem0wSEFDRzlpWVFJeDR1Y3lCNUhOY3JMcXVBQ1dWR1c0ZdIBpAFBVV95cUxNaEpRZ3k4bVBCUHBFanlRT1BiMG1UUzQwTW5wNGpicm5jaDA2ZWdCQVBzZ0lRMmNDMXk4c3RQbzRhUldtNjAyUTdTY2dHeGF6N05IRUc0cjk1RlpRQ3RlbDlncUV4RjRFRlhVc3JSbWtuUzhvdEM2cFMtZFpybmQ1VDVDem0wSEFDRzlpWVFJeDR1Y3lCNUhOY3JMcXVBQ1dWR1c0ZQ?oc=5",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T16:08:18+00:00",
+      "summary": "NALCO Pays Record Rs 1,083 Cr Dividend to Govt&nbsp;&nbsp;Rediff MoneyWiz"
+    },
     {
       "source": "Google News",
       "title": "NALCO pays record ₹1,083 crore dividend to Government of India - scanx.trade",
@@ -9,6 +17,14 @@
       "date": "2026-09-28",
       "timestamp": "2026-09-28T15:40:34+00:00",
       "summary": "NALCO pays record ₹1,083 crore dividend to Government of India&nbsp;&nbsp;scanx.trade"
+    },
+    {
+      "source": "Google News",
+      "title": "NALCO pays record Rs 1,083.06 crore dividend to Govt - PSU Watch",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOHlvWXMzVWN1Vk5qaWJQcFZDYVc4b1c3VTZpUDBrTmItM0xkZXJNX1BUbnp4RWZDR3VZTkEzRUJHcUFSelpXVWF6OVdCZ1hkWURsOTh6RXdpS1hmeE5EekdVNDlka2ViN2NIV01pVEduV3R0WXpualdvNm5PZTJPbWxVSTNFdmFlQ0pV0gGYAUFVX3lxTFB1UEU1dTZ4dkVlUjhiWWpUVXRlVzRxd05Fd1R2WnROdU1hYklvN0Y1RmJhTFlNRG1BLVBFcTcxOE5QdkIxS2Vvc1lMSE1FLXFkZUszMGVVN0FkdlZFNDdLOU9sbWxNNmNfcjhMa1RDLUo5VVV5cUYxakNXc2M3bHZZQTlZZFQ2N3FWa1hQQllpZjBGakp3VVZM?oc=5",
+      "date": "2026-09-28",
+      "timestamp": "2026-09-28T15:20:05+00:00",
+      "summary": "NALCO pays record Rs 1,083.06 crore dividend to Govt&nbsp;&nbsp;PSU Watch"
     },
     {
       "source": "Google News",
@@ -28,11 +44,19 @@
     },
     {
       "source": "Google News",
-      "title": "Nalco, Vedanta Aluminium, To Hindalco: Metal Stocks Crash Continues! Brokerage Says 'Sell Aluminium Names' - goodreturns.in",
+      "title": "NLC India Limited Signs MoU with NALCO for Thermal and Renewable Energy Collaboration - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWkFKelU4Z1czNUVJSmMxTnppTXc3RXkwVFJYYVVXZHlzeGtnd2thcmV4aElvWjFSVEQyZDEyaV9qczBFRV9EOGxEczdlYnZrSXVrbTVEcm1VUHF3S3FGZFBsYm96LXFqN1JJandDX05hMm45MEJVejA2a2RJMnlrbU9EbVE5dWNYRnlBX1NiVkNPQm4xSElxVUlvdkxSSUxYb25NaF9jNWE5RnlBcnFjdGs5T3ptQ0dzSmxrellrSG1wT1NDQ3NNWnB1bUZTY3IxYXd0UDV3?oc=5",
+      "date": "2026-09-27",
+      "timestamp": "2026-09-27T17:39:46+00:00",
+      "summary": "NLC India Limited Signs MoU with NALCO for Thermal and Renewable Energy Collaboration&nbsp;&nbsp;scanx.trade"
+    },
+    {
+      "source": "Google News",
+      "title": "Nalco, Vedanta Aluminium, To Hindalco: Metal Stocks Crash Continues! Brokerage Says 'Sell Aluminium Names' - Goodreturns",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc2pPcHFPLUNWajFDaTVLc1dNaW9DbFZLSVdYelUzbm1wWFJEVlk5c2tuS2R3SDAzTzNwMnhyMmdDck84b3hPZzludDh0Ymk4aFBndENRVW53T0t3MlNDRmpPU1RYaDRrUHVMRXVKWC0tQmxRZ0E0VHFLUEZfSjZGLU10aWQ0dEJKZ1ZNanpWOENYb2NxRnNRLUZxMlRJTy1WSWJLc3djNUlzZm5xSkhKOHhJRDV6ek9pVUpSQlNBSklYQS00alBFMF92aw?oc=5",
       "date": "2026-09-27",
       "timestamp": "2026-09-27T11:40:03+00:00",
-      "summary": "Nalco, Vedanta Aluminium, To Hindalco: Metal Stocks Crash Continues! Brokerage Says 'Sell Aluminium Names'&nbsp;&nbsp;goodreturns.in"
+      "summary": "Nalco, Vedanta Aluminium, To Hindalco: Metal Stocks Crash Continues! Brokerage Says 'Sell Aluminium Names'&nbsp;&nbsp;Goodreturns"
     },
     {
       "source": "Google News",
@@ -97,14 +121,6 @@
       "date": "2026-09-08",
       "timestamp": "2026-09-08T07:00:00+00:00",
       "summary": "NALCO shares investor presentation ahead of September 16 analyst meet&nbsp;&nbsp;scanx.trade"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO inks EGA technology deal for 0.5 MTPA Odisha smelter expansion - millenniumpost.in",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYU04RUhJRnNtZUtBZ2FxYV9tMEtUSldlZnozYzVmSnBLYUZhSDl5Y3dTdXBIQjgtRTFLMWliSHdxcDZqOV9ndHpnT0tHcV82NGVELXpyWkhRMGswVnFTeDFJaFdTcHZNck1teXJ2OUNwNC1BaVBJWUItQzhtdy1UcTVXRFBmMFdnQ3g3UmhzLUNNdUM5aXo5amRvX0RwdFVTNHVWSmt2Z2FKTWVNT1ZwX0M4TdIBuAFBVV95cUxPbWlHb0tDc2d0WGgzcGxxeG1GX0xyU1pJVkRWOFVVUFJUZUp4T1BlUjdfUHU3VFJ0MG8yVlVyX2hNWnBQXzF6ejlKNnRFdnNEaGpDNjc3WVREYlRaSF9RNmNhakFBZzQ1bVBlVFJkdUNndmlwZGM4UGtWeHIwNEpQS0ltZ1RwRHgtTy1WOUNPVWVmVjRUOGdvX3czc0hVcFRXeUxjMHRMR1pFUmpyd0tCM1hZR2lWNlQ0?oc=5",
-      "date": "2026-09-07",
-      "timestamp": "2026-09-07T20:28:51+00:00",
-      "summary": "NALCO inks EGA technology deal for 0.5 MTPA Odisha smelter expansion&nbsp;&nbsp;millenniumpost.in"
     },
     {
       "source": "Google News",
@@ -196,11 +212,11 @@
     },
     {
       "source": "Google News",
-      "title": "India’s National Aluminium Company (NALCO) has inaugurated a 50 kg/day - news.metal.com",
+      "title": "India’s National Aluminium Company (NALCO) has inaugurated a 50 kg/day - Shanghai Metals Market",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYjJNNUozaGstSlc0ZVh2bzFHWHFfRzd6a2lZOFZoUVZYZ21Mbmc5dlAxRGlrNVZGTnpWMGw0TVA3Ylk4VENCTlV5d2k4N3BWd1EtX1VYT2ZiSTZTcWhXNGV2cmlYaXFnZDJJUGdNblVzVDlFb0Iya3BjNUxWalNqc0pjNEdzWF9EWkYzd29SY2lxQ2FTM1lEbmVhQmpNMHBMRFRLNkNHdEhQU3UyUE9XdWdBMF9NbzNqLVo2aERiajhCdnJRSmNuRkpVZzZqVVE3Zjl0bFZQbzllaU1yUEE?oc=5",
       "date": "2026-08-24",
       "timestamp": "2026-08-24T07:00:00+00:00",
-      "summary": "India’s National Aluminium Company (NALCO) has inaugurated a 50 kg/day&nbsp;&nbsp;news.metal.com"
+      "summary": "India’s National Aluminium Company (NALCO) has inaugurated a 50 kg/day&nbsp;&nbsp;Shanghai Metals Market"
     },
     {
       "source": "Google News",
@@ -292,11 +308,19 @@
     },
     {
       "source": "Google News",
-      "title": "Navratna PSU Metal Stock NALCO Is Rs 27 Awat From New Highs; Should You Buy? Rs 1/Dividend Record Date Ahead - goodreturns.in",
+      "title": "Navratna PSU Metal Stock NALCO Is Rs 27 Awat From New Highs; Should You Buy? Rs 1/Dividend Record Date Ahead - Goodreturns",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTjF6RUtfMi1yTE1GSWhnSS0wVjRJWWZycDQ2OS0wa0ttZno4TVZzT2dBQ2xacGVKa29Xc0ROOVJYaHRrdjNuT09DX0dvRi1PZWZUYmp6V0ZhZUdHaUxUX2xXaFo3bEkweHFhUVpyeGNjVm5HS0RmWnBPYW4wVGJrdl9sRlpqc0RBUlFmRXVucXY2ZFhNRmpfUWJKY1lQV2YtUm85Qnc1c2hGNm1lNkFLWG9DdTJyeFZDX3lOa3lNNzYtMDRsYWhLRkFObTVjaEd6M0hiRTlraXNWWGNzU2c?oc=5",
       "date": "2026-08-12",
       "timestamp": "2026-08-12T07:00:00+00:00",
-      "summary": "Navratna PSU Metal Stock NALCO Is Rs 27 Awat From New Highs; Should You Buy? Rs 1/Dividend Record Date Ahead&nbsp;&nbsp;goodreturns.in"
+      "summary": "Navratna PSU Metal Stock NALCO Is Rs 27 Awat From New Highs; Should You Buy? Rs 1/Dividend Record Date Ahead&nbsp;&nbsp;Goodreturns"
+    },
+    {
+      "source": "Google News",
+      "title": "News by CNBC TV18 on TradingView, 2026-08-12 — cnbctv:81cb7d882094b:0 - tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qNXVWbEY1bXdLdGt1YzVZVDNGVXZwc0dmbkg5a054Rzc2dDU3cGZqWm1zS2ZqeF8tMk5kQlN5QzZkZmFpVlZiaFNsczk5S2dxZzhPamNmX1hDbVBrM1U1bm9mcmZFN1U?oc=5",
+      "date": "2026-08-11",
+      "timestamp": "2026-08-11T07:00:00+00:00",
+      "summary": "News by CNBC TV18 on TradingView, 2026-08-12 — cnbctv:81cb7d882094b:0&nbsp;&nbsp;tradingview.com"
     },
     {
       "source": "Google News",
@@ -476,14 +500,6 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO Non-Executive Admit Card 2026 Released at nalcoindia.com; CBT on July 27 - Telegraph India",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOTIxSjZiRV9WMlpQNjJmc3d5TlU5b0dMQzBGMlMzenFxMG5DUktUQzIzR1FpRWhicjZUOXJCTDRKNXpMT0ZsUzlaTmlwT1NxQk1LN1VKWjN5YmlodFk1WHFaUi1zdW03U041eUk1NTBienMxSG9iVlhOTFhvc2xGNk9KUkJ0QWpqSkYxYWVTUElqd0dfdGRycXI2UW1hX3ZMcmIyMjFEaUFEdnNGbFU4M1Z6SWlRMnpzOE9VcdIBwgFBVV95cUxNRUdvaTVmQzlrblVwenozTlpwOEtQNkVkWmQ4TDFlVmE4alBTRldYYnNpQzc0TkdSaWZUZ19EaER3a25xTVliQzNpdU9GbUp4d2U0RGcxWTlBOTBEbVpRYmp5eEZDY2lsUURIbjktVDNVZnd3NjlrQ1F2alhERm1mcmRUVnpmSnJPaHJWOVNUa1h3YzlZcUxQVDc3cC0wMHgtVlRKMjFnMVhIU05tUEZnMXZGZFFpTDd0TmtoaEczWHpkQQ?oc=5",
-      "date": "2026-07-16",
-      "timestamp": "2026-07-16T07:00:00+00:00",
-      "summary": "NALCO Non-Executive Admit Card 2026 Released at nalcoindia.com; CBT on July 27&nbsp;&nbsp;Telegraph India"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO, NLC India Form Joint Venture for 1,080 MW Captive Power Project - Machine Maker",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcElZekJqYWhCdl82eENnSW04RUI3QXlheVYzbjR0ZlpYbVlBbzRJUEp1UGc1dGkxS2ticUFFSkRhWWNkeXNmb1ZVUnNLZl9Xd0xTb0dadzAyWUJuQmFQZ3Y2UEdvR0hTUWNxQlZrUFRPck9oQlpmc3RxZlotV2ZPWGY0MG95OVg1Rlo4M1dhbWhxa09LaXhISDE2UG9RUURldXhERw?oc=5",
       "date": "2026-07-13",
@@ -524,14 +540,6 @@
     },
     {
       "source": "Google News",
-      "title": "NLC India shares gain on JV with NALCO to develop 1,080 MW captive power plant - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVHh2Z0ZvWmE0bktnUDdyd0dVckJTSHcySTZqWDBISXltbmlhQkN5TGVSOF9VdjZud25vQ0Z2cDh3TDNocFNnLVlKQU43RzVRekhOV1RLUmRpY0hlNUhmcVZxYXJxajNCUVFEdFJwdThzUnM5UjJLZ19tczVKa0dCb2JDNkcwOVBtLWticEthZWN2LUJzM05ZYk83SkFvbHNTS3lEcktkd1ZhWXpBZHNISUZRZE5wMW9DZHg3SEdXRVJ3czJ4OEhha3lkUmEyVjVlS3AtOE9wLXZyd9IB3wFBVV95cUxNVFIyZ001SEtRUm51bFcySmZKU01iblJYM0Z5d3hlbS0yZEwtZVNkY3RPNE5KS1ZEQWg3Y3hZbGcyaV9FMm81MTA5SzFTZDExRWhEWGRNeVI4QUl2Q0VaUVhuajh5ZTJGZVZUTUVYbkp4UHVRM0xQSG1zUkxaYXo0RlV3MmRkdmdERXpmRElzNjRmMko1Ny1KNE9DTjREZzdfWFpnRlozN3JYc1dGRlV2ZnBtYktncXQ3R0V6d19nUzRWMjh5WGlybWlQN2ExRUQ5V3JHY2JYbE4yc3Z2Wjk0?oc=5",
-      "date": "2026-07-09",
-      "timestamp": "2026-07-09T07:00:00+00:00",
-      "summary": "NLC India shares gain on JV with NALCO to develop 1,080 MW captive power plant&nbsp;&nbsp;Moneycontrol.com"
-    },
-    {
-      "source": "Google News",
       "title": "NALCO, NLC India sign JV pact to develop 1,080 MW captive thermal power plant in Odisha - CNBC TV18",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQXzR5QzltS0ZmRlR1N1h1bFNlV2l1d1RBWndBX04zbG9jeVp2b1RoaVNPdEdxS1psbGdVLU96SE4tOTA5S0hVM1VhRy1ueXVmUWJuMks2YmMtLUJRRXpodVRXRzlKalNHb1Rheng0QXM5ckVlQjYxQlNGQWZLZVJHMzdUd1h0LUxLVnkxM3h4bFFWR0dZRUN0NGI2S3R5V0owc3JrQjRKSzNhRXU0TXQzY1BiczJZZElMN2FwaFNTWUQyN2pWaGo1blpobDFsdTREZ0U0VGk4VkFLNU5sUy1aLXlnUENpU0tOaTZwUFh1aWJ3Z1nSAfgBQVVfeXFMTkE0N1AwNVN5T0lnOE8xSFMxLUFId3RmTHNIcWxVd1c5eWJ1OGR6MFpaaVBOUWlQMkJ6OVd6dWQwMXRMR2ZUX1pEM0h1dEhQVF93YkFwODdvRmRWNGU3RkswVmpBTWVYY0pkTkE2WVJyaURXNi1TY3FRdlB1VjE5R2xYcWNNOFhWSy1WRU4zUlN5cEFIS3BhZmZQRWpvZ1ZSbzkwZ1VaWl9kNjFVbm5IYkpxY2htSVJ6QWFmLWpIbmtLV0owU3lQc0pmWFJpMVNCNEhxVndNU29XeE84SV9SdzFoUkJXZ2Z5NU8zamxGODBZdGhpU0QxelM?oc=5",
       "date": "2026-07-08",
@@ -545,14 +553,6 @@
       "date": "2026-07-08",
       "timestamp": "2026-07-08T07:00:00+00:00",
       "summary": "Nalco, NLCIL sign JV pact to set up 1,080 MW captive power plant in Odisha&nbsp;&nbsp;The Economic Times"
-    },
-    {
-      "source": "Google News",
-      "title": "NALCO, NLC India Form 50:50 Joint Venture To Develop 1,080 MW Captive Thermal Power Plant In Odisha - swarajyamag.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMFpvQ2hVUWFtM1BaWjlkQjV6LWdZNlRTM05veGhYT1BoOHlWLWIzc1VHMUtpOFRFcmpjQUhkaFRialdKYnV5STFYVUUwY1Q1MzRFdW5wUWdFN2hvZjc5ZHVLMGsxeUNLRWRTWUdoeTU3RVc3eTRnQWtxcWxoR0RieGI4d1VmME5fa0V4SENURE1RNzBJeDg0QXNVSDQyczRkWFhtUjNDOV8xdXZLcXdDNlptTXE5b21SQndYLW5JdXUwXzJreEptVnpac9IB2wFBVV95cUxPSmRmbjNpQUU3TzBnSTdhV3lxTGtLYlJIYnRjVENmMmUxS3l2dldsajgxTmV4STh2VURLM01vX2xUUkJkZjJUem5ZeXhIWXU4azQzR0xSQjgxZEFvSzJmXzNBYlFMZVoySVphNXc4SXFFcVhNeHBiUWNPbk5TX1RFT1JLd3ZhTVd0Q19mRjdrRTdnSXBNcmFvd25xZWw0NFhGVU16Q25td00xUE1RN0F5ZW5QTF9rM1pUM1c4VWtTQm9SOHVDRHRFTmExWXJMc2lpZzJYTjRXcVRUZ1k?oc=5",
-      "date": "2026-07-08",
-      "timestamp": "2026-07-08T07:00:00+00:00",
-      "summary": "NALCO, NLC India Form 50:50 Joint Venture To Develop 1,080 MW Captive Thermal Power Plant In Odisha&nbsp;&nbsp;swarajyamag.com"
     },
     {
       "source": "Google News",
@@ -588,11 +588,11 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO to invest Rs 30,000 crore in smelter, power plant expansion - Awaz The Voice",
+      "title": "NALCO to invest Rs 30,000 crore in smelter, power plant expansion - awazthevoice.in",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTnoxVm5KaExHcmhIbjVsRTBfRFVzNWV1OXpEUGp3Q2NQTzFfaHF4QWNsa19LaXV2WUN4TDNiNUhsSVFsNkZwYmpaTm4xdjJPMGlESDUtNmwxcTIzcDlXWENPa2hXd3YxSTZ5SUg0X21WVTRoa1V1UkEwdkxoeTc1RUdkTnBoMndyT0lBLTN6YXVRU0FvOTRZak9VZkpPZDQ3Y2FWZkx3ZWV4U2VNaFA4?oc=5",
       "date": "2026-06-30",
       "timestamp": "2026-06-30T07:00:00+00:00",
-      "summary": "NALCO to invest Rs 30,000 crore in smelter, power plant expansion&nbsp;&nbsp;Awaz The Voice"
+      "summary": "NALCO to invest Rs 30,000 crore in smelter, power plant expansion&nbsp;&nbsp;awazthevoice.in"
     },
     {
       "source": "Google News",
@@ -796,11 +796,11 @@
     },
     {
       "source": "Google News",
-      "title": "NALCO achieves highest-ever quarterly revenue - Aluminium International Today",
+      "title": "NALCO achieves highest-ever quarterly revenue - aluminiumtoday.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUVo3LVJPanpncFRTMUpOWlRaaENBSm12MlQteXB5NTB4dENiR1dseHJJLVlOU0JqaUY3OGk4T1c3QU1EM0RQbXM2Zk5UVEVDeEh6cUhCLWFERW00QjJsRUVXNk8tVGpxQjFrMm10aTVibTNKN1dXRmhWYVdXNjZlaVBRNA?oc=5",
       "date": "2026-02-02",
       "timestamp": "2026-02-02T08:00:00+00:00",
-      "summary": "NALCO achieves highest-ever quarterly revenue&nbsp;&nbsp;Aluminium International Today"
+      "summary": "NALCO achieves highest-ever quarterly revenue&nbsp;&nbsp;aluminiumtoday.com"
     }
   ]
 }
