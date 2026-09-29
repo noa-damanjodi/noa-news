@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Emerson expands AVENTICS XV platform",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-28T18:27:18+00:00",
+      "url": "https://www.automationmag.com/emerson-expands-aventics-xv-platform/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "PowerCo Advances St. Thomas gigafactory with EllisDon appointment",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-28T16:27:41+00:00",
+      "url": "https://www.automationmag.com/powerco-advances-st-thomas-gigafactory-with-ellisdon-appointment/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Government of Canada invests in 10,000 AI-related work placements for young Canadians",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-28T16:01:54+00:00",
+      "url": "https://www.automationmag.com/government-of-canada-invests-in-10000-ai-related-work-placements-for-young-canadians/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "maxon introduces EC i 70 800W brushless motor",
       "category": "INSTRUMENTATION",
       "date": "2026-09-22T19:12:25+00:00",
@@ -2938,5 +2962,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-28T23:00:20.046301+00:00"
+  "last_updated_utc": "2026-09-29T04:44:27.633352+00:00"
 }
