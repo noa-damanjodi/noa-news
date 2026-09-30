@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "The new face of manufacturing?",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-29T15:40:50+00:00",
+      "url": "https://www.automationmag.com/the-new-face-of-manufacturing/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Editor’s Note: A list of certainties",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-29T15:23:42+00:00",
+      "url": "https://www.automationmag.com/editors-note-a-list-of-certainties/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Emerson expands AVENTICS XV platform",
       "category": "INSTRUMENTATION",
       "date": "2026-09-28T18:27:18+00:00",
@@ -2962,5 +2978,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-29T21:58:49.000497+00:00"
+  "last_updated_utc": "2026-09-30T04:29:29.447240+00:00"
 }
