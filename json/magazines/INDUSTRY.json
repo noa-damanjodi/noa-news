@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "CoTec, Copper Intelligence sign agreement for DRC tailings",
+      "category": "INDUSTRY",
+      "date": "2026-09-30T09:51:47+00:00",
+      "url": "https://www.mining-technology.com/news/cotec-copper-intelligence-agreement-drc-tailings/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Jaguar gains approval for La Rosada in Argentina",
+      "category": "INDUSTRY",
+      "date": "2026-09-30T07:51:07+00:00",
+      "url": "https://www.mining-technology.com/news/jaguar-approval-la-rosada-argentina/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Hertha Metals raises $133m to build iron plant in US",
+      "category": "INDUSTRY",
+      "date": "2026-09-30T07:45:28+00:00",
+      "url": "https://www.mining-technology.com/news/hertha-metals-133m-to-build-iron-plant/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Rethinking leaching tank design to improve mineral recovery",
       "category": "INDUSTRY",
       "date": "2026-09-29T12:54:34+00:00",
@@ -9010,5 +9034,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-30T04:29:29.447240+00:00"
+  "last_updated_utc": "2026-09-30T12:04:23.186647+00:00"
 }

@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Delta and NVIDIA collaborate on autonomous driving systems",
+      "category": "MECHANICAL",
+      "date": "2026-09-30T10:02:31+00:00",
+      "url": "https://www.engineering.com/delta-and-nvidia-collaborate-on-autonomous-driving-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DigiCert adds AI agent identity to NVIDIA safety platform",
+      "category": "MECHANICAL",
+      "date": "2026-09-30T09:56:53+00:00",
+      "url": "https://www.engineering.com/digicert-adds-ai-agent-identity-to-nvidia-safety-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HCLSoftware plans to acquire Robotiq.ai",
+      "category": "MECHANICAL",
+      "date": "2026-09-30T09:50:12+00:00",
+      "url": "https://www.engineering.com/hclsoftware-plans-to-acquire-robotiq-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Salute supports 20 GW of AI infrastructure capacity",
+      "category": "MECHANICAL",
+      "date": "2026-09-30T09:43:22+00:00",
+      "url": "https://www.engineering.com/salute-supports-20-gw-of-ai-infrastructure-capacity/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trane adds 250 MW cooling designs for AI factories",
+      "category": "MECHANICAL",
+      "date": "2026-09-30T08:43:25+00:00",
+      "url": "https://www.engineering.com/trane-adds-250-mw-cooling-designs-for-ai-factories/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and Voltus integrate building energy management services",
+      "category": "MECHANICAL",
+      "date": "2026-09-30T07:00:33+00:00",
+      "url": "https://www.engineering.com/siemens-and-voltus-integrate-building-energy-management-services/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "VI-grade and HBK expand Smart Prototypes Summit series",
+      "category": "MECHANICAL",
+      "date": "2026-09-30T05:16:42+00:00",
+      "url": "https://www.engineering.com/vi-grade-and-hbk-expand-smart-prototypes-summit-series/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Engineering change orders and the problem of two systems",
       "category": "MECHANICAL",
       "date": "2026-09-29T16:25:55+00:00",
@@ -13650,5 +13706,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-30T04:29:29.447240+00:00"
+  "last_updated_utc": "2026-09-30T12:04:23.186647+00:00"
 }
