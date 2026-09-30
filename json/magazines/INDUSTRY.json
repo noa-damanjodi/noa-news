@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "NSW approves HVO coal mine continuation with conditions",
+      "category": "INDUSTRY",
+      "date": "2026-09-30T13:04:26+00:00",
+      "url": "https://www.mining-technology.com/news/nsw-hvo-coal-mine-continuation-conditions/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Epiroc secures order from Sibanye-Stillwater for South African mine",
+      "category": "INDUSTRY",
+      "date": "2026-09-30T12:58:18+00:00",
+      "url": "https://www.mining-technology.com/news/epiroc-secures-order-sibanye-stillwater/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "CoTec, Copper Intelligence sign agreement for DRC tailings",
       "category": "INDUSTRY",
       "date": "2026-09-30T09:51:47+00:00",
@@ -9034,5 +9050,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-30T12:04:23.186647+00:00"
+  "last_updated_utc": "2026-09-30T21:57:28.373955+00:00"
 }

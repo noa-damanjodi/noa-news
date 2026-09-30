@@ -2,6 +2,142 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Welcome to the vibe-CAD era",
+      "category": "MECHANICAL",
+      "date": "2026-09-30T20:37:29+00:00",
+      "url": "https://www.engineering.com/welcome-to-the-vibe-cad-era/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Toyota Goes All-In on Humanoid Robots",
+      "category": "MECHANICAL",
+      "date": "2026-09-30T19:46:47+00:00",
+      "url": "https://www.engineering.com/toyota-goes-all-in-on-humanoid-robots/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NSC among charter members of OSHA’s SIF prevention alliance",
+      "category": "SAFETY",
+      "date": "2026-09-30T16:51:27+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-among-charter-members-of-oshas-sif-prevention-alliance/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "CoLab reveals broad vision for generative engineering",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-30T15:01:13+00:00",
+      "url": "https://www.automationmag.com/colab-reveals-broad-vision-for-generative-engineering/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Moticont releases LVCM-013-013-02MVAC vacuum-compatible linear servo motor",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-30T14:58:23+00:00",
+      "url": "https://www.automationmag.com/moticont-releases-lvcm-013-013-02mvac-vacuum-compatible-linear-servo-motor/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "NGen celebrates grand opening of Nunavut’s first factory",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-30T14:46:31+00:00",
+      "url": "https://www.automationmag.com/ngen-celebrates-grand-opening-of-nunavuts-first-factory/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "CFIN and INCIT sign agreement to bring global Industry 4.0 benchmarking tools to Canada",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-30T14:35:52+00:00",
+      "url": "https://www.automationmag.com/cfin-and-incit-sign-agreement-to-bring-global-industry-4-0-benchmarking-tools-to-canada/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Pepperl+Fuchs introduces new industrial-grade ruggedized tabled series",
+      "category": "INSTRUMENTATION",
+      "date": "2026-09-30T14:05:38+00:00",
+      "url": "https://www.automationmag.com/pepperlfuchs-introduces-new-industrial-grade-ruggedized-tabled-series/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Transform Your Workplace with 5S",
+      "category": "SAFETY",
+      "date": "2026-09-30T14:00:50+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/transform-your-workplace-with-5s/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens simulation supports Bluegame BGF45 yacht design",
+      "category": "MECHANICAL",
+      "date": "2026-09-30T13:30:41+00:00",
+      "url": "https://www.engineering.com/siemens-simulation-supports-bluegame-bgf45-yacht-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble announces winners of inaugural 2026 Momentum Awards",
+      "category": "MECHANICAL",
+      "date": "2026-09-30T13:09:18+00:00",
+      "url": "https://www.engineering.com/trimble-announces-winners-of-inaugural-2026-momentum-awards/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NSW approves HVO coal mine continuation with conditions",
+      "category": "INDUSTRY",
+      "date": "2026-09-30T13:04:26+00:00",
+      "url": "https://www.mining-technology.com/news/nsw-hvo-coal-mine-continuation-conditions/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Epiroc secures order from Sibanye-Stillwater for South African mine",
+      "category": "INDUSTRY",
+      "date": "2026-09-30T12:58:18+00:00",
+      "url": "https://www.mining-technology.com/news/epiroc-secures-order-sibanye-stillwater/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "A Wikipedia for the grid? New tool offers open model of US energy infrastructure",
+      "category": "RENEWABLE",
+      "date": "2026-09-30T12:57:43+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/a-wikipedia-for-the-grid-new-tool-offers-open-model-of-us-energy-infrastructure/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Competitive transmission in Texas could save ratepayers billions",
+      "category": "RENEWABLE",
+      "date": "2026-09-30T12:53:56+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/competitive-transmission-in-texas-could-save-ratepayers-billions/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "HHS announces new process for agency’s PPE purchases",
+      "category": "SAFETY",
+      "date": "2026-09-30T12:39:55+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/hhs-announces-new-process-for-agencys-ppe-purchases/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Chemical Safety Board members discuss ‘particularly deadly’ year during public meeting",
+      "category": "SAFETY",
+      "date": "2026-09-30T12:30:27+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/chemical-safety-board-members-discuss-particularly-deadly-year-during-public-meeting/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "OSHA names Prentice Cline deputy assistant secretary",
       "category": "SAFETY",
       "date": "2026-09-30T12:00:40+00:00",
@@ -50754,5 +50890,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-30T12:04:23.186647+00:00"
+  "last_updated_utc": "2026-09-30T21:57:28.373955+00:00"
 }

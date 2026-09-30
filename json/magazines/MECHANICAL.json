@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Welcome to the vibe-CAD era",
+      "category": "MECHANICAL",
+      "date": "2026-09-30T20:37:29+00:00",
+      "url": "https://www.engineering.com/welcome-to-the-vibe-cad-era/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Toyota Goes All-In on Humanoid Robots",
+      "category": "MECHANICAL",
+      "date": "2026-09-30T19:46:47+00:00",
+      "url": "https://www.engineering.com/toyota-goes-all-in-on-humanoid-robots/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens simulation supports Bluegame BGF45 yacht design",
+      "category": "MECHANICAL",
+      "date": "2026-09-30T13:30:41+00:00",
+      "url": "https://www.engineering.com/siemens-simulation-supports-bluegame-bgf45-yacht-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble announces winners of inaugural 2026 Momentum Awards",
+      "category": "MECHANICAL",
+      "date": "2026-09-30T13:09:18+00:00",
+      "url": "https://www.engineering.com/trimble-announces-winners-of-inaugural-2026-momentum-awards/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Delta and NVIDIA collaborate on autonomous driving systems",
       "category": "MECHANICAL",
       "date": "2026-09-30T10:02:31+00:00",
@@ -13706,5 +13738,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-30T12:04:23.186647+00:00"
+  "last_updated_utc": "2026-09-30T21:57:28.373955+00:00"
 }

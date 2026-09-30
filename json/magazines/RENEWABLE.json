@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "A Wikipedia for the grid? New tool offers open model of US energy infrastructure",
+      "category": "RENEWABLE",
+      "date": "2026-09-30T12:57:43+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/a-wikipedia-for-the-grid-new-tool-offers-open-model-of-us-energy-infrastructure/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Competitive transmission in Texas could save ratepayers billions",
+      "category": "RENEWABLE",
+      "date": "2026-09-30T12:53:56+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/competitive-transmission-in-texas-could-save-ratepayers-billions/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Modernizing grid strategy across New England with Damir Novosel and Chris Root",
       "category": "RENEWABLE",
       "date": "2026-09-28T20:13:54+00:00",
@@ -3874,5 +3890,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-09-30T12:04:23.186647+00:00"
+  "last_updated_utc": "2026-09-30T21:57:28.373955+00:00"
 }
