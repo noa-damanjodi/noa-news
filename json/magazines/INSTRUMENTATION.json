@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "S&P Global Canada Manufacturing PMI drops to 51.5",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-01T16:07:33+00:00",
+      "url": "https://www.automationmag.com/sp-global-canada-manufacturing-pmi-drops-to-51-5/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "CoLab reveals broad vision for generative engineering",
       "category": "INSTRUMENTATION",
       "date": "2026-09-30T15:01:13+00:00",
@@ -3018,5 +3026,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-01T12:37:23.673098+00:00"
+  "last_updated_utc": "2026-10-01T22:25:28.157430+00:00"
 }

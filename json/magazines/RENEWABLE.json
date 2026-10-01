@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "What El Niño 2026-27 could mean for utilities and the power system",
+      "category": "RENEWABLE",
+      "date": "2026-10-01T13:57:50+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/what-el-nino-2026-27-could-mean-for-utilities-and-the-power-system/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Affordability concerns are holding utilities back from investing in reliability and resilience, report finds",
+      "category": "RENEWABLE",
+      "date": "2026-10-01T12:58:08+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/affordability-concerns-are-holding-utilities-back-from-investing-in-reliability-and-resilience-report-finds/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "A Wikipedia for the grid? New tool offers open model of US energy infrastructure",
       "category": "RENEWABLE",
       "date": "2026-09-30T12:57:43+00:00",
@@ -3890,5 +3906,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-01T12:37:23.673098+00:00"
+  "last_updated_utc": "2026-10-01T22:25:28.157430+00:00"
 }

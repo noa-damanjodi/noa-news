@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Senate confirms Keith Sonderling as labor secretary",
+      "category": "SAFETY",
+      "date": "2026-10-01T16:37:14+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/senate-confirms-keith-sonderling-as-labor-secretary/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Fire spray canisters for home use recalled for rupture and failure risk",
+      "category": "SAFETY",
+      "date": "2026-10-01T16:34:31+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fire-spray-canisters-for-home-use-recalled-for-rupture-and-failure-risk/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "S&P Global Canada Manufacturing PMI drops to 51.5",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-01T16:07:33+00:00",
+      "url": "https://www.automationmag.com/sp-global-canada-manufacturing-pmi-drops-to-51-5/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "When AI recommendations become engineering decisions",
+      "category": "MECHANICAL",
+      "date": "2026-10-01T15:01:29+00:00",
+      "url": "https://www.engineering.com/when-ai-recommendations-become-engineering-decisions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Breaking the bottleneck: How Siemens moves simulation upfront",
+      "category": "MECHANICAL",
+      "date": "2026-10-01T14:22:26+00:00",
+      "url": "https://www.engineering.com/breaking-the-bottleneck-how-siemens-moves-simulation-upfront/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "What El Niño 2026-27 could mean for utilities and the power system",
+      "category": "RENEWABLE",
+      "date": "2026-10-01T13:57:50+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/what-el-nino-2026-27-could-mean-for-utilities-and-the-power-system/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Engineering.com parent company Arrowfly launches AI for Engineers",
+      "category": "MECHANICAL",
+      "date": "2026-10-01T13:22:29+00:00",
+      "url": "https://www.engineering.com/engineering-com-parent-company-arrowfly-launches-ai-for-engineers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Affordability concerns are holding utilities back from investing in reliability and resilience, report finds",
+      "category": "RENEWABLE",
+      "date": "2026-10-01T12:58:08+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/affordability-concerns-are-holding-utilities-back-from-investing-in-reliability-and-resilience-report-finds/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Advantech launches AI mission computer for autonomous UAVs",
       "category": "MECHANICAL",
       "date": "2026-10-01T12:18:11+00:00",
@@ -122,7 +186,7 @@
       "type": "magazine"
     },
     {
-      "title": "NSC among charter members of OSHA’s SIF prevention alliance",
+      "title": "NSC a charter member of OSHA’s SIF prevention alliance",
       "category": "SAFETY",
       "date": "2026-09-30T16:51:27+00:00",
       "url": "https://www.safetyandhealthmagazine.com/nsc-among-charter-members-of-oshas-sif-prevention-alliance/",
@@ -234,7 +298,7 @@
       "type": "magazine"
     },
     {
-      "title": "Chemical Safety Board members discuss ‘particularly deadly’ year during public meeting",
+      "title": "Chemical Safety Board discusses ‘particularly deadly’ year during public meeting",
       "category": "SAFETY",
       "date": "2026-09-30T12:30:27+00:00",
       "url": "https://www.safetyandhealthmagazine.com/chemical-safety-board-members-discuss-particularly-deadly-year-during-public-meeting/",
@@ -50994,5 +51058,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-01T12:37:23.673098+00:00"
+  "last_updated_utc": "2026-10-01T22:25:28.157430+00:00"
 }
