@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Advantech launches AI mission computer for autonomous UAVs",
+      "category": "MECHANICAL",
+      "date": "2026-10-01T12:18:11+00:00",
+      "url": "https://www.engineering.com/advantech-launches-ai-mission-computer-for-autonomous-uavs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight launches 20 GHz dual-channel PSG signal generator",
+      "category": "MECHANICAL",
+      "date": "2026-10-01T12:08:39+00:00",
+      "url": "https://www.engineering.com/keysight-launches-20-ghz-dual-channel-psg-signal-generator/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NetApp and Supermicro collaborate on AI infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-10-01T12:03:26+00:00",
+      "url": "https://www.engineering.com/netapp-and-supermicro-collaborate-on-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "CoreWeave adds NVIDIA Vera CPU to its compute portfolio",
+      "category": "MECHANICAL",
+      "date": "2026-10-01T11:31:41+00:00",
+      "url": "https://www.engineering.com/coreweave-adds-nvidia-vera-cpu-to-its-compute-portfolio/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Teradyne introduces high-speed memory test system",
+      "category": "MECHANICAL",
+      "date": "2026-10-01T11:27:00+00:00",
+      "url": "https://www.engineering.com/teradyne-introduces-high-speed-memory-test-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Synopsys and OpenAI partner on semiconductor design AI",
+      "category": "MECHANICAL",
+      "date": "2026-10-01T11:25:21+00:00",
+      "url": "https://www.engineering.com/synopsys-and-openai-partner-on-semiconductor-design-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "CoreWeave makes NVIDIA Vera Rubin NVL72 available",
+      "category": "MECHANICAL",
+      "date": "2026-10-01T11:24:32+00:00",
+      "url": "https://www.engineering.com/coreweave-makes-nvidia-vera-rubin-nvl72-available/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Synopsys and Amazon expand custom silicon collaboration",
+      "category": "MECHANICAL",
+      "date": "2026-10-01T11:24:00+00:00",
+      "url": "https://www.engineering.com/synopsys-and-amazon-expand-custom-silicon-collaboration/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens Energy to supply 119 gas turbine cores to Dynamis",
+      "category": "MECHANICAL",
+      "date": "2026-10-01T11:17:38+00:00",
+      "url": "https://www.engineering.com/siemens-energy-to-supply-119-gas-turbine-cores-to-dynamis/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lynas agrees to buy Meteoric Resources in $674m all-share deal",
+      "category": "INDUSTRY",
+      "date": "2026-10-01T10:09:03+00:00",
+      "url": "https://www.mining-technology.com/news/lynas-to-buy-meteoric-resources-674m/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Solar, wind and tidal for renewable fuels: what the research says",
+      "category": "INDUSTRY",
+      "date": "2026-10-01T09:13:48+00:00",
+      "url": "https://www.mining-technology.com/news/solar-wind-tidal-renewable-fuels/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Yancoal closes $1.85bn deal for 80% stake in Kestrel Coal Mine",
+      "category": "INDUSTRY",
+      "date": "2026-10-01T08:13:33+00:00",
+      "url": "https://www.mining-technology.com/news/yancoal-1-85bn-deal-kestrel-coal-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Bell Bay Aluminium to continue operations until 2031",
+      "category": "INDUSTRY",
+      "date": "2026-10-01T07:55:41+00:00",
+      "url": "https://www.mining-technology.com/news/bell-bay-aluminium-continue-operations-2031/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Welcome to the vibe-CAD era",
       "category": "MECHANICAL",
       "date": "2026-09-30T20:37:29+00:00",
@@ -50890,5 +50994,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-01T04:40:56.094524+00:00"
+  "last_updated_utc": "2026-10-01T12:37:23.673098+00:00"
 }
