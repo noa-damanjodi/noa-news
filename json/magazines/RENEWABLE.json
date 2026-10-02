@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Can this bipartisan Senate bill fix the grueling energy permitting timeline?",
+      "category": "RENEWABLE",
+      "date": "2026-10-02T17:53:50+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/can-this-bipartisan-senate-bill-fix-the-grueling-energy-permitting-timeline/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "The blueprint for scaling data center power infrastructure",
+      "category": "RENEWABLE",
+      "date": "2026-10-02T14:17:18+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/the-blueprint-for-scaling-data-center-power-infrastructure/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "What El Niño 2026-27 could mean for utilities and the power system",
       "category": "RENEWABLE",
       "date": "2026-10-01T13:57:50+00:00",
@@ -3906,5 +3922,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-02T12:01:59.550784+00:00"
+  "last_updated_utc": "2026-10-02T21:55:17.023053+00:00"
 }

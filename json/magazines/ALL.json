@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Can this bipartisan Senate bill fix the grueling energy permitting timeline?",
+      "category": "RENEWABLE",
+      "date": "2026-10-02T17:53:50+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/can-this-bipartisan-senate-bill-fix-the-grueling-energy-permitting-timeline/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Even light exercise can help protect against cancer, experts say",
+      "category": "SAFETY",
+      "date": "2026-10-02T16:59:01+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/even-light-exercise-can-help-protect-against-cancer-experts-say/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Managing Complexity in Engineering and IT Modernization",
+      "category": "MECHANICAL",
+      "date": "2026-10-02T15:49:38+00:00",
+      "url": "https://www.engineering.com/managing-complexity-in-engineering-and-it-modernization/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Ninety per cent of life sciences manufacturers say digital transformation is now business critical: Rockwell Automation",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-02T15:21:59+00:00",
+      "url": "https://www.automationmag.com/ninety-per-cent-of-life-sciences-manufacturers-say-digital-transformation-is-now-business-critical-rockwell-automation/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Bernie Sanders and Mark Takano renew push for a 32-hour workweek",
+      "category": "SAFETY",
+      "date": "2026-10-02T15:21:24+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/bernie-sanders-and-mark-takano-renew-push-for-a-32-hour-workweek/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The blueprint for scaling data center power infrastructure",
+      "category": "RENEWABLE",
+      "date": "2026-10-02T14:17:18+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/the-blueprint-for-scaling-data-center-power-infrastructure/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "AMD samples Versal AI Core SoC in space-grade package",
       "category": "MECHANICAL",
       "date": "2026-10-02T10:56:53+00:00",
@@ -51130,5 +51178,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-02T12:01:59.550784+00:00"
+  "last_updated_utc": "2026-10-02T21:55:17.023053+00:00"
 }
