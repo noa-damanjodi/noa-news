@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "AMD samples Versal AI Core SoC in space-grade package",
+      "category": "MECHANICAL",
+      "date": "2026-10-02T10:56:53+00:00",
+      "url": "https://www.engineering.com/amd-samples-versal-ai-core-soc-in-space-grade-package/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SQC and Schneider Electric advance quantum AI project",
+      "category": "MECHANICAL",
+      "date": "2026-10-02T10:47:41+00:00",
+      "url": "https://www.engineering.com/sqc-and-schneider-electric-advance-quantum-ai-project/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Saratech acquires Geometric Solutions for Siemens PLM",
+      "category": "MECHANICAL",
+      "date": "2026-10-02T10:40:23+00:00",
+      "url": "https://www.engineering.com/saratech-acquires-geometric-solutions-for-siemens-plm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lenovo launches AI Express for faster AI deployment",
+      "category": "MECHANICAL",
+      "date": "2026-10-02T10:35:07+00:00",
+      "url": "https://www.engineering.com/lenovo-launches-ai-express-for-faster-ai-deployment/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Dynatrace completes acquisition of AI platform Arize",
+      "category": "MECHANICAL",
+      "date": "2026-10-02T10:19:03+00:00",
+      "url": "https://www.engineering.com/dynatrace-completes-acquisition-of-ai-platform-arize/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sabel and Anark partner on model-based defense reviews",
+      "category": "MECHANICAL",
+      "date": "2026-10-02T09:51:24+00:00",
+      "url": "https://www.engineering.com/sabel-and-anark-partner-on-model-based-defense-reviews/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Careers Electric receives grant to expand North Carolina training",
+      "category": "MECHANICAL",
+      "date": "2026-10-02T09:31:58+00:00",
+      "url": "https://www.engineering.com/careers-electric-receives-grant-to-expand-north-carolina-training/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Senate confirms Keith Sonderling as labor secretary",
       "category": "SAFETY",
       "date": "2026-10-01T16:37:14+00:00",
@@ -63,6 +119,22 @@
       "date": "2026-10-01T12:58:08+00:00",
       "url": "https://www.renewableenergyworld.com/power-grid/affordability-concerns-are-holding-utilities-back-from-investing-in-reliability-and-resilience-report-finds/",
       "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Riversgold submits mine plan for Kalgoorlie gold project in Australia",
+      "category": "INDUSTRY",
+      "date": "2026-10-01T12:54:52+00:00",
+      "url": "https://www.mining-technology.com/news/riversgold-mine-plan-kalgoorlie-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ACDC Metals gains BLM permits for Mount Jackson drill campaign",
+      "category": "INDUSTRY",
+      "date": "2026-10-01T12:44:52+00:00",
+      "url": "https://www.mining-technology.com/news/acdc-metals-blm-mount-jackson-drill/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -51058,5 +51130,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-02T04:32:34.488090+00:00"
+  "last_updated_utc": "2026-10-02T12:01:59.550784+00:00"
 }

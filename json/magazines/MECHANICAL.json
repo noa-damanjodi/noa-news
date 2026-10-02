@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "AMD samples Versal AI Core SoC in space-grade package",
+      "category": "MECHANICAL",
+      "date": "2026-10-02T10:56:53+00:00",
+      "url": "https://www.engineering.com/amd-samples-versal-ai-core-soc-in-space-grade-package/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SQC and Schneider Electric advance quantum AI project",
+      "category": "MECHANICAL",
+      "date": "2026-10-02T10:47:41+00:00",
+      "url": "https://www.engineering.com/sqc-and-schneider-electric-advance-quantum-ai-project/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Saratech acquires Geometric Solutions for Siemens PLM",
+      "category": "MECHANICAL",
+      "date": "2026-10-02T10:40:23+00:00",
+      "url": "https://www.engineering.com/saratech-acquires-geometric-solutions-for-siemens-plm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lenovo launches AI Express for faster AI deployment",
+      "category": "MECHANICAL",
+      "date": "2026-10-02T10:35:07+00:00",
+      "url": "https://www.engineering.com/lenovo-launches-ai-express-for-faster-ai-deployment/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Dynatrace completes acquisition of AI platform Arize",
+      "category": "MECHANICAL",
+      "date": "2026-10-02T10:19:03+00:00",
+      "url": "https://www.engineering.com/dynatrace-completes-acquisition-of-ai-platform-arize/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sabel and Anark partner on model-based defense reviews",
+      "category": "MECHANICAL",
+      "date": "2026-10-02T09:51:24+00:00",
+      "url": "https://www.engineering.com/sabel-and-anark-partner-on-model-based-defense-reviews/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Careers Electric receives grant to expand North Carolina training",
+      "category": "MECHANICAL",
+      "date": "2026-10-02T09:31:58+00:00",
+      "url": "https://www.engineering.com/careers-electric-receives-grant-to-expand-north-carolina-training/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "When AI recommendations become engineering decisions",
       "category": "MECHANICAL",
       "date": "2026-10-01T15:01:29+00:00",
@@ -13834,5 +13890,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-02T04:32:34.488090+00:00"
+  "last_updated_utc": "2026-10-02T12:01:59.550784+00:00"
 }

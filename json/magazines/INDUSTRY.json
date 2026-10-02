@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Riversgold submits mine plan for Kalgoorlie gold project in Australia",
+      "category": "INDUSTRY",
+      "date": "2026-10-01T12:54:52+00:00",
+      "url": "https://www.mining-technology.com/news/riversgold-mine-plan-kalgoorlie-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ACDC Metals gains BLM permits for Mount Jackson drill campaign",
+      "category": "INDUSTRY",
+      "date": "2026-10-01T12:44:52+00:00",
+      "url": "https://www.mining-technology.com/news/acdc-metals-blm-mount-jackson-drill/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Lynas agrees to buy Meteoric Resources in $674m all-share deal",
       "category": "INDUSTRY",
       "date": "2026-10-01T10:09:03+00:00",
@@ -9082,5 +9098,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-02T04:32:34.488090+00:00"
+  "last_updated_utc": "2026-10-02T12:01:59.550784+00:00"
 }
