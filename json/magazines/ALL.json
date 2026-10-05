@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Roland DG and LogoJET expand UV printing partnership",
+      "category": "MECHANICAL",
+      "date": "2026-10-05T12:57:22+00:00",
+      "url": "https://www.engineering.com/roland-dg-and-logojet-expand-uv-printing-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Michael Baker launches LiveTwin digital infrastructure platform",
+      "category": "MECHANICAL",
+      "date": "2026-10-05T12:51:52+00:00",
+      "url": "https://www.engineering.com/michael-baker-launches-livetwin-digital-infrastructure-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MathWorks and MapmyIndia support ADAS development in India",
+      "category": "MECHANICAL",
+      "date": "2026-10-05T12:21:26+00:00",
+      "url": "https://www.engineering.com/mathworks-and-mapmyindia-support-adas-development-in-india/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "RoboParty unveils RP1 open-source humanoid robot",
+      "category": "MECHANICAL",
+      "date": "2026-10-05T11:11:14+00:00",
+      "url": "https://www.engineering.com/roboparty-unveils-rp1-open-source-humanoid-robot/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Jacobs to deploy digital twin at NVIDIA R&D facility",
+      "category": "MECHANICAL",
+      "date": "2026-10-05T11:00:22+00:00",
+      "url": "https://www.engineering.com/jacobs-to-deploy-digital-twin-at-nvidia-rd-facility/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Wildsky signs LoI for Zimbabwe’s NewRidge Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-10-05T10:08:37+00:00",
+      "url": "https://www.mining-technology.com/news/wildsky-loi-newridge-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ConnX integrates Intel edge technology into MaestroIQ",
+      "category": "MECHANICAL",
+      "date": "2026-10-05T09:58:54+00:00",
+      "url": "https://www.engineering.com/connx-integrates-intel-edge-technology-into-maestroiq/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Will a BAAJA blast quench America’s thirst for energy? | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-10-05T09:55:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/will-a-baaja-blast-quench-americas-thirst-for-energy-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "PMET and Matagami sign LoI for spodumene rail trans-shipment",
+      "category": "INDUSTRY",
+      "date": "2026-10-05T08:08:10+00:00",
+      "url": "https://www.mining-technology.com/news/pmet-matagami-loi-spodumene-transshipment/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Glencore secures approval for MARA project in Argentina",
+      "category": "INDUSTRY",
+      "date": "2026-10-05T08:00:56+00:00",
+      "url": "https://www.mining-technology.com/news/glencore-approval-mara-project-argentina/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Can this bipartisan Senate bill fix the grueling energy permitting timeline?",
       "category": "RENEWABLE",
       "date": "2026-10-02T17:53:50+00:00",
@@ -51178,5 +51258,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-05T04:35:13.061419+00:00"
+  "last_updated_utc": "2026-10-05T13:52:15.948019+00:00"
 }
