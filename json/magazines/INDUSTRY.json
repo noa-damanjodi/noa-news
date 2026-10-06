@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Westwin plans $502m Class 1 nickel refinery in Mississippi, US",
+      "category": "INDUSTRY",
+      "date": "2026-10-06T15:26:15+00:00",
+      "url": "https://www.mining-technology.com/news/westwin-502m-nickel-refinery-mississippi/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Macmahon obtains two-year Daisy Milano contract extension",
+      "category": "INDUSTRY",
+      "date": "2026-10-06T13:57:20+00:00",
+      "url": "https://www.mining-technology.com/news/macmahon-two-year-daisy-milano-extension/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Supply chain shifts are reshaping Australia’s manganese sector",
       "category": "INDUSTRY",
       "date": "2026-10-06T10:32:22+00:00",
@@ -9186,5 +9202,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-06T12:55:33.506658+00:00"
+  "last_updated_utc": "2026-10-06T22:26:13.023508+00:00"
 }

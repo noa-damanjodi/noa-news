@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Schneider Electric to acquire PTC in $22.6B deal",
+      "category": "MECHANICAL",
+      "date": "2026-10-06T20:42:48+00:00",
+      "url": "https://www.engineering.com/schneider-electric-to-acquire-ptc-in-22-6b-deal/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Contract manufacturing and the future of industrial 3D printing",
+      "category": "MECHANICAL",
+      "date": "2026-10-06T19:57:44+00:00",
+      "url": "https://www.engineering.com/contract-manufacturing-and-the-future-of-industrial-3d-printing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Careers Electric receives BlackRock workforce development grant",
+      "category": "MECHANICAL",
+      "date": "2026-10-06T13:07:49+00:00",
+      "url": "https://www.engineering.com/careers-electric-receives-blackrock-workforce-development-grant/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Applied Intuition supports Nissan’s AI-defined vehicle development",
+      "category": "MECHANICAL",
+      "date": "2026-10-06T13:00:14+00:00",
+      "url": "https://www.engineering.com/applied-intuition-supports-nissans-ai-defined-vehicle-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "OMNIVISION launches 12MP global shutter image sensor",
+      "category": "MECHANICAL",
+      "date": "2026-10-06T12:54:33+00:00",
+      "url": "https://www.engineering.com/omnivision-launches-12mp-global-shutter-image-sensor/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Diskover extends data visibility to NetApp storage",
       "category": "MECHANICAL",
       "date": "2026-10-06T12:36:02+00:00",
@@ -13970,5 +14010,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-06T12:55:33.506658+00:00"
+  "last_updated_utc": "2026-10-06T22:26:13.023508+00:00"
 }

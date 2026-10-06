@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Schneider Electric to acquire PTC in $22.6B deal",
+      "category": "MECHANICAL",
+      "date": "2026-10-06T20:42:48+00:00",
+      "url": "https://www.engineering.com/schneider-electric-to-acquire-ptc-in-22-6b-deal/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Contract manufacturing and the future of industrial 3D printing",
+      "category": "MECHANICAL",
+      "date": "2026-10-06T19:57:44+00:00",
+      "url": "https://www.engineering.com/contract-manufacturing-and-the-future-of-industrial-3d-printing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Final report on polymer plant explosion focuses on process control systems",
+      "category": "SAFETY",
+      "date": "2026-10-06T19:10:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/final-report-on-polymer-plant-explosion-focuses-on-process-control-systems/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "DOL renews charter for OSHA advisory committee",
+      "category": "SAFETY",
+      "date": "2026-10-06T17:20:00+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/dol-renews-charter-for-osha-advisory-committee/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Westwin plans $502m Class 1 nickel refinery in Mississippi, US",
+      "category": "INDUSTRY",
+      "date": "2026-10-06T15:26:15+00:00",
+      "url": "https://www.mining-technology.com/news/westwin-502m-nickel-refinery-mississippi/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Annual ‘Roadcheck’ spotlights vehicle and driver violations",
+      "category": "SAFETY",
+      "date": "2026-10-06T14:59:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/annual-roadcheck-spotlights-vehicle-and-driver-violations/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Macmahon obtains two-year Daisy Milano contract extension",
+      "category": "INDUSTRY",
+      "date": "2026-10-06T13:57:20+00:00",
+      "url": "https://www.mining-technology.com/news/macmahon-two-year-daisy-milano-extension/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Careers Electric receives BlackRock workforce development grant",
+      "category": "MECHANICAL",
+      "date": "2026-10-06T13:07:49+00:00",
+      "url": "https://www.engineering.com/careers-electric-receives-blackrock-workforce-development-grant/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Applied Intuition supports Nissan’s AI-defined vehicle development",
+      "category": "MECHANICAL",
+      "date": "2026-10-06T13:00:14+00:00",
+      "url": "https://www.engineering.com/applied-intuition-supports-nissans-ai-defined-vehicle-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "OMNIVISION launches 12MP global shutter image sensor",
+      "category": "MECHANICAL",
+      "date": "2026-10-06T12:54:33+00:00",
+      "url": "https://www.engineering.com/omnivision-launches-12mp-global-shutter-image-sensor/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Diskover extends data visibility to NetApp storage",
       "category": "MECHANICAL",
       "date": "2026-10-06T12:36:02+00:00",
@@ -51410,5 +51490,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-06T12:55:33.506658+00:00"
+  "last_updated_utc": "2026-10-06T22:26:13.023508+00:00"
 }
