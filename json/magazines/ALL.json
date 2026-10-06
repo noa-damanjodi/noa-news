@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Diskover extends data visibility to NetApp storage",
+      "category": "MECHANICAL",
+      "date": "2026-10-06T12:36:02+00:00",
+      "url": "https://www.engineering.com/diskover-extends-data-visibility-to-netapp-storage/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "VIDIZMO joins NVIDIA Inception to expand AI capabilities",
+      "category": "MECHANICAL",
+      "date": "2026-10-06T12:27:55+00:00",
+      "url": "https://www.engineering.com/vidizmo-joins-nvidia-inception-to-expand-ai-capabilities/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supply chain shifts are reshaping Australia’s manganese sector",
+      "category": "INDUSTRY",
+      "date": "2026-10-06T10:32:22+00:00",
+      "url": "https://www.mining-technology.com/comment/supply-chain-shifts-are-reshaping-australias-manganese-sector/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "EBRD provides up to $62m for greener Bulgarian copper mining",
+      "category": "INDUSTRY",
+      "date": "2026-10-06T10:02:21+00:00",
+      "url": "https://www.mining-technology.com/news/ebrd-62m-bulgarian-copper-mining/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Protecting mining’s hydraulic backbone to keep operations moving",
+      "category": "INDUSTRY",
+      "date": "2026-10-06T09:24:52+00:00",
+      "url": "https://www.mining-technology.com/sponsored/protecting-minings-hydraulic-backbone-to-keep-operations-moving/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Greenland approves Tanbreez mine plans through 2050",
+      "category": "INDUSTRY",
+      "date": "2026-10-06T08:28:39+00:00",
+      "url": "https://www.mining-technology.com/news/greenland-tanbreez-mine-plans-2050/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Barrick secures 15-year licence renewal for Tanzania’s North Mara",
+      "category": "INDUSTRY",
+      "date": "2026-10-06T08:19:49+00:00",
+      "url": "https://www.mining-technology.com/news/barrick-licence-renewal-north-mara/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Unlocking grid capacity through dynamic distribution with Switched Source CEO Charles Murray",
       "category": "RENEWABLE",
       "date": "2026-10-05T20:18:34+00:00",
@@ -51354,5 +51410,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-06T05:20:57.461562+00:00"
+  "last_updated_utc": "2026-10-06T12:55:33.506658+00:00"
 }
