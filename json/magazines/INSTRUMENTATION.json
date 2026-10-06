@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Delta Motion expands customer training with new EtherCAT course",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-05T19:46:56+00:00",
+      "url": "https://www.automationmag.com/delta-motion-expands-customer-training-with-new-ethercat-course/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Ninety per cent of life sciences manufacturers say digital transformation is now business critical: Rockwell Automation",
       "category": "INSTRUMENTATION",
       "date": "2026-10-02T15:21:59+00:00",
@@ -3034,5 +3042,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-05T23:49:49.915922+00:00"
+  "last_updated_utc": "2026-10-06T05:20:57.461562+00:00"
 }
