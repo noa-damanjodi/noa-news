@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "DOE selects second round of hydropower projects for technical support, with modernization in mind",
+      "category": "RENEWABLE",
+      "date": "2026-10-07T10:48:42+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/doe-selects-second-round-of-hydropower-projects-for-technical-support-with-modernization-in-mind/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Next-generation geothermal: borrowing oil and gas tech for the data centre boom",
+      "category": "INDUSTRY",
+      "date": "2026-10-07T09:45:53+00:00",
+      "url": "https://www.mining-technology.com/news/next-generation-geothermal-oil-gas-tech-data-centre-boom/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Belmont launches gravity survey at Crackingstone uranium site",
+      "category": "INDUSTRY",
+      "date": "2026-10-07T09:42:29+00:00",
+      "url": "https://www.mining-technology.com/news/belmont-gravity-survey-crackingstone-site/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Teradyne enhances Titan HP for AI chip reliability tests",
+      "category": "MECHANICAL",
+      "date": "2026-10-07T09:38:20+00:00",
+      "url": "https://www.engineering.com/teradyne-enhances-titan-hp-for-ai-chip-reliability-tests/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Boston Dynamics appoints Rohit Prasad as CEO",
+      "category": "MECHANICAL",
+      "date": "2026-10-07T09:31:31+00:00",
+      "url": "https://www.engineering.com/boston-dynamics-appoints-rohit-prasad-as-ceo/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SQC’s Watermelon named to Fast Company tech list",
+      "category": "MECHANICAL",
+      "date": "2026-10-07T09:03:51+00:00",
+      "url": "https://www.engineering.com/sqcs-watermelon-named-to-fast-company-tech-list/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Flexcompute simulates Starlab Space Station cabin airflow",
+      "category": "MECHANICAL",
+      "date": "2026-10-07T08:56:19+00:00",
+      "url": "https://www.engineering.com/flexcompute-simulates-starlab-space-station-cabin-airflow/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Logic Fruit unveils FPGA-based BMC family for OCP servers",
+      "category": "MECHANICAL",
+      "date": "2026-10-07T08:47:46+00:00",
+      "url": "https://www.engineering.com/logic-fruit-unveils-fpga-based-bmc-family-for-ocp-servers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Silicon Labs expands AI tools for IoT development",
+      "category": "MECHANICAL",
+      "date": "2026-10-07T08:41:22+00:00",
+      "url": "https://www.engineering.com/silicon-labs-expands-ai-tools-for-iot-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "District Metals begins diamond drilling at Sweden’s Viken Property",
+      "category": "INDUSTRY",
+      "date": "2026-10-07T07:25:33+00:00",
+      "url": "https://www.mining-technology.com/news/district-metals-drilling-viken-property/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "GoldMining releases initial drill results from Yarumalito project in Colombia",
+      "category": "INDUSTRY",
+      "date": "2026-10-07T07:16:27+00:00",
+      "url": "https://www.mining-technology.com/news/goldmining-drill-results-yarumalito-colombia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Schneider Electric to acquire PTC in $22.6B deal",
       "category": "MECHANICAL",
       "date": "2026-10-06T20:42:48+00:00",
@@ -51562,5 +51650,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-07T04:49:41.876298+00:00"
+  "last_updated_utc": "2026-10-07T12:49:34.656490+00:00"
 }
