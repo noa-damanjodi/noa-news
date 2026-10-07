@@ -2,6 +2,118 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Budgeting, staffing, and scaling modern SCADA with John McDonald",
+      "category": "RENEWABLE",
+      "date": "2026-10-07T20:41:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/budgeting-staffing-and-scaling-modern-scada-with-john-mcdonald/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Bridging legacy SCADA and next-gen grid infrastructure with John McDonald",
+      "category": "RENEWABLE",
+      "date": "2026-10-07T20:40:48+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/bridging-legacy-scada-and-next-gen-grid-infrastructure-with-john-mcdonald/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Hyundai and Boston Dynamics Bet Big on AI Robot Training for Manufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-10-07T20:00:00+00:00",
+      "url": "https://www.engineering.com/hyundai-and-boston-dynamics-bet-big-on-ai-robot-training-for-manufacturing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Robotics industry descends on Toronto for CRC Symposium 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-07T18:46:46+00:00",
+      "url": "https://www.automationmag.com/robotics-industry-descends-on-toronto-for-crc-symposium-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Wind turbine taller than the Eiffel Tower aims to boost German electricity production",
+      "category": "RENEWABLE",
+      "date": "2026-10-07T18:17:00+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/wind-turbine-taller-than-the-eiffel-tower-aims-to-boost-german-electricity-production/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "MSHA alerts miners to hydrogen sulfide hazards",
+      "category": "SAFETY",
+      "date": "2026-10-07T16:13:06+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/msha-alerts-miners-to-hydrogen-sulfide-hazards/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Researchers link workplace violence and musculoskeletal disorders",
+      "category": "SAFETY",
+      "date": "2026-10-07T16:09:30+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/researchers-link-workplace-violence-and-musculoskeletal-disorders/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Noise and hearing protection: New toolbox talk available",
+      "category": "SAFETY",
+      "date": "2026-10-07T16:03:31+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/noise-and-hearing-protection-new-toolbox-talk-available/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Emerson extends RF test capabilities to new multiport and MIMO test applications",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-07T15:14:51+00:00",
+      "url": "https://www.automationmag.com/emerson-extends-rf-test-capabilities-to-new-multiport-and-mimo-test-applications/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "THG Automation introduces MobileRunner modular track system",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-07T15:02:56+00:00",
+      "url": "https://www.automationmag.com/thg-automation-introduces-mobilerunner-modular-track-system/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight adds agentic AI tools to RF design software",
+      "category": "MECHANICAL",
+      "date": "2026-10-07T15:00:23+00:00",
+      "url": "https://www.engineering.com/keysight-adds-agentic-ai-tools-to-rf-design-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IFR releases World Robotics 2026 Report",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-07T14:21:01+00:00",
+      "url": "https://www.automationmag.com/ifr-releases-world-robotics-2026-report/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "BHP to sell Kambalda concentrator and tenements to Gold Fields",
+      "category": "INDUSTRY",
+      "date": "2026-10-07T12:36:25+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-kambalda-nickel-gold-fields/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Kenzoll and MSF plan restart of Namibia’s Sperrgebiet Diamond Mine",
+      "category": "INDUSTRY",
+      "date": "2026-10-07T12:27:27+00:00",
+      "url": "https://www.mining-technology.com/news/kenzoll-msf-restart-sperrgebiet-diamond-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "DOE selects second round of hydropower projects for technical support, with modernization in mind",
       "category": "RENEWABLE",
       "date": "2026-10-07T10:48:42+00:00",
@@ -51650,5 +51762,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-07T12:49:34.656490+00:00"
+  "last_updated_utc": "2026-10-07T22:50:47.403270+00:00"
 }

@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Hyundai and Boston Dynamics Bet Big on AI Robot Training for Manufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-10-07T20:00:00+00:00",
+      "url": "https://www.engineering.com/hyundai-and-boston-dynamics-bet-big-on-ai-robot-training-for-manufacturing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight adds agentic AI tools to RF design software",
+      "category": "MECHANICAL",
+      "date": "2026-10-07T15:00:23+00:00",
+      "url": "https://www.engineering.com/keysight-adds-agentic-ai-tools-to-rf-design-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Teradyne enhances Titan HP for AI chip reliability tests",
       "category": "MECHANICAL",
       "date": "2026-10-07T09:38:20+00:00",
@@ -14058,5 +14074,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-07T12:49:34.656490+00:00"
+  "last_updated_utc": "2026-10-07T22:50:47.403270+00:00"
 }

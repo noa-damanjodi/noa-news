@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "BHP to sell Kambalda concentrator and tenements to Gold Fields",
+      "category": "INDUSTRY",
+      "date": "2026-10-07T12:36:25+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-kambalda-nickel-gold-fields/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Kenzoll and MSF plan restart of Namibia’s Sperrgebiet Diamond Mine",
+      "category": "INDUSTRY",
+      "date": "2026-10-07T12:27:27+00:00",
+      "url": "https://www.mining-technology.com/news/kenzoll-msf-restart-sperrgebiet-diamond-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Next-generation geothermal: borrowing oil and gas tech for the data centre boom",
       "category": "INDUSTRY",
       "date": "2026-10-07T09:45:53+00:00",
@@ -9234,5 +9250,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-07T12:49:34.656490+00:00"
+  "last_updated_utc": "2026-10-07T22:50:47.403270+00:00"
 }

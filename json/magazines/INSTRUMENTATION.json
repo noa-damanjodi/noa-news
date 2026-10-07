@@ -2,6 +2,38 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Robotics industry descends on Toronto for CRC Symposium 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-07T18:46:46+00:00",
+      "url": "https://www.automationmag.com/robotics-industry-descends-on-toronto-for-crc-symposium-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Emerson extends RF test capabilities to new multiport and MIMO test applications",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-07T15:14:51+00:00",
+      "url": "https://www.automationmag.com/emerson-extends-rf-test-capabilities-to-new-multiport-and-mimo-test-applications/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "THG Automation introduces MobileRunner modular track system",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-07T15:02:56+00:00",
+      "url": "https://www.automationmag.com/thg-automation-introduces-mobilerunner-modular-track-system/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "IFR releases World Robotics 2026 Report",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-07T14:21:01+00:00",
+      "url": "https://www.automationmag.com/ifr-releases-world-robotics-2026-report/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Liberals table bill to make Defence Investment Agency a Crown corporation",
       "category": "INSTRUMENTATION",
       "date": "2026-10-06T19:36:59+00:00",
@@ -3114,5 +3146,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-07T12:49:34.656490+00:00"
+  "last_updated_utc": "2026-10-07T22:50:47.403270+00:00"
 }
