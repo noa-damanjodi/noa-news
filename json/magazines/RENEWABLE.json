@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Southeastern US utilities prepare for Hurricane Isaias to make landfall",
+      "category": "RENEWABLE",
+      "date": "2026-10-08T20:38:27+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/southeastern-us-utilities-are-preparing-for-hurricane-isaias-to-make-landfall/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "The rate-base business model works, and that’s the problem",
+      "category": "RENEWABLE",
+      "date": "2026-10-08T14:31:16+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/the-rate-base-business-model-works-and-thats-the-problem/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "PJM’s energy emergency | Factor This Policycast",
       "category": "RENEWABLE",
       "date": "2026-10-08T10:00:00+00:00",
@@ -4002,5 +4018,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-08T12:58:07.492473+00:00"
+  "last_updated_utc": "2026-10-08T23:01:56.834970+00:00"
 }

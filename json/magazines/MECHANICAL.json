@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Additive business update: BLT, ExOne, Stratasys, and more",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T20:33:12+00:00",
+      "url": "https://www.engineering.com/additive-business-update-blt-exone-stratasys-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Executives must act now to secure an oil and gas future",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T18:46:26+00:00",
+      "url": "https://www.engineering.com/executives-must-act-now-to-secure-an-oil-and-gas-future/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AI in PLM: near-term expectations and challenges",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T17:15:35+00:00",
+      "url": "https://www.engineering.com/ai-in-plm-near-term-expectations-and-challenges/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Graphisoft updates Archicad portfolio with AI capabilities",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T13:26:41+00:00",
+      "url": "https://www.engineering.com/graphisoft-updates-archicad-portfolio-with-ai-capabilities/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "COMSOL becomes Formula E’s official multiphysics partner",
       "category": "MECHANICAL",
       "date": "2026-10-08T12:32:51+00:00",
@@ -14146,5 +14178,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-08T12:58:07.492473+00:00"
+  "last_updated_utc": "2026-10-08T23:01:56.834970+00:00"
 }

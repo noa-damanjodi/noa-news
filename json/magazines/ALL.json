@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Southeastern US utilities prepare for Hurricane Isaias to make landfall",
+      "category": "RENEWABLE",
+      "date": "2026-10-08T20:38:27+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/southeastern-us-utilities-are-preparing-for-hurricane-isaias-to-make-landfall/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Additive business update: BLT, ExOne, Stratasys, and more",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T20:33:12+00:00",
+      "url": "https://www.engineering.com/additive-business-update-blt-exone-stratasys-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Executives must act now to secure an oil and gas future",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T18:46:26+00:00",
+      "url": "https://www.engineering.com/executives-must-act-now-to-secure-an-oil-and-gas-future/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Prime Minister Mark Carney to take ‘active role’ in new AI advisory council",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-08T17:51:44+00:00",
+      "url": "https://www.automationmag.com/prime-minister-mark-carney-to-take-active-role-in-new-ai-advisory-council/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "AI in PLM: near-term expectations and challenges",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T17:15:35+00:00",
+      "url": "https://www.engineering.com/ai-in-plm-near-term-expectations-and-challenges/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "The rate-base business model works, and that’s the problem",
+      "category": "RENEWABLE",
+      "date": "2026-10-08T14:31:16+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/the-rate-base-business-model-works-and-thats-the-problem/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "AAA study looks at why people say they don’t buckle up",
+      "category": "SAFETY",
+      "date": "2026-10-08T13:27:57+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/aaa-study-looks-at-why-people-say-they-dont-buckle-up/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Graphisoft updates Archicad portfolio with AI capabilities",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T13:26:41+00:00",
+      "url": "https://www.engineering.com/graphisoft-updates-archicad-portfolio-with-ai-capabilities/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Traxys and Abenójar sign El Moto tungsten offtake deal",
+      "category": "INDUSTRY",
+      "date": "2026-10-08T12:33:50+00:00",
+      "url": "https://www.mining-technology.com/news/traxys-abenojar-el-moto-tungsten-offtake/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "COMSOL becomes Formula E’s official multiphysics partner",
       "category": "MECHANICAL",
       "date": "2026-10-08T12:32:51+00:00",
@@ -51890,5 +51962,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-08T12:58:07.492473+00:00"
+  "last_updated_utc": "2026-10-08T23:01:56.834970+00:00"
 }

@@ -2,6 +2,14 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "AAA study looks at why people say they don’t buckle up",
+      "category": "SAFETY",
+      "date": "2026-10-08T13:27:57+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/aaa-study-looks-at-why-people-say-they-dont-buckle-up/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "MSHA alerts miners to hydrogen sulfide hazards",
       "category": "SAFETY",
       "date": "2026-10-07T16:13:06+00:00",
@@ -5258,5 +5266,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-08T12:58:07.492473+00:00"
+  "last_updated_utc": "2026-10-08T23:01:56.834970+00:00"
 }
