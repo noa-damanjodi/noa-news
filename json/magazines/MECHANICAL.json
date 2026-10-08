@@ -2,6 +2,78 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "COMSOL becomes Formula E’s official multiphysics partner",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T12:32:51+00:00",
+      "url": "https://www.engineering.com/comsol-becomes-formula-es-official-multiphysics-partner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Dell expands Windows PCs and workstations for agentic AI",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T12:22:36+00:00",
+      "url": "https://www.engineering.com/dell-expands-windows-pcs-and-workstations-for-agentic-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Diana Colella to lead Autodesk’s AEC business",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T11:29:13+00:00",
+      "url": "https://www.engineering.com/diana-colella-to-lead-autodesks-aec-business/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "OKSI and Qualcomm collaborate on edge AI autonomy",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T11:21:41+00:00",
+      "url": "https://www.engineering.com/oksi-and-qualcomm-collaborate-on-edge-ai-autonomy/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Bentley Systems announces 2026 infrastructure award winners",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T11:20:53+00:00",
+      "url": "https://www.engineering.com/bentley-systems-announces-2026-infrastructure-award-winners/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HPE expands ProLiant Gen13 server lineup for AI workloads",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T11:12:54+00:00",
+      "url": "https://www.engineering.com/hpe-expands-proliant-gen13-server-lineup-for-ai-workloads/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NanaWall and Neogard join VisiSpecs manufacturer program",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T11:02:31+00:00",
+      "url": "https://www.engineering.com/nanawall-and-neogard-join-visispecs-manufacturer-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lattice and Arm collaborate on secure AI infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T10:11:43+00:00",
+      "url": "https://www.engineering.com/lattice-and-arm-collaborate-on-secure-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "OMNIVISION unveils 5MP global shutter sensor for robotics",
+      "category": "MECHANICAL",
+      "date": "2026-10-08T09:57:49+00:00",
+      "url": "https://www.engineering.com/omnivision-unveils-5mp-global-shutter-sensor-for-robotics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Hyundai and Boston Dynamics Bet Big on AI Robot Training for Manufacturing",
       "category": "MECHANICAL",
       "date": "2026-10-07T20:00:00+00:00",
@@ -14074,5 +14146,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-08T04:59:58.317890+00:00"
+  "last_updated_utc": "2026-10-08T12:58:07.492473+00:00"
 }
