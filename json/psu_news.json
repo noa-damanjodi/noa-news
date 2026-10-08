@@ -1,9 +1,193 @@
 {
   "items": [
     {
-      "title": "The Chinese whispers in India’s EV batteries - The Daily Brief by Zerodha",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11dE1EaTJGbExhR0dxd2xkY2szYzVnTWx4VURDZUlxc1B2UGhiVUV2eG1IZUZDZ01BcUVYTG5yQzY0OTFia0VVT0lYX0l1N1VrbnRGM2h3WExId204aFFvRVI0N1YzQnF0dlMxWVpRdENsdzFKaFNYTA?oc=5",
-      "date": "2026-10-08T02:11:20+00:00",
+      "title": "German Data Center Renewable Rule May Shift to 2030 - Environment+Energy Leader",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGJlblYyRHF1a0JtY0w0Z0VWMUNQMjMwQ3BHS2R5SVR6Y1NValBxbEVxdGdWbURGSFNocHlJbDlmMEhlVVRVQ0Nhc05QUzFKY1VtVFc1enh2Q0w2M0I5Y0swall0dFp2eXhYblZzRUZ6aXVMbFpMa0VBQ0pFTUsyOGR5Z1lZaUZjZWZkNi1hMmtBY3VGQWxybWRrU3lsNGpQVEVzcg?oc=5",
+      "date": "2026-10-08T12:00:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Tata Power, Ocean Sun to pilot membrane-based floating solar technology in India - PV Tech",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeUdkaFU4eXYweW1qQTZPVTRsUHRLaHVub0FMaklob05OUHBNVll1c2wyNUg5aThSYzBzS202YUxDQ1pWeFE1cjFBNWRfUzF0Zm8xUzh3clpTdUdZMjhzdkwxMDU5dFpTajZoeEZ4ZFRqdEFHb1hFNkJrTzRlQ3ZRaDRCY09PLUZnQnVramFhTUhZWUV0TE5FVE9OOC1EYzVOLU0xd2N3OA?oc=5",
+      "date": "2026-10-08T11:17:27+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Duality of Regulations, Duality of Threat: How India’s Laser Machine-Safety Blind Spot Leaves Both Beam and Mechanical Hazards Unaddressed - Inventiva",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSVZCTmFfcS1kTmFNX0h0X2dUUV93YmZ0bjdiYS1pbFRtdncyWTdmQVVMV1FlbC1PbDBjbGwyYlZYaHp5S2J3bTZHZWlIV0lVZmhCaHN4ekxVWE13emF2el9udFJjWHcxUXpxLURBRkdTU2F5enc1N0Z4Mzl4UHZBYVBPOTBRODVmcUt3NnZyWDlIZk9wVGpfbTJVNzJadm5ieG1zZHI5Z0ZyMXFYampTWTNaSlVUOWNtbUE2aE5zRjRHa3Jza2dYUXd1TnVweUxvMnBZVVpSSmEwdTNBX001Q2V4V0hQTlVLM1hrd19vNFg0alA5a2JXNXR2M084OVJV?oc=5",
+      "date": "2026-10-08T10:49:00+00:00",
+      "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "KARAM Safety Strengthens its Digital Presence with KARAM Online - The Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcy1FZHBqc2FQTE4xZmd6WDg4Z083ZTFCSko5UFlINWU3TUJramRJSVF4QXg3cEw5YTYzWURnSGtQa1RBVlE0ZnFYdlUydVFnbEQ1a2FRdG5EYjROR29wWXhRTmxmTEJ5Qm9zVHo1UlRtcy1aMnZlRnBSUXZyTVExM2wtdFlER3kxTE5RR2p0bE14dmd5Y3dpcEZ5TnlXZGMxeGlGZURmbVNramfSAa8BQVVfeXFMUDhNb2wzZi1OZVNPTkx6MVZrYWxrTWdvQ0VMX2JjM1VsNEhJQkpmclhLNHZpdlNHYXZUM25aaHBaeW5TdTdzWU9FM1FrajJrRzdoOVRMVTM1d2RGeVFyLWRIc2tidWZ0WGpaRzBKSGdVYVZlTWJ2ajBLdFliV1gxbUxwR2lScVdMSElDc1lEQzdhSmJlMjJCZFdSV3BrTGI4YVdEU0hKcF9MTVIxaUF0Yw?oc=5",
+      "date": "2026-10-08T10:41:10+00:00",
+      "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Telangana Seeks Central Funds to Triple Renewable Capacity - Construction World",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQWowSjcxMjdYVi12M1B6Y0xuM1JCSmpZTkkwUktQNkhLSGJhd3pFYnJmUVR3VXNBY2NqMjdob2d1ZU9UeE96Q2xoMHBUQTM1M3FZNmFBbHJmQ3l6TzJmdkJWY2RjRnZSQ2ZoZm1ZcDJJNWpvbk0wV1RsSmpMQ1luUm8wM202aHZUemtfanJSWUlQeVEtRGpzNFlmMEUzbkFkV0k2Q3NaYlNSVS02SmxGeWl1QkMyTGJmVGVlUVBvZTRZVFFMa1AzM2VqaXY5VXdveXdJbUlzbXJydFRmWVNV?oc=5",
+      "date": "2026-10-08T10:21:08+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "L&T Wins Rs. 150 bn Power Transmission Orders in India, West Asia - Construction World",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeEdtMWNhR1ZvUWJmQUFVZXluNGp1V3BWUzRpUlJDay02RV9IdkswN2ZBUWJVWXRfb05RaHFMeEVBNF9uNU5MSHVFT1JWMjBnNTNkMnR6LWtYVzNpUUkwbGVXel94Si1aNVY3dU1sWUg0elE3NENycnpUNWJzZ24yLWdxdnJQQlVkUy1VejctWHFMTDAtTzdGV3R0aGoyaWhNMmpWd1YxWGkyRDFtSjVaaVNoT0lXR1FDQmxKUC1tcHZhVEtjeGxIY01uVnRxZkRCS1FORXVOSFJQeV8zMlA5VU5tZlBJQQ?oc=5",
+      "date": "2026-10-08T10:18:45+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "India Pushes Regional Energy Cooperation at EAS Meeting - StratNews Global",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFNWR1NpQmdQZFRDUDN3a05LZU9hWXQ4Yl9XQ0xSTDFnQXlwWG5lZjQ1bFp6Z3AwMXpuaktiZHFYTDJPYXRvaWF4WC1xbDFpZHZtdmhVOEJ5NGU0TkpzVDlkQjlUbG9tVFZxUzBSbDhudzQ5aW5jREJKMy13Mzc5NzBMODVCN0w1clI2ZG1n?oc=5",
+      "date": "2026-10-08T10:14:44+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Opinion: How Climate Action is Shaping Unilever’s Growth, Products and Production - EME Outlook Magazine",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGlRTmVqbWd6cFFfaGZPRGhVSmF3U1l1ZmJPODRqLXFhdHF2VUMwTGpuUHNnRjdSUF8xMEJEYjAxY213Y3dPZWNSbTlhQkhfWTdubml4cV9NNF9ILXgtaU5BRGpkUTd5RDhHcUI2Z2N1WHlKbzhTWTh2NmZ2NlV4M1hBLXF4NmNmR01Ld1B4M29zOWZTMGZzY0hfMzdId0JRbl9aTGRyWjFTd3E5RTBsNWpxLWJFM2cxMEp4dy1mZ3lxXzJC?oc=5",
+      "date": "2026-10-08T10:00:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Tata Power to pilot membrane-based floating solar with Norway’s Ocean Sun - pv magazine Global",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOODlVSzB3RzN4dk5mZUpWWC1DS1NfZU1QTEczSzlka25tOWxiQW12TGU3RzBiZ1dGczBxb05EMkZWWVBGVVA2S0xNSkNOLXZhLTF5V0szY0REeGxmNVBtMWpsbV9kT2d4emlqSlozWFhybGJieVZIWEdZZlEwc0FUMHNyTlBqaHNRbWY2Y0pITkotZHktOU1Zb3FvSVFMQTNSbUlWT2tzcHByTlcxM244UW93?oc=5",
+      "date": "2026-10-08T09:56:15+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Industrial investors get clean energy supply through new technology park partnership - The Star",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbHd4VElYMjFqMEpwRXpGV3FWTTBtMC1vT0hvSC1jU3NpWmVfWU1YT1l5QUY3ckI3dFFBd3dxaXd3QlVRaHc0QUJRY0VjWENobXQtNlJtaFZ5ZHJDRDVZbmhlcGo2dElrRU93eVNoY2N0dFluMHRZRFdSa210RUxOU2RCa2JxQl9raTYydXh0MUtrOG5DdHh4VzBYTTlfNmozZ0ZNVUhZTGJEQXNUazJTa2RPaF81LVpkcEtxaG94dC0yVFBpVzRPREt4TW9BZWc?oc=5",
+      "date": "2026-10-08T09:40:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "OSH India 2026 Focuses on Safety Technology and Regulatory Change - Machine Maker",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYWZHMmVLNzkzbE9GLWU5LTBFNkU0ZDJNcnc5MEVuTUJURzFuRlg5NGxjSkVoZ0F2UjJ6MTUwekV0R3R6U0U3TGhleXAzSmthZEY0X3FxYXoxWW5YclRWVlVnYVMxQ285LUp5bDh6SDhuRUN2ZXI1bGlZRkgtSlo2Q1E0ZllhOEh1QXhtNTA5cTJQc2M2YWdQQ09fM3UwS1Qw?oc=5",
+      "date": "2026-10-08T09:01:14+00:00",
+      "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Vietnam plans to split power transmission, distribution and retail from EVN generation - Theinvestor",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWswMnFYeXZWWERIZGVpVTlROWo3RzBCWk1JSHVCb1d1OHU4LVBTR2xvN3FnRW5fc2tNX1FZc0ZITXdLT1BZZmo2MlpiOXhNZVlzbHdFd0l6SE1OaFR2T1FMWE9xMHUzUVZaZXhaYTczLXVReV9uZjdFOEwtZC1WanpyZXR0TWdxNDRrWlhJaHlXV1o2LXFlbS14eUVxcU8zc1VGWERrNVZJa01Tc0xJWnpFbHYtUmJSVjZNOQ?oc=5",
+      "date": "2026-10-08T08:49:36+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Forbes Global CEO Conference 2026: Tight Renewable Energy Supplies Could Be Bottleneck For Asia’s Data Center Buildup - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOOF9oY2FWWS1tTTEzMWw0ZWJIQTRkZ1J3ZW5NanJSOXd4M2gtM01EQWx0eEJ1Ym5GQU9TNkgtNHdjeTV2SkNkUFhTM3JOMXBwV3lrLVY3bmxlRlkyRXYxc2w2U1RRdVExTmdiOFJjSldrY1h2MXItT1czSUR3ckYzS1FyZHJyRWlMLXZmMDFGcE90a3d4ZWlxNVUyVm14SGdfc1JLV1BYS2QzY0cxTkYyRDh6SXZxWU5RbUM4Tm1hbUVrdnN5Q1hCbjVRcnJ0Um9kVGpScjR6QWktRnJpdDdTa0hQX0xIYXpJekNzUjVOS0NIWUxJYm82bG1YSDh4UXRl?oc=5",
+      "date": "2026-10-08T07:58:52+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "CHAR Tech begins commercial biocarbon production at Thorold renewable energy facility - BioEnergy Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORVdibkpMUEZIYjVsZWhzMXhTSUJ5QzVUdGZFZlhfNGhidWF1Tm9pOHVzNHpGZ05ZRXBEUTZUYVU0cks5Y0FuaHM4V05HQlY4TnprdE5QSEdSRnpBSHhSNFlQd1BKSVBXR1AxSmw3MU1YeHJFNTRTMXlVT2FzNDRBUzNWX1lsS2w4bkFtWkVfMXpsZWhmb2dNb2hLQVFQandDalJmUUMzWEZWT2tnZURPUFlhZw?oc=5",
+      "date": "2026-10-08T07:58:27+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Wave and tidal energy outlook: global potential, policy and technology - International Water Power",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYzVtRVlCcU9ncXZhcVN5QllULUZZWThaZWZTYS14OHplUmRRZVViT213TjdnVTEzV1RyR2dUWndFRUhUWTBrSmdqdDVEazhBeExOblAxYjRtLVdIUkM3NEFfRHFfVm5vQUViU2xSTmQ5OW1YLWxrT3dJY2FKUnlxYTRuOEFmRDRZMWg1TlVqM3d4aE1pT3pmaXVMMEhRd1dYWG1SSTNOS1h5dS1yZjJ3TzZDQQ?oc=5",
+      "date": "2026-10-08T07:23:58+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Tata Power partners with Ocean Sun for floating solar pilot in Maharashtra - MediaBrief",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWcDJTR05maW9FTEN1dVF4Qm5MaVoxZEtHbVlwQWY0d0NRVVNPXzZYZVl6WW15Um5VVGR2QXFmRk4xTXhQLWVTbTVsYWZXdHpQRXg0Z09LMVlOOFhMMEF4MThOSHJTTHRYOWc?oc=5",
+      "date": "2026-10-08T07:12:42+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "BatteryShowIndia #BESS #EnergyStorage #BatteryTechnology #RenewableEnergy #CleanEnergy #EnergyTransition #IndiaEnergy #GreenEnergy #EVIndia #ElectricMobility #SmartGrid #BatteryManufacturing #MakeInI - City Today News",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNbTd2SmtlSGFTSjRkZ1Z2aFlwYUdjNkJVN0F6ZEtxSHpKNGR3QjBNb3JoUUxJQUFRMWw3bU55Y3JFQ1Z5QUJrS2VnM3hqaGNhMFJGV3lPcndLcmYwZXpfVjkxcERWR205RVZnSDF6SGtveE5zLVU1T1hmV19zb1AxcTBZZmxFTHNzdzBsS3NyckFkYmNPQU1yS0c3ck13WnBJRzQ3QXZWTklidkI2QkozUWZNQ2FObDhOQ1BZX0d5RTlZcWlUVDVqd1JjODFHY1B2aFRTZkxlZ2ZMT3lZQlNsSnBDSkU2d1N0SV8zc3c2TF8zVHJZcF85djdzUEh6R1JtM2g2TjA1cHdTTm9aSG5EWUtCMjNuTENtWEZnUHh3eHVVS2trd2lWOEF1SzNrOTJXZ3RRRHVYZ1NEMnc?oc=5",
+      "date": "2026-10-08T06:27:38+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Clearway Energy And 2 Renewable Energy Stocks To Watch - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVDM0RkVyemV0Vnp0RlNXMDJEeEVXR09UM3B0UWN2R0pSR3lrRW5NVzlZcHpiODNUdkZtRVpoMllVMmN4MTdaRlRqc0QwbkxfR3QyV1lCdHlQNmp6Z3UxMVE3d0lkamZpZDhMRi1KSVp6dFRQMGpOdDJpTGNWTV9JbjNFeFpoT1FyZWI5cDhwN24yQmV4aHc?oc=5",
+      "date": "2026-10-08T06:15:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Tata Power, Ocean Sun partner to bring floating solar technology to India - Construction Week India",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS0F2aVVfRm1iZmZYMk5uMkFaclhKMXROY1AyeURWak12R3J6ZUpueHJtdlVlSTU3RGF1Vm82aDc0STBjSXNZa3JzYlFrelY1STFxcTl3M0VvMWRGRUNETEI5NDkzdEhQRUFQY2dSSjhTVWxBdkN4aXU5RjNsSk9ObUQ4c3dWNjhvS0NEVzdiWnYzaHpSNUcxNENMYWFJclV6ZGtsX2NjTHRVeGtaVzVETWNrSnlwYWRnZlV3?oc=5",
+      "date": "2026-10-08T06:14:45+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Tata Power's TP Solar produces 1 GW modules in Q2 FY27 - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa3Y0UzRUV2RFRERrTmlmUkgzcFV2QnJzYnBjdWVFSWhoQl9mRUVOOWx6bkJldF9vYnVybUplTVJNZEhweGZLV3NVVm41RzJQVFotTnhOWGRPQ05pX1dVQjluRDg1bklxdkF6UFdxZmFraTZNUFFFTzZud0RFYlc4UmhKNVdjV1Y0bzZmM1BJZGh0cW1kMlJBSnFpVXZVamJ3bHpiUl9GdVg1Ulll?oc=5",
+      "date": "2026-10-08T05:51:46+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "NTPC announces cessation of Govt Nominee Director Piyush Singh term - Whispers in the Corridors",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1k1NGJJSGpHUXpoVjFWR2ZiblBXSS0yeVFBOVNmSWxvM3hlSEZsRGZPZFRPLXA4dGxXZl83YnhqT0RfeEozelpDTUtoY1o2TktyZ0NBR2ZsSlVkUUdnelVIbG5jdXRRT2RZdC1zSEUtSnpLVldnRzB0akhyeWlWSDJNUFMzYkNVaUlVaUtHM1hSaUl1dllNQWx3Qlp1UGV6Rm5qQ2Y0Q1JuY0k?oc=5",
+      "date": "2026-10-08T04:56:33+00:00",
+      "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Tata Power, Ocean Sun Tie Up for Floating Solar Tech - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNFhQdi1qR0pSR2diUHVlSm8wRG10c1Z1SFdpX3ozQ2gwd3UtQlRtNlM1eHdzeHBUczQ5elJDZXVsNTNoWFpzaG5QSGNUcWxvSGV1Tk1OWXJXNzdwUi1pdmk1VkRVazNqM01nbFhZclVWR09BRnNYZ1BMc19NZ2VPb0JIRTl0VTltY0RRMlREenFPb0FhSVBManFNakszS2J5UjNzWjJIN1B3UXAt?oc=5",
+      "date": "2026-10-08T04:12:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Tata Power and Ocean Sun Launch Floating Solar Pilot in India - SolarQuarter",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeUgwbkwzMmFzbXdDcWVLbHk1am03dG5BMThrcWIybzNhbjVCZ3Y1dWJ1UlkxUHR2Y3JjYlU4QlpEazdyUHNiN00yRVgzRTdacVFRUkl0MUJycDBJcWlHQy1Vby1aQjd3aEY3bS12bFNLeDNlbHg4YVlFWHU2T0hORk41RnRoR3lRR3hpbTVWcWV3cVA1RUYzckhaTWwzQkJhQXJRbmlPbU1fOWFsLWxtWjdCam9QcDNtZElkZi1RakpqZ0VFanh0RmZNejg2dXRVbXlGTV9odU1uQm8ydGhIWkhzMkVoZlk?oc=5",
+      "date": "2026-10-08T03:51:55+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Tata Power Partners With Norway’s Ocean Sun for Floating Solar Project - HDFC Sky",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNEZGRzRqSG1pSlIxYlBTZ3BkVlhmdGlia09NdVRvWWZvU3RQTTdrWlo3MW1zd0FURkVtck1MNHQ5Q1c3VVg4TEZBV3hYbVh1LXNZczFhZnhTVS16Vk5wZDRHSlloc3l1U2t4ekFTX2NKMjlrc2JtNzBQUVBvc3BfaDVYZlc2Y0dnQk9xWWFCTGNOcmNzSmRsT0t3?oc=5",
+      "date": "2026-10-08T03:48:40+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
@@ -11,7 +195,15 @@
     {
       "title": "Rimac Technology and ECOBLOX Partner to Bring EV Battery Tech to AI Data Centres - Tarmac Life",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVTliY3I0V2tORElZd3ptN05kNjZKV0xjVGpTQjdIaUZLVFlSUFhNZFJJMjdoWmY0ZEV1ektPOFhxVk5LZ3F3YlVzdGt6MFBFTHpnc3pSZW9sanZ3STJVM3NFYzdhS3BfQlFnVE9pOFBqb2lxVGFYOEc5YXJLQmFKcHAxU0Y1bU40SXdLQTFrYzVtZTVZTEFwd3A4dE5QbU1BX0FsYUtSc3RET1ZoV1lSMmpSU3kydw?oc=5",
-      "date": "2026-10-08T01:38:17+00:00",
+      "date": "2026-10-08T03:21:47+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "The Chinese whispers in India’s EV batteries - The Daily Brief by Zerodha",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11dE1EaTJGbExhR0dxd2xkY2szYzVnTWx4VURDZUlxc1B2UGhiVUV2eG1IZUZDZ01BcUVYTG5yQzY0OTFia0VVT0lYX0l1N1VrbnRGM2h3WExId204aFFvRVI0N1YzQnF0dlMxWVpRdENsdzFKaFNYTA?oc=5",
+      "date": "2026-10-08T02:11:20+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
@@ -25,38 +217,6 @@
       "source_type": "google"
     },
     {
-      "title": "Going Green (Tech) - PressReader",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd21QbEhOTl8wNGg4a2NlVWpwa0RONF9WNHMtckhwT0NIZ0NteGszZEVVc1JnOUJSWTZfTWVldTgzSTZOa2dVXzBUVHNVcUNBS2dtdFk2Q0hfUHBDZ3lNSEdaODI2MFNsTU41Z1hSbXRZRjlXdWw3Yi1XZHNZRm5zUEFaMWl3dG11MDBtenFIaDdwNWgzNWxNRzVQTEg?oc=5",
-      "date": "2026-10-08T00:23:05+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Hyundai Engineering launches Korea hybrid electrolysis to track renewables - CHOSUNBIZ - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON0ExZmlhaGdnenI0WnROSkF6UEZjV29DQzYyeWJFeFJRUmtoUWQtTGREcU1mSGlrcHJIN215Qkx5eWFJMDJhYk54Nld6Q3RFNTBvVlhnUTRJbUZBeHNUTThvbkl2MENBWnltWi00VVB4UTMyWlJFNUVWLW1zLUtOWFBYenTSAZgBQVVfeXFMTnlDaGw0Z3h1WDNFWEJQQVE2NmJCZFgza0Q4aWxxUFg0cnZVWGdKTlZ3YVExOVcyUTZROVprRkh1R3lnX1hDSEk4V2owX09RZTB6azBRUUlHd2RWckpjQzk5eUxkV21BX2pMOHJES09sQ19WRGZsTnRfYnpkWjNhQkhNYzlMXy12NUlPbWJwOTYwbTdDWm9TZ24?oc=5",
-      "date": "2026-10-07T23:56:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "India’s small steelmakers have no easy fix to go green - Eco-Business",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON1RJSUlVWGRfT3otY0RTQV9PVnFIQ0tpclJmTnFxN2Z4MUFsa0ZaTlNLMWlkZElVRlF4YWdDakxvclhjSmd0WUpJTERtcVMwdmZRQVluMy1MSmJXak9zXzNUN1AxRmFlQjFsWWtOMy1ub1l4NjVOYVU5NU40TnRrUjUwTGpmeXBLSjFCMnFLWFdCZw?oc=5",
-      "date": "2026-10-07T23:46:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "South Korea Unveils 1,000 Trillion Won Green Transition Strategy - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNVhEUlIwa0Q5cWhQejgzaHlXUTBua2RjalN2amozTURBay1vc0pfeWdHQ0x4a2FWYVcxM1BOSkRNdjlUYk1aYzRXbUswYnM1dXAtVi00aUhhUXFiRDIzMWxsYmlseVpkUzRNSTZ0UVdyV1B3cFlHT2pfQ3JqejVYUHIwNm9YX1RuTGxxbkF3?oc=5",
-      "date": "2026-10-07T23:31:05+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Honeywell battery tech catches hidden defects - Battery Technology",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOG9lUXY2elZCMTRBOXI3Nmo4MmZzRHRlSWZwbUpWRktZSV9nTkJHclduaDVQaVl5MjFSaTlOSE1uRmp1bXlVNzZZMkJQQnduakNOWDM5TGRSVDM4dFZhZzNFX1R2dGJDUFdhX2lOUHJQNE90MDZfWFVFNVdkOFI4MUw2Q3IzWks0RW1MOFVONVM5NG00eXJiQUVnQVRtMkZYRlZydGYyNl92XzBINERDaGUxeFVjSUo5Tmc?oc=5",
       "date": "2026-10-07T21:57:10+00:00",
@@ -65,9 +225,9 @@
       "source_type": "google"
     },
     {
-      "title": "Green hydrogen production method yields valuable industrial chemical instead of oxygen - Tech Xplore",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQXhFa2p2NzJKcU9OWGVZRHkzbWtoc09zUzh5SjNfUXhJXy16N3JabFhmWU0tLXdCdDU5OEFQcTVwajVyVVhoaUY2Y0txZjZvUGZrbnI5aTU2R3VYTE5weXE1SmxVb1A3OGJReUx3UnF3YnRQT1lkTjRwVGZ2U01Sd2dZZjBFX0k?oc=5",
-      "date": "2026-10-07T20:40:14+00:00",
+      "title": "The American Solid-State Battery That Just Leapfrogged Toyota's Decade-Long Roadmap - CarBuzz",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWR5Z3VMUmNnUElfam1jbVJyd0dwZ3hfTEMtQ1RObmJHU01sQVc0MUdyMFR2Z1VaTTN1R0stLVJSMk05QmtVZndzLWpYWjdZSG1ZZkJHRTN6Tzgwa2ZaLU9wOFNqZjFHOTBhZGRDbkRLbnBZLW5KU3hmWjI4bVpZTlVvcnRYcVlpM3RmdjdNQTBQZWJaT0VhSEJNTnJhbzBKSDFuRA?oc=5",
+      "date": "2026-10-07T20:13:00+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
@@ -76,22 +236,6 @@
       "title": "TECHNOLOGY: China’s CATL Debuts EV Battery With Speedy Six-Minute Recharge and a 1,000-km Range - EnergyNow.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbWhndEFibVRaQUZrRmVvb21lUkZBUEJCc2puaXMwajZ3VV9lSVMtWENtNUV6bjNFZUNVaUY1VlVDZTVDSTRSTGFxQlNieEFjQkZRTVNUWVM2N3VKUEtQdk1HTGhlaXFjLTBLN2Q2ZFY5em8yamwyeDRndVVlMTF0SDVJTHZyN0hIbzV6VGZ3dnBLSk1DV212MktST0xXZ1FkdlQ1OUpqbDZ0bHVZZ1Bna1ln?oc=5",
       "date": "2026-10-07T20:11:34+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Redefining Scale of Power at Industrial Level: Siemens and FuelCell Energy Tackling Distributed Energy Together - EnergyTech",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWC1aeGExSnlnZ2RNOGhhbFY5amZJLXY1YWx4aWFwaDJvdDl5QWQ1Rk44MzVja01ob2R1WXpsZC1oWktxRVNTaXA1UmVLaGxsT21fdE9PbVpwZ3ZieExyNUNTblBYcWpucjc5Vk5MRXJDNi1vU1gzdEJFQTRpT2hXeWZQak9oaG5YUWZOQm45VWxhVHVLOHpyd1lkbHh3aTJ2dzhSZ1ZkaFlaMkEzTXNKa2N3YU5vTi1OVkpPN2pQUG0xYklCWld5dVJoc0F2YWE3NTl0UWt1Y1R2VHppaW1sSC15YkhmSzV3Y2N1RlU0WktkWXMyNldaeVduMlo5TlJjVFpjTVNiVkN4WUE?oc=5",
-      "date": "2026-10-07T19:46:59+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Morocco’s Renewable Ambition Needs Security at the Edge - Morocco World News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHhqdG56akhIaGF5ZzJWOWhNejUxNVdtOGM4OE9wQ1AzTXg0M1V2ZnFIUERPR2RoRmlGUVBEWUJpTTd2WE1BRHQyT2Z2QVZhRUFHRmdnMUhPLTBPSWFZUURqaUJoMGU2djA0SnBWTjRVSlRzQWNPMzdNeGR4cTBhalNsbzEwdkY3bnhFTXl5bGpTNUIwOTBBNmx0ZENjOUFwXzNBVld3?oc=5",
-      "date": "2026-10-07T18:32:29+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
@@ -108,14 +252,6 @@
       "title": "Exploring Earth’s Resources for a Clean Energy Future - Syracuse University Today",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ3hTc1BTR1EtZ2JPS1B1VmRwbWdXNXRnYU5SbGVIR21Ed1VmTDRwZDdjd2JMX1lxWTZEY0ZnUWttQjZ0Y1V0N2tIY0lieVdtbUpXdFFFUzR0MUVRVWlmZVZaWk16ODZrZTBKdDJtTXUwLWpXNTlmbzdjcDBJdUZjU1d5Q1doaThkRGJsQi1R?oc=5",
       "date": "2026-10-07T17:42:12+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Renewable Energy Stocks Q2 Recap: Benchmarking EnerSys (NYSE:ENS) - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2FfWXVYV0xFVG9janJjR0h4Mnk0LV9yUG5BU24teG8xVmtXeEpIR2tEQkwtTmRqTFJCR3Z3VVhteVEyVXhodWhFdmVLZ2F6aVFzdXBVMmlXdC01SHhvTFR6d0FuRHgzbjhydU1ZV2FGd0tpQS16RUlxaHhLSUlNLTUzT013Nndsa0V5anVVUnc3bTg?oc=5",
-      "date": "2026-10-07T16:56:47+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
@@ -193,34 +329,10 @@
       "source_type": "google"
     },
     {
-      "title": "New value chains from two industrial – renewable energy centres - Báo VietNamNet",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdThfamFsbUlxaDlfOVhsdlJfdkNiX3RFaDBBV09BWDc0SUJ6dlZZbXlaUTlfOGdpSWhrbi1EdzAzQmtOZlZ0SWlidG1fMmMwekJGNzVZLTBZaTM3QkNwSGpOUzhXSkJJblNhbFRLR0RWbG9FQy02OC1KUUFwWWdybjZPeGt3OXowNHRySUZ2RTczSmlYTk9mRDFxaU44NlND?oc=5",
-      "date": "2026-10-07T14:15:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Mobilising Industry: Towards Stronger Africa–India Critical Minerals Cooperation - CSEP India",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT2JOanJBQ0laa2V1d1RMdTViUzVDSFJBR2ZOS1BRcEZfTTdtRmw0UDdzMlUzclZXSEUxREg3QTZEdHd6Ujh3bFZsSVZQdHhuOG5LRGtJSmVISFU0dHFNbHNQOWN1bEVKQklWc3ZWcUxUb3V5bTZ3Y2d5SnlYUThOMk5zb1RWd1JpVk5OS3gzTEZlQTU2QlNRY3Vpa3hQaUFERlM2eWwtTnEtUU9WV192bg?oc=5",
       "date": "2026-10-07T14:02:49+00:00",
       "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "UK-Backed Clean Energy Innovations Poised to Scale Across Africa - Africa Science News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU3pTQUMtNXViVXdHZ2RZa1JLakRrZ0xiNnlZN1ZqRThGbk5BMjJMd3NmUDhuWndMMnZ3V2ozMFE1dUZUajRNYlVwSEtYbk9seHFkYXpJeE94UC05MnVuOGgxVENvaUpfWC1UUmd3WXF1MzZJNUlkbkxfNWExdVF4c1M4WGN4WlE4Q3VsOEdBd0dNS0piZlVYMkFn?oc=5",
-      "date": "2026-10-07T13:04:58+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Tata Power signs deal with Ocean Sun for 300 kWp floating solar pilot - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0lBdFJTVURrN1dBYTltS1hFd0JiU2lwSUh4UTlSM3BMdjRWeEtxTDFVYThyZVFNSUMyN291RWFJdEdGbmFCR1BoYlFHNmdQRmhEWWQyeWx5dm1CQ2NyenQ5bHVaa3VIMnhFdlR1aFBhY09SNy1xU01fV0xPUHhHdl9xaG8xcGFsZ0tMcWZydTJWWG9GV0x1Tmx5QjVfSVBocTkza0c5Z2RGdGFLemh3NG8tcFFmc1FO?oc=5",
-      "date": "2026-10-07T12:52:19+00:00",
-      "category": "TECH",
       "source": "Google News",
       "source_type": "google"
     },
@@ -249,14 +361,6 @@
       "source_type": "google"
     },
     {
-      "title": "Calisen fits solar battery tech across EV fleet to cut downtime by 50% - Van Fleet World",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXJCWC1jUVUyb3ZsVHV1ZGM5YTNVTHNWT0FHWjlwQ1lSRE45bVhRR0RTU3ctalo3cy1zOXZwUWZOMk5MQThmdG1VdEpvSmF0Z3lXQkl2SGFhLXJnT2JyS21wV0ZGa01hNllqaEpUa09wYUVYUkpMREhyM1RjakVpemxSZGZSR1FQSHc0YmJEZ2YtWkZpYi05dUFCTkMtcFU?oc=5",
-      "date": "2026-10-07T12:17:47+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "UK-Backed Clean Energy Innovations Set to Scale Across Africa - AZoCleantech",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pT282dXJaaFZhcHBxMEluZktBWk1xWmtVYmJkV0t4RGEweTltN0pkQnlGOHJ1aWg3NXh4WEpMUC04RmZJdXlEVTRJVElURU5TSmVxYWpWV2FCUGZ2emRqcg?oc=5",
       "date": "2026-10-07T12:16:00+00:00",
@@ -268,14 +372,6 @@
       "title": "Energy Compacts Annual Progress Report 2026 - Sustainable Energy for All",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMXA3ZE8wak1KbE5YMTg0LThKTXRHLXRkckxYNFdXM3dHbDFIaVN6RFRyU3kyb2piajZkdzZ5a0JlSXVtbkkzZTBzNDZqckVUeVZUTmFqWVlETHZGckx4SERSaDEwa05ZaGFWX1I5ZXRwSUIyRGZWeXpiZllVOEZLeGJVaXAxaUlL?oc=5",
       "date": "2026-10-07T12:00:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Energy-importing countries scaling clean energy three times faster than exporters - Engineer Live",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUk5MC1sRjBESEcxbnQ3cFNwVkJKQjBfQ0JHd0lzSHF5TFNnd3NNNHNnSFllTUJfWlZ2R1RZb3NHOFdpUS1UR0ZaQWdFZklyblpQYnplX2hYZ0VyYkV0SFhQaDlJSmlOSHZwR3QtOHFWN01PVTlXeHRxbTlCNlEydUg4RVF4YXJkY3RDNDdtYlRoTFp2U0UwYmhiQ0pBMEl1cTZmd2JxZU95NzA?oc=5",
-      "date": "2026-10-07T11:57:49+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
@@ -305,34 +401,18 @@
       "source_type": "google"
     },
     {
-      "title": "Energy importers scale clean energy three times faster: DNV - Manufacturing Today India",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90YjVsbDFpQXBiVkFzZ1FKU0tYdTJ3Z2w3ZS1nd2pTdG5Ud29MZlgyOTFQTjA0bFFxOWcydDFuX0taXzFHUG8yY2k1VzIwWFRsTUFlZUxpbWJiXzRKTmwyWHg0NVQwYkJJZ0RGWURycGpTRTk2em9LeEdOSQ?oc=5",
-      "date": "2026-10-07T11:04:59+00:00",
+      "title": "New metal-free porous material could help make clean energy more affordable - DD News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY1FTd284R2FNb1ZNV1JWalJsQzd6NW9kdXcwLWc1Zm5mU19uY2ZuRGtJSzlWOEFDMDRFZk1ZZGxESWlpSmxCVlBwbzBDTlhoRmdWNGc4WElfcFBzMWdVQWZxODhaLWtyVHhJczVPU1hoemNZTjF0NUtZOW1EMFA1UVdZUlVvemF5N2FyTmtoWTdDV3FxT3Nldmxxd1BPV3JPS3Jn?oc=5",
+      "date": "2026-10-07T10:48:22+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
     },
     {
-      "title": "DOE selects second round of hydropower projects for technical support, with modernization in mind - Renewable Energy World",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVVh5QmpacndydXpkZU4tdlZKdFNoX0ZobWc1Y1dIMk80XzlrV19WTTk3bEhhVXhuSUpWTlR0NmtBNkd5U2UxRTVXNUdscC0yRGNrU2tzbUdzdnNudkIzRUFTTU5SVFpvS0VQNFpFU0ZUZDN5UmYzeUtqLWFpNGphc3FuNUtlRjZNUVV4TWhFdjVZdVVHR0gxZ0dJV0pvVFZHdGg0UWNTMGRaZllHejU5S0JXNE1KLWFZTW9zSkFNQkQwYmIyRW5ON211b0QtTXQycm1mZnhiLUdabm12TVdn?oc=5",
-      "date": "2026-10-07T10:50:23+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "New metal-free porous material could help make clean energy more affordable - DD India",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ0NuVUh5ZWhiWGNyZDczRHJoMDVlbm5jUVhwcTBoS2dDWElKR1h1WmdvZEFEMkV6aFg1S0JEbkNCX2UtQWRUSUlPNDJvZm85OVdaRERPVEpZTFZWZnNhb2E1ODJWMEg4bFhwNVc4NUVqVmZIZzNobFE3UGo4bFpwbzlpcDFPVzNaUGNRVEZhWm9DUnFsb09tWmhMZ2ZBNF9SLVhtRDhKWG5ndw?oc=5",
-      "date": "2026-10-07T10:47:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Next-generation geothermal: borrowing oil and gas tech for the data centre boom - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPam45NXBtN3RSM1k2dzdSZXhIVzN6S3lfODA0VU1hcVhyakI3YWJfM0lQMGwyZ3ZSLTFOWEtUUmRZQUhiWFh2TDhlR3JfYUlFclhkaWRKd2dEZFE5VnNRV2x3dUFneWhDQllFWjlhRFY2anFveWNzYzA4Z0FnNVBIblZQYnRjeGU4cmkzT2F6Y2o4UXNXeDY5dUlCbVNHdw?oc=5",
-      "date": "2026-10-07T10:45:53+00:00",
-      "category": "TECH",
+      "title": "Mega Pep Talk Reinforces Safety-First Culture at NTPC Vindhyachal - PSU Connect",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQak50Xy1hSkhJRWZrOTRfX3pMekRnZkx5ekFBUC0yMmdPdHVXeHdXd0xfd1pkdzU5OW9yMmRpNGd0T05HQXh3OTFBaHpoNjF2NGh3UXZrMm1Pb2Ewb0pPM1FMYVJ5aVAtUFpVNzRKQUVGbVUzRkw5ektSRTZYV3J3YmtHQ3l5M2hKdzVENzU5YVJnNzQzN1BvdFl2dkRVeWkwVGc?oc=5",
+      "date": "2026-10-07T10:03:00+00:00",
+      "category": "PSU",
       "source": "Google News",
       "source_type": "google"
     },
@@ -345,25 +425,9 @@
       "source_type": "google"
     },
     {
-      "title": "South Korea unveils US$747 bil energy transition plan through 2035 - The Edge Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1SzVmeWJXcmtxanJUb0JWYlhNY3laZm9Wel9rSm5QOWRnRl80bC1Iay1sMHdwLWRWWEcwRmtiMzh6UEtGRldVWHhHVl9tZkUt?oc=5",
-      "date": "2026-10-07T07:51:36+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Automated EV Battery Swapping Market to Reach $13.70 Billion by 2035 - TimesTech",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU2luSVZ3eFp1OFpXV0hlU2Rlb09ueXFDVG83MnhEbE16STJEdWxhYmVReHhaN0hkXzlpQm9GeGdiNmV4ci14Ry1BUDlOT0RKNkZSY3JDTU40ZndySklXZ2d1WmlyanJkaGdVcFBLbzlNa24zMDl0QmFwZUJBRHVCUklaRWFPbFZLWHRBOGRZMzdVNVU?oc=5",
       "date": "2026-10-07T07:09:50+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "South Korea Unveils ₩1,000 Trillion Green Transformation Plan by 2035: 100GW Renewables, 70% EV/Hydrogen New Car Share - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XdWZRZ1lrZXZJZDFtZlFYVTdkNFVoaHZuWHdXM3VMeGVwODZSOC15YzZMQkRGTUlYVWUxLUc4U0Y4OHI4N3I2cENJM3puWW1HZ2dVMG9LQTJuN2NPdm16NnpzNnNLMEtOcjljMGZ5QklIX3EwcVE?oc=5",
-      "date": "2026-10-07T06:35:00+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
@@ -393,14 +457,6 @@
       "source_type": "google"
     },
     {
-      "title": "PTT and RINA partner on energy transition and maritime technologies - Asian Power",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTjFrZWNDTUpEU1Q4RDBTelRtRHEzSUkwVzQxcHdVbVJtN1F6RkdENExQWmdFVkZVNkpiaS1tUnd4UGNtMVlfcmlVa25PZG9tVnJ2VkZHbHVfWTAxUElsNkhRNG1mTVFyZFpOUmNBWTc1MVRJaGVaVkFnRXVsZTgxSDVSSXVoeTIzZ2QyNXdYMTRDNU4zNEJvOQ?oc=5",
-      "date": "2026-10-07T02:20:52+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Four EV battery stocks with strong future roadmap - Livemint",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQnU3NHRvanBHQWh5ckxhTDE3SjlhNExxY2lBZXRGMnNDY0dSbTRHWV9abzZsdWxFcXBJbHI1MUt0RlJvckFKU1VSM2sxajFwcjhqR2U4MGVxeHNqcFRsVzZ6QURiUmRyczVzcllXZmFXX19fX0l1ZndUdmdaYjR5eU9fVERXSlIyYUwwNVhpYldFRGVIRGd6dEdCdlhtU2YtNHczT3JvNEpqRF9xNVBQZ3JkT085d3J6a3lF0gHAAUFVX3lxTFBuZEo4bTR3N1VRMFljTGxvWkt1RTMyNWE5ZUg1N25BLVh3VHItX21YN2ZzNHFWLU44TXphSU10c3k2eGhSUWliY2VvTVpwWXdCMktyZUlnbUhaUFBjTlllbWJJTm1kTmFVOS1DTFg5b25adlEwRlQwR2QxVWxNMlhHSjFYd3JNR3pZMHVYSFlHbERiZTVvdWYyLVRiZkNQVTNiRXFMUlNoZnFTeHJtai1lLVR2amdqYWhxZGgwSlVjaw?oc=5",
       "date": "2026-10-07T00:30:13+00:00",
@@ -412,14 +468,6 @@
       "title": "New types of training coming to Victoria for jobs in renewable energy - Department of Jobs, Skills, Industry and Regions",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzNSRjVNdlh3b1dnSDN5a2xnX01fYnp0bjJUT18yTEFqM01jS3RhNlh1Ri1RVGkxWWFTZERVQ0JibkIzeDMtbTNIcG1YQ2dkU3lIcVlkTVlIdXNmZGxMaDh6SHZJa1JKd1dBWkk1MGZFNVVrQVMxXzdtMXplejFXandNSUZKM3ExUlRkQ2s3YXZFZ0liaXk0?oc=5",
       "date": "2026-10-06T23:15:49+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Top electric power sector and utility conferences in 2027 - Utility Dive",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ29hU25OVWxCa1o5MkEtQW9ZSDN4QkNXRDFCalpPVi00RzFZc3lWcGJWMngyVWxtTlFGam9nMlBheGI3UVBJemdURERqMU9iNURGM0lNMGI0VzNqWTBPRTZBMWtfRHRmcE1DX3g2UzJQeXZ4TVh3cDczNGEtdkt6WWk1SnlyUDkwWE5RQlNYemdxbGQ1ZGJzVEtiZFFMUnc?oc=5",
-      "date": "2026-10-06T21:48:48+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
@@ -513,22 +561,6 @@
       "source_type": "google"
     },
     {
-      "title": "India Invites Global Mining Community to India Mining Week 2026 - Construction World",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXloWDVheUh4WHNXVWlmVk1VWFNFdEpIU2U0UHRaQlFRSDFIMHNQeUNlWjdhU0xJempvc0F4eTJsX3h6eVg0Q2hWODF0QTQzMi1rOTlnbUlKNXJpWW1RbmRXUmJMYjZYa0k1ZWptS2MyQnhGLVA4eUhrUXF4LUZRLVN0QmIwaEpLWjJ4R2Z6WVNzMUV1VlpEME1PWmRVbGhXWVNMMEFPNEl1bGpUcE1HN0tBajVwa2tlcG9GbC05R2tUMURVWjBKVmU1bkczbWlSTXY3RkNLQQ?oc=5",
-      "date": "2026-10-06T15:23:59+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Could One System Store Renewable Energy and Capture Carbon at the Same Time? - AZoCleantech",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5admJoclRqcW96UVRQYzhyeFVnV1ZrbjdaXzNsOVFBdHJ1d2h1cTh3dXIyTkhOZGF3cFVQUExLUVV1WjgyaG42UmRtZ1BsSE9IRVZQNmdiMDlOSGtDcXlCZURuVDZoSGM?oc=5",
-      "date": "2026-10-06T14:32:57+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "From Purity to Performance: The Evolving Role of Conductive Additives in EV Battery Design - Tech Briefs",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR25DSUJkeDlvdThjLUFZeGlHWmstbFdqS0NDUVItZnNfaDVBMVJEUUpNUXVOamlaNGxqWWdxclV2UzZuY0hlVWdUNnRkdlAwMWFGMXhINU90YllXbE1MMVBobC1Ca3RkeXdBdWJPS3luaWpRWXlHVmVKbXQtb0RvN3lGa2Y1VDR5dUxtSUl1dTFnNG9nY1lBVEFCWXBDY1cxSG1PajhPWmxYM2NLeng1M28zRXQwV1pvS1FQbkZZQ0JFaGxMUV81UjRYLV9UX1RmbkcwMnk5S0ZWU3RJMy0zTWVR?oc=5",
       "date": "2026-10-06T14:26:59+00:00",
@@ -548,14 +580,6 @@
       "title": "SQM, Marubeni Back Altilium Battery Recycling Scale-Up - The EV Report",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hQ1JSTkpmMUs1eGVBN0Q5OUwwc0Jka1pmblJCSzJzM2ViV3IxaTg1MGwzSVNWazVLdmdPS0FFajE4VmFYdEVlTzdVNDBUY2JLLXVSeHNyTS00V3Nya3hQNHJEbEJFT24xbk1QUXVMZWtfZmVqWFllSktXSWZZQQ?oc=5",
       "date": "2026-10-06T13:40:30+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Eco Wave Power Global AB (publ) (Nasdaq: WAVE) to Present at National Investment Banking Association (NIBA) 153rd Investment Conference - ACCESS Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOME5wLWl1bWtZaE5jbGZSV3VBbmJlV1V0OFNlb3dCSVVKbkVrT1cySVJZN0ROaHdZQnNTUVM2MV94TmZsdEJRYlluSEZjWFE0T1FRV2tUQnRDeGs2VVJFV19mOEl4YmZEZEN0VXRrTnJ1d3NTVXZmQ1ExNTV2bEFiZW5tY1dXWkp1OC1OaldGNXZ3ZGUydkx1OUtjWmhSUmFrS0JfbGFmRS1BNDBJZW9wZEtxOTNWRFhmQWpIZncwM0hyM05OWEpwTUhVSVVFVlRkdzJ4ZFh4OVpuZWZycXFCSWtFbTc?oc=5",
-      "date": "2026-10-06T12:33:41+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
@@ -585,22 +609,6 @@
       "source_type": "google"
     },
     {
-      "title": "Envision Energy and its global ambitions for wind power - MIT Technology Review",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbXBoMXVaTzhjUEV3Tkx6X1d6VWEtVjAzckdwUWFLMVJOQnhOR2tVN1Q2NUptS0RlWXdEZElOOGtxTHZ3MkJ4ekNCTXpKU2NoM2dlSGMyckpiMmdfT0VSbWtGemRYbXVqcW50UHNjSlJiMk4yREFsWGk4WVdLNlpJY2xuMFRKWHNFQS1pOUw2MHMwbkM5ekliOFI0VFhHZklTc0xIWUxEbDVLTXBZMExFalQyWVAydkJ2SXN3LVlQYjVlQ0xwUzREQmFnU0RlQdIB0wFBVV95cUxQUV9Qejg4Umw3REM2LTRQZ2dxQ3BTU0JjV2I1UXRzS3A0VE80Y3FqV2c3Rm50VDZVM2JvQ056enhkcVlaNm9lbm1sMzdXQlBvdWwyRG5DZHBSeHBSRGRzTVJqbTRDdlN4d0tIZmtjUXlmWHNhN2loOVJGeklVVXdjOW5rVlBsSjJVdXI0UkZzUy1JczdfR3VRclJVOHcydDBHRkI4S0ZNOHpydl9Eb0pRMUJ4VFlHWDJ4WjR6RV9MUkJfOG5IdDQ5N0JseWFpbk40SVhJ?oc=5",
-      "date": "2026-10-06T10:35:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Form Energy and its iron batteries - MIT Technology Review",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQU9saDhqdGNyTjRFaTBVRFpzQUtJTDJTNHJ1YW9zV2RNQjNiaVM0RVh6emEyNWRMNlZHMnRSZUdVUDRZQTdtU0Y5NjBzRXZnczB0UHZ4QS1zWGZib0UxbDRMX19ZVWRJbjN3Q2NzbWt5Z285ZUFaLWN3bWJyN2hLYU9HdW5GN0tMWlRwN3NfeU5fcU9STzVhX3IwU0FaVDFEU2R5QkFoT2otSEhORjE2UFRMb3Z5SHPSAbwBQVVfeXFMTm1kZUt5T1VxekliZ21uU1JOZ2ZoRHVueXFOQXh4ekpKS2MtN3Q3ZEFKRWN1YjBVTDBydnNLVlF3YjJZT0FWOXl6bGlyZVBlWklLR0JJY25iR3BRclBqX1VSN2psMEQzWlJXdzFrc0pWc2VrdThPSS0xMlBNUEhYM00yLXc0amp5dERvZnEzRlJrTWpXTmF0T01QRWpfRkduOWJiT0gzN1VtQ1BIWEZKU3B4ZkFjNXVtb2NjNGc?oc=5",
-      "date": "2026-10-06T10:35:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Energy Dome and its carbon dioxide batteries - MIT Technology Review",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZkZ1c1p0OTdmdHJIbGxwSnYwdWpZaWJmRWlVY1dIakx1Q05SblRza0s4eFhMbDVXUjRHd0ZWaXlyVzluYkJ5UUJNMXRKQ2RDNmluMDdieG9qLTY5YXFfZzljTlYxT1N4Z2o3dzNYVTBITDBIam9kMTVZSTJLb3FYWXlUT0ZfQXNBQ194Q2tMQjVvTTVLdjRxZnJLbndWb3VUaUxlZkc1Q2c4TmFsdHJ6YUxnRzZQS2hfY0JkRlhIaXY5OVV10gHKAUFVX3lxTE9lQjl5SWIxU01mSmM3YWc3NGJEa2hfZFlvQnR0Q2VSOE8tWUQwWFhPSk83QlZKN05OWFJBS3JUaXVKNk5vZFJkN2h0bnUyX3RpRDZDdXRyMWpnNTBQM01mWm8wTjJpelF3Y2JXWHMtTHpITXpoYkpfb29NSUpZMFFNXzBaTUpnV0JoOXI5UW5VSWJ5TXg5QXBWYkZaUFRTTmJETkNuTGZxbjVsXzJWaEtxTWFMdFhSNnBWNElSdzh1OFZIUzVVLXFxWFE?oc=5",
       "date": "2026-10-06T10:35:00+00:00",
@@ -617,18 +625,18 @@
       "source_type": "google"
     },
     {
-      "title": "South African mining tycoon Neal Froneman to spend $402 million turning a 600-hectare farmland into a For - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOZHB6SmYtU01seTZ1cHJpZVhZMXN3OTREaS1nLUZjOGx4akZDVlJaNWRmelJfVDBZYmtnRnNpQ3doR0NseWhWZXlVSDQyb0swVjRfSUJzWG9uX21paFNRNUJ1ME1hX1ZWYm5KQzRxb0NDQUpFSkNpb0U0anQxZVR5V0Z5VU5LRzU3UHRTWEd5UGc3UEZnMFQ0MUt2RTBUN0F0Qm9TT2ZyTlhyNndQXzVBbU1rLTBkT3BJeWQzdGlTSkxEZXJwdTZYcTR1a1VTdUs5MmtuUzVaZWc0Xzg3Y2h0X3lZVGpPbExoT255QlhYZ3pNSVN3QjNpVld2Y2loT2xUTmotMExKUG1IeFdqc3BLYTk2alhBbFB2WmZRbW9sSGpKYWdXT1diQXBGV3JrUFduWkhGZmZydUVpc1FZYmg3VWJfYWtCMWdnYnRobUp2bDZaeEpMMnNQbWw5VGk5RnktMEHSAecCQVVfeXFMUDhQcFEtaHJzREJBY2RqcGxqQ2tlZGF0czZnZ0lxclZtc1p6N2h1U0lxVlh1MzVRZk5OSDRodjcyUlFUejZweERlN3VxYmxaYlpCY0JlUmNmd2dRS3A5LTh0emJJejNEWkhWbThvbENwVUoyTkh1WTVxclJ6OGlKSy1KZkpleU9RM1BmajhpYml4RXFvcjB3TXczMHIwN1hvOW1QNEdpYTBRX2RuSDl4N01Cc2NjVWNNUWNfaXdnX0Y5VWw2MTYzVkZsUjVQdkhkYVFGY2pxbEdWcVhOdmt5ZEFzWDZ6R3NyUFhWRVpzSmtaTUxCdzBqVmFubEpSWDNBWXFJUlhKRVN1dGdmWUJtLXlCWXVUdy1ScXB3Q0RsMjBVdGZZUWF0WW43ZUlnTlBVXzJSRF9zZFpWUjJ6Ti1XVnRMbWU4YWRoZ05vRC04VjQybW1UY05iQW40Vk4xdWhjenVMc2hkNFE?oc=5",
-      "date": "2026-10-06T08:25:00+00:00",
+      "title": "India Invites Global Mining Community to India Mining Week 2026 - Construction World",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTXloWDVheUh4WHNXVWlmVk1VWFNFdEpIU2U0UHRaQlFRSDFIMHNQeUNlWjdhU0xJempvc0F4eTJsX3h6eVg0Q2hWODF0QTQzMi1rOTlnbUlKNXJpWW1RbmRXUmJMYjZYa0k1ZWptS2MyQnhGLVA4eUhrUXF4LUZRLVN0QmIwaEpLWjJ4R2Z6WVNzMUV1VlpEME1PWmRVbGhXWVNMMEFPNEl1bGpUcE1HN0tBajVwa2tlcG9GbC05R2tUMURVWjBKVmU1bkczbWlSTXY3RkNLQQ?oc=5",
+      "date": "2026-10-06T09:26:06+00:00",
       "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
     {
-      "title": "Forum Energy Technologies appoints representative in Japan - Windtech International",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzUxMHdIVVE5X3R0VGdXN2J0RHNVNmFtd1A3c3lId0NPUXBGZUZXRHN6dHB4bHJCV2JwWXR6ZEdJd05PVDlYSXA2d0ZIWnliXzFLdVV5VWFtRlpmQ3hfRjZ6cDExNFRjbGhnemM0ZmNhN3VSdWtNWUJMdmlJX0VyQjB4MDNPLUVLLU5MS3hQOEd5dmZScE5PeUZFQU9NbUxIVGplOUV3Sk5zeGtONVlZ?oc=5",
-      "date": "2026-10-06T06:59:06+00:00",
-      "category": "TECH",
+      "title": "South African mining tycoon Neal Froneman to spend $402 million turning a 600-hectare farmland into a For - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOZHB6SmYtU01seTZ1cHJpZVhZMXN3OTREaS1nLUZjOGx4akZDVlJaNWRmelJfVDBZYmtnRnNpQ3doR0NseWhWZXlVSDQyb0swVjRfSUJzWG9uX21paFNRNUJ1ME1hX1ZWYm5KQzRxb0NDQUpFSkNpb0U0anQxZVR5V0Z5VU5LRzU3UHRTWEd5UGc3UEZnMFQ0MUt2RTBUN0F0Qm9TT2ZyTlhyNndQXzVBbU1rLTBkT3BJeWQzdGlTSkxEZXJwdTZYcTR1a1VTdUs5MmtuUzVaZWc0Xzg3Y2h0X3lZVGpPbExoT255QlhYZ3pNSVN3QjNpVld2Y2loT2xUTmotMExKUG1IeFdqc3BLYTk2alhBbFB2WmZRbW9sSGpKYWdXT1diQXBGV3JrUFduWkhGZmZydUVpc1FZYmg3VWJfYWtCMWdnYnRobUp2bDZaeEpMMnNQbWw5VGk5RnktMEHSAecCQVVfeXFMUDhQcFEtaHJzREJBY2RqcGxqQ2tlZGF0czZnZ0lxclZtc1p6N2h1U0lxVlh1MzVRZk5OSDRodjcyUlFUejZweERlN3VxYmxaYlpCY0JlUmNmd2dRS3A5LTh0emJJejNEWkhWbThvbENwVUoyTkh1WTVxclJ6OGlKSy1KZkpleU9RM1BmajhpYml4RXFvcjB3TXczMHIwN1hvOW1QNEdpYTBRX2RuSDl4N01Cc2NjVWNNUWNfaXdnX0Y5VWw2MTYzVkZsUjVQdkhkYVFGY2pxbEdWcVhOdmt5ZEFzWDZ6R3NyUFhWRVpzSmtaTUxCdzBqVmFubEpSWDNBWXFJUlhKRVN1dGdmWUJtLXlCWXVUdy1ScXB3Q0RsMjBVdGZZUWF0WW43ZUlnTlBVXzJSRF9zZFpWUjJ6Ti1XVnRMbWU4YWRoZ05vRC04VjQybW1UY05iQW40Vk4xdWhjenVMc2hkNFE?oc=5",
+      "date": "2026-10-06T08:25:00+00:00",
+      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -657,14 +665,6 @@
       "source_type": "google"
     },
     {
-      "title": "NLC India Appoints Chaitanya Prakash As Director (Power) - Sarkaritel.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rT25sMGpwclNrRXVSM1prZ1VqbHVkVUhKR1dXQmNOdW9WVXhhMm1kS0ZyTE0xdHJub205SXRSc1FONkwxSnhqcVhrWHROVzRRU1R0MjFDYkFfZXJQeXVvWVg4S2ZOLUdWQUZLai0tT0pmRDc5RWdzcjVn?oc=5",
-      "date": "2026-10-06T00:28:48+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Data Center Batteries Shift to Active Power Role - Battery Technology",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdDV0UkFpT0hpcUc5NU93LTZfUS1Uam9JbFpwWmxOU1pIVWJEZmFRQnA5ZnBIM25GV0VmcnpXeFNULWJEYVBvRXFTUEt6YWlZZDFHa3VwUjJ0UW9xMGFjczVHMjAyOHgyRmNRN0xFX1RtWEFibTV5Qk5oUDBoS1J1cWN2NzRaWk9ESDhkbU96Sm5fWnlXbnlqMXA0Qm1HYXFrUFlWMDJCdUdmTXFkdUpIbURJN1BJMzhzN01GOW1rMUVQb29F?oc=5",
       "date": "2026-10-05T22:22:35+00:00",
@@ -677,14 +677,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSXZ2LWQtV3hJczdrQllIQVpyWjJzSVduSlFIcE9Tdm9ndWdVZUdKY3AzOVQyd3JtUy1xVDh2azRKRzNaSHNjOUxad0paSG9XbmsyQVEwWl9yYzVqWFhVRnltSUN1cnJPZ0p3NG9aX2ktSjI0ZHE3VVRVUmxGUkUyRUFJdW9aeUZqeFh6OFp2UTZqRi1SU2w4WFE1ZHdyd2s5X29tRnpXQjJWc1NEUXBlSXNsUHphYlBZMXduSm1BQzhhZU3SAcgBQVVfeXFMTmdNcmtHbC10R2xSbnMwNWIzU04tZ0ZIX3p3U3ZjUnhfMnFKV0pPM2laN3JDSEhaQ2FaX0tYRUY5cTRPbTUzMHBFRmQ0LUhOOW9hMTdLcTltcDlGWVJCNDg0OGoyNldnekRnaHlPd1huR1E1ZFBGNlZsbFBVOUJQN1ZGNzktYkhzWFN3OHRUY3A0Tmh2bngxRmk2Q0ZiM2VZR09HSThNbGVWTzM0N29nM2lhQ01vM1FKekR1RFBWQUN1bTQxcHEzSnM?oc=5",
       "date": "2026-10-05T20:32:57+00:00",
       "category": "SAFETY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "3 Questions: Mapping energy equity to improve renewable energy adoption - MIT Energy Initiative",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWWRQakw0WnhMUm92TmpRNmRPQWh3dUlyZDk5X3hURnlYY0J6TFBqWlh5MlBWVHM3Z000eW5zdFN2UGNJTkpPemNsUHQ5eFFKSE9ocG5OSmtIRE5WME5taklRTm1FcVR6SERkTDJaUXdpczRraUp3UXVYb0hrTmFKQkVRX1FfRkJkMFQ3WXpZaGV0MGtxRWRpeUpSVTJjUEhKU1lCcTNwcllEeDg?oc=5",
-      "date": "2026-10-05T19:53:45+00:00",
-      "category": "TECH",
       "source": "Google News",
       "source_type": "google"
     },
@@ -769,17 +761,17 @@
       "source_type": "google"
     },
     {
-      "title": "Breaking It Down: Next-Generation Batteries - Department of Energy (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY0ZoN0JnenJHNEI0ZjJla084SkJTSDk1TnExOTd4OG5ydXNmV0FObmx4dDJkUloxVnNlNjNiaTRwb2NMVkw3eEFmQXNDMlJXUWZmOXJiQW5FenhOZTB4aDYtZlg1X1NaeGdXOVVydWxNRU9qRXpNc1lsTi1JUFhoSEt3?oc=5",
+      "title": "INFLATION REDUCTION ACT OF 2022 - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZ1JFc24yV0d0Z09fdUF1ZTluaWJVVmZwY3I3SnFjb01GT3dUbk5zemY1OFAzeUU5aFVNNHQ3MlZ0MVlPS0hSVGV5eFZJWGRTdmFpNS1ueUVsbjQzUVoxWjRycmo0UQ?oc=5",
       "date": "2026-10-05T15:48:55+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
     },
     {
-      "title": "What Honda’s Solid-State Battery Breakthrough Tells About The Future Of EV Tech - Top Speed",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWnE3VFpqaGJXMndTMDN4VkJXUy16eHh5a29zR05HS3pwU3k2NmU1X2E4SHJTTWNpQndmdGJmeWo1aHVMSnZhbFFodDY0UmlfZTNzMndNY0t6YllLZHdMcXd4ZEZNSXpLd3IwX0RrUlhwelBadVB5SDdaRnRCZV9RQlFSWERrMWxBYUVJSkJoMEVJQ0swdnc?oc=5",
-      "date": "2026-10-05T15:30:15+00:00",
+      "title": "Breaking It Down: Next-Generation Batteries - Department of Energy (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY0ZoN0JnenJHNEI0ZjJla084SkJTSDk1TnExOTd4OG5ydXNmV0FObmx4dDJkUloxVnNlNjNiaTRwb2NMVkw3eEFmQXNDMlJXUWZmOXJiQW5FenhOZTB4aDYtZlg1X1NaeGdXOVVydWxNRU9qRXpNc1lsTi1JUFhoSEt3?oc=5",
+      "date": "2026-10-05T15:48:55+00:00",
       "category": "TECH",
       "source": "Google News",
       "source_type": "google"
@@ -801,26 +793,10 @@
       "source_type": "google"
     },
     {
-      "title": "Jeju Hydrogen Project: ₩35Bn Wind Power Integration - Fuel Cells Works",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb3pYRzZMdXpfbTktNGhjeWpxNVQ5WVE2M3FSYkVlOW85Yi1xUGVNbTlqWmMycXAwaVJZOHFxdWNMY21IajV1Q3J6aHUwVDhTRDgxUV9xZHlIbTlDbGlkNmtDV0NfTlk2MmJ6REsxRWIxMkVHOWhhaDhlYWxSMWhnSjJqWTdNVWRmMnFVaGtuRmVZeDFUaTk0ZzBDT21fZkI1V1FvWDUta1RDTnQzS2R5ZWF5ZEVhd2JSWVY5TVZGYkpkMUVVdVVIS1NqZVY1bGw4Y3JTcEU0T1k?oc=5",
-      "date": "2026-10-05T13:59:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Why EV Battery Replacement Costs Are Dropping Faster Than Expected In India - carandbike",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR29TNDJRNGVsVU9zRVRpWktsd002OUg1RGR1OElJR0RDcWZFTk9pei1nMTE4SkVHak1SY2h5OWpCUFZnTVlFN1V3blZZV0toUnAyX2J4R1d5XzJHUnU1YlhXN2lQQXR3NndoSmFOR2ZTcXFOTDRfVUtuU01abXIwSVh1QXQyMU52WEgwUWE0RlpYR2xxNFkxWWtuVDNpWkdiUXRlaXNkdWlIRFo1TXpscGZ6aFpBdTRXUURJ0gHDAUFVX3lxTE9LbEZ6bHVIZm52YUJ4TDhPeUdRRXdhWWpDQWtfMGZ0V2NQZVFxcFUyb0NmY2VzZWVLSmNvcmZ3NmRkdkxMdDUwckxfakUwNzJISUNIakRyZy1lbUktczYxdkJRUUdIdm5xaWFKM1lLTU4wRXpnT2tiUF9pY1VPYTNuQU1NOHhyOEViS3ZDZXZaUWNYRlZYS2F1OVJ4NFRucXBqcFNMTU95U09ya1RDbFM1QWhfYmVLWTN1NzJlOWhfeGgtcw?oc=5",
       "date": "2026-10-05T12:07:59+00:00",
       "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Shri Sameer Sharma assumes charge as Head of Project, NTPC Dadri - PSU Connect",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNG9xckZLNjV3bFlpRTZkZTlMLXJDNlpOOGhhZmhjZzVzNnBlQjZCME1DZHNZZk5aNG9JcnZsZEotMWc3c1RzS0piS3dXSFIyTWMxVlpmU2hxUllYUDR4bEhCUkRoVWtad1Mwclo0Q1ZXWlhJYlZpa25iRGRSNWJwRERnLWJHZzllbDR0SWNzMFQwLW5ONThNZXBadm9NQ180RGprdGx1YTFUdE0?oc=5",
-      "date": "2026-10-05T11:52:00+00:00",
-      "category": "PSU",
       "source": "Google News",
       "source_type": "google"
     },
@@ -833,14 +809,6 @@
       "source_type": "google"
     },
     {
-      "title": "From gigawatts to critical mineral demands for EU solar and wind - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84c2JYUUstRi04T0xzZHRDZzRUOVJLcW8yc0VFSXhrV3JCcDJ2Rmpva0xPLXpXcFZvWDdId0RybTRSVmpadmZVV1lGWnUyOHVXdWlfRk9Fc250VThHNU5v?oc=5",
-      "date": "2026-10-05T09:56:35+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "UCIL Marks 60 Years of Uranium Mining at Jaduguda - GK Today",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUT0QtOVU5UklIaXktdWdVekE3YnhYRl9JRkt2TkdRM19NMnpfOTdEaE5sbklIZmhSNDJjQkZFZkR5ZW5SeU9veUduX09taWZtaVJtVm5fQVlicEZ3TGxZeHBjZXU0SkE3Mzd4T29iVGdUQ25IUFFRTmg2X0lOdw?oc=5",
       "date": "2026-10-05T07:01:35+00:00",
@@ -849,10 +817,10 @@
       "source_type": "google"
     },
     {
-      "title": "Ceigall India Wins Rs. 2.15 bn Stone Mining Project in Bihar - Construction World",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOEVqRWJKalZVakxQZ1pGT1E0ZUZHUVA1dkZodHlsaEtDb1o1TGlOVWpqZWxZS2hvWE5LVVo0dzlXcUFPQVgzUkowQU8ybVBiUWtZMk9kRWZPMnFMTmhOY09OdUgwYUJPRmZrc3JITVlONHpRa0FFSEc3VmhienNWLVViaEt1bUN6bkpHaEdCUWhIN0p1TnZKbUlXRkpVWWUwUEMtQzJXSWdxa2VuSWFoRHVJLXItTG9YUG1CaEJlV000aHl2RlZvTXJFV2ItOW9TTzhB?oc=5",
-      "date": "2026-10-05T06:16:05+00:00",
-      "category": "INDUSTRY",
+      "title": "AI Utilities: Top 23 Use Cases & Case Studies - AIMultiple",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OQUpZaEdLbDRpLWxJbjh3SXZJUDN0TmFSMmhvMUVDNHpmR1hIRnFVYWlKRi1neW1WeHBtUUR5aU00QUVPTUhQNjRpaw?oc=5",
+      "date": "2026-10-05T07:00:00+00:00",
+      "category": "TECH",
       "source": "Google News",
       "source_type": "google"
     },
@@ -901,14 +869,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeUpUNVFtLTdLY0hIbHJwbWExZWFGZ2p0LWJqOXBIOWtMVTRSTmc0T283SGc1dVRxNXVfbTVHY1BTNjRMU25BVkNvaUllNkpoUUxMaXZfTGRGNlp4MklwQ3hZWUNmdjJKby1PNmwyb2lLTGtoNnJCNFdpbXo2dmY5cWUtcU5mcDVaT3dtUjAydWpQZm9XNFJvaVU4cUhEdGJJb3EwakttQkpzMjFuVG1mMkVEQ2c3OTh3RlBqdGVXcnRQTV9ELVdRRE9naTIzRzY1cm10Q21UV2g?oc=5",
       "date": "2026-10-03T17:39:31+00:00",
       "category": "PSU",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "India’s steel boom is reshaping the global trade in coking coal and coke — Argus - GMK Center",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ202aEozRERGV3lyaDFPSTN5cFFzOHJXcWRNRGNSLVY3OW9RQ2NxUFJDTVVwbmd1TnBmNzl0ZWctVGZNdFpId3RGZHJHVmpsSWtBVmV5SFJaQlRxUzRtUHFRckI2dXNzUXRLY0lzWENndWV1c09Ud3FWOFI3V0NTUHBTV3JCT09XYXFrUm04dno3R2VIMUE0dDJCd0xOQTBQalpRYWdfaGl4Z9IBrwFBVV95cUxOeHR0d0kzSk42ZHNCWjRzRUhjVWhPVzFCRzh0bDc2WW1jbFZFd3lsMTc3Vmowcjd2Q1N6OWlsSmFxLWo0ZW91QVAxcDlDbVZOMGdaQ2UtRGxEcU5wdFh1bzhhYUhNY3NtSDQwZDVDWGxxa1p4OHBVU2FnX2Jza1ZWdzl3WEpoUEVUUnBGVkZnY1pESzRocW9YNU1raEdhV0pDMWM2WDBCaUR5cmxtVnVZ?oc=5",
-      "date": "2026-10-03T07:31:28+00:00",
-      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -977,7 +937,7 @@
       "source_type": "google"
     },
     {
-      "title": "7 Best Energy Stocks for the AI Power Grid Buildout | Investing - U.S. News Money",
+      "title": "7 Best Energy Stocks for the AI Power Grid Buildout | Investing - U.S. News - Money",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTXMyRUR3RGpDVGVZUkl3aFZSUWFPXzVEMGZjR1h6YkwyT2ZMUXBxM2hNQTFJcTl1U25ybDhpaWNkVVVqcENMVGp3d1pINjdxTXBmZC1iOXZkZnRGTmo1Rkdid0N4QW5nT2ZwX0MwTDhqVlZ2X254UTNjUXp5LWJzREZuQ1pOSWM5MS1YcDRKblZtSkU?oc=5",
       "date": "2026-09-30T20:06:00+00:00",
       "category": "TECH",
@@ -1129,14 +1089,6 @@
       "source_type": "google"
     },
     {
-      "title": "India aluminium extrusion sector targets 10% growth with ₹750b revenue amid working capital pressure - AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbEVtVFg1Q05TbWV3U01peFhFbjBoUXhBNzNUTUY1bGpCSUVqYXZfV2VkeTc5bVFIZFV0Y0w2VnJSU0FLdmpUSlljbFdrakFKV3hNb2lZSlhiUmJGNUVnVlgzQ1lNb2JqMlVLdlNJcmJEbmNuRXJUSXN2TEdwOTBwMlF6dEhnRkh0aW9TOTF1TlpablpVclF3dnowdmdRZU5ReUhpZC1QMU9oQ2tpX1J6b0VjdHhuVk41VEhPMWc0SHZwNTBabjhlQmx6ZTZMSk1v?oc=5",
-      "date": "2026-09-28T10:21:55+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Navratna PSU NALCO pays record Rs 1,083 crore dividend to Centre for FY26 - Deccan Chronicle",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOXzdwS21KbUVTTjlLY29qS21Tblg1MldHakcxSUFBMXZLeGo3RW9MZVR0LU8yb2ZGUVZ5d09TeXBiY1hsa0ZTbnlHOXZxbTFqVUZXcGptZFl2dHh0dEMzZEc1eWZwVU9YeFkxdVVIdGxkaHJGcVBndGVaVFN5QkZtZk5LU1ZreWJ3SVp5ZXFfSW5LNEVCNUNOV05CanRTUmN5Z29OTHNEYkFGRkxialN2eHp4Si0zYnB1Z0hz0gHAAUFVX3lxTFBvekl0bS1vOFdlOTJrb2k5RE1JLS03a1gzN1FFZE9JZ2h4c09uRF9aVHEwNHlEblplRGxzM09tRE1WelIyOXduMW1OLTl0bldPQlM3THU0dENuVFp2V1EtYmhyZnByRHAzaU1kSUVVM0dCYmg2RXppb2FueW1xNGgteGV3cjdKUTBzR0dMRVdpQ2kzcG13RnN3NFZNc3lCMlB3OFZaTEZmdjVKLVhEQ2YxeXRDcXNyU2RuOEhVdUl4TQ?oc=5",
       "date": "2026-09-28T07:00:00+00:00",
@@ -1147,6 +1099,14 @@
     {
       "title": "No coal shortage in India; Centre to explore coal, mining opportunities in Bengal: G Kishan Reddy - ANI News",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOEZvRmJ3aTVPQW5BYWdYLS1jVkxKeVVzZWgxcDA3ck4wR3ItREN0OWN5cUJldTZqMWRLRVZ0ME9pNnBMNVhibTlmbFhQZF9XMXJ3UTFfSld1eTN2djdOWGtKV3pqYmxBWkNKOGNWNnphWnRmd3ZSVjZkSjk1cTJRZ1NOZU1mbG9ELUZpem5OZGZtWDVWMXBlbGNvZmhjZTZiUnFjZ09Fa3gwT0VxZmtERHVfZEdFcUFvcVltMzVIRkY3aUFXeTlKQS1aZXhpd1ZXQnduQWZ0YzN4Qm82a1E?oc=5",
+      "date": "2026-09-28T07:00:00+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "India aluminium extrusion sector targets 10% growth with ₹750b revenue amid working capital pressure - AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbEVtVFg1Q05TbWV3U01peFhFbjBoUXhBNzNUTUY1bGpCSUVqYXZfV2VkeTc5bVFIZFV0Y0w2VnJSU0FLdmpUSlljbFdrakFKV3hNb2lZSlhiUmJGNUVnVlgzQ1lNb2JqMlVLdlNJcmJEbmNuRXJUSXN2TEdwOTBwMlF6dEhnRkh0aW9TOTF1TlpablpVclF3dnowdmdRZU5ReUhpZC1QMU9oQ2tpX1J6b0VjdHhuVk41VEhPMWc0SHZwNTBabjhlQmx6ZTZMSk1v?oc=5",
       "date": "2026-09-28T07:00:00+00:00",
       "category": "INDUSTRY",
       "source": "Google News",
@@ -1305,6 +1265,14 @@
       "source_type": "google"
     },
     {
+      "title": "Carnegie Clean Energy Ltd (ASX:CCE): FY2026 Results Highlight Renewable Energy Technology Progress - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeU1TdUFQajVpTGFmalR3WktoWGNnSm9iczhsSTVpRmhCWDllRldLa3dGSTdBZHYyR3JFcS05UHFwMGZoa3ZSQjFGWlVuY2tocnhlTlZ2MTJ0b0xyZHRWREtsaWlLVHhMUDFFUzBwYmFRTHRUUy1KTWhqcS1kZGVFWWVXNTJHUDNHcWU0ZXUxdXdYWTVTNE10ZXcxbFd5OVQzNE9fdU9zNktSUzhOVDBraTk1UGt1TGJTOVhTZjZIbXhOSjZNaTFQUElWang?oc=5",
+      "date": "2026-09-22T07:00:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "Removable vs Fixed EV Battery: Which makes sense for Indian riders? - Team-BHP",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONThJcjRuR0lFX1BnSC1jRm5pRTlTX3Fmc2ZYeTZDSlY4NGpmcWxxZUpGZW0xX2NrbUlkcGE5cmhXeWJueGVTRjVISkFPbXVqa0M2b3UzOE9UdFNLU1h1YzNEUE0yaFk5U2xMVHU4SjZNQW1fM1JkTUpVNDg3Y3lzeEdmckhNeWUwS1BkRm1pdjFGdUFObVHSAZsBQVVfeXFMTWdrRkFKd0FjN1lISldWSUtzcGt1V3Zjczg3YlZIakVmMjcwUUNUQ3RoU2xaVzlkblpvY0dSNHhBMldsZGZ5NWlSUVBLSGN2X2lWaHBHWlhzazBNdk55a2IyWG5ISjM2ejhhYkFvMDRwWWVWRC1CazZib3cwaElteWRaN2E4QXRIZksyWi1IeURGUFI2RVFOMWd1R2M?oc=5",
       "date": "2026-09-22T07:00:00+00:00",
@@ -1325,6 +1293,14 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXV6ck5XWWZrUnJnaloxY0NUV0hZSGszUzBpSjNaUWcwTG8wSGxVZlhEbVFhTFdyYTFoaTlsTXdNcWtuemhuY1NjNE9Gd2Z6QkIxTFRYQ1hGSWlMMGJxb0FyU0w4QTdPamZ2aXF0NVBMUl9PTFp5NkN1SXd5b2ZZZVJIMk45T1BsYVZYQU5MYmZTdzdIaVVuRGhMU0F0Mlp6OFJYV2V0Z0w?oc=5",
       "date": "2026-09-22T07:00:00+00:00",
       "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "AI in Power Utilities Market Size, Share | Growth Forecast [2034] - Fortune Business Insights",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSGh4a2Y3eWN2MDM0ZnNueUN3SjZhOVpKcXZna0ZNSUFzeGQ0RkJBeVlGNG41U1k2eVNYWDlUaGVtaGNER1NJcHFQXzNTRS1CRU56ajlkc1ZZRXIwSjJnRENJMzhUYXd1VFYyVkhvdUYxRXhQdTFUQzc5RktyVExMXw?oc=5",
+      "date": "2026-09-21T07:00:00+00:00",
+      "category": "TECH",
       "source": "Google News",
       "source_type": "google"
     },
@@ -1377,9 +1353,9 @@
       "source_type": "google"
     },
     {
-      "title": "AI can play transformative role in making India's mining and metals sector globally competitive: RS MP Sasmit Patra - Livemint",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeGdPeXpiQUtxSHVpLTFEckV0ZnpWX0Y4NFc1bTJmWm81bHVjMlIzc2xvLTh4a1p3LUFqbjR5R2xHN1NpcDNJbF9WcldOakZ4RV9jMFNTLVJNYzI0SUJWNmRIZ3hDQVNzMWRiajBVeUEwUDBsTU1FTUtfb0l6TEFKRTFYWldNb3I3bll5T1Fvb3l2UDR3UW5QTEd6X25xTkg2ZGVuRzlROVM5Tnd5NTVQcTZabUVtenRPVTdoMEMwMGNRcVFFVTBKb2hCbGhPNS13ZFU2MjREOEpmVFVVcU1QOFdsQUVMME9uTGgyNC1tTGVUUzTSAfgBQVVfeXFMTVA1cDhKakZ6aU9uZ0pEWE1zNEprbmV2V0F1emVIaGNucUJBSDNqZU1GU2V5V2hobzBHRnN3WFozZXgzdEN2N2cxMk9fdklBUTRiemJfUDJnVlRMSTRydVVESlRjcnphdmpEZ0xNWUtwbWtkbFN1a3F4QmR1Ym43V01ZOTFJMUJtYW5sUDVDcmlRRnN0cUJvSXdWSENvbVFtMGN4dVdIMFM3YnZIUEhPblJ5cUs1Q04tMFBObVB0RW16RDlyTzVGc0pMYk5EVm1qWEVwMF8xV0VPQTRHTmZ3MkZOaklFV3hzSEVfT3FkVzFyV1R5djE2Qjc?oc=5",
-      "date": "2026-09-18T14:48:16+00:00",
+      "title": "AL Circle Analysis: Aluminium’s recycling economics, trade walls and carbon rules converge - AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTHIzNDhDMVVZTThxU0RteGlCdFVfV3BZa1ZaejNjWGNySURPTzh1WC1SSjc4WVNnTXYxVWhzNW9nbkNjUEdiVm81by0zMnhiU0d1X0h3ZDhGa3pIa0RVaGxhelBiLWNqSTNLdTBFeXpubkl1RGlCaS1NQ3dXOWRhbFVYV1NTdVFGdzU5TG1kcWNDX3pHVWhLOVd4RVdsVUkzT3NzbUlTZlZpRGxIdFBZdUVLby00Z1pPMDlUemVudHFlQQ?oc=5",
+      "date": "2026-09-19T07:00:00+00:00",
       "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
@@ -1397,6 +1373,22 @@
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYWlBSUI0Rk1aLW1yWnhxc3VoalFLY09KZEJrWVlhQlBtX2kwaEpnNWZpS0JMYk9ZeEdQZE1zbm1wN3oxMTRCNDNWNDlkdlZiQmpZaEZoeF9sbGpBR0NTaHhOeHk5NmZvRTFEQ3dWazF1SHZqNzBRSnlvUmhLTWUyOVM0bS05a3ViMnY4QXc5NGtuTWZSdUdlTGpUMExNUmdxbmJjYlB2ZTU3cnlmTHpLSEtfOUpHSnhOUEpKRXZIOUpwZVBrMDB5UUxDanljYzg0aG5aNkFIcVRTWC1MLXBpcGtKelpiRXgwR1BFc3lEcDhUT3RJcjlkbmZCbmJuYU9Y0gGGAkFVX3lxTE9hUzJYeHNTR2U0Vm9oY0gxUDZYMlNFd1BwaXJOYTZ4R2RsRGVmMDhuS2NNYk9XeWZ4eW4yZ21sNFZwT2N3c0hGQjFjRl9PdVFmeHB3MzljRDF0d1lxZ2pZUTFEM1lLUFV3OUx0c1ZOaGJDdEtFbU5FMFBMUFB1WE1QdjRqOWtlWFZ5SC0wblJLMkcxU2gycUw3NGllanItaXp2dEJCNmNucTdWd1diRUU1X2NKZGxaR1JKWnV1MnF3WmdGUVlCSW9ocllJRHNUZW1MOWRhXzU0MXlfLWFYbDVJUmpfTzZ3YW9mRTdPY1ZHNXlnRGE2eXhGX2Zhd0ZPNGg5ME5CZ0E?oc=5",
       "date": "2026-09-18T07:00:00+00:00",
       "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "AI can play transformative role in making India's mining and metals sector globally competitive: RS MP Sasmit Patra - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeGdPeXpiQUtxSHVpLTFEckV0ZnpWX0Y4NFc1bTJmWm81bHVjMlIzc2xvLTh4a1p3LUFqbjR5R2xHN1NpcDNJbF9WcldOakZ4RV9jMFNTLVJNYzI0SUJWNmRIZ3hDQVNzMWRiajBVeUEwUDBsTU1FTUtfb0l6TEFKRTFYWldNb3I3bll5T1Fvb3l2UDR3UW5QTEd6X25xTkg2ZGVuRzlROVM5Tnd5NTVQcTZabUVtenRPVTdoMEMwMGNRcVFFVTBKb2hCbGhPNS13ZFU2MjREOEpmVFVVcU1QOFdsQUVMME9uTGgyNC1tTGVUUzTSAfgBQVVfeXFMTVA1cDhKakZ6aU9uZ0pEWE1zNEprbmV2V0F1emVIaGNucUJBSDNqZU1GU2V5V2hobzBHRnN3WFozZXgzdEN2N2cxMk9fdklBUTRiemJfUDJnVlRMSTRydVVESlRjcnphdmpEZ0xNWUtwbWtkbFN1a3F4QmR1Ym43V01ZOTFJMUJtYW5sUDVDcmlRRnN0cUJvSXdWSENvbVFtMGN4dVdIMFM3YnZIUEhPblJ5cUs1Q04tMFBObVB0RW16RDlyTzVGc0pMYk5EVm1qWEVwMF8xV0VPQTRHTmZ3MkZOaklFV3hzSEVfT3FkVzFyV1R5djE2Qjc?oc=5",
+      "date": "2026-09-18T07:00:00+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Technology, AI can make mining sector more transparent, competitive: Sasmit Patra - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZk9qSWd2Nk9VUWpJVUpkdUNscnE3WTR1RE96NU1IcVRoS29VeU1SUzY2c18xRUpycnJYMDdWV0tPYUpPZ2kzY29EcTJuUmVidnMtTjh5Q3AzcS1zbEdOa3BGNDk3ZllBYTljS1p4ZTNjZFc4U29KTU1CQ01yY3Z0RDQ5dDZpMGhpUXpCOTlNMU1LZUxDTGRzS3FmN0k5SEFuN0RiQ3ZyN1M5dWVmdEd1QVZ0VmdLQV9UWEhxdkJXczEwYU1lendfSw?oc=5",
+      "date": "2026-09-18T07:00:00+00:00",
+      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -1481,14 +1473,6 @@
       "source_type": "google"
     },
     {
-      "title": "AI in Power Utilities Market Size, Share | Growth Forecast [2034] - Fortune Business Insights",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSGh4a2Y3eWN2MDM0ZnNueUN3SjZhOVpKcXZna0ZNSUFzeGQ0RkJBeVlGNG41U1k2eVNYWDlUaGVtaGNER1NJcHFQXzNTRS1CRU56ajlkc1ZZRXIwSjJnRENJMzhUYXd1VFYyVkhvdUYxRXhQdTFUQzc5RktyVExMXw?oc=5",
-      "date": "2026-09-14T07:00:00+00:00",
-      "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "China EV Battery Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUmpGTUNNcW9rTndzNXBpWmJfSVVkS0paamNUQ2dYSlBLMHh4TkpFOXBQUjFmcGNkWi10VTRuNzZBYi1ESFZ4TzJzTlg0UHExV2Y4b3NGYzN4cmpLVzRBUzN2VWN0V1kzdkh6SGRxZFFNNE9pUlJDR01ndkFzajBoRUdVanFxVDZrWU1FN1J4bWZkZzZ2ZW53MjNxZ0g?oc=5",
       "date": "2026-09-14T01:20:04+00:00",
@@ -1532,6 +1516,14 @@
       "title": "Steel PSU Stock Up 98% in 3 Years: What Drove the Rally - Univest",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iN2oxQTkzOHg0VkRiRDIxbUU0cVBHSlZkYjV0RVFtczhQQ2VEdU9xYW9GeTk3QlRaNGJYY1B6Y2ktdHpya205dTdpU3BMUFdpMUJBa3RIS0JaSkhVMlQzLW1HZE5Bd3NUS2JhVWV3Z0VJM0NoaXZB?oc=5",
       "date": "2026-09-10T07:00:00+00:00",
+      "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "L&T wins large offshore order from ONGC for Ratna-I and NLM-14 development - PSU Watch",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYVMtVG9MY3JqZFNHb2JfSGxSS25hN194b0V1YXVwWXcwdWNTdHVzNUhReFZ3Z3dmdHlyWEllbmtGWUtYc3N0ZWR1NXRRSFlMRm0wakR5VnBDWFZ0WjIxT0pOYXhkZDVSeXJSeGZyMmJ1R1BnV3l4SFNHaEVxX2pWalV0SXNQUG1YRkZERGJVYUdXc2xKQmNPREVmblliSXJvQ3JJeEhpdjFJd9IBtwFBVV95cUxQMmNzUVluSkY1NFlDUWVkMC1HY2o3YVFMWmpvTUJYVHhBWE1pbTB3S3l5X1RoaWdPak8zblFjV2YwUUNDS2FXajBOTDZmaFN6UDBJRGctd29Yc2pwcHg2UjlaZl83ZGVsRmMzUGE5eEplWDFuTmF4eUVSZEZ3c1NFellfWXFoU0J6blk1alBtZEU5eHNiNG10S3BDb0VheXBRbzFzQnpSMldPWmI5MEwwdFJISVhpVFE?oc=5",
+      "date": "2026-09-09T07:00:00+00:00",
       "category": "PSU",
       "source": "Google News",
       "source_type": "google"
@@ -1713,14 +1705,6 @@
       "source_type": "google"
     },
     {
-      "title": "India and Zambia reignite mineral investment talks - African Mining Market",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWC0ycmFpQzMzMzg0Qy1nd0FWeHpiTVVXeUFVWWFfWHJrTDY4b252NTh1YnFKZ1NTLVpOT3FIS0d5MHAtSERrWWZYT0NEUHFnS012QnJTRWJjRW9pbk5DZWpWM0NoY3BGaGp3WDd0bkJTZ2ZxVl9xVXVnOW9scVcyZ19PT2xGejJnVEoxdWQtX3dCalk?oc=5",
-      "date": "2026-09-01T09:03:29+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "NTPC dividend 2026: Last day to buy alert! Check amount per share and payment date - Livemint",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRXZUVG1uU0kyR0dYaGlqd1FXZl9KeEt5UlkzdHZ6Q3lQLU1keHplVVJ4RmM4bDNBRmQxYlhXWUdYSDJtM0JWdE5YMm53R245M2tYUG1lWUxOTmZrMV9oN09lTWZ6WjJtTlZkcThxSHFUWGRIMzFFbzA4aHM4NUR1QXFMQmh0VVJyakk0Ykh6R0VIYzJOWFBSRmhkSUU5U1k5cmkwMVVObDBMd3MtWGh0NEFxOUpCMmFBaUhoTUppVGdCcmI1bWFGX2VVUTJjN3VqLWRxcGlxWkVuXzdLUndDbERTaTd5SUMyMlUzVXhfWDkzeHR1NVpr0gH8AUFVX3lxTE5lazBDUExOS2g0bzI5RS1UZzJwVTRVQWRKaXhzVzd0MEZxOUZhZlhiWnNOYXlxNldFY0VjRHpCaUVnZlBXbURhZjFiOXEwYV9UdndnT2t1bmdGRXJFVHVDcUVsSTlma3V2cU1jejFtSkpSVEY0Tlg4RE01SVRUc19lVXlQa0FMazFGUFdhX1VtdU9iM3VqSnB2eU0wcnlRS0Z4TkVxdTV4STU1Q2NSMjFGbEotTzJvTnFxVC1JVWR1VjE1MlZiakpLOVIwdTlVdHB5U3BFYzUwWno0eXFqMDBEeUpSWm0waS12Z293azJaUUtNZ29pYmhTYkNfRQ?oc=5",
       "date": "2026-09-01T07:00:00+00:00",
@@ -1765,6 +1749,14 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQelBWWVBpa3ZuaHdHS0IxSy1qZldPUVBuejNqUjBWN0ZPYklTbVRZMVR3aWZMRzc1WWRaSU1DS3lvRWFOakZHSVNTNjZiaEJBblU4czZjVVZKY21LMHBBYXJiYmZIa0ZhZWZyU3BZTnFfUFpqMmxmWV9Zamdic1RYUWpjaTBaYUpoQWJoZXBMM3BVX21pMzdPR0JUS3JXM1Q1N1lfU2hmQ2l5WmE1QVcteEQ2dVFHY0E?oc=5",
       "date": "2026-09-01T07:00:00+00:00",
       "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Samudra Manthan: ONGC to scout Category-II basins, No-Go areas and deepwater for its next major finds, says Chairman - PSU Watch",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdW83LUpjNVZ0eFFfamV0QmVPNHJnUFVSWFJQMUlNeU5iS1ppNjNONlRYdGo4NG9KWnBkeWdrU1gwbGpWUlVOSUVKODhBQkVJQ3lBZEtscFhEOGtuTDZhMFF1M0NZWDB1LTlCYVR5TkpNZ2VzWC1IQllhajJ5YzVuYnV6Y05WMlVobXNxajBxMjZTVks3REE1alh0bVYzWkstOWZtcXBtMG1CRXRpWE5kVkwzVE9KVjFYZm0zQzZST1BSRUl3Zlk2eFEyOEJmOHdscG1Xcy1Bc3hXWUoydEpR0gHsAUFVX3lxTE9iN3ZpTVZpVVE2REJ0ZmE5Y0RubjNvOS1wSW1wcWY2Tlg0M01TT0F5dVlsR05XMmUtQU1raEt2V012UDBfVGlUeGNQLUE1WnZfZ2dyS1AyS2poZlVXSmdOcUZvZUZGZ2VWVGRDSzc0WU9QRUoyTkc3OE5aMk5vZzRmeG1CUEp2U1JHQ1dpZm9QRHhEcVFjekJNeDJnZ2hYdGs2ZU05NVNCVnR4d1N4NjdoQl94UWNKdnZWTkV6dUVJT2FCdmNEenZJWEtBZkF5TTdiYkFDT254Y09DeExEeDBkejFfQjV0Z0pwcVcw?oc=5",
+      "date": "2026-08-31T12:34:11+00:00",
+      "category": "PSU",
       "source": "Google News",
       "source_type": "google"
     },
@@ -1849,14 +1841,6 @@
       "source_type": "google"
     },
     {
-      "title": "Fellow’s Seminar | Critical Minerals, Strategic Competition, and Myanmar's Role in India's REE Security - orfonline.org",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOER3N0w1VGJLdkhFZkhtQVdpamlObThodVkzQ2ltNjZSSkNlVWpUV0xmRGRZTkE5V21DTmllWk5LREY1ZmdTckVZTkF3SEVYQXctMEtWbXpmYWRJNjNGbmE3X3Y0NFBiRGw0QjBKQS1ZOUZ5YWxaU19IQzJOaFdWd3JsQ0prYWhlZ3pCMVFPZkhOYzctQnFMRGFIQXJjTnVDd1R0VDg3M2ZYdUpGa3dlbFJBYUtva1RPZkFaTnBXeTl5T2lJSk94NXZ1bw?oc=5",
-      "date": "2026-08-27T07:00:00+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "NSE, BSE Slap Rs 59 Lakh Fine On Three PSU Power Giants. Here's Why - NDTV Profit",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3duNWh1QUx6eEd3VXh3QlVaZ2ppVU1BQmN5cjM1YWo3QTJ3bHk4MkVBWk9XRWRCYUIxSDFzTm9OTC1ZVmRrSzNpTDhTQzB4Wmp0OXBCRlM3X2ljUkVXeXNOcldweDhYdGE3SWUtVUZiVFB4SWFWWFNSZjBJcG5wUUxEQ2RJZHl5UWJVdVlnUjlRZGFQQ1Q3TFVaME5iX2J1WUhkU0ZrNE5Mc0dE0gG0AUFVX3lxTE81aXJHSGVCcWJjLUU1Nmx4ekY3ZE1mNlJ0bzhJcWNJUjNIOWRzZGlrdW9xRU5uQW1IWGVkSTExNThYN1dIM3NWeWhtNjRRRVFfT2VLenhGVGRuUzk3Ylk5TlVsSWZiVWl3b0tONjFuVWl1NGR4RnY0aTVpLVJOSzc4d1o3SmpxODZOMDBhSHJMSzRWRWNQdlJ4RUdFcWdkeWEtanJiN3Bub1loYVh5akluYnZMTA?oc=5",
       "date": "2026-08-26T07:00:00+00:00",
@@ -1899,14 +1883,6 @@
     {
       "title": "Reliance weighs aluminium push as Adani advances Odisha expansion - rajasthan.economictimes.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdWpVRmdBRG1iMnNUSTE5OEFCS0Exa2lqeldlNEc2MEQyN2NOVlRNdDBtTXJGSkdTZUhLRG5ORXd2bXE4czIwNWdVb09HVF82enZSSl9pckFxcmQ1WndwM1lWOFIza2hsVXFiaTNOMW9NTTg0RGF4OGF3RXNNdzVaTzFZcVF5NEdEaXhVNldNQjd6N2lPTEJsTlk0cVN5anlVbzNBcmFuMXZNUHBCdkFVQU1sTUxBTkhjMmVKcEVPYW5SdTF4THJLaDBtWDJkX2xK0gHUAUFVX3lxTE5MVEZLOG5qcDNlcU9VYm5hblNNdjRuLVhpcWI2MlR2RE9aeHN0ZloxS00wcV90VGJ6Zy1fOUVrTWRuMkNDLTlZWEQ0UnhiQnIxZVJGUTFhYXZmVDNLdVg1Wkw2Y1VjdEMxNkxWbjlKRU5WV0Zva0RzTFJDajJMZVZhV0hEdnlIeFpLS0NoelVDSVFDSFdlMWdteGEtUVZNcnBGREFtcVdSSEphaGZETGY0YUVVSUctS1BDYWFFZ1pPZTVlcnJzYU5zVFlTQWJjbDZhZ1p2?oc=5",
-      "date": "2026-08-26T07:00:00+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "5 Aluminium Stocks India 2026: Strong Future Roadmaps - Univest",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zUEdaSlY5aEhsMEEwZlR5WjVXdFU2WjEzZzE0cXlBckxQQkN1ZVVqYncybFdlNTFtSDFCLTVvd2VWNm9HdWdjM09Rdl9RRXNORUx3NWx1ZFVwdkxQUjNMbURJTDUxY2R5Y2lWaTZmVjlpZTQzcjg0?oc=5",
       "date": "2026-08-26T07:00:00+00:00",
       "category": "INDUSTRY",
       "source": "Google News",
@@ -2009,6 +1985,14 @@
       "source_type": "google"
     },
     {
+      "title": "Electrical Metal Tubing Market to $1.7 Billion by 2035 | Industry Trends, In-Depth Company Profiles, Business Strategies, Financial Insights, and SWOT Analysis - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVphb2V2WFZxR2UyWjRWckVTUDdvRkZGM21KTDZQMGlrcTBzXzNYWWwzZnZhdU0wUFhJUHd5dHZuSjNyZzRqT19zdHJqN1FpVnhFa09KRFU5T09sQnBXOWpDT2s1TDgxUFdqaWtnQUF1NzhJamFKTFNiTndiaXVZVUJTNWVWdkdI?oc=5",
+      "date": "2026-08-24T07:00:00+00:00",
+      "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "5 battery technologies racing to power the next EV - Interesting Engineering",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObWM3YXVIUHRrVUlWcV9IOXk1NTJjWm9OTlJLaUtINmRDLUpUcVp6Q1FWR2lrb29VRWRsV1hhVUZlTTZSWDlYQVpTLUprbzRwYTRfeC1tWm9SNnVYUEVTdkVTSVFMdW9aOW1saW1uTmxaUzhhdlA0WUZINmQ4cDVEY3FhVXBlS2R1X2pF?oc=5",
       "date": "2026-08-23T07:00:00+00:00",
@@ -2065,24 +2049,8 @@
       "source_type": "google"
     },
     {
-      "title": "Top 3 Mining Stocks in India 2026: Coal India, NMDC, Hindustan Zinc - Univest",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IVTh3RjI3T3pqOTNtX0o5S3RtLTBGeTNBb0tPMFRvQW5DNU5FTWpjcjhObGlSWEdpX3E5SWotYUJuZlV2eUFrUFJlcnk3WGo3OG05bmtIdUdFT3NHMFE?oc=5",
-      "date": "2026-08-21T07:00:00+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "India’s aluminium recyclers face a scrap-supply bottleneck - AL Circle",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFVhUXN0eTVSZzlSbWJuNXRiYk0zQlk3aFdGb0pGa3VGbTZ4VEdiU2YzRVhZdFB0X1BZenNNenZ0TjBKY3NZYUU5RnkzSWpfNXFwcnMzLWt2TmhYQ25TSTZsYjJSMWd0d0NBdDJjUE5RVnBtb21iVERvUlVpekkyTVFTSFJfUi1GeDJmTU5vZWtkOWNIQ3Btejh3?oc=5",
-      "date": "2026-08-21T07:00:00+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Vedanta Aluminium launches advanced metals for automotive industry at AutoEdge 2026 - AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbnN1cEprZVNZVWgzN2l2eDhoTWx2d0NxZnFNRWJzQmpXMVVsTjg1Q21iamM4Z1VEZzZkWnJvZ25NWTAzTE9HLWM3T0tRUjdHLTc4Y1ZFaGdhUGNXYjI5c2FLMVdoUlo2S1Rnd2dsUkRReXUyUm5QUGV1WjdtMVBfRWo5UXJ6QTJvem1VWEdoSFBrOENrcnVwR01lV2FGRWU2eFdHS1h1aU1PcEljeEdVLXd1VXNoa1JLR19jaWMxRFlLNWUxaEp5S2xiSHdzUHc?oc=5",
       "date": "2026-08-21T07:00:00+00:00",
       "category": "INDUSTRY",
       "source": "Google News",
@@ -2105,8 +2073,8 @@
       "source_type": "google"
     },
     {
-      "title": "Coal India plans Singapore trading hub in hunt for critical mineral assets, sources say - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVkhhWjFGcnRvWTk4VnVKeUJQT2puS2RMbDZqVWJibnZEUEpQXzM2dmpjLXVPOF9ESm04bk51cUY5bGVrTDZKSUhqMjlyd2tCYVo1UURDU2piNm5KME01QjJJaTl0bDBCWGQ3RjY2Ml9ra3ZEcThMVElVb2JGVGVNQWVad2tlQmo5RHVlZEdWVHg1cU1QYlI4T1NSVnRDeWZlblpfSTlSczRQTkZNUnpFc0RKUDk?oc=5",
+      "title": "Vedanta Aluminium Launches Advanced Metals for Automotive Industry at AutoEdge 2026 - Vedanta Aluminium Metal Limited",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ2NYZXZqZmpXeURfNUJ4dU9ub2drRVYwRjNqVjl1ZlRkZ0hDNUdHRWdfc1M0OVJXbmY2SjVJOGZwcTlpbmlHLVZxZnhZV2x1dmY4Ul9iQWdob0pwWGMxOHlvdEZiU3ZHXzVOcU5XdFFuM29YMUlYN3VqdUtOMTUzXzY2dXptaDkxUUs4cWJBcnBSWDZfM0xTXzZOZy1TM2ljcWt1RERNQmRwVU9zUkRtd2tfUWZJeEM4cGlWMzY1S1lMNTFia1lMUGlLM2VidXRQX1djZWRR?oc=5",
       "date": "2026-08-20T07:00:00+00:00",
       "category": "INDUSTRY",
       "source": "Google News",
@@ -2241,14 +2209,6 @@
       "source_type": "google"
     },
     {
-      "title": "Mines and Minerals (Development and Regulation) Amendment Bill, 2026 Need - Vajiram & Ravi",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0VESDFzNWZVWmtTM0JpNUZJZURZdHJ2cnFkZDRpV1dXZW9lRVZoSjZPTnc0ekZwUGd5a1Exa0ZiUGFyaWx5aVhRa3IyTzJOUlR2eDlOdFQtdnhSRnhEMzhFTUktR2lTSFVCTkdVUU83Wm5maWNTTmVSU2h3MlBIakpRbTg1WUZvRmtpbEtacnNOaGRmRFl6QW8zdlR0ZGMybm9PQ3BqTXhnYm9tWXc?oc=5",
-      "date": "2026-08-17T07:00:00+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "NTPC EET Recruitment 2027: Important Updates for GATE Aspirants - PW",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43NDJ3RktDdl9rSWhqV0hxTGItY21IcDJ2bEFpdzRPNS1CZEFzNGZGZ1BybG1MR1RIcFRGWjJ0eHNHdXFHQjdvclpRdF9RTjlfenREZ0R0QUhKV3g3ZTB3UXdpZDg2dms?oc=5",
       "date": "2026-08-16T07:00:00+00:00",
@@ -2321,22 +2281,6 @@
       "source_type": "google"
     },
     {
-      "title": "India says mining tax curbs for states needed to prevent market fragmentation - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd19kU20tcWFDWUEyc2pURF9aTU9KMWFIU1BKdjEwQzRrS1J5U3Y0d1o5bUhVTjVjS3dVclRLckVWWEVkSGNCdGl6WWJHbkd2cUk4NERKNy1qbFBJVzdtUHBqWFRHSHJHd0NvTkRtcWZGdnNuUWRMWmQxQnpuSTE0LWJUUGRFYjFLMmtWQmo2SU9yLWV1aE92ck93aHJNV19NLXVuUHZqY24?oc=5",
-      "date": "2026-08-14T07:00:00+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "India’s critical mineral challenge in a new global resource order - Eco-Business",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUZTQzNlU0cxdFFOXzhKbzBUc2tTT2dIWVhsRXJuN0E2R1c2VXh1UVhMWkNvQm5WOEJYOEpXTEZmemNhLV94YkVFcm92bUZOZUpEeURPWng1TURyb3ZyNnpvSFRqekhpVVJNams0UFFLMkQ4UDNxVHJRUXkwQW5VR3o5Yl9mR042SHd2ZjJ0ZV9RcGllWnR6SzBPYUE1WDVZekZuSw?oc=5",
-      "date": "2026-08-14T07:00:00+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "China Electric Fuse Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0FjQ2ZMVTd1emU2Nk1jdE9xc3VjUjNnUTI3c0FNN20wb0tWVFF3OEhOV3lPY0wxbEkyVWhBMGc0d25wYUlCbGVXR1hjaW1XNFc3NU8tekotN0kyb2NhUUJEcmk1SFhfc0syRkNFR3B2eDdhX3V4aU5QYjBRREd0T2ZxNjFSRWY3anhZNGp3?oc=5",
       "date": "2026-08-13T14:35:35+00:00",
@@ -2361,16 +2305,16 @@
       "source_type": "google"
     },
     {
-      "title": "Mines Bill: Why Centre wants to bar states from levying tax, cess on mineral rights, mineral-rich land - ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ25nd1lYend1cTJxdW1vV09FTzlCX2JMSUJ2RzFiY2ZndmRSLVota2hoMWI0N1BSM0xqNlhEN3c2Yjd3eXQ5MUE0QTZ6Z2d6MnZmazIwZTBGWWNKWkM5VTRmRzd2b3NPNG1yVExVc21fbE5HX0dOWkl6RUpUQUhZZGo4RUFlaHlTSUNhLTVkU0h5NmFjblJxbkY4S0VxQ0M1U1hyV0pid3RLU0xsclYxS1dHRnRzTWR4OTFYRzdVZW5XX2hPNW44YTlobm41WnlKMFlWY3BwbXpsenY0RXfSAeMBQVVfeXFMUHNjSlJXQjlWWDBIc3IybGdxejZBdm5FLVJUTExobVZmcmNaMGYySlFNbFVON3NVaW00dDR5bEtKa1MxMzFLSVRpUGthVGFYbUQyYUhuRXN1LU8zaXpsaHBXbVk2TXVVX2s1dUdUeWF1andHWThxWFJqOGJWQ05fZXM5UUpXVHNXU0txa3pYSDBPbXIwRTA2Vk1FY3p3amMyUndJUm1tR3laczF2cHRnbWhtcEh6bHFWc240ZnM0SXVUN0pFOXBsR25KSlh6ZE1uSVIyV0FlZ0htUnhyaVhGX1ZRRW8?oc=5",
+      "title": "India fuels worldwide jump in planned coal production - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3BqdzhTT0NrN01xdElmcXluT25VNVJGNG5qS3h6bWo4T1BRb1EybUdDSmpqODdybUp3WC00ZER1bG5ha3pjazZMSGRaOGpIUXJGeFNPSU9PelFwTllDcUQwZFg4WUNPVDBtQ2tZZXVrbzB2Tl83MjRUV2Ntc2lrYjMxLXlpLXJmdXdxQkh2THJrWTdi?oc=5",
       "date": "2026-08-13T07:00:00+00:00",
       "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
     {
-      "title": "India fuels worldwide jump in planned coal production - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3BqdzhTT0NrN01xdElmcXluT25VNVJGNG5qS3h6bWo4T1BRb1EybUdDSmpqODdybUp3WC00ZER1bG5ha3pjazZMSGRaOGpIUXJGeFNPSU9PelFwTllDcUQwZFg4WUNPVDBtQ2tZZXVrbzB2Tl83MjRUV2Ntc2lrYjMxLXlpLXJmdXdxQkh2THJrWTdi?oc=5",
+      "title": "Mines Bill: Why Centre wants to bar states from levying tax, cess on mineral rights, mineral-rich land - ThePrint",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQ25nd1lYend1cTJxdW1vV09FTzlCX2JMSUJ2RzFiY2ZndmRSLVota2hoMWI0N1BSM0xqNlhEN3c2Yjd3eXQ5MUE0QTZ6Z2d6MnZmazIwZTBGWWNKWkM5VTRmRzd2b3NPNG1yVExVc21fbE5HX0dOWkl6RUpUQUhZZGo4RUFlaHlTSUNhLTVkU0h5NmFjblJxbkY4S0VxQ0M1U1hyV0pid3RLU0xsclYxS1dHRnRzTWR4OTFYRzdVZW5XX2hPNW44YTlobm41WnlKMFlWY3BwbXpsenY0RXfSAeMBQVVfeXFMUHNjSlJXQjlWWDBIc3IybGdxejZBdm5FLVJUTExobVZmcmNaMGYySlFNbFVON3NVaW00dDR5bEtKa1MxMzFLSVRpUGthVGFYbUQyYUhuRXN1LU8zaXpsaHBXbVk2TXVVX2s1dUdUeWF1andHWThxWFJqOGJWQ05fZXM5UUpXVHNXU0txa3pYSDBPbXIwRTA2Vk1FY3p3amMyUndJUm1tR3laczF2cHRnbWhtcEh6bHFWc240ZnM0SXVUN0pFOXBsR25KSlh6ZE1uSVIyV0FlZ0htUnhyaVhGX1ZRRW8?oc=5",
       "date": "2026-08-13T07:00:00+00:00",
       "category": "INDUSTRY",
       "source": "Google News",
@@ -2389,14 +2333,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83aXZvSlJWNnFaNUlocVVhcjNlOHl0MVFlRVhSVVpFZHBWa1JWS1YxZHZVaV9DdFZXeUtISkoyTlZ6dXRidFRRcHREb0ZKVXhuSTRESFIxa24xMUxzZVRua1RXMEZNdzllT1RxLUln?oc=5",
       "date": "2026-08-12T07:00:00+00:00",
       "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "India fuels global growth in planned coal mining capacity, report says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObzRmcHI4bU1CLTJFY2w5UFpBdk01SnY2YjFvc3NySkNKMWVabkdLcXUtdnM1YkR6aTRmZWY2SllFU0lLLWJIR0JYRDZFc3BiOHI1NnF5ekFxYmdYaFFoSFIxdy1BM3RNd0h1dHZyWnVJTTgzdEN3TDZfV0JESWJqbEZzR2VMWWwxa3F3LWNVT05XYUp5ZzlIamNucHZOVHBFMmdnaG5BUTR3ejBiSDN0TG9mWW1FX2t0M0E?oc=5",
-      "date": "2026-08-12T07:00:00+00:00",
-      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -2421,14 +2357,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nN3FsTVBoYV9CTkEwb3haV3J2aGRwVDZjY0xRc1NuNlhPN1lUem1FbDREaEhuQmctQVpKRHlsdUpKRHBudHd3bFVJU3ZHXzdGbVFOTTlzS1R4UkJSZkRoVlE2cFFfZXk5R0NpbEdXUnVuUQ?oc=5",
       "date": "2026-08-11T07:00:00+00:00",
       "category": "SAFETY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Modi’s Mining Bill Curbs Indian States’ Revenue Powers - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQczZyTElzMjV0Q1gxdGJFcF9aNTRaTUNCenphYTFwNGRYQnBGZjZnaFFXenlyTGZRalBoTVVKY1BNejlpMmkwcTRoSC1iWmhXYmx0SHR1a1ZrUGZidXdlbTE4YVRfdWtoekRvc0ZEVXVmN1BFSlY3S2VHNmE2cUd1NTZGSDBhYjhGV0MwX191LTBYLURnZFRkVDZuZ1poSzR6NEJPYzh0a2c2enM?oc=5",
-      "date": "2026-08-11T07:00:00+00:00",
-      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -2561,14 +2489,6 @@
       "source_type": "google"
     },
     {
-      "title": "South-Africa Digital Mining Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWp2Z3E5NUFydy1FTXktazF6Ulk4WnBaSWQzcm1DX0ktRlBUT0hvcDJOSjFjRUpYOTEyb3owRlpmekh0UGJCdVhTNU9uVURTNnk4RDlEQmFxUjZ0bG9VNlFkRmxuTEFoYUdHSXFKVFFjVjEySmtuaEhiTWNpOWQ0ODNueFpjVlN1OFVTTzJMMzU4RWV0X2E0Qg?oc=5",
-      "date": "2026-08-06T13:24:06+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "NTPC Share Pros and Cons 2026: India's Power Giant at Cheap 12x PE - Univest",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3TkZNeWVUbl9LM3l0dTRvRUpSYU1PTS15c2FKMVh0b3c3ZGhCbWMwdVN5MGluUHhwZ1pSbnZRXzk2bVplT2trMlZmY0Y4X254T0N4MDFlVDNDYW5mQXdiMXlFRUh3QQ?oc=5",
       "date": "2026-08-06T07:00:00+00:00",
@@ -2619,14 +2539,6 @@
     {
       "title": "Coal India enters iron ore mining in latest push towards diversification - Business Standard",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTzBCV250azR5MUhxY2xQNXFCbXpMOFZ1OGRWV245SFVvLVpYbkplbVNKWEdYN2hCLWhwSEFHRlhlZnpRTnctOXBiRnZjT1A4VktDbElYeVlmNFVESzNTcnJJS0ZSWkxKdVhUSDhsbk9iSThTekNnVlpBMDd4SHdMQkljRThFaUVRWXNUWEVqbkFiZUhDYWpBaGdCU05DTkJRc3NRTUNvSUVjTlRtQmMxRWFzeW5YUVpmdnJaa2dEbW1PTVFoUFNDUzdkTDJEN3RBNklJUzdZNNIB3AFBVV95cUxQR2dhRUZnM2Y4WEc2bG91V19DWHBZTmdRRFV1bERMQzB3R0lZZ3Zwa0ZNN2RjSEt6U1lkSWpvRlRiRUgwUjE5N0VEUEJwWGxtcnptX1JWNG9MdnJpR1Z3OVMyT1dSSEh4d1Vsa0ZMMWxKTmpEWnFKRmdsR2NTYWJ1dS0xbmlhYTBIWlo5R1BvY094THh1NGdlcE5TX1QxS0FSZGFkODI3YS1YUWFLZkgxR2tSeGdZSmplMURlY0kxX2lwU1kzX2IwTlJDR2pLb3g3NUo2U2FsQUlNaGRY?oc=5",
-      "date": "2026-08-06T07:00:00+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Coal India wins iron ore block in Odisha state - Mining.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yTVdVMU1SMWVmbU85T2lhTXJmcENoY1hoaTBxWXEtQ3R0RDd0U2lLR1VaTjB1YWIxRFNkSTN3X2pqMHN6M2hGMHRIb1pZUjE0elNRLUFhS0FtdVdYNWFjdHVNLThtOGVsdlQ5dXAtWHdWaGRCbXlOT2VPcjFqVjA?oc=5",
       "date": "2026-08-06T07:00:00+00:00",
       "category": "INDUSTRY",
       "source": "Google News",
@@ -2993,14 +2905,6 @@
       "source_type": "google"
     },
     {
-      "title": "India's mining & construction equipment industry set to grow 10-12% annually; capex to touch ₹10 lakh crore by 2030: CII-BCG report - Fortune India",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUWN1djZYXzk5UDZZSkhEU2xZNHFycGUwWEJFRUF1Tm9VNHRlNnZMWUw4aE10MHEtMktBYmRTODR5UHU4dmJIYmN3MVllM1FiTU8taXdvZzVSbFRqWVN4STczQVQ4ZEczU3RqOFplSjdxTXFzV01ucC01VmdEQlNPSnBnMUI1RnZLRFp4VjVCdzhzdUpZbTdncDQyN2ZZeTQ4NHJac19DQUJfRE9PTWdwdXBPd01lSXhTUExpYm1wSXhsbmNhdlE2UlZMY003OWZDY3VjcjM5Vy1PRXlYeWtycm1EQmNjMVJhaTN2cjBHd0g3TGxlenpTRmRzelXSAYoCQVVfeXFMTThmc2JqdmtBcUhnOGxvRnNNamxOV2I5aDZ6MzZJZjVsNlpsNDU1dVI1dU1CdFVvUHlPLXdSZzAwclNRRXRmcjhXYlZFQlR4RDFnOWxYOWM5a2QtOHM0dXdzSnhmeWY3MjNzSGZielBlTEpZNFlld29iMUpVdVd5M0NwYlBSREZ0NlVoWmtaQWZoZ1BqSV9XMEh5aVRRQTI0SmdxSV9lWUhncV9fUFRwR2d2TnJnbFFVb3JidXM4eERub0VUaHBZaGJOUFEyU196el8wZ2c0dVlPZzU2V0RlQXFqdGttTUNwWnZMeDEwNDBOQm1HUlV0cF8xZmpaaE44RHoyX1JPWVA0cGc?oc=5",
-      "date": "2026-07-27T07:00:00+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "SAIL Q1 FY27 PAT jumps 139 percent to Rs 1,636 crore despite lower sales volumes - PSU Watch",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFE2QnVCU3psTnE4dHVjdlFhazdaTHJYbU14THNYMEZndXdVMlg5bjlZYmFjN3JDT1UtbnB6XzNqRDRwdnFrYjVkSVUwcmZzdldhbVZCc01NdHpJQ3d2ZG1pc1E3MHlocTJJRWZUQTViRWgtX1pYcTNSeVFOVlpqSUQtYkowSW9hNm1IUXhwUmZLdU1NV0p2aUcxbHhhREVZMlVNZzZyQXMzc0NLM0RleEFn0gG_AUFVX3lxTE00XzdYOUZoYUZIcEk1MXRDdnZ2WlZjTUE4Tng0b3RuSThiM1UwNzZWQkZLWkhLSG5qU3pQUjJDeVdNeDQxVnRiWWZQT1hMd09QYUswWkRhUWxUbnNOanZfTzFHUHVmNUpnTHFpckFNeE93WjRGNF9TNFlDckJVV3hJel92d1FzWjN5VTgzY3ltOWNlQnBHMUxGeUktcEdkVlc0WWFmTThkcWh3UDhKNUtXWjJtU1pZSFRkYnc3ajJn?oc=5",
       "date": "2026-07-26T07:00:00+00:00",
@@ -3185,14 +3089,6 @@
       "source_type": "google"
     },
     {
-      "title": "L&T Wins Orders (Mega*) for Metals & Minerals Business - Larsen & Toubro",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWHRRMklneUJXdzNUMVlSdjNQY2Nhb2hCMmZaZHlnOVQ3dlV6MEhMZlBsQTREX0lwZjExSlJyeFBHYTRXdVVMSElSajJTNEhhU2V6UF9zRm11ckxlNk91WmpuVnVUVUlWWkJ2SFZJWHJSdldhYS03d2hvQXhaMW9CT08zN0M0Smd4T3lxaks5TmVySFhjcjVuLVBkbC02N2xVeUNmWTNNUFFKUE0?oc=5",
-      "date": "2026-07-20T07:00:00+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "AAI seeks stronger import safeguards to protect India's aluminium industry from cheap, low-quality imports - Investment Guru India",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSlVEaWw4YkJ6Q1M2ODdxQ1JybWhZcHN4NVVRaXZYQmh2MG9qS1YyM0ZRYWdNOGdiQVJHVHpMMmx4c2s2X0p6UmJtMHd5XzN1NFNLZ2JiSlBxa2xsX3VMRllzMkpjRjhBZDBBeDJfaUJBazExaHBQY1hrc3ptUVk5SS1IeFc3blpMOFdrZllxc2ZOOExCbEw4cFJDUVRnemt6UEI3dDJwNWx0c2VxWlZCN1NJclBRbjcySHhRMjhtb1ZobV9zUEsyVlcwWi0ydmgxV1VLSk16cWVpMWdYa3NQWEl2UFJRZXpwNUE?oc=5",
       "date": "2026-07-20T07:00:00+00:00",
@@ -3203,6 +3099,14 @@
     {
       "title": "Aluminium Industry Seeks Higher Import Curbs, BIS Scrap Standards to Protect Domestic Market - Pioneer Daily",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalh5aHBMN0VUV3gxbDhQWjZCd0VDR3pFR3RnQmd2MlFHVldySGUwSnFYMlJ2eE5VMDJLVUtGbzNuMElKeUNJOWJsYUU4S2Z2ZFI3b1F3RFVvRHIyNG9WM0RFb3JBVkxrUE5EQk1JV0NiZ1NwWWx6YUtmeXlXMXFLMGpta2ktVlc1clJ3a2dELW91eWpqdkVlQlFja2ExZUxQOWhJTWZVTl9HeWs?oc=5",
+      "date": "2026-07-20T07:00:00+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Aluminium Industry Seeks Higher Import Curbs, BIS Scrap Standards to Protect Domestic Market - Pioneer Daily",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSmZpanpWMWJQUmhBc0hjc1RVXzYwMFR5MXZZQTZ1NjFadmNDRExQcHFZQzk1a1NHSXJuaDhoR3Y0bF9fTm1KUlYwQm5oUHQ4X3lJMmdfbGRlc2M4Qmp1Xy0zWF81MUZkWGpqZU9yM2NGUEludVJ5YUxpZ1RrNkxRZ0hCSEctTExIdGJqVW16YzJ0Yzhsbm9haTlqSUxtRWFTZENhSE1NSlBDS2t6elZlUU01dGVpN0VsdDJXVXllUVQ5bDlQaXc?oc=5",
       "date": "2026-07-20T07:00:00+00:00",
       "category": "INDUSTRY",
       "source": "Google News",
@@ -3441,14 +3345,6 @@
       "source_type": "google"
     },
     {
-      "title": "PSU Stocks With Green Energy Transition Plans 2026 - Univest",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sWnB2ZTFSS2Y0c2Zkb01EM1pkaDdvbWFsSU4tOTJNN0dEVXMxWHI0dHZ5UjdZelpKSUZQVW13d3ppb0NrUl9oclhRbGlGVl9kYkVyNEpFd1kzMjZfX1BPYVFHTjJpb1hKRGY0ZnVnbzEtRGhmSlhTWWdLNi0?oc=5",
-      "date": "2026-07-15T07:00:00+00:00",
-      "category": "PSU",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "3 PSU Renewable Energy Arms With Fastest Capacity Addition - Univest",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qSnFlVVJ5ZUJBaTFmeDhaLXBiQnFGOG5pTkYxd0tkaXU1M1B4V1hoUEFxQ21NY3VwREJlamc5RUpkRFdEdTVtZUlVNUVUR3BzcWZVN1h4Vm8xNGtVOFJyLURxbGNrcXZYOXliUnpnNllRbVpLcHRfOHc3ckw?oc=5",
       "date": "2026-07-15T07:00:00+00:00",
@@ -3609,6 +3505,14 @@
       "source_type": "google"
     },
     {
+      "title": "PSU Stocks With Green Energy Transition Plans 2026 - Univest",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43ak82V28tT3luVk9HX3JwbkR0dDdUajNJel9kTUYtdm9LWnhGZUZham5hem1ONGVfOVM4SGtWTXQ4WHg1RzlIdW45S0t1ek9mTTRPVlg3V2JRZ0x3UmdUSDBfbGFrREc3Ul9OYTBrLVE1QjA5a1J6MlV3?oc=5",
+      "date": "2026-07-13T07:00:00+00:00",
+      "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "3 PSU Energy Stocks Riding India's Nuclear Power Push in 2026 - Univest",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yNHQ2MUtZTjdwcy1JaE5NSjBmOXNfUVgzSXNReE4yU2Z6SXVtdHMxVkVCVnBvWi1wQUJpQzRKRjZUVi1EcFcyZVVTbG5nbkdQbmVxVGtYWVVoWXRxUG9LMGZId3ZUX1RtNExVRTdseDdQbnZS?oc=5",
       "date": "2026-07-13T07:00:00+00:00",
@@ -3653,14 +3557,6 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MZS1YejZvb3kzeFBmRGJxTlo1dTB1Q0VaYUVWb25EOVFUa2sxcEk4cE5MaXhpWHF6U18yOWFTTXpmSGJqckZSNzdDbW5uYUFrMmRLaXNnMTdDOFlNcGFOODI4eEJNS0QwQlN1OGNGNDM0d1JjNGVDQlVkZ2w?oc=5",
       "date": "2026-07-12T07:00:00+00:00",
       "category": "PSU",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Recycling body MRAI urges govt to remove 2.5% duty on aluminium scrap - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQm14WkRKX2t0N1pQdHVkUjd3MnlTZjVST28xN1NxM09FMkNvUWJsaEZ0TUhJMFNITlM1TV9vR2ZNbXk5U0pKSC0tMnhiYUdxT01EdzVVS21saE9HbUt5RzdGREUzLXlpbVBlNmpSWTV1bWFkeGUxbTNZbUQ1ak10cV9hU1lHUkhtMEFkaEE5ZG9GZ01uMFBmb3F5R2cyb3hKWW5QNkZCRGl3Z1Z5dkk2VDBjMjk4VXFhSElYUmRuTFM5ejVPM2pPVDBUS0NheE41dnk2cGktTE4yMy0wblpHOTBRZGRJM2xrVXc2elctUHFQUi1IYm1hdW03NW92bVd3cHNlaFRiRXZYcHZIMnBQY2ZDanQ3LUg3NE040gGgAkFVX3lxTE5fVXlMUkVtR1hQRnNGOW5IRDdWc1V2Z0Rua0xnUjBENjZKaHlKa1QxTVVJZENSbGxzbGlWUVYwYnQ5eWhuajhGRFRTUnozTHdlb3FyclRaZEpEZzdIWXNQbEhpRktwZE45Y3haNlBoUjVhUDBFX0Y3MTVCeGFTUU5rMnpmRE5ZTVlwakVlUXp6UGoxdDBzR196elhpQnhWeWFIVFIydVVhV0V5d3ZaVE1pM1BtTDdJZmhvaVItbFZaYnV2UWtFdWc3U0dUTmN6bHZqX2NGbUdDY19MRzE5c3FGZ2F6VUZfWlk4ellSc1ZOR1BOTjZScDFObGFQUzlIcjR5SlY3bXhidVRLcVctVkx5Tm52Y0Vua1p6bkdwQ0JjNQ?oc=5",
-      "date": "2026-07-12T07:00:00+00:00",
-      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -3753,22 +3649,6 @@
       "source_type": "google"
     },
     {
-      "title": "Mining sector logistics bottlenecks persist despite lower costs: NITI Aayog's V K Saraswat - ANI News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcW80UHdsRnZWSk1ZbmU0bkVIVHF0WjJIWkx6TGNybGRQWnVWT19yVENpYkxvbFU2LW9udzFNS2t4MFNJWm9WaWtpd1J6YnJ2NmNGN2JQN1J6anhyOXVuVWM3d290bUxiWUxFNGpKV2RpSTdzbkhjTWV3ZVRGV1NYN0JIdlBCdGwycTlxSVBvUThRdjdQbE9EUEloN3pkQUZYQ1AzdC1XS0lVUkNlRGxuQ01wbUl4QWdfaFA2SmVVTFdOTTFDcGVta29MdlQ3SzdwSXU1dThB?oc=5",
-      "date": "2026-07-10T07:00:00+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Board Focus on Communication for India''s Critical Minerals - Rediff MoneyWiz",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUtqMVNKRWN5RlI2UXhOTTJaOE53UDlfWmVpcXhvQ09EUWE1Z3NFQWVfV25SRW1rS3lSVmtxSmlHdzlzQ29RT2JNRlJPUzkydURaNFRMYmhaNEswMFQ4b0pObGF1TVlXRmNYSTBELVpIcXRYdVdwTkxMQWUydlV2REZHdXNWcWwyMDRxREplQS1zUTBLam8tc0V6c0RoOG5nb1ZvaFZlV080N0F4aWRJ0gG0AUFVX3lxTE0zTTAtenVLeDk4ZDVhdkRkOE9fRDZ0b1BXSnE0N25Dc21WTGx6REZyTmRmRE5xdzhNNkgwUExJZmN6ZFBaUi1tS1NtMW96MU5UejlYc1B5TDdfQkpsYmxGbUhFWnF5OUUyQ1F5YXl2TmFUSlBGODYyNURKdjZEMF83a0VWZmxMWEU1NjMyS2tYcE1Zc0gzbTdOS3g5TzEwb3lPMkpDN1BlMFNjVkxZNE9oelFGcA?oc=5",
-      "date": "2026-07-10T07:00:00+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "NLC India and NALCO sign 50:50 joint venture for 1,080 MW thermal power plant - Sahi",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOENaOVRVSjVMa2JSR1RNbW91Q2wxMWRTbFdOLWFEN1BLZ0VqMWI5M1YyOTdQRGJMVzdtdFBZM3QxRW9ZSGt0ZVQwSzNhT2p3WS1RWjU1NU9yd210YmdhalVtakFSSURzSGNXVDZ6REV3TTZRRWROUzVpMUhVSG9OblJnZndjSk95dkpJWlU1TXA1YTRsMGZXbGYxRHgtaHV3QUtvUXZyY2ZoZEFhSnpqT3RLc3Q0VjQ?oc=5",
       "date": "2026-07-09T07:00:00+00:00",
@@ -3801,14 +3681,6 @@
       "source_type": "google"
     },
     {
-      "title": "Modi visit puts Australia’s India mining opportunity in sharper focus - Mining Magazine Australia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGNOUkNDTktUaVZrRVJNdlJOeUllRlZCNHB5c21HQktBTGxmUWthQTdseDZ6eWdvenFRMkI5OFpMZlpKRXRiSExTVUphUnlvbHRQODU4dWJxVWRaQ21FUlUtTDdkNno0VC1RSFhuWlozeGk3akVOb2hjYTF6SS1pTGtfRTRudk5ubmxwcGx6aXFCOUNWb01ubWtUaE9oc0ND?oc=5",
-      "date": "2026-07-09T07:00:00+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Aluminium Association of India seeks BIS implementation amid concerns over low-grade aluminium scrap dumping - AL Circle",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTnVBcDRwT0FuWkZkSXRfQ2I3NS1ycGFiWHFIZUFMODA3T3lhbFhtdXBialc0Z2xRV0pxaUFKVDZVaFI0VVQ2Y1h5TGpHTm43U0lxbUFmWmJwN28wdzNUSE5qNDRlZEJQMm9yN0dqMHdCbTJDVUE3SzdVM0hPQzlmQlhxQjVSYmd0cG8ydUEwTklkb0J2REM3UW53UnZNMTBILUU3S19kZy1DSi1QOXVPOVZqeUFuY2hjZ29kMG40d21ZV25Wd3ZpR1RseVc1RXBHalFXVUVfQnQtNFVCVUE?oc=5",
       "date": "2026-07-09T07:00:00+00:00",
@@ -3829,6 +3701,14 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdm9qTi1lbDIzc1VXMHcwc3NidlViMGhMSFNHanZ0TG5YZ2R1Qzg0azBIa2JxVWpmMjVXY0xiemgtb1RHdU52Y1VuYVpoTnJpdUtOaXRvYzFQN29mWXhtRkZYUWNGT1JUWG80RnNBX3B3bUN5V2t4MWRPcEV4aEdyVU9DR1hZM3N5b3RzeGlZY3V4S2daalVCY1RoQjRYR2Zia1hN0gGwAUFVX3lxTE5GQjZuVjh5MS1kSTNaX3QzNmw5NVhfTGlQdEl3dE9FRkRKTm84ei1lUTQwZXNaOGIwQTdEQVY5UTd4WlJNaHJHZDk4NlBSTUZKc2tWMXBSQ0dkUDFSYzhhY3FQNWZEODN0RG5fVzMxRUdqT01ReEdCaU40QkxUQTJNTjZCUmJKQUVXNG5YZWthZllSc2huaVZXOGprRkE5LW8yWi1wQjZiWkZkaUxLWjUw?oc=5",
       "date": "2026-07-08T07:00:00+00:00",
       "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "The new economics of renewable energy: Why transmission trumps technology - S&P Global",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMENjUmZZcEZjWHg1ajh6RWt1bU9wVjlxLThWVGdqTzdkUzBsdzNyTXp6dFU2dU1takYzRFBPazN3NGNTakd0a3d3MmNsNllhSlVmQXY4Tk5zU0VBZ0VkZnVLTlhaQmVzdzZUbUxCa0cwRDdyVk1MamZFRWxENHhSRWNDeXNpdGpBSkNaaW5hUnV1SHBkRl91WGJNcFFFb2JDVFVub21yOThuVVB2SzI3cXVWNWhBSm5zQ2JkXzU0TWZ1ZXNDbmNtaE9ONGJWdHRFRjFaNV9UcWJBQmtHUDkyUVhxa1RKX3VfcUE?oc=5",
+      "date": "2026-07-08T07:00:00+00:00",
+      "category": "TECH",
       "source": "Google News",
       "source_type": "google"
     },
@@ -3961,7 +3841,7 @@
       "source_type": "google"
     },
     {
-      "title": "The “bring your own generation” model to meeting the power needs of data centers and AI - Hogan Lovells Cadwalader",
+      "title": "The “bring your own generation” model to meeting the power needs of data centers and AI - www.hlc.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYk9VRVhEZ0lUYThTcUVJU3E1VmRTamkxVDZ3bTdRMzBKQWRRQlNVbzhtNHI5UWl5T2xITVYtdWhVa1lpTTc0NGREQmt1blluTTI0b3I1TG1TTjd6UHh1eFhZeGpaTFl6ejlmYTFjUFAzNUhIZmZ3dTlFWUZGNzJldG5rdExhUUI3R2RLckdFWmNxbC1XQ0JxbENSZ2Zjdmg1bmxDczZSSVJTRmJ4dndjRzYwZU1PTEJuQ3h6T19n?oc=5",
       "date": "2026-07-06T12:20:49+00:00",
       "category": "TECH",
@@ -3979,6 +3859,14 @@
     {
       "title": "What Tiruvallur's Ammonia Gas Leak Says About India's Industrial Safety System - The Quint",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb0hiNHNvTW1mOGdHVXh0SmhaemIyMUZYMlN0aFlGVWRNdFpLb194Wms5NHVjd2dxeUpRSWR4bXdQaTdmWnJHNFc0MjNaYzQ4c0llWmt4a1FFSUh0bUdlNm5FTF9nS2VPd2x3RkJ0Zng2NlNaam53ZVZ1c21GZmJ5RVNyUWdCQ2NQWXVHT09Da1BzLVZTTVZYY1FETXgySEHSAawBQVVfeXFMTW0yajlKWFRRZ3REMXFuRjBvLU14SjBfQWk3TXplam1vSXZLUzkyZkh0ZjlCTURZdTVmOGVkQkhJWTJRNmE1NjdpeWwtMEZmUnBweE9mcUZpNzh1dW93YjVNdFU5Z2FZeDRDRWp2ZlMxWFVYUVAzQ1E3ak1wWWw4NDZrclEtc1F3Z0JkQnBLdThONmJnd0JNMk1xbVhqUEF2UjdWYjlFTnhDYVZNMw?oc=5",
+      "date": "2026-07-06T07:00:00+00:00",
+      "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "India orders high-level probe into fatal SBL Energy explosion - HazardEx",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSERzcVB1Vk40S3Z3d1d4bUJoLWIxSm1XSlhaMkd3X2xDblpQVXU4UHdHeVFPTkRLelVhaXJnQUdZSm1vTGpoRDdSaUdjTXoxcHJGUjh3NFgxMTFfNTRNOE16MFpFUkFPSnJqSTladzdZYnJKRWZDcnYySUk1THJKd2trQW1hTUFNYzh0OTNSZGpHT2g3ZF9CNGZZbzV2d0FLYVh0SXZkLUpfTXVvdXdXYVh5NDk?oc=5",
       "date": "2026-07-06T07:00:00+00:00",
       "category": "SAFETY",
       "source": "Google News",
@@ -4021,6 +3909,14 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPa2VDVmZ2bzVhQ0FySXBpZXdkMjF2TXJUeG1lejBMVVlNOEV3OUd5MDZObU1oWnMzN2tkVFNlZHNPRHVCVTAtN0tRV2lER2s2NlVabk5FRW1wdUNQN3JSMHNQcGhYUVNMUmxqMWQxNHdWNGg3OFA5TDc3NGdEbE9JRE1Na2ExQnhWTHRtOEJRVFRiOEt3Umo5MXItNFo5T3BENG1oQWpQa2pCalRQakVaSmhLbmNaLXdSNmU2TFB1OWhrUVYtdjEzb0J0dTdoVDdmZHJuSVl6YXNZbk1B0gHiAUFVX3lxTFBmcGROdFZEUlA0dVdVejByVWxqZ3dZWlNEWEJNd1lyWEdrVnFheEw4VDVaZkJWWF9WUFV4Slh3YUNBQy1qY2JuS2JRRzJoRktmUlJEa1cwSVVKVGVfLWd3d2Y2VVJnb3dhV0pTYUxGTWNEeE9MSEJVamVucUdvOGExeDlkbGxVek1DeVhYeXNZZWwwb1ZSRWxHdjNDamJYdjNSdzNTcE9XRjhjTExYcHdjc3ZGWFh0ZVJraTVCbFVTTERjY0pILXptUnpUVHN6RTNtM1NCVXRidW9mb2VVdDBxR0E?oc=5",
       "date": "2026-07-05T07:00:00+00:00",
       "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Renewable Energy in India, Sectors, Initiatives, Significance - Vajiram & Ravi",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rcEZVRXpNVzFRZE4zdHotajVVX1FtSzZPd3BtVF9jbkJpY0V5UGZXNFo5YTZKSE1fUC1VVXhFRXhVRGduOFE3bFNQUGhKNlYxdEIzSTZYY19hUkVadzlUbFZnLWlLZG9QVWVpOU5lY09hd2lPMml4LQ?oc=5",
+      "date": "2026-07-05T07:00:00+00:00",
+      "category": "TECH",
       "source": "Google News",
       "source_type": "google"
     },
@@ -4329,6 +4225,14 @@
       "source_type": "google"
     },
     {
+      "title": "European Commission allocates €2.5 million to support the commercialisation of renewable energy technologies - Review Energy",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeFVBWHlWaDFBajVTZ2h2OWV6eW9KOXVrT1ZUbGg1bXVsak5wMjR2aFotbENkeGJLTjd4RFJwbWxvTkFwLWYzTkVZb205ZVpLT001djZSamxoY1VNWmpIb0hKRzZuc1lDa2xCb0NpcEFhUW4tTklJOHdxWWw5VC1FVVNCRm9KcmpRSVhXcVg4c0RzcXJPNmZ3Y3IxcFhGT3JmeDdGTzZzUzR4eThSdWZxdXdtNjJ1a1V4anZ1WHBKdnhXRXNHVFphU0pTLXNKSTNhVHdoa2Z6VWtRRjJIN2RaZkZPbnc?oc=5",
+      "date": "2026-06-26T09:16:05+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "NTPC sets up wholly-owned subsidiary in Mauritius for developing floating solar, BESS project - PSU Watch",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmtTZVJZTGZXVEhNNllCSHNWV1RqV25QMzYzOUlXdHRCU3pVc0xUUlNlVm42cHBvSms0bVVFMDBjWklhTDNjYnIydHZMYTBLV1pXZVRkT1h3SWhQTXpNcWIyZFQwTkdIRFZ6TVpQX3pWOS01MUsyTFZSbHVKZ2gwektReW1yYlZ1THpNaHF3eWw2d0dtYm9ld1c1UkxjVkIxcnZyeFAxWHUtSFhfMkh0LU00eVBHdmk3VWNJY01YRlVjeFnSAdABQVVfeXFMTWoxbDVlYXpRMFJVVC1PdVZ0MkRtdGdMSU1ib2ZlNjRoaE56S0RlYnJJM2ljZmlJcTZWNlVqN1N0SUIzNnV3YnhwZVVOTnhuZlY5WUJ5TDgwZmt2STdLS09oalZobnhSMWVvQWVXYWdzdFI5Szg4T3dVWERraFZacUZVWjFIYmpHeTU1djRJQkRJWnI1WWZrQlU0aGQ5NEVjTVJvM2kyVF9YZkJhRzA5bERDZ3cwaUd1LWpBcU41N2VrUXI2anV6dUZYaTB2a2lIZg?oc=5",
       "date": "2026-06-26T07:00:00+00:00",
@@ -4529,6 +4433,14 @@
       "source_type": "google"
     },
     {
+      "title": "BALCO aluminium wire rods play a key role in India's power infrastructure - AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdWF2Slh5MFNBdmc2b1VUZDRKSDNZU0NkdHN2akxTRG11Q0NMQzdQR09WUjVPczMwSDZhRno3a0ZPVmNnNmdrNHJRa0JIMHBKb21YS1F3SEMydU9IQnBSV3hkVExhX25uV0FqN1pRcFNpemhkV0F6NGlTUWppbnVobGhTUFZ0UFU2SHhSZjBtTVZmSm1uX0o0bk5KcUtNUkd6RWtTOXlvTGVJdm5GNjB3?oc=5",
+      "date": "2026-06-21T07:00:00+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "QuantumScape, Honda in solid-state battery development agreement - EV Infrastructure News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVE5sWFVYSGFxREU0bEZkSHYtWTQ4OGZCUlJHTk1vMzdXX25QWlhjRU5uZlVjOVozTmh2WTdsenBtVFBULVlOVGlFMU9NY3pEd0NDZ1NlV3daajhpSm5MZGpjUHY0Rkt3TmlsUDBCOWNROXhWb195UzkzUllnSGZBUUZBb1VTc2VONkxtc3hTVFE1bUxPbVdxLWFzNWZsNEtVd0FQNnl4S0ZSbW1Ob1Y1SA?oc=5",
       "date": "2026-06-19T07:00:00+00:00",
@@ -4641,6 +4553,14 @@
       "source_type": "google"
     },
     {
+      "title": "Lighthouse, Multiples, Motilal PE eye minority stake in safety gear maker Karam - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY1djSG9wakpHUUlVMGY1QlYzTFMza0pzbXJ3UFhMUmlqRC1hU3psU3JHLXdMZ0hjdTVOSHF1X3k5YW1CU01tLXpwZURlVjh6alhfcmEySmt6b2xTZnFURmh4enF5RFR1X0pwQzA5NzcxZlJsYUZWN1JtMkhBQTcwcUpoaERBQ1doN1FxMmp3Wkxidl9HVnQ1eFFPWlBCX0puMTg5bFRfdlhpYmE3czdSaEx2WU9LeEI4eVRfeDhQSXF5cmlSbXFiRWpuVkkwSnNodk1VeVJmWHRZRGdkVFZfbTNadUNqNGhTQ3BHczdR0gHzAUFVX3lxTE1kQWVaNG16WnVXSW1Val8tVGZYejdFMmQwNWZPa1E2cHpEVXU0SmZ1NHZUcHdXcGNveTVienV1NWNWc1FTM3IxLTgxTERKQ0wybkktMThfalJUTHA1dHRaNlIyRUMyaFI5d01xVHNrWVlnSWVfaVhjclhFMjI0R2J4Zm4wVW9Vd3VSY0lHR1g2REFyUkY3dFgxLWRySlRsdmFOLWlkbHFRemJzOTVyWTdCRjdTUk80UlN5VkY1NmU5SmxkdWZmWEpxekhvVkFwclF1LVJGbktxSjhqSmU0eFR4Y003X0hFVEh2ZmxVRDEtb0RHcw?oc=5",
+      "date": "2026-06-16T07:00:00+00:00",
+      "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "Destinations for the EU’s aluminium scrap exports in Q1 2026 – India and Thailand top the list despite annual declines - AL Circle",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVlRsQzl1MGdWd0RzZTRwZjFUNDlnZFNOQUQ0VnA5ZFlkMGtoaHdxUm4yd1d6NnpESnVIOTd3OWpJd25FM0J5ajBTa0o4dWpLVUZmMk1LdjlkRWl6cmhLSHBUdmhkOVBpWFd6eGZLWkI5alRqMmdFRFZFcl9YMllvUlhZdUJUbklmTnFmdV94Rm14WUhQaGdlY211Rl9BSHYwMWY4YUpoRkFkX2x4aEdBNlI1OEtQaGt2dHY3OS16Q1Rmc2xXblR4UmtQVm5uMXg5MDdXX05DZWp5X1hpNTVuT3BwNHY1Z00?oc=5",
       "date": "2026-06-15T07:00:00+00:00",
@@ -4731,6 +4651,14 @@
     {
       "title": "​Foreseeable accidents: On the recent industrial accidents in India - The Hindu",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVJscUxoakFmeDdXNElWSjhQRFcwbFBmNjc0S2VPb0x2Q1pJakxkc081SzhGZUxDN080R2FVeXhRZl9JS0tUMUV2cjVuaEpSdk5GcDJEbnZWd3lIdWZiRnNnMG9memttN2VWNE53b2Fpd25OU3NiZDFBX2JUUzhGejZsMVRUcDc2QTJFdDFYekdfUnB0YzB3VEdyZy1IQlJiQlQyUTE1TzdXcGpieFZTWU1MR2tlbnIteXdnZ2tnZFVmajRNRHVF0gHOAUFVX3lxTE9vWVd3Yk1jS3haS2NBNV9CclN5VGU2YlZDcVFyc2xYOUhIM1hWTmFCTjVKdTJSOUl5dUdNdWRVdFpyWWJ0ZnJkRjRDQkswVnNnUmY5RzRtSjk4bWZXVDlPdzZQbExUT0taa21VZFNGMTd4LXV2bFVUYUtESTlWekdmMkllWDJEMTJEeUxlUUU0OGl0VFdpX2ZmVVBrTHBJRzZqYnZJYU9OcmJOZkRzT05reUFyODRncTFnOF9zZlRoOGJYcW14Ry1oTHhnTFBR?oc=5",
+      "date": "2026-06-11T07:00:00+00:00",
+      "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "DPIIT Eyes Automation for Safer Explosives Manufacturing - Rediff MoneyWiz",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOS16TkgyNEdvYndYdjhjTURTNHU0Rk5kaDJQOXQ0QktJM0paWmpwaGhJRHQ4a2tycUIwUWs3czNfTEs5X3UtYlVKeXhjZmZPTDdrQ0VFa2Y0YnBFRG9XY014ZGdCeF9rM0tLSlF5RmlKNzdpYXRsaFRUdG4zajlrY2VhWFVKUVlKRkpuMlYwUDJxOXRNTTdTTURwWXdCNXlmLWFsQjV6XzN2NGst0gGyAUFVX3lxTE1yblM4cFlpSDctTHQwczFtQzZGcUs0WG9RUUZHaUw0dV9XS0JFS0JPZWF5aW5veUViWkd5UVhoeVlxbUdpY0tDRjRjdkpYRk1UWkJiYS1kRWUxM25lSFZjYWNKMDBMcTQ2SUw2Ymx5VmxWcTVHaDR4WVp3aVBoNWpkVU80d1J3Y3U4RE5GX1kzT1ZwWnpLTDBCNDV2NUJ1VV9YU0UtekJ1aXZ6NzlZUnl2elE?oc=5",
       "date": "2026-06-11T07:00:00+00:00",
       "category": "SAFETY",
       "source": "Google News",
@@ -4833,10 +4761,26 @@
       "source_type": "google"
     },
     {
+      "title": "Visakhapatnam Steel Plant Had Abysmal Safety Track Record in 2012: CSE - Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV2FLVTBZRm15RXNseGd6aXpnRG1sY0ozZ1JvUXFncjZTd2p4RmF0ajV6cFRIUk5SdGt6cG5Fbm5DUGxJMkJUUE9aM25yMHhOT0lyX0cwQ2FNZFRCQ2RZaU5MZmVDdkpyalREbEdiMnNCa09IcUZCY21JdmlNc0VQVjlSakZ2TWE3R21HWU1RcTBQN2lkMGJ4WFN2MHVjX2dKbXhmMXlhRFZtRUQyclVjUERlTWZ3Ni1mM0HSAb8BQVVfeXFMT1BGR1o3RU1ycXJnbW9zYWFQc1p2NTZxQWdPNURkNnBpYzFmYXVBRHY2SDNGV3BMRHF2cTd6UW1DQ0pmSEpHTlR6by16M21TVks5RGdwR1VPQmNfU2NmbFl6TGF2dE82VkpBWDJrclBwSW4yUERsWGx3eTJNNTFZc0huamgzQWFVSVVDQ1hTeEplWlpEWGtUeVFyaG51NTdfdV9GTjlWa3g4THJtQklFMURQNksxNFl4bk93Wkdkdjg?oc=5",
+      "date": "2026-06-09T07:00:00+00:00",
+      "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "Electrical industry warns against rushed roll-out of unregulated plug-in solar - Engineering and Technology Magazine",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGxfTGg2N3R3SnNNUDV0U2tUdHh1MlZqU2hyMUVDNUhRUXhKOVRsakU1MHFQRHFndDAzdkxwd0JyZmlHRXBpdVI1Z1dWWjcyYzlKT3EyQkhraHFWWm1Lam1pNGN4NTdSNVp3T2lFUG9VT2lvLWYxVWc0OHR3SFAzdjVHRGRVSnctRkwyc05kc0l3Tk5OYk9PaW02b1Q0S0dNVzQ3WWExWWRBX2ZZT0RZMGd6Zw?oc=5",
       "date": "2026-06-09T07:00:00+00:00",
       "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "India’s aluminium consumption in transportation grows 14% in five years, yet vehicles carry only 40-50kg vs 160-200kg globally – know why - AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORFVRYV9OWkpfQlNCTzZ0ZTBHMUJqYzU4Yy13SUhFWnVGeUdVWnpxdm1hcjUzUUc4dWlkUzNhQ25BdU5XeXZpQXVDQTlPQTBxZ0pjeVBXZHB5UEFUd19scmFodmpJcjRWOThJLWc4ZnZrNDRObmlUck5CVHFZcEctN1QyNDhOZVlVdUphc1BtUDBRVS1lR2F2X21GZE5oN2lJUE5UUWZ3dExfaFJONUpjUzlBX3V6bEo3U0ZhVHZVZ0hlNGI2OEF5a0tpYU5Wc3p0TjVJX3Nod1RobjdwTUF4LTU3aGJiTzJzZGJSVFdIYzVRLVJkb3YzdERsQk8xdw?oc=5",
+      "date": "2026-06-09T07:00:00+00:00",
+      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -4961,14 +4905,6 @@
       "source_type": "google"
     },
     {
-      "title": "B C NETTEM RECOMMENDED FOR THE POST OF DIRECTOR PRODUCTION ONGC - IndianMandarins",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdjRHTHlZbkk3Q2RQcUZiMHNLelJKT0FaY3U0Qm04Z1E0WGVEZm1qY3pkU0daM1JtaFRmQVFIVlFWRVljU0sxMmg4TEpBYV9iX19jY1k1VTdmU1Q2UThBT2xUSExLaHhNQU9IVFpRVkpZZEJTckZoT0xUYW1kNGYtZWFjUmYzeldaeTdFZnBhX25Ic3BDRVJ5TUUwXzVWU1RtNGotVnFiU1NRUQ?oc=5",
-      "date": "2026-06-03T08:57:45+00:00",
-      "category": "PSU",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "GATE 2027 All Expected PSU & Central Govt Recruitment - PW",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQkVGajJTSGktRGc5SGlSR2ZFcjFoUlpLYlZvNy12ck0yYVlKZXd2RGV4OEhia2RidW54U1l4RzFoV1lRNnNLNlFkekRjSHE3YU53QTZRVUZOMkRGMHlETDFfdzdpMFVSbDI1OVJvQzY3WFFHSUZlOHJ3dzlDUWVZMnBKdlFvNjVrb0E?oc=5",
       "date": "2026-06-03T07:00:00+00:00",
@@ -4987,6 +4923,14 @@
     {
       "title": "Bhaskar Chowdary Nettem set to be next Director (Production) of ONGC - PSU Watch",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY1RPTTg5ZVBjdDVzaDRSYjc0a2pQMmNJcnBzUWVnbmItVDJUbmJfX2ZQWXluYkhtVzAwNUQ5RnhzcDNTTG9PaDFBRUhRZnhNanFNUkM0NEEzQ3hlQzN4VzBYNVpHUmhFWEowSnVwOGItUTZNNjJ2dHJtNmtqX21qdFRUUkdXay1DRy1oVl9CWXYtR0FFYm14eXhtMVFUVzJZR3l1Z0xib9IBtAFBVV95cUxNQTFQTUdkVmxsZEtWamxha19yWFdIZU5OSzFOTkVJdGRBOEJoY0JqdnZiMTBicXNaT0U5aUl1N2xaX2pIY3oySkZBeVQ3dnEwQ1BTMFROeG9raFQzQWdrMUdhTWo1T2xwTmlNOUJqNEJZRTdJbDJ5bXZtYnFmbGhVbXo2WDhUUTlabGlzUzVtNHVyTzBzVXFqSFVTd09neXMtbW51U1I5dnhEdDROdlRuc3ZvbEs?oc=5",
+      "date": "2026-06-03T07:00:00+00:00",
+      "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "B C NETTEM RECOMMENDED FOR THE POST OF DIRECTOR PRODUCTION ONGC - IndianMandarins",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdjRHTHlZbkk3Q2RQcUZiMHNLelJKT0FaY3U0Qm04Z1E0WGVEZm1qY3pkU0daM1JtaFRmQVFIVlFWRVljU0sxMmg4TEpBYV9iX19jY1k1VTdmU1Q2UThBT2xUSExLaHhNQU9IVFpRVkpZZEJTckZoT0xUYW1kNGYtZWFjUmYzeldaeTdFZnBhX25Ic3BDRVJ5TUUwXzVWU1RtNGotVnFiU1NRUQ?oc=5",
       "date": "2026-06-03T07:00:00+00:00",
       "category": "PSU",
       "source": "Google News",
@@ -5081,14 +5025,6 @@
       "source_type": "google"
     },
     {
-      "title": "West Asia conflict may lift aluminium profitability to decade-high levels: Crisil - Fortune India",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMHhfb0RCVzdHeWNsZzZpellzZ3BxVV9LSmhtenUwVEwyYjdUZW0yMWNIM21JRHRjVDVTN2tlYm85LWhMR1hoZ1hoTXF5cHpfSTdIbmdrenBKaDZ1MllqSjJMTU5aYkFHeHNVVkp0VTBMNHFEODFJUmFYZ2F2VHF2ZHhGQW9oendPeGJsTkVKeFQzcFdTRkxzVHpRYlZCaVIyM1ZzSXBTV3AyNXFUY1Fab0poeFNJNDZUblJyRG0xOFM4VkNYdEFaeDNR0gHXAUFVX3lxTE9YRk1sUGpXSTAzZ2JUMVdCeFRfTVJBUWlmRHg2dkhheGg1bTZwd3hRNGNhSWhfNHdiZFpWeUZkMkp4NjlvS21DcDJrdS1YMzRHYVhQRFctYUFvYlBwNVpZV3QtWmVkWUZMR01pRGdoX0pfNk40d0w2dGV6RTdsSWFQS1BEYXgycDFIb1pCazJHTWRHa0gtSzZOWWFSYnBGejdkYUlaTk0tUjhKWlp5SlhMejFQbVVZdVhvSDBveEQ2NFJ4R2FRd0FiaGwwcjFHd1FvcEREeW1N?oc=5",
-      "date": "2026-06-01T07:00:00+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "AI, Power & Politics: The Debates Shaping the Sector in 2026 - Data Centre Magazine",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPejhlNEZrTzNRSnVTQkVObXZwQzlhTkJnRi1kYmRTbDRKcmpvRTdkOV9vaUZJMTBkOVlDZERLWTA0QUlfNDhncVctbnJTRk1aeWlHNU1mbnplSWQ2aWtLNm5ZaU1DWE9MeDI2cURUa3ZtM25ZN2JrMUNyRGlueldnNTFqaElfQ3BNbU1VdFdMNHcxNjdiRzNr?oc=5",
       "date": "2026-05-30T07:00:00+00:00",
@@ -5125,14 +5061,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNDIzVXRWcEJZRF9lSUdsaGtmcXBFSkZobG9pUVR0Z3RINzZ6ZVVrZF93QTVxaElOZzZ5dlRIZ1dxMTlTZkRqTy12bHIwb3MyUWZWeXBWM2ZOMXlsMGxTdmdIZmxRSk54OGNCR2dtR0dKQVhLc0pMLTQ0ZDRxZ2N0YVIwOUNVM2VuWGxHM2hLMEFNc3dBYzl3WW1WOXU2R214U0NXbHBNYVRGWkHSAbgBQVVfeXFMUEo4Ri1ZRmhIcXlaQ0t4cnE1T29YMWJuN0dIU2hjQzFxVjVVTHVmcEpoLUREdGUxZkdUNlVYMXpRSHAtNk1paTZRSmI4bnQxak9pcEZtZDE0SWFDRzVUMnVuT2M5NlVVbzNqNmg1ZWZrZEYwX2JwS1B2ejFDQlRaOWZnMnZBbmpiaVFHeHJVTExMVzZOYjNQZzNyMTlfUzVFSl9tM3owZkV4c29TX25PUHRHczBwWVNtTw?oc=5",
       "date": "2026-05-29T07:00:00+00:00",
       "category": "PSU",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "AI boom means US is now ‘investing more’ in fossil-fuel power than China - Carbon Brief",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV1BWbElBVGhiMHhvbTZyZ2dZdWtlemFYYlFaUTdodTVwUlpmZC1NbE5iZjVkdmtmaU5YdFh3WEdKRDNTQUtYSDhEYUpqSndBV18zdnlJVzVuQ3FaQng4aW5kR0RvMG1oT3ZkRHlnUW4zLWlfdGJiSmNJSm5WV1dVV3RRYzVrZWVMSklTR1F3UE1Xekc2T2JSOC1sMURva3M?oc=5",
-      "date": "2026-05-29T07:00:00+00:00",
-      "category": "TECH",
       "source": "Google News",
       "source_type": "google"
     },
@@ -5181,6 +5109,22 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NV2pqWmw4QVIxWWZkRWtUMjRWa0lKWkhWTTI3dm5XWExEVFo0dGxleUEtTnhsZUpaNktJQkZtbG05N0pTUGpWTS1uVnhVYWlyWFdkSW9FNEtnQjVybWh1U0E0YkZRQnJjbkpBb3BzRV9Kd2dlNl9yUHpsRUEwUQ?oc=5",
       "date": "2026-05-26T07:00:00+00:00",
       "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "South Indias Premier Industrial Trade Cluster Opens at Chennai Trade Centre on 28th May 2026 - TheWire.in",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN0JobGVkZHNBSmFvSVBoMUZTbm54WGpyRFNZTjJkUHZTOXc1ejR1d0xwTEUzZXFDMnIzRDZUdXo3c1M2RDBoNUNzXzl1SW9YN1hTdkZWZXdlblBBa05BR0VHNGt0bUNuLWN6NzBNWEE2cUc3OUJYcjZwV055d1RTR01YM2dKbnlKVFBaWTFHQ0pHTmlYOHhGWjh3MEI3RlpJOFlEc010ZkhOVUlOU3FUQ19KQ21BOU1jTU1OUE1mTndmVWpTNkhweXQzd9IB0AFBVV95cUxQaWxlN2FncTh1ZTZLdi1NdTRDY3dzS045MEh0eVp2UFhUQVdLY0RuZHZKNXFXd0k5M3JIb19xTXI0aURBcV84bXdfOTRtZWFHajl1MGRjMjM5MUE4RTlqLW1HMEhZSnJsRmFUR2JyeGU0QjRYaGRBTzQtek1NVktQZTRtczFmWDNfT1M4dDlWTDh2NHZ1b1FXSktGSHVSOXpONWdxVWJab0dHaGptY3ZGWTN3T0YyRkpQSVprLUlhWXVtM2RzeVFsMk1EaTNnbmRL?oc=5",
+      "date": "2026-05-26T07:00:00+00:00",
+      "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "South India's Premier Industrial Trade Cluster Opens at Chennai Trade Centre on 28th May 2026 - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUzhkenhFeTlXNjlEclJJVEZGWUFGZ0lvUkFDa1lBT2FKaGV1QUxlSVNPYWtlWDgydHkyMU1ZV2VBQlRRY1JrLWhtV2U1NC1idVd5MXNCa1lhU01kSjlGWTlJdXQ0am9MbkhPcW1Yc2VJZFRSNkNaelZTYTh4M2NwM1ZzV29BSV9RdlF1VWdJdkdjZFJKSk1FWkNfbVc4elNPbERhbEhuT1BsUDBURzdHMEZtdWJMcUFOOW1qT3l0RXI0MkRUX09paW02SzVSWlAtRnFJQnpSM2VocU0?oc=5",
+      "date": "2026-05-26T07:00:00+00:00",
+      "category": "SAFETY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -5297,10 +5241,26 @@
       "source_type": "google"
     },
     {
-      "title": "Global EV Outlook 2026 - IEA – International Energy Agency",
+      "title": "Electric vehicle batteries - Global EV Outlook 2026 - IEA - International Energy Agency",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUmhMdjBTMHNNQVA3WnI0QWx2dnlrZDVLUklVdE1XNmsxeEVPZ2tUN0pVUkstbzBOYXZsbFVjcVhpWk8wUXlvRGhUcVR4alN2TmQyQ1Y0SnVhMUVoeEtna2V2R0ZSdGVoR2hTQVZBaFdqdG5INHdoVzUzNW93TkxfNVUxVQ?oc=5",
+      "date": "2026-05-20T08:51:39+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Global EV Outlook 2026 - IEA - International Energy Agency",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KS1VDVUVBNVpsQTRHX2xCSjFYWkFHTXhzSzN4ZzVOQVlFNDk2THQtRWFxdTRMbUpaZTIyRnZzQ0k1REowYUM0dzRYNF9VcW5fM2pxanVGLUhOTFk0UFFz?oc=5",
       "date": "2026-05-20T07:00:00+00:00",
       "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Smart Expos & Fairs to host South India industrial trade expo in Chennai - Manufacturing Today India",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wTEhSU0JvRzFBay1QY1pCcjBWWVZUdWhaaUtSNC1ONW5vY2p1ZUlHZzh6QWZjN2ppWjNsSnJFTTNucE9vbVlXbk9WODF3R0lHSGVVa2tpWVdZcVJteHRNWWQyTktBczM1M2xieWhleFliZFJpODh0bmt3MTVOUQ?oc=5",
+      "date": "2026-05-20T07:00:00+00:00",
+      "category": "SAFETY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -5309,6 +5269,22 @@
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVWdpVzhZU1J3ZVliQlA1aEJnOG1RNGo1SWM0OFh0WmpFRzFlUmozWTRPMzBsWnlDdm9tOUd5UHVaQWpveTVuc3FuQ3JSdk4xeWlhbTFfOHNrdVRieGtQOVRsUmFyb2FXUFlDWEFkRU5xd0xLUlFXQ2RUZXcydktyd3EyM0JaS2dtdTFqajd3ckdFeUhGdUtmblBCUkxJWnRlb2ZSWi1HaGcwSEYzaU9xUFg4T0FiUHlOTFFRM1k0eERHbF9WWG1BcC05enkwU3J2LWt1M2V4QVQ3Vl9YbG85bXJlckV3TnV0ekpjSVB1aGZOd19sYkFmekFPUm5rTXBKd3V3TTg4ZjcxckhLdHNIdzR30gGXAkFVX3lxTE9CVndfYW5FamJaNzgzN09FdGx6NDgzZkRLOW8tcEdWMWFZR0tyUUZtUVFoRlRFZEpLUk9ZYmJTb0R6eHJwb2didUJIUVNKRVROVUFJaVZGZndRd3JMNGZBd09YRXhkWi15SW8xT0hUUTIyTUY0REFiZThhaTFDQkNNUl9xS0Y4X2RFZTFuRzZIOXRNSVhrRUFIUXJneXY0cFZpSDhSdGVrczJ1cS1IV216VHgySVFJaDhGdkhzQVc0QlFDb2p2ZWpWX1doaHAtRldsSV9HWkN3a1JvZXo2QzlRZTFoM3pBZVpHbDd5U1U2SkxGanVXZXJmbHItN240czZiWEh0WDFUcWp0VzUwZGtEdGtaa21QSQ?oc=5",
       "date": "2026-05-19T07:00:00+00:00",
       "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Chennai to Host South India's Biggest Industrial Sourcing Platform as Tamil Nadu Leads India's Manufacturing Boom - ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUDZNWi1KVzZRTzVfYXJzVzNfTFl6REZsWEVNelAwTnNQZXgzeEFWSldkS1JGcVNtQmxCUVFoLU9Sckc4RTBjZF9uNmZJcTBDaTdkSWJhcF9kVUw5c3dYZi01U25ROHBRbkF0aE1zQlk1YmZINHpuZTlEMk4zenllLUlOTnpaVGJfekppMFNrZHVRVEJ1aWU4QkJuV1JKb0lNZ08wZG0zb3FGWTVBZU9WZDduU3BUVjJjT2loSzZpMmFBTzVfOFAzZmtTbmtCcmtPWkhiSFIzTkF0RmU2LUY1LVM3Q2hfWnBQczlYOFh3WU9maEVG?oc=5",
+      "date": "2026-05-19T07:00:00+00:00",
+      "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Chennai to Host South Indias Biggest Industrial Sourcing Platform as Tamil Nadu Leads Indias Manufacturing Boom - TheWire.in",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeTdtbVZrMXRKYTJERFZLNkJEZWM5blpPaFJfSVRvdjRWLV9XYjgybE05Umd6X0xJV01BNjhILUcwS0VlZGE5SG5hWkF6aVcxUVRQNW5mc2NBUllid0pzNW5NUHo4R0hHSmgxS2dyTWdxTURzMkxpc1ZvUDRZLWtSRTg3VHM2b2FKeXRyaUZiV2lubWYycUpBd0dKTWJLTF9UOTZvTENwQXNYSzB1aFg3aWFfa3hZcnJ1Qkdnbnc5cUZpc2h4ZjVZWEl5NXRycXFpckI3NG5oUENrY2p3NGh0ZlJ6OXPSAeoBQVVfeXFMT3I4OXczVUxydGxGLUdoWU1mdnAtN0pybnhmVldVbG4yOENyekdmRDR1NUZZRkh2U0FRYk15eXpmaFRYdHBoTmdKQ3RzemdoXzJldlRhQy1rc3NacFNFZjlUb25OXzM1U3ByS0VqRWhVXzl1QlVsNWVfRDM4dWtjQjZmMjlFYVBaVUJBcS1GMVB3blFZMXBEaDQyQ2pHd2lWNTRSSlRHZlZ4QW9JRWR5UnM1WE5uQi1kQlVPWHN3T1ZyOFlENkhBT3BacGZ3dV8xMXQtNVA2S0Q4RmxFX0xSdGllQ2VCaURWWmxn?oc=5",
+      "date": "2026-05-19T07:00:00+00:00",
+      "category": "SAFETY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -5385,6 +5361,22 @@
       "source_type": "google"
     },
     {
+      "title": "Mobilising capital for India’s critical minerals sector - Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQm5QMjJPQUZhSkh3WVdvTG5mdGVYNk13WXhldkd1YmRLUnhVcExDbzZrb3FKalJUWGhrRWtnWjJjQ2VwZXQ4XzVrbWVaRWhiMkFHc05jWE5adlV1MHlKUGJqR05HN1k5NGFtYk1XUUs5N01TWTN0anF5NkJ1LWlUYWdTYlg?oc=5",
+      "date": "2026-05-12T07:00:00+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "India’s critical minerals sector faces financing challenges - Institute for Energy Economics and Financial Analysis (IEEFA)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTWhXdXZtREhLU1JVdmF5UEhOQjdaMzRmNDRCS0ZoSzdRaTlNem5QT3hZWTlCSUVfUFUxNVQ0THJJQVBvYWpmWTd2bWVtUzNyYUgtU3B1UUhocDdEX2drYnNtbzVRT0RlMmIzOWttM0RJOFlORlVCdlZTU1ZGTm45ejM1T0ZjWWhLaU11b2VB?oc=5",
+      "date": "2026-05-12T07:00:00+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "SAIL CMD Dr AK Panda Assumes Charge - Veloxx media",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qeGRVNG9lOXJIWlV0bjR5dTh0cEh3ZW5ZRXd4eDk5STZ4TVFTU1dRMkhsenB3Y3BrRDQ0bzFFQ3VfSnh6V083aWhERjVEZVg2cXVpSms3V1pXN1NyN3M2MWxHSWx5eTk2S2dsXw?oc=5",
       "date": "2026-05-11T07:00:00+00:00",
@@ -5417,16 +5409,16 @@
       "source_type": "google"
     },
     {
-      "title": "India's mining sector can create 25 million jobs by 2047: Report - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVGpveWlPWUJmdjZFSklPeHBvVUoxRThRSEdCWEIxU0FCVWhGM2FTdTBlTmNlNXdfWUVLZl9aa1FJc2tZYlFhNC02NVFOdldtcDd4dV82TnhyeXJ1U2tacVZDR3U4bGRLbUd4VVFzZmRuMGpkeXY1WTczbkJ1dmI5SjRXMVp0ak1xaUJpakROSlZqaGE0SFdtUGh1VkFDajNYUEpIbnUtZ01ncmVXMGFqTDhranNsS3E4ZTJxUkQtb1BxUEhPTUF5dzBJSHN2RWlucGJLcDA4SFpEYWxlM2JWRlZuckM0cHVXRFHSAe8BQVVfeXFMTi1wVlBQRmxOWVQxOW1WaENMZmlpM0hjNl9GSWpEV3dsV1pxQlBKcUdJSktiNWVKMG1KLURabEp2Q0V1eDdpd1E4RmNibGN4TldXTU5pbWoyN0ZKcS1pT3BKTFoyaWxXbUxLUlZHQ0YyUWdTTTVuUTNZWVdkeTNrZ3d2ZC14NlZFZlowX3JRT0RNb3V1YV8tSk9kaVBrd1AxZW9zbGVTMkNIa0YtejFhRGdFM3ZmY1hzblBSM1JDTklNWkFoSjNKeDNCNXlfVnRqMUFRM2gxa2JRZERTd1M0WHFVcENDQm9qbTRaNzRMRjg?oc=5",
+      "title": "India's mining sector can create 25 million jobs by 2047: Report - BusinessLine",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTUplWUcwOFYydnNFMi1SOEs1MG1QdEsyOU50SnNfckF5UkhZT2JQcjkteTYyWnk3elowUU81eUdnZjRhaFR2enFwU0l2bG9Cb2dWV2NPZUt6ZzI0ZE5IYWNLd3dmek1jZ1R2TjBiSEJWYTFtRmx3Vkl0VElGNzJHM1E2QjRJSi1jdkpnWldjRVFZZ3dqUFVKZ3Rya0h1Y0kzaEUxODB6MnpqaWd5eGZ4QThlTU9RNWVnSnhkN3RlOUUwSnNROFHSAcwBQVVfeXFMT3hxaHhveUkwN21NTEJYVjB0ZlZWR0xocUNxN3JXbWZua3Q4S0ExMHA3RTZFSWl4NUUtZ1VuT1pfV0VzNllOcUpwWVRKSllWSnF1WDA2X2FtcmdKNWVhdDRzeGtqaGxaa3gtTGJrMDRpbXdzVGx2SEJQeVFNWHVza043TVZSTl8yRV8zUGw3R2I3Nk00dnRvYlF6OGM0WVlzNFZhRk55Mjl3QUdrWFVNVHY0ZlhJeU0ydEw3X0ZMRG9EWWNWTmk0TzU0a1V3?oc=5",
       "date": "2026-05-09T07:00:00+00:00",
       "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
     {
-      "title": "India's mining sector can create 25 million jobs by 2047: Report - BusinessLine",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTUplWUcwOFYydnNFMi1SOEs1MG1QdEsyOU50SnNfckF5UkhZT2JQcjkteTYyWnk3elowUU81eUdnZjRhaFR2enFwU0l2bG9Cb2dWV2NPZUt6ZzI0ZE5IYWNLd3dmek1jZ1R2TjBiSEJWYTFtRmx3Vkl0VElGNzJHM1E2QjRJSi1jdkpnWldjRVFZZ3dqUFVKZ3Rya0h1Y0kzaEUxODB6MnpqaWd5eGZ4QThlTU9RNWVnSnhkN3RlOUUwSnNROFHSAcwBQVVfeXFMT3hxaHhveUkwN21NTEJYVjB0ZlZWR0xocUNxN3JXbWZua3Q4S0ExMHA3RTZFSWl4NUUtZ1VuT1pfV0VzNllOcUpwWVRKSllWSnF1WDA2X2FtcmdKNWVhdDRzeGtqaGxaa3gtTGJrMDRpbXdzVGx2SEJQeVFNWHVza043TVZSTl8yRV8zUGw3R2I3Nk00dnRvYlF6OGM0WVlzNFZhRk55Mjl3QUdrWFVNVHY0ZlhJeU0ydEw3X0ZMRG9EWWNWTmk0TzU0a1V3?oc=5",
+      "title": "India’s mining sector can add $500 billion to economy by 2047: Report - DT Next",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSWVLaWJEWW5QdVJ2M0EwNGd1cnZzNW80LUp1UmVBdV9HbVdxWFNEVzVVOVVLUzVLaWpYa1JwdGVvSXhvM3ROaHhZQjhTaDZqMnBHdURjYV9SYzJNU1ZQR0NfVUdVSk1NX2Z5eTk2Q1BIOTRYdTlNUXBQc09Ic1owNDIwZjFsYkMxUFdKNHktVUJJeDRVbXR3OVVXcmh3d3hZUnZoMdIBsgFBVV95cUxNN1kwZWJ3LXItR3Ixd3hjcDVPT0FsTDd4dThwazJfZ3EtSEpHTmIwYjEzc3ZCc1BCaEl6Y2hQSXN0Y1NUODFDVS1GeTN0MHJGNTdaOVZaTUJsTk9EaWU3WW5pNVRRZ1V3b0ZudTZyOGVoV3dndXNCN2dJTWk1TlhYcHVITlRfTkN6SGo3ZDQxSFc1bFZxMFJFXzU5bFU3d0puSi1pOUprZzFiaGtabmhtdi1B?oc=5",
       "date": "2026-05-09T07:00:00+00:00",
       "category": "INDUSTRY",
       "source": "Google News",
@@ -5459,6 +5451,14 @@
     {
       "title": "Mining 5.0 - Emerging mining technologies by 2030 - Deloitte",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeGtad0k1VkliT0dob0d0aVpUWlRoay1PUkt3RDl3dUJqRDdvYk0yalJxeGp5NjlPdHNwRkVBZUlNY0N4XzJQNWNwMUFTTnFNLVYtSFQ0WFJ0S1FJMDcxUWVjcjk2QXlvWE5mbmlqLXpodExWLWlsaVo0elM1cVg0ZV9zaw?oc=5",
+      "date": "2026-05-08T07:00:00+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "India's mining sector entering 'Mining 5.0' era with focus on integrated digital systems, AI: Deloitte-ICC r.. - ET EnergyWorld",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSUZ1OUVhV3h1TTdqV2pZOHNERVE3WUROLWNabGF3VVF3SU5udGdGOXcwOHQzb0Jncm9zZkhOU0ZmMkF5UmxMcTRfVW5udkNZMUZfQTJicXZ0THFzWXRzZmkzc2F5cTFQME5oWFZjMm9iU3ZMVHlJcUItM3FjMWVudXJmb1lxMnVseVcyVTZ5czlleTRTYzRKMnB6SXlfRVBsaUhmaHZjbUlvdmJZMUpoSjhsN2pVV1BnVEhrbEtCZTh5WUh1ZkpqRWRrS3NNWWtra2ozVE8wcVLSAd4BQVVfeXFMTThOcWJ2YXZucjU1dlU4ajkzdS1HVmxjUFZvVnQtc2IxanBpUVltVDNiczlZUWFzLWloRzBfOS03anZaYXdlSGlzNkhOWXRoRjVPLWsyYTZseWl0UVFQMWdIQWdVY1Y3ZlQyZklSek5pMjk1RkRydTFuZGNwNjJKOUVOcFVyamdodXdUanppTVRYUGpRUEwtX29zN0l1dnBoOXJoeVUzR214ZkF3NUJWeWlRbkdGamNLbmZmVVZyNlRvcnVaV2VDWUFCanpIMG5JUFBCSkJfaTg4T2NyMTVR?oc=5",
       "date": "2026-05-08T07:00:00+00:00",
       "category": "INDUSTRY",
       "source": "Google News",
@@ -5525,6 +5525,14 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3RCUnFoYlVPQ0tiTW5jTUhUVXpXQ1l0WVBhbWhIRTVsc1pVcENzNDd6RTFGWW4wVGdKNy1felAwMVhtTWNTWVpkeUZPRTNFb1lMdlpZaW9ha2pQdUFuNkN1bEtXQW1KZ01TbDJDbmVoNGM3a2QxZXRBWlFzZjVGU1dmLXd6Z0ZtS2pGTzBFSWs1ZHFvWDBGWEVYNFFBbE1x?oc=5",
       "date": "2026-05-04T07:00:00+00:00",
       "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "India’s Mining Revolution: Balancing National Security with Environmental Democracy - SCC Online",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb3NjMFZmcVhiUHpkMmJaYl82LXBpN3JIbWdlVEx2V294RjRTUXQtSVFXbm42Z3BJYVRpMXlaWFdRYVRGM0lDRkQxQWRpc3hxZ3VWRVdKTVdQb01hRlFKRUlQLUhOLUV4b1pPOHZFODlSTjVNZjJ0SWluQllYTHJoRWowT2FmZXpzeFRkbnJieGtLbFVuYkZsejR3?oc=5",
+      "date": "2026-05-04T07:00:00+00:00",
+      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -5641,10 +5649,26 @@
       "source_type": "google"
     },
     {
+      "title": "The Body Count Behind India's GDP Story - BW People",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSXdBVlBYWmhFYTk3V21sUjd5NEhaaVpnZDRnY3JnQW14blJ5VnJOdWg0bzRwNUg4aE5DQmMwcWxVa3lKWlhNVHMwcXV0cFMyNGUzYzRpSDVYX291Z0lwV1YwTTVVdWRzNXJZT3pZZ0hTcVpLamY5RFpzNm5TbUFOcGx3SFc?oc=5",
+      "date": "2026-04-28T07:00:00+00:00",
+      "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "Factors influencing the use of VR technology for safety training among electric industry workers in China: an extended TAM - Nature",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGQ3A4NnlZZkZBNHgtSWU3cmhnX1VBMTFJamNyelF4NFhTc3FLeTNqV3NVWmlaRmh3dTExU3FRbE1xT0FzT0dRU2I3cEpVbnJVQWttMVhUaXktRnctX2Jj?oc=5",
       "date": "2026-04-28T07:00:00+00:00",
       "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Critical Minerals, Critical People: Building India-Ethiopia Mining Partnerships Through Education - CSEP India",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVhqOG9ZTFlQckNXdmVDMWF1N3RUV0t6WUkxeV9JZ1VkLTJPODNZd3VaeTRZeVh0aTBDcWxmcEQ2cHJabGd0ZDBOa1dUUGRveVY4aDNESV9KREc5azA0ZHVDbHdRdFJNUTJxeWppRWJHU2JCUkZxNG5ZSmtxR1ItR0RlM1p5eGZZMkZ0VVV3Y3lET25Kc1Z0SkxxS3RmREsxQ3d3cGJ1WFl1bVRpTi1NYnRWbDRwQVg5Vnc?oc=5",
+      "date": "2026-04-28T07:00:00+00:00",
+      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -5737,6 +5761,14 @@
       "source_type": "google"
     },
     {
+      "title": "SBL blast: Safety lapses, not regulatory failure, caused tragedy, HC told - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRklKN2FpQTBfTWpEZjZ6ZzVIbmZsVmZQTXZJTVRQYUQyN1FKQ0NKOG15ekc1OWVyeVZxMXBzWWpPVDdHd0lhMUtCU0lhUUhJaFBrMmw3V0xUUVUtc3NtLXpaMXQxMTlvMWFZODRWUDAyeGVNc0wydzRsUVlkZFRCVXU0ZGlQcW5RRk4zSXN1X3BkRzVUR0FmRjBVOHVmS0p5NHZSWFluSlAyaFNkRXBvT1NNOVRGSExxMkxXVnd0QlYxajlvWVHSAcwBQVVfeXFMTjBfWEFWTUlrSFFjbDBHdUE4V0NfOHB2VDZTWWZ1ZDBwMWg4YjF0OU9JdGFvTUlkYm0xTnQ2X0pEbS03N1hjU1g4N3dNbXd1RGV2bUo4enFidk14Y1JOSHp4UERYVnZlVk9FQW0zQVlCcjZlcUJzVkVZQ0RuUlBQMFdXTl9qVWpMcDEtSG1kRmg0ZnU3VnZzX0JTWFdTQzkxUFZQNzhEZzE5YWJtSDB2cEp2ZFhpQTBLS3N5ZUpRMVY1ekhKWEZjZlhVeW1t?oc=5",
+      "date": "2026-04-24T07:00:00+00:00",
+      "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "ONGC, MOL deepen maritime logistics tie as ethane shipping JVs move forward - PSU Watch",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObUpRSkF5VE1RMElXVEZwSTZ3R3FxQ25aeWNxU1dKaFFNS1lKMlhmZ0hqM3B4MmpPU09uRFJ6NHo2bV80MkNmUGNTNmhQamhzVDlhaXRNdlZMck4ySlBlYW5lcWN2cmUyTEMtY0FWVVVIUE1TQ0R2QjliZy1DUEpSWmFOUmtTRVluMlBfYkVuV1V2LWs2YmNkbXM3cm5RbWhWQ1hWei1xdDhiTG_SAbgBQVVfeXFMTU0xemJUNFVWZjN0bWxFQVZhVDJQM0c3ZjZLQVQ5ZWZ1YnNUUjNXVXBkZDJxMG9zSk0xSmw4bjcyc29UMG1iMFNSSHpjQXBuTWlJT2N6bHgzRGViRlI2aXRxZ3BnQ3hkc2xqbXlDbE1lUHZxdmxPZ215RzdJZUZBQVowVXFVYUNUOXl0RHZVTWhpOGFJYzZKWWFMLWluS0xRdkJoNDVSUlczUUk5aDVTaXp5dUdHd0tOdA?oc=5",
       "date": "2026-04-23T07:00:00+00:00",
@@ -5747,6 +5779,14 @@
     {
       "title": "Industrial Safety Crisis in India: 3 Workers Die Daily in Factory Accidents - Pioneer Daily",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdnhFTnB1b3FEUnFUMVVmQmxSNGFWV09JX3F5Z21NRW5sNV9lb0tqSEtvblBZcWd0XzQwOFM1b1A1cHI1WVl5VnoyN2d3WXkzamxYcHlUMVBBMDl4bEhLcVhFTEJpNzZVMGlITVdjOHVFREdnTkM2eTRkLWQ2TVQ5QzhwaHNoWVAxZl85ejViQlhUZU84MThEVXRBdw?oc=5",
+      "date": "2026-04-23T07:00:00+00:00",
+      "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "India’s new labour codes decoded: Early impact, key shifts and what lies ahead - Livemint",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUU00WFY4aEt3X1dDdGNFLWF3aFh5d25EbVZPQzhKTEt5X19KYmh1bXlXZGpIaTI4QW5xQ050aVVWUWFrTGFTVlBiUDRmQ1BDbk91cFZlcjhId3hVeFgtZTdsYktlakg0RlBzZ2pVcXhtdGpCbGpKcWxvM3dtQzIzeHE4d0E4OFF6QlpoaXlsU2t3UlEtTzJua1RuU1B0RGRaOFR2TjhuNXh2MTZmM3Rpc0t4RjVEVFZrSXhkeU5BbnZZeWQ3eV96WlczNnZzRGNqMVlVRFZrYUNZZzTSAeABQVVfeXFMTXZYWFJIUDU4a0U5UmMwMXJzd0txT3ZkeEt3QXQycXRMRy1ZbGt0cThwSWJlektwNWFmWjA3LWYzU0lUd0hjc3BxWkF5WWxSc3NwMmN2UXFiX1J5MWtSVUN1TzV1R3dLSE4xNGw5dDFLQjl2eTNqaUFUN2NWNk82N3c1NV9US2g4bHMtTnY0X0NQam9KTkk3MGVoWEZqRXloaUZpNzVyLUpVTkZXZzU5ZEY3RHhqX1FUUlZhaWNKWFAzb1I0ODYyWWkxZDdQaVp4S1NuaU01dlFLSEtnVHB0UnY?oc=5",
       "date": "2026-04-23T07:00:00+00:00",
       "category": "SAFETY",
       "source": "Google News",
@@ -5801,6 +5841,14 @@
       "source_type": "google"
     },
     {
+      "title": "Technology: Solar PV and wind - Global Energy Review 2026 - IEA - International Energy Agency",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV1hQcWRreURkWFJyNmJEOVlzNXpBckFMSGZSbjlsMXlmQ2hzc2VGQUdkQ0RwQko1YUtsUlFfajdIOGhjSGg5X1o0emEzOXFNcHN2Tm1lZms2Q1hYd1dSVm1KQXVHMWNXb1NMM3pSWXhXaVNEU0RzRWV4bTJCZS1lZFBQMlBSUEhWcGc?oc=5",
+      "date": "2026-04-20T08:36:13+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "The battery chemistry race shaping the future of electric vehicles - Chemistry World",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDhHdDBTRElhNG5SdXZPSUZyYXZsSnFRejBYLTRHRmhpcTlCdUw5S05QZ3N6SmdtbUducTA2MW55d1BBMUI0Tk5FamFnOGhYU3hjdzlmUEEydTNaZndpT2lYR3VMN0xMaGJRMDl0MG5fSWJ4VW1BSWxzTTVXa2ZSN1VJWmFocHV4NnR3TXdVNlRZZWt0UkZWZG5LYVRKWWp5QTRDT1lENVFkTHloaV9tTXQzQ1F0UDdwZ0FLTWVTRQ?oc=5",
       "date": "2026-04-20T07:00:00+00:00",
@@ -5829,6 +5877,14 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT0Z1ZEFQZ2lKZTFOeTdsOGRfM0h2cHhzb0hiRFVzWC12WlR0TWpGUDVjNXB6N3FSaW9YTW9wYnlPbWotbEpDUGJhYVBWVlBUNW5KeE15OFd1NUJkeldtQlJWUWJxS2hUYXBkcU9nWU9JWHE3ZHZSUnotYVhiVUd6UkV4aWZ5Z2pUaDJiQ0dfUQ?oc=5",
       "date": "2026-04-18T07:00:00+00:00",
       "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Rethinking Environmental Clearance for Critical Mineral Mining - orfonline.org",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUWJ6ellwblktQ0VDVkkwMUVhTDlXS3JsSGVuQXpfYmRRMXE3UjNpT0pNZEFycUNLMThha19ZQndWb0thWS0tVlBYdm1tSmo4Q0w3OHBpOFFKWS1vYnFLeUtNMUFoVUh1UWNRY08xSmgtZzY2R3pKZ3RLcnI0aWZXTlM0MzJPMzdUejdNMFBlUlNlZ0w2T2lPY21HcnNzMlp1Tmhj?oc=5",
+      "date": "2026-04-18T07:00:00+00:00",
+      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -5865,7 +5921,7 @@
       "source_type": "google"
     },
     {
-      "title": "Data centre electricity use surged in 2025, even with tightening bottlenecks driving a scramble for solutions - IEA – International Energy Agency",
+      "title": "Data centre electricity use surged in 2025, even with tightening bottlenecks driving a scramble for solutions - IEA - International Energy Agency",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGh4bUVvZlVrbklsZGIzWnBPLUMyeWptYm9Qb0FqYXNvWDEwNVpUMEg3VEo1bHJCaEFScDJYNVEzaVZxX19rMHVDaXdLS09BZUVxamxSeWl2LTVRLWN0TU05MThOTHRibmlIZ3E3aklvYUl0YTBVYTU3bjBlbHJ2LWJtbDhWOHRKb0hBd016Q3FORlQ0cGR5a00wRXJPcVV2WFdiUWJ1OEtqSEQybnZwRU1XWmpEM3huNFZEUGVWemxsc1hHcEpwd1pSRTVwUQ?oc=5",
       "date": "2026-04-16T07:00:00+00:00",
       "category": "TECH",
@@ -5897,6 +5953,22 @@
       "source_type": "google"
     },
     {
+      "title": "IIIT Hyderabad develops smart wearable safety system - Manufacturing Today India",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kNnRwTFFoeUdVOTNVVmNqdjBTWEFyUU8xZXpzUWVQbjFvX1RPeWUwN3JuNnNzcjZadDlyZ3RQMTJBOVpxalI3SFlZTEVLLVVrX05rRGg0bjVrakhNX0x5eVFJVkgzQlV2Y3pNT0VjWUtielpZRFo3VA?oc=5",
+      "date": "2026-04-14T07:00:00+00:00",
+      "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "India increased its iron ore production by 7% y/y in the FY2025/2026 - GMK Center",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaFMweWRhaVFaZU04RlF4Uk80cUhpUmcweTF6RWh3ejhjY0JfWF92ZkFNUUhMV3RFQ3lTZ3hhOHozbmdfc2tZcC16bWFXejVWTzM0UmNuYlg1SDZsUFV1RHRtamQ3UDlhQWRrUi1PdE1zeWVWeDUyeVd6eEh1YWt2MDRieTVRbk43SGxzZHNzLWhLRFRoNGdseTRiMNIBoAFBVV95cUxQTVRFVFRYZDhJWVZEc3JlTFFhZlJCcktXdGdKZTBBblJOMFVrOGZJTzVuMEdQRkRXY1pRNm1kLUtFSi13Zy12ZWhfOENRTWNucHdIcTV0T0NCdGJIU3hROVlSNFRHeWhVT2dJTEZfLU5VenpKNVFZWXdaeDFzSGhLdEFSSW1fb01tR2JmRFpDWlFvaF91OUxadC1qeG81UVJx?oc=5",
+      "date": "2026-04-14T07:00:00+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "Can India become a global green aluminium exporter in future? - BigMint",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUktRTUJjWkNGa2lWRGozb0ZCTTlZeHNRc0Z4S0R3eVhfRWdlejFkRlNMVGQ0ejQ3SFAtbUhUNHlPX3RvZGJGT3NEbGswTnEzaU90blYzQlFqdU1kS2NpMnBKSEtPejl0SHROQ0JGbXJrcldpZkxUZUs0dnAxSkF6Ry1GSU9IMzlSd21LMExlcFdlejMtekswaU5ON2hkbktfN2ZWS1BrM1BzUlViUExYcWp6Y0ZwbVdqYmdiRC05a1Y3dHRPRWNiaWRrYw?oc=5",
       "date": "2026-04-14T07:00:00+00:00",
@@ -5905,18 +5977,18 @@
       "source_type": "google"
     },
     {
-      "title": "NTPC Share Price Target 2026: Analyst Estimates, Bull & Bear Case - Univest",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZNXZqTVNZRXFkT2ViNG1ROEstMDlBMXZja19VLTBzSHZMWXRoWThJWnZSRi1RM29kNTlGeXRFT1RfblBMaEF2ejhrcDBUd1lOUlNvbG5oWGJsYWkxd1dmZ3pqOFh1YWx3RUprc0VyQVhEd0pF?oc=5",
-      "date": "2026-04-13T07:00:00+00:00",
-      "category": "PSU",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Could sodium-ion batteries ease the EV industry’s battery supply challenge? - EV Infrastructure News",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2lpellzcHR0X0VwQnFBOE9uSlFWQ0hONVE3LU82UXJIV1dvdUZEX2pIOTFQMW1MbzQ3YTdWaloxMS1DYy1aTlBCY1pUeGVGUENXOFNjX0ZnenR4WTV4aGg5ZDMtOVhqa2FYcDRUVWhnelJHNVRDMjJFUjVMUWMwaGdfei13WndWdWVwa2l0UmViMjhSSVNHVHhHZ1Q2ZjRjVm00QUVidTdXUzZWLUx1Q0EydFdQSjZ6QVFTakhiY2o?oc=5",
       "date": "2026-04-13T07:00:00+00:00",
       "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Deep Sea Mining and Ocean Commons: Economics, Equity, and the Governance - orfonline.org",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjR3M0xzU2NZTWJGeXZ2bkdya1NCdkFoSDZpa0JQajAwSEphMElkNkdYemNWOTlQUTVfNFhTNl9XLWF1TThpdGhoLUp4UldJNllEYzVJaDFnZFVNb0t4TlZxbTZWM3Z5b0JGcVZ4QVkta0toYldBYTkzLW5STzByT0VleTdSLUtkeGF6dktOYVVESS0zLUU3ZDNqUkc1U2RmdE0wMWV1Q1JZVFZB?oc=5",
+      "date": "2026-04-13T07:00:00+00:00",
+      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -5977,14 +6049,6 @@
       "source_type": "google"
     },
     {
-      "title": "From India To The World: How KARAM Safety Is Redefining Global PPE Leadership - Outlook India",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON1NFbGZrcFBQVmdkQ2dydy1MSEwyMnhfQ0RDbTdxTFlicGE2YVdic3N6djdObTlQOG9HWGRhdncxM2EwdlRCZUM4YzBuS0JOUFpGQWV1TW9xWVlXNXdaQl9EQ256eDhKZnlSZ2d5UnZGWmJhZjF1WWFhNUJZX04xRkZGcGQxMTliOGFGek93RnBxRnYxS1N3bmYxeGxtLXhweUFFcmRDZWVzdHNrT0R2Z2c4Yy1ZRmZpMWc?oc=5",
-      "date": "2026-04-08T07:00:00+00:00",
-      "category": "SAFETY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "ALEMAI Launches ‘Aluminium Bharat’ Initiative to Boost India’s Aluminium Industry - Pioneer Daily",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRzVtSnJuSGJuYkN0d2ZTa3p1WVFCX0VRMnk4Yl9na2NHbkVhNlJTQ1Y0bjczZGMzblhQTEJoaTRzeTJBcUJfNlNUUmgtUFNmQnJCanc3Q0RqQkdNdlQxOG43dWRNOVEySF9DOGFaVUNHdjY3TEF0cFhWZ2tPRmk2bDQ5SDNRWVM1UTVhaXI4RUh1ajYx?oc=5",
       "date": "2026-04-08T07:00:00+00:00",
@@ -5996,14 +6060,6 @@
       "title": "How India’s downstream aluminium sector can gain from the India-EU FTA - ET Government",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYWZWbjQ3azluMUx3eWwzWHo5eDk0ZDFVdHJ3MWFuX2ZJNUVNSWZJakpfZm11ZFJzaG1pNkhQcUluOVV3MlphdnpGaVNSamdVODhHYkdmT0xacFlvNXYzZGMyV0RsNG96TUxHU004RnhZMXR6aDhtSEN6MW8ydnVmb0NOdEIxaW9fYnJCb3k0b0ozejBXRHl3NkhvY180aDk4RlhkVWpYb1QyWVZVUXg2QkRxLW9PYzRfM3hLTmVTUmFPLU5DVUJpMkhuVm4zd1HSAdQBQVVfeXFMTkdLS3E2QU95cFVNUTlFSE5fNEEzZDFXQVdTNDljMU02c29kRGl0QTQ4TW5rVENQR3Y2dUQ4eXQzV3ZxSTlMcVh1X1k0Z1U0UUJRVWdiNTQ0RUlsV0tmSmV1Z0RBSTItQ0l5U3M5YmZfeENHcUMtZ0NEVE9td2dJQUxWOEtKMkxwZFZvNDhrY25pdGpJanBub0tYU29SSG1hZnFlVV95ak5acU9hQ25HblF6bXN6LTc3VEtNUVFBcUROeTRuelJHQnlOYU5xZjBWLTladjc?oc=5",
       "date": "2026-04-08T07:00:00+00:00",
-      "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Aluminium Exports From India: Top Companies & Trade Insights - The Dollar Business",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY2RMQjhhVFZNUlBVNVlxMG9lUlVNNlk3bDYwZnNCeFB2N2FrM2hVVUVFQ3lBSGFLUDZNOEdGNGM2bFpfbkEybFNoREJDR01HMlpHNG1GZlRKMFpHVWVadksxd0I1TmQ1T0FlOGE4cjZZZ3ExVHVVVTZncUFQZ2M3Y2s2Z05vOVdwbkJla3VVMTNwdmVkR250WDBaTjZzS0lGdFlCeFlUTHR5cVNUeEE?oc=5",
-      "date": "2026-04-07T08:34:17+00:00",
       "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
@@ -6137,6 +6193,22 @@
       "source_type": "google"
     },
     {
+      "title": "India does not plan to revive offshore mining auction in near term, sources say - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeE5xNnFQVGg4dmRSdzgwc0ZqVHpYZS1CVk1VVEJWamxLaUl6LWdGMXZKWnJaYl9aV0htd1REODJQVTI3aDd4ZldRMUhaVnRXa1NROXJWX2JVM2NGdk5GQzUwYnR0NTRhSldtaExpOER6bDVNa1dmeHNmZFJOVUsyMGhOaGRQVVNxSVV6TFA3Q0ZhdHFxa0xSZ0g1Z1NsQ1lPN25OTEVWckZHYXpsRk44WGtIUXFHOFhKN09JNktwTHJEdjJITFJIMDlCcWRsVGVrRVdwM2xHeDdHZ0RYelFTQ01EeUhyN3lsZy1odWJhT3kxNmFEdFY3bWZSTjVNMDTSAYQCQVVfeXFMT2F0MUpVZGtWSGRrelN6N3NqUE5xcklPV21aNUlMd3ZJckFTMGJUY0pydkFkRF9GMk13SS1QVWN3LUJIc1JGX3h4VDZPTmdjOVp2Sy1GbzlCYkFkcVhQbldEUTF4R1d1S3lreEp6R3NsMTNfWS1fZmdSWmRrenJ6TEdobTdEYVIyUWUzbGhfSjdtVVZPb1FpS0ZVMzFHS040dldZdkZUTGt6LWMwQk9wb0xSbDVYbFFCQ21wMTAtZy1TRE9GY01JUmNISkZRTWJTc0lWeEFGazJoZFEyNGU1bFVhMV9RUkhGcnVUT0Q5cG15bTBhTDFZWmJrdlBMR3g2WlBwd3o?oc=5",
+      "date": "2026-04-01T07:00:00+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "NTPC arm signs pact with SECI for supply of 70,000 MTPA green ammonia - PSU Watch",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmVwdGUtRnNqVG0yc3JKZTB1a3FiUVE5bTA0OHJuMWZyNjZyMTlRY3RMdS03YUdRc1E1XzV4WVdBODVSaFNoVWVnQ3lOSUFLVFlJVjNrd2tMN3JSaUh1RnV5bERrQ2JYcVN1TzVNazVYWGtEcEFBU2lYWkl6ai1FeERfTzJVODFoOHo3c3JkUE9WbWk2YTd0cGpnZDBVNU1ZRnVF0gGwAUFVX3lxTFBYX0d0NEQ5QTM4YzY1WXFsWUtEck5yRXBPODFxTzAxWjR2YXJKNjhfUEFYNmsxelJqaG5wVDh1a2c4cFFSYVhFMzZWQzE4b1kxTHZTMnREWlJkRkI2NzEtYzFSSzdENU55emdjQjZkUXhRRFpidUVFRXNSWUFpeE1hc0lta09hVzFjeGNiZl9FRXdmTGZUV1M5ZFN0Y0xuaTNuUHVIUjFCRDBlejY2aU1f?oc=5",
+      "date": "2026-03-31T07:00:00+00:00",
+      "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "NTPC commissions additional solar capacities at Khavda; total installed capacity reaches 89,057 MW - PSU Watch",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFcyeDVPc2hGa091ck5yUF91RHBReGRVMDBPSHllVjZjYlpYRWtHUC1nRGhyT1RfWkdVaTZlNWgzWUsyZDdwcjZON1FJVmgwOUpIVXQ5bTU4TWxtcGg4NUVoNUpJdHRUUDJFVFByUW96X0FjY25hcnpPd2pXdEhQbVk3WWhBUkRkZjdZdUxyX1ZtTkRMc1RvaFZIcXRjT2tBZHlrN3NhNnB2VUNuaHhwaXpJRFpBek1zbHdYdlFXOFloSUk2WVZDUtIB1gFBVV95cUxNY2dGM2VNSjhQb1dHXzQ4S04zT19xRlh2R2RHTHdKeTI2UEQ3LWswZnlBdkZzT2c5a1VSRE1ZUzFPbjlmTURFQl9hR0NIcjl2eFE1VzVZRVI5dXBZTGc1NW1qR0k3Z0NjZVJiZUM2dVA3OE9CaG50XzFteW9oRzVWUXRqSWhlQ1BNVXhqRWhlaXRRMU9xVVNLUlZhMnNUWDhpVml3Y3ZRakd0bkFveWs0U09jVFBVSmpweHdIRHcwRFl2N1QteHJHTWRWS1FDMUx3dEFOUG5n?oc=5",
       "date": "2026-03-31T07:00:00+00:00",
@@ -6157,6 +6229,14 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYVNOQzZweWhvbHVobVRNal84YkFMOGY1VE9wdXJfeGVlbVdnY0sxWlFkRjJqbHprZ1NXOUpzLVhHWnpJWXF2cGFxYmNSU0tzVUVRRUkzMTdMRGxpT2tDUlZrcUh2QThfNTJYcHEyLTRlYnJQMzA5NFJsMXB4cUI1TldXLTRBSTdEdGFSekNwQdIBnAFBVV95cUxOVFM0c1JrbDZ0ZEhRTnlfNGFfODBnTHRpbXB1SXdzT0JlYnRvVldiMnBHNDhUbl9aUXk2am9IMnd2RGVjNTNnc21SdHRDbjZab3BmRDFybFFZNmNvNUhZTjc3ZHctSV9IRlZqWmtYbzZXeDIwNG5NOWJ0WVFXSEtYNlFUUm1CakNacDRfblkySElyOVZSRUw0OU1PYVI?oc=5",
       "date": "2026-03-31T07:00:00+00:00",
       "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Assessing India’s Coal Mine Workers: - CEEW",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdnBBbWxpYzZHbGl6V1N4VlVkLW50c2tpQUpKQmJ3QmVLakpHWWc5eXM3SjJBWmc5VTVfN0FQT3gwQmhXNlNNbHJsWm5Gbk5xWGNnX2RzMEg3MDlNWXh5djlnVEFhcWRqd1lza3p5UTBTT1FiNEpKUDlSYV9NU1FMYlRKaS12SEpvLXMzMU8zTjlXZw?oc=5",
+      "date": "2026-03-31T07:00:00+00:00",
+      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -6217,14 +6297,6 @@
       "source_type": "google"
     },
     {
-      "title": "NTPC Vindhyachal hosts workshop on smart ash dyke management - PSU Watch",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObHpVMnF4cVpBTWlLWmtCaXJGdTB1Q2JaOTJiaUR2bjg4TGJHOWlxSnQ0eVZPQ2h3Z1d3VklzNS14dlM4SnFFZU5IMl85QmhmZ3BqeWdIcmg1MmdFdmNlc1FISHZMX0plb3M2V3M2M1Z0MlhkRVJEd3B4Z3NITWVhb1VGV2pSbURPSU95Z1E0YmFjUlI5T0ZJY9IBpgFBVV95cUxNV2pBNWh2OW9zVGIwNkRwQlFmU0Z5eXd4UW5WX2ZfRkpHaXpXbHNsc1pXVDFzbm1JaGg3aU1NYjluSXQ3Q3BuUnl4VXZHMV91TlpNWDdCalZoZm1uSHdpQXFucjFQb0V3V241TzY4ZGxkZm41ejRvWURxRy1jWWk5OWFMSWs4OW9HeTVrMUc5RWFWSTVBenpaZGlXakQ0SDlWU2dPRDN3?oc=5",
-      "date": "2026-03-25T07:00:00+00:00",
-      "category": "PSU",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Appendix B: Renewable Energy Technology Basics - U.S. Environmental Protection Agency (.gov)",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMmVZQkVRMUdibFZkV3U2M21wT1V0MzczdEUwYnhQMzRBaTlJS2hqMUl4ZHZlT3FoRnpmeVJaanRoU2tsaHRfNE5EVjZXMmZNSl9rMG44OU13V1k1TGUxR01pelI4OVFvRTNFTGlvVFdHYzhUSjN2eGlnSDRQZVJVUklvcw?oc=5",
       "date": "2026-03-25T07:00:00+00:00",
@@ -6241,10 +6313,18 @@
       "source_type": "google"
     },
     {
-      "title": "PFC Showcases AI-Driven Grid Solutions At Bharat Electricity Summit 2026 - Sarkaritel.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1RkbzBIX0sxbXZTajRQWHdxU3FGc0RxLVhlMUVOZFFQb0FYb3BWSlNiUS1kZlgydElrUmRwei0zUmtlc3ZZQ3FzZFZDVjIwMDBReEpIMGJ6cV9qSi1Wdk5lQWJpMmtRNXQzUXMyN0ZpMjNKaWVnejl3NnZZT0NTbDhadVh1NzNiWWV3NDc3endlZTJ0cjRNX1ZmV3UzVWg2SThrRURYcw?oc=5",
+      "title": "NTPC Launches Second Cohort of AI-ML Certification Programme in Collaboration with IIT Bombay - PIB",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OMmFwMm96NVAyclFfSHF3ZjE1cEpZSmpUcklidFFlUFBWaXdKaDFaSXF1S1FmMkZSaXFCeTFaenhJTGhjUmhybGY4cDhEZlZLTGp6U1gyZjFZa1Z3Z3A2ajJzenlqTG1wWWRtME92WXJ0ck0tNGJtZEFR?oc=5",
       "date": "2026-03-25T07:00:00+00:00",
       "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Project expansions set to lift India’s iron ore output in 2026 - Mining Technology",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVVg1c2l6cjZJZGNKM1lGejZPdzNfbUZhdVFZUEk5TmVNWnN5aHluMURCeEVkR1piaGFRODQ2c0dlNHpGRFA5YXQwR2dEMzN6VEVoZTc5WjRQd1NKcGRHYmc5cllOTm9LdGRRVkI1YVh2M1FfR3ZQaDBiWE5PLTZFUmpueXY2X19nQksyU0FHN3FOT3p2eUNnVGpWTlFaN0xtajdOaWFUNA?oc=5",
+      "date": "2026-03-24T07:00:00+00:00",
+      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -6269,6 +6349,14 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZlVYNkNxY01rSUxUZzFCNGVyeEtTeWZ1X2c4REtTODdRWjAtVjhrNlQzeGFucXBhNVVsVjM3d2VrMXdvYVhkeDNqX005Q0hZLTliMUIzZmt6cHAxeW1uVS1KQkRvQ2JIdGhTZms1dnpzVWhFSXZDNW1MRjdwMVJRRDRoTDFSQkpKRkRuSjlWMW5NUGNuMTA2VXRjS1JsQWZKV3o2Vmt3UXE4VlpOZ2ZzRFV3MEY0V0XSAb4BQVVfeXFMTmM3T0RJaU5YOGlOTTJFUnJ3SzVrRFNkc2ZKRW9YTnZKM0ZrQ0VKWlB1UnVZMThGR3JJNThEOTYzR0ZDRm1qZXdFd3NfRE5BQ2ZaVDZTOHlsUzYxckdwRkNtQjlEVFcwWUxWd2g3TUNWZERXNVJqVTNWalpHU3Q0eXktdWtrVE5YX3dJY0ZPTmVpNExqWi1sRUtsd1B4THdfV2NCUnZmR0FmZDFLNnVQWkVOV0VMdGw1ZHdoU1hjZw?oc=5",
       "date": "2026-03-23T07:00:00+00:00",
       "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Unlocking India’s Mineral Potential: Bridging the Gap Between Challenges and Ambitions - CSEP India",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckNlSi0wN1pRZmRxTGdoUXdraWRvNVk4N2pkaW15U2dWT0xYRXo5VFFMMTBuSTBwQjNnYjF6TWNKdWFEUE1STWFvWjlTbF9MaUJOR0VDVGtvQ2I4U05tRDlkSUlOUTh6amtKTHpzS2VLMzBCU0gyZjc2VllSeDdKRnRGaU11SXd4bHIzVThxbFhTSUN0NjBGOUd0RUo1RTJaeXJKMEpNdjYxcm11SXpadDFVSk5qZXY0elE?oc=5",
+      "date": "2026-03-23T07:00:00+00:00",
+      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -6349,6 +6437,14 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yODI2YTlzYVBOTTRGQ28yY0tFajFCbW4yTC1GY3ZobWcyWGJwN3VaQmFZVkJBMWJUOE1xejlsMWx3RkJhT0Q3SHJsUnVycEZsVUVzczlOcTJPUEV2aWUyakFMMzcyMFVXLW80dzhwZE04TWRRVEZYX1ZqQWZ0Ujg?oc=5",
       "date": "2026-03-19T07:00:00+00:00",
       "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Odisha tops India's mining economy, eastern region drives growth: Report - Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcHdzYVVQc1ZublUyWVJkN3hhcElNaUZJS3J2V0NKcE5HcTlocjVJbGUwS1JrMWZPWjdUdW9ZX2w0dmdvM2s2WWdMTXhLTEpiclh4Qm9YcF9XcnVhV2VLSHdfMVNsbTV0VzR2eEJPbnRrUE9YTW9KOFJ4NHZRRWpLYmZRZFV3SWdKaXZ4dHZiMURXZG9xTkFES3YyMHV3S1lIVk5pQ1VYNDdzckVmc3diUVpfRlFvS0JrV3JsTXpVSWNqdU14ZG9OU2hn0gHPAUFVX3lxTE9tQzQtenE1aklvdzlpdFBnd0VUa1NyV244dGRmdExmbmJISXBLM0huUjgzSWtDRktnbVZVcWRqUk1UN09FRmV0M2FVRlZYZW1YOGxfc0xGS3pJVzJyaGE0ckdKRmkwUnBlN2xCUHp5VnJGUmJSaDVkVXdSOUtlYkQ5SnBsZkdvOXdjYXdJWWctcWFBMlc1d096MEJveWZRMzFpanVMRW41N2lYa2VJWENWSVNBRjU5Q2g4VTNjU1JUS2ROTU1FUklORTZxSk1fVQ?oc=5",
+      "date": "2026-03-19T07:00:00+00:00",
+      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -6465,14 +6561,6 @@
       "source_type": "google"
     },
     {
-      "title": "Henkel India and DISH join forces to boost workplace safety and labour code awareness in Kurkumbh MIDC - Indian Chemical News",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQM3FtNVI0bG4wcVp5SlJVNERjYmpIWDlyMEZlTHdxa216Mlo0ZjNNMld5SzJVb3dYNkpiTC1hNmRVT1kweTA1d2tZTUFGNE5UbHBjekZhZUxTNGdfdlI1THNKQWx2MWI3LTlNMHdQUHhQcmczWW9GNEcxUl9aRVVSVjJ6TEhkZ3ppaVFrN183WFhib1NsR21McVZDdURVX2VBd1BsZERSc3dTNkpFY1Itb1JhX09HOG9HemYyUUpOb0NMQk9yalk3ejFmN2ZsMndqcE5YR1dIRDVHVFRfV2xBOEtyNnlXd9IB7AFBVV95cUxON2R6cmNqcjVpQXdybnZUbWowcWxlT1VBbVAwTmlPZ2pIQUg4TnU0X2o2NTloNXlkQ2FsQ0ptQXhvWTRoN2RZaXpJV0tJWlRXRlVoYnU5RUVvLTVjSmc2Z29YS2p6V3NmdkFpUG9lQWY2Vno0R0hYUFA4TTR5UjVyaHZHTWxCTmNwMVZCR0otMXh5SGRCcXM0NU42QlBfTm1sU1JOSjU1dlVtZG8yd2thb0VVSTZ1UVdQcEZBZTJLTWYtT09MMUN5UG5CWEs0d1pXWlBkbVBDWHRpTHpiVFZEYkVTREtXV3JVekRNNw?oc=5",
-      "date": "2026-03-12T10:20:41+00:00",
-      "category": "SAFETY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Solid-state batteries won't disrupt EV charging infrastructure anytime soon - EV Infrastructure News",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcGJKeElabTJ5VjB4S3RnV1AtYklQMFdQYTNVNTJZNE5HZVJzZEp5bm0tZ2hDZnlKR0FhRXRwd3JUT2d2WXhHeU1TbUhLQ2ZURmgtRDZpak05a0VJYW1vOE91WGlMaGxCUzVFWGZOcmFsaGxLeV9pb1BaNzAwbmxlMjBBcHBaX1NQbDNubloxbkR6UHphTE0zTXpyOWUxbUU5SVFnbjBSUEpLeEJDdGUyaUNQbzdMc2pIR2JiT0ROdDZjN1oy?oc=5",
       "date": "2026-03-12T07:00:00+00:00",
@@ -6513,14 +6601,6 @@
       "source_type": "google"
     },
     {
-      "title": "OSH Code 2020 vs Old Labour Laws in India: Key Differences - Complinity",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWllmWnh2MFV1U253eWtJZllIaHZTck5OUWI3eXdxbWtRRTgxMmtuMWNRUE5LUGdWTlpXVE1vRlI3WW5WbmhkNzAwemFVNDJIQ0oxUWlqVGZabVIyMWEzdExxU28tQkM4Y28ydXp6X280ZzBOU0l4SEM2QmNRcnE4VHJQX2lfNHBVaXN0VVlhU3V2Wms?oc=5",
-      "date": "2026-03-10T07:00:00+00:00",
-      "category": "SAFETY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Improved EV Battery Technology Will Outmatch Degradation From Climate Change | Newswise - Newswise",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGlWMDE1T09vSENNLVpTX2NYWGZ3a0JmWTVHa25tMk5Gd1JwbGdEQkdzUC0tUGNGbnBMbTRXZ1pNTmFZSWM3NjFfbjcxVDg5cVRsTU8xcWZFYUxnYjlUd2xWVnkzX2Rva2VIUGhVeGF5ZFpQY0xnSHdBZDJzdDQ4TEtYRmFEaHJlQ3JTTEpEZF92Q0xfRkM3eDZ6NUwwVzNCWWZIb2U1MTFHVkgtb3hz0gGvAUFVX3lxTE1EaVYwMTVPT29IQ00tWlNfY1hYZndrQmZZNUdrbm0yTkZ3UnBsZ0RCR3NQLS1QY0ZucExtNFdnWk1OYVlJYzc2MV9uNzFUODlxVGxNTzFxZkVhTGdiOVR3bFZWeTNfZG9rZUhQaFV4YXlkWlBjTGdId0FkMnN0NDhMS1hGYURocmVDclNMSkRkX3ZDTF9GQzd4Nno1TDBXM0JZZkhvZTUxMUdWSC1veHM?oc=5",
       "date": "2026-03-09T07:00:00+00:00",
@@ -6533,6 +6613,14 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR1hwQjZGRzhhcl85UHRzUDdLei1ILWRka2pkSkdGUnJhWTJsZEg1Um1xY1pRcmFNQzhCdmg5VXNnVTFqaVlzNjJmUHJ5UndvVXcxNU5xZ2R5Wi1QTGhCZDQxRTlUdkNXOEh6Y2ExUTBpMmZoSk9YU3VEaVFiOTloTVBrQVV6d0UyZ0pFTXI4Zkl5Q0FfekZiOXI5a1FweHF2RmV6ZHNvZTl1MmlvbWxZbEZDWnVWMHAtLXY4MmtHX0ljN3BtcXNEYzU3VWJjV0lZSzQ2SmlUQW9QNU1rY21n?oc=5",
       "date": "2026-03-09T07:00:00+00:00",
       "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Mining without limits: Why removing mining lease ‘area limits’ is a bad idea - Down To Earth",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT1htd3RwdHU4U0tzSE9iMjBDM1FtZnpydk01VGsza0tqRFA2YTV3V1lIa3pneFlwMUE1dkJwdmpqV1kycy1zbmVEM3JWdXg0SkdxQk9MWDhybTR2RzA2S1IwMUktdGw4aGVkalF1SEZFamQtN2xiUG9OZ2tXY25rd21jR0pNaHJGYWNUbWFwcWxubUdoaElWMUNSQ3BMcThKbUVjY2ZIdUZLb241QWZBRNIBvgFBVV95cUxPV1BfWWtzWkJidzZLdTczUlFHLTdOczNlc0w2YksySFE5aWNOMEI2azMyRnNoV3pxdnlKdEFOMThsSHYzN1A3b3U2TnV3VUJ4YnJ1bDRJRkpnb0ZiZkRQU3RnYUJSb29JQ2pwdG5FdzVHZXZ4QUt3SkRhOU03WkFRM2RWX1NJZ0JoT1JaOGNuY2w0MFZJRzlzajFnUk43MXUtQzF5Z1ZpUXQ2SEZjQnVBRE5iMGk0cVVSUGFudTR3?oc=5",
+      "date": "2026-03-09T07:00:00+00:00",
+      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -6593,22 +6681,6 @@
       "source_type": "google"
     },
     {
-      "title": "National Safety Day 2026: Date, theme, history, significance and safety week activities explained - India TV News",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUW9IN3IwUGVxUTl1dlQyeEk1T29IZVNIZkJ2dmlaa2d4RzlJNkxNVHN6aF9XQ0R6dng2R1JyRzhLUzRXTlpGcFh2MWRyM2RpN0dUYUJTaF9tOHJkZHpEUE5tX2w5WnR2ZnltbndZaGExTC04ZWhUUjF3ODRMOFIyVUVtWnJzb1JoNWR1UUpwVlRCM0tHNWoxbWpRVVRJT2hrNC1nOGdmMXBtVUZTZjU1T2xHVW9KVzVleDdGSEZZRVpRTF82LVlNQjVmQmNYaHAzaXFMWlhCWXg4emhfTzZ3azVR0gHnAUFVX3lxTFAzdzlNdUo5SlVfdVRhZnV4MVNNcnhHODEwajVBSVp2RFhzZmo0b0RET3FvMzZzcFc2SVBRcm40RzVOeVJTRUhWVm9WTGVEelJ5d2E5U3dSa2xST3VZOExLRE1fdVRheTZUamcyQXBYUWdkdldrR21mZ1NoQlZsd2xPZl9aQTdNSzdtYlQ0enp1UDQ1SUNGNFJtb0NfUE9RRFBiaDlHUFZLWU5ONEFSbUF5cVlCbWlXVHlxQWIyRnBQdS14c0dMWFR3LUZ4R0V6UnFlYkdHOFVkZmgtTkgtUlVBUmxuWFYwcw?oc=5",
-      "date": "2026-03-04T08:00:00+00:00",
-      "category": "SAFETY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Why do we celebrate National Safety Day? What is this year's theme, its history and significance? - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQc2FubmVRRzQwMXRlT2kzdElSeU1QVHptRzFpWkhScTFHMFZ2VVdHTUw5OVFNbFUzTE4xQ25NS0FvQXBuX1FQdmVEaDBjcWprZUVSeW9DUTVYaEtJUGVUSU0wYTZ1Nmk2ZzVCS3R3UEtGTUljc3RWbTZ4MzdtTjdON181R1NsSFR1Z3NITl9vcWZna1JRRVF6bnF4aGVpaHpmNURYbmZObzNUa3BjOGJUdzd1bDR2UjdiaGlXaTg4eFNQYllLOUptaDA3TklsLVRoczdFSW96c1A4REZaX0VOVUdkZ210eFAwaHpLUG1SRmtZcXlKRnhF0gH8AUFVX3lxTE9UbWI2ZThjQ2JFX3NReC10NGdDVEhGc1NiUmRjUHpPSWpvVzYzTzFocW5sM21kM3Jvb090X2FaVVl0ZGQzbUVOazhYNXlvRl9qQzhYdEhXV0VHX3ZTTWRnTURtSWlpMTktLUpWZkVkYzc5dGxYYkExLU1STEVSd2pOS3F5R0QtVkZNSHVRYTJFRHFma0VXOFd1SS1pTlFxa1NvYnduUkZMemZRWHVQcElDai05eG5ReDF4TzBlVk0zZ3cyM1hIRkZhMmI5VWxIbEh2NTdWVFFyRjRmbWswTktjSGVMMGdqUG5yelc1TV9Mb0V5dGJVREV1cDZGUA?oc=5",
-      "date": "2026-03-04T08:00:00+00:00",
-      "category": "SAFETY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Iran's aluminium industry overview - AL Circle",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaW9XdjFjRE9aS1JpVUhlUVo2WWxEQWc0R2sza3p1ekdhUWlkMFdlZ1JybU5fT2xOd0NBRldnaHp6UGxvM2VDbHdKdFdfdTl2NkhTcXZZX1JndFh6TG9WZVFWTGc3X0JrQ3dHTm1lVkVPd3RxTU9La28yR2RzRG5VeC1LeUtwUFRSUWdQZHdn?oc=5",
       "date": "2026-03-04T08:00:00+00:00",
@@ -6645,14 +6717,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNzdrZnRoQWtDazczU0lhQThaNlMtVTdRbGJQV0M5TEVuUG9iMXVINU8ycjNBOXVGX00ydm1JbjI5WkNZaEl5b1NHVDloNTJ2cjVlakt5U2doNHp2ODFya013Z3MzSUMxRnhOazV3VTdZbm5JUVZnTTU4VE9xdm1JZnNaS2R3ajNIUV9vSHh5aXhDMTlVVHBJSkY0dWJmOFJfUGl3ag?oc=5",
       "date": "2026-03-03T00:55:30+00:00",
       "category": "TECH",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Weaving the warp and weft of employee wellbeing in textiles - PwC",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGwzbEtGOHI5ZmhvalI0T3JOMlc5SFBpcjVZeGEtMmh2dkd0ekhiTXZjUWpWTGl3eEZVT1lHMDJpclJGU1VLaUhYTFVfcGpEZjBkMmVGSS1yc1MzLW1XbDVrbU45MzBmWjB3Vm81NEhrN1Zjd1NVSTVKQTNFS1NfLTJVOVFSSEJaRkxxQlJWYVRfYXNPd3k2N1pzSmlxZw?oc=5",
-      "date": "2026-03-02T13:13:15+00:00",
-      "category": "SAFETY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -6793,6 +6857,14 @@
       "source_type": "google"
     },
     {
+      "title": "Integrated life cycle assessment and multicriteria decision making framework for evaluating renewable energy technologies at Istanbul Airport - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00OVJkcVVJcHJlcEhxaDkxT3psNTd0OGNISVZwMXVrTlk4aDRCSmdYUFVJZTZOVWttbTNCSlVIRF84dGh5eWdmQU85dUw3dGg4VWRkOGxBY2dJWFpCVlZR?oc=5",
+      "date": "2026-02-19T08:00:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "AI Can Help Manage Power Sector Complexity As Renewables Grow - Construction World",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcmFrSUFYN0NRWGpDejJmVFhnb0xZaUFTMVJfeE12WXc5OElkMGRKM1dEZTBmeFZGUEItZ1VJaWRLSEp2ajhLOUt2cmk5aWplcFQ4RUxMV2JKckFoUlBmYTFGaUt1YUp6dnRCZXhTOUFITllrNDRnSHk3d2lnQ3lST3UyX0pKWDNFU3U4Tmt2QTdHOExua1pGX3E0cGtkUWk4bktaUG5XbFJuYl9SZDZXYzN0Wmx3b3VMNWcyTl9Udkl3Q2YzaXFEck9PTW1WSHBrRTBqQXRad0huU3NGdFBzUTVTZw?oc=5",
       "date": "2026-02-19T08:00:00+00:00",
@@ -6897,14 +6969,6 @@
       "source_type": "google"
     },
     {
-      "title": "Vedanta Jharsuguda Hosts Zonal-Level Seminar on Industrial Safety - Vedanta Aluminium Metal Limited",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbklVVUo1MTZyN3JaYVJ3V0k3ZEFDTGdTN2tJeEx1alpHOU45a2p1dHN2Z2dNTmg4TFp6QVZSQ3loU2lkMUlTcTJ1aHZnWDc1QnE0MEZHckRsT3FyOVJnX1JOZklGN3RHUzhfbnlTSjE1RTlmVWhkTFhYMEZGV3BjNXdxaGRvQlJWelVmd3hiaDhtNHo1Z3VyT3huUFJfVmJPQlM3ZGpnUVpqT3ROWl9ScFRGSy1rRjF0LWlYb2pR?oc=5",
-      "date": "2026-02-14T08:00:00+00:00",
-      "category": "SAFETY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "ONGC Q3 consolidated profit rises 23%; standalone earnings muted on lower crude realisations - PSU Watch",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkxfRTFjejBPZzkyWkdzeWpEV1V6bDVyOVlWVi14bGdDWkY3U1lyT05vVUZFdEJsMUdGb3ptSkw5WWZyWk93Z3E5MVV2cU1NQzhjNmZQWG1kbDBCS09NZG1YNjA2STRpblo5bFh3RjMwN1VRcnZqZEtQYURtUWJtcGg4Y1otSUNfdWw3WHRBVG5jcWJzdFNEZV9ycXZCQ0xGMncyTWxSQlFMOWNUcENmbTZpYVBJNlZqVURXRU9lUV_SAc4BQVVfeXFMTTFVSDdVcUhtWlF5NHYzMVdVLTlIN0IzMk9wOGNVSFMtenE3ME1BaWh2ckUyQXRxYUhMeFJyVUF0S1RiM2hTTTZDZVFpRUloYU1TTnVOSHlVM3BIa3dkZHdTc0JzbnVaQVJxOUI5Z25oc0hmTEIyT050YXpPTS1kVFhyNFpJdUcyNnMyXzN5bDdaZEIwWGxaUlVtNU54dzFWUFpHdDR1eGUwWUxQbmYxTkx4WWRTenZRUkZGaVlFRFA1XzhtR3QyVG02SnlEeVE?oc=5",
       "date": "2026-02-13T08:00:00+00:00",
@@ -6917,6 +6981,14 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc0gxdDRJdnZJZnRYSC1hLUlaa3NNWVh2TEc1WFJzWnc0VGthemtHSDlYdWtGdE9UeGNCbmEwemVLRlhVSENlUkd1NnV5RHZBVENHNlU4aE1saldxMlViYUptUUx3T1hydERLVWl5QmhLN19DOFU4M2dIWENDV1ZrMkg2eHlXaTBmMU1xWjlDYUlXYnVJRGRNRnFEUU9EMGNTYUowZEF0WUtva2R5dmpsaVZCT0w1TDl4N25hejFoWi1NQ2QtZ0E?oc=5",
       "date": "2026-02-13T08:00:00+00:00",
       "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Mining Sector in India, Geographical Distribution, Legislative Framework - Vajiram & Ravi",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZMFdmdUNCWWZqZGRnS1pWSnFNbDBKTXhaVDQ0aHhjU1dNbWFPVmE0OE1XY2dCZGtOTzZIQXlYZ1ZfU2xhUXpoTHJoZXBkVTRhaXBlSkRNRU5LQzdDMDQtbktBa3dXckF3SmJ1UmREVFFUYkc1?oc=5",
+      "date": "2026-02-13T08:00:00+00:00",
+      "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -7009,14 +7081,6 @@
       "source_type": "google"
     },
     {
-      "title": "How IoT wearables are transforming workplace safety - Manufacturing Today India",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzUkRaaThWenN6RmhDRGlOS192UlRBRVU4ejREbEFMbWhNZHAzMTZtbWpmWFdaYXBIUzBCVWNPZzctNS03UEdQMEwtVW4zMUNpX3RjNDctNDM3Vk9YczBxUm5HWDF2NlB3Z2FmNnBrSnE0SW5ibFFNcE5Ndzd5Zw?oc=5",
-      "date": "2026-01-31T08:00:00+00:00",
-      "category": "SAFETY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "IEW 2026: ONGC, Reliance sign pact for sharing deepwater offshore resources on East Coast - PSU Watch",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQXNSdGZ6Y0ZST0xqWVk3QTZuS3g5bFdiVEpzLXhwR2JSLU5vM21TVEt4a2V4blh1bE9yTk9WV1VXdkxVb3hRTmVoSVg1SVZSSEY3em5tT2dKRW9aOEJ0dTBPTFItOFdiSi1LdTI2QlVPNWNsdTJqNzhQSVZJdWZEeTRBcE02VUNCYS1yUFFCTU9wNDhzcy1ETE1zV0tOTnFFRjNKdURFSW5vc01ydzRSZHppaXVnaEc0cUNMbFFReDFHakxwTkwtdlgtbDbSAdoBQVVfeXFMT3QzSS1aSFJJNmlDSXBhZHRjQjFFdDdadk5XcjEwbUhEeTRzSWZBdVNWbVhZUFR4MkNWTE0xekxWYS1ZUi1LSXdHemJSUDM4MWJrSk5WMmF6Z2xOXzl2WGZ1eUhiZm52OVVZYUt5a2NkVDJHQWJncVVJRzA0eEJON2xuMmM2VGFmb3JkUUoyejV1eTRpZHF5ZzRoNGl6U1ZWODBEYzNvbWRWcW1BWHZiSHVZUnhjTlk4UklGU21qVXlmNzFCWGN6NTFJMk1hWFhyb0wzenl0OWc4d0E?oc=5",
       "date": "2026-01-30T08:00:00+00:00",
@@ -7097,6 +7161,14 @@
       "source_type": "google"
     },
     {
+      "title": "Solar Energy: Myths, facts, and challenges - IQAir",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XZ2dHd2dva3h0cXBiNmVQSjVDaXZQMGphekdtQlFscFZ6WTBPUXhibGxrNmVKeDk0RUtmR3Q4X2tKT0hlZl9fYWZwMVRwRDVCOUZoYnRXUVRfeXg2UXUzUjlweFdBcGtnLS1rckMyY3Vqa0o3Q2lEMkVPeXU?oc=5",
+      "date": "2026-01-21T08:00:00+00:00",
+      "category": "TECH",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "How AI is powering the future of energy - Siemens Energy",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlpiOWswc0Yyb2c5V1hJMkt0U1NLTDMtQTRfMEFkVzJrMVRrSmNBRXhfM2hOY3dLR1IwejhWS1pWTDZ5SEFmdlhtT3M1NUM4Nk1rMFNhWHByLTJValJBaDNzU0hQSGswT3JER0prZGhIbWhDTmdvR1VNSmdrSmI4WUpYOUk?oc=5",
       "date": "2026-01-21T08:00:00+00:00",
@@ -7164,6 +7236,14 @@
       "title": "India and Russia need to build a resilient aluminium alliance - ET Manufacturing",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVGR5TWVGNW5NM0dVMVhlRmV4b2ZKRHJkcHd1aDJVdWFkeFJlMUE4eElYbzdHd2NsV29GaFZVbXMzbnVSWkhac0ZWR092TTZQb19GNVNYbHJLUGlJSUJESkZtbGdTZlVnbXIzV2hqV28tOEs5T2VWVVdKekJVQkxxTDB1RWhmLW1HM3RJSGlXWWhTVjlVcWlSX1F1VTRsdWJPTDdyd1FYZG9pNHlsWEN2UHE3TFJLT3V5cFdhdEY3dnlSWHZRTTJNYTd4VnQxUVE3ZkHSAdcBQVVfeXFMTktZaGdIVUQzcENJamxLVTMycGQ4bHNILU52NUFZVVBieXFxaUozM2tEZS1UazF2V0o0ckFDalRZNFRSdFk5aXRwYS1mRktzaHM4ZUZCRU9fdkRMeGoycXAzRzNyY1VNUWloQmhJNHU3WExCcVhaTDViZklnS0lkUlBvU20zZGRBNkhPcWxvQXJISmRsZXRURVVXbDJ0S2F4VWRXOFNtM2RxVlhKN2pOU05MMkxIZkEzaUl6OUNWTnNWWENCcFlXU1VFOWNmbV81XzMtS2hrZTQ?oc=5",
       "date": "2026-01-12T08:00:00+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Rashtriya Khanij Chintan Shivir concludes with focus on National Critical Mineral Mission and Sustainable Mining - PIB",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MY01yYjNDYmlreHNEbGYweVFfbUU5Vk1tRUMzaENYUG56XzNRMGVxQTlnRHJjV29EMkpfcG80M3dkeVVtUEcyMG1JMnBxNWp4T0NCRmtDQmJ6Y3AyVlhMZ3VVclQ2VlEtR0R4TXB2a0RiVzdNQlNHOV93?oc=5",
+      "date": "2026-01-10T08:00:00+00:00",
       "category": "INDUSTRY",
       "source": "Google News",
       "source_type": "google"
@@ -7329,14 +7409,6 @@
       "source_type": "google"
     },
     {
-      "title": "ChrysCapital in talks to invest $100 mn in industrial safety gear maker Karam - Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZG9KXzV6UmVOTXpPbms0d2N4MU5yUUE4UC1qU3ZRN0FFVFFwcVFOM0IxTUJxSXNfVWpkZExOMWJXMURkdjJPdVFlM2JKeUl3TVAxV2VsWUtGTC1mbXZ1OXB1cDhhMjZFWUtMbVF5Umxjd3ZfeFhmcVBCeTJWSlNPejY3ekpXdUlGcEJaZlZIRV9Eay02bXpFOXgxTDBlc09ZOXBWWlgydTM0M25VeWdHZXU2RVdQQVNNRklUYkJCaEh3Z3dvX0hocUlHUDlWd9IB0wFBVV95cUxPQUl4UF82blB6V3NoUEVJQ1pLdDJqUklyYng4enFtNkNraTB0WG54WmtVckxLRlNRUlZMMk9zY1RqVXJwcEFkSlFjSGVqMV9Kdmo5ZGEzXzk1YzdGUDh2NW81VHFKaXdBVmlqbTFzMnFFbEt1a1NCcEZ3V0JPQ1JyVjhpazVHQ3drSFRoU1JlRGV4emZ6Tm9odWo2SGNwdWZPNG40MzVGZFlnUEV1aUlpOE96Yk1UMnVqY1ZNLVRTYmZObXhxdEVrVlZnY2tzT1hRSHZr?oc=5",
-      "date": "2025-12-17T08:00:00+00:00",
-      "category": "SAFETY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Engineers warn that changes to electrical safety rules create new hazard - RNZ",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ1NQNGlSNHNTbUEwbzQ5VHNLYlVYMEZKMFdnRUxJUnQ5SW5CNnBCeEFfeG9VaGhybk5EWTRSc3lEYmpqajRYOWtlbi0yTEZ0cUpEZ2VBamlUWk9XdU5WSFZOZ0hXSEFMenlWSUFUMVliZWRZaTZYZ0lWQkxKcS1Tbm5jRktXQllJSHRBbGRRbXJHanRZWlUtOFJVTk5xRnUxd1RwdFl4U1dGNlNPNDRpdzloSmsyQQ?oc=5",
       "date": "2025-12-16T08:00:00+00:00",
@@ -7377,6 +7449,14 @@
       "source_type": "google"
     },
     {
+      "title": "Diaspora Key to Taking India’s Mining Potential to Global Standards: Union Minister Shri G. Kishan Reddy - PIB",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnMzJwaXRKaV9sd1NkRGdHdGcxVWtqSjg1M0EwcmQzSlhhWlQ4dkJpUkxMeHJqYzEyci14M2dUTzlmbjV6cEFONS0tQTFUR0dsUHlGZ2lOTkN6THpZMHdpTjAxdVAtQWt0WEs2N044a3MtZVVBbG40ZDNR?oc=5",
+      "date": "2025-12-11T08:00:00+00:00",
+      "category": "INDUSTRY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "SAIL's Bokaro Plant achieves milestone with maiden chequered plate rolling operation - PSU Watch",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOUM0WkhvME5KTVJMMjhMNjdkQnRxNlZvajlNdWgzLWVrTnMwZFhFMzRmcGtvMy1BSGhmVWwzRXo1UGlCYWptZjFFUGhEMlVSUmx5TGV2anFyS3N4SU1EbzV1bml1SUt6T1AzMVJuaWpTUTlweHZPc1FpZWdqNzhVbDBvaXR6UV9LeU9LTGVwWjJZUzhaUTJNaklFWUdqOFk3MVRVZXFWNDd1Sl9OR1ZYWjg1T1NQZGfSAcQBQVVfeXFMTXpJYXhrQzNpSXFNaGpPX0txeTllc0h0RzBkbndwYlZDS2lhZnJrZTQ2MF85MW9ldzNpWURZak9iY2xKbkhyZWNCZjVGWEZzR0FlNlNiRTV5RksxTzUwM2ZUd0ZGUmlhQ3BBNExuZVlER3ZvOVhPV05vdDVNNDQtYUNidTRJeFNxb0tnYjQ0RmhRTmJqTzNCU29YaUI0M2NsWHJUS2NadzRyUmRhWDJvaml2ZXRoMWpocDFEenVrQzFtcElVZw?oc=5",
       "date": "2025-12-09T08:00:00+00:00",
@@ -7385,24 +7465,16 @@
       "source_type": "google"
     },
     {
-      "title": "Gujarat boat mishap: ONGC says vessel was not managed or supervised by us - PSU Watch",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSjFhRlNhWVZuOGJqWk5NeEJoXzkzeF9kaEV3OFFTU1p6dEEzWnJWcEZzTlZQNi1UalFoaEk4Y2lUV29NZmZPbndWd3NfbVUtWXZtQ3J1b25Nc3RhZ09HVGU2Z0RPMkRvZzVtN194SE8wVW0wV1gwQ0RjZlBOZ2VFUEd2UHJ5cVhXT3FsbFBnVXAzcTR5QU0tSXNuWDJHX282UUJNeVp6NHjSAbYBQVVfeXFMT2hYQzEwb2o5OGd5RWN2ZWdqbnNnZUtqWDRVbnJVbFUzMVZDWkNRVlU0cEI0TUpHNjNzMG1GTnJmUC1zbFJ6b1RFSVMxbG9kX2ZwMS0zNk5XR2FwVHdDUmN0Uzd1cWhKeEdyMkNaSUc5aGp1NDJIMjdKYmY2T3VEWTUzQkxvUHE0enZhTGpSQ25Dc25DdjhnR1JRQVJlM3JKbEJnbDhJSVlib19BOVFqNVlSMXYzdXc?oc=5",
-      "date": "2025-12-08T08:00:00+00:00",
-      "category": "PSU",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "25% of industrial fatalities caused by falls from heights in Karnataka: Dept - The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZDFnamsxdTkxSHlWaHp0UzgtVjctUExITHBiR0thMEIzMXpfWVV3RmIxenRMVFR4T0N3U3JPblU2RGFqMlNRN0R1dlZjeC1wWDRFOFhaU3pta1VqeFllbDhLYmk4VjBHTkpmMFlzdTVhcmhONU1WTE5HQWhXMG5hY2RDSVNWRThORGxmNmRPMmttVmlhMHpwbW1UalZheHhaVXFsZ0tXZEdsS1JIU0ZqWlNPX1RVSEptckVFR01QS080WXNaak9nNHZOVVNuam95UnNJTVJBZzd5Q3I0U3VVb3FXZzFjQdIB6wFBVV95cUxPOWgwckRUckh4dllHZ1ktTFY1d25CYm1ncTRYR3ZacGFuU3BnazRpOWRiRVVIa0xvOS0xRDBXQzBnbG5feTY5R29FVkdXQUwyZE5CMEVGRERtRUpXYXljZTM5M0NSMGotRkl4Yy1XTHQ4bS1XSm9BeV9iMEY3ZVZCT3EyelpHQ0ZuVmMtbVFmS0s4X2s5T05sdjZDeHdvdzZ6X2FDOG5EajFnQ2pOb1daS0Y5blMxaHF3VVA2YVBDTmY2QmstSlNidXl4aGtHbFVTQTYxT1FxellacW5WbkFGUTVHaXdWYVREbndv?oc=5",
+      "title": "Electrical safety summit 2025 - WorkSafe.qld.gov.au",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSHQzVnZTekxxclcwUEZqQ3BCNjlBZkpoYkE2YkIzRC1hWG9mOEp5R3pCc19BUnhxV1MyVzlnMG9IMm5JdlFEVW96SXJqQ0xTdFNmcW9aNWpTRzc1UmZuc0w5clI2RkVmcWRqVXVNR0RmUG05RU1iWWNiU3V3dFo2TjdEMHROTXJ5Y0ljMw?oc=5",
       "date": "2025-12-05T08:00:00+00:00",
       "category": "SAFETY",
       "source": "Google News",
       "source_type": "google"
     },
     {
-      "title": "Electrical safety summit 2025 - WorkSafe.qld.gov.au",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSHQzVnZTekxxclcwUEZqQ3BCNjlBZkpoYkE2YkIzRC1hWG9mOEp5R3pCc19BUnhxV1MyVzlnMG9IMm5JdlFEVW96SXJqQ0xTdFNmcW9aNWpTRzc1UmZuc0w5clI2RkVmcWRqVXVNR0RmUG05RU1iWWNiU3V3dFo2TjdEMHROTXJ5Y0ljMw?oc=5",
+      "title": "WorkSafe rule change introduces 'lethal' risk of electrocution, electrical inspectors say - RNZ",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaXBVUDVyQllMem1xZjg2VHZ1dENnTUdzYmY2a005cTZMVUwyOXNqRTRUU091M1lCYm1fVWd2N3ZTX1hMYUZhZkR4R3NUTV8yUThreEtpM2NLY25NQVRVaWNLc1oxUVhITWtNOXM0QWV1THhjYnVSa0RFMTJrdWRja1E5Z190eV9id1hjcHV1UUVxNUtLQ3dZV0NOekM1UWtBWjZudVR2M01lSEhwdk03Y3RIUDdoRVkyanFRU0N0OTNCZzNaaGpTSA?oc=5",
       "date": "2025-12-05T08:00:00+00:00",
       "category": "SAFETY",
       "source": "Google News",
@@ -7433,50 +7505,10 @@
       "source_type": "google"
     },
     {
-      "title": "Centre extends ONGC Chairman Arun Kumar Singh’s tenure by one year - Legend Officers",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVFNkb2JabmR0bl9HODktdXJNNjREbUt1OC1ISjR2TVZ0TzRHM2lsWjJlemtieGhhdVg0VG5QRTlhSmc5QmxZa050Nl92a0tLWXZnX0VXMVRmYzdIMkZlLTRUZkNwZVhrQ1h6VzY1aGRkN2lrRHl2Tmo2R3ZGcDdWMWZIRWVEdGhqTjlQVTQ2QWpiTVB0S1prRw?oc=5",
-      "date": "2025-12-03T08:00:00+00:00",
-      "category": "PSU",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Arun Kumar Singh gets rare one-year extension as ONGC chairman till 2026 - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZmNOQV9lcUVmekh3VHhsMHo2YlBiOXpZREZGel8zdkRpck84a3VVdDE4WjZkWHpDOFpVbGpVMzMtOEZsRlBERGZDYkJ6M0JuZ0ZtMkhiQy0zNzIzZWJBVmRkSFBDbTdMTmhSVVZpWFkyOVp2UUVNR09yUFdsVk9XdnVxOGl2SEdyYURWQnVaTWNyWXlESEhDMGkzWF9neGZNaGlzcUZVMUJteHFjWUJhMlhObWtjcHhabk1oN3Z2VHdqQUp0UnFTQV9SZmQ5cS1TUWhiclhLY3hONGvSAeABQVVfeXFMTkFEQzc5X3A5aktXZTJZUzZLbVZjVjUzY0cxNVBsVWlHcEtIWHM0SnVEZ3BIU3l3eDdVYV9LUzJOazNPNEJlcEdFa25NOEFqVll6RHJoUVR4OWp6aWhXajNpal9yOEI5S1dQODhOazZFejQ2VVdwUmZoVUFnbFJuZW5kX01hTmFBSU1saHQ5SDFfc0hwQmIwcEg0dC1TYW1rMm9zTk5NNDJPYXVEX2t6TkdGSjBfeUR5eHk4aHBCZ3htNE1HS2FpMDAycXpvS0FBSlJhb0lDVnJ3dmNlM2U2Snc?oc=5",
-      "date": "2025-12-03T08:00:00+00:00",
-      "category": "PSU",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Petroleum Industry Benefits with Improved Safeguards under New Labour Codes - PIB",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS0FHclFGLXlhWjZrRF9OVDN6V082cEhqeFRYSW91ZzZzZEtKcDBtZlJPMy1VUEMxSGp4d3RHYktVTzFUcHlKTXZ1ZkwzNHk5ZlR5RTBNU2RXcDJkMFZ5TXdCQ3NPY01rd2syRk9vNjFBNWlaWVE?oc=5",
-      "date": "2025-12-01T08:00:00+00:00",
-      "category": "SAFETY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "The aluminium conundrum: Trade dynamics, dual structure and policy fixes - ET Government",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTE9SNWpXaEM2bUluNThxdHBJeVhlY3ppNHUtd2pYT182N0lHTWc5b2FRV2JwMTN6RUlKRHYtX3J3Rm5MNnFlVm40b1EydzlGMmlQNWg3QllOa01SOEhiWHVTZW9xdmNPcHoyenJ2Rm5KbENVZjk1bFAzUFBrM01Rei1QSkk5dmZvOXZadW90RG9zSklyTGZGakswMkJ0WHZaT1NxVHQwU3RKUHV6RTlUSWQwX2ZpTmNxemFFaEI2aVJYNTQ5WnJ6ckpiOU1pUdIB0wFBVV95cUxNUEtIb0pQd0RUYzFuLUVzNkk4R1ROOVpnWjVpRmRDUkpucXRZUEx0S1hXNkEwdjFvLVlZTE9yQnU5bnNuLVd5LVFSSzVPZy1Ld2JGVS1aYVo0cVc2dXNtWXExcXp1YWF6c3p2dklrTjVoWml0bU9Ld21qZkxwWDk3ZnJZdkFnUDgzZFF4MG5ZQXc3QXh1czNBT21DZTN3dkdkSXVoczRpWlo4bzNZYnRxamE5Y0NmMU9HY2FUQ1NTNXZNMDYtUjk3SURRQzlNWk9QMThN?oc=5",
       "date": "2025-12-01T08:00:00+00:00",
       "category": "INDUSTRY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Labour Codes: Transforming India’s Textile Sector with Simplified Compliance and Stronger Worker Welfare - PIB",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa2ZiZ1RPdDdxdHJ2YzFsNGozNTh3OGZkZnN3NjIxeTRpVm1TS3ZzckpUMllHdlMwZFNoVFVYNWZINTNUVENMNVdfZjJsWnFPRHRZY3JEX21nUmNZWGtwd1JjNkswbERvTkRHYXpMX0hOc3hWMzJ3WEh6bUk4X0RYN2xpODFlLXRDbmo1R3lsRWpoSjVrUEJTVg?oc=5",
-      "date": "2025-11-29T08:00:00+00:00",
-      "category": "SAFETY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "New Labour Codes Empower Women with Greater Safety, Equality, and Workplace Flexibility - PIB",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OeEpHa2RjdjRnZzZtQk9qZUdpWFVJcDN6NzBFOUZuQndhc0lYOUloeFdySFNxbVpCd0JVUExOb1lTT2k0RmIzQ09xaWFZTkY4Wnd4bmpkSWpxaG1RNDNiR2ExTjc3aXduUWVDU3Jkb3FCSmNWWGc?oc=5",
-      "date": "2025-11-27T08:00:00+00:00",
-      "category": "SAFETY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -7492,14 +7524,6 @@
       "title": "How India’s New OSH Code Reshapes Labor Compliance for Foreign Investors - India Briefing",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaEowbVZjQjE2MXJ0WE9HcnRfUm42c2M3Q1ppY3ZodklXcnFCQlExUlJlNF8yNVJxeGdyRzE2OTFxMTVEOFF4WW1MWTVHdFN6M1I2QzZaMVMxSGYwejRZSkNacEg0VS1rQmdZcENSeUVVbGtUbW9JQU5PTVl1LU4wbGwwUXpVMWxLeFdRRjhUNVQxVWVDdmd4dUdMN3g5QQ?oc=5",
       "date": "2025-11-24T08:00:00+00:00",
-      "category": "SAFETY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Emerging tech to enhance industrial workers' safety through new tools - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNVdJWk1VNjBabWZEaHhtcG4yT0EzcVBRT3QtYl94bjVZZmp6TzJIbFExTWdGN0tCR2JUR194UUN4clc5WnZwUWMyOXZxRnktNjF6MXg5N1BrdDZmYnhOZGVwWUxCR3hyZGdJd3BaMGlHaHgwQ0h4UnluSnpoY29wTzd6Z1B2cTFIbXoyNDduT1lRbXo2UFlpeEthZ2tmaFBQYzNvSkdPN2tfcWI2MDE4ck8yNzNsUExlOUFESzBoTU5wakdHY0Npa0pvTEtiYnltWGhfadIB2gFBVV95cUxPQU5kZmRNck45ZVFRSEE5NEFFOGZobkxBNTRtb2lYRV9YUS1pMHIyT0FNWGYtSVVOVGtRNEJManhfaTlWcnktN01DNDFMOUx2VVBpNExvck4xLThMSi1DTlMzMThwMFAxX0dVdFhXVGxHTnJCNGVET3RnVW1HSWgxNU4tRWIzWlBtMU41cjBFTlpaa1lpZklrT29xYzlJR1FmTjlhekxON2Y4Yjd6TWF0eGRXX05MUm5pNzBObjd5RWxDMDNxNkhIT0hXZXNvN3d5THJyTXZqOGdXZw?oc=5",
-      "date": "2025-11-23T08:00:00+00:00",
       "category": "SAFETY",
       "source": "Google News",
       "source_type": "google"
@@ -7529,26 +7553,10 @@
       "source_type": "google"
     },
     {
-      "title": "BIS holds meeting on draft standard for industrial safety helmets - The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZkVvcXMyRFVjcjdETWExLU5qQXA0RzNPemRZVENRVjhlNXBTT0NFNms5N2hZaXRIUWdMUDF4UmJ1MXZfTmJYdGRpU2NlNF9vMXNwdkN6d1BfQUdwNHZILThGWnhLQUdwQXNlY1lkcUlTWW9vTnRzWDJNMDl3NlF0Ym5KeFhhOUo5V1diUTlQcHFyMXV4TTVtY3JNQXFMZ29vUl9DeE51TnZVbnp1eWJuZ2xycWtxVzU3ZXZYV2xLaEh5UVVfUmhIVnBR0gHQAUFVX3lxTE9iamxUWE15WG0yTGpyY2tCbnRlemNTeF9SSFNZZEZnYTYxSGNmdnBYZ0wyVS1CZlpzdHlvX3J2b3F1Y1pXM0dHUUpyWnRKWWdic1dCV3JRNGhaWHBMdjR5R0piRWxqYmgxNW9UVVpoNVFTYW9qc0dDaFlMeklmdWhoX2pOS01IZjBvbHhBTks2U2pzMkI1U1JWYjB1cllKTkFiMUlacElMOTdBUDgxa19kQThUeXFMTGJtdkpidDEyQjUwcWx5R0tGY3FnQ0hhOTA?oc=5",
-      "date": "2025-11-19T08:00:00+00:00",
-      "category": "SAFETY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Steel Minister inaugurates facility at SAIL's Rourkela plant in Odisha - PSU Watch",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRk9ielM3Z0loVkdOZU8zQ3RmWHpYYnJXb0l2NS1tX25OR3RMWXFDT2VoUjBKNEhtQ2J2bkUyaGtuclhhUFJJUXA0U1JpajBFT1R1Wi1aT2xoRzdoZFVvM2hfQllHYXBaNE90LWQtcDh5YmNVTGZFYmNxSGZZdVZnUFRYOWFEUlZmMk9xWEcyeGVKZkVXZ2hncDZKZDFzUkU2VGJiR9IBsgFBVV95cUxPVlZpV0xvN19OeG5QRTZCdEF6SmVRVkdKSERwNWFuZUZrWC1JQjJWN2w2MjB6RDFfUl9jM2hWNlo1SkJESjZESW1MRFA5eF9QQVI3MDNYXzJnUUdtd0xzM2FBWFA4emZXMk9VMTM1c29UT0h3Q19HT041aFpwVlhRSUFQQkVRN1BkWG9tTU41QkdPb216alJqOVdqQ01lZFZIaUF5MHdkcHZXNTVRZXZYSTBn?oc=5",
       "date": "2025-11-18T08:00:00+00:00",
       "category": "PSU",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Bureau of Indian Standards, Chennai organises ‘Manak Manthan’ on Draft Indian Standard for Industrial Safety Helmet - PIB",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LaEliNXU3ekNPY293S3hQdExlc2NJdm53S3VyTjlORFBydHVNUm43c2lCLU5kV285Q3l0M241NnlYRjd0Y0FqTVUyTHBFVHk3WmE4VTdqMGZJbUdmNjJrYzF4b1k3U3Ro?oc=5",
-      "date": "2025-11-18T08:00:00+00:00",
-      "category": "SAFETY",
       "source": "Google News",
       "source_type": "google"
     },
@@ -7645,6 +7653,14 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43T0hGYkpUa25EdF9ZZEFSSVVGeFhVWmJNOGN6cjFkTWFXc1A0YmF2YzloRG9NQld2VlY2MjRhQzROd2xYMXhGSmdNRWlFWWMzblRpOGxyWDBOY2RtaDhOUkJhRVFXSkZfUW1xbHhGd3RtWlFaSC01dFR3?oc=5",
       "date": "2025-10-14T07:00:00+00:00",
       "category": "SAFETY",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Zomato parent Eternal's market cap surpasses ONGC despite PSU’s huge asset holdings - Upstox",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUTlxOWlVd2JjZm5kT3lSYWhzQ2V2S0E2YXl1NFl6VU01ZXQ4dEV5M1JVX0UtQnZNTHdqR25wNGpoaElWNFBaaEhCYjVkWHBIRm80TVB5YjFLbHl5T1Z4N25ITnM5WEF6V282UjNWYXR1YjVqYjdBeTZMUUdval9QWV9fMWFUUndYOWtqVXhiMWNnT3hidVAwOUtjb1hhbUotUFhWakw0ZUlpbFdRSU4tQWxtVm9VRGZNVWNqcHd2R3lNa3d3M1JLRDQwSlNneWN5MHF2cC1Hc2RWQQ?oc=5",
+      "date": "2025-10-12T07:00:00+00:00",
+      "category": "PSU",
       "source": "Google News",
       "source_type": "google"
     },
@@ -7753,14 +7769,6 @@
       "source_type": "google"
     },
     {
-      "title": "Schneider Electric Unveils All-in-one Electrical Safety and Connectivity Product - THISDAYLIVE",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONnZGcXBPbWg5SjRSZFlkOWxnVGx4eWxCU0d3b2lJdVVNS05qbzRZdDdKeXZNSHF5eEY2akhDbmZxcjZhTUFyYklYWFd4MUVRcUZEWHZDM21ScFRnNmtOdkRVUFc1YlBLV3MtZF9pYVdwNVlhWS1ZMEpGdUJmaW9YeFRMVGpIWlV5UnZndWxIRWhtdXl1d2hvcC0tQXdIVFBzTFR1allGc3FLdWNWU1pSOXVVUWFHR3JxSlEwXw?oc=5",
-      "date": "2025-08-26T07:00:00+00:00",
-      "category": "SAFETY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Top PSU Stocks With Highest Dividend Yield: Coal India, NMDC, Nalco, ONGC, To GAIL - Goodreturns",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX2liRFJsbUZHRmIzQlJnejh1OUZlY21MREY2TjE3SS12ZUZYNTVSQlZDb3drd05sajJfWEVRZHN3VV9TUlgySEtkellwVExRa09tRF92TTJRNXlEWm9fcVdhWjRyNWx1bmNVb2puVWsxMGxPS2lqYTV3eWg2TkwyTnlSMkhaT2ZhYzFnQS1FTGV0ZDdScC1qVGN5bldPcWVnbnhCb0lhOEJqTnFLS3V6NVBBanhVd1duZmoxNE5EMA?oc=5",
       "date": "2025-08-22T07:00:00+00:00",
@@ -7796,6 +7804,14 @@
       "title": "Navratna PSU Alert! NALCO’s Final Dividend Pushes Total FY25 Payout To Rs 1928.46 Cr; How Much You’ll Get? - Goodreturns",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeVRBM3R1TGJNdmZ3eHdfdGZBNUFpMXVieUUxYl8tWXRfWjRvVERqLVJUUk5za09QalNMUDcyaUdXd1RyRC1zUXhzSjZmdXNOazNqa1Y4SkNzWnBsNEhza051VGNsLXV1RVI5cFgzR1k4c1lKVFZ6OTZBUFpCQkphWWhfaHpkUGEtclE3SDZvdzBLdWpERDQwYUJkUUFJZllJaUljTGJyVzdWRExzQTlrd2lMTEtaaGRES21qUDVaaVVvT0t3ZTJQamFtcGhmUGxkeDJweHBaLUlJSjA?oc=5",
       "date": "2025-08-09T07:00:00+00:00",
+      "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
+      "title": "Nalco share price dips over 1% as Q1 numbers fail to lift stock - Value Research",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSUhBQ3M4LW9zdXV3Z0ZnOGp3MG13QWZpdmJDWFFnLWNEaUxHY0w5cEFqb3NueVRlRUhNOWd0MDZGNFlERGttMjR0LWZJZTFjSUh0VlpCZV9NQXBrbXRMckJSYkZCaXdrMXMtQzA4Qm5Sa0k0NS15YThVd3BKYnpSeGRwZGFIbXN5NU8xZFFnWXJDQjlQcjBFVzFUR0RNaklNek9jdXdPb19wanZzYkFDMTEwNWw0dElN?oc=5",
+      "date": "2025-08-08T07:00:00+00:00",
       "category": "PSU",
       "source": "Google News",
       "source_type": "google"
@@ -7851,14 +7867,6 @@
     {
       "title": "CR Mohapatra appointed as Director-in-Charge of SAIL's Bhilai Steel Plant - PSU Watch",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEhKeDduZEwzZmR4MXNJNXlQbUNVNmJudHVDY2NxeE5HRHh5dkRaWDJaYl9lQWhaSE5yczZkSUROUWctVVQ5RElmNk5reFdrQzRVdjMySGlQSGEzRVN1SU1XSTRfeE5QRDZpS1J5Z3JfUVllZVBCVFJYMGJBbHdIT2EyOGNEbnRHY2Z0V2gwZjRld3J4N05XbW1PMWVLX3JZSmpuUkk5aHJmTWp0aTlF0gG8AUFVX3lxTE1yQkc3ZzJvTGxLVF9pVHdaOU0yMVZ6VFNNQXl5SFJ4czk5Y0VVc2dJUEVBRE1uN1RXRTg4aWNtMUx0VFFVLThXdjZOYjRvUGh3V2JjZXl2N1N3M2xsZ2pranE0VEhxUkdHS1RqTE5FZFZaZG0ySURmMVNkZlMtOTMxYlE5V0kteG9NQXhaVUo3MjVqVHFNeU1obmtqTWFxRXVUb21xb2s0SHlxQjBEZHVrbVRCZmtoZmlvbnBr?oc=5",
-      "date": "2025-07-17T07:00:00+00:00",
-      "category": "PSU",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
-      "title": "Surajit Mishra appointed as Director-in-Charge of SAIL's Burnpur and Durgapur Steel Plants - PSU Watch",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc1FLX0pXS2lkZ1RkYnZIUDlQcjBleXNuai0xd0hMUDVOQ2dVZVpBTEw3UlVSM2h3RU1ZVS1KN0QtSGdZS2d4WEhmODZobmhEVEROcmZLV1dWRDRJT3Y2YnJkTHc2OUx2TktXQ1lLbWl1THJXUjktaVBoZlJfYnZ5cFZYRWptSE42bWYtbVdiVnAtR3kwTzhDQWh5TnlsMUZUa1M2LXhEQ0M4dmlUelB0QzRlQW41U2Z5dVhPNGg5ZzE0UndKU1HSAdMBQVVfeXFMUG95MmZOSFQ4TjAwR1JMLVlyRlgwWlViTEFld2NEeUgzMXBKYlBpS09zTjZNMVBfV1RiVElsVThUX0hkd0lOQWRCUTQyaWtzYnhERWstdUZ0bldRcE96Q1YwYUVWUkw4ZlBKTkJmMGhpbW9uY19hekRVYWRQVDNJMUU1TDRSalNiOVhfNFllRmNHUmVqeEczZG9jQ0VYQjMyU0Z3LUg5dUZ1MExsdXRfRzA3WE9oQzZOajZtbnZNRDBRTms5RDlnTzVteVl6U1FtbWhIVQ?oc=5",
       "date": "2025-07-17T07:00:00+00:00",
       "category": "PSU",
       "source": "Google News",
@@ -8121,6 +8129,14 @@
       "source_type": "google"
     },
     {
+      "title": "SAIL cuts loose whistleblower who exposed alleged corruption in its commercial dealings - PSU Watch",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUGI5eE55MmRCblAxdGpmSGN1YU1Td0dOaVhyRFN3cG1sZmE1R1hTaktHRGZOdnA4WGFmVU8xek5ZeTQtU3lGUkU1YjlGZzJISEdNQlRXZFlpRENpSXhIYkFNVU5ZZ2hrSDEwRVlBcWdQYWpldDFwelNVMVh4U0tGQmIyaHFZM2szMWplWDA3T3JZRzhRT3UtUEZ4cnk2VEdMVVMtYzBPNzhFUHpnLXUzSmNxLWhMQ0NxLW84atIBygFBVV95cUxOb2VZcGFXTWxUVThFejE1V21IN0g1NER1TVZ0U0VyWG9HN1pnM3Zzdnh5RTlHV3J1c1RvaXhHbGZRSnliLUc3alFLX2ZqTjRaNnNrTzlfVWh4QUEyZXEzX21ZNjgzc0VpQTlIMlRQcXpodi1QbFpGSV9OdzNZb1ZwQmw5bU9MdnI0SnpJeE9xN1UwazJfVnh1UGhHYk5qYURnYzlsMkhlSlZnbmpDVXVNd09mUEVHX2hXQlRndnZyVDR5ckVic21jZkZR?oc=5",
+      "date": "2025-03-01T08:00:00+00:00",
+      "category": "PSU",
+      "source": "Google News",
+      "source_type": "google"
+    },
+    {
       "title": "Sustainability in electrical industry: Siemens and DOMO Chemicals join forces - T&D India",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWExvMURzaWdKaVkwaS1wV1o2dWJhTDJuQ24zZTFDQVE1SS1FNVJaVGJDZFl3bjR0TkZvejh2SmdiOFl1YVRuaGI2eFhDRFZ6cnEwVFhSVTVGWUEtWmt6S2o2bVhDZTY0OTAyTkRSZU1wRS1QNGhwZHVoOS1iM0lubnQ1UndKeEpYeHRLdUNScXhTSVlqTWN2S2h2VXhTN05Xa0VPM9IBqgFBVV95cUxOaGJERTNZWkV3MV9HbG0yYUtXU3hqRkVTYnlEYWtnS0dWdGRiUjJiQkFZejhGaGtEYVVoT0RnM3lIY3FYRFcwZExLdVgzWWhQdkJuSjFGRGNsVi1XWlJ3WjlISmtndVc0ZjV3T25ZMXJtUERFSVk0ZWRwOFpBTnE5Ulp6TUV4ZFFKbjI0bUZKWTFmNVFpa0thc0hMZldQbDJGZXhNZlJiUGhKdw?oc=5",
       "date": "2025-02-27T08:00:00+00:00",
@@ -8313,8 +8329,8 @@
       "source_type": "google"
     },
     {
-      "title": "B P Singh selected for post of CMD NALCO - IndianMandarins",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdUFCdEVCYlp3ZE9VTFdzSExwQl9paFJ2Y19ITTZvOFhrS1h3UElnQjBhUi01UW9TZmRrZV9zOW9YWk83TVN1VlRranVqQWpLcmNTYmIzbXZTWE92M0hXRjdkczhpQ2xtTXpoY1ZnY2IwVmtoMnc4Rk5YNElOVUFiVS15cGV4Wnk5N2c?oc=5",
+      "title": "B P SINGH SELECTED FOR POST OF CMD NALCO - IndianMandarins",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa2pENGFVaVB3V0tQQTdWR01wUlhvNHU3Sm1CeldWeUZwOVBDZjZ2MTFzZkFsbVhXbURJa2F1WF9hejh5NlJGSXhqcGk3aEZCRUhPZlF1Y0JfRm9seHducktWazVfWXhIT0pqTHNzZlBRRUt6aXVSbFh3Wl83OHhhUm95d2VHUG1mMUdz?oc=5",
       "date": "2024-09-17T07:00:00+00:00",
       "category": "PSU",
       "source": "Google News",
@@ -8561,14 +8577,6 @@
       "source_type": "google"
     },
     {
-      "title": "CSA C22.2 No. 286-2023: Industrial Control Panels - American National Standards Institute - ANSI",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTnpCZ3lmQzdza1hpaGtRSTFjVmNEbGJPcnZUMC1kbjl4YjBqRnN4ZnFWX1liVVVUc3N5QTZ3Sk44bGFNUWJJWE94U2c3QXB5VUpKZERMbkNGOW1hVERpcTJ6dnRJaHktNEZFNG40dzhYRGlGNFRDZjNZQTFSZkd6ONIBiAFBVV95cUxQcGdFN1Y2ZXFENF9kTjlRLUgtTUQybktoa1pnTGIzQndDb2lCVDQ0VjZaSDNheXNyLWUxSXZTaHlUTFIzdXpkWHVVOTlwYTdIWGtPS2xKNDZUVGpJZkVTa0FOdU5zMWtrcFd0SU9NSU5ZSXpnU2tqWmE3VEpjUjBsbmgyQTNDMkJ6?oc=5",
-      "date": "2023-06-05T07:00:00+00:00",
-      "category": "SAFETY",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Take charge with these electrical safety tips - Electronics360",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmZKLVhNSWRLeERudUEwaDh0RzNObXNaNmlHbnE2a3RKX2h5dDVtVVFvNEpfVF9kWmt0dVZTb0JiYVktTTlKZmxqbFpyVVFVeVNibmkxeW1hZHczMXUtVzEzT09xbHQxYUFqNFJIY0t6akNsTmVoX1JUR1dQdFdZcGV0b3lxVkx6ZmJNWHk4RmFiM21UM01DdkVWU2Nndw?oc=5",
       "date": "2023-06-01T07:00:00+00:00",
@@ -8617,14 +8625,6 @@
       "source_type": "google"
     },
     {
-      "title": "High dividend-paying stocks: Religare Broking picks these 10 PSU shares for solid returns - Business Today",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWFRzejNnLThCdUhnUWV2Z0dRSnotUlQ5VU9pSjRIOFZJVUVXbEozc29hSUd5U3huM1dWcEwtNlZTSVNuTmtKdkFIMFJMZldVa2sxdU8wUy1jaVpfYkFUeURFLVptRGJJdmNVTzhqb2NOZmphSHFkVFJ5SmpxQjRsdUFEODFkREI1RERxWWRzOVZ4S2x5Z0p6dVk0blp1ZEsycWFJemFQYlhzMlZVUDAteTNYNHFZbzE1Ulc2NTJnZmhIZnVBbzF6a2lneXRLM0xDaTF4c2NYSXVmeWd3Ym5CTXlUY3lSVFJPX0Jjc1o0YWZPeEHSAfgBQVVfeXFMUFlzWW1lRUNIM1BUbHpaLTF6NkZDc25oNUd6Ry1IMzBHOXVrZGYtcWhGQmFvMUFiamtSalhSLXpOUnozbmZjSHNzU2lJQURVUHFaWmE4UTQ1U1VmUlluWnJJR0VnOTl5dWRfZVliNWZYcGh0V1BueGs3RFI5bmo2eGREWDduTWp5ME8tb3NYNnd0ZGE1UVhjaU1WYkNzcVd0dTNOZWlvRXI4SE1hR0E1c2tHRFFUcndMZWx6dC1MUVl2bFNGNVl3UTdHNkdNbEVkM2RFM3UxYUN1X2c5cS1rNzk3LURQaDcwQVktbFJTdWVRZmFJcm02TXU?oc=5",
-      "date": "2023-03-06T08:00:00+00:00",
-      "category": "PSU",
-      "source": "Google News",
-      "source_type": "google"
-    },
-    {
       "title": "Pankaj Kumar Sharma takes over as Director (Production) of NALCO - PSU Watch",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcS00S01JWUh2dnZENEtScGhydEhyYmxSVGdXeXNjdVpyYUx0emNKZHk2RGgzOHl4SEZsMTJybGU0X0h5N0JNV0k0WlRMa3d6VXd0SlBwTDM1SzNJQXhWTXpSbERqRWlqVmM2Y1U2bU45dHV6dEh6ekFzdl9lMUVzSDBGUU9jQXhxWHhJLXAwUWcxUG11OHJpWVRB0gGnAUFVX3lxTFAyVXNnR2F1YkRpelhZamlhS2twa000WDlIV2pXT3liM2o3Y2VYWUtzOXFZVUZ1MVBvSnQwUUZyZUp2aE4zRmhLWmFEc042cE5Yb21FQ2RCYzlQX2kteGJPLVE4NHpRWG9oSkNNRFZMNV9GOGZmUVZTcVM5aHBfT1ZDbnBGbE9DX0p3dlZtODdGWnpNM0dTb2NqZXVORWtlbnRoclJJTnFV?oc=5",
       "date": "2023-02-01T08:00:00+00:00",
@@ -8641,17 +8641,17 @@
       "source_type": "google"
     },
     {
-      "title": "Rise in electric shock incidents sparks construction industry update - SafeWork SA",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNzZTVGxtTV83a2UxSk9RMm1LM2RwZ2ZrT0pwN21GcTFrUFNrYmtKWE5EeHNWc3BJNF9nSVpTbGFmOVcxcFk2eFBGa2xJYWMzUzF4d1hXQ0FXcE1lVW9wWGM0ckVKeUMxYzhQQnV6SjYzZWFEZkluY1Q4bzVOU2FZblA2a00zcnBiYUdjM0RpdFhNUDBpNEdrUWVTQld1aUh2Y212MDZyUzFCRGlaeC1OdXF4UzdQNUNoX2I2bnhsaTFKVE5vVV9ReWlR?oc=5",
-      "date": "2022-08-19T07:00:00+00:00",
+      "title": "The 2023 National Electrical Safety Code - Electronics360",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSGpzbDVYbDZmTlNkM2UwYUhyN05sZGpLUTNhNGN5Y1dzdTM0UThILV8zc1RZcHBVd2NGYWtFYlhvMmxTS2dtUjdPeTl6MzVSOGJheTBWNnFmLW1JaUZkcEE4T0xKNm1Jb3p1bzZJYzZkS0tGVDdwLTVVWmJvLTUzb1ZQNWotVHZ3NmtTaVNfZm16ZW0tSjFV?oc=5",
+      "date": "2022-09-01T07:00:00+00:00",
       "category": "SAFETY",
       "source": "Google News",
       "source_type": "google"
     },
     {
-      "title": "Exercise tests response to electric shock victims in ships - defence.gov.au",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTVR2eGM2N1UtdThMRzBMQjBWckpUVUxGNHdtSDJBXy1SRF82X281a2RqOThjYlkweTE1NjhzbmN2NnA0c0plRW4xTEFoVXU5RmlpRlU5WEFnalZsZEd4dERWU3hpZ2R3bHd4Q1E3S1RRMi00MWdUUGFuLUhhbC0wUHRhR3pMS1htR08tYXJsWV9Wd2k4TUhXRms3N2k1ZUFITVZxQi1iaGN3NjQ?oc=5",
-      "date": "2022-06-09T07:00:00+00:00",
+      "title": "Rise in electric shock incidents sparks construction industry update - SafeWork SA",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNzZTVGxtTV83a2UxSk9RMm1LM2RwZ2ZrT0pwN21GcTFrUFNrYmtKWE5EeHNWc3BJNF9nSVpTbGFmOVcxcFk2eFBGa2xJYWMzUzF4d1hXQ0FXcE1lVW9wWGM0ckVKeUMxYzhQQnV6SjYzZWFEZkluY1Q4bzVOU2FZblA2a00zcnBiYUdjM0RpdFhNUDBpNEdrUWVTQld1aUh2Y212MDZyUzFCRGlaeC1OdXF4UzdQNUNoX2I2bnhsaTFKVE5vVV9ReWlR?oc=5",
+      "date": "2022-08-19T07:00:00+00:00",
       "category": "SAFETY",
       "source": "Google News",
       "source_type": "google"
@@ -8721,8 +8721,8 @@
       "source_type": "google"
     },
     {
-      "title": "Industry Leaders Launch The Partnership for Electrical - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPRjBGV1pzMWxUOE9jdDJaZVpJZTdLdUltVDJPMTVkM2ZWWVpRbWdMV0RaMTVtbWo2dTYxOFJVNlZWelRFZFhyVXkzV3JtcjJwWU9TWkNPTUZva2VjeWR0ZnUyZ1h5eEQtLUdlT3FjZmpKbElrQk8xWHQwbmhJa0ItckkxR1J2M254dlkzc2pDYUxGbzFVNy1UOEtXbEllZEhDWTRPLVFxYmlKeVd6Wm4zWlhYSnE5dW92WTQ3NUdxMXBRWXg0dkNpVHlzQUpQTXpjY09tUmt1ckQtVDhNSHNYTzBQMnpPRUpmYmpPVkF6cUpPU3FsVWVLX0RrazZQd2JHeElSTkxCdlFBS3JwYXR2QlczdDRhRzZEV2NBRnlB?oc=5",
+      "title": "Industry Leaders Launch The Partnership for Electrical Safety to Ensure American Worker Protection from Arc Flash Hazards - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcjRHenBpS29QaEo0YVZwU3FjZXdnWXU0U0FORjNLNW1mYUtqRjdhQnc5N0dsYVY3LW50QktrLVlTTGNRZllNTG80bDhnN09hdElqNmRuQ21hNHFNUU1NdGd1NjhKZ3FGUEZWMlhFUlMyRUM2dlEtT19sLV85WlFTRjNTZS1NQWQyS21ya1NLS2hKbzVMWGVr?oc=5",
       "date": "2020-09-22T07:00:00+00:00",
       "category": "SAFETY",
       "source": "Google News",
@@ -8777,5 +8777,5 @@
       "source_type": "google"
     }
   ],
-  "last_updated_utc": "2026-10-08T03:08:31.038002+00:00"
+  "last_updated_utc": "2026-10-08T12:18:15.582721+00:00"
 }
