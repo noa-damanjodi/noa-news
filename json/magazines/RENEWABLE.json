@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Case study: Apartment solar? A novel approach from Bucharest",
+      "category": "RENEWABLE",
+      "date": "2026-10-09T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/residential/case-study-apartment-solar-a-novel-approach-from-bucharest/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Southeastern US utilities prepare for Hurricane Isaias to make landfall",
       "category": "RENEWABLE",
       "date": "2026-10-08T20:38:27+00:00",
@@ -4018,5 +4026,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-09T05:02:59.555404+00:00"
+  "last_updated_utc": "2026-10-09T12:44:33.240902+00:00"
 }

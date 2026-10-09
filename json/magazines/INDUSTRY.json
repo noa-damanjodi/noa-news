@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "FLSmidth secures $54m order for copper mine project in Chile",
+      "category": "INDUSTRY",
+      "date": "2026-10-09T10:05:01+00:00",
+      "url": "https://www.mining-technology.com/news/flsmidth-54m-order-copper-mine-chile/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Hertha Metals begins construction on US iron plant",
+      "category": "INDUSTRY",
+      "date": "2026-10-09T07:58:04+00:00",
+      "url": "https://www.mining-technology.com/news/hertha-metals-construction-us-iron-plant/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "CleanTech Lithium signs agreements for Antofalla properties in Argentina",
+      "category": "INDUSTRY",
+      "date": "2026-10-09T07:50:35+00:00",
+      "url": "https://www.mining-technology.com/news/cleantech-lithium-agreements-antofalla-properties/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Iron ore bucks Hormuz disruption as supply disputes shift to China",
+      "category": "INDUSTRY",
+      "date": "2026-10-08T16:00:00+00:00",
+      "url": "https://www.mining-technology.com/analysis/iron-ore-bucks-hormuz-disruption-as-supply-disputes-shift-to-china/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Traxys and Abenójar sign El Moto tungsten offtake deal",
       "category": "INDUSTRY",
       "date": "2026-10-08T12:33:50+00:00",
@@ -9306,5 +9338,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-09T05:02:59.555404+00:00"
+  "last_updated_utc": "2026-10-09T12:44:33.240902+00:00"
 }

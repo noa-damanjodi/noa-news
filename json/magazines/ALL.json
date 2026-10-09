@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "FLSmidth secures $54m order for copper mine project in Chile",
+      "category": "INDUSTRY",
+      "date": "2026-10-09T10:05:01+00:00",
+      "url": "https://www.mining-technology.com/news/flsmidth-54m-order-copper-mine-chile/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Case study: Apartment solar? A novel approach from Bucharest",
+      "category": "RENEWABLE",
+      "date": "2026-10-09T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/residential/case-study-apartment-solar-a-novel-approach-from-bucharest/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Hertha Metals begins construction on US iron plant",
+      "category": "INDUSTRY",
+      "date": "2026-10-09T07:58:04+00:00",
+      "url": "https://www.mining-technology.com/news/hertha-metals-construction-us-iron-plant/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Atomica launches MEMS optical control platform",
+      "category": "MECHANICAL",
+      "date": "2026-10-09T07:54:42+00:00",
+      "url": "https://www.engineering.com/atomica-launches-mems-optical-control-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "CleanTech Lithium signs agreements for Antofalla properties in Argentina",
+      "category": "INDUSTRY",
+      "date": "2026-10-09T07:50:35+00:00",
+      "url": "https://www.mining-technology.com/news/cleantech-lithium-agreements-antofalla-properties/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA commits $1 billion to advance US scientific research",
+      "category": "MECHANICAL",
+      "date": "2026-10-09T06:39:44+00:00",
+      "url": "https://www.engineering.com/nvidia-commits-1-billion-to-advance-us-scientific-research/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Morse Micro adds Zilogic as first India-based design partner",
+      "category": "MECHANICAL",
+      "date": "2026-10-09T06:34:34+00:00",
+      "url": "https://www.engineering.com/morse-micro-adds-zilogic-as-first-india-based-design-partner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rockwell joins consortium to digitize pharmaceutical development",
+      "category": "MECHANICAL",
+      "date": "2026-10-09T06:26:17+00:00",
+      "url": "https://www.engineering.com/rockwell-joins-consortium-to-digitize-pharmaceutical-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Seeq and Cognizant collaborate on industrial AI for pharma",
+      "category": "MECHANICAL",
+      "date": "2026-10-09T06:21:13+00:00",
+      "url": "https://www.engineering.com/seeq-and-cognizant-collaborate-on-industrial-ai-for-pharma/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "MasterKey by PolyWorks supports dimensional inspection teams",
       "category": "MECHANICAL",
       "date": "2026-10-09T04:56:43+00:00",
@@ -47,6 +119,14 @@
       "date": "2026-10-08T17:15:35+00:00",
       "url": "https://www.engineering.com/ai-in-plm-near-term-expectations-and-challenges/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Iron ore bucks Hormuz disruption as supply disputes shift to China",
+      "category": "INDUSTRY",
+      "date": "2026-10-08T16:00:00+00:00",
+      "url": "https://www.mining-technology.com/analysis/iron-ore-bucks-hormuz-disruption-as-supply-disputes-shift-to-china/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -51970,5 +52050,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-09T05:02:59.555404+00:00"
+  "last_updated_utc": "2026-10-09T12:44:33.240902+00:00"
 }
