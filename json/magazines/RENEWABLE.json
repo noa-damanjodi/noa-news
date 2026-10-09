@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "What comes after lithium?",
+      "category": "RENEWABLE",
+      "date": "2026-10-09T18:17:53+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/what-comes-after-lithium/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Is the future of commuter rail battery powered? — This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-10-09T16:22:49+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/is-the-future-of-commuter-rail-battery-powered-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Case study: Apartment solar? A novel approach from Bucharest",
       "category": "RENEWABLE",
       "date": "2026-10-09T10:00:00+00:00",
@@ -4026,5 +4042,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-09T12:44:33.240902+00:00"
+  "last_updated_utc": "2026-10-09T22:22:33.418409+00:00"
 }

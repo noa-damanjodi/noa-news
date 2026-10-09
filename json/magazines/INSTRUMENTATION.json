@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Canada sheds 68,000 jobs, unemployment rate up to 6.5% in September",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-09T14:00:03+00:00",
+      "url": "https://www.automationmag.com/canada-sheds-68000-jobs-unemployment-rate-up-to-6-5-in-september/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Prime Minister Mark Carney to take ‘active role’ in new AI advisory council",
       "category": "INSTRUMENTATION",
       "date": "2026-10-08T17:51:44+00:00",
@@ -3154,5 +3162,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-09T12:44:33.240902+00:00"
+  "last_updated_utc": "2026-10-09T22:22:33.418409+00:00"
 }

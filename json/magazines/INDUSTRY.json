@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "EC names 46 projects to strengthen critical raw material supply",
+      "category": "INDUSTRY",
+      "date": "2026-10-09T14:12:54+00:00",
+      "url": "https://www.mining-technology.com/news/ec-46-projects-raw-material-supply/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Guanajuato Silver completes tunnel linking San Ignacio and Bolanitos mines",
+      "category": "INDUSTRY",
+      "date": "2026-10-09T13:57:56+00:00",
+      "url": "https://www.mining-technology.com/news/guanajuato-tunnel-linking-san-ignacio-bolanitos/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "FLSmidth secures $54m order for copper mine project in Chile",
       "category": "INDUSTRY",
       "date": "2026-10-09T10:05:01+00:00",
@@ -9338,5 +9354,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-09T12:44:33.240902+00:00"
+  "last_updated_utc": "2026-10-09T22:22:33.418409+00:00"
 }

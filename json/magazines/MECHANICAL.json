@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "AWS launches open-source toolchain for physical AI development",
+      "category": "MECHANICAL",
+      "date": "2026-10-09T21:00:24+00:00",
+      "url": "https://www.engineering.com/aws-launches-open-source-toolchain-for-physical-ai-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Artec 3D launches software for large-scale 3D environments",
+      "category": "MECHANICAL",
+      "date": "2026-10-09T13:44:50+00:00",
+      "url": "https://www.engineering.com/artec-3d-launches-software-for-large-scale-3d-environments/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Logtek selects AspenTech Geolog for subsurface workflows",
+      "category": "MECHANICAL",
+      "date": "2026-10-09T13:38:46+00:00",
+      "url": "https://www.engineering.com/logtek-selects-aspentech-geolog-for-subsurface-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Atomica launches MEMS optical control platform",
       "category": "MECHANICAL",
       "date": "2026-10-09T07:54:42+00:00",
@@ -14226,5 +14250,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-09T12:44:33.240902+00:00"
+  "last_updated_utc": "2026-10-09T22:22:33.418409+00:00"
 }

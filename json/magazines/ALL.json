@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Hurricane cleanup: OSHA offers hazard prevention resources",
+      "category": "SAFETY",
+      "date": "2026-10-09T21:09:29+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/hurricane-cleanup-osha-offers-hazard-prevention-resources/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "AWS launches open-source toolchain for physical AI development",
+      "category": "MECHANICAL",
+      "date": "2026-10-09T21:00:24+00:00",
+      "url": "https://www.engineering.com/aws-launches-open-source-toolchain-for-physical-ai-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "What comes after lithium?",
+      "category": "RENEWABLE",
+      "date": "2026-10-09T18:17:53+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/what-comes-after-lithium/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "NSC experts join alliance on preventing work-related stress",
+      "category": "SAFETY",
+      "date": "2026-10-09T17:40:36+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nsc-experts-join-alliance-on-preventing-work-related-stress/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Chemical Safety Board video on refinery fire urges facilities to plan ahead",
+      "category": "SAFETY",
+      "date": "2026-10-09T16:55:53+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/chemical-safety-board-video-on-refinery-fire-urges-facilities-to-plan-ahead/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Is the future of commuter rail battery powered? — This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-10-09T16:22:49+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/is-the-future-of-commuter-rail-battery-powered-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA awards $10.2M in safety and health training grants",
+      "category": "SAFETY",
+      "date": "2026-10-09T15:58:59+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-awards-10-2m-in-safety-and-health-training-grants/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EC names 46 projects to strengthen critical raw material supply",
+      "category": "INDUSTRY",
+      "date": "2026-10-09T14:12:54+00:00",
+      "url": "https://www.mining-technology.com/news/ec-46-projects-raw-material-supply/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Canada sheds 68,000 jobs, unemployment rate up to 6.5% in September",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-09T14:00:03+00:00",
+      "url": "https://www.automationmag.com/canada-sheds-68000-jobs-unemployment-rate-up-to-6-5-in-september/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Guanajuato Silver completes tunnel linking San Ignacio and Bolanitos mines",
+      "category": "INDUSTRY",
+      "date": "2026-10-09T13:57:56+00:00",
+      "url": "https://www.mining-technology.com/news/guanajuato-tunnel-linking-san-ignacio-bolanitos/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Artec 3D launches software for large-scale 3D environments",
+      "category": "MECHANICAL",
+      "date": "2026-10-09T13:44:50+00:00",
+      "url": "https://www.engineering.com/artec-3d-launches-software-for-large-scale-3d-environments/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Logtek selects AspenTech Geolog for subsurface workflows",
+      "category": "MECHANICAL",
+      "date": "2026-10-09T13:38:46+00:00",
+      "url": "https://www.engineering.com/logtek-selects-aspentech-geolog-for-subsurface-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "FLSmidth secures $54m order for copper mine project in Chile",
       "category": "INDUSTRY",
       "date": "2026-10-09T10:05:01+00:00",
@@ -52050,5 +52146,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-09T12:44:33.240902+00:00"
+  "last_updated_utc": "2026-10-09T22:22:33.418409+00:00"
 }
