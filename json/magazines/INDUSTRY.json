@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Pushing crushing capabilities: how digitalisation is improving comminution",
+      "category": "INDUSTRY",
+      "date": "2026-10-09T15:05:30+00:00",
+      "url": "https://www.mining-technology.com/features/pushing-crushing-capabilities-how-digitalisation-is-improving-comminution/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "EC names 46 projects to strengthen critical raw material supply",
       "category": "INDUSTRY",
       "date": "2026-10-09T14:12:54+00:00",
@@ -9354,5 +9362,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-09T22:22:33.418409+00:00"
+  "last_updated_utc": "2026-10-10T04:48:51.950350+00:00"
 }
