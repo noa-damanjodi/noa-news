@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Annual number of global workplace injuries higher than U.S. population: report",
+      "category": "SAFETY",
+      "date": "2026-10-12T17:46:18+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/annual-number-of-global-workplace-injuries-higher-than-u-s-population-report/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New law expands Cal/OSHA investigation and prosecution referral requirements",
+      "category": "SAFETY",
+      "date": "2026-10-12T16:12:28+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-law-expands-cal-osha-investigation-and-prosecution-referral-requirements/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Transforming public trust into an operating asset for utilities with Greg Cornett",
+      "category": "RENEWABLE",
+      "date": "2026-10-12T15:54:24+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/transforming-public-trust-into-an-operating-asset-for-utilities-with-greg-cornett/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "VHM, Mitsui agree non-binding term sheet for Goschen HMC offtake",
+      "category": "INDUSTRY",
+      "date": "2026-10-12T13:32:50+00:00",
+      "url": "https://www.mining-technology.com/news/vhm-mitsui-term-sheet-goschen-offtake/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "KEFI resumes work at Tulu Kapi gold project in Ethiopia",
+      "category": "INDUSTRY",
+      "date": "2026-10-12T13:26:01+00:00",
+      "url": "https://www.mining-technology.com/news/kefi-resumes-work-tulu-kapi-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Cannot stop the battery | Factor This Brief",
       "category": "RENEWABLE",
       "date": "2026-10-12T09:55:00+00:00",
@@ -52234,5 +52274,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-12T14:40:51.605775+00:00"
+  "last_updated_utc": "2026-10-13T00:15:27.743935+00:00"
 }
