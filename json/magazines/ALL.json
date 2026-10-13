@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "GAO report raises concerns about child labor injury data and rule enforcement",
+      "category": "SAFETY",
+      "date": "2026-10-13T16:04:50+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/gao-report-raises-concerns-about-child-labor-injury-data-and-rule-enforcement/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "FMCSA restores truckers’ 30-day window for emergency HOS exemptions",
+      "category": "SAFETY",
+      "date": "2026-10-13T15:50:09+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fmcsa-restores-30-day-window-for-emergency-hos-exemptions/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Fire safety in the workplace: OSHA webinar set for Oct. 20",
+      "category": "SAFETY",
+      "date": "2026-10-13T15:44:41+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fire-safety-in-the-workplace-osha-webinar-set-for-oct-20/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Trafigura, EnergyX sign ten-year lithium supply contract",
+      "category": "INDUSTRY",
+      "date": "2026-10-13T14:09:58+00:00",
+      "url": "https://www.mining-technology.com/news/trafigura-energyx-10-year-lithium-contract/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "A breakdown of the bills making California’s energy future more affordable and reliable",
+      "category": "RENEWABLE",
+      "date": "2026-10-13T13:57:04+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/a-breakdown-of-the-bills-making-californias-energy-future-more-affordable-and-reliable/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Neotech Metals appoints DRA for Hecla-Kilmer resource estimate",
       "category": "INDUSTRY",
       "date": "2026-10-13T13:05:15+00:00",
@@ -52394,5 +52434,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-13T13:44:27.244667+00:00"
+  "last_updated_utc": "2026-10-13T22:22:47.651860+00:00"
 }

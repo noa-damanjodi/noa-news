@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Trafigura, EnergyX sign ten-year lithium supply contract",
+      "category": "INDUSTRY",
+      "date": "2026-10-13T14:09:58+00:00",
+      "url": "https://www.mining-technology.com/news/trafigura-energyx-10-year-lithium-contract/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Neotech Metals appoints DRA for Hecla-Kilmer resource estimate",
       "category": "INDUSTRY",
       "date": "2026-10-13T13:05:15+00:00",
@@ -9458,5 +9466,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-13T13:44:27.244667+00:00"
+  "last_updated_utc": "2026-10-13T22:22:47.651860+00:00"
 }

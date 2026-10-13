@@ -2,6 +2,30 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "GAO report raises concerns about child labor injury data and rule enforcement",
+      "category": "SAFETY",
+      "date": "2026-10-13T16:04:50+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/gao-report-raises-concerns-about-child-labor-injury-data-and-rule-enforcement/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "FMCSA restores truckers’ 30-day window for emergency HOS exemptions",
+      "category": "SAFETY",
+      "date": "2026-10-13T15:50:09+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fmcsa-restores-30-day-window-for-emergency-hos-exemptions/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Fire safety in the workplace: OSHA webinar set for Oct. 20",
+      "category": "SAFETY",
+      "date": "2026-10-13T15:44:41+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fire-safety-in-the-workplace-osha-webinar-set-for-oct-20/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Annual number of global workplace injuries higher than U.S. population: report",
       "category": "SAFETY",
       "date": "2026-10-12T17:46:18+00:00",
@@ -5314,5 +5338,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-13T13:44:27.244667+00:00"
+  "last_updated_utc": "2026-10-13T22:22:47.651860+00:00"
 }
