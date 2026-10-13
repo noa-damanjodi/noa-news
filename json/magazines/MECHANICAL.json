@@ -2,6 +2,70 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "ASUS launches 2U server for agentic AI workloads",
+      "category": "MECHANICAL",
+      "date": "2026-10-13T09:23:01+00:00",
+      "url": "https://www.engineering.com/asus-launches-2u-server-for-agentic-ai-workloads/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Purdue opens Rittal and Eplan engineering labs",
+      "category": "MECHANICAL",
+      "date": "2026-10-13T07:20:37+00:00",
+      "url": "https://www.engineering.com/purdue-opens-rittal-and-eplan-engineering-labs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD introduces open Helion rack blueprint for agentic AI",
+      "category": "MECHANICAL",
+      "date": "2026-10-13T07:10:58+00:00",
+      "url": "https://www.engineering.com/amd-introduces-open-helion-rack-blueprint-for-agentic-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Astera Labs unveils modular Orion AI rack architecture",
+      "category": "MECHANICAL",
+      "date": "2026-10-13T07:05:35+00:00",
+      "url": "https://www.engineering.com/astera-labs-unveils-modular-orion-ai-rack-architecture/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon to acquire geotechnical software provider Rocscience",
+      "category": "MECHANICAL",
+      "date": "2026-10-13T06:59:44+00:00",
+      "url": "https://www.engineering.com/hexagon-to-acquire-geotechnical-software-provider-rocscience/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cellid joins Qualcomm’s Snapdragon START program",
+      "category": "MECHANICAL",
+      "date": "2026-10-13T06:55:08+00:00",
+      "url": "https://www.engineering.com/cellid-joins-qualcomms-snapdragon-start-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "TI introduces ADC for nanosecond-level power monitoring",
+      "category": "MECHANICAL",
+      "date": "2026-10-13T06:43:55+00:00",
+      "url": "https://www.engineering.com/ti-introduces-adc-for-nanosecond-level-power-monitoring/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA and Cisco plan 400 Gb/s-per-lane USFP module",
+      "category": "MECHANICAL",
+      "date": "2026-10-13T06:37:05+00:00",
+      "url": "https://www.engineering.com/nvidia-and-cisco-plan-400-gb-s-per-lane-usfp-module/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "AWS launches open-source toolchain for physical AI development",
       "category": "MECHANICAL",
       "date": "2026-10-09T21:00:24+00:00",
@@ -14250,5 +14314,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-13T00:15:27.743935+00:00"
+  "last_updated_utc": "2026-10-13T13:44:27.244667+00:00"
 }

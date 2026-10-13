@@ -2,6 +2,126 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Neotech Metals appoints DRA for Hecla-Kilmer resource estimate",
+      "category": "INDUSTRY",
+      "date": "2026-10-13T13:05:15+00:00",
+      "url": "https://www.mining-technology.com/news/neotech-dra-hecla-kilmer-resource-estimate/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "First Au signs binding deal to buy Ida Valley gold project",
+      "category": "INDUSTRY",
+      "date": "2026-10-13T09:49:03+00:00",
+      "url": "https://www.mining-technology.com/news/first-au-to-buy-ida-valley-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ASUS launches 2U server for agentic AI workloads",
+      "category": "MECHANICAL",
+      "date": "2026-10-13T09:23:01+00:00",
+      "url": "https://www.engineering.com/asus-launches-2u-server-for-agentic-ai-workloads/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Europe’s tungsten revival faces a race against China",
+      "category": "INDUSTRY",
+      "date": "2026-10-13T09:00:00+00:00",
+      "url": "https://www.mining-technology.com/analysis/europes-tungsten-revival-digs-deeper-as-china-tightens-its-grip/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Cornish Metals reports on progress at South Crofty tin project in UK",
+      "category": "INDUSTRY",
+      "date": "2026-10-13T07:42:58+00:00",
+      "url": "https://www.mining-technology.com/news/cornish-metals-progress-south-crofty-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "EPC Mineex Sénégal wins Sabodala blasting contract",
+      "category": "INDUSTRY",
+      "date": "2026-10-13T07:30:15+00:00",
+      "url": "https://www.mining-technology.com/news/epc-mineex-senegal-sabodala-blasting-contract/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Purdue opens Rittal and Eplan engineering labs",
+      "category": "MECHANICAL",
+      "date": "2026-10-13T07:20:37+00:00",
+      "url": "https://www.engineering.com/purdue-opens-rittal-and-eplan-engineering-labs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD introduces open Helion rack blueprint for agentic AI",
+      "category": "MECHANICAL",
+      "date": "2026-10-13T07:10:58+00:00",
+      "url": "https://www.engineering.com/amd-introduces-open-helion-rack-blueprint-for-agentic-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Astera Labs unveils modular Orion AI rack architecture",
+      "category": "MECHANICAL",
+      "date": "2026-10-13T07:05:35+00:00",
+      "url": "https://www.engineering.com/astera-labs-unveils-modular-orion-ai-rack-architecture/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "How mining is feeding the AI data centre boom",
+      "category": "INDUSTRY",
+      "date": "2026-10-13T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/features/how-mining-is-feeding-the-ai-data-centre-boom/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon to acquire geotechnical software provider Rocscience",
+      "category": "MECHANICAL",
+      "date": "2026-10-13T06:59:44+00:00",
+      "url": "https://www.engineering.com/hexagon-to-acquire-geotechnical-software-provider-rocscience/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cellid joins Qualcomm’s Snapdragon START program",
+      "category": "MECHANICAL",
+      "date": "2026-10-13T06:55:08+00:00",
+      "url": "https://www.engineering.com/cellid-joins-qualcomms-snapdragon-start-program/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "TI introduces ADC for nanosecond-level power monitoring",
+      "category": "MECHANICAL",
+      "date": "2026-10-13T06:43:55+00:00",
+      "url": "https://www.engineering.com/ti-introduces-adc-for-nanosecond-level-power-monitoring/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA and Cisco plan 400 Gb/s-per-lane USFP module",
+      "category": "MECHANICAL",
+      "date": "2026-10-13T06:37:05+00:00",
+      "url": "https://www.engineering.com/nvidia-and-cisco-plan-400-gb-s-per-lane-usfp-module/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hafslund Kraft dishes out contract for significant modernization program at Norwegian hydro plant",
+      "category": "RENEWABLE",
+      "date": "2026-10-13T05:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/hafslund-kraft-dishes-out-contract-for-significant-modernization-program-at-norwegian-hydro-plant/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Annual number of global workplace injuries higher than U.S. population: report",
       "category": "SAFETY",
       "date": "2026-10-12T17:46:18+00:00",
@@ -52274,5 +52394,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-13T00:15:27.743935+00:00"
+  "last_updated_utc": "2026-10-13T13:44:27.244667+00:00"
 }
