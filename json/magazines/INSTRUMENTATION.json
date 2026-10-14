@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Balluff inc. offering BTL Entry rod-style magnetostrictive position sensors",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-13T18:42:16+00:00",
+      "url": "https://www.automationmag.com/balluff-inc-offering-btl-entry-rod-style-magnetostrictive-position-sensors/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "IFS announces IFS Intelligence",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-13T18:17:20+00:00",
+      "url": "https://www.automationmag.com/ifs-announces-ifs-intelligence/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Canada sheds 68,000 jobs, unemployment rate up to 6.5% in September",
       "category": "INSTRUMENTATION",
       "date": "2026-10-09T14:00:03+00:00",
@@ -3162,5 +3178,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-14T03:55:45.086102+00:00"
+  "last_updated_utc": "2026-10-14T11:22:32.466428+00:00"
 }

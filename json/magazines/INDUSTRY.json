@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Aurania concludes drilling at Thormódsdalur gold-silver site",
+      "category": "INDUSTRY",
+      "date": "2026-10-14T09:39:25+00:00",
+      "url": "https://www.mining-technology.com/news/aurania-finishes-drilling-thormodsdalur-site/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "SSR Mining to acquire Roxmore Resources in $464m all-cash deal",
+      "category": "INDUSTRY",
+      "date": "2026-10-14T07:43:38+00:00",
+      "url": "https://www.mining-technology.com/news/ssr-mining-to-acquire-roxmore-464m/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Tali Resources plans 9,000m drill programme at Don Juan prospect",
+      "category": "INDUSTRY",
+      "date": "2026-10-14T07:31:38+00:00",
+      "url": "https://www.mining-technology.com/news/tali-plans-9000m-drill-don-juan/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Underground automation’s next era will keep people at the centre",
+      "category": "INDUSTRY",
+      "date": "2026-10-14T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/comment/underground-automations-next-era-will-keep-people-at-the-centre/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Trafigura, EnergyX sign ten-year lithium supply contract",
       "category": "INDUSTRY",
       "date": "2026-10-13T14:09:58+00:00",
@@ -14,6 +46,14 @@
       "category": "INDUSTRY",
       "date": "2026-10-13T13:05:15+00:00",
       "url": "https://www.mining-technology.com/news/neotech-dra-hecla-kilmer-resource-estimate/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "UK-based tungsten deal links UK mining to defence supply chains",
+      "category": "INDUSTRY",
+      "date": "2026-10-13T10:00:00+00:00",
+      "url": "https://www.mining-technology.com/analysis/uk-based-tungsten-deal-links-uk-mining-to-defence-supply-chains/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -9466,5 +9506,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-14T03:55:45.086102+00:00"
+  "last_updated_utc": "2026-10-14T11:22:32.466428+00:00"
 }

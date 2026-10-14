@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "ZWSOFT updates ZW3D WuKong for CAD and CAM workflows",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T10:25:23+00:00",
+      "url": "https://www.engineering.com/zwsoft-updates-zw3d-wukong-for-cad-and-cam-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight launches 1.6T Ethernet test platforms for AI networks",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T10:21:15+00:00",
+      "url": "https://www.engineering.com/keysight-launches-1-6t-ethernet-test-platforms-for-ai-networks/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mirantis integrates NVIDIA Run:ai with k0rdent AI",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T10:14:12+00:00",
+      "url": "https://www.engineering.com/mirantis-integrates-nvidia-runai-with-k0rdent-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Advanced Energy launches Centra Smart Hub for wafer temperature control",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T10:06:27+00:00",
+      "url": "https://www.engineering.com/advanced-energy-launches-centra-smart-hub-for-wafer-temperature-control/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Pudu Robotics’ BG1 Series wins two ISSA awards",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T10:01:42+00:00",
+      "url": "https://www.engineering.com/pudu-robotics-bg1-series-wins-two-issa-awards/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aurania concludes drilling at Thormódsdalur gold-silver site",
+      "category": "INDUSTRY",
+      "date": "2026-10-14T09:39:25+00:00",
+      "url": "https://www.mining-technology.com/news/aurania-finishes-drilling-thormodsdalur-site/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "SSR Mining to acquire Roxmore Resources in $464m all-cash deal",
+      "category": "INDUSTRY",
+      "date": "2026-10-14T07:43:38+00:00",
+      "url": "https://www.mining-technology.com/news/ssr-mining-to-acquire-roxmore-464m/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Tali Resources plans 9,000m drill programme at Don Juan prospect",
+      "category": "INDUSTRY",
+      "date": "2026-10-14T07:31:38+00:00",
+      "url": "https://www.mining-technology.com/news/tali-plans-9000m-drill-don-juan/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro expands OCP portfolio for AI data center deployments",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T07:21:26+00:00",
+      "url": "https://www.engineering.com/supermicro-expands-ocp-portfolio-for-ai-data-center-deployments/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Datacor acquires MySep to expand engineering software portfolio",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T07:12:59+00:00",
+      "url": "https://www.engineering.com/datacor-acquires-mysep-to-expand-engineering-software-portfolio/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Underground automation’s next era will keep people at the centre",
+      "category": "INDUSTRY",
+      "date": "2026-10-14T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/comment/underground-automations-next-era-will-keep-people-at-the-centre/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Balluff inc. offering BTL Entry rod-style magnetostrictive position sensors",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-13T18:42:16+00:00",
+      "url": "https://www.automationmag.com/balluff-inc-offering-btl-entry-rod-style-magnetostrictive-position-sensors/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "IFS announces IFS Intelligence",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-13T18:17:20+00:00",
+      "url": "https://www.automationmag.com/ifs-announces-ifs-intelligence/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "GAO report raises concerns about child labor injury data and rule enforcement",
       "category": "SAFETY",
       "date": "2026-10-13T16:04:50+00:00",
@@ -46,6 +150,14 @@
       "category": "INDUSTRY",
       "date": "2026-10-13T13:05:15+00:00",
       "url": "https://www.mining-technology.com/news/neotech-dra-hecla-kilmer-resource-estimate/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "UK-based tungsten deal links UK mining to defence supply chains",
+      "category": "INDUSTRY",
+      "date": "2026-10-13T10:00:00+00:00",
+      "url": "https://www.mining-technology.com/analysis/uk-based-tungsten-deal-links-uk-mining-to-defence-supply-chains/",
       "source": "Mining Technology",
       "type": "magazine"
     },
@@ -52434,5 +52546,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-14T03:55:45.086102+00:00"
+  "last_updated_utc": "2026-10-14T11:22:32.466428+00:00"
 }

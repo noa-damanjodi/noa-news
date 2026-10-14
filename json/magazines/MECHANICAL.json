@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "ZWSOFT updates ZW3D WuKong for CAD and CAM workflows",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T10:25:23+00:00",
+      "url": "https://www.engineering.com/zwsoft-updates-zw3d-wukong-for-cad-and-cam-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight launches 1.6T Ethernet test platforms for AI networks",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T10:21:15+00:00",
+      "url": "https://www.engineering.com/keysight-launches-1-6t-ethernet-test-platforms-for-ai-networks/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mirantis integrates NVIDIA Run:ai with k0rdent AI",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T10:14:12+00:00",
+      "url": "https://www.engineering.com/mirantis-integrates-nvidia-runai-with-k0rdent-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Advanced Energy launches Centra Smart Hub for wafer temperature control",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T10:06:27+00:00",
+      "url": "https://www.engineering.com/advanced-energy-launches-centra-smart-hub-for-wafer-temperature-control/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Pudu Robotics’ BG1 Series wins two ISSA awards",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T10:01:42+00:00",
+      "url": "https://www.engineering.com/pudu-robotics-bg1-series-wins-two-issa-awards/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Supermicro expands OCP portfolio for AI data center deployments",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T07:21:26+00:00",
+      "url": "https://www.engineering.com/supermicro-expands-ocp-portfolio-for-ai-data-center-deployments/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Datacor acquires MySep to expand engineering software portfolio",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T07:12:59+00:00",
+      "url": "https://www.engineering.com/datacor-acquires-mysep-to-expand-engineering-software-portfolio/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "ASUS launches 2U server for agentic AI workloads",
       "category": "MECHANICAL",
       "date": "2026-10-13T09:23:01+00:00",
@@ -14314,5 +14370,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-14T03:55:45.086102+00:00"
+  "last_updated_utc": "2026-10-14T11:22:32.466428+00:00"
 }
