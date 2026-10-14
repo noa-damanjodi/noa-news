@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Additive construction update: overcladding, avalanches, concrete printing, and more",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T20:21:22+00:00",
+      "url": "https://www.engineering.com/additive-construction-update-overcladding-avalanches-concrete-printing-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Two Japanese Heavyweights Collaborate for Physical AI",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T18:24:12+00:00",
+      "url": "https://www.engineering.com/two-japanese-heavyweights-collaborate-for-physical-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Why Schneider Electric acquired PTC for $22.6 billion",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T18:01:13+00:00",
+      "url": "https://www.engineering.com/why-schneider-electric-acquired-ptc-for-22-6-billion/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "ZWSOFT updates ZW3D WuKong for CAD and CAM workflows",
       "category": "MECHANICAL",
       "date": "2026-10-14T10:25:23+00:00",
@@ -14370,5 +14394,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-14T16:43:09.436632+00:00"
+  "last_updated_utc": "2026-10-14T21:20:56.932318+00:00"
 }

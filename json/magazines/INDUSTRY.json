@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Mining productivity stalls despite advances in automation and AI, says McKinsey",
+      "category": "INDUSTRY",
+      "date": "2026-10-14T19:51:30+00:00",
+      "url": "https://www.mining-technology.com/news/mining-productivity-stalls-despite-advances-in-automation-and-ai-says-mckinsey/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Can resource-rich Australia build a battery-grade manganese industry?",
       "category": "INDUSTRY",
       "date": "2026-10-14T15:35:07+00:00",
@@ -9530,5 +9538,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-14T16:43:09.436632+00:00"
+  "last_updated_utc": "2026-10-14T21:20:56.932318+00:00"
 }

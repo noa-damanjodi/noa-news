@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Promise Robotics expands physical AI infrastructure, partners with D.R. Horton",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-14T20:52:00+00:00",
+      "url": "https://www.automationmag.com/promise-robotics-expands-physical-ai-infrastructure-partners-with-d-r-horton/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "‘Safer Seas Digest 2025’ offers insights for maritime crews",
+      "category": "SAFETY",
+      "date": "2026-10-14T20:23:43+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safer-seas-digest-2025-offers-insights-for-maritime-crews/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New law in Connecticut enhances workers’ comp for victims of assault",
+      "category": "SAFETY",
+      "date": "2026-10-14T20:23:00+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-law-in-connecticut-enhances-workers-comp-for-victims-of-assault/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Additive construction update: overcladding, avalanches, concrete printing, and more",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T20:21:22+00:00",
+      "url": "https://www.engineering.com/additive-construction-update-overcladding-avalanches-concrete-printing-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Communication problems common during crane lifts, new report shows",
+      "category": "SAFETY",
+      "date": "2026-10-14T20:08:24+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/communication-problems-common-during-crane-lifts-new-report-shows/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Mining productivity stalls despite advances in automation and AI, says McKinsey",
+      "category": "INDUSTRY",
+      "date": "2026-10-14T19:51:30+00:00",
+      "url": "https://www.mining-technology.com/news/mining-productivity-stalls-despite-advances-in-automation-and-ai-says-mckinsey/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Two Japanese Heavyweights Collaborate for Physical AI",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T18:24:12+00:00",
+      "url": "https://www.engineering.com/two-japanese-heavyweights-collaborate-for-physical-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Why Schneider Electric acquired PTC for $22.6 billion",
+      "category": "MECHANICAL",
+      "date": "2026-10-14T18:01:13+00:00",
+      "url": "https://www.engineering.com/why-schneider-electric-acquired-ptc-for-22-6-billion/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "OnRobot launches 2FGP20 Fork",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-14T17:34:48+00:00",
+      "url": "https://www.automationmag.com/onrobot-launches-2fgp20-fork/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Can resource-rich Australia build a battery-grade manganese industry?",
       "category": "INDUSTRY",
       "date": "2026-10-14T15:35:07+00:00",
@@ -52594,5 +52666,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-14T16:43:09.436632+00:00"
+  "last_updated_utc": "2026-10-14T21:20:56.932318+00:00"
 }
