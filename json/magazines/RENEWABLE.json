@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Moving from reactive repairs to proactive grid management with Don Reeves from Itron",
+      "category": "RENEWABLE",
+      "date": "2026-10-14T14:35:43+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/moving-from-reactive-repairs-to-proactive-grid-management-with-don-reeves-from-itron/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Tired of digging through FERC filings? Let AI do it for you",
+      "category": "RENEWABLE",
+      "date": "2026-10-14T12:54:05+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/tired-of-digging-through-ferc-filings-let-ai-do-it-for-you/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "A breakdown of the bills making California’s energy future more affordable and reliable",
       "category": "RENEWABLE",
       "date": "2026-10-13T13:57:04+00:00",
@@ -4074,5 +4090,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-14T11:22:32.466428+00:00"
+  "last_updated_utc": "2026-10-14T16:43:09.436632+00:00"
 }

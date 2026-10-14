@@ -2,6 +2,54 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Can resource-rich Australia build a battery-grade manganese industry?",
+      "category": "INDUSTRY",
+      "date": "2026-10-14T15:35:07+00:00",
+      "url": "https://www.mining-technology.com/features/australia-battery-grade-manganese-industry-hpms/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Government of Canada expands support to adopt and commercialize artificial intelligence",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-14T15:33:16+00:00",
+      "url": "https://www.automationmag.com/government-of-canada-expands-support-to-adopt-and-commercialize-artificial-intelligence/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Moving from reactive repairs to proactive grid management with Don Reeves from Itron",
+      "category": "RENEWABLE",
+      "date": "2026-10-14T14:35:43+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/moving-from-reactive-repairs-to-proactive-grid-management-with-don-reeves-from-itron/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Ionic Rare Earths submits Belfast recycling plant application",
+      "category": "INDUSTRY",
+      "date": "2026-10-14T13:21:15+00:00",
+      "url": "https://www.mining-technology.com/news/ionic-rare-earths-belfast-recycling-plant-application/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Krakatoa deploys second drill rig at Georgia’s Zopkhito project",
+      "category": "INDUSTRY",
+      "date": "2026-10-14T13:09:23+00:00",
+      "url": "https://www.mining-technology.com/news/krakatoa-second-drill-rig-zopkhito-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Tired of digging through FERC filings? Let AI do it for you",
+      "category": "RENEWABLE",
+      "date": "2026-10-14T12:54:05+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/tired-of-digging-through-ferc-filings-let-ai-do-it-for-you/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "ZWSOFT updates ZW3D WuKong for CAD and CAM workflows",
       "category": "MECHANICAL",
       "date": "2026-10-14T10:25:23+00:00",
@@ -52546,5 +52594,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-14T11:22:32.466428+00:00"
+  "last_updated_utc": "2026-10-14T16:43:09.436632+00:00"
 }

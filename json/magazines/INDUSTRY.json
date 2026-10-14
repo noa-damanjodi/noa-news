@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Can resource-rich Australia build a battery-grade manganese industry?",
+      "category": "INDUSTRY",
+      "date": "2026-10-14T15:35:07+00:00",
+      "url": "https://www.mining-technology.com/features/australia-battery-grade-manganese-industry-hpms/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Ionic Rare Earths submits Belfast recycling plant application",
+      "category": "INDUSTRY",
+      "date": "2026-10-14T13:21:15+00:00",
+      "url": "https://www.mining-technology.com/news/ionic-rare-earths-belfast-recycling-plant-application/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Krakatoa deploys second drill rig at Georgia’s Zopkhito project",
+      "category": "INDUSTRY",
+      "date": "2026-10-14T13:09:23+00:00",
+      "url": "https://www.mining-technology.com/news/krakatoa-second-drill-rig-zopkhito-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Aurania concludes drilling at Thormódsdalur gold-silver site",
       "category": "INDUSTRY",
       "date": "2026-10-14T09:39:25+00:00",
@@ -9506,5 +9530,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-14T11:22:32.466428+00:00"
+  "last_updated_utc": "2026-10-14T16:43:09.436632+00:00"
 }
