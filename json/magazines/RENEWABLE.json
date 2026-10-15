@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Avista and Heddian look to rewrite the utility communications playbook",
+      "category": "RENEWABLE",
+      "date": "2026-10-15T13:57:57+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/avista-and-heddian-look-to-rewrite-the-utility-communications-playbook/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "DOE to help TVA fund 2.5 GW of capacity across 84 grid projects",
+      "category": "RENEWABLE",
+      "date": "2026-10-15T13:25:39+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/doe-to-help-tva-fund-2-5-gw-of-capacity-across-84-grid-projects/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Distributed energy is the fastest fix for AI’s power crunch",
       "category": "RENEWABLE",
       "date": "2026-10-15T10:00:00+00:00",
@@ -4098,5 +4114,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-15T10:59:18.565360+00:00"
+  "last_updated_utc": "2026-10-15T16:28:31.468180+00:00"
 }

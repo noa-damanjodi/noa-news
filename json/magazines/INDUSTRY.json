@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Kingsrose secures exploration permit for Penikat Area 6 in Finland",
+      "category": "INDUSTRY",
+      "date": "2026-10-15T13:24:07+00:00",
+      "url": "https://www.mining-technology.com/news/kingsrose-exploration-permit-penikat-finland/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Yukon Metals identifies copper-gold system at Viper prospect",
+      "category": "INDUSTRY",
+      "date": "2026-10-15T10:15:14+00:00",
+      "url": "https://www.mining-technology.com/news/yukon-copper-gold-system-viper/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Systemiq and ERM report assesses future impacts of mining to 2050",
       "category": "INDUSTRY",
       "date": "2026-10-15T07:30:36+00:00",
@@ -9570,5 +9586,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-15T10:59:18.565360+00:00"
+  "last_updated_utc": "2026-10-15T16:28:31.468180+00:00"
 }

@@ -2,6 +2,102 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Opinion: What’s actually holding XR back in engineering",
+      "category": "MECHANICAL",
+      "date": "2026-10-15T16:00:50+00:00",
+      "url": "https://www.engineering.com/opinion-whats-actually-holding-xr-back-in-engineering/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Formlabs introduces Form Studio 1 resin 3D printer",
+      "category": "MECHANICAL",
+      "date": "2026-10-15T14:34:13+00:00",
+      "url": "https://www.engineering.com/formlabs-introduces-form-studio-1-resin-3d-printer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Avista and Heddian look to rewrite the utility communications playbook",
+      "category": "RENEWABLE",
+      "date": "2026-10-15T13:57:57+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/avista-and-heddian-look-to-rewrite-the-utility-communications-playbook/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "DOE to help TVA fund 2.5 GW of capacity across 84 grid projects",
+      "category": "RENEWABLE",
+      "date": "2026-10-15T13:25:39+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/doe-to-help-tva-fund-2-5-gw-of-capacity-across-84-grid-projects/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Kingsrose secures exploration permit for Penikat Area 6 in Finland",
+      "category": "INDUSTRY",
+      "date": "2026-10-15T13:24:07+00:00",
+      "url": "https://www.mining-technology.com/news/kingsrose-exploration-permit-penikat-finland/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Altair integrates Iridium satellite connectivity into IoT chipsets",
+      "category": "MECHANICAL",
+      "date": "2026-10-15T12:38:22+00:00",
+      "url": "https://www.engineering.com/altair-integrates-iridium-satellite-connectivity-into-iot-chipsets/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nemetschek named a Leader in IDC MarketScape assessment",
+      "category": "MECHANICAL",
+      "date": "2026-10-15T12:33:33+00:00",
+      "url": "https://www.engineering.com/nemetschek-named-a-leader-in-idc-marketscape-assessment/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MathWorks expands AI guidance for ISO 26262 compliance",
+      "category": "MECHANICAL",
+      "date": "2026-10-15T12:18:14+00:00",
+      "url": "https://www.engineering.com/mathworks-expands-ai-guidance-for-iso-26262-compliance/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lockheed Martin expands munitions manufacturing in Texas",
+      "category": "MECHANICAL",
+      "date": "2026-10-15T11:37:26+00:00",
+      "url": "https://www.engineering.com/lockheed-martin-expands-munitions-manufacturing-in-texas/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rescale and Honda expand digital engineering partnership",
+      "category": "MECHANICAL",
+      "date": "2026-10-15T11:30:39+00:00",
+      "url": "https://www.engineering.com/rescale-and-honda-expand-digital-engineering-partnership/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hesai launches 3D data engine for physical AI",
+      "category": "MECHANICAL",
+      "date": "2026-10-15T11:23:06+00:00",
+      "url": "https://www.engineering.com/hesai-launches-3d-data-engine-for-physical-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Yukon Metals identifies copper-gold system at Viper prospect",
+      "category": "INDUSTRY",
+      "date": "2026-10-15T10:15:14+00:00",
+      "url": "https://www.mining-technology.com/news/yukon-copper-gold-system-viper/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Distributed energy is the fastest fix for AI’s power crunch",
       "category": "RENEWABLE",
       "date": "2026-10-15T10:00:00+00:00",
@@ -52706,5 +52802,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-15T10:59:18.565360+00:00"
+  "last_updated_utc": "2026-10-15T16:28:31.468180+00:00"
 }
