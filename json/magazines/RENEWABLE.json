@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Distributed energy is the fastest fix for AI’s power crunch",
+      "category": "RENEWABLE",
+      "date": "2026-10-15T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/distribution/distributed-energy-is-the-fastest-fix-for-ais-power-crunch/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Moving from reactive repairs to proactive grid management with Don Reeves from Itron",
       "category": "RENEWABLE",
       "date": "2026-10-14T14:35:43+00:00",
@@ -4090,5 +4098,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-15T03:37:42.413797+00:00"
+  "last_updated_utc": "2026-10-15T10:59:18.565360+00:00"
 }
