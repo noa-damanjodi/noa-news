@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Atomionics survey matches Indian iron ore estimate using quantum tech",
+      "category": "INDUSTRY",
+      "date": "2026-10-16T07:37:46+00:00",
+      "url": "https://www.mining-technology.com/news/atomionics-indian-iron-estimate-quantum-tech/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Tharisa signs PGM offtake deal with Valterra Platinum subsidiary",
+      "category": "INDUSTRY",
+      "date": "2026-10-16T07:10:21+00:00",
+      "url": "https://www.mining-technology.com/news/tharisa-pgm-offtake-valterra-platinum/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Blue Lagoon confirms first finalised gold output from Dome Mountain",
+      "category": "INDUSTRY",
+      "date": "2026-10-15T13:39:02+00:00",
+      "url": "https://www.mining-technology.com/news/blue-lagoon-first-finalised-gold-dome-mountain/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Kingsrose secures exploration permit for Penikat Area 6 in Finland",
       "category": "INDUSTRY",
       "date": "2026-10-15T13:24:07+00:00",
@@ -9586,5 +9610,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-16T03:33:44.051446+00:00"
+  "last_updated_utc": "2026-10-16T10:54:22.453056+00:00"
 }

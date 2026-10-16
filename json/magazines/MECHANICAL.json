@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Elektrobit and Microchip streamline AUTOSAR software development",
+      "category": "MECHANICAL",
+      "date": "2026-10-16T07:02:12+00:00",
+      "url": "https://www.engineering.com/elektrobit-and-microchip-streamline-autosar-software-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "FF launches Nova humanoid robots and Physical AI programs",
+      "category": "MECHANICAL",
+      "date": "2026-10-16T06:57:12+00:00",
+      "url": "https://www.engineering.com/ff-launches-nova-humanoid-robots-and-physical-ai-programs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens partners with Skeleton on data center power systems",
+      "category": "MECHANICAL",
+      "date": "2026-10-16T06:28:10+00:00",
+      "url": "https://www.engineering.com/siemens-partners-with-skeleton-on-data-center-power-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IBM and Siemens collaborate to advance 3D nanostack technology",
+      "category": "MECHANICAL",
+      "date": "2026-10-16T06:24:26+00:00",
+      "url": "https://www.engineering.com/ibm-and-siemens-collaborate-to-advance-3d-nanostack-technology/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Opinion: What’s actually holding XR back in engineering",
       "category": "MECHANICAL",
       "date": "2026-10-15T16:00:50+00:00",
@@ -14458,5 +14490,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-16T03:33:44.051446+00:00"
+  "last_updated_utc": "2026-10-16T10:54:22.453056+00:00"
 }
