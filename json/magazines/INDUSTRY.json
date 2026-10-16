@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Estrella Resources secures approval for first Laleno Dome drilling",
+      "category": "INDUSTRY",
+      "date": "2026-10-16T13:42:52+00:00",
+      "url": "https://www.mining-technology.com/news/estrella-resources-approval-laleno-dome-drilling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "CoTec, BMR plan partnership to boost Punitaqui copper production",
+      "category": "INDUSTRY",
+      "date": "2026-10-16T10:02:47+00:00",
+      "url": "https://www.mining-technology.com/news/cotec-bmr-punitaqui-copper-production/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Mining finance rises 55% as biodiversity report flags risks",
+      "category": "INDUSTRY",
+      "date": "2026-10-16T09:52:43+00:00",
+      "url": "https://www.mining-technology.com/news/mining-finance-rises-55-as-biodiversity-report-flags-risks/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Atomionics survey matches Indian iron ore estimate using quantum tech",
       "category": "INDUSTRY",
       "date": "2026-10-16T07:37:46+00:00",
@@ -9610,5 +9634,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-16T10:54:22.453056+00:00"
+  "last_updated_utc": "2026-10-16T16:14:09.623344+00:00"
 }
