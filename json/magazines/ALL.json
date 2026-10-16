@@ -2,6 +2,30 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Temporary microgrids provide a blueprint for a flexible, resilient power grid",
+      "category": "RENEWABLE",
+      "date": "2026-10-16T18:20:58+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/microgrid/temporary-microgrids-provide-a-blueprint-for-a-flexible-resilient-power-grid/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Do workers stay quiet about their health conditions?",
+      "category": "SAFETY",
+      "date": "2026-10-16T17:20:15+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/do-workers-stay-quiet-about-their-health-conditions/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "IIHS unveils front crash prevention ratings for small commercial vehicles",
+      "category": "SAFETY",
+      "date": "2026-10-16T16:18:16+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/iihs-unveils-front-crash-prevention-ratings-for-small-commercial-vehicles/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Semiconductor companies adopt CUDA-X libraries for AI-defined fabs",
       "category": "MECHANICAL",
       "date": "2026-10-16T15:08:08+00:00",
@@ -10,7 +34,7 @@
       "type": "magazine"
     },
     {
-      "title": "Materials handing in construction: New toolbox on lifting and carrying",
+      "title": "Materials handing in construction: New toolbox talk on lifting and carrying",
       "category": "SAFETY",
       "date": "2026-10-16T15:03:07+00:00",
       "url": "https://www.safetyandhealthmagazine.com/materials-handing-in-construction-new-toolbox-on-lifting-and-carrying/",
@@ -52938,5 +52962,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-16T16:14:09.623344+00:00"
+  "last_updated_utc": "2026-10-16T20:36:34.919558+00:00"
 }
