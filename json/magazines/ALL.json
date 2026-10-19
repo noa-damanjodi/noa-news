@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Canada invests $270M for New Brunswick hydro, transmission development",
+      "category": "RENEWABLE",
+      "date": "2026-10-19T20:30:31+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/canada-invests-270m-for-new-brunswick-hydro-transmission-development/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "New California laws place limits on employers’ use of AI",
+      "category": "SAFETY",
+      "date": "2026-10-19T19:19:46+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-california-laws-place-limits-on-employers-use-of-ai/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Beauty products lead to thousands of eye injuries, data shows",
+      "category": "SAFETY",
+      "date": "2026-10-19T19:10:14+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/beauty-products-lead-to-thousands-of-eye-injuries-data-shows/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Arizona joins lawsuit challenging the federal government’s plan for the Colorado River",
+      "category": "RENEWABLE",
+      "date": "2026-10-19T18:49:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/arizona-joins-lawsuit-challenging-the-federal-governments-plan-for-the-colorado-river/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "KUKA releases iiQKA.AI Vision software",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-19T16:52:39+00:00",
+      "url": "https://www.automationmag.com/kuka-releases-iiqka-ai-vision-software/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Developing high-tech irrigation for remote Brazilian agriculture",
+      "category": "MECHANICAL",
+      "date": "2026-10-19T16:17:43+00:00",
+      "url": "https://www.engineering.com/developing-high-tech-irrigation-for-remote-brazilian-agriculture/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ILO issues guidance on safety and health priorities for retail sector",
+      "category": "SAFETY",
+      "date": "2026-10-19T15:39:05+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/ilo-issues-guidance-on-safety-and-health-priorities-for-retail-sector/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "What is your workplace doing to prevent falls? Share it with CPWR",
+      "category": "SAFETY",
+      "date": "2026-10-19T14:59:07+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/what-is-your-workplace-doing-to-prevent-falls-share-it-with-cpwr/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "NVIDIA introduces RTX Spark laptops for local AI and accelerated computing",
       "category": "MECHANICAL",
       "date": "2026-10-19T11:35:03+00:00",
@@ -53074,5 +53138,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-19T12:25:15.524997+00:00"
+  "last_updated_utc": "2026-10-19T22:04:24.562188+00:00"
 }
