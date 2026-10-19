@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Reliability in action: Littleton’s Hendrix ACS success story",
+      "category": "RENEWABLE",
+      "date": "2026-10-19T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/distribution/reliability-in-action-littletons-hendrix-acs-success-story/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Virtual insanity | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-10-19T09:55:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/virtual-insanity-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Temporary microgrids provide a blueprint for a flexible, resilient power grid",
       "category": "RENEWABLE",
       "date": "2026-10-16T18:20:58+00:00",
@@ -4122,5 +4138,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-19T03:40:44.736015+00:00"
+  "last_updated_utc": "2026-10-19T12:25:15.524997+00:00"
 }

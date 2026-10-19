@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "NVIDIA introduces RTX Spark laptops for local AI and accelerated computing",
+      "category": "MECHANICAL",
+      "date": "2026-10-19T11:35:03+00:00",
+      "url": "https://www.engineering.com/nvidia-introduces-rtx-spark-laptops-for-local-ai-and-accelerated-computing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "U.S. Air Force renews PTC Servigistics supply chain use",
+      "category": "MECHANICAL",
+      "date": "2026-10-19T11:26:12+00:00",
+      "url": "https://www.engineering.com/u-s-air-force-renews-ptc-servigistics-supply-chain-use/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Oticon Medical selects Aras for new PLM solution",
+      "category": "MECHANICAL",
+      "date": "2026-10-19T10:27:43+00:00",
+      "url": "https://www.engineering.com/oticon-medical-selects-aras-for-new-plm-solution/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Volvo Cars expands NVIDIA partnership for automated driving",
+      "category": "MECHANICAL",
+      "date": "2026-10-19T10:24:19+00:00",
+      "url": "https://www.engineering.com/volvo-cars-expands-nvidia-partnership-for-automated-driving/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Voxel51 3.0 expands platform for physical AI datasets",
+      "category": "MECHANICAL",
+      "date": "2026-10-19T10:19:12+00:00",
+      "url": "https://www.engineering.com/voxel51-3-0-expands-platform-for-physical-ai-datasets/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Zesty adds autonomous GPU fractioning for Kubernetes AI workloads",
+      "category": "MECHANICAL",
+      "date": "2026-10-19T10:08:59+00:00",
+      "url": "https://www.engineering.com/zesty-adds-autonomous-gpu-fractioning-for-kubernetes-ai-workloads/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Reliability in action: Littleton’s Hendrix ACS success story",
+      "category": "RENEWABLE",
+      "date": "2026-10-19T10:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/distribution/reliability-in-action-littletons-hendrix-acs-success-story/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Cobalt Blue signs offtake term sheet with STG Metals",
+      "category": "INDUSTRY",
+      "date": "2026-10-19T09:57:22+00:00",
+      "url": "https://www.mining-technology.com/news/cobalt-blue-offtake-term-sheet-stg/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Virtual insanity | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-10-19T09:55:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/virtual-insanity-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "BAE Systems wins contract for space-based RF terminals",
+      "category": "MECHANICAL",
+      "date": "2026-10-19T09:27:51+00:00",
+      "url": "https://www.engineering.com/bae-systems-wins-contract-for-space-based-rf-terminals/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Flynn Gold extends gold-tungsten mineralisation at Firetower Project",
+      "category": "INDUSTRY",
+      "date": "2026-10-19T07:25:14+00:00",
+      "url": "https://www.mining-technology.com/news/flynn-gold-extends-gold-tungsten-firetower/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Mining’s separation debate is asking the wrong questions",
+      "category": "INDUSTRY",
+      "date": "2026-10-19T07:00:00+00:00",
+      "url": "https://www.mining-technology.com/opinion/minings-separation-debate-is-asking-the-wrong-questions/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Fortescue sells copper concentrate cleaned with arsenic removal process",
+      "category": "INDUSTRY",
+      "date": "2026-10-19T06:58:25+00:00",
+      "url": "https://www.mining-technology.com/news/fortescue-copper-cleaned-arsenic-removal/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Temporary microgrids provide a blueprint for a flexible, resilient power grid",
       "category": "RENEWABLE",
       "date": "2026-10-16T18:20:58+00:00",
@@ -55,6 +159,14 @@
       "date": "2026-10-16T14:43:26+00:00",
       "url": "https://www.automationmag.com/government-of-ontario-welcomes-479-million-advanced-manufacturing-investment-in-london/",
       "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Arrow Minerals to acquire Turee Creek Iron Ore Project",
+      "category": "INDUSTRY",
+      "date": "2026-10-16T14:12:30+00:00",
+      "url": "https://www.mining-technology.com/news/arrow-to-acquire-turee-creek-project/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -52962,5 +53074,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-19T03:40:44.736015+00:00"
+  "last_updated_utc": "2026-10-19T12:25:15.524997+00:00"
 }

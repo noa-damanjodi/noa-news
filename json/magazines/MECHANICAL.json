@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "NVIDIA introduces RTX Spark laptops for local AI and accelerated computing",
+      "category": "MECHANICAL",
+      "date": "2026-10-19T11:35:03+00:00",
+      "url": "https://www.engineering.com/nvidia-introduces-rtx-spark-laptops-for-local-ai-and-accelerated-computing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "U.S. Air Force renews PTC Servigistics supply chain use",
+      "category": "MECHANICAL",
+      "date": "2026-10-19T11:26:12+00:00",
+      "url": "https://www.engineering.com/u-s-air-force-renews-ptc-servigistics-supply-chain-use/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Oticon Medical selects Aras for new PLM solution",
+      "category": "MECHANICAL",
+      "date": "2026-10-19T10:27:43+00:00",
+      "url": "https://www.engineering.com/oticon-medical-selects-aras-for-new-plm-solution/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Volvo Cars expands NVIDIA partnership for automated driving",
+      "category": "MECHANICAL",
+      "date": "2026-10-19T10:24:19+00:00",
+      "url": "https://www.engineering.com/volvo-cars-expands-nvidia-partnership-for-automated-driving/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Voxel51 3.0 expands platform for physical AI datasets",
+      "category": "MECHANICAL",
+      "date": "2026-10-19T10:19:12+00:00",
+      "url": "https://www.engineering.com/voxel51-3-0-expands-platform-for-physical-ai-datasets/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Zesty adds autonomous GPU fractioning for Kubernetes AI workloads",
+      "category": "MECHANICAL",
+      "date": "2026-10-19T10:08:59+00:00",
+      "url": "https://www.engineering.com/zesty-adds-autonomous-gpu-fractioning-for-kubernetes-ai-workloads/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "BAE Systems wins contract for space-based RF terminals",
+      "category": "MECHANICAL",
+      "date": "2026-10-19T09:27:51+00:00",
+      "url": "https://www.engineering.com/bae-systems-wins-contract-for-space-based-rf-terminals/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Semiconductor companies adopt CUDA-X libraries for AI-defined fabs",
       "category": "MECHANICAL",
       "date": "2026-10-16T15:08:08+00:00",
@@ -14522,5 +14578,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-19T03:40:44.736015+00:00"
+  "last_updated_utc": "2026-10-19T12:25:15.524997+00:00"
 }
