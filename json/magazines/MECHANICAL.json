@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "HP introduces OmniBook 5 and ProBook 4 laptops",
+      "category": "MECHANICAL",
+      "date": "2026-10-20T12:53:11+00:00",
+      "url": "https://www.engineering.com/hp-introduces-omnibook-5-and-probook-4-laptops/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens releases modular SCADAS ES data acquisition hardware",
+      "category": "MECHANICAL",
+      "date": "2026-10-20T12:26:03+00:00",
+      "url": "https://www.engineering.com/siemens-releases-modular-scadas-es-data-acquisition-hardware/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Greenland plans local manufacturing with robotic 3D printing",
+      "category": "MECHANICAL",
+      "date": "2026-10-20T12:13:41+00:00",
+      "url": "https://www.engineering.com/greenland-plans-local-manufacturing-with-robotic-3d-printing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "VI-grade appoints Leonardo Pascali as managing director",
+      "category": "MECHANICAL",
+      "date": "2026-10-20T12:06:47+00:00",
+      "url": "https://www.engineering.com/vi-grade-appoints-leonardo-pascali-as-managing-director/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Xometry appoints Marc Teulières to lead European business",
+      "category": "MECHANICAL",
+      "date": "2026-10-20T11:58:58+00:00",
+      "url": "https://www.engineering.com/xometry-appoints-marc-teulieres-to-lead-european-business/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens launches software to streamline silicon test execution",
+      "category": "MECHANICAL",
+      "date": "2026-10-20T11:52:47+00:00",
+      "url": "https://www.engineering.com/siemens-launches-software-to-streamline-silicon-test-execution/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "HP expands local AI portfolio with NVIDIA-powered systems",
       "category": "MECHANICAL",
       "date": "2026-10-20T10:31:34+00:00",
@@ -14594,5 +14642,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-20T11:02:55.603170+00:00"
+  "last_updated_utc": "2026-10-20T16:28:56.406118+00:00"
 }

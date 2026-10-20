@@ -2,6 +2,30 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "The state of trade",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-20T15:01:58+00:00",
+      "url": "https://www.automationmag.com/the-state-of-trade/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "AGCO and Agility Robotics partner on humanoid deployment in U.S. factory",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-20T14:27:47+00:00",
+      "url": "https://www.automationmag.com/agco-and-agility-robotics-partner-on-humanoid-deployment-in-u-s-factory/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "beRobox unveils PALTZ palletizer featuring 3D Dynamic Safety module at PACK EXPO 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-20T14:03:07+00:00",
+      "url": "https://www.automationmag.com/berobox-unveils-paltz-palletizer-featuring-3d-dynamic-safety-module-at-pack-expo-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "KUKA releases iiQKA.AI Vision software",
       "category": "INSTRUMENTATION",
       "date": "2026-10-19T16:52:39+00:00",
@@ -3218,5 +3242,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-20T11:02:55.603170+00:00"
+  "last_updated_utc": "2026-10-20T16:28:56.406118+00:00"
 }
