@@ -2,6 +2,38 @@
   "category": "ALL",
   "items": [
     {
+      "title": "In conversation with the head of HP Additive Manufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-10-21T20:27:12+00:00",
+      "url": "https://www.engineering.com/in-conversation-with-the-head-of-hp-additive-manufacturing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Amazon Takes on Another Industry: Robotics",
+      "category": "MECHANICAL",
+      "date": "2026-10-21T20:00:00+00:00",
+      "url": "https://www.engineering.com/amazon-takes-on-another-industry-robotics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NTSB to FRA: Don’t allow railcar riding during shoving movements",
+      "category": "SAFETY",
+      "date": "2026-10-21T17:37:18+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/ntsb-to-fra-dont-allow-railcar-riding-during-shoving-movements/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Safety group to employers: Look within your workplace to find and grow EHS talent",
+      "category": "SAFETY",
+      "date": "2026-10-21T17:18:45+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safety-group-to-employers-look-within-your-workplace-to-find-and-grow-ehs-talent/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Hybrid workers more sedentary when at home, new research shows",
       "category": "SAFETY",
       "date": "2026-10-21T16:35:34+00:00",
@@ -53418,5 +53450,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-21T16:46:22.932252+00:00"
+  "last_updated_utc": "2026-10-21T21:21:17.186448+00:00"
 }

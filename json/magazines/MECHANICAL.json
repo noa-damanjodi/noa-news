@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "In conversation with the head of HP Additive Manufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-10-21T20:27:12+00:00",
+      "url": "https://www.engineering.com/in-conversation-with-the-head-of-hp-additive-manufacturing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Amazon Takes on Another Industry: Robotics",
+      "category": "MECHANICAL",
+      "date": "2026-10-21T20:00:00+00:00",
+      "url": "https://www.engineering.com/amazon-takes-on-another-industry-robotics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "AI that understands physics",
       "category": "MECHANICAL",
       "date": "2026-10-21T16:08:37+00:00",
@@ -14706,5 +14722,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-21T16:46:22.932252+00:00"
+  "last_updated_utc": "2026-10-21T21:21:17.186448+00:00"
 }
