@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Mitsubishi grants approval for Copper World mine in Arizona",
+      "category": "INDUSTRY",
+      "date": "2026-10-21T13:46:18+00:00",
+      "url": "https://www.mining-technology.com/news/mitsubishi-approval-copper-world-arizona/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Phoenix Tailings to open $375m rare earth facility in Rochester, NY",
+      "category": "INDUSTRY",
+      "date": "2026-10-21T13:33:42+00:00",
+      "url": "https://www.mining-technology.com/news/phoenix-375m-rare-earth-facility-rochester/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Automotive transition reshapes platinum’s mine-to-market supply chain",
+      "category": "INDUSTRY",
+      "date": "2026-10-21T11:55:00+00:00",
+      "url": "https://www.mining-technology.com/features/automotive-transition-reshapes-platinums-mine-to-market-supply-chain/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Caterpillar to supply off-grid power for remote Kazakhstan gold mine",
+      "category": "INDUSTRY",
+      "date": "2026-10-21T11:45:00+00:00",
+      "url": "https://www.mining-technology.com/news/caterpillar-to-supply-off-grid-power-for-remote-kazakhstan-gold-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Gordon Mining agrees to acquire Tungsten Tail project in New Mexico",
       "category": "INDUSTRY",
       "date": "2026-10-21T09:15:19+00:00",
@@ -9722,5 +9754,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-21T11:19:38.664828+00:00"
+  "last_updated_utc": "2026-10-21T16:46:22.932252+00:00"
 }

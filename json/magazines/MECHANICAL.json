@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "AI that understands physics",
+      "category": "MECHANICAL",
+      "date": "2026-10-21T16:08:37+00:00",
+      "url": "https://www.engineering.com/ai-that-understands-physics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Socionext expands AI-based design across SoC development",
+      "category": "MECHANICAL",
+      "date": "2026-10-21T15:27:33+00:00",
+      "url": "https://www.engineering.com/socionext-expands-ai-based-design-across-soc-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens tests AI manufacturing tools at Erlangen plant",
+      "category": "MECHANICAL",
+      "date": "2026-10-21T13:05:24+00:00",
+      "url": "https://www.engineering.com/siemens-tests-ai-manufacturing-tools-at-erlangen-plant/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Octave named a Leader in two ARC technology reports",
       "category": "MECHANICAL",
       "date": "2026-10-21T10:48:38+00:00",
@@ -14682,5 +14706,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-21T11:19:38.664828+00:00"
+  "last_updated_utc": "2026-10-21T16:46:22.932252+00:00"
 }

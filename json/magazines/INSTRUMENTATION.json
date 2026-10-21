@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Schneider Electric unveils new AI data centre reference designs with NVIDIA",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-21T14:28:27+00:00",
+      "url": "https://www.automationmag.com/schneider-electric-unveils-new-ai-data-centre-reference-designs-with-nvidia/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Robotiq launches the 2FC physical AI gripper",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-21T13:54:23+00:00",
+      "url": "https://www.automationmag.com/robotiq-launches-the-2fc-physical-ai-gripper/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "The state of trade",
       "category": "INSTRUMENTATION",
       "date": "2026-10-20T15:01:58+00:00",
@@ -3242,5 +3258,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-21T11:19:38.664828+00:00"
+  "last_updated_utc": "2026-10-21T16:46:22.932252+00:00"
 }

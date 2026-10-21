@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Hybrid workers more sedentary when at home, new research shows",
+      "category": "SAFETY",
+      "date": "2026-10-21T16:35:34+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/hybrid-workers-more-sedentary-when-at-home-new-research-shows/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "AI that understands physics",
+      "category": "MECHANICAL",
+      "date": "2026-10-21T16:08:37+00:00",
+      "url": "https://www.engineering.com/ai-that-understands-physics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Socionext expands AI-based design across SoC development",
+      "category": "MECHANICAL",
+      "date": "2026-10-21T15:27:33+00:00",
+      "url": "https://www.engineering.com/socionext-expands-ai-based-design-across-soc-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Electric unveils new AI data centre reference designs with NVIDIA",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-21T14:28:27+00:00",
+      "url": "https://www.automationmag.com/schneider-electric-unveils-new-ai-data-centre-reference-designs-with-nvidia/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Robotiq launches the 2FC physical AI gripper",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-21T13:54:23+00:00",
+      "url": "https://www.automationmag.com/robotiq-launches-the-2fc-physical-ai-gripper/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi grants approval for Copper World mine in Arizona",
+      "category": "INDUSTRY",
+      "date": "2026-10-21T13:46:18+00:00",
+      "url": "https://www.mining-technology.com/news/mitsubishi-approval-copper-world-arizona/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Phoenix Tailings to open $375m rare earth facility in Rochester, NY",
+      "category": "INDUSTRY",
+      "date": "2026-10-21T13:33:42+00:00",
+      "url": "https://www.mining-technology.com/news/phoenix-375m-rare-earth-facility-rochester/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens tests AI manufacturing tools at Erlangen plant",
+      "category": "MECHANICAL",
+      "date": "2026-10-21T13:05:24+00:00",
+      "url": "https://www.engineering.com/siemens-tests-ai-manufacturing-tools-at-erlangen-plant/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Automotive transition reshapes platinum’s mine-to-market supply chain",
+      "category": "INDUSTRY",
+      "date": "2026-10-21T11:55:00+00:00",
+      "url": "https://www.mining-technology.com/features/automotive-transition-reshapes-platinums-mine-to-market-supply-chain/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Caterpillar to supply off-grid power for remote Kazakhstan gold mine",
+      "category": "INDUSTRY",
+      "date": "2026-10-21T11:45:00+00:00",
+      "url": "https://www.mining-technology.com/news/caterpillar-to-supply-off-grid-power-for-remote-kazakhstan-gold-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Octave named a Leader in two ARC technology reports",
       "category": "MECHANICAL",
       "date": "2026-10-21T10:48:38+00:00",
@@ -53338,5 +53418,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-21T11:19:38.664828+00:00"
+  "last_updated_utc": "2026-10-21T16:46:22.932252+00:00"
 }
