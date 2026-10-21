@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Gordon Mining agrees to acquire Tungsten Tail project in New Mexico",
+      "category": "INDUSTRY",
+      "date": "2026-10-21T09:15:19+00:00",
+      "url": "https://www.mining-technology.com/news/gordon-to-acquire-tungsten-tail-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Gladiator initiates expanded exploration at Whitehorse Copper Project",
+      "category": "INDUSTRY",
+      "date": "2026-10-21T07:40:49+00:00",
+      "url": "https://www.mining-technology.com/news/gladiator-expanded-exploration-whitehorse-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "BHP reports decline in Q1 FY27 copper production",
+      "category": "INDUSTRY",
+      "date": "2026-10-21T07:30:54+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-decline-q1-fy27-copper/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Kenya must look beyond concentrate to realise Mrima Hill’s potential",
       "category": "INDUSTRY",
       "date": "2026-10-20T09:11:57+00:00",
@@ -9698,5 +9722,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-21T03:41:57.129152+00:00"
+  "last_updated_utc": "2026-10-21T11:19:38.664828+00:00"
 }

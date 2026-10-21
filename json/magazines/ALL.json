@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Octave named a Leader in two ARC technology reports",
+      "category": "MECHANICAL",
+      "date": "2026-10-21T10:48:38+00:00",
+      "url": "https://www.engineering.com/octave-named-a-leader-in-two-arc-technology-reports/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Deloitte and Sirion form U.S. alliance for AI contract management",
+      "category": "MECHANICAL",
+      "date": "2026-10-21T10:37:27+00:00",
+      "url": "https://www.engineering.com/deloitte-and-sirion-form-u-s-alliance-for-ai-contract-management/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "FANUC opens largest U.S. robotics training center",
+      "category": "MECHANICAL",
+      "date": "2026-10-21T09:50:59+00:00",
+      "url": "https://www.engineering.com/fanuc-opens-largest-u-s-robotics-training-center/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Honeywell launches agentic AI platform for facility operations",
+      "category": "MECHANICAL",
+      "date": "2026-10-21T09:32:11+00:00",
+      "url": "https://www.engineering.com/honeywell-launches-agentic-ai-platform-for-facility-operations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight expands interconnect testing with 16-channel system",
+      "category": "MECHANICAL",
+      "date": "2026-10-21T09:24:39+00:00",
+      "url": "https://www.engineering.com/keysight-expands-interconnect-testing-with-16-channel-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Gordon Mining agrees to acquire Tungsten Tail project in New Mexico",
+      "category": "INDUSTRY",
+      "date": "2026-10-21T09:15:19+00:00",
+      "url": "https://www.mining-technology.com/news/gordon-to-acquire-tungsten-tail-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Gladiator initiates expanded exploration at Whitehorse Copper Project",
+      "category": "INDUSTRY",
+      "date": "2026-10-21T07:40:49+00:00",
+      "url": "https://www.mining-technology.com/news/gladiator-expanded-exploration-whitehorse-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "BHP reports decline in Q1 FY27 copper production",
+      "category": "INDUSTRY",
+      "date": "2026-10-21T07:30:54+00:00",
+      "url": "https://www.mining-technology.com/news/bhp-decline-q1-fy27-copper/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Deadly chemical tank failure prompts call for follow-through on corrective actions",
       "category": "SAFETY",
       "date": "2026-10-20T16:12:18+00:00",
@@ -53274,5 +53338,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-21T03:41:57.129152+00:00"
+  "last_updated_utc": "2026-10-21T11:19:38.664828+00:00"
 }
