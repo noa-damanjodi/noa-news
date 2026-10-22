@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Metals Exploration resumes construction at La India site",
+      "category": "INDUSTRY",
+      "date": "2026-10-22T09:58:34+00:00",
+      "url": "https://www.mining-technology.com/news/metals-exploration-resumes-construction-la-india/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "SAGA concludes first drill programme at Labrador Wolverine project",
+      "category": "INDUSTRY",
+      "date": "2026-10-22T08:05:47+00:00",
+      "url": "https://www.mining-technology.com/news/saga-concludes-first-drill-programme-at-labrador-wolverine-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Krait secures exclusive option to acquire Nevada mining claims",
+      "category": "INDUSTRY",
+      "date": "2026-10-22T07:44:48+00:00",
+      "url": "https://www.mining-technology.com/news/krait-acquire-nevada-mining-claims/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Mitsubishi grants approval for Copper World mine in Arizona",
       "category": "INDUSTRY",
       "date": "2026-10-21T13:46:18+00:00",
@@ -9754,5 +9778,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-22T03:41:41.850970+00:00"
+  "last_updated_utc": "2026-10-22T11:19:09.860977+00:00"
 }

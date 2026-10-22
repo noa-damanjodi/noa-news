@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Accenture, Dragos and SANS launch utility cyber defense initiative",
+      "category": "MECHANICAL",
+      "date": "2026-10-22T10:20:56+00:00",
+      "url": "https://www.engineering.com/accenture-dragos-and-sans-launch-utility-cyber-defense-initiative/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Schneider Electric, AVEVA, Nscale and Start Campus pilot AI digital twin",
+      "category": "MECHANICAL",
+      "date": "2026-10-22T10:13:42+00:00",
+      "url": "https://www.engineering.com/schneider-electric-aveva-nscale-and-start-campus-pilot-ai-digital-twin/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rochester supports long-life Intel x86 processor systems",
+      "category": "MECHANICAL",
+      "date": "2026-10-22T09:06:40+00:00",
+      "url": "https://www.engineering.com/rochester-supports-long-life-intel-x86-processor-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mouser stocks BrightSense 5.1 MP CMOS image sensors",
+      "category": "MECHANICAL",
+      "date": "2026-10-22T08:59:29+00:00",
+      "url": "https://www.engineering.com/mouser-stocks-brightsense-5-1-mp-cmos-image-sensors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "In conversation with the head of HP Additive Manufacturing",
       "category": "MECHANICAL",
       "date": "2026-10-21T20:27:12+00:00",
@@ -14722,5 +14754,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-22T03:41:41.850970+00:00"
+  "last_updated_utc": "2026-10-22T11:19:09.860977+00:00"
 }
