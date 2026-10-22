@@ -2,6 +2,30 @@
   "category": "SAFETY",
   "items": [
     {
+      "title": "Work safely around hydrogen sulfide",
+      "category": "SAFETY",
+      "date": "2026-10-22T05:00:54+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/work-safely-around-hydrogen-sulfide/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "FACE Report: Driver killed and co-worker injured when truck brakes fail",
+      "category": "SAFETY",
+      "date": "2026-10-22T05:00:27+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/face-report-driver-killed-and-co-worker-injured-when-truck-brakes-fail/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Do you know the ‘30-30’ rule for lightning?",
+      "category": "SAFETY",
+      "date": "2026-10-22T05:00:11+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/do-you-know-the-30-30-rule-for-lightning/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "NTSB to FRA: Don’t allow railcar riding during shoving movements",
       "category": "SAFETY",
       "date": "2026-10-21T17:37:18+00:00",
@@ -5474,5 +5498,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-22T11:19:09.860977+00:00"
+  "last_updated_utc": "2026-10-22T16:46:42.587174+00:00"
 }
