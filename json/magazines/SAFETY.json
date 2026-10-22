@@ -18,10 +18,18 @@
       "type": "magazine"
     },
     {
-      "title": "Do you know the ‘30-30’ rule for lightning?",
+      "title": "Do you know the ‘30-30 rule’ for lightning?",
       "category": "SAFETY",
       "date": "2026-10-22T05:00:11+00:00",
       "url": "https://www.safetyandhealthmagazine.com/do-you-know-the-30-30-rule-for-lightning/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Time for a microbreak?",
+      "category": "SAFETY",
+      "date": "2026-10-22T05:00:09+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/time-for-a-microbreak/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -5498,5 +5506,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-22T16:46:42.587174+00:00"
+  "last_updated_utc": "2026-10-22T21:16:53.079771+00:00"
 }
