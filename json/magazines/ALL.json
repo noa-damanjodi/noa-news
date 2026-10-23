@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "AIAA forms team to define CFD priorities through 2045",
+      "category": "MECHANICAL",
+      "date": "2026-10-23T13:40:58+00:00",
+      "url": "https://www.engineering.com/aiaa-forms-team-to-define-cfd-priorities-through-2045/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA expands Isaac tools for humanoid robot development",
+      "category": "MECHANICAL",
+      "date": "2026-10-23T13:22:39+00:00",
+      "url": "https://www.engineering.com/nvidia-expands-isaac-tools-for-humanoid-robot-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble adds dual GNSS receivers to Earthworks platform",
+      "category": "MECHANICAL",
+      "date": "2026-10-23T13:03:40+00:00",
+      "url": "https://www.engineering.com/trimble-adds-dual-gnss-receivers-to-earthworks-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Sandvik to deliver 25 underground units to Northern Star in Australia",
+      "category": "INDUSTRY",
+      "date": "2026-10-23T12:27:39+00:00",
+      "url": "https://www.mining-technology.com/news/sandvik-underground-units-northern-star/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Thiess secures two five-year mining contracts in Mongolia",
+      "category": "INDUSTRY",
+      "date": "2026-10-23T12:27:08+00:00",
+      "url": "https://www.mining-technology.com/news/thiess-mining-contracts-mongolia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Rio Tinto commits $1.9bn for Queensland’s Kangwinan bauxite project",
       "category": "INDUSTRY",
       "date": "2026-10-23T10:06:17+00:00",
@@ -53722,5 +53762,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-23T11:09:49.894012+00:00"
+  "last_updated_utc": "2026-10-23T16:37:52.023794+00:00"
 }
