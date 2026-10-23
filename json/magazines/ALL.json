@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Rio Tinto commits $1.9bn for Queensland’s Kangwinan bauxite project",
+      "category": "INDUSTRY",
+      "date": "2026-10-23T10:06:17+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-1-9bn-kangwinan-bauxite-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and NVIDIA accelerate computational lithography",
+      "category": "MECHANICAL",
+      "date": "2026-10-23T09:51:15+00:00",
+      "url": "https://www.engineering.com/siemens-and-nvidia-accelerate-computational-lithography/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "GE Vernova to supply gas turbine for Côte d’Ivoire power plant",
+      "category": "MECHANICAL",
+      "date": "2026-10-23T09:43:09+00:00",
+      "url": "https://www.engineering.com/ge-vernova-to-supply-gas-turbine-for-cote-divoire-power-plant/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA expands global manufacturing for AI infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-10-23T09:38:03+00:00",
+      "url": "https://www.engineering.com/nvidia-expands-global-manufacturing-for-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence and Nokia advance AI-driven electronic system design",
+      "category": "MECHANICAL",
+      "date": "2026-10-23T09:19:54+00:00",
+      "url": "https://www.engineering.com/cadence-and-nokia-advance-ai-driven-electronic-system-design/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA DSX advances AI factory deployment across Europe",
+      "category": "MECHANICAL",
+      "date": "2026-10-23T09:14:46+00:00",
+      "url": "https://www.engineering.com/nvidia-dsx-advances-ai-factory-deployment-across-europe/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Metals One agrees terms to acquire full stake in Lions Bay Resources",
+      "category": "INDUSTRY",
+      "date": "2026-10-23T07:16:01+00:00",
+      "url": "https://www.mining-technology.com/news/metals-one-acquire-lions-bay-resources/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Cornish Metals raises $181m to fund South Crofty tin project in UK",
+      "category": "INDUSTRY",
+      "date": "2026-10-23T07:15:03+00:00",
+      "url": "https://www.mining-technology.com/news/cornish-metals-181m-fund-south-crofty/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "PHP2Shell—for manufacturers, the danger goes deeper than a website",
       "category": "MECHANICAL",
       "date": "2026-10-22T20:10:44+00:00",
@@ -53658,5 +53722,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-23T03:46:09.833456+00:00"
+  "last_updated_utc": "2026-10-23T11:09:49.894012+00:00"
 }

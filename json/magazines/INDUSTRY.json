@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Rio Tinto commits $1.9bn for Queensland’s Kangwinan bauxite project",
+      "category": "INDUSTRY",
+      "date": "2026-10-23T10:06:17+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-1-9bn-kangwinan-bauxite-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metals One agrees terms to acquire full stake in Lions Bay Resources",
+      "category": "INDUSTRY",
+      "date": "2026-10-23T07:16:01+00:00",
+      "url": "https://www.mining-technology.com/news/metals-one-acquire-lions-bay-resources/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Cornish Metals raises $181m to fund South Crofty tin project in UK",
+      "category": "INDUSTRY",
+      "date": "2026-10-23T07:15:03+00:00",
+      "url": "https://www.mining-technology.com/news/cornish-metals-181m-fund-south-crofty/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Questcorp to acquire final 49% in North Island Project, Canada",
       "category": "INDUSTRY",
       "date": "2026-10-22T14:51:41+00:00",
@@ -9794,5 +9818,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-23T03:46:09.833456+00:00"
+  "last_updated_utc": "2026-10-23T11:09:49.894012+00:00"
 }
