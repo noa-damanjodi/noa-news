@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Trump again targets offshore wind, risking deal to speed approvals of new energy projects",
+      "category": "RENEWABLE",
+      "date": "2026-10-23T19:43:51+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/offshore/trump-again-targets-offshore-wind-risking-deal-to-speed-approvals-of-new-energy-projects/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "PG&E puts a $22.5B price tag on San Francisco public grid takeover proposal",
       "category": "RENEWABLE",
       "date": "2026-10-22T18:37:22+00:00",
@@ -4178,5 +4186,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-23T21:06:00.619654+00:00"
+  "last_updated_utc": "2026-10-24T03:40:38.083631+00:00"
 }
