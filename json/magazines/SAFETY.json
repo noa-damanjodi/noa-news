@@ -2,18 +2,42 @@
   "category": "SAFETY",
   "items": [
     {
-      "title": "A closer look at NFPA 70B",
+      "title": "New California law aimed at protecting utility workers from assault",
       "category": "SAFETY",
-      "date": "2026-10-26T08:00:56+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/a-closer-look-at-nfpa-70b/",
+      "date": "2026-10-26T17:57:09+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-california-law-aimed-at-protecting-utility-workers-from-assault/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EPA proposal would extend some worker uses of toxic trichloroethylene",
+      "category": "SAFETY",
+      "date": "2026-10-26T16:43:24+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/epa-proposal-would-extend-some-worker-uses-of-toxic-trichloroethylene/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "‘Ergonomics Made Easy’: New guide available",
+      "category": "SAFETY",
+      "date": "2026-10-26T15:35:31+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/ergonomics-made-easy-new-guide-available/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
     {
       "title": "Salary Survey 2026",
       "category": "SAFETY",
-      "date": "2026-10-26T08:00:24+00:00",
+      "date": "2026-10-26T08:01:24+00:00",
       "url": "https://www.safetyandhealthmagazine.com/salary-survey-2026/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "A closer look at NFPA 70B",
+      "category": "SAFETY",
+      "date": "2026-10-26T08:00:56+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/a-closer-look-at-nfpa-70b/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -5610,5 +5634,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-26T12:25:33.028389+00:00"
+  "last_updated_utc": "2026-10-26T22:22:49.795445+00:00"
 }

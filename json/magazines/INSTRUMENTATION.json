@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "From seeing to understanding",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-26T18:54:51+00:00",
+      "url": "https://www.automationmag.com/from-seeing-to-understanding/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Carney, Ford unveil $9B plan to support industries hit by tariff war",
       "category": "INSTRUMENTATION",
       "date": "2026-10-22T18:02:34+00:00",
@@ -3274,5 +3282,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-26T12:25:33.028389+00:00"
+  "last_updated_utc": "2026-10-26T22:22:49.795445+00:00"
 }

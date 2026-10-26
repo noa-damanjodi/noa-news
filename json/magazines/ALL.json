@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Understanding the new era of utility weather risk with Sunny Wescott",
+      "category": "RENEWABLE",
+      "date": "2026-10-26T19:54:33+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/understanding-the-new-era-of-utility-weather-risk-with-sunny-wescott/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Australia’s huge Snowy 2.0 pumped storage project gets a sobering cost adjustment",
+      "category": "RENEWABLE",
+      "date": "2026-10-26T19:50:26+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/pumped-storage/australias-huge-snowy-2-0-pumped-storage-project-gets-a-sobering-cost-adjustment/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "From seeing to understanding",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-26T18:54:51+00:00",
+      "url": "https://www.automationmag.com/from-seeing-to-understanding/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "New California law aimed at protecting utility workers from assault",
+      "category": "SAFETY",
+      "date": "2026-10-26T17:57:09+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-california-law-aimed-at-protecting-utility-workers-from-assault/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EPA proposal would extend some worker uses of toxic trichloroethylene",
+      "category": "SAFETY",
+      "date": "2026-10-26T16:43:24+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/epa-proposal-would-extend-some-worker-uses-of-toxic-trichloroethylene/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "‘Ergonomics Made Easy’: New guide available",
+      "category": "SAFETY",
+      "date": "2026-10-26T15:35:31+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/ergonomics-made-easy-new-guide-available/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Additive Industries updates MetalFab build processing software",
+      "category": "MECHANICAL",
+      "date": "2026-10-26T13:18:12+00:00",
+      "url": "https://www.engineering.com/additive-industries-updates-metalfab-build-processing-software/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Document Crunch adds AI review for construction drawings",
+      "category": "MECHANICAL",
+      "date": "2026-10-26T13:00:11+00:00",
+      "url": "https://www.engineering.com/document-crunch-adds-ai-review-for-construction-drawings/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens, NVIDIA develop AI workflow for PCB inspection",
+      "category": "MECHANICAL",
+      "date": "2026-10-26T12:20:05+00:00",
+      "url": "https://www.engineering.com/siemens-nvidia-develop-ai-workflow-for-pcb-inspection/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Beat the breakdown: Four ways to keep conveyors moving",
       "category": "INDUSTRY",
       "date": "2026-10-26T11:37:16+00:00",
@@ -66,18 +138,18 @@
       "type": "magazine"
     },
     {
-      "title": "A closer look at NFPA 70B",
+      "title": "Salary Survey 2026",
       "category": "SAFETY",
-      "date": "2026-10-26T08:00:56+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/a-closer-look-at-nfpa-70b/",
+      "date": "2026-10-26T08:01:24+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/salary-survey-2026/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
     {
-      "title": "Salary Survey 2026",
+      "title": "A closer look at NFPA 70B",
       "category": "SAFETY",
-      "date": "2026-10-26T08:00:24+00:00",
-      "url": "https://www.safetyandhealthmagazine.com/salary-survey-2026/",
+      "date": "2026-10-26T08:00:56+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/a-closer-look-at-nfpa-70b/",
       "source": "Safety+Health Magazine",
       "type": "magazine"
     },
@@ -54090,5 +54162,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-26T12:25:33.028389+00:00"
+  "last_updated_utc": "2026-10-26T22:22:49.795445+00:00"
 }
