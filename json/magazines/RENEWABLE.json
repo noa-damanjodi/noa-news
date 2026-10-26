@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "California and Texas are swimming in solar + storage | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-10-26T06:30:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/california-and-texas-are-swimming-in-solar-storage-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Trump again targets offshore wind, risking deal to speed approvals of new energy projects",
       "category": "RENEWABLE",
       "date": "2026-10-23T19:43:51+00:00",
@@ -4186,5 +4194,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-26T03:41:26.133598+00:00"
+  "last_updated_utc": "2026-10-26T12:25:33.028389+00:00"
 }

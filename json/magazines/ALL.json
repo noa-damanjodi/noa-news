@@ -2,6 +2,174 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Beat the breakdown: Four ways to keep conveyors moving",
+      "category": "INDUSTRY",
+      "date": "2026-10-26T11:37:16+00:00",
+      "url": "https://www.mining-technology.com/sponsored/beat-the-breakdown-four-ways-to-keep-conveyors-moving/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence launches sovereign AI data center in Munich",
+      "category": "MECHANICAL",
+      "date": "2026-10-26T11:33:19+00:00",
+      "url": "https://www.engineering.com/cadence-launches-sovereign-ai-data-center-in-munich/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD, Intel partner to simplify AI development on x86 CPUs with PyTorch",
+      "category": "MECHANICAL",
+      "date": "2026-10-26T11:30:38+00:00",
+      "url": "https://www.engineering.com/amd-intel-partner-to-simplify-ai-development-on-x86-cpus-with-pytorch/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Microchip launches radiation-tolerant oscillator for satellites",
+      "category": "MECHANICAL",
+      "date": "2026-10-26T10:34:57+00:00",
+      "url": "https://www.engineering.com/microchip-launches-radiation-tolerant-oscillator-for-satellites/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Slam Exploration drills two holes at Moose Lake project",
+      "category": "INDUSTRY",
+      "date": "2026-10-26T09:59:22+00:00",
+      "url": "https://www.mining-technology.com/news/slam-drills-two-holes-moose-lake/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA unveils architecture for secure enterprise AI agents",
+      "category": "MECHANICAL",
+      "date": "2026-10-26T09:24:25+00:00",
+      "url": "https://www.engineering.com/nvidia-unveils-architecture-for-secure-enterprise-ai-agents/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "One engineer, Designcenter Solid Edge, and a stack of AI tools",
+      "category": "MECHANICAL",
+      "date": "2026-10-26T09:13:00+00:00",
+      "url": "https://www.engineering.com/one-engineer-designcenter-solid-edge-and-a-stack-of-ai-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IEEE names 2027 award recipients in speech and signal processing",
+      "category": "MECHANICAL",
+      "date": "2026-10-26T09:08:23+00:00",
+      "url": "https://www.engineering.com/ieee-names-2027-award-recipients-in-speech-and-signal-processing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "A closer look at NFPA 70B",
+      "category": "SAFETY",
+      "date": "2026-10-26T08:00:56+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/a-closer-look-at-nfpa-70b/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Salary Survey 2026",
+      "category": "SAFETY",
+      "date": "2026-10-26T08:00:24+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/salary-survey-2026/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The emotional impact of serious incidents",
+      "category": "SAFETY",
+      "date": "2026-10-26T08:00:06+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/the-emotional-impact-of-serious-incidents/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Halo Minerals receives mining permit for Playa Verde project in Chile",
+      "category": "INDUSTRY",
+      "date": "2026-10-26T07:51:26+00:00",
+      "url": "https://www.mining-technology.com/news/halo-minerals-mining-permit-playa-verde/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Copper One begins 10,000ft drilling programme at Majuba Hill",
+      "category": "INDUSTRY",
+      "date": "2026-10-26T07:51:17+00:00",
+      "url": "https://www.mining-technology.com/news/copper-one-10000ft-drilling-majuba-hill/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Safety shower challenges",
+      "category": "SAFETY",
+      "date": "2026-10-26T07:00:54+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/safety-shower-challenges/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Is your PPE clean?",
+      "category": "SAFETY",
+      "date": "2026-10-26T07:00:16+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/is-your-ppe-clean/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Cold weather hand protection",
+      "category": "SAFETY",
+      "date": "2026-10-26T07:00:10+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/cold-weather-hand-protection/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "California and Texas are swimming in solar + storage | Factor This Brief",
+      "category": "RENEWABLE",
+      "date": "2026-10-26T06:30:00+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/california-and-texas-are-swimming-in-solar-storage-factor-this-brief/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Testing for ‘safety-minded leadership’",
+      "category": "SAFETY",
+      "date": "2026-10-26T05:32:14+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/testing-for-safety-minded-leadership/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Listening to your frontline workers: the missing ingredient in injury prevention",
+      "category": "SAFETY",
+      "date": "2026-10-26T05:31:27+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/listening-to-your-frontline-workers-the-missing-ingredient-in-injury-prevention/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The importance of checking in",
+      "category": "SAFETY",
+      "date": "2026-10-26T05:30:24+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/the-importance-of-checking-in/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Proper eyewash/shower maintenance",
+      "category": "SAFETY",
+      "date": "2026-10-26T05:15:49+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/proper-eyewash-shower-maintenance/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Trump again targets offshore wind, risking deal to speed approvals of new energy projects",
       "category": "RENEWABLE",
       "date": "2026-10-23T19:43:51+00:00",
@@ -2578,6 +2746,14 @@
       "type": "magazine"
     },
     {
+      "title": "More flexibility in the Modernisation of Machine tools",
+      "category": "ELECTRICAL",
+      "date": "2026-10-05T06:16:56+00:00",
+      "url": "https://www.electricalindia.in/more-flexibility-in-the-modernisation-of-machine-tools/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Can this bipartisan Senate bill fix the grueling energy permitting timeline?",
       "category": "RENEWABLE",
       "date": "2026-10-02T17:53:50+00:00",
@@ -4570,6 +4746,30 @@
       "type": "magazine"
     },
     {
+      "title": "Amazon Expands Carbon-Free Energy Portfolio in Germany and Sweden",
+      "category": "ELECTRICAL",
+      "date": "2026-09-18T06:53:39+00:00",
+      "url": "https://www.electricalindia.in/amazon-expands-carbon-free-energy-portfolio-in-germany-and-sweden/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Nextpower Completes Power Conversion Asset Acquisition",
+      "category": "ELECTRICAL",
+      "date": "2026-09-18T06:52:30+00:00",
+      "url": "https://www.electricalindia.in/nextpower-completes-power-conversion-asset-acquisition/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens Energy and Siemens Gamesa to Become Omterra",
+      "category": "ELECTRICAL",
+      "date": "2026-09-18T06:50:47+00:00",
+      "url": "https://www.electricalindia.in/siemens-energy-and-siemens-gamesa-to-become-omterra/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Diamond Power secures Rs 2.63 billion cable order for MSEDCL project",
       "category": "POWER",
       "date": "2026-09-18T06:13:55+00:00",
@@ -5418,6 +5618,30 @@
       "type": "magazine"
     },
     {
+      "title": "IEA and CDRI Launch Study on India’s Energy Infrastructure Resilience",
+      "category": "ELECTRICAL",
+      "date": "2026-09-15T06:48:58+00:00",
+      "url": "https://www.electricalindia.in/iea-and-cdri-launch-study-on-indias-energy-infrastructure-resilience/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "TI Introduces Multiaxial Current Sensor for EV Traction Inverters",
+      "category": "ELECTRICAL",
+      "date": "2026-09-15T06:47:34+00:00",
+      "url": "https://www.electricalindia.in/ti-introduces-multiaxial-current-sensor-for-ev-traction-inverters/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Arrow Electronics Showcases AI and Intelligent Power Solutions at PCIM Asia",
+      "category": "ELECTRICAL",
+      "date": "2026-09-15T06:45:30+00:00",
+      "url": "https://www.electricalindia.in/arrow-electronics-showcases-ai-and-intelligent-power-solutions-at-pcim-asia/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Maharashtra signs MoUs with JSW Energy and Torrent Power for nuclear projects",
       "category": "POWER",
       "date": "2026-09-15T06:24:10+00:00",
@@ -5743,6 +5967,30 @@
       "date": "2026-09-14T05:45:19+00:00",
       "url": "https://powerline.net.in/2026/09/14/shell-energy-philippines-contracts-output-of-240-mwp-san-isidro-solar-project/",
       "source": "Power Line Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "SJVN Achieves COD of 75 MW Jamui Solar Project",
+      "category": "ELECTRICAL",
+      "date": "2026-09-12T06:43:12+00:00",
+      "url": "https://www.electricalindia.in/sjvn-achieves-cod-of-75-mw-jamui-solar-project/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Suzlon Secures 250 MW Wind Order from Torrent Green Energy",
+      "category": "ELECTRICAL",
+      "date": "2026-09-12T06:40:34+00:00",
+      "url": "https://www.electricalindia.in/suzlon-secures-250-mw-wind-order-from-torrent-green-energy/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bharat Bijlee appoints Khushru Vakharia as Vice President – Magnet Technology Machines",
+      "category": "ELECTRICAL",
+      "date": "2026-09-12T06:38:10+00:00",
+      "url": "https://www.electricalindia.in/bharat-bijlee-appoints-khushru-vakharia-as-vice-president-magnet-technology-machines/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -6127,6 +6375,30 @@
       "date": "2026-09-10T07:11:11+00:00",
       "url": "https://www.mining-technology.com/news/galantas-divests-omagh-stake-ocean-partners-uk/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Vikram Solar Commissions 6 GW Manufacturing Facility in Tamil Nadu",
+      "category": "ELECTRICAL",
+      "date": "2026-09-10T06:36:19+00:00",
+      "url": "https://www.electricalindia.in/vikram-solar-commissions-6-gw-manufacturing-facility-in-tamil-nadu/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "L&T Secures Offshore Orders from ONGC",
+      "category": "ELECTRICAL",
+      "date": "2026-09-10T06:34:57+00:00",
+      "url": "https://www.electricalindia.in/lt-secures-offshore-orders-from-ongc/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "ERDA Wins Best Paper Award at ELROMA 2026",
+      "category": "ELECTRICAL",
+      "date": "2026-09-10T06:33:34+00:00",
+      "url": "https://www.electricalindia.in/erda-wins-best-paper-award-at-elroma-2026/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -6623,6 +6895,30 @@
       "date": "2026-09-08T07:29:44+00:00",
       "url": "https://www.mining-technology.com/news/bhp-appoints-worley-sa-copper-project/",
       "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "PM Surya Ghar Scheme Crosses 50 Lakh Households",
+      "category": "ELECTRICAL",
+      "date": "2026-09-08T06:30:27+00:00",
+      "url": "https://www.electricalindia.in/pm-surya-ghar-scheme-crosses-50-lakh-households/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "India Crosses 300 GW Non-Fossil Fuel Capacity",
+      "category": "ELECTRICAL",
+      "date": "2026-09-08T06:25:58+00:00",
+      "url": "https://www.electricalindia.in/india-crosses-300-gw-non-fossil-fuel-capacity/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "India and Bhutan Reaffirm Commitment to Power Cooperation",
+      "category": "ELECTRICAL",
+      "date": "2026-09-08T06:23:53+00:00",
+      "url": "https://www.electricalindia.in/india-and-bhutan-reaffirm-commitment-to-power-cooperation/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -53794,5 +54090,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-26T03:41:26.133598+00:00"
+  "last_updated_utc": "2026-10-26T12:25:33.028389+00:00"
 }

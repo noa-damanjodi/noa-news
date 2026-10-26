@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Cadence launches sovereign AI data center in Munich",
+      "category": "MECHANICAL",
+      "date": "2026-10-26T11:33:19+00:00",
+      "url": "https://www.engineering.com/cadence-launches-sovereign-ai-data-center-in-munich/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD, Intel partner to simplify AI development on x86 CPUs with PyTorch",
+      "category": "MECHANICAL",
+      "date": "2026-10-26T11:30:38+00:00",
+      "url": "https://www.engineering.com/amd-intel-partner-to-simplify-ai-development-on-x86-cpus-with-pytorch/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Microchip launches radiation-tolerant oscillator for satellites",
+      "category": "MECHANICAL",
+      "date": "2026-10-26T10:34:57+00:00",
+      "url": "https://www.engineering.com/microchip-launches-radiation-tolerant-oscillator-for-satellites/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA unveils architecture for secure enterprise AI agents",
+      "category": "MECHANICAL",
+      "date": "2026-10-26T09:24:25+00:00",
+      "url": "https://www.engineering.com/nvidia-unveils-architecture-for-secure-enterprise-ai-agents/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "One engineer, Designcenter Solid Edge, and a stack of AI tools",
+      "category": "MECHANICAL",
+      "date": "2026-10-26T09:13:00+00:00",
+      "url": "https://www.engineering.com/one-engineer-designcenter-solid-edge-and-a-stack-of-ai-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IEEE names 2027 award recipients in speech and signal processing",
+      "category": "MECHANICAL",
+      "date": "2026-10-26T09:08:23+00:00",
+      "url": "https://www.engineering.com/ieee-names-2027-award-recipients-in-speech-and-signal-processing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "AIAA forms team to define CFD priorities through 2045",
       "category": "MECHANICAL",
       "date": "2026-10-23T13:40:58+00:00",
@@ -14890,5 +14938,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-26T03:41:26.133598+00:00"
+  "last_updated_utc": "2026-10-26T12:25:33.028389+00:00"
 }
