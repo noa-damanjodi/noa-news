@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "ESAB introduces AI cobot for adaptive MIG and TIG welding",
+      "category": "MECHANICAL",
+      "date": "2026-10-27T20:23:55+00:00",
+      "url": "https://www.engineering.com/esab-introduces-ai-cobot-for-adaptive-mig-and-tig-welding/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Additive research update: self-aware tools, soft robot skins, and more",
       "category": "MECHANICAL",
       "date": "2026-10-27T16:04:48+00:00",
@@ -15034,5 +15042,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-27T17:37:05.525166+00:00"
+  "last_updated_utc": "2026-10-27T21:54:09.000381+00:00"
 }

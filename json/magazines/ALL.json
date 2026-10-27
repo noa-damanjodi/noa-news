@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "ESAB introduces AI cobot for adaptive MIG and TIG welding",
+      "category": "MECHANICAL",
+      "date": "2026-10-27T20:23:55+00:00",
+      "url": "https://www.engineering.com/esab-introduces-ai-cobot-for-adaptive-mig-and-tig-welding/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "New England utility deploying AI planning tools to prioritize resilience investments",
+      "category": "RENEWABLE",
+      "date": "2026-10-27T18:17:59+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/new-england-utility-deploying-ai-planning-tools-to-prioritize-resilience-investments/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "MSHA seeks more feedback on proposed respirator rule",
+      "category": "SAFETY",
+      "date": "2026-10-27T17:47:08+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/msha-seeks-more-feedback-on-proposed-respirator-rule/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "NIOSH tackles fire safety in new toolbox talk",
+      "category": "SAFETY",
+      "date": "2026-10-27T17:46:26+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/niosh-tackles-fire-safety-in-new-toolbox-talk/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Indiana ‘green-lights’ new roadway worker safety initiative",
+      "category": "SAFETY",
+      "date": "2026-10-27T17:45:45+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/indiana-green-lights-new-roadway-worker-safety-initiative/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "EHS at the Front Door: Closing the Gaps in Visitor Safety, Compliance and Visibility",
       "category": "SAFETY",
       "date": "2026-10-27T17:32:25+00:00",
@@ -54386,5 +54426,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-27T17:37:05.525166+00:00"
+  "last_updated_utc": "2026-10-27T21:54:09.000381+00:00"
 }
