@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Altech introduces compact 85A terminal block",
+      "category": "MECHANICAL",
+      "date": "2026-10-27T09:48:53+00:00",
+      "url": "https://www.engineering.com/altech-introduces-compact-85a-terminal-block/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "West Wits to drill 17 holes at Bird Reef Central in Johannesburg",
+      "category": "INDUSTRY",
+      "date": "2026-10-27T09:23:43+00:00",
+      "url": "https://www.mining-technology.com/news/west-wits-drill-bird-reef-central/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Honeywell launches AI platform for refinery operations",
+      "category": "MECHANICAL",
+      "date": "2026-10-27T08:56:04+00:00",
+      "url": "https://www.engineering.com/honeywell-launches-ai-platform-for-refinery-operations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Evology expands metal 3D printing with EOS M 400-4",
+      "category": "MECHANICAL",
+      "date": "2026-10-27T08:48:22+00:00",
+      "url": "https://www.engineering.com/evology-expands-metal-3d-printing-with-eos-m-400-4/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA simulates 104-qubit quantum processor on JUPITER",
+      "category": "MECHANICAL",
+      "date": "2026-10-27T08:34:51+00:00",
+      "url": "https://www.engineering.com/nvidia-simulates-104-qubit-quantum-processor-on-jupiter/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence launches AI model portfolio for engineering workflows",
+      "category": "MECHANICAL",
+      "date": "2026-10-27T08:27:40+00:00",
+      "url": "https://www.engineering.com/cadence-launches-ai-model-portfolio-for-engineering-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Minesto targets the Maldives for new tidal energy development",
+      "category": "RENEWABLE",
+      "date": "2026-10-27T08:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/minesto-targets-the-maldives-for-new-tidal-energy-development/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Energy Fuels secures $126m loan for Donald Rare Earth Project",
+      "category": "INDUSTRY",
+      "date": "2026-10-27T07:31:15+00:00",
+      "url": "https://www.mining-technology.com/news/energy-fuels-126m-loan-donald-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "John Crane signs three-year reliability deal with Saudi phosphate company",
+      "category": "INDUSTRY",
+      "date": "2026-10-27T07:29:43+00:00",
+      "url": "https://www.mining-technology.com/news/john-crane-deal-saudi-phosphate-company/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Farsoon, Apollo develop titanium exhaust for Apollo Evo",
+      "category": "MECHANICAL",
+      "date": "2026-10-27T07:28:00+00:00",
+      "url": "https://www.engineering.com/farsoon-apollo-develop-titanium-exhaust-for-apollo-evo/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon adds wireless HYPERSCAN SR 3D scanner",
+      "category": "MECHANICAL",
+      "date": "2026-10-27T07:09:53+00:00",
+      "url": "https://www.engineering.com/hexagon-adds-wireless-hyperscan-sr-3d-scanner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Understanding the new era of utility weather risk with Sunny Wescott",
       "category": "RENEWABLE",
       "date": "2026-10-26T19:54:33+00:00",
@@ -63,6 +151,22 @@
       "date": "2026-10-26T13:00:11+00:00",
       "url": "https://www.engineering.com/document-crunch-adds-ai-review-for-construction-drawings/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Metallium signs critical metals MoU with Traxys in US",
+      "category": "INDUSTRY",
+      "date": "2026-10-26T12:20:32+00:00",
+      "url": "https://www.mining-technology.com/news/metallium-critical-metals-mou-traxys/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rio Tinto, LCL agree farm-in on PNG’s Liamu copper-gold project",
+      "category": "INDUSTRY",
+      "date": "2026-10-26T12:20:22+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-lcl-farm-in-liamu-project/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -3818,6 +3922,14 @@
       "type": "magazine"
     },
     {
+      "title": "TRMS Enhanced Practical Multimeter – Model – KM 2807CSE",
+      "category": "ELECTRICAL",
+      "date": "2026-09-28T05:26:54+00:00",
+      "url": "https://www.electricalindia.in/trms-enhanced-practical-multimeter-model-km-2807cse/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Wildfire detection from space? XPRIZE competition awards promising emerging resilience tech",
       "category": "RENEWABLE",
       "date": "2026-09-25T19:56:14+00:00",
@@ -3967,6 +4079,14 @@
       "date": "2026-09-25T05:44:07+00:00",
       "url": "https://www.engineering.com/innovmetric-partners-with-wuhan-vision3d-on-inspection-systems/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Voltage Regulation on the HT Side: When the Whole Feeder Fluctuates",
+      "category": "ELECTRICAL",
+      "date": "2026-09-25T05:09:07+00:00",
+      "url": "https://www.electricalindia.in/voltage-regulation-on-the-ht-side-when-the-whole-feeder-fluctuates/",
+      "source": "Electrical India Magazine",
       "type": "magazine"
     },
     {
@@ -4466,6 +4586,22 @@
       "type": "magazine"
     },
     {
+      "title": "U-Solar Advances 20 MW Open-Access Solar Project in Karnataka",
+      "category": "ELECTRICAL",
+      "date": "2026-09-22T05:05:29+00:00",
+      "url": "https://www.electricalindia.in/u-solar-advances-20-mw-open-access-solar-project-in-karnataka/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Empowering People Through Intelligent Material Handling Solutions",
+      "category": "ELECTRICAL",
+      "date": "2026-09-22T04:52:17+00:00",
+      "url": "https://www.electricalindia.in/empowering-people-through-intelligent-material-handling-solutions/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Q&A: Sandvik Australia’s Craig Johnston on the technologies reshaping mining",
       "category": "INDUSTRY",
       "date": "2026-09-21T23:05:09+00:00",
@@ -4662,6 +4798,30 @@
       "category": "ELECTRICAL",
       "date": "2026-09-20T03:37:53+00:00",
       "url": "https://www.electricalindia.in/power-conversion-for-data-centres/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "India’s Electric Vehicle Moment",
+      "category": "ELECTRICAL",
+      "date": "2026-09-20T03:07:54+00:00",
+      "url": "https://www.electricalindia.in/indias-electric-vehicle-moment/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Lessons from Electrical Fire Tragedies",
+      "category": "ELECTRICAL",
+      "date": "2026-09-20T02:22:55+00:00",
+      "url": "https://www.electricalindia.in/lessons-from-electrical-fire-tragedies/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Reinventing Distribution Network Planning",
+      "category": "ELECTRICAL",
+      "date": "2026-09-20T00:40:26+00:00",
+      "url": "https://www.electricalindia.in/reinventing-distribution-network-planning/",
       "source": "Electrical India Magazine",
       "type": "magazine"
     },
@@ -54170,5 +54330,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-27T04:05:10.839615+00:00"
+  "last_updated_utc": "2026-10-27T11:44:11.753939+00:00"
 }

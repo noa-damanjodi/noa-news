@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Altech introduces compact 85A terminal block",
+      "category": "MECHANICAL",
+      "date": "2026-10-27T09:48:53+00:00",
+      "url": "https://www.engineering.com/altech-introduces-compact-85a-terminal-block/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Honeywell launches AI platform for refinery operations",
+      "category": "MECHANICAL",
+      "date": "2026-10-27T08:56:04+00:00",
+      "url": "https://www.engineering.com/honeywell-launches-ai-platform-for-refinery-operations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Evology expands metal 3D printing with EOS M 400-4",
+      "category": "MECHANICAL",
+      "date": "2026-10-27T08:48:22+00:00",
+      "url": "https://www.engineering.com/evology-expands-metal-3d-printing-with-eos-m-400-4/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA simulates 104-qubit quantum processor on JUPITER",
+      "category": "MECHANICAL",
+      "date": "2026-10-27T08:34:51+00:00",
+      "url": "https://www.engineering.com/nvidia-simulates-104-qubit-quantum-processor-on-jupiter/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence launches AI model portfolio for engineering workflows",
+      "category": "MECHANICAL",
+      "date": "2026-10-27T08:27:40+00:00",
+      "url": "https://www.engineering.com/cadence-launches-ai-model-portfolio-for-engineering-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Farsoon, Apollo develop titanium exhaust for Apollo Evo",
+      "category": "MECHANICAL",
+      "date": "2026-10-27T07:28:00+00:00",
+      "url": "https://www.engineering.com/farsoon-apollo-develop-titanium-exhaust-for-apollo-evo/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon adds wireless HYPERSCAN SR 3D scanner",
+      "category": "MECHANICAL",
+      "date": "2026-10-27T07:09:53+00:00",
+      "url": "https://www.engineering.com/hexagon-adds-wireless-hyperscan-sr-3d-scanner/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Additive Industries updates MetalFab build processing software",
       "category": "MECHANICAL",
       "date": "2026-10-26T13:18:12+00:00",
@@ -14962,5 +15018,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-27T04:05:10.839615+00:00"
+  "last_updated_utc": "2026-10-27T11:44:11.753939+00:00"
 }
