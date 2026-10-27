@@ -4658,6 +4658,14 @@
       "type": "magazine"
     },
     {
+      "title": "Power Conversion for Data Centres",
+      "category": "ELECTRICAL",
+      "date": "2026-09-20T03:37:53+00:00",
+      "url": "https://www.electricalindia.in/power-conversion-for-data-centres/",
+      "source": "Electrical India Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Hydropower licensing requirements have exploded. The industry says the grid could pay.",
       "category": "RENEWABLE",
       "date": "2026-09-18T20:26:00+00:00",
@@ -54162,5 +54170,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-26T22:22:49.795445+00:00"
+  "last_updated_utc": "2026-10-27T04:05:10.839615+00:00"
 }
