@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "NVIDIA and Meta expand collaboration on AI models and infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-10-28T12:00:53+00:00",
+      "url": "https://www.engineering.com/nvidia-and-meta-expand-collaboration-on-ai-models-and-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "KOMSA and KUKA partner on mobile robotics",
+      "category": "MECHANICAL",
+      "date": "2026-10-28T12:00:18+00:00",
+      "url": "https://www.engineering.com/komsa-and-kuka-partner-on-mobile-robotics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD and Meta deepen work on AI infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-10-28T11:39:05+00:00",
+      "url": "https://www.engineering.com/amd-and-meta-deepen-work-on-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Advantech opens new North American headquarters in California",
+      "category": "MECHANICAL",
+      "date": "2026-10-28T11:08:02+00:00",
+      "url": "https://www.engineering.com/advantech-opens-new-north-american-headquarters-in-california/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Elektrobit and Microchip simplify AUTOSAR software development",
+      "category": "MECHANICAL",
+      "date": "2026-10-28T07:56:45+00:00",
+      "url": "https://www.engineering.com/elektrobit-and-microchip-simplify-autosar-software-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight equips KTL for NR-NTN satellite communications testing",
+      "category": "MECHANICAL",
+      "date": "2026-10-28T07:19:21+00:00",
+      "url": "https://www.engineering.com/keysight-equips-ktl-for-nr-ntn-satellite-communications-testing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DigiKey expands Standard portfolio with tools and ESD products",
+      "category": "MECHANICAL",
+      "date": "2026-10-28T06:44:44+00:00",
+      "url": "https://www.engineering.com/digikey-expands-standard-portfolio-with-tools-and-esd-products/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "ESAB introduces AI cobot for adaptive MIG and TIG welding",
       "category": "MECHANICAL",
       "date": "2026-10-27T20:23:55+00:00",
@@ -15042,5 +15098,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-28T04:32:16.076564+00:00"
+  "last_updated_utc": "2026-10-28T12:17:29.556407+00:00"
 }
