@@ -2,6 +2,38 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Xcel Energy eyes the largest battery portfolio in the Upper Midwest",
+      "category": "RENEWABLE",
+      "date": "2026-10-28T20:11:27+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/xcel-energy-eyes-the-largest-battery-portfolio-in-the-upper-midwest/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Virtual power plants: A scalable and economical solution to strengthen grid resilience?",
+      "category": "RENEWABLE",
+      "date": "2026-10-28T20:01:19+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/virtual-power-plants-a-scalable-and-economical-solution-to-strengthen-grid-resilience/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Inside NET2GRID’s approach to AI and AMI 2.0 with Emily Fisher",
+      "category": "RENEWABLE",
+      "date": "2026-10-28T13:39:56+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/inside-net2grids-approach-to-ai-and-ami-2-0-with-emily-fisher/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "The best (and worst) states for virtual power plants and community power",
+      "category": "RENEWABLE",
+      "date": "2026-10-28T13:25:13+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/the-best-and-worst-states-for-virtual-power-plants-and-community-power/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "New England utility deploying AI planning tools to prioritize resilience investments",
       "category": "RENEWABLE",
       "date": "2026-10-27T18:17:59+00:00",
@@ -4234,5 +4266,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-28T12:17:29.556407+00:00"
+  "last_updated_utc": "2026-10-28T22:17:35.822099+00:00"
 }

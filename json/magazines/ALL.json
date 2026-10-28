@@ -2,10 +2,114 @@
   "category": "ALL",
   "items": [
     {
-      "title": "NVIDIA and Meta expand collaboration on AI models and infrastructure",
+      "title": "Cetec ERP 5.0 launches in beta",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-28T20:33:55+00:00",
+      "url": "https://www.automationmag.com/cetec-erp-5-0-launches-in-beta/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Xcel Energy eyes the largest battery portfolio in the Upper Midwest",
+      "category": "RENEWABLE",
+      "date": "2026-10-28T20:11:27+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/xcel-energy-eyes-the-largest-battery-portfolio-in-the-upper-midwest/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Virtual power plants: A scalable and economical solution to strengthen grid resilience?",
+      "category": "RENEWABLE",
+      "date": "2026-10-28T20:01:19+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/smart-grids/virtual-power-plants-a-scalable-and-economical-solution-to-strengthen-grid-resilience/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Humanoids Building Humanoids, and New Robots for Agriculture Equipment in Kansas",
       "category": "MECHANICAL",
-      "date": "2026-10-28T12:00:53+00:00",
-      "url": "https://www.engineering.com/nvidia-and-meta-expand-collaboration-on-ai-models-and-infrastructure/",
+      "date": "2026-10-28T20:00:00+00:00",
+      "url": "https://www.engineering.com/humanoids-building-humanoids-and-new-robots-for-agriculture-equipment-in-kansas/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "North Vector Dynamics closes Series A exceeding USD $20 Million",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-28T18:39:41+00:00",
+      "url": "https://www.automationmag.com/north-vector-dynamics-closes-series-a-exceeding-usd-20-million/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "STMicroelectronics introduces automotive safety combination sensors",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-28T18:31:42+00:00",
+      "url": "https://www.automationmag.com/stmicroelectronics-introduces-automotive-safety-combination-sensors/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "North American robot orders increase almost 25 per cent in Q3",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-28T18:23:57+00:00",
+      "url": "https://www.automationmag.com/north-american-robot-orders-increase-almost-25-per-cent-in-q3/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Analysis of on-the-job drug tests shows ‘significant decline’ in fentanyl use",
+      "category": "SAFETY",
+      "date": "2026-10-28T15:31:28+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/analysis-of-on-the-job-drug-tests-shows-significant-decline-in-fentanyl-use/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "FRA safety advisory reminds railroads and workers about restricted speed regs",
+      "category": "SAFETY",
+      "date": "2026-10-28T15:20:20+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/fra-safety-advisory-reminds-railroads-and-workers-about-restricted-speed-regs/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Menopause in the workplace: New guide lays out strategy for building a support program",
+      "category": "SAFETY",
+      "date": "2026-10-28T15:08:09+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/menopause-in-the-workplace-new-guide-lays-out-strategy-for-building-a-support-program/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Inside NET2GRID’s approach to AI and AMI 2.0 with Emily Fisher",
+      "category": "RENEWABLE",
+      "date": "2026-10-28T13:39:56+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/inside-net2grids-approach-to-ai-and-ami-2-0-with-emily-fisher/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "The best (and worst) states for virtual power plants and community power",
+      "category": "RENEWABLE",
+      "date": "2026-10-28T13:25:13+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/the-best-and-worst-states-for-virtual-power-plants-and-community-power/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens expands Sinamics G portfolio for motion applications",
+      "category": "MECHANICAL",
+      "date": "2026-10-28T12:48:06+00:00",
+      "url": "https://www.engineering.com/siemens-expands-sinamics-g-portfolio-for-motion-applications/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Emerson adds magnetic flow sensor for data center cooling",
+      "category": "MECHANICAL",
+      "date": "2026-10-28T12:17:40+00:00",
+      "url": "https://www.engineering.com/emerson-adds-magnetic-flow-sensor-for-data-center-cooling/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -38,6 +142,14 @@
       "category": "MECHANICAL",
       "date": "2026-10-28T11:39:05+00:00",
       "url": "https://www.engineering.com/amd-and-meta-deepen-work-on-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA and Meta expand collaboration on AI models and infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-10-28T11:20:00+00:00",
+      "url": "https://www.engineering.com/nvidia-and-meta-expand-collaboration-on-ai-models-and-infrastructure/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -54522,5 +54634,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-28T12:17:29.556407+00:00"
+  "last_updated_utc": "2026-10-28T22:17:35.822099+00:00"
 }

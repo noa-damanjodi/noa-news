@@ -2,10 +2,26 @@
   "category": "MECHANICAL",
   "items": [
     {
-      "title": "NVIDIA and Meta expand collaboration on AI models and infrastructure",
+      "title": "Humanoids Building Humanoids, and New Robots for Agriculture Equipment in Kansas",
       "category": "MECHANICAL",
-      "date": "2026-10-28T12:00:53+00:00",
-      "url": "https://www.engineering.com/nvidia-and-meta-expand-collaboration-on-ai-models-and-infrastructure/",
+      "date": "2026-10-28T20:00:00+00:00",
+      "url": "https://www.engineering.com/humanoids-building-humanoids-and-new-robots-for-agriculture-equipment-in-kansas/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens expands Sinamics G portfolio for motion applications",
+      "category": "MECHANICAL",
+      "date": "2026-10-28T12:48:06+00:00",
+      "url": "https://www.engineering.com/siemens-expands-sinamics-g-portfolio-for-motion-applications/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Emerson adds magnetic flow sensor for data center cooling",
+      "category": "MECHANICAL",
+      "date": "2026-10-28T12:17:40+00:00",
+      "url": "https://www.engineering.com/emerson-adds-magnetic-flow-sensor-for-data-center-cooling/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -22,6 +38,14 @@
       "category": "MECHANICAL",
       "date": "2026-10-28T11:39:05+00:00",
       "url": "https://www.engineering.com/amd-and-meta-deepen-work-on-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA and Meta expand collaboration on AI models and infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-10-28T11:20:00+00:00",
+      "url": "https://www.engineering.com/nvidia-and-meta-expand-collaboration-on-ai-models-and-infrastructure/",
       "source": "Engineering.com",
       "type": "magazine"
     },
@@ -15098,5 +15122,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-28T12:17:29.556407+00:00"
+  "last_updated_utc": "2026-10-28T22:17:35.822099+00:00"
 }
