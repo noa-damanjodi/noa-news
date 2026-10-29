@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Oracle and NVIDIA expand OCI for training and agentic AI",
+      "category": "MECHANICAL",
+      "date": "2026-10-29T12:17:43+00:00",
+      "url": "https://www.engineering.com/oracle-and-nvidia-expand-oci-for-training-and-agentic-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mercedes-Benz introduces AI-native backbone for product development",
+      "category": "MECHANICAL",
+      "date": "2026-10-29T11:57:43+00:00",
+      "url": "https://www.engineering.com/mercedes-benz-introduces-ai-native-backbone-for-product-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "GE Vernova to acquire Trench to expand grid equipment capabilities",
+      "category": "MECHANICAL",
+      "date": "2026-10-29T11:41:16+00:00",
+      "url": "https://www.engineering.com/ge-vernova-to-acquire-trench-to-expand-grid-equipment-capabilities/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MTC selects Caracol’s robotic metal AM platform",
+      "category": "MECHANICAL",
+      "date": "2026-10-29T10:04:56+00:00",
+      "url": "https://www.engineering.com/mtc-selects-caracols-robotic-metal-am-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cognite names ADNOC Gas and Upstream AI Impact Award winners",
+      "category": "MECHANICAL",
+      "date": "2026-10-29T09:47:46+00:00",
+      "url": "https://www.engineering.com/cognite-names-adnoc-gas-and-upstream-ai-impact-award-winners/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Dassault completes ArisGlobal acquisition to unify AI platform",
+      "category": "MECHANICAL",
+      "date": "2026-10-29T09:39:08+00:00",
+      "url": "https://www.engineering.com/dassault-completes-arisglobal-acquisition-to-unify-ai-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Humanoids Building Humanoids, and New Robots for Agriculture Equipment in Kansas",
       "category": "MECHANICAL",
       "date": "2026-10-28T20:00:00+00:00",
@@ -15122,5 +15170,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-29T04:47:33.547979+00:00"
+  "last_updated_utc": "2026-10-29T12:26:46.110003+00:00"
 }

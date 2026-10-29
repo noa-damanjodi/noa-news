@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Blake, Cassels & Graydon leads Q1-Q3 2026 M&A legal advice in mining by value",
+      "category": "INDUSTRY",
+      "date": "2026-10-29T10:05:06+00:00",
+      "url": "https://www.mining-technology.com/news/q1-q3-2026-ma-legal-advice-mining-value/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Gem Resources agrees conditional sale of Gravelotte interest",
+      "category": "INDUSTRY",
+      "date": "2026-10-29T07:57:04+00:00",
+      "url": "https://www.mining-technology.com/news/gem-resources-conditional-sale-gravelotte-interest/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "KAP Minerals, Cymat to advance scandium-aluminium alloy JV in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-10-29T07:56:50+00:00",
+      "url": "https://www.mining-technology.com/news/kap-cymat-scandium-aluminium-alloy-jv/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Talga to supply Swedish anode material to Japan’s Dainen",
       "category": "INDUSTRY",
       "date": "2026-10-28T11:52:37+00:00",
@@ -9962,5 +9986,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-29T04:47:33.547979+00:00"
+  "last_updated_utc": "2026-10-29T12:26:46.110003+00:00"
 }
