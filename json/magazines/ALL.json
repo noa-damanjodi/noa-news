@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Why don’t we just bury every electrical line underground?",
+      "category": "RENEWABLE",
+      "date": "2026-10-29T18:50:16+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/why-dont-we-just-bury-every-electrical-line-underground/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Intel and SAP demonstrate AI-driven warehouse robot integration",
+      "category": "MECHANICAL",
+      "date": "2026-10-29T18:28:52+00:00",
+      "url": "https://www.engineering.com/intel-and-sap-demonstrate-ai-driven-warehouse-robot-integration/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "More mesh-to-CAD and a full stack of agentic EDA news",
+      "category": "MECHANICAL",
+      "date": "2026-10-29T15:50:49+00:00",
+      "url": "https://www.engineering.com/more-mesh-to-cad-and-a-full-stack-of-agentic-eda-news/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Do drivers convince themselves that speeding is OK? AAA explores",
+      "category": "SAFETY",
+      "date": "2026-10-29T14:38:51+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/do-drivers-convince-themselves-that-speeding-is-ok-aaa-explores/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and P&G expand AI quality inspection deployment",
+      "category": "MECHANICAL",
+      "date": "2026-10-29T13:00:39+00:00",
+      "url": "https://www.engineering.com/siemens-and-pg-expand-ai-quality-inspection-deployment/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD expands OCI support with EPYC processors and Pensando DPUs",
+      "category": "MECHANICAL",
+      "date": "2026-10-29T12:51:26+00:00",
+      "url": "https://www.engineering.com/amd-expands-oci-support-with-epyc-processors-and-pensando-dpus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nelson Resources mobilises Bazooka rig to Orleans Mine in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-10-29T12:31:24+00:00",
+      "url": "https://www.mining-technology.com/news/nelson-mobilises-bazooka-rig-orleans-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "High-Tech Metals signs ore purchase deal with Forrestania",
+      "category": "INDUSTRY",
+      "date": "2026-10-29T12:31:14+00:00",
+      "url": "https://www.mining-technology.com/news/high-tech-metals-ore-purchase-deal-forrestania/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Oracle and NVIDIA expand OCI for training and agentic AI",
       "category": "MECHANICAL",
       "date": "2026-10-29T12:17:43+00:00",
@@ -54706,5 +54770,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-29T12:26:46.110003+00:00"
+  "last_updated_utc": "2026-10-29T22:30:50.388578+00:00"
 }

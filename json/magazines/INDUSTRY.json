@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Nelson Resources mobilises Bazooka rig to Orleans Mine in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-10-29T12:31:24+00:00",
+      "url": "https://www.mining-technology.com/news/nelson-mobilises-bazooka-rig-orleans-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "High-Tech Metals signs ore purchase deal with Forrestania",
+      "category": "INDUSTRY",
+      "date": "2026-10-29T12:31:14+00:00",
+      "url": "https://www.mining-technology.com/news/high-tech-metals-ore-purchase-deal-forrestania/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Blake, Cassels & Graydon leads Q1-Q3 2026 M&A legal advice in mining by value",
       "category": "INDUSTRY",
       "date": "2026-10-29T10:05:06+00:00",
@@ -9986,5 +10002,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-29T12:26:46.110003+00:00"
+  "last_updated_utc": "2026-10-29T22:30:50.388578+00:00"
 }

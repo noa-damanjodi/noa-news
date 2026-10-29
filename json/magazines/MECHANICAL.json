@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Intel and SAP demonstrate AI-driven warehouse robot integration",
+      "category": "MECHANICAL",
+      "date": "2026-10-29T18:28:52+00:00",
+      "url": "https://www.engineering.com/intel-and-sap-demonstrate-ai-driven-warehouse-robot-integration/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "More mesh-to-CAD and a full stack of agentic EDA news",
+      "category": "MECHANICAL",
+      "date": "2026-10-29T15:50:49+00:00",
+      "url": "https://www.engineering.com/more-mesh-to-cad-and-a-full-stack-of-agentic-eda-news/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and P&G expand AI quality inspection deployment",
+      "category": "MECHANICAL",
+      "date": "2026-10-29T13:00:39+00:00",
+      "url": "https://www.engineering.com/siemens-and-pg-expand-ai-quality-inspection-deployment/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD expands OCI support with EPYC processors and Pensando DPUs",
+      "category": "MECHANICAL",
+      "date": "2026-10-29T12:51:26+00:00",
+      "url": "https://www.engineering.com/amd-expands-oci-support-with-epyc-processors-and-pensando-dpus/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Oracle and NVIDIA expand OCI for training and agentic AI",
       "category": "MECHANICAL",
       "date": "2026-10-29T12:17:43+00:00",
@@ -15170,5 +15202,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-29T12:26:46.110003+00:00"
+  "last_updated_utc": "2026-10-29T22:30:50.388578+00:00"
 }
