@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "UNSW and partners unveil NextGenMIN mining research hub",
+      "category": "INDUSTRY",
+      "date": "2026-10-30T10:16:09+00:00",
+      "url": "https://www.mining-technology.com/news/unsw-nextgenmin-mining-research-hub/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "IMC Rare Earths reports yttrium discoveries at Brazil project",
+      "category": "INDUSTRY",
+      "date": "2026-10-30T06:39:29+00:00",
+      "url": "https://www.mining-technology.com/news/imc-rare-earths-yttrium-brazil-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "A2Gold signs agreement to sell Bolo Gold project in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-10-30T06:03:21+00:00",
+      "url": "https://www.mining-technology.com/news/a2gold-bolo-gold-project-nevada/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Nelson Resources mobilises Bazooka rig to Orleans Mine in Nevada",
       "category": "INDUSTRY",
       "date": "2026-10-29T12:31:24+00:00",
@@ -10002,5 +10026,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-30T04:46:53.483972+00:00"
+  "last_updated_utc": "2026-10-30T12:18:09.495224+00:00"
 }

@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Software wins Gold, Silver, and Bronze in the 2026 LEAP Awards",
+      "category": "MECHANICAL",
+      "date": "2026-10-30T12:00:00+00:00",
+      "url": "https://www.engineering.com/software-wins-gold-silver-and-bronze-in-the-2026-leap-awards/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "UNSW and partners unveil NextGenMIN mining research hub",
+      "category": "INDUSTRY",
+      "date": "2026-10-30T10:16:09+00:00",
+      "url": "https://www.mining-technology.com/news/unsw-nextgenmin-mining-research-hub/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "2026 LEAP Awards winners announced by Design World",
+      "category": "MECHANICAL",
+      "date": "2026-10-30T08:15:00+00:00",
+      "url": "https://www.engineering.com/2026-leap-awards-winners-announced-by-design-world/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Purdue engineer named 2026 APS Fellow for materials research",
+      "category": "MECHANICAL",
+      "date": "2026-10-30T07:35:39+00:00",
+      "url": "https://www.engineering.com/purdue-engineer-named-2026-aps-fellow-for-materials-research/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Microchip adds EtherCAT and TSN support to PolarFire devices",
+      "category": "MECHANICAL",
+      "date": "2026-10-30T07:02:29+00:00",
+      "url": "https://www.engineering.com/microchip-adds-ethercat-and-tsn-support-to-polarfire-devices/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IEEE announces winners of Future Tech Explorers Challenge",
+      "category": "MECHANICAL",
+      "date": "2026-10-30T06:55:02+00:00",
+      "url": "https://www.engineering.com/ieee-announces-winners-of-future-tech-explorers-challenge/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence joins DOE’s Genesis Mission Consortium",
+      "category": "MECHANICAL",
+      "date": "2026-10-30T06:47:58+00:00",
+      "url": "https://www.engineering.com/cadence-joins-does-genesis-mission-consortium/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Octave Alto 2026.1 integrates live video with geospatial data",
+      "category": "MECHANICAL",
+      "date": "2026-10-30T06:40:42+00:00",
+      "url": "https://www.engineering.com/octave-alto-2026-1-integrates-live-video-with-geospatial-data/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IMC Rare Earths reports yttrium discoveries at Brazil project",
+      "category": "INDUSTRY",
+      "date": "2026-10-30T06:39:29+00:00",
+      "url": "https://www.mining-technology.com/news/imc-rare-earths-yttrium-brazil-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "A2Gold signs agreement to sell Bolo Gold project in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-10-30T06:03:21+00:00",
+      "url": "https://www.mining-technology.com/news/a2gold-bolo-gold-project-nevada/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Why don’t we just bury every electrical line underground?",
       "category": "RENEWABLE",
       "date": "2026-10-29T18:50:16+00:00",
@@ -54778,5 +54858,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-30T04:46:53.483972+00:00"
+  "last_updated_utc": "2026-10-30T12:18:09.495224+00:00"
 }
