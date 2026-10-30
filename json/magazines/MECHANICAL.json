@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Allplan Max 2027 launched for engineering workflows",
+      "category": "MECHANICAL",
+      "date": "2026-10-30T14:48:47+00:00",
+      "url": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens introduces packaged microgrid switchboard",
+      "category": "MECHANICAL",
+      "date": "2026-10-30T14:36:19+00:00",
+      "url": "https://www.engineering.com/siemens-introduces-packaged-microgrid-switchboard/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "EOS partners with BIZU Space on aerospace 3D printing",
+      "category": "MECHANICAL",
+      "date": "2026-10-30T14:26:49+00:00",
+      "url": "https://www.engineering.com/eos-partners-with-bizu-space-on-aerospace-3d-printing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Oracle plans Arm AGI CPU for OCI in 2027",
+      "category": "MECHANICAL",
+      "date": "2026-10-30T13:18:02+00:00",
+      "url": "https://www.engineering.com/oracle-plans-arm-agi-cpu-for-oci-in-2027/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Software wins Gold, Silver, and Bronze in the 2026 LEAP Awards",
       "category": "MECHANICAL",
       "date": "2026-10-30T12:00:00+00:00",
@@ -15258,5 +15290,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-30T12:18:09.495224+00:00"
+  "last_updated_utc": "2026-10-30T21:59:34.012627+00:00"
 }

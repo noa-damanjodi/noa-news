@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Province announces $8 billion Ontario Competitiveness Tax Cut",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-30T15:31:30+00:00",
+      "url": "https://www.automationmag.com/province-announces-8-billion-ontario-competitiveness-tax-cut/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Cetec ERP 5.0 launches in beta",
       "category": "INSTRUMENTATION",
       "date": "2026-10-28T20:33:55+00:00",
@@ -3322,5 +3330,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-30T12:18:09.495224+00:00"
+  "last_updated_utc": "2026-10-30T21:59:34.012627+00:00"
 }

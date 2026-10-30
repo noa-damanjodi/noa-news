@@ -2,11 +2,131 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Legislators to OSHA: Scrap proposed changes to respirator rule",
+      "category": "SAFETY",
+      "date": "2026-10-30T20:09:30+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/legislators-to-osha-scrap-proposed-changes-to-respirator-rule/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "What happens to a 230-kilovolt three-phase power transformer during an earthquake?",
+      "category": "RENEWABLE",
+      "date": "2026-10-30T20:06:57+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/what-happens-to-a-230-kilovolt-three-phase-power-transformer-during-an-earthquake/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Oregon adopts workplace violence prevention rules for health care settings",
+      "category": "SAFETY",
+      "date": "2026-10-30T19:58:55+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/oregon-adopts-workplace-violence-prevention-rules-for-health-care-settings/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Ameresco completes $5.9M AMI project for utility operations in Oklahoma",
+      "category": "RENEWABLE",
+      "date": "2026-10-30T19:52:58+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/ameresco-completes-5-9m-ami-project-for-utility-operations-in-oklahoma/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Trucking surveys ask: How does driver health affect industry operations?",
+      "category": "SAFETY",
+      "date": "2026-10-30T17:50:05+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/trucking-surveys-ask-how-does-driver-health-affect-industry-operations/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "How Florida municipal utilities are using AI to improve storm damage assessment",
+      "category": "RENEWABLE",
+      "date": "2026-10-30T16:31:15+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/outage-management/how-florida-municipal-utilities-are-using-ai-to-improve-storm-damage-assessment/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Can this battery clean up industrial heat? — This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-10-30T16:18:28+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/can-this-battery-clean-up-industrial-heat-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Province announces $8 billion Ontario Competitiveness Tax Cut",
+      "category": "INSTRUMENTATION",
+      "date": "2026-10-30T15:31:30+00:00",
+      "url": "https://www.automationmag.com/province-announces-8-billion-ontario-competitiveness-tax-cut/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Allplan Max 2027 launched for engineering workflows",
+      "category": "MECHANICAL",
+      "date": "2026-10-30T14:48:47+00:00",
+      "url": "https://www.engineering.com/allplan-max-2027-launched-for-engineering-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens introduces packaged microgrid switchboard",
+      "category": "MECHANICAL",
+      "date": "2026-10-30T14:36:19+00:00",
+      "url": "https://www.engineering.com/siemens-introduces-packaged-microgrid-switchboard/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "EOS partners with BIZU Space on aerospace 3D printing",
+      "category": "MECHANICAL",
+      "date": "2026-10-30T14:26:49+00:00",
+      "url": "https://www.engineering.com/eos-partners-with-bizu-space-on-aerospace-3d-printing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Navigating the future of utility innovation and affordability | Q&A with Mike Delaney",
+      "category": "RENEWABLE",
+      "date": "2026-10-30T13:56:30+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/navigating-the-future-of-utility-innovation-and-affordability-qa-with-mike-delaney/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Oracle plans Arm AGI CPU for OCI in 2027",
+      "category": "MECHANICAL",
+      "date": "2026-10-30T13:18:02+00:00",
+      "url": "https://www.engineering.com/oracle-plans-arm-agi-cpu-for-oci-in-2027/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Allied Gold begins wet commissioning at Kurmuk mine",
+      "category": "INDUSTRY",
+      "date": "2026-10-30T12:21:53+00:00",
+      "url": "https://www.mining-technology.com/news/allied-gold-wet-commissioning-kurmuk-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Software wins Gold, Silver, and Bronze in the 2026 LEAP Awards",
       "category": "MECHANICAL",
       "date": "2026-10-30T12:00:00+00:00",
       "url": "https://www.engineering.com/software-wins-gold-silver-and-bronze-in-the-2026-leap-awards/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rio Tinto inaugurates $985m Argentine lithium operations",
+      "category": "INDUSTRY",
+      "date": "2026-10-30T11:55:27+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-argentine-lithium-operations/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -54858,5 +54978,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-10-30T12:18:09.495224+00:00"
+  "last_updated_utc": "2026-10-30T21:59:34.012627+00:00"
 }
