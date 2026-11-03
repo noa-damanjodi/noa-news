@@ -2,6 +2,118 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Seequent acquires Eliis to expand seismic interpretation",
+      "category": "MECHANICAL",
+      "date": "2026-11-03T13:23:22+00:00",
+      "url": "https://www.engineering.com/seequent-acquires-eliis-to-expand-seismic-interpretation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens expands ELV drive portfolio for mobile applications",
+      "category": "MECHANICAL",
+      "date": "2026-11-03T13:15:51+00:00",
+      "url": "https://www.engineering.com/siemens-expands-elv-drive-portfolio-for-mobile-applications/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Stratasys to show new manufacturing tools at Formnext",
+      "category": "MECHANICAL",
+      "date": "2026-11-03T13:00:00+00:00",
+      "url": "https://www.engineering.com/stratasys-to-show-new-manufacturing-tools-at-formnext/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rotor Clip qualifies new sealing rings for aerospace systems",
+      "category": "MECHANICAL",
+      "date": "2026-11-03T12:12:14+00:00",
+      "url": "https://www.engineering.com/rotor-clip-qualifies-new-sealing-rings-for-aerospace-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hexagon completes acquisition of Waygate Technologies",
+      "category": "MECHANICAL",
+      "date": "2026-11-03T11:55:40+00:00",
+      "url": "https://www.engineering.com/hexagon-completes-acquisition-of-waygate-technologies/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "3D Systems expands dental 3D printing distribution in Europe",
+      "category": "MECHANICAL",
+      "date": "2026-11-03T11:40:36+00:00",
+      "url": "https://www.engineering.com/3d-systems-expands-dental-3d-printing-distribution-in-europe/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Deloitte expands Oracle alliance with new business group",
+      "category": "MECHANICAL",
+      "date": "2026-11-03T11:33:43+00:00",
+      "url": "https://www.engineering.com/deloitte-expands-oracle-alliance-with-new-business-group/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "GE Vernova launches engineering education program in Greenville",
+      "category": "MECHANICAL",
+      "date": "2026-11-03T10:23:29+00:00",
+      "url": "https://www.engineering.com/ge-vernova-launches-engineering-education-program-in-greenville/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Uranium One begins exploration at its Yuty project in Paraguay",
+      "category": "INDUSTRY",
+      "date": "2026-11-03T09:49:37+00:00",
+      "url": "https://www.mining-technology.com/news/uranium-one-begins-exploration-yuty-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Chile’s plans for copper, lithium and critical minerals: Q&A with the Mining Ministry",
+      "category": "INDUSTRY",
+      "date": "2026-11-03T08:20:00+00:00",
+      "url": "https://www.mining-technology.com/analysis/chiles-plans-for-copper-lithium-and-critical-minerals-qa-with-the-mining-ministry/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Kavango completes commissioning of Hillside gold plant in Zimbabwe",
+      "category": "INDUSTRY",
+      "date": "2026-11-03T07:17:16+00:00",
+      "url": "https://www.mining-technology.com/news/kavango-completes-commissioning-hillside-plant/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Gold Fields wins Québec approval for Windfall project construction",
+      "category": "INDUSTRY",
+      "date": "2026-11-03T07:17:09+00:00",
+      "url": "https://www.mining-technology.com/news/gold-fields-quebec-approval-windfall-construction/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Hull Street Energy completes acquisition of FirstLight’s pumped storage, hydro assets",
+      "category": "RENEWABLE",
+      "date": "2026-11-03T06:30:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/hull-street-energy-completes-acquisition-of-firstlights-pumped-storage-hydro-assets/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Is AI the answer for tidal energy wildlife detection?",
+      "category": "RENEWABLE",
+      "date": "2026-11-03T06:15:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/is-ai-the-answer-for-tidal-energy-wildlife-detection/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Six Engineering Considerations When Selecting a Potentiometer",
       "category": "MECHANICAL",
       "date": "2026-11-02T21:19:19+00:00",
@@ -55162,5 +55274,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-03T00:39:39.106504+00:00"
+  "last_updated_utc": "2026-11-03T13:45:58.851231+00:00"
 }

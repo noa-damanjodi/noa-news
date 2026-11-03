@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Hull Street Energy completes acquisition of FirstLight’s pumped storage, hydro assets",
+      "category": "RENEWABLE",
+      "date": "2026-11-03T06:30:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/hull-street-energy-completes-acquisition-of-firstlights-pumped-storage-hydro-assets/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Is AI the answer for tidal energy wildlife detection?",
+      "category": "RENEWABLE",
+      "date": "2026-11-03T06:15:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/is-ai-the-answer-for-tidal-energy-wildlife-detection/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "How Octopus Energy US and Uplight are rewriting the playbook for demand flexibility",
       "category": "RENEWABLE",
       "date": "2026-11-02T14:00:00+00:00",
@@ -4322,5 +4338,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-03T00:39:39.106504+00:00"
+  "last_updated_utc": "2026-11-03T13:45:58.851231+00:00"
 }
