@@ -2,6 +2,46 @@
   "category": "ALL",
   "items": [
     {
+      "title": "MSHA rolls out ‘professionalism’ training for its inspectors",
+      "category": "SAFETY",
+      "date": "2026-11-03T19:47:36+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/msha-rolls-out-professionalism-training-for-its-inspectors/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Study of janitors explores the safety and health impacts of working alone",
+      "category": "SAFETY",
+      "date": "2026-11-03T19:21:43+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/study-of-janitors-explores-the-safety-and-health-impacts-of-working-alone/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Workshop explores efforts to curb distracted driving in trucking industry",
+      "category": "SAFETY",
+      "date": "2026-11-03T19:13:26+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/workshop-explores-efforts-to-curb-distracted-driving-in-trucking-industry/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "The state of industrial AI: IFS Unleashed 2026",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-03T16:25:17+00:00",
+      "url": "https://www.automationmag.com/the-state-of-industrial-ai-ifs-unleashed-2026/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "DTECH Northeast is underway, here are sessions you won’t want to miss",
+      "category": "RENEWABLE",
+      "date": "2026-11-03T14:35:08+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/dtech-northeast-is-underway-here-are-sessions-you-wont-want-to-miss/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Seequent acquires Eliis to expand seismic interpretation",
       "category": "MECHANICAL",
       "date": "2026-11-03T13:23:22+00:00",
@@ -126,6 +166,14 @@
       "category": "INSTRUMENTATION",
       "date": "2026-11-02T20:38:08+00:00",
       "url": "https://www.automationmag.com/khk-usa-introduces-duplex-worm-hears-for-precision-backlash-adjustment/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "KHK USA introduces duplex worm gears for precision backlash adjustment",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-02T20:38:08+00:00",
+      "url": "https://www.automationmag.com/khk-usa-introduces-duplex-worm-gears-for-precision-backlash-adjustment/",
       "source": "Manufacturing AUTOMATION",
       "type": "magazine"
     },
@@ -55274,5 +55322,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-03T13:45:58.851231+00:00"
+  "last_updated_utc": "2026-11-03T22:58:28.255300+00:00"
 }
