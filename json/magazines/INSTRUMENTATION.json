@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "KHK USA introduces duplex worm hears for precision backlash adjustment",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-02T20:38:08+00:00",
+      "url": "https://www.automationmag.com/khk-usa-introduces-duplex-worm-hears-for-precision-backlash-adjustment/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Manufacturing sector in renewed downturn as tariffs undermine performance",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-02T20:26:59+00:00",
+      "url": "https://www.automationmag.com/manufacturing-sector-in-renewed-downturn-as-tariffs-undermine-performance/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Province announces $8 billion Ontario Competitiveness Tax Cut",
       "category": "INSTRUMENTATION",
       "date": "2026-10-30T15:31:30+00:00",
@@ -3330,5 +3346,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-02T14:58:20.685740+00:00"
+  "last_updated_utc": "2026-11-03T00:39:39.106504+00:00"
 }

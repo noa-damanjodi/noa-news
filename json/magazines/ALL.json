@@ -2,11 +2,75 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Six Engineering Considerations When Selecting a Potentiometer",
+      "category": "MECHANICAL",
+      "date": "2026-11-02T21:19:19+00:00",
+      "url": "https://www.engineering.com/six-engineering-considerations-when-selecting-a-potentiometer/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "KHK USA introduces duplex worm hears for precision backlash adjustment",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-02T20:38:08+00:00",
+      "url": "https://www.automationmag.com/khk-usa-introduces-duplex-worm-hears-for-precision-backlash-adjustment/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Manufacturing sector in renewed downturn as tariffs undermine performance",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-02T20:26:59+00:00",
+      "url": "https://www.automationmag.com/manufacturing-sector-in-renewed-downturn-as-tariffs-undermine-performance/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA’s next HazCom deadline for employers is only weeks away",
+      "category": "SAFETY",
+      "date": "2026-11-02T17:52:51+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/oshas-next-hazcom-deadline-for-employers-is-only-weeks-away/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Construction safety researchers ask for input on how AI is influencing hazard identification",
+      "category": "SAFETY",
+      "date": "2026-11-02T17:37:56+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/construction-safety-researchers-asking-for-input-on-how-ai-is-influencing-hazard-identification/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "What I learned from 45 years of CAD development: Doing more with less",
+      "category": "MECHANICAL",
+      "date": "2026-11-02T16:46:18+00:00",
+      "url": "https://www.engineering.com/what-i-learned-from-45-years-of-cad-development-doing-more-with-less/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Arizona safety agency advances SIF alliance plans",
+      "category": "SAFETY",
+      "date": "2026-11-02T15:58:05+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/arizona-safety-agency-advances-sif-alliance-plans/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Nemetschek expands AI tools across building workflows",
       "category": "MECHANICAL",
       "date": "2026-11-02T14:36:12+00:00",
       "url": "https://www.engineering.com/nemetschek-expands-ai-tools-across-building-workflows/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "How Octopus Energy US and Uplight are rewriting the playbook for demand flexibility",
+      "category": "RENEWABLE",
+      "date": "2026-11-02T14:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/how-octopus-energy-us-and-uplight-are-rewriting-the-playbook-for-demand-flexibility/",
+      "source": "Factor This™",
       "type": "magazine"
     },
     {
@@ -55098,5 +55162,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-02T14:58:20.685740+00:00"
+  "last_updated_utc": "2026-11-03T00:39:39.106504+00:00"
 }
