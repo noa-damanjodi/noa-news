@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "GE Vernova acquires Trench Group for $9B to expand electrification businesses",
+      "category": "RENEWABLE",
+      "date": "2026-11-04T11:11:14+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/ge-vernova-acquires-trench-group-for-9b-to-expand-electrification-businesses/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Northeast utilities and grid operators detail affordability challenges, grid modernization, and AI adoption at DTECH Northeast",
+      "category": "RENEWABLE",
+      "date": "2026-11-04T04:41:56+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/northeast-utilities-and-grid-operators-detail-affordability-challenges-grid-modernization-and-ai-adoption-at-dtech-northeast/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "DTECH Northeast is underway, here are sessions you won’t want to miss",
       "category": "RENEWABLE",
       "date": "2026-11-03T14:35:08+00:00",
@@ -4346,5 +4362,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-04T05:14:48.187527+00:00"
+  "last_updated_utc": "2026-11-04T13:54:26.607506+00:00"
 }

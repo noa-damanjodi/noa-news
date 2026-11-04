@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "JSW Greentech selects Siemens Xcelerator for commercial EVs",
+      "category": "MECHANICAL",
+      "date": "2026-11-04T12:33:43+00:00",
+      "url": "https://www.engineering.com/jsw-greentech-selects-siemens-xcelerator-for-commercial-evs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rochester extends lifecycle support for NXP MPC56x processors",
+      "category": "MECHANICAL",
+      "date": "2026-11-04T12:22:56+00:00",
+      "url": "https://www.engineering.com/rochester-extends-lifecycle-support-for-nxp-mpc56x-processors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rochester extends availability of NXP QorIQ P-Series processors",
+      "category": "MECHANICAL",
+      "date": "2026-11-04T12:18:37+00:00",
+      "url": "https://www.engineering.com/rochester-extends-availability-of-nxp-qoriq-p-series-processors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Black Pine completes drilling at Sugarloaf copper property",
+      "category": "INDUSTRY",
+      "date": "2026-11-04T11:55:35+00:00",
+      "url": "https://www.mining-technology.com/news/black-pine-completes-drilling-sugarloaf/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "IEEE launches six-book engineering series for children",
+      "category": "MECHANICAL",
+      "date": "2026-11-04T11:42:25+00:00",
+      "url": "https://www.engineering.com/ieee-launches-six-book-engineering-series-for-children/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mouser stocks TE Connectivity’s HC-STAK 35 interconnection system",
+      "category": "MECHANICAL",
+      "date": "2026-11-04T11:34:08+00:00",
+      "url": "https://www.engineering.com/mouser-stocks-te-connectivitys-hc-stak-35-interconnection-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "GE Vernova acquires Trench Group for $9B to expand electrification businesses",
+      "category": "RENEWABLE",
+      "date": "2026-11-04T11:11:14+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/ge-vernova-acquires-trench-group-for-9b-to-expand-electrification-businesses/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Dynacor Group secures $20m facility for Svetlana plant",
+      "category": "INDUSTRY",
+      "date": "2026-11-04T10:07:10+00:00",
+      "url": "https://www.mining-technology.com/news/dynacor-20m-facility-svetlana-plant/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Perseverance Metals expands Voyageur land by 13,000 acres in Michigan",
+      "category": "INDUSTRY",
+      "date": "2026-11-04T07:40:21+00:00",
+      "url": "https://www.mining-technology.com/news/perseverance-expands-voyageur-land-13000-acres/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Barton Gold begins scoping study for Challenger mine feed",
+      "category": "INDUSTRY",
+      "date": "2026-11-04T07:40:19+00:00",
+      "url": "https://www.mining-technology.com/news/barton-gold-scoping-study-challenger-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Northeast utilities and grid operators detail affordability challenges, grid modernization, and AI adoption at DTECH Northeast",
+      "category": "RENEWABLE",
+      "date": "2026-11-04T04:41:56+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/northeast-utilities-and-grid-operators-detail-affordability-challenges-grid-modernization-and-ai-adoption-at-dtech-northeast/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "MSHA rolls out ‘professionalism’ training for its inspectors",
       "category": "SAFETY",
       "date": "2026-11-03T19:47:36+00:00",
@@ -79,6 +167,22 @@
       "date": "2026-11-03T11:55:40+00:00",
       "url": "https://www.engineering.com/hexagon-completes-acquisition-of-waygate-technologies/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Silver One adds two drill rigs at Candelaria Project in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-11-03T11:52:49+00:00",
+      "url": "https://www.mining-technology.com/news/silver-one-adds-two-drill-rigs-candelaria/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Blue Moon agrees to sell Norwegian unit to ACG for $220m",
+      "category": "INDUSTRY",
+      "date": "2026-11-03T11:47:12+00:00",
+      "url": "https://www.mining-technology.com/news/blue-moon-sell-norwegian-unit-acg/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -55322,5 +55426,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-04T05:14:48.187527+00:00"
+  "last_updated_utc": "2026-11-04T13:54:26.607506+00:00"
 }
