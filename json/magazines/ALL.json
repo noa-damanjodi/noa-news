@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Siemens Aims for 80 Percent Automation in German Plant",
+      "category": "MECHANICAL",
+      "date": "2026-11-04T22:05:53+00:00",
+      "url": "https://www.engineering.com/siemens-aims-for-80-percent-automation-in-german-plant/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "MQM gets $3.5M for N.B. plant expansion, robotics",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-04T20:43:53+00:00",
+      "url": "https://www.automationmag.com/mqm-gets-3-5m-for-n-b-plant-expansion-robotics/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA panel gives update on efforts to reduce worker exposure to silica",
+      "category": "SAFETY",
+      "date": "2026-11-04T19:02:59+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-panel-gives-update-on-efforts-to-reduce-worker-exposure-to-silica/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "New from OSHA: Lithium-ion Battery Safety website",
+      "category": "SAFETY",
+      "date": "2026-11-04T18:36:23+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/new-from-osha-lithium-ion-battery-safety-website/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "FAA’s proposed changes to on-flight medical kits are the wrong way to modernize, AMA contends",
+      "category": "SAFETY",
+      "date": "2026-11-04T18:07:28+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/faas-proposed-changes-to-on-flight-medical-kits-are-the-wrong-way-to-modernize-ama-contends/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Bison expands access to MAE stepper motors globally",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-04T15:46:59+00:00",
+      "url": "https://www.automationmag.com/bison-expands-access-to-mae-stepper-motors-globally/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Carbon and Arkema develop elastomeric resins for DLS",
+      "category": "MECHANICAL",
+      "date": "2026-11-04T14:46:46+00:00",
+      "url": "https://www.engineering.com/carbon-and-arkema-develop-elastomeric-resins-for-dls/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "JSW Greentech selects Siemens Xcelerator for commercial EVs",
       "category": "MECHANICAL",
       "date": "2026-11-04T12:33:43+00:00",
@@ -23,6 +79,14 @@
       "date": "2026-11-04T12:18:37+00:00",
       "url": "https://www.engineering.com/rochester-extends-availability-of-nxp-qoriq-p-series-processors/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Core Energy mobilises team for Barking Gecko uranium drilling",
+      "category": "INDUSTRY",
+      "date": "2026-11-04T11:56:48+00:00",
+      "url": "https://www.mining-technology.com/news/core-energy-mobilises-barking-gecko-drilling/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -55426,5 +55490,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-04T13:54:26.607506+00:00"
+  "last_updated_utc": "2026-11-04T23:18:34.124279+00:00"
 }

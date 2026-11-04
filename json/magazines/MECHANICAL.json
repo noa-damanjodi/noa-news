@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Siemens Aims for 80 Percent Automation in German Plant",
+      "category": "MECHANICAL",
+      "date": "2026-11-04T22:05:53+00:00",
+      "url": "https://www.engineering.com/siemens-aims-for-80-percent-automation-in-german-plant/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Carbon and Arkema develop elastomeric resins for DLS",
+      "category": "MECHANICAL",
+      "date": "2026-11-04T14:46:46+00:00",
+      "url": "https://www.engineering.com/carbon-and-arkema-develop-elastomeric-resins-for-dls/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "JSW Greentech selects Siemens Xcelerator for commercial EVs",
       "category": "MECHANICAL",
       "date": "2026-11-04T12:33:43+00:00",
@@ -15466,5 +15482,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-04T13:54:26.607506+00:00"
+  "last_updated_utc": "2026-11-04T23:18:34.124279+00:00"
 }
