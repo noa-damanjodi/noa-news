@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Eagle Nuclear Energy to buy Noble Plains Uranium",
+      "category": "INDUSTRY",
+      "date": "2026-11-05T09:56:37+00:00",
+      "url": "https://www.mining-technology.com/news/eagle-loi-to-acquire-noble-plains/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Fluor to proceed with Sierra Gorda grinding line project in Chile",
+      "category": "INDUSTRY",
+      "date": "2026-11-05T08:08:03+00:00",
+      "url": "https://www.mining-technology.com/news/fluor-proceed-sierra-gorda-grinding-line/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Freeport to invest $4.5bn in Bagdad project expansion",
+      "category": "INDUSTRY",
+      "date": "2026-11-05T08:07:46+00:00",
+      "url": "https://www.mining-technology.com/news/freeport-4-5bn-bagdad-project-expansion/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Core Energy mobilises team for Barking Gecko uranium drilling",
       "category": "INDUSTRY",
       "date": "2026-11-04T11:56:48+00:00",
@@ -10170,5 +10194,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-05T05:35:57.744423+00:00"
+  "last_updated_utc": "2026-11-05T14:09:57.471179+00:00"
 }
