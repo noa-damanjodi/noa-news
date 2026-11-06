@@ -2,6 +2,30 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Aureka secures prospecting licence for Comstock project in Victoria",
+      "category": "INDUSTRY",
+      "date": "2026-11-06T10:22:26+00:00",
+      "url": "https://www.mining-technology.com/news/aureka-prospecting-licence-comstock-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rio Tinto approves $144m for copper project in Arizona, US",
+      "category": "INDUSTRY",
+      "date": "2026-11-06T08:05:59+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-144m-copper-project-arizona/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "IMC Rare Earths plans deeper drilling at Brazil’s Itarantim project",
+      "category": "INDUSTRY",
+      "date": "2026-11-06T08:05:30+00:00",
+      "url": "https://www.mining-technology.com/news/imc-rare-earths-drilling-itarantim-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Caledonia signs $150m financing for Bilboes Gold Project",
       "category": "INDUSTRY",
       "date": "2026-11-05T13:09:19+00:00",
@@ -10210,5 +10234,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-06T05:32:50.891806+00:00"
+  "last_updated_utc": "2026-11-06T13:52:23.093466+00:00"
 }

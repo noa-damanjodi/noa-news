@@ -2,6 +2,86 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Honeywell and RWS advance AI-powered cooling optimization",
+      "category": "MECHANICAL",
+      "date": "2026-11-06T12:32:48+00:00",
+      "url": "https://www.engineering.com/honeywell-and-rws-advance-ai-powered-cooling-optimization/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mouser offers Advantech MIC-743-AT AI inference system",
+      "category": "MECHANICAL",
+      "date": "2026-11-06T12:14:27+00:00",
+      "url": "https://www.engineering.com/mouser-offers-advantech-mic-743-at-ai-inference-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens expands rail partnerships across Asia-Pacific",
+      "category": "MECHANICAL",
+      "date": "2026-11-06T12:04:31+00:00",
+      "url": "https://www.engineering.com/siemens-expands-rail-partnerships-across-asia-pacific/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens automates component model extraction for NVH",
+      "category": "MECHANICAL",
+      "date": "2026-11-06T11:55:04+00:00",
+      "url": "https://www.engineering.com/siemens-automates-component-model-extraction-for-nvh/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD joins IBM and ORNL to advance quantum computing",
+      "category": "MECHANICAL",
+      "date": "2026-11-06T11:52:55+00:00",
+      "url": "https://www.engineering.com/amd-joins-ibm-and-ornl-to-advance-quantum-computing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble adds cloud drone processing to WorksManager",
+      "category": "MECHANICAL",
+      "date": "2026-11-06T11:37:25+00:00",
+      "url": "https://www.engineering.com/trimble-adds-cloud-drone-processing-to-worksmanager/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HP WXP named a Strong Performer in Forrester Wave 2026",
+      "category": "MECHANICAL",
+      "date": "2026-11-06T11:07:54+00:00",
+      "url": "https://www.engineering.com/hp-wxp-named-a-strong-performer-in-forrester-wave-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aureka secures prospecting licence for Comstock project in Victoria",
+      "category": "INDUSTRY",
+      "date": "2026-11-06T10:22:26+00:00",
+      "url": "https://www.mining-technology.com/news/aureka-prospecting-licence-comstock-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Rio Tinto approves $144m for copper project in Arizona, US",
+      "category": "INDUSTRY",
+      "date": "2026-11-06T08:05:59+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-144m-copper-project-arizona/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "IMC Rare Earths plans deeper drilling at Brazil’s Itarantim project",
+      "category": "INDUSTRY",
+      "date": "2026-11-06T08:05:30+00:00",
+      "url": "https://www.mining-technology.com/news/imc-rare-earths-drilling-itarantim-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Arrowfly’s AI Engineering Board turns big questions into practical direction",
       "category": "MECHANICAL",
       "date": "2026-11-05T20:58:54+00:00",
@@ -55634,5 +55714,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-06T05:32:50.891806+00:00"
+  "last_updated_utc": "2026-11-06T13:52:23.093466+00:00"
 }
