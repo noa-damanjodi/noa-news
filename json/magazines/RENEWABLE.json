@@ -2,6 +2,46 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "POWERGEN™ 2027 announces keynote program featuring industry leaders addressing grid reliability, AI, and the future of power generation",
+      "category": "RENEWABLE",
+      "date": "2026-11-06T17:46:55+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/powergen-2027-announces-keynote-program-featuring-industry-leaders-addressing-grid-reliability-ai-and-the-future-of-power-generation/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Revolution Wind reaches full power after years of delays, federal roadblocks",
+      "category": "RENEWABLE",
+      "date": "2026-11-06T17:41:42+00:00",
+      "url": "https://www.renewableenergyworld.com/wind-power/offshore/revolution-wind-reaches-full-power-after-years-of-delays-federal-roadblocks/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Insights from Itron Inspire: Leveraging what the grid already knows and the convergence of IT and OT",
+      "category": "RENEWABLE",
+      "date": "2026-11-06T17:06:09+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/insights-from-itron-inspire-leveraging-what-the-grid-already-knows-and-the-convergence-of-it-and-ot/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "What does the blue wave mean for clean energy? — This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-11-06T16:07:06+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/what-does-the-blue-wave-mean-for-clean-energy-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Distributed energy could save the U.S. power grid $614B",
+      "category": "RENEWABLE",
+      "date": "2026-11-06T14:52:29+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/distributed-energy-could-save-the-u-s-power-grid-614b/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Why federal permitting reform is a generational opportunity for energy | Factor This Policycast",
       "category": "RENEWABLE",
       "date": "2026-11-05T11:00:00+00:00",
@@ -4370,5 +4410,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-06T13:52:23.093466+00:00"
+  "last_updated_utc": "2026-11-06T22:47:24.520733+00:00"
 }
