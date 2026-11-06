@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Caledonia signs $150m financing for Bilboes Gold Project",
+      "category": "INDUSTRY",
+      "date": "2026-11-05T13:09:19+00:00",
+      "url": "https://www.mining-technology.com/news/caledonia-150m-financing-bilboes-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Viridis signs binding rare earths supply contract with Solvay",
+      "category": "INDUSTRY",
+      "date": "2026-11-05T13:09:14+00:00",
+      "url": "https://www.mining-technology.com/news/viridis-rare-earths-supply-contract-solvay/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Eagle Nuclear Energy to buy Noble Plains Uranium",
       "category": "INDUSTRY",
       "date": "2026-11-05T09:56:37+00:00",
@@ -10194,5 +10210,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-05T14:09:57.471179+00:00"
+  "last_updated_utc": "2026-11-06T05:32:50.891806+00:00"
 }

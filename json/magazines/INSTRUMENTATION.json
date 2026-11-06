@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "ADM Montreal 2026 is advancing change",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-05T16:49:15+00:00",
+      "url": "https://www.automationmag.com/adm-montreal-2026-is-advancing-change/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Agility becomes first U.S. publicly listed pure-play humanoid robotics company",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-05T16:28:32+00:00",
+      "url": "https://www.automationmag.com/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "MQM gets $3.5M for N.B. plant expansion, robotics",
       "category": "INSTRUMENTATION",
       "date": "2026-11-04T20:43:53+00:00",
@@ -3378,5 +3394,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-05T14:09:57.471179+00:00"
+  "last_updated_utc": "2026-11-06T05:32:50.891806+00:00"
 }
