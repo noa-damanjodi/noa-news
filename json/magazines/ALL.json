@@ -2,6 +2,70 @@
   "category": "ALL",
   "items": [
     {
+      "title": "NVIDIA, Rebellions and SK Telecom advance Korea’s sovereign AI",
+      "category": "MECHANICAL",
+      "date": "2026-11-09T11:32:55+00:00",
+      "url": "https://www.engineering.com/nvidia-rebellions-and-sk-telecom-advance-koreas-sovereign-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mondelēz and Accenture apply agentic AI to Order-to-Cash",
+      "category": "MECHANICAL",
+      "date": "2026-11-09T11:21:11+00:00",
+      "url": "https://www.engineering.com/mondelez-and-accenture-apply-agentic-ai-to-order-to-cash/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Capgemini to lead EU consortium assessing advanced AI risks",
+      "category": "MECHANICAL",
+      "date": "2026-11-09T11:14:46+00:00",
+      "url": "https://www.engineering.com/capgemini-to-lead-eu-consortium-assessing-advanced-ai-risks/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "GE Vernova to supply 6 GW HVDC corridor in India",
+      "category": "MECHANICAL",
+      "date": "2026-11-09T10:56:49+00:00",
+      "url": "https://www.engineering.com/ge-vernova-to-supply-6-gw-hvdc-corridor-in-india/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Advantech names Miller Chang as CEO effective January 2027",
+      "category": "MECHANICAL",
+      "date": "2026-11-09T10:47:47+00:00",
+      "url": "https://www.engineering.com/advantech-names-miller-chang-as-ceo-effective-january-2027/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Torrent Gold agrees to buy New Mexico’s Sunrise Tungsten Project",
+      "category": "INDUSTRY",
+      "date": "2026-11-09T10:15:27+00:00",
+      "url": "https://www.mining-technology.com/news/torrent-gold-buy-sunrise-tungsten-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Riverside to begin new drilling phase at La Union Project, Sonora",
+      "category": "INDUSTRY",
+      "date": "2026-11-09T07:53:52+00:00",
+      "url": "https://www.mining-technology.com/news/riverside-new-drilling-la-union-sonora/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Relevant Gold secures US approval for expanded Lewiston drilling",
+      "category": "INDUSTRY",
+      "date": "2026-11-09T07:53:45+00:00",
+      "url": "https://www.mining-technology.com/news/relevant-gold-us-approval-lewiston-drilling/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Voters overwhelmingly rejected data centers in the midterms – here’s where developers will have a tough time",
       "category": "RENEWABLE",
       "date": "2026-11-06T22:08:31+00:00",
@@ -119,6 +183,22 @@
       "date": "2026-11-06T11:52:55+00:00",
       "url": "https://www.engineering.com/amd-joins-ibm-and-ornl-to-advance-quantum-computing/",
       "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ACDC Metals begins field work at Mount Jackson project in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-11-06T11:50:03+00:00",
+      "url": "https://www.mining-technology.com/news/acdc-field-work-mount-jackson-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "AngloGold plans $900m investment for 400,000oz production rise",
+      "category": "INDUSTRY",
+      "date": "2026-11-06T11:49:57+00:00",
+      "url": "https://www.mining-technology.com/news/anglogold-900m-investment-production-rise/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -55794,5 +55874,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-09T05:04:15.760639+00:00"
+  "last_updated_utc": "2026-11-09T15:28:18.319030+00:00"
 }
