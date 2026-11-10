@@ -2,6 +2,62 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Arrow secures option to acquire Pannawonica iron ore project",
+      "category": "INDUSTRY",
+      "date": "2026-11-10T12:14:28+00:00",
+      "url": "https://www.mining-technology.com/news/arrow-to-acquire-pannawonica-iron-ore/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Astron signs five-year HMC offtake deal with XXLG",
+      "category": "INDUSTRY",
+      "date": "2026-11-10T12:14:21+00:00",
+      "url": "https://www.mining-technology.com/news/astron-five-year-hmc-offtake-deal-xxlg/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Okopa signs deals for Namibian copper project",
+      "category": "INDUSTRY",
+      "date": "2026-11-10T10:01:15+00:00",
+      "url": "https://www.mining-technology.com/news/okopa-deals-namibian-copper-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Allied Gold pours first gold at Ethiopia’s Kurmuk Mine",
+      "category": "INDUSTRY",
+      "date": "2026-11-10T07:54:24+00:00",
+      "url": "https://www.mining-technology.com/news/allied-gold-pours-first-gold-kurmuk-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Alphamin signs tin supply deal with Nathan Trotter",
+      "category": "INDUSTRY",
+      "date": "2026-11-10T07:54:09+00:00",
+      "url": "https://www.mining-technology.com/news/alphamin-tin-supply-nathan-trotter/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Metso to supply dry grinding tech to Jerritt Canyon Gold Mine",
+      "category": "INDUSTRY",
+      "date": "2026-11-09T12:21:20+00:00",
+      "url": "https://www.mining-technology.com/news/metso-dry-grinding-tech-jerritt-canyon/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Vivox AI, beSirius team up on mining supply chain compliance",
+      "category": "INDUSTRY",
+      "date": "2026-11-09T12:21:14+00:00",
+      "url": "https://www.mining-technology.com/news/vivox-ai-besirius-mining-supply-chain-compliance/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Torrent Gold agrees to buy New Mexico’s Sunrise Tungsten Project",
       "category": "INDUSTRY",
       "date": "2026-11-09T10:15:27+00:00",
@@ -10274,5 +10330,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-10T01:15:24.880638+00:00"
+  "last_updated_utc": "2026-11-10T14:28:38.515803+00:00"
 }

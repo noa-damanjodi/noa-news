@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Arrow secures option to acquire Pannawonica iron ore project",
+      "category": "INDUSTRY",
+      "date": "2026-11-10T12:14:28+00:00",
+      "url": "https://www.mining-technology.com/news/arrow-to-acquire-pannawonica-iron-ore/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Astron signs five-year HMC offtake deal with XXLG",
+      "category": "INDUSTRY",
+      "date": "2026-11-10T12:14:21+00:00",
+      "url": "https://www.mining-technology.com/news/astron-five-year-hmc-offtake-deal-xxlg/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "ENCY 3.2 adds tooling, finishing and workholding updates",
+      "category": "MECHANICAL",
+      "date": "2026-11-10T11:20:22+00:00",
+      "url": "https://www.engineering.com/ency-3-2-adds-tooling-finishing-and-workholding-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble expands AI capabilities across construction lifecycle",
+      "category": "MECHANICAL",
+      "date": "2026-11-10T10:57:24+00:00",
+      "url": "https://www.engineering.com/trimble-expands-ai-capabilities-across-construction-lifecycle/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rochester expands localized e-commerce across global markets",
+      "category": "MECHANICAL",
+      "date": "2026-11-10T10:49:08+00:00",
+      "url": "https://www.engineering.com/rochester-expands-localized-e-commerce-across-global-markets/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Okopa signs deals for Namibian copper project",
+      "category": "INDUSTRY",
+      "date": "2026-11-10T10:01:15+00:00",
+      "url": "https://www.mining-technology.com/news/okopa-deals-namibian-copper-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Octave launches AI-enabled multi-site facilities management tool",
+      "category": "MECHANICAL",
+      "date": "2026-11-10T08:36:51+00:00",
+      "url": "https://www.engineering.com/octave-launches-ai-enabled-multi-site-facilities-management-tool/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and Swinburne expand energy alliance across Asia",
+      "category": "MECHANICAL",
+      "date": "2026-11-10T08:32:21+00:00",
+      "url": "https://www.engineering.com/siemens-and-swinburne-expand-energy-alliance-across-asia/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD EPYC processors power Google Cloud’s confidential AI",
+      "category": "MECHANICAL",
+      "date": "2026-11-10T08:20:10+00:00",
+      "url": "https://www.engineering.com/amd-epyc-processors-power-google-clouds-confidential-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Allied Gold pours first gold at Ethiopia’s Kurmuk Mine",
+      "category": "INDUSTRY",
+      "date": "2026-11-10T07:54:24+00:00",
+      "url": "https://www.mining-technology.com/news/allied-gold-pours-first-gold-kurmuk-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Alphamin signs tin supply deal with Nathan Trotter",
+      "category": "INDUSTRY",
+      "date": "2026-11-10T07:54:09+00:00",
+      "url": "https://www.mining-technology.com/news/alphamin-tin-supply-nathan-trotter/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Eco Wave Power completes first step of its digital twin journey",
       "category": "RENEWABLE",
       "date": "2026-11-09T22:25:00+00:00",
@@ -55,6 +143,22 @@
       "date": "2026-11-09T19:24:00+00:00",
       "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/understanding-the-future-of-vpp-market-design-and-technology-with-shikhar-pandey/",
       "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Metso to supply dry grinding tech to Jerritt Canyon Gold Mine",
+      "category": "INDUSTRY",
+      "date": "2026-11-09T12:21:20+00:00",
+      "url": "https://www.mining-technology.com/news/metso-dry-grinding-tech-jerritt-canyon/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Vivox AI, beSirius team up on mining supply chain compliance",
+      "category": "INDUSTRY",
+      "date": "2026-11-09T12:21:14+00:00",
+      "url": "https://www.mining-technology.com/news/vivox-ai-besirius-mining-supply-chain-compliance/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -55930,5 +56034,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-10T01:15:24.880638+00:00"
+  "last_updated_utc": "2026-11-10T14:28:38.515803+00:00"
 }
