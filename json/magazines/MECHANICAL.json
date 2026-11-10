@@ -2,6 +2,14 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Farsoon adds modular polymer PBF platform for production",
+      "category": "MECHANICAL",
+      "date": "2026-11-10T14:43:04+00:00",
+      "url": "https://www.engineering.com/farsoon-adds-modular-polymer-pbf-platform-for-production/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "ENCY 3.2 adds tooling, finishing and workholding updates",
       "category": "MECHANICAL",
       "date": "2026-11-10T11:20:22+00:00",
@@ -15706,5 +15714,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-10T14:28:38.515803+00:00"
+  "last_updated_utc": "2026-11-10T22:55:41.661433+00:00"
 }

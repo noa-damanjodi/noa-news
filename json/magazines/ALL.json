@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Midterms, newsletters, and RE+: A conversation with the SolarWakeup guy",
+      "category": "RENEWABLE",
+      "date": "2026-11-10T21:04:34+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/midterms-newsletters-and-re-a-conversation-with-the-solarwakeup-guy/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "OSHA letter of interpretation looks at lockout/tagout labels",
+      "category": "SAFETY",
+      "date": "2026-11-10T19:19:04+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/osha-letter-of-interpretation-looks-at-lockout-tagout-labels/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Webinars to focus on the ‘human side’ of workplace tech and AI",
+      "category": "SAFETY",
+      "date": "2026-11-10T19:08:50+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/webinars-to-focus-on-the-human-side-of-workplace-tech-and-ai/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "From pilot to production",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-10T17:20:32+00:00",
+      "url": "https://www.automationmag.com/from-pilot-to-production/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Mental health in construction: Minnesota launches webpage",
+      "category": "SAFETY",
+      "date": "2026-11-10T16:32:17+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/mental-health-in-construction-minnesota-launches-webpage/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Farsoon adds modular polymer PBF platform for production",
+      "category": "MECHANICAL",
+      "date": "2026-11-10T14:43:04+00:00",
+      "url": "https://www.engineering.com/farsoon-adds-modular-polymer-pbf-platform-for-production/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Stellantis signs deal with Roshel to sell idled Brampton, Ont., assembly plant",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-10T14:12:00+00:00",
+      "url": "https://www.automationmag.com/stellantis-signs-deal-with-roshel-to-sell-idled-brampton-ont-assembly-plant/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Arrow secures option to acquire Pannawonica iron ore project",
       "category": "INDUSTRY",
       "date": "2026-11-10T12:14:28+00:00",
@@ -56034,5 +56090,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-10T14:28:38.515803+00:00"
+  "last_updated_utc": "2026-11-10T22:55:41.661433+00:00"
 }
