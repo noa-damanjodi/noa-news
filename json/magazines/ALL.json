@@ -2,6 +2,62 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Eco Wave Power completes first step of its digital twin journey",
+      "category": "RENEWABLE",
+      "date": "2026-11-09T22:25:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/eco-wave-power-completes-first-step-of-its-digital-twin-journey/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Company recalling ladders over potential fall hazard",
+      "category": "SAFETY",
+      "date": "2026-11-09T21:48:50+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/company-recalling-ladders-over-potential-fall-hazard/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "House Democrat reminds Trump cabinet members to preserve federal agency records",
+      "category": "SAFETY",
+      "date": "2026-11-09T21:45:06+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/house-democrat-reminds-trump-cabinet-members-to-preserve-federal-agency-records/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Aiming for a better fit: Hi-vis apparel standard gets revised",
+      "category": "SAFETY",
+      "date": "2026-11-09T21:34:42+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/aiming-for-a-better-fit-hi-vis-apparel-standard-gets-revised/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Could BAAJA be the change that U.S. hydropower needs to keep up? Industry voices are ‘dam sure’ it is",
+      "category": "RENEWABLE",
+      "date": "2026-11-09T21:15:26+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/could-baaja-be-the-change-that-u-s-hydropower-needs-to-keep-up-industry-voices-are-dam-sure-it-is/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Will PJM have enough generation this winter?",
+      "category": "RENEWABLE",
+      "date": "2026-11-09T20:52:30+00:00",
+      "url": "https://www.renewableenergyworld.com/news/will-pjm-have-enough-generation-this-winter/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Understanding the future of VPP market design and technology with Shikhar Pandey",
+      "category": "RENEWABLE",
+      "date": "2026-11-09T19:24:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/understanding-the-future-of-vpp-market-design-and-technology-with-shikhar-pandey/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "NVIDIA, Rebellions and SK Telecom advance Korea’s sovereign AI",
       "category": "MECHANICAL",
       "date": "2026-11-09T11:32:55+00:00",
@@ -55874,5 +55930,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-09T15:28:18.319030+00:00"
+  "last_updated_utc": "2026-11-10T01:15:24.880638+00:00"
 }
