@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Honeywell unveils intelligent fire and life safety solutions",
+      "category": "MECHANICAL",
+      "date": "2026-11-11T10:57:05+00:00",
+      "url": "https://www.engineering.com/honeywell-unveils-intelligent-fire-and-life-safety-solutions/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aectual partners with Caracol to scale circular architecture",
+      "category": "MECHANICAL",
+      "date": "2026-11-11T10:51:21+00:00",
+      "url": "https://www.engineering.com/aectual-partners-with-caracol-to-scale-circular-architecture/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Google pairs Axion CPUs with TPU 8i Max for AI workloads",
+      "category": "MECHANICAL",
+      "date": "2026-11-11T10:41:16+00:00",
+      "url": "https://www.engineering.com/google-pairs-axion-cpus-with-tpu-8i-max-for-ai-workloads/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight ADS supports Tower’s PH18 silicon photonics PDK",
+      "category": "MECHANICAL",
+      "date": "2026-11-11T09:07:14+00:00",
+      "url": "https://www.engineering.com/keysight-ads-supports-towers-ph18-silicon-photonics-pdk/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD launches EPYC Embedded 9006 CPUs with up to 256 cores",
+      "category": "MECHANICAL",
+      "date": "2026-11-11T08:59:34+00:00",
+      "url": "https://www.engineering.com/amd-launches-epyc-embedded-9006-cpus-with-up-to-256-cores/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Farsoon adds modular polymer PBF platform for production",
       "category": "MECHANICAL",
       "date": "2026-11-10T14:43:04+00:00",
@@ -15714,5 +15754,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-11T05:06:04.146672+00:00"
+  "last_updated_utc": "2026-11-11T13:42:59.373776+00:00"
 }
