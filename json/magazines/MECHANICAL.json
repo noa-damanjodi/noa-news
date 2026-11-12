@@ -2,6 +2,30 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "What Secure Cloud PCB Platforms Must Prove to Engineering Teams",
+      "category": "MECHANICAL",
+      "date": "2026-11-12T19:53:36+00:00",
+      "url": "https://www.engineering.com/what-secure-cloud-pcb-platforms-must-prove-to-engineering-teams/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Additive business update: Additive Industries, BigRep, Nikon SLM Solutions, and more",
+      "category": "MECHANICAL",
+      "date": "2026-11-12T17:08:40+00:00",
+      "url": "https://www.engineering.com/additive-business-update-additive-industries-bigrep-nikon-slm-solutions-and-more/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Want to transform your engineering organization with AI? Start with DFM.",
+      "category": "MECHANICAL",
+      "date": "2026-11-12T15:50:45+00:00",
+      "url": "https://www.engineering.com/want-to-transform-your-engineering-organization-with-ai-start-with-dfm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "SketchUp 2027 adds new modeling and Revit import tools",
       "category": "MECHANICAL",
       "date": "2026-11-12T11:21:22+00:00",
@@ -15858,5 +15882,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-12T14:46:03.268923+00:00"
+  "last_updated_utc": "2026-11-12T23:16:40.573634+00:00"
 }
