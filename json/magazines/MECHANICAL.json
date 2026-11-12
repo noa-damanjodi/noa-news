@@ -2,6 +2,54 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Big Growth in US Industrial Automation",
+      "category": "MECHANICAL",
+      "date": "2026-11-11T21:52:36+00:00",
+      "url": "https://www.engineering.com/big-growth-in-us-industrial-automation/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Clones and spies (AI is in a weird place right now)",
+      "category": "MECHANICAL",
+      "date": "2026-11-11T18:41:37+00:00",
+      "url": "https://www.engineering.com/clones-and-spies-ai-is-in-a-weird-place-right-now/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble adds AI-assisted scheduling to Connect platform",
+      "category": "MECHANICAL",
+      "date": "2026-11-11T14:40:38+00:00",
+      "url": "https://www.engineering.com/trimble-adds-ai-assisted-scheduling-to-connect-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens adds agentic AI to HyperLynx verification workflows",
+      "category": "MECHANICAL",
+      "date": "2026-11-11T14:11:42+00:00",
+      "url": "https://www.engineering.com/siemens-adds-agentic-ai-to-hyperlynx-verification-workflows/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cadence launches OrCAD Xplore design platform",
+      "category": "MECHANICAL",
+      "date": "2026-11-11T14:01:10+00:00",
+      "url": "https://www.engineering.com/cadence-launches-orcad-xplore-design-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Emerson adds liquids management to DeltaV FB3000 RTU",
+      "category": "MECHANICAL",
+      "date": "2026-11-11T13:42:45+00:00",
+      "url": "https://www.engineering.com/emerson-adds-liquids-management-to-deltav-fb3000-rtu/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Honeywell unveils intelligent fire and life safety solutions",
       "category": "MECHANICAL",
       "date": "2026-11-11T10:57:05+00:00",
@@ -15754,5 +15802,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-11T13:42:59.373776+00:00"
+  "last_updated_utc": "2026-11-12T00:09:53.655626+00:00"
 }
