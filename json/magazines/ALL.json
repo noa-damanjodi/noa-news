@@ -2,6 +2,94 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Adani, Codelco sign MoU for Chile’s Kaburkaala project",
+      "category": "INDUSTRY",
+      "date": "2026-11-12T12:35:34+00:00",
+      "url": "https://www.mining-technology.com/news/adani-codelco-mou-kaburkaala-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "SketchUp 2027 adds new modeling and Revit import tools",
+      "category": "MECHANICAL",
+      "date": "2026-11-12T11:21:22+00:00",
+      "url": "https://www.engineering.com/sketchup-2027-adds-new-modeling-and-revit-import-tools/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Octave acquires Cerebre to strengthen industrial AI platform",
+      "category": "MECHANICAL",
+      "date": "2026-11-12T11:16:19+00:00",
+      "url": "https://www.engineering.com/octave-acquires-cerebre-to-strengthen-industrial-ai-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Axtra3D and Arkema gain UL Blue Card for N3D-FR512",
+      "category": "MECHANICAL",
+      "date": "2026-11-12T11:14:24+00:00",
+      "url": "https://www.engineering.com/axtra3d-and-arkema-gain-ul-blue-card-for-n3d-fr512/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Arm adds Cortex-M42 processor to access portfolios",
+      "category": "MECHANICAL",
+      "date": "2026-11-12T10:55:36+00:00",
+      "url": "https://www.engineering.com/arm-adds-cortex-m42-processor-to-access-portfolios/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "binder expands M5 portfolio with field-wireable connectors",
+      "category": "MECHANICAL",
+      "date": "2026-11-12T10:18:31+00:00",
+      "url": "https://www.engineering.com/binder-expands-m5-portfolio-with-field-wireable-connectors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Silver Bow Mining begins underground drilling at Montana’s Rainbow Block",
+      "category": "INDUSTRY",
+      "date": "2026-11-12T09:33:04+00:00",
+      "url": "https://www.mining-technology.com/news/silver-bow-underground-drilling-rainbow-block/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "GE Vernova validates hydrogen-ready aeroderivative turbines",
+      "category": "MECHANICAL",
+      "date": "2026-11-12T09:23:24+00:00",
+      "url": "https://www.engineering.com/ge-vernova-validates-hydrogen-ready-aeroderivative-turbines/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Honeywell launches AI-powered EBI One for building operations",
+      "category": "MECHANICAL",
+      "date": "2026-11-12T08:30:39+00:00",
+      "url": "https://www.engineering.com/honeywell-launches-ai-powered-ebi-one-for-building-operations/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Lake Victoria Gold begins 6,500m drilling at Imwelo project",
+      "category": "INDUSTRY",
+      "date": "2026-11-12T07:17:46+00:00",
+      "url": "https://www.mining-technology.com/news/lake-victoria-gold-6500m-drilling-imwelo/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Altius Minerals to acquire TNR Gold in $86m deal",
+      "category": "INDUSTRY",
+      "date": "2026-11-12T07:12:58+00:00",
+      "url": "https://www.mining-technology.com/news/altius-to-acquire-tnr-gold-86m-deal/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Need a quick mental health boost? Try a nature walk",
       "category": "SAFETY",
       "date": "2026-11-11T22:17:57+00:00",
@@ -56250,5 +56338,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-12T00:09:53.655626+00:00"
+  "last_updated_utc": "2026-11-12T14:46:03.268923+00:00"
 }
