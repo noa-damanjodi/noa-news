@@ -2,6 +2,14 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "GoldHaven finds high-grade tungsten skarn at Magno Project in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-11-13T12:15:19+00:00",
+      "url": "https://www.mining-technology.com/news/goldhaven-tungsten-skarn-magno-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Western Gold inks ore purchase agreement with Forrestania Resources",
       "category": "INDUSTRY",
       "date": "2026-11-13T12:13:40+00:00",
@@ -10450,5 +10458,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-13T14:04:45.042411+00:00"
+  "last_updated_utc": "2026-11-13T23:19:45.896122+00:00"
 }

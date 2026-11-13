@@ -2,6 +2,22 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Electric cooperatives detail first steps of DERMS implementation",
+      "category": "RENEWABLE",
+      "date": "2026-11-13T21:35:05+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/distribution/electric-cooperatives-detail-first-steps-of-derms-implementation/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Amid data center pushback, big tech tries a new strategy — This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-11-13T17:08:51+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/amid-data-center-pushback-big-tech-tries-a-new-strategy-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Ohio and Pennsylvania need more capacity – here’s how they could get around long interconnection timelines",
       "category": "RENEWABLE",
       "date": "2026-11-13T13:04:51+00:00",
@@ -4466,5 +4482,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-13T14:04:45.042411+00:00"
+  "last_updated_utc": "2026-11-13T23:19:45.896122+00:00"
 }
