@@ -2,6 +2,126 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Advantech launches fanless DS-351 and DS-354 signage platforms",
+      "category": "MECHANICAL",
+      "date": "2026-11-13T13:07:28+00:00",
+      "url": "https://www.engineering.com/advantech-launches-fanless-ds-351-and-ds-354-signage-platforms/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Ohio and Pennsylvania need more capacity – here’s how they could get around long interconnection timelines",
+      "category": "RENEWABLE",
+      "date": "2026-11-13T13:04:51+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/ohio-and-pennsylvania-need-more-capacity-heres-how-they-could-get-around-long-interconnection-timelines/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Hawk Ridge Systems and M5D form 3D printing alliance",
+      "category": "MECHANICAL",
+      "date": "2026-11-13T12:48:22+00:00",
+      "url": "https://www.engineering.com/hawk-ridge-systems-and-m5d-form-3d-printing-alliance/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aras launches accelerator for digital manufacturing engineering",
+      "category": "MECHANICAL",
+      "date": "2026-11-13T12:30:17+00:00",
+      "url": "https://www.engineering.com/aras-launches-accelerator-for-digital-manufacturing-engineering/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Microchip introduces tactile sensing digitizer for robotics",
+      "category": "MECHANICAL",
+      "date": "2026-11-13T12:24:09+00:00",
+      "url": "https://www.engineering.com/microchip-introduces-tactile-sensing-digitizer-for-robotics/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mouser ships Navitas NV60x GaNFast power FETs",
+      "category": "MECHANICAL",
+      "date": "2026-11-13T12:14:29+00:00",
+      "url": "https://www.engineering.com/mouser-ships-navitas-nv60x-ganfast-power-fets/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Western Gold inks ore purchase agreement with Forrestania Resources",
+      "category": "INDUSTRY",
+      "date": "2026-11-13T12:13:40+00:00",
+      "url": "https://www.mining-technology.com/news/western-gold-ore-purchase-agreement-forrestania/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "GE Vernova to supply three wind turbines for German project",
+      "category": "MECHANICAL",
+      "date": "2026-11-13T12:05:24+00:00",
+      "url": "https://www.engineering.com/ge-vernova-to-supply-three-wind-turbines-for-german-project/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aris Mining releases PFS for Toroparu Gold Project in Guyana",
+      "category": "INDUSTRY",
+      "date": "2026-11-13T09:53:45+00:00",
+      "url": "https://www.mining-technology.com/news/aris-mining-pfs-toroparu-gold-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD expands Instinct MI400 Series with new GPU options",
+      "category": "MECHANICAL",
+      "date": "2026-11-13T08:47:27+00:00",
+      "url": "https://www.engineering.com/amd-expands-instinct-mi400-series-with-new-gpu-options/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SimScale launches Engineering AI Blueprint",
+      "category": "MECHANICAL",
+      "date": "2026-11-13T08:39:51+00:00",
+      "url": "https://www.engineering.com/simscale-launches-engineering-ai-blueprint/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Cora Gold agrees to conditional demerger of Senegal assets",
+      "category": "INDUSTRY",
+      "date": "2026-11-13T07:47:42+00:00",
+      "url": "https://www.mining-technology.com/news/cora-gold-conditional-demerger-senegal-assets/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "TDG Gold to sell 51% of Aurora West project to Freeport for $77m",
+      "category": "INDUSTRY",
+      "date": "2026-11-13T07:43:05+00:00",
+      "url": "https://www.mining-technology.com/news/tdg-gold-aurora-west-freeport-77m/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Renishaw releases LIBERTAS software for metal AM",
+      "category": "MECHANICAL",
+      "date": "2026-11-13T07:31:27+00:00",
+      "url": "https://www.engineering.com/renishaw-releases-libertas-software-for-metal-am/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Trimble announces MP1087 machine positioning solution",
+      "category": "MECHANICAL",
+      "date": "2026-11-13T07:18:41+00:00",
+      "url": "https://www.engineering.com/trimble-announces-mp1087-machine-positioning-solution/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "What Secure Cloud PCB Platforms Must Prove to Engineering Teams",
       "category": "MECHANICAL",
       "date": "2026-11-12T19:53:36+00:00",
@@ -56402,5 +56522,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-13T05:31:22.647317+00:00"
+  "last_updated_utc": "2026-11-13T14:04:45.042411+00:00"
 }
