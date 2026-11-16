@@ -2,6 +2,46 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "AMD and PsiQuantum expand partnership on quantum computing",
+      "category": "MECHANICAL",
+      "date": "2026-11-16T09:51:21+00:00",
+      "url": "https://www.engineering.com/amd-and-psiquantum-expand-partnership-on-quantum-computing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "TE Connectivity invests $60M in fiber optics facility in New York",
+      "category": "MECHANICAL",
+      "date": "2026-11-16T07:57:09+00:00",
+      "url": "https://www.engineering.com/te-connectivity-invests-60m-in-fiber-optics-facility-in-new-york/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "SEW-EURODRIVE expands PxG portfolio with economy gear units",
+      "category": "MECHANICAL",
+      "date": "2026-11-16T07:36:25+00:00",
+      "url": "https://www.engineering.com/sew-eurodrive-expands-pxg-portfolio-with-economy-gear-units/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD introduces Versal devices with built-in physical attack protection",
+      "category": "MECHANICAL",
+      "date": "2026-11-16T07:28:43+00:00",
+      "url": "https://www.engineering.com/amd-introduces-versal-devices-with-built-in-physical-attack-protection/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Aeronamic expands Aras PLM capabilities for digital manufacturing",
+      "category": "MECHANICAL",
+      "date": "2026-11-16T07:20:10+00:00",
+      "url": "https://www.engineering.com/aeronamic-expands-aras-plm-capabilities-for-digital-manufacturing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Jensen Huang’s departure raises questions about Nvidia’s industrial AI ambitions",
       "category": "MECHANICAL",
       "date": "2026-11-13T20:35:24+00:00",
@@ -15970,5 +16010,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-16T05:17:09.171262+00:00"
+  "last_updated_utc": "2026-11-16T15:04:51.371166+00:00"
 }
