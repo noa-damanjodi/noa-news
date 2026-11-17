@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Deloitte launches Edisyl for enterprise AI context packs",
+      "category": "MECHANICAL",
+      "date": "2026-11-17T13:53:32+00:00",
+      "url": "https://www.engineering.com/deloitte-launches-edisyl-for-enterprise-ai-context-packs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Farsoon launches FS4X metal LPBF platform for series production",
+      "category": "MECHANICAL",
+      "date": "2026-11-17T13:47:55+00:00",
+      "url": "https://www.engineering.com/farsoon-launches-fs4x-metal-lpbf-platform-for-series-production/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PDI Gold receives Guinea permits for Bankan and Mansounia mines",
+      "category": "INDUSTRY",
+      "date": "2026-11-17T11:56:24+00:00",
+      "url": "https://www.mining-technology.com/news/pdi-gold-guinea-permits-bankan-mansounia-mines/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Perenti’s AUMS wins $675m contract at Geita Gold Mine in Tanzania",
+      "category": "INDUSTRY",
+      "date": "2026-11-17T11:56:12+00:00",
+      "url": "https://www.mining-technology.com/news/perentis-aums-675m-geita-gold-mine/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Honeywell and Keppel partner to advance low-carbon fuels",
+      "category": "MECHANICAL",
+      "date": "2026-11-17T10:43:04+00:00",
+      "url": "https://www.engineering.com/honeywell-and-keppel-partner-to-advance-low-carbon-fuels/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rio Tinto to restart Tiwai Point Line 4 in New Zealand",
+      "category": "INDUSTRY",
+      "date": "2026-11-17T10:31:36+00:00",
+      "url": "https://www.mining-technology.com/news/rio-tinto-to-restart-tiwai-point-line-4/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "FANUC America earns Top Workplace recognition for 15th year",
+      "category": "MECHANICAL",
+      "date": "2026-11-17T09:51:01+00:00",
+      "url": "https://www.engineering.com/fanuc-america-earns-top-workplace-recognition-for-15th-year/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens unveils modular WATTBLOC solar power platform",
+      "category": "MECHANICAL",
+      "date": "2026-11-17T09:40:57+00:00",
+      "url": "https://www.engineering.com/siemens-unveils-modular-wattbloc-solar-power-platform/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD-powered Lux supercomputer opens at Oak Ridge",
+      "category": "MECHANICAL",
+      "date": "2026-11-17T09:31:25+00:00",
+      "url": "https://www.engineering.com/amd-powered-lux-supercomputer-opens-at-oak-ridge/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rochester and Infineon extend support for Neuron processors",
+      "category": "MECHANICAL",
+      "date": "2026-11-17T08:11:44+00:00",
+      "url": "https://www.engineering.com/rochester-and-infineon-extend-support-for-neuron-processors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Perseverance Metals secures 100% stake in Michigan’s Voyageur project",
+      "category": "INDUSTRY",
+      "date": "2026-11-17T07:46:10+00:00",
+      "url": "https://www.mining-technology.com/news/perseverance-metals-100-stake-voyageur-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Kavango completes regional geophysical study in Botswana KCB",
+      "category": "INDUSTRY",
+      "date": "2026-11-17T07:46:01+00:00",
+      "url": "https://www.mining-technology.com/news/kavango-regional-geophysical-study-botswana/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "With drought in the Colorado River Basin, hydropower in the Southwest hits record lows",
+      "category": "RENEWABLE",
+      "date": "2026-11-17T06:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/hydro-power/with-drought-in-the-colorado-river-basin-hydropower-in-the-southwest-hits-record-lows/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Safety group releases toolkit for managing gender-based violence",
       "category": "SAFETY",
       "date": "2026-11-16T22:23:57+00:00",
@@ -56706,5 +56810,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-17T01:40:52.658977+00:00"
+  "last_updated_utc": "2026-11-17T15:38:02.446671+00:00"
 }
