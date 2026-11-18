@@ -2,6 +2,150 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Axtra3D adds wash and cure systems for post-processing",
+      "category": "MECHANICAL",
+      "date": "2026-11-18T15:03:36+00:00",
+      "url": "https://www.engineering.com/axtra3d-adds-wash-and-cure-systems-for-post-processing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Rockwell Automation signs definitive agreement to acquire AGILOX",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-18T15:01:57+00:00",
+      "url": "https://www.automationmag.com/rockwell-automation-signs-definitive-agreement-to-acquire-agilox/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Data shows dramatic rise in young kids ingesting recreational drugs at home",
+      "category": "SAFETY",
+      "date": "2026-11-18T14:56:22+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/data-shows-dramatic-rise-in-young-kids-ingesting-recreational-drugs-at-home/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Promise Robotics raises $40M to expand automated production network",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-18T14:47:57+00:00",
+      "url": "https://www.automationmag.com/promise-robotics-raises-40m-to-expand-automated-production-network/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Lockout/tagout/tryout in construction: New toolbox talk available",
+      "category": "SAFETY",
+      "date": "2026-11-18T14:33:00+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/lockout-tagout-tryout-in-construction-new-toolbox-talk-available/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Work zone safety act advances in Ohio",
+      "category": "SAFETY",
+      "date": "2026-11-18T14:25:48+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/work-zone-safety-act-advances-in-ohio/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Study offers strategies for preventing ‘camouflaging’ among workers with autism",
+      "category": "SAFETY",
+      "date": "2026-11-18T14:17:56+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/study-offers-strategies-for-preventing-camouflaging-among-workers-with-autism/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Atlas Metals signs heads of terms to acquire B1 Metals in Namibia",
+      "category": "INDUSTRY",
+      "date": "2026-11-18T10:07:22+00:00",
+      "url": "https://www.mining-technology.com/news/atlas-heads-of-terms-acquire-b1-metals/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA unveils Vera CPU rack-scale platform for HPC",
+      "category": "MECHANICAL",
+      "date": "2026-11-18T10:03:22+00:00",
+      "url": "https://www.engineering.com/nvidia-unveils-vera-cpu-rack-scale-platform-for-hpc/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA, IBM and Fermilab advance modular quantum computing",
+      "category": "MECHANICAL",
+      "date": "2026-11-18T09:56:59+00:00",
+      "url": "https://www.engineering.com/nvidia-ibm-and-fermilab-advance-modular-quantum-computing/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens to acquire Breker for expanded SoC verification",
+      "category": "MECHANICAL",
+      "date": "2026-11-18T09:39:29+00:00",
+      "url": "https://www.engineering.com/siemens-to-acquire-breker-for-expanded-soc-verification/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Boston Dynamics expands robotics partnership with GlobalFoundries",
+      "category": "MECHANICAL",
+      "date": "2026-11-18T09:00:32+00:00",
+      "url": "https://www.engineering.com/boston-dynamics-expands-robotics-partnership-with-globalfoundries/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "GE Vernova launches compact SF₆-free 145 kV switchgear",
+      "category": "MECHANICAL",
+      "date": "2026-11-18T08:47:32+00:00",
+      "url": "https://www.engineering.com/ge-vernova-launches-compact-sf%e2%82%86-free-145-kv-switchgear/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Hindustan Zinc approves $8.5bn expansion to double metal production",
+      "category": "INDUSTRY",
+      "date": "2026-11-18T07:57:47+00:00",
+      "url": "https://www.mining-technology.com/news/hindustan-zinc-8-5bn-expansion-double-metal/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Aclara Metals produces neodymium-praseodymium metal at demo plant",
+      "category": "INDUSTRY",
+      "date": "2026-11-18T07:54:49+00:00",
+      "url": "https://www.mining-technology.com/news/aclara-metals-neodymium-praseodymium-demo-plant/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "3DCeram to unveil CLP50 for ceramics at Formnext 2026",
+      "category": "MECHANICAL",
+      "date": "2026-11-18T07:28:27+00:00",
+      "url": "https://www.engineering.com/3dceram-to-unveil-clp50-for-ceramics-at-formnext-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HP expands industrial 3D printing technologies and capabilities",
+      "category": "MECHANICAL",
+      "date": "2026-11-18T07:20:41+00:00",
+      "url": "https://www.engineering.com/hp-expands-industrial-3d-printing-technologies-and-capabilities/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD completes acquisition of AI research firm World Labs",
+      "category": "MECHANICAL",
+      "date": "2026-11-18T06:56:03+00:00",
+      "url": "https://www.engineering.com/amd-completes-acquisition-of-ai-research-firm-world-labs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Formnext 2026 – Day 1 Recap",
       "category": "MECHANICAL",
       "date": "2026-11-17T19:38:55+00:00",
@@ -56834,5 +56978,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-18T00:40:11.909807+00:00"
+  "last_updated_utc": "2026-11-18T15:15:30.013982+00:00"
 }

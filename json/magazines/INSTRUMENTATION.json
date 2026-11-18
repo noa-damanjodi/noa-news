@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Rockwell Automation signs definitive agreement to acquire AGILOX",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-18T15:01:57+00:00",
+      "url": "https://www.automationmag.com/rockwell-automation-signs-definitive-agreement-to-acquire-agilox/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Promise Robotics raises $40M to expand automated production network",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-18T14:47:57+00:00",
+      "url": "https://www.automationmag.com/promise-robotics-raises-40m-to-expand-automated-production-network/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Anthropic launches Claude for Manufacturing",
       "category": "INSTRUMENTATION",
       "date": "2026-11-13T17:55:02+00:00",
@@ -3434,5 +3450,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-18T00:40:11.909807+00:00"
+  "last_updated_utc": "2026-11-18T15:15:30.013982+00:00"
 }
