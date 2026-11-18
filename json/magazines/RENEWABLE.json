@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Moment Energy unveils next-gen BESS made from repurposed EV batteries",
+      "category": "RENEWABLE",
+      "date": "2026-11-18T20:27:32+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/moment-energy-unveils-next-gen-bess-made-from-repurposed-ev-batteries/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "With drought in the Colorado River Basin, hydropower in the Southwest hits record lows",
       "category": "RENEWABLE",
       "date": "2026-11-17T06:00:00+00:00",
@@ -4498,5 +4506,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-18T15:15:30.013982+00:00"
+  "last_updated_utc": "2026-11-18T23:58:43.163664+00:00"
 }

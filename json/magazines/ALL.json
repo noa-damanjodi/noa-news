@@ -2,6 +2,78 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Formnext 2026 – Day 2 Recap",
+      "category": "MECHANICAL",
+      "date": "2026-11-18T22:49:12+00:00",
+      "url": "https://www.engineering.com/formnext-2026-day-2-recap/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Luminary Autopilot aims to automate physics AI",
+      "category": "MECHANICAL",
+      "date": "2026-11-18T21:57:43+00:00",
+      "url": "https://www.engineering.com/luminary-autopilot-aims-to-automate-physics-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Is the future of infrastructure open?",
+      "category": "MECHANICAL",
+      "date": "2026-11-18T21:16:46+00:00",
+      "url": "https://www.engineering.com/is-the-future-of-infrastructure-open/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Moment Energy unveils next-gen BESS made from repurposed EV batteries",
+      "category": "RENEWABLE",
+      "date": "2026-11-18T20:27:32+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/battery/moment-energy-unveils-next-gen-bess-made-from-repurposed-ev-batteries/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Explosion Proof Inspection Robot Ready for Hazardous Duty",
+      "category": "MECHANICAL",
+      "date": "2026-11-18T19:58:31+00:00",
+      "url": "https://www.engineering.com/explosion-proof-inspection-robot-ready-for-hazardous-duty/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nonfatal injuries and illnesses trending downward, BLS data shows",
+      "category": "SAFETY",
+      "date": "2026-11-18T19:19:25+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/nonfatal-injuries-and-illnesses-trending-downward-bls-data-shows/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "EOS released HELIOR for volume polymer production",
+      "category": "MECHANICAL",
+      "date": "2026-11-18T15:56:32+00:00",
+      "url": "https://www.engineering.com/eos-released-helior-for-volume-polymer-production/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "3D Systems adds MJP 300, TSR and 3D Sprint updates",
+      "category": "MECHANICAL",
+      "date": "2026-11-18T15:27:59+00:00",
+      "url": "https://www.engineering.com/3d-systems-adds-mjp-300-tsr-and-3d-sprint-updates/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Industry Watch: Money matters",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-18T15:10:00+00:00",
+      "url": "https://www.automationmag.com/industry-watch-money-matters/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Axtra3D adds wash and cure systems for post-processing",
       "category": "MECHANICAL",
       "date": "2026-11-18T15:03:36+00:00",
@@ -55,6 +127,22 @@
       "date": "2026-11-18T14:17:56+00:00",
       "url": "https://www.safetyandhealthmagazine.com/study-offers-strategies-for-preventing-camouflaging-among-workers-with-autism/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Helix signs terms to acquire five Pilbara exploration tenements",
+      "category": "INDUSTRY",
+      "date": "2026-11-18T13:01:31+00:00",
+      "url": "https://www.mining-technology.com/news/helix-acquire-five-pilbara-exploration-tenements/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "AngloGold Ashanti plans $2.5bn Colombia copper investment",
+      "category": "INDUSTRY",
+      "date": "2026-11-18T13:01:09+00:00",
+      "url": "https://www.mining-technology.com/news/anglogold-ashanti-2-5bn-colombia-copper-investment/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -56978,5 +57066,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-18T15:15:30.013982+00:00"
+  "last_updated_utc": "2026-11-18T23:58:43.163664+00:00"
 }
