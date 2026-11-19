@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "M2i signs agreement for critical mineral repository in Nevada",
+      "category": "INDUSTRY",
+      "date": "2026-11-19T12:08:45+00:00",
+      "url": "https://www.mining-technology.com/news/m2i-agreement-critical-mineral-repository-nevada/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Red Mountain raises funding for Armidale Antimony-Gold exploration",
+      "category": "INDUSTRY",
+      "date": "2026-11-19T10:09:12+00:00",
+      "url": "https://www.mining-technology.com/news/red-mountain-funding-armidale-antimony-gold/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Resouro prepares Luizão deposit for proposed trial mining in Brazil",
+      "category": "INDUSTRY",
+      "date": "2026-11-19T08:01:53+00:00",
+      "url": "https://www.mining-technology.com/news/resouro-luizao-deposit-trial-mining-brazil/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Molten Industries starts battery-grade graphite plant in Oakland",
+      "category": "INDUSTRY",
+      "date": "2026-11-19T08:01:44+00:00",
+      "url": "https://www.mining-technology.com/news/molten-industries-starts-graphite-plant-oakland/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Helix signs terms to acquire five Pilbara exploration tenements",
       "category": "INDUSTRY",
       "date": "2026-11-18T13:01:31+00:00",
@@ -10586,5 +10618,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-19T07:09:09.575426+00:00"
+  "last_updated_utc": "2026-11-19T20:05:19.164630+00:00"
 }

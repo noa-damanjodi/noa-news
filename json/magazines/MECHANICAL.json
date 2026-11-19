@@ -2,6 +2,62 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Stark Future and Farsoon expand metal AM production line",
+      "category": "MECHANICAL",
+      "date": "2026-11-19T15:21:21+00:00",
+      "url": "https://www.engineering.com/stark-future-and-farsoon-expand-metal-am-production-line/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mitsubishi Electric CNC work cell uses AI and humanoid robots",
+      "category": "MECHANICAL",
+      "date": "2026-11-19T15:19:33+00:00",
+      "url": "https://www.engineering.com/mitsubishi-electric-cnc-work-cell-uses-ai-and-humanoid-robots/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Axtra3D releases Volume Professional 1.3 and Volume Industrial 1.3",
+      "category": "MECHANICAL",
+      "date": "2026-11-19T15:12:28+00:00",
+      "url": "https://www.engineering.com/axtra3d-releases-volume-professional-1-3-and-volume-industrial-1-3/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Materialise calls for coordinated AM network for defense production",
+      "category": "MECHANICAL",
+      "date": "2026-11-19T11:02:16+00:00",
+      "url": "https://www.engineering.com/materialise-calls-for-coordinated-am-network-for-defense-production/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Microchip samples TSN switches for next-generation vehicle networks",
+      "category": "MECHANICAL",
+      "date": "2026-11-19T08:20:35+00:00",
+      "url": "https://www.engineering.com/microchip-samples-tsn-switches-for-next-generation-vehicle-networks/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Keysight and Cohere validate multi-UAV sensing for 6G",
+      "category": "MECHANICAL",
+      "date": "2026-11-19T08:09:17+00:00",
+      "url": "https://www.engineering.com/keysight-and-cohere-validate-multi-uav-sensing-for-6g/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Imprint tops Deloitte’s 2026 Technology Fast 500",
+      "category": "MECHANICAL",
+      "date": "2026-11-19T08:04:04+00:00",
+      "url": "https://www.engineering.com/imprint-tops-deloittes-2026-technology-fast-500/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "NVIDIA expands supply chain capacity for AI infrastructure",
       "category": "MECHANICAL",
       "date": "2026-11-19T06:48:28+00:00",
@@ -16226,5 +16282,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-19T07:09:09.575426+00:00"
+  "last_updated_utc": "2026-11-19T20:05:19.164630+00:00"
 }
