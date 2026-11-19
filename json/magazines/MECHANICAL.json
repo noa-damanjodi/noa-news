@@ -2,6 +2,38 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "NVIDIA expands supply chain capacity for AI infrastructure",
+      "category": "MECHANICAL",
+      "date": "2026-11-19T06:48:28+00:00",
+      "url": "https://www.engineering.com/nvidia-expands-supply-chain-capacity-for-ai-infrastructure/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens opens Raleigh skid assembly factory",
+      "category": "MECHANICAL",
+      "date": "2026-11-19T06:40:31+00:00",
+      "url": "https://www.engineering.com/siemens-opens-raleigh-skid-assembly-factory/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "UC launches center to study AI through the humanities",
+      "category": "MECHANICAL",
+      "date": "2026-11-19T06:16:03+00:00",
+      "url": "https://www.engineering.com/uc-launches-center-to-study-ai-through-the-humanities/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD completes acquisition of AI inference chip pioneer Taalas",
+      "category": "MECHANICAL",
+      "date": "2026-11-19T06:11:52+00:00",
+      "url": "https://www.engineering.com/amd-completes-acquisition-of-ai-inference-chip-pioneer-taalas/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Formnext 2026 – Day 2 Recap",
       "category": "MECHANICAL",
       "date": "2026-11-18T22:49:12+00:00",
@@ -16194,5 +16226,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-18T23:58:43.163664+00:00"
+  "last_updated_utc": "2026-11-19T07:09:09.575426+00:00"
 }
