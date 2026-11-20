@@ -2,6 +2,78 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Comsol Conference 2026 highlights: Simulation and AI",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T16:34:49+00:00",
+      "url": "https://www.engineering.com/comsol-conference-2026-highlights-simulation-and-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Microsoft announces Azure Cobalt 200 general availability",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T14:28:39+00:00",
+      "url": "https://www.engineering.com/microsoft-announces-azure-cobalt-200-general-availability/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Axtra3D adds xMOLD and ATARU BLACK for Lumia X1",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T14:18:04+00:00",
+      "url": "https://www.engineering.com/axtra3d-adds-xmold-and-ataru-black-for-lumia-x1/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens plans Simcenter X on Azure and Marketplace",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T10:10:36+00:00",
+      "url": "https://www.engineering.com/siemens-plans-simcenter-x-on-azure-and-marketplace/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA launches Nemotron for scientific discovery agents",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T10:02:09+00:00",
+      "url": "https://www.engineering.com/nvidia-launches-nemotron-for-scientific-discovery-agents/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens strengthens rail maintenance capabilities in Singapore",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T09:54:16+00:00",
+      "url": "https://www.engineering.com/siemens-strengthens-rail-maintenance-capabilities-in-singapore/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Honeywell to support Phelan Green’s South African eSAF project",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T08:34:21+00:00",
+      "url": "https://www.engineering.com/honeywell-to-support-phelan-greens-south-african-esaf-project/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "GE Vernova to supply four wind turbines to German wind farm",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T08:26:49+00:00",
+      "url": "https://www.engineering.com/ge-vernova-to-supply-four-wind-turbines-to-german-wind-farm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Neysa deploys AMD MI350X AI cluster in India",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T08:20:38+00:00",
+      "url": "https://www.engineering.com/neysa-deploys-amd-mi350x-ai-cluster-in-india/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Stark Future and Farsoon expand metal AM production line",
       "category": "MECHANICAL",
       "date": "2026-11-19T15:21:21+00:00",
@@ -16282,5 +16354,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-20T06:07:30.897594+00:00"
+  "last_updated_utc": "2026-11-20T19:41:44.767312+00:00"
 }

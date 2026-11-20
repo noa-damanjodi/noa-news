@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Deep Dive: 2027 Advanced Manufacturing Outlook Report",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-20T15:38:21+00:00",
+      "url": "https://www.automationmag.com/deep-dive-2027-advanced-manufacturing-outlook-report/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Samuel Automation acquires Alpha Integration",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-20T15:23:57+00:00",
+      "url": "https://www.automationmag.com/samuel-automation-acquires-alpha-integration/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "CoLab achieves ISO/IEC 42001 certification for AI management system",
       "category": "INSTRUMENTATION",
       "date": "2026-11-19T20:18:49+00:00",
@@ -3466,5 +3482,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-20T06:07:30.897594+00:00"
+  "last_updated_utc": "2026-11-20T19:41:44.767312+00:00"
 }

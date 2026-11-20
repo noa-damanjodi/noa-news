@@ -2,6 +2,110 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Maintain a regular sleep schedule to show love to this vital organ, researchers say",
+      "category": "SAFETY",
+      "date": "2026-11-20T19:40:47+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/maintain-a-regular-sleep-schedule-to-show-love-to-this-vital-organ-researchers-say/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Comsol Conference 2026 highlights: Simulation and AI",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T16:34:49+00:00",
+      "url": "https://www.engineering.com/comsol-conference-2026-highlights-simulation-and-ai/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Deep Dive: 2027 Advanced Manufacturing Outlook Report",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-20T15:38:21+00:00",
+      "url": "https://www.automationmag.com/deep-dive-2027-advanced-manufacturing-outlook-report/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Samuel Automation acquires Alpha Integration",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-20T15:23:57+00:00",
+      "url": "https://www.automationmag.com/samuel-automation-acquires-alpha-integration/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Microsoft announces Azure Cobalt 200 general availability",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T14:28:39+00:00",
+      "url": "https://www.engineering.com/microsoft-announces-azure-cobalt-200-general-availability/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Axtra3D adds xMOLD and ATARU BLACK for Lumia X1",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T14:18:04+00:00",
+      "url": "https://www.engineering.com/axtra3d-adds-xmold-and-ataru-black-for-lumia-x1/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mining prices every tonne. Few price a week of delay.",
+      "category": "INDUSTRY",
+      "date": "2026-11-20T10:38:03+00:00",
+      "url": "https://www.mining-technology.com/sponsored/mining-prices-every-tonne-few-price-a-week-of-delay/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens plans Simcenter X on Azure and Marketplace",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T10:10:36+00:00",
+      "url": "https://www.engineering.com/siemens-plans-simcenter-x-on-azure-and-marketplace/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "NVIDIA launches Nemotron for scientific discovery agents",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T10:02:09+00:00",
+      "url": "https://www.engineering.com/nvidia-launches-nemotron-for-scientific-discovery-agents/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens strengthens rail maintenance capabilities in Singapore",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T09:54:16+00:00",
+      "url": "https://www.engineering.com/siemens-strengthens-rail-maintenance-capabilities-in-singapore/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Honeywell to support Phelan Green’s South African eSAF project",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T08:34:21+00:00",
+      "url": "https://www.engineering.com/honeywell-to-support-phelan-greens-south-african-esaf-project/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "GE Vernova to supply four wind turbines to German wind farm",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T08:26:49+00:00",
+      "url": "https://www.engineering.com/ge-vernova-to-supply-four-wind-turbines-to-german-wind-farm/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Neysa deploys AMD MI350X AI cluster in India",
+      "category": "MECHANICAL",
+      "date": "2026-11-20T08:20:38+00:00",
+      "url": "https://www.engineering.com/neysa-deploys-amd-mi350x-ai-cluster-in-india/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "Safe handling and moving of drywall",
       "category": "SAFETY",
       "date": "2026-11-20T06:00:52+00:00",
@@ -103,6 +207,14 @@
       "date": "2026-11-19T14:27:00+00:00",
       "url": "https://www.safetyandhealthmagazine.com/senate-committee-proposes-small-budget-cut-for-osha/",
       "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Parbo Resources discovers new greenstone belt in Western Australia",
+      "category": "INDUSTRY",
+      "date": "2026-11-19T12:08:55+00:00",
+      "url": "https://www.mining-technology.com/news/parbo-discovers-greenstone-belt-australia/",
+      "source": "Mining Technology",
       "type": "magazine"
     },
     {
@@ -57282,5 +57394,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-20T06:07:30.897594+00:00"
+  "last_updated_utc": "2026-11-20T19:41:44.767312+00:00"
 }

@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Mining prices every tonne. Few price a week of delay.",
+      "category": "INDUSTRY",
+      "date": "2026-11-20T10:38:03+00:00",
+      "url": "https://www.mining-technology.com/sponsored/mining-prices-every-tonne-few-price-a-week-of-delay/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Parbo Resources discovers new greenstone belt in Western Australia",
+      "category": "INDUSTRY",
+      "date": "2026-11-19T12:08:55+00:00",
+      "url": "https://www.mining-technology.com/news/parbo-discovers-greenstone-belt-australia/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "M2i signs agreement for critical mineral repository in Nevada",
       "category": "INDUSTRY",
       "date": "2026-11-19T12:08:45+00:00",
@@ -10618,5 +10634,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-20T06:07:30.897594+00:00"
+  "last_updated_utc": "2026-11-20T19:41:44.767312+00:00"
 }
