@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "CoLab achieves ISO/IEC 42001 certification for AI management system",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-19T20:18:49+00:00",
+      "url": "https://www.automationmag.com/colab-achieves-iso-iec-42001-certification-for-ai-management-system/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Industry Watch: Money matters",
       "category": "INSTRUMENTATION",
       "date": "2026-11-18T15:10:00+00:00",
@@ -3458,5 +3466,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-19T20:05:19.164630+00:00"
+  "last_updated_utc": "2026-11-20T06:07:30.897594+00:00"
 }
