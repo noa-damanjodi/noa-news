@@ -2,6 +2,166 @@
   "category": "ALL",
   "items": [
     {
+      "title": "Is our solar really ‘American-made?’ — This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-11-23T21:35:06+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/is-our-solar-really-american-made-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Snowy 2.0 was never going to be cheap. But it will be much cheaper than relying on batteries for storage",
+      "category": "RENEWABLE",
+      "date": "2026-11-23T20:43:07+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/pumped-storage/snowy-2-0-was-never-going-to-be-cheap-but-it-will-be-much-cheaper-than-relying-on-batteries-for-storage/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Report: How is technology improving construction worker safety and health?",
+      "category": "SAFETY",
+      "date": "2026-11-23T18:31:33+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/report-how-is-technology-improving-construction-worker-safety-and-health/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Building ‘psychological capital’ at work can lessen stress, association says",
+      "category": "SAFETY",
+      "date": "2026-11-23T18:22:32+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/building-psychological-capital-at-work-can-lessen-stress-association-says/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "Airport and aviation workers are frequent targets of verbal abuse: survey",
+      "category": "SAFETY",
+      "date": "2026-11-23T18:21:21+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/airport-and-aviation-workers-are-frequent-targets-of-verbal-abuse-survey/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
+      "title": "AICTE, Nemetschek sign MoU for AEC skills development",
+      "category": "MECHANICAL",
+      "date": "2026-11-23T15:09:05+00:00",
+      "url": "https://www.engineering.com/aicte-nemetschek-sign-mou-for-aec-skills-development/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "binder’s 12-pin M8 interface becomes part of the standard",
+      "category": "MECHANICAL",
+      "date": "2026-11-23T14:42:18+00:00",
+      "url": "https://www.engineering.com/binders-12-pin-m8-interface-becomes-part-of-the-standard/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "One order, every process: What FACTUREE brings to U.S. manufacturers",
+      "category": "MECHANICAL",
+      "date": "2026-11-23T14:11:14+00:00",
+      "url": "https://www.engineering.com/one-order-every-process-what-facturee-brings-to-u-s-manufacturers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "PTC expands FedRAMP offerings for federal agencies",
+      "category": "MECHANICAL",
+      "date": "2026-11-23T14:03:06+00:00",
+      "url": "https://www.engineering.com/ptc-expands-fedramp-offerings-for-federal-agencies/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "HP and Mission 44 introduce students to STEM careers",
+      "category": "MECHANICAL",
+      "date": "2026-11-23T12:36:14+00:00",
+      "url": "https://www.engineering.com/hp-and-mission-44-introduce-students-to-stem-careers/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "VulcanForms orders 200 EOS metal AM systems",
+      "category": "MECHANICAL",
+      "date": "2026-11-23T12:14:39+00:00",
+      "url": "https://www.engineering.com/vulcanforms-orders-200-eos-metal-am-systems/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "AMD NPUs support Unsloth AI workflows on Ryzen AI PCs",
+      "category": "MECHANICAL",
+      "date": "2026-11-23T11:57:08+00:00",
+      "url": "https://www.engineering.com/amd-npus-support-unsloth-ai-workflows-on-ryzen-ai-pcs/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Emerson and Databricks connect OT data to the cloud",
+      "category": "MECHANICAL",
+      "date": "2026-11-23T11:35:04+00:00",
+      "url": "https://www.engineering.com/emerson-and-databricks-connect-ot-data-to-the-cloud/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "IEA warns copper and mineral supply shortages threaten grid expansion",
+      "category": "INDUSTRY",
+      "date": "2026-11-23T11:21:55+00:00",
+      "url": "https://www.mining-technology.com/news/iea-copper-mineral-supply-shortages/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Microchip adds new qualifications for RT PolarFire devices",
+      "category": "MECHANICAL",
+      "date": "2026-11-23T11:20:31+00:00",
+      "url": "https://www.engineering.com/microchip-adds-new-qualifications-for-rt-polarfire-devices/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Octave advances AI workflows with engineering partners",
+      "category": "MECHANICAL",
+      "date": "2026-11-23T11:00:09+00:00",
+      "url": "https://www.engineering.com/octave-advances-ai-workflows-with-engineering-partners/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "How modern system-on-chip (SoC) architectures are redefining the smart meter",
+      "category": "RENEWABLE",
+      "date": "2026-11-23T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/how-modern-system-on-chip-soc-architectures-are-redefining-the-smart-meter/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Copper One agrees to acquire Quatum project in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-11-23T10:55:13+00:00",
+      "url": "https://www.mining-technology.com/news/copper-one-to-acquire-quatum-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Niron Magnetics to build $1.8bn manufacturing campus in Alabama",
+      "category": "INDUSTRY",
+      "date": "2026-11-23T08:09:24+00:00",
+      "url": "https://www.mining-technology.com/news/niron-magnetics-1-8bn-manufacturing-campus-alabama/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Newcore Gold submits mining lease application for Enchi in Ghana",
+      "category": "INDUSTRY",
+      "date": "2026-11-23T08:09:17+00:00",
+      "url": "https://www.mining-technology.com/news/newcore-mining-lease-application-enchi/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "My Story: Sharifu Kasimba",
       "category": "SAFETY",
       "date": "2026-11-22T16:32:25+00:00",
@@ -57490,5 +57650,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-23T06:15:58.052312+00:00"
+  "last_updated_utc": "2026-11-23T23:30:49.761607+00:00"
 }

@@ -2,6 +2,38 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "IEA warns copper and mineral supply shortages threaten grid expansion",
+      "category": "INDUSTRY",
+      "date": "2026-11-23T11:21:55+00:00",
+      "url": "https://www.mining-technology.com/news/iea-copper-mineral-supply-shortages/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Copper One agrees to acquire Quatum project in Canada",
+      "category": "INDUSTRY",
+      "date": "2026-11-23T10:55:13+00:00",
+      "url": "https://www.mining-technology.com/news/copper-one-to-acquire-quatum-project/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Niron Magnetics to build $1.8bn manufacturing campus in Alabama",
+      "category": "INDUSTRY",
+      "date": "2026-11-23T08:09:24+00:00",
+      "url": "https://www.mining-technology.com/news/niron-magnetics-1-8bn-manufacturing-campus-alabama/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Newcore Gold submits mining lease application for Enchi in Ghana",
+      "category": "INDUSTRY",
+      "date": "2026-11-23T08:09:17+00:00",
+      "url": "https://www.mining-technology.com/news/newcore-mining-lease-application-enchi/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Mining prices every tonne. Few price a week of delay.",
       "category": "INDUSTRY",
       "date": "2026-11-20T10:38:03+00:00",
@@ -10634,5 +10666,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-23T06:15:58.052312+00:00"
+  "last_updated_utc": "2026-11-23T23:30:49.761607+00:00"
 }

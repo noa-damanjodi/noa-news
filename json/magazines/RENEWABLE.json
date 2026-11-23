@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Is our solar really ‘American-made?’ — This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-11-23T21:35:06+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/is-our-solar-really-american-made-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "Snowy 2.0 was never going to be cheap. But it will be much cheaper than relying on batteries for storage",
+      "category": "RENEWABLE",
+      "date": "2026-11-23T20:43:07+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-storage/pumped-storage/snowy-2-0-was-never-going-to-be-cheap-but-it-will-be-much-cheaper-than-relying-on-batteries-for-storage/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "How modern system-on-chip (SoC) architectures are redefining the smart meter",
+      "category": "RENEWABLE",
+      "date": "2026-11-23T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/how-modern-system-on-chip-soc-architectures-are-redefining-the-smart-meter/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Hitachi, Bechtel team up to tackle growing lead times for power grid equipment",
       "category": "RENEWABLE",
       "date": "2026-11-19T20:56:44+00:00",
@@ -4530,5 +4554,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-23T06:15:58.052312+00:00"
+  "last_updated_utc": "2026-11-23T23:30:49.761607+00:00"
 }
