@@ -2,6 +2,46 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Ascension moves headquarters and laboratories to Culham Campus",
+      "category": "INDUSTRY",
+      "date": "2026-11-24T12:13:07+00:00",
+      "url": "https://www.mining-technology.com/news/ascension-moves-headquarters-laboratories-culham-campus/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "First Mining obtains Ontario EA approval for Springpole project",
+      "category": "INDUSTRY",
+      "date": "2026-11-24T12:12:33+00:00",
+      "url": "https://www.mining-technology.com/news/first-mining-ontario-ea-approval-springpole/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Leeuwin Metals agrees to acquire WA Gold for $17m",
+      "category": "INDUSTRY",
+      "date": "2026-11-24T10:21:36+00:00",
+      "url": "https://www.mining-technology.com/news/leeuwin-metals-to-acquire-wa-gold-17m/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Empower signs lithium offtake deal with Glencore",
+      "category": "INDUSTRY",
+      "date": "2026-11-24T08:27:34+00:00",
+      "url": "https://www.mining-technology.com/news/empower-lithium-offtake-deal-glencore/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "IRH agrees to acquire Kenmare Resources for $461m",
+      "category": "INDUSTRY",
+      "date": "2026-11-24T08:27:19+00:00",
+      "url": "https://www.mining-technology.com/news/irh-to-acquire-kenmare-resources-461m/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "Beyond smelting: how rotary furnaces improve precious metal recovery",
       "category": "INDUSTRY",
       "date": "2026-11-23T12:42:56+00:00",
@@ -10682,5 +10722,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-24T08:51:43.206695+00:00"
+  "last_updated_utc": "2026-11-24T21:59:55.107738+00:00"
 }

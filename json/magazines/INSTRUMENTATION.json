@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "ABB releases Intelleqt motor",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-24T20:11:40+00:00",
+      "url": "https://www.automationmag.com/abb-releases-intelleqt-motor/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Site visit: Automation in motion",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-24T15:39:04+00:00",
+      "url": "https://www.automationmag.com/site-visit-automation-in-motion/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Industry pulls together at ADM Montréal",
       "category": "INSTRUMENTATION",
       "date": "2026-11-23T21:41:19+00:00",
@@ -3498,5 +3514,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-24T08:51:43.206695+00:00"
+  "last_updated_utc": "2026-11-24T21:59:55.107738+00:00"
 }
