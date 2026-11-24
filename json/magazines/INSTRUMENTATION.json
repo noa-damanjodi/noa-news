@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Industry pulls together at ADM Montréal",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-23T21:41:19+00:00",
+      "url": "https://www.automationmag.com/industry-pulls-together-at-adm-montreal/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Ontario celebrates $5 billion investment from Ford of Canada",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-23T15:12:16+00:00",
+      "url": "https://www.automationmag.com/ontario-celebrates-5-billion-investment-from-ford-of-canada/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Deep Dive: 2027 Advanced Manufacturing Outlook Report",
       "category": "INSTRUMENTATION",
       "date": "2026-11-20T15:38:21+00:00",
@@ -3482,5 +3498,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-23T23:30:49.761607+00:00"
+  "last_updated_utc": "2026-11-24T08:51:43.206695+00:00"
 }

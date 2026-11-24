@@ -2,6 +2,22 @@
   "category": "INDUSTRY",
   "items": [
     {
+      "title": "Beyond smelting: how rotary furnaces improve precious metal recovery",
+      "category": "INDUSTRY",
+      "date": "2026-11-23T12:42:56+00:00",
+      "url": "https://www.mining-technology.com/analysis/beyond-smelting-how-rotary-furnaces-improve-precious-metal-recovery/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
+      "title": "Prairie Lithium produces first surface brine at Saskatchewan facility",
+      "category": "INDUSTRY",
+      "date": "2026-11-23T12:25:26+00:00",
+      "url": "https://www.mining-technology.com/news/prairie-lithium-first-surface-brine-saskatchewan/",
+      "source": "Mining Technology",
+      "type": "magazine"
+    },
+    {
       "title": "IEA warns copper and mineral supply shortages threaten grid expansion",
       "category": "INDUSTRY",
       "date": "2026-11-23T11:21:55+00:00",
@@ -10666,5 +10682,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-23T23:30:49.761607+00:00"
+  "last_updated_utc": "2026-11-24T08:51:43.206695+00:00"
 }

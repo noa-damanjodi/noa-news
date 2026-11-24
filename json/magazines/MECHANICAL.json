@@ -2,6 +2,22 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Rochester extends availability of Spansion 5V NOR Flash",
+      "category": "MECHANICAL",
+      "date": "2026-11-24T08:45:07+00:00",
+      "url": "https://www.engineering.com/rochester-extends-availability-of-spansion-5v-nor-flash/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Microsoft powers up first AMD Helios AI rack-scale system",
+      "category": "MECHANICAL",
+      "date": "2026-11-24T08:27:49+00:00",
+      "url": "https://www.engineering.com/microsoft-powers-up-first-amd-helios-ai-rack-scale-system/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "AICTE, Nemetschek sign MoU for AEC skills development",
       "category": "MECHANICAL",
       "date": "2026-11-23T15:09:05+00:00",
@@ -16434,5 +16450,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-23T23:30:49.761607+00:00"
+  "last_updated_utc": "2026-11-24T08:51:43.206695+00:00"
 }
