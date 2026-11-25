@@ -2,6 +2,30 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "American factories are competing with data centers for power — This Week in Cleantech",
+      "category": "RENEWABLE",
+      "date": "2026-11-25T18:34:36+00:00",
+      "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/american-factories-are-competing-with-data-centers-for-power-this-week-in-cleantech/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "What becomes of orphaned solar? | Q&A with Otovo",
+      "category": "RENEWABLE",
+      "date": "2026-11-25T15:28:29+00:00",
+      "url": "https://www.renewableenergyworld.com/solar/residential/what-becomes-of-orphaned-solar-qa-with-otovo/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
+      "title": "COP31 leaders warn grids and storage can’t keep pace with renewable energy growth",
+      "category": "RENEWABLE",
+      "date": "2026-11-25T11:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/cop31-leaders-warn-grids-and-storage-cant-keep-pace-with-renewable-energy-growth/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "Why the future of energy belongs to the lived experience, with Jessica O. Matthews",
       "category": "RENEWABLE",
       "date": "2026-11-24T21:06:38+00:00",
@@ -4570,5 +4594,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-25T07:27:24.741766+00:00"
+  "last_updated_utc": "2026-11-25T21:13:26.227385+00:00"
 }

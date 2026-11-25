@@ -2,6 +2,22 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Trump’s trade czar says he’s looking to accommodate Canada on some sectoral tariffs",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-25T20:07:35+00:00",
+      "url": "https://www.automationmag.com/trumps-trade-czar-says-hes-looking-to-accommodate-canada-on-some-sectoral-tariffs/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
+      "title": "Compact ultrasonic sensor lets robots “hear” their surroundings",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-25T20:01:13+00:00",
+      "url": "https://www.automationmag.com/compact-ultrasonic-sensor-lets-robots-hear-their-surroundings/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "ABB releases Intelleqt motor",
       "category": "INSTRUMENTATION",
       "date": "2026-11-24T20:11:40+00:00",
@@ -3514,5 +3530,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-25T07:27:24.741766+00:00"
+  "last_updated_utc": "2026-11-25T21:13:26.227385+00:00"
 }

@@ -2,6 +2,86 @@
   "category": "MECHANICAL",
   "items": [
     {
+      "title": "Invisibl Cloud awarded for best use of HPC/AI in the cloud in 2026",
+      "category": "MECHANICAL",
+      "date": "2026-11-25T20:40:26+00:00",
+      "url": "https://www.engineering.com/invisibl-cloud-awarded-for-best-use-of-hpc-ai-in-the-cloud-in-2026/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Adopt AI without creating your next legacy problem",
+      "category": "MECHANICAL",
+      "date": "2026-11-25T18:13:48+00:00",
+      "url": "https://www.engineering.com/adopt-ai-without-creating-your-next-legacy-problem/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "3D printing powers possibly the fastest RC plane in the world",
+      "category": "MECHANICAL",
+      "date": "2026-11-25T17:13:58+00:00",
+      "url": "https://www.engineering.com/3d-printing-powers-possibly-the-fastest-rc-plane-in-the-world/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Mouser stocks TE Connectivity’s 18P NTSEAL connectors",
+      "category": "MECHANICAL",
+      "date": "2026-11-25T13:22:37+00:00",
+      "url": "https://www.engineering.com/mouser-stocks-te-connectivitys-18p-ntseal-connectors/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Nemetschek’s dRofus wins NHS England hospital program contract",
+      "category": "MECHANICAL",
+      "date": "2026-11-25T13:11:15+00:00",
+      "url": "https://www.engineering.com/nemetscheks-drofus-wins-nhs-england-hospital-program-contract/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens and Enexis standardize Dutch grid expansion",
+      "category": "MECHANICAL",
+      "date": "2026-11-25T11:43:22+00:00",
+      "url": "https://www.engineering.com/siemens-and-enexis-standardize-dutch-grid-expansion/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Siemens expands Eigen AI agent into process industries",
+      "category": "MECHANICAL",
+      "date": "2026-11-25T11:23:39+00:00",
+      "url": "https://www.engineering.com/siemens-expands-eigen-ai-agent-into-process-industries/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "ASME sets first CATALYZE Summit for April 2027",
+      "category": "MECHANICAL",
+      "date": "2026-11-25T11:16:52+00:00",
+      "url": "https://www.engineering.com/asme-sets-first-catalyze-summit-for-april-2027/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "DigiKey announces winners of 2026 AIoT Design Challenge",
+      "category": "MECHANICAL",
+      "date": "2026-11-25T10:38:54+00:00",
+      "url": "https://www.engineering.com/digikey-announces-winners-of-2026-aiot-design-challenge/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
+      "title": "Parker completes acquisition of CIRCOR Aerospace business",
+      "category": "MECHANICAL",
+      "date": "2026-11-25T10:10:48+00:00",
+      "url": "https://www.engineering.com/parker-completes-acquisition-of-circor-aerospace-business/",
+      "source": "Engineering.com",
+      "type": "magazine"
+    },
+    {
       "title": "GM Plans Big Bump in Factory Automation",
       "category": "MECHANICAL",
       "date": "2026-11-24T20:43:43+00:00",
@@ -16506,5 +16586,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-25T07:27:24.741766+00:00"
+  "last_updated_utc": "2026-11-25T21:13:26.227385+00:00"
 }
