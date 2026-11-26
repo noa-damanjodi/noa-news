@@ -2,6 +2,14 @@
   "category": "INSTRUMENTATION",
   "items": [
     {
+      "title": "Kawasaki and Beckhoff sign MOU",
+      "category": "INSTRUMENTATION",
+      "date": "2026-11-26T15:06:30+00:00",
+      "url": "https://www.automationmag.com/kawasaki-and-beckhoff-sign-mou/",
+      "source": "Manufacturing AUTOMATION",
+      "type": "magazine"
+    },
+    {
       "title": "Trump’s trade czar says he’s looking to accommodate Canada on some sectoral tariffs",
       "category": "INSTRUMENTATION",
       "date": "2026-11-25T20:07:35+00:00",
@@ -3530,5 +3538,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-26T07:15:29.991901+00:00"
+  "last_updated_utc": "2026-11-26T21:02:14.822442+00:00"
 }

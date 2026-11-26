@@ -2,6 +2,14 @@
   "category": "RENEWABLE",
   "items": [
     {
+      "title": "Feds back $4B project to connect eastern and western electricity grids",
+      "category": "RENEWABLE",
+      "date": "2026-11-26T09:00:00+00:00",
+      "url": "https://www.renewableenergyworld.com/power-grid/transmission/feds-back-4b-project-to-connect-eastern-and-western-electricity-grids/",
+      "source": "Factor This™",
+      "type": "magazine"
+    },
+    {
       "title": "American factories are competing with data centers for power — This Week in Cleantech",
       "category": "RENEWABLE",
       "date": "2026-11-25T18:34:36+00:00",
@@ -4594,5 +4602,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-26T07:15:29.991901+00:00"
+  "last_updated_utc": "2026-11-26T21:02:14.822442+00:00"
 }
