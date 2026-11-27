@@ -2,6 +2,14 @@
   "category": "ALL",
   "items": [
     {
+      "title": "For working people, ‘eating jetlag’ may affect your heart health",
+      "category": "SAFETY",
+      "date": "2026-11-27T06:00:42+00:00",
+      "url": "https://www.safetyandhealthmagazine.com/for-working-people-eating-jetlag-may-affect-your-heart-health/",
+      "source": "Safety+Health Magazine",
+      "type": "magazine"
+    },
+    {
       "title": "Kawasaki and Beckhoff sign MOU",
       "category": "INSTRUMENTATION",
       "date": "2026-11-26T15:06:30+00:00",
@@ -58082,5 +58090,5 @@
       "type": "magazine"
     }
   ],
-  "last_updated_utc": "2026-11-26T21:02:14.822442+00:00"
+  "last_updated_utc": "2026-11-27T07:11:44.548218+00:00"
 }
